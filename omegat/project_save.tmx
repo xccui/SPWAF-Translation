@@ -9217,8 +9217,8 @@
       <tuv lang="EN-US">
         <seg>However, UNIX-based setups enjoy the richest tooling support because this environment is preferred by most Flink developers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041023Z" creationid="xccui" creationdate="20190610T041004Z">
-        <seg>但在类UNIX系统</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054019Z" creationid="xccui" creationdate="20190610T041004Z">
+        <seg>但基于类UNIX系统的设置会享有最丰富的工具支持，因为大多数Flink开发人员都喜欢这类环境。</seg>
       </tuv>
     </tu>
     <tu>
