@@ -1,0 +1,19 @@
+6/10/19 1:23 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    4189	47025	                     259624	                       302273	     6	
+Remaining:       	    2230	22516	                     128595	                       148934	     3	
+Unique:          	    3801	46237	                     253691	                       295835	     6	
+Unique Remaining:	    2016	22131	                     125175	                       145237	     3	
+
+
+Individual File Statistics:
+
+File Name   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+New-0-1.docx	           831	                 0	            760	                        0	       7372	              0	        7268	                     0	                            41055	                                    0	                             40542	                                           0	                              47479	                                      0	                               46932	                                             0	
+New-2.docx  	           445	                 0	            427	                        0	       7186	              0	        7131	                     0	                            36809	                                    0	                             36460	                                           0	                              43504	                                      0	                               43118	                                             0	
+New-3.docx  	           612	                 0	            585	                        0	       9635	              0	        9562	                     0	                            51306	                                    0	                             50782	                                           0	                              60254	                                      0	                               59685	                                             0	
+New-4.docx  	           159	               139	            137	                      125	       1611	           1430	        1572	                  1428	                             8544	                                 7651	                              8334	                                        7614	                               9998	                                   8946	                                9756	                                          8905	
+New-5.docx  	           854	               825	            780	                      780	       9098	           9026	        8919	                  8919	                            50489	                                49972	                             49165	                                       49165	                              58772	                                  58212	                               57313	                                         57313	
+New-6.docx  	          1288	              1266	           1112	                     1111	      12123	          12060	       11785	                 11784	                            71421	                                70972	                             68408	                                       68396	                              82266	                                  81776	                               79031	                                         79019	

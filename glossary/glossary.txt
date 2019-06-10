@@ -1,0 +1,57 @@
+Stateful Stream Processing	状态化流处理
+Event-driven Applications	事件驱动型应用
+Data Pipelines	数据管道
+Real-time ETL	实时ETL
+Streaming Analytics	流式分析
+Evolution	衍变
+Stream Processing	流处理
+dataflow	dataflow
+strategies	策略
+Latency	延迟
+throughput	吞吐
+Operation	操作
+Processing time	处理时间
+Event time	事件时间
+Summary	总结
+Architecture	架构
+Application	应用
+Task	任务
+Timestamp	时间戳
+Operator	算子
+State Backend	状态后端
+TypeInformation	TypeInformation
+Time Characteristic	时间特性
+Late Data	迟到数据
+Stateful Function	有状态函数
+Stateful Application	状态化应用
+Robustness	鲁棒性
+Connector	连接器
+Source Connector	源连接器
+Task Chaining	任务链接
+Metric	指标
+analytical query	分析类查询
+transactional database	事务型数据库
+transactional data	事物数据
+complex event processing	复杂事件处理
+ad-hoc queries	即席查询
+connected system	互联系统
+Transactional	事务
+Ad-hoc	即席
+stream processor	流处理引擎
+batch processor	批处理引擎
+hashtag	主题标签
+Rolling aggregation	滚动聚合
+holistic aggregate	整体聚合
+Tumbling window	滚动窗口
+Watermark	水位线
+partitioned operator state	分组算子状态
+Exactly Once	精确一次
+At Least Once	至少一次
+At Most Once	至多一次
+idempotent	幂等
+resource provider	资源提供者
+late record	迟到记录
+queryable state	可查询式状态
+embedded execution	嵌入式执行
+credit-based	基于信用值
+checkpoint barrier	检查点分隔符
