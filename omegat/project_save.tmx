@@ -20691,8 +20691,8 @@
       <tuv lang="EN-US">
         <seg>You can develop and execute Flink applications on Linux, macOS, and Windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040939Z" creationid="xccui" creationdate="20190610T040911Z">
-        <seg>你可以在Linux、maxOS以及Windows等常见操作系统上开发和运行Flink应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054036Z" creationid="xccui" creationdate="20190610T040911Z">
+        <seg>你可以在Linux、maxOS以及Windows等常见操作系统上开发和运行Flink应用，</seg>
       </tuv>
     </tu>
     <tu>
