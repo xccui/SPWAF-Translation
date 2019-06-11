@@ -12153,8 +12153,8 @@
       <tuv lang="EN-US">
         <seg>Just like many DataStream applications, the source, sink, and opera‐ tors of the program are assembled in the main() method of the AverageSensorRead ings class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042751Z" creationid="xccui" creationdate="20190611T042751Z">
-        <seg>和大多数DataStream应用一样，该程序的数据源、数据汇以及其他算子都是在（AverageSensorReadings类的）main()方法中组装的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042849Z" creationid="xccui" creationdate="20190611T042751Z">
+        <seg>和大多数DataStream应用一样，该程序的数据源、数据汇以及其他算子都是在（AverageSensorReadings类的）main()方法中组装的，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19020,6 +19020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T043556Z" creationid="xccui" creationdate="20190605T043556Z">
         <seg>在某种程度上，使用数据管道应用来导入数据可以降低延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start the application, run the main() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042857Z" creationid="xccui" creationdate="20190611T042842Z">
+        <seg>直接运行它就能启动应用。</seg>
       </tuv>
     </tu>
     <tu>
