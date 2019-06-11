@@ -16504,6 +16504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The book examples are provided as a Maven project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040502Z" creationid="xccui" creationdate="20190611T040502Z">
+        <seg>书中的示例都是以Maven项目的形式提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The broadcast strategy sends every data item to all parallel tasks of an operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233431Z" creationid="xccui" creationdate="20190605T233431Z">
@@ -21329,6 +21337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>git clone https://github.com/streaming-with-flink/examples-scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040428Z" creationid="xccui" creationdate="20190611T040428Z">
+        <seg>git clone https://github.com/streaming-with-flink/examples-scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>https://github.com/streaming-with-flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210814Z" creationid="esouser" creationdate="20190603T210814Z">
@@ -21609,6 +21625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>unzip master.zip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040435Z" creationid="xccui" creationdate="20190611T040435Z">
+        <seg>unzip master.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>up with the events happening now, it can continue as a real-time application using exactly the same program logic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T155347Z" creationid="xccui" creationdate="20190412T155347Z">
@@ -21669,6 +21693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234106Z" creationid="xccui" creationdate="20190605T234106Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040424Z" creationid="xccui" creationdate="20190611T040424Z">
+        <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
       </tuv>
     </tu>
     <tu>
