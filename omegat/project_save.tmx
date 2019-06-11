@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>72 | Chapter 4: Setting Up a Development Environment for Apache Flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040223Z" creationid="xccui" creationdate="20190611T040223Z">
+        <seg>72 | 第4章：设置Apaceh Flink开发环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>73</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035600Z" creationid="xccui" creationdate="20190418T035600Z">
