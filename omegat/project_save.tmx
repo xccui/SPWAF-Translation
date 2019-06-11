@@ -10879,6 +10879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we describe how to obtain the code examples we use here, how to import them into IntelliJ, how to run an example application, and how to debug it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035122Z" creationid="xccui" creationdate="20190611T035122Z">
+        <seg>下文我们会介绍如何获取书中用到的代码，如何将它们导入IntelliJ，以及如何运行和调试它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we describe in detail how a task emits watermarks to multiple output tasks and how it advances its event-time clock from the watermarks it receives from its input tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T024024Z" creationid="xccui" creationdate="20190607T015241Z">
