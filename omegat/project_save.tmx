@@ -4207,6 +4207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As discussed in “A Quick Look at Flink” on page 12, the program generates read events for multiple thermal sensors, converts the temperature of the events from Fahrenheit to Celsius, and computes the average temperature of each sensor every second.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042330Z" creationid="xccui" creationdate="20190611T042330Z">
+        <seg>我们在第12页"Flink快览"中讲过，这个程序会模拟生成多个热传感器的度数事件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As motivated in &lt;t2/&gt;Chapter 2&lt;t3/&gt;, a certain degree of timestamp out-of-orderness is given in basically all real-world use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040054Z" creationid="xccui" creationdate="20190523T040054Z">
