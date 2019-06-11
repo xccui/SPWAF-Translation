@@ -13191,6 +13191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all tasks are up and running, the pro‐ gram starts to produce its results, which should look similar to the following lines:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043424Z" creationid="xccui" creationdate="20190611T043424Z">
+        <seg>一旦所有任务启动起来并开始运行，程序就会开始生成类似下面这样的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once an application is submitted for execution, it starts a JobManager and hands the application over.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142904Z" creationid="xccui" creationdate="20190606T142857Z">
