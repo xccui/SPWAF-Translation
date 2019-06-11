@@ -6449,8 +6449,8 @@
       <tuv lang="EN-US">
         <seg>Even though Flink is a distributed data processing system, you will typically develop and run initial tests on your local machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T032039Z" creationid="xccui" creationdate="20190611T031040Z">
-        <seg>虽然Flink是一个分布式的数据处理系统，但你通常需要在本地计算机上进行开发并运行一些初始测试。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T032142Z" creationid="xccui" creationdate="20190611T031040Z">
+        <seg>虽然Flink是一个分布式的数据处理系统，但你通常可以在本地计算机上进行开发并运行一些初始测试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18180,6 +18180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190313T005726Z" creationid="xccui" creationdate="20190312T214059Z">
         <seg>这在Flink保存点（savepoint）功能的加持下，尤为引人注目。所谓保存点功能是指在保证一致性的前提下，允许将应用状态重置到先前某个保存的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes development easier and sim‐ plifies cluster deployment, as you can run the exact same code in a cluster environ‐ ment without making any changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T032127Z" creationid="xccui" creationdate="20190611T032127Z">
+        <seg>这使开发变得更容易</seg>
       </tuv>
     </tu>
     <tu>
