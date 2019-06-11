@@ -17418,8 +17418,8 @@
       <tuv lang="EN-US">
         <seg>The program will continue to generate new events, process them, and emit new results every second until you terminate it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043547Z" creationid="xccui" creationdate="20190611T043547Z">
-        <seg>如果不手工终止，这个程序会一直生成新的事件、处理它们并每秒产生新的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043558Z" creationid="xccui" creationdate="20190611T043547Z">
+        <seg>如果不手动终止，这个程序会一直生成新的事件、处理它们并每秒产生新的结果。</seg>
       </tuv>
     </tu>
     <tu>
