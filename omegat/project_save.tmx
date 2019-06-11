@@ -4359,6 +4359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the book’s GitHub page, you will find one repository with Scala examples and one repository with Java exam‐ ples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035708Z" creationid="xccui" creationdate="20190611T035708Z">
+        <seg>在书籍的GitHub页面上，你会看到两个分别包含Scala示例和Java示例的代码库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, the result completeness might suffer because relevant records might not be included in the result and would be considered as late records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T040404Z" creationid="xccui" creationdate="20190529T040337Z">
@@ -10881,8 +10889,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we describe how to obtain the code examples we use here, how to import them into IntelliJ, how to run an example application, and how to debug it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035122Z" creationid="xccui" creationdate="20190611T035122Z">
-        <seg>下文我们会介绍如何获取书中用到的代码，如何将它们导入IntelliJ，以及如何运行和调试它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035134Z" creationid="xccui" creationdate="20190611T035122Z">
+        <seg>下文我们会介绍如何获取书中用到的代码，如何将它们导入IntelliJ以及如何运行和调试它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16524,6 +16532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030150Z" creationid="xccui" creationdate="20190611T020420Z">
         <seg>书中示例代码都是使用Maven来构建管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The code examples of this book are hosted on GitHub.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035214Z" creationid="xccui" creationdate="20190611T035214Z">
+        <seg>本书的示例代码托管在GitHub上。</seg>
       </tuv>
     </tu>
     <tu>
