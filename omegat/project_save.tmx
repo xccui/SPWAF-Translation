@@ -13233,8 +13233,8 @@
       <tuv lang="EN-US">
         <seg>Open a terminal and run the following Git command to clone the examples-scala</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035954Z" creationid="xccui" creationdate="20190611T035954Z">
-        <seg>打开终端运行以下Git命令将examples-scala库克隆下来。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040102Z" creationid="xccui" creationdate="20190611T035954Z">
+        <seg>打开终端运行以下Git命令将examples-scala库克隆到你的机器上1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21484,6 +21484,14 @@
         <seg>rect answers to these questions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025245Z" creationid="xccui" creationdate="20190606T025245Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>repository to your local machine:1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040104Z" creationid="xccui" creationdate="20190611T040104Z">
         <seg></seg>
       </tuv>
     </tu>
