@@ -7559,6 +7559,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 4-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041603Z" creationid="xccui" creationdate="20190611T041603Z">
+        <seg>图4-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 4-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041632Z" creationid="xccui" creationdate="20190611T041632Z">
+        <seg>图4-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 4-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041648Z" creationid="xccui" creationdate="20190611T041648Z">
+        <seg>图4-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -8911,6 +8935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give your project a name and click Finish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041704Z" creationid="xccui" creationdate="20190611T041704Z">
+        <seg>为项目命名，然后单击Finish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Given a Flink setup with four TaskManagers that provide two slots each, a streaming application can be executed with a maximum par&lt;t0/&gt;‐&lt;t1/&gt; allelism of eight.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205754Z" creationid="xccui" creationdate="20190428T205630Z">
@@ -9963,6 +9995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144859Z" creationid="esouser" creationdate="20190603T144859Z">
         <seg>将书中示例导入IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import the book examples repository into IntelliJ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041629Z" creationid="xccui" creationdate="20190611T041629Z">
+        <seg>将书中示例仓库导入IntelliJ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14560,6 +14600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Maven project to import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041645Z" creationid="xccui" creationdate="20190611T041645Z">
+        <seg>选择要导入的Maven项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selling or distributing a CD-ROM of examples from O’Reilly books does require permission.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210819Z" creationid="esouser" creationdate="20190603T210819Z">
@@ -16036,6 +16084,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210230Z" creationid="xccui" creationdate="20190402T204424Z">
         <seg>确切地说，如果咖啡店只有你一名顾客，你将得到最快的服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s it!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041710Z" creationid="xccui" creationdate="20190611T041710Z">
+        <seg>就这么简单！</seg>
       </tuv>
     </tu>
     <tu>
