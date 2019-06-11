@@ -19640,6 +19640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usually, the program’s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051407Z" creationid="xccui" creationdate="20190611T051407Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Value state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T215622Z" creationid="xccui" creationdate="20190607T192625Z">
@@ -21709,6 +21717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031232Z" creationid="xccui" creationdate="20190606T031232Z">
         <seg>总之，虽然处理时间提供了很低的延迟，但它的结果依赖处理速度，具有不确定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>main() method assembles the dataflow and submits it to a remote JobManager when the StreamExecutionEnvironment.execute() method is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051801Z" creationid="xccui" creationdate="20190611T051412Z">
+        <seg>通常情况下程序的main()方法会把dataflow组装好，然后在StreamExecutionEnvironment.execute()方法被调用时将其提交到远程的JobManager上。</seg>
       </tuv>
     </tu>
     <tu>
