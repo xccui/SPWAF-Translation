@@ -9631,6 +9631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there are a few things to consider when debugging a Flink application in an IDE:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053805Z" creationid="xccui" creationdate="20190611T053805Z">
+        <seg>但在调试时需要注意一下几点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there is also a mode in which the call of the execute() method starts a Job‐ Manager and a TaskManager (by default with as many slots as available CPU threads) as separate threads within the same JVM. Consequently, the whole Flink application is multithreaded and executed within the same JVM process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052546Z" creationid="xccui" creationdate="20190611T052546Z">
@@ -21155,8 +21163,8 @@
       <tuv lang="EN-US">
         <seg>You can define breakpoints in the code and debug your application as you would normally do.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053328Z" creationid="xccui" creationdate="20190611T053048Z">
-        <seg>如同往常一样，在代码里设置断点，调试应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053653Z" creationid="xccui" creationdate="20190611T053048Z">
+        <seg>就如同往常一般，在代码里设置断点，开启调试。</seg>
       </tuv>
     </tu>
     <tu>
