@@ -21153,6 +21153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can define breakpoints in the code and debug your application as you would normally do.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053048Z" creationid="xccui" creationdate="20190611T053048Z">
+        <seg>你可以像往常一样在代码中设置断点，调试应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can develop and execute Flink applications on Linux, macOS, and Windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054036Z" creationid="xccui" creationdate="20190610T040911Z">
