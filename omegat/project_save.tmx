@@ -21169,6 +21169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should now be able to browse and inspect the code of the book exam‐ ples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041759Z" creationid="xccui" creationdate="20190611T041759Z">
+        <seg>你现在应该就能浏览和研究书中示例的代码了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should see a job listed under “Running Jobs.” If you click on that job, you will see the dataflow and live metrics about the opera‐ tors of the running job similar to the screenshot in Figure 1-9.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123742Z" creationid="xccui" creationdate="20190605T123657Z">
