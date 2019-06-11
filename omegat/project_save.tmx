@@ -13231,6 +13231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open a terminal and run the following Git command to clone the examples-scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035954Z" creationid="xccui" creationdate="20190611T035954Z">
+        <seg>打开终端运行以下Git命令将examples-scala库克隆下来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open source communities are constantly improving the capabilities of their projects and are pushing the technical boundaries of stream pro‐ cessing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050637Z" creationid="xccui" creationdate="20190605T050637Z">
