@@ -16856,6 +16856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The import steps are similar for most IDEs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040757Z" creationid="xccui" creationdate="20190611T040757Z">
+        <seg>大多数IDE的导入步骤都很类似，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The importance of state becomes even more evident if we consider the case of using a batch processing system to analyze an unbounded data set.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T053157Z" creationid="xccui" creationdate="20190414T053157Z">
