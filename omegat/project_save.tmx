@@ -19810,8 +19810,8 @@
       <tuv lang="EN-US">
         <seg>We will be assuming a UNIX-based setup in the rest of this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054929Z" creationid="xccui" creationdate="20190610T054905Z">
-        <seg>我们会在本章剩余部分假设配置都是基于类UNIX系统来完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T014324Z" creationid="xccui" creationdate="20190610T054905Z">
+        <seg>本章剩余部分假设设置都是基于类UNIX系统来完成。</seg>
       </tuv>
     </tu>
     <tu>
