@@ -7559,6 +7559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
+        <seg>图4-1到图4-3展示了导入过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File System Configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025511Z" creationid="xccui" creationdate="20190225T025511Z">
