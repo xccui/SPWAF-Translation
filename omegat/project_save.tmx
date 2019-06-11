@@ -12871,6 +12871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now open your IDE and import the Maven project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040711Z" creationid="xccui" creationdate="20190611T040711Z">
+        <seg>现在就可以打开你的IDE，把Maven项目导进去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now that we have all that knowledge, it’s time to get our hands dirty and start devel‐ oping Flink applications!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T034012Z" creationid="xccui" creationdate="20190610T033449Z">
@@ -21741,6 +21749,102 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T052353Z" creationid="xccui" creationdate="20190416T052353Z">
         <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>│</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040608Z" creationid="xccui" creationdate="20190611T040608Z">
+        <seg>│</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040619Z" creationid="xccui" creationdate="20190611T040619Z">
+        <seg>└── ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── AverageSensorReadings.scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040611Z" creationid="xccui" creationdate="20190611T040611Z">
+        <seg>└── AverageSensorReadings.scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── github</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040556Z" creationid="xccui" creationdate="20190611T040556Z">
+        <seg>└── github</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── io</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040552Z" creationid="xccui" creationdate="20190611T040552Z">
+        <seg>└── io</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── main</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040540Z" creationid="xccui" creationdate="20190611T040540Z">
+        <seg>└── main</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040543Z" creationid="xccui" creationdate="20190611T040543Z">
+        <seg>└── scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── streamingwithflink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040559Z" creationid="xccui" creationdate="20190611T040559Z">
+        <seg>└── streamingwithflink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── util</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040628Z" creationid="xccui" creationdate="20190611T040628Z">
+        <seg>└── util</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040621Z" creationid="xccui" creationdate="20190611T040621Z">
+        <seg>├── ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── chapter1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040604Z" creationid="xccui" creationdate="20190611T040604Z">
+        <seg>├── chapter1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── chapter5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040614Z" creationid="xccui" creationdate="20190611T040614Z">
+        <seg>├── chapter5</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
