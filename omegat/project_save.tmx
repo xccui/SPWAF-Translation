@@ -12151,6 +12151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just like many DataStream applications, the source, sink, and opera‐ tors of the program are assembled in the main() method of the AverageSensorRead ings class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042751Z" creationid="xccui" creationdate="20190611T042751Z">
+        <seg>和大多数DataStream应用一样，该程序的数据源、数据汇以及其他算子都是在（AverageSensorReadings类的）main()方法中组装的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Selectors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145630Z" creationid="esouser" creationdate="20190603T145630Z">
