@@ -9295,6 +9295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, you should be aware that you might debug a multithreaded program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054146Z" creationid="xccui" creationdate="20190611T054146Z">
+        <seg>所以你应该有可能要调试多线程程序的觉悟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, we briefly review some common data exchange strate&lt;t2/&gt;‐&lt;t3/&gt; gies, as shown in &lt;t4/&gt;Figure 2-3&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T034906Z" creationid="xccui" creationdate="20190401T034747Z">
