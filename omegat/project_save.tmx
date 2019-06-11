@@ -18536,6 +18536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This mode is used to execute a Flink program within an IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052637Z" creationid="xccui" creationdate="20190611T052637Z">
+        <seg>该模式可用于在IDE中执行Flink应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This problem is commonly solved by delegating state management to an external system, such as a database.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T054012Z" creationid="xccui" creationdate="20190414T053952Z">
