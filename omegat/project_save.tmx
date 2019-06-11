@@ -9623,6 +9623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there is also a mode in which the call of the execute() method starts a Job‐ Manager and a TaskManager (by default with as many slots as available CPU threads) as separate threads within the same JVM. Consequently, the whole Flink application is multithreaded and executed within the same JVM process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052546Z" creationid="xccui" creationdate="20190611T052546Z">
+        <seg>但除此之外还有一种执行模式：当execute()方法被调用时，会在同一个JVM中以独立线程的方式启动一个JobManager线程和一个TaskManager（默认的处理槽数等于???CPU可用线程数???）。这样，整个Flink应用会以多线程的方式在同一个JVM进程中执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they do not meet the latency requirements for many of today’s use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T062139Z" creationid="xccui" creationdate="20190604T055430Z">
