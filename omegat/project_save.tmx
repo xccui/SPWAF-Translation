@@ -18186,8 +18186,8 @@
       <tuv lang="EN-US">
         <seg>This makes development easier and sim‐ plifies cluster deployment, as you can run the exact same code in a cluster environ‐ ment without making any changes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T034811Z" creationid="xccui" creationdate="20190611T032127Z">
-        <seg>这让开发过程变得更容易，也让集群部署变得更简单，因为你可以在不对代码进行任何修改的情况下直接放到集群环境中运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T034912Z" creationid="xccui" creationdate="20190611T032127Z">
+        <seg>这让开发过程变得更容易，也让集群部署变得更简单，因为你可以在不对代码进行任何修改的情况下直接切换到集群环境中运行。</seg>
       </tuv>
     </tu>
     <tu>
