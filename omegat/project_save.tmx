@@ -19944,6 +19944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will be using the Scala repository for the setup, but you should be able to follow the same instructions if you prefer Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035846Z" creationid="xccui" creationdate="20190611T035846Z">
+        <seg>我们将选用Scala库进行设置，但如果你想用Java，步骤也是类似的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will briefly discuss the most common keyed state primitives.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T192620Z" creationid="xccui" creationdate="20190607T192620Z">
