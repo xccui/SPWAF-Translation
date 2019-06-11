@@ -12639,6 +12639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to File -&gt; New -&gt; Project from Existing Sources, select the book examples folder examples-scala, and click OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041215Z" creationid="xccui" creationdate="20190611T041215Z">
+        <seg>依次找到File -&gt; New -&gt; Project from Existing Sources，选择书中示例文件夹examples-scala，点击OK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New distributed stream processing projects are continuously entering the open source stage and are challenging the state-of-the-art with new features and capabilities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T054015Z" creationid="xccui" creationdate="20190319T054015Z">
