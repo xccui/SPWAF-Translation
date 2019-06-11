@@ -20849,6 +20849,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also download the source code of the examples as a zip-archive from GitHub:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040419Z" creationid="xccui" creationdate="20190611T040419Z">
+        <seg>你也可以把示例代码以zip压缩包的形式从GitHub上下载下来：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also just take a savepoint to version and archive the state of an applica‐ tion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213419Z" creationid="xccui" creationdate="20190609T213419Z">
