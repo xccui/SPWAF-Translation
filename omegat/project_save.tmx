@@ -6231,6 +6231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the single JVM execution mode, it is also possible to debug Flink applications in an IDE almost like any other program in your IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052843Z" creationid="xccui" creationdate="20190611T052843Z">
+        <seg>由于单JVM执行模式的存在，我们还可以像调试其他程序一样在IDE中调试Flink应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to this replication of data, the data stores must be kept in sync.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T070309Z" creationid="xccui" creationdate="20190314T070309Z">
