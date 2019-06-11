@@ -2456,8 +2456,8 @@
       <tuv lang="EN-US">
         <seg>A Java JRE is not sufficient.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015626Z" creationid="xccui" creationdate="20190611T015626Z">
-        <seg>只有Java JRE是不行的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015648Z" creationid="xccui" creationdate="20190611T015626Z">
+        <seg>只有Java JRE是不够的。</seg>
       </tuv>
     </tu>
     <tu>
