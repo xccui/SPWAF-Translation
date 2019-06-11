@@ -20817,6 +20817,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can follow the instruc‐ tions at the IntelliJ IDEA website to download and install it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030717Z" creationid="xccui" creationdate="20190611T030717Z">
+        <seg>你可以按照IntelliJ IDEA官网的说明下载并安装它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can monitor the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130301Z" creationid="xccui" creationdate="20190605T130301Z">
