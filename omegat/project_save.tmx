@@ -10927,6 +10927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we explain this step in detail for IntelliJ.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041003Z" creationid="xccui" creationdate="20190611T040830Z">
+        <seg>下文我们会以IntelliJ为例解释这一步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we present three classes of applications that are commonly implemented using stateful stream processing: (1) event-driven applications, (2) data pipeline applications, and (3) data analytics applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T212222Z" creationid="esouser" creationdate="20190603T212154Z">
