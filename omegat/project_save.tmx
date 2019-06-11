@@ -2854,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A project import wizard will guide you though the next steps, such as selecting the Maven project to import (there should only be one), selecting the SDK, and naming the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041529Z" creationid="xccui" creationdate="20190611T041529Z">
+        <seg>根据导入向导的指示完成后续步骤，例如：选择要导入的Maven项目（应该只有一个），选择SDK，为项目命名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A receiving task grants some credit to a sending task, i.e., a number of network buffers that are reserved to receive its data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T143724Z" creationid="esouser" creationdate="20190513T210814Z">
