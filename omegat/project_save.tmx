@@ -8207,6 +8207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s DataStream API is available for Java and Scala.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T014730Z" creationid="xccui" creationdate="20190611T014730Z">
+        <seg>Flink的DataStream API同时支持Java和Scala。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s batch processing API, the DataSet API, and the runtime are separate from their corresponding stream&lt;t0/&gt;‐&lt;t1/&gt; ing counterparts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T060914Z" creationid="xccui" creationdate="20190328T060503Z">
