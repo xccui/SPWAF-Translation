@@ -8209,8 +8209,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s DataStream API is available for Java and Scala.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015008Z" creationid="xccui" creationdate="20190611T014730Z">
-        <seg>Flink的DataStream API支持Java和Scala语言。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015102Z" creationid="xccui" creationdate="20190611T014730Z">
+        <seg>Flink的DataStream API支持Java和Scala语言，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8977,8 +8977,8 @@
       <tuv lang="EN-US">
         <seg>Hence, a Java JDK is required to implement Flink DataStream applications—Java JDK 8 (or higher).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015059Z" creationid="xccui" creationdate="20190611T014959Z">
-        <seg>因此在写DataStream 应用之前你需要安装Java JDK 8或更高版本。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015601Z" creationid="xccui" creationdate="20190611T014959Z">
+        <seg>因此在写DataStream 应用之前需要安装Java JDK 8或更高版本。</seg>
       </tuv>
     </tu>
     <tu>
