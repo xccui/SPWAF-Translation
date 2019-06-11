@@ -12415,6 +12415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, Flink provides Maven archetypes to bootstrap new Flink Maven projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020723Z" creationid="xccui" creationdate="20190611T020723Z">
+        <seg>此外，Flink还提供了Maven模型（Maven archetypes）来启用新的Flink Maven项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, even though events were not lost, they could be processed more than once.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051608Z" creationid="xccui" creationdate="20190605T051608Z">
@@ -16476,6 +16484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T224148Z" creationid="xccui" creationdate="20190608T224148Z">
         <seg>在所有任务完成自己的拷贝工作后，检查点生成完毕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The code examples of the book use Maven build manage‐ ment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020420Z" creationid="xccui" creationdate="20190611T020420Z">
+        <seg>书中示例代码使用Maven构建管理。</seg>
       </tuv>
     </tu>
     <tu>
