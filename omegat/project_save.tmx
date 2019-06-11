@@ -14560,6 +14560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for the AverageSensorReadings class and open it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042128Z" creationid="xccui" creationdate="20190611T042128Z">
+        <seg>找到AverageSensorReadings类，打开它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sebastopol</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210641Z" creationid="esouser" creationdate="20190603T210641Z">
