@@ -21089,6 +21089,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will find the source code in the src/ directory, grouped by chapter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040535Z" creationid="xccui" creationdate="20190611T040535Z">
+        <seg>你可以在src/目录中找到按照章节分好的源代码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will learn how to implement a DataStream application and which stream transforma‐ tions, functions, and data types are supported.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T161514Z" creationid="esouser" creationdate="20190603T161436Z">
