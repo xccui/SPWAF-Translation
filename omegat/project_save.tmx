@@ -12727,6 +12727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next, let’s run one of the book example applications in your IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042102Z" creationid="xccui" creationdate="20190611T042102Z">
+        <seg>下一步让我们尝试在IDE里运行书中的一个示例程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next, we describe the semantics of common window types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012953Z" creationid="xccui" creationdate="20190606T012936Z">
