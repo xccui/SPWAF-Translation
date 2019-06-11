@@ -3558,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although a program is executed in a single JVM, records are serialized for cross- thread communication and possibly state persistance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054835Z" creationid="xccui" creationdate="20190611T054835Z">
+        <seg>虽然程序运行在单个JVM内，但出于跨线程通信或可能存在的状态持久化考虑，记录都会被序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although not being covered in this book but certainly worth mentioning is that Flink also provides support for analytical SQL queries over streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T040637Z" creationid="xccui" creationdate="20190319T040637Z">
