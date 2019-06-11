@@ -12311,6 +12311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure that “Import project from external model” and “Maven” are selected and click Next.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041318Z" creationid="xccui" creationdate="20190611T041318Z">
+        <seg>确保勾上"Import project from external model"以及"Maven"两个选项，然后点击Next。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Managing Applications with the Command-Line Client</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025929Z" creationid="xccui" creationdate="20190225T025929Z">
