@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&gt; SensorReading(sensor_38,1515014051000,14.781835420242471)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043437Z" creationid="xccui" creationdate="20190611T043437Z">
+        <seg>1&gt; SensorReading(sensor_38,1515014051000,14.781835420242471)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144708Z" creationid="esouser" creationdate="20190603T144708Z">
@@ -1534,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2&gt; SensorReading(sensor_31,1515014051000,23.924656183848732)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043428Z" creationid="xccui" creationdate="20190611T043428Z">
+        <seg>2&gt; SensorReading(sensor_31,1515014051000,23.924656183848732)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144712Z" creationid="esouser" creationdate="20190603T144712Z">
@@ -1702,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3&gt; SensorReading(sensor_34,1515014051000,23.871433252250583)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043441Z" creationid="xccui" creationdate="20190611T043441Z">
+        <seg>3&gt; SensorReading(sensor_34,1515014051000,23.871433252250583)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144716Z" creationid="esouser" creationdate="20190603T144716Z">
@@ -1818,6 +1842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T041055Z" creationid="xccui" creationdate="20190414T041055Z">
         <seg>49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4&gt; SensorReading(sensor_32,1515014051000,4.118569049862492)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043432Z" creationid="xccui" creationdate="20190611T043432Z">
+        <seg>4&gt; SensorReading(sensor_32,1515014051000,4.118569049862492)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17380,6 +17412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T174938Z" creationid="xccui" creationdate="20190609T162722Z">
         <seg>这个等待所有分隔符到达的过程称为分隔符对齐，我们在图3-22中对它进行了阐述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The program will continue to generate new events, process them, and emit new results every second until you terminate it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043547Z" creationid="xccui" creationdate="20190611T043547Z">
+        <seg>如果不手工终止，这个程序会一直生成新的事件、处理它们并每秒产生新的结果。</seg>
       </tuv>
     </tu>
     <tu>
