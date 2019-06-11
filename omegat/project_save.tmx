@@ -17304,6 +17304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The output starts with a few log statements about the states that parallel operator tasks go through, such as SCHED‐ ULING, DEPLOYING, and RUNNING.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043225Z" creationid="xccui" creationdate="20190611T043225Z">
+        <seg>输出以几行日志语句开始，它们记录了并行算子所经历的一些状态，例如：SCHEDULING、DEPLOYING和RUNNING。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The previous chapter discussed important concepts of distributed stream processing, such as parallelization, time, and state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T053758Z" creationid="xccui" creationdate="20190416T053731Z">
