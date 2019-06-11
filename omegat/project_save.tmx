@@ -3990,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Maven 3.x.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020152Z" creationid="xccui" creationdate="20190611T020152Z">
+        <seg>Apache Maven 3.x版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apart from having a practical value, windows also enable semantically interesting queries on streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T042412Z" creationid="xccui" creationdate="20190406T042112Z">
