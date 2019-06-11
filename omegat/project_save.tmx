@@ -4361,8 +4361,8 @@
       <tuv lang="EN-US">
         <seg>At the book’s GitHub page, you will find one repository with Scala examples and one repository with Java exam‐ ples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035708Z" creationid="xccui" creationdate="20190611T035708Z">
-        <seg>在书籍的GitHub页面上，你会看到两个分别包含Scala示例和Java示例的代码库。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035852Z" creationid="xccui" creationdate="20190611T035708Z">
+        <seg>在书籍的GitHub页面上，你会看到两个分别包含Scala示例和Java示例的代码仓库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19946,8 +19946,8 @@
       <tuv lang="EN-US">
         <seg>We will be using the Scala repository for the setup, but you should be able to follow the same instructions if you prefer Java.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035846Z" creationid="xccui" creationdate="20190611T035846Z">
-        <seg>我们将选用Scala库进行设置，但如果你想用Java，步骤也是类似的</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035926Z" creationid="xccui" creationdate="20190611T035846Z">
+        <seg>我们将选用Scala仓库进行设置，但如果你想用Java，也可以遵循相同的说明。</seg>
       </tuv>
     </tu>
     <tu>
