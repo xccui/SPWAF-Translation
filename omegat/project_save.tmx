@@ -3542,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An IDE for Java and/or Scala development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020738Z" creationid="xccui" creationdate="20190611T020738Z">
+        <seg>用于Java/Scala开发的IDE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An alternative is to use an event log to distribute updates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T062315Z" creationid="xccui" creationdate="20190604T062308Z">
