@@ -17288,6 +17288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The output of the program is written to the standard out (or console) window of your IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042955Z" creationid="xccui" creationdate="20190611T042955Z">
+        <seg>程序的输出会写到你IDE的标准输出（或控制台）窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The output of the source tasks is partitioned into streams of  even and odd numbers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T062132Z" creationid="xccui" creationdate="20190609T062059Z">
