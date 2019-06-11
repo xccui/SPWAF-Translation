@@ -4127,6 +4127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a Windows user you can use the Windows subsystem for Linux (WSL), Cygwin, or a Linux virtual machine to run Flink in a UNIX environ‐ ment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T014711Z" creationid="xccui" creationdate="20190611T014711Z">
+        <seg>如果你是Windows用户，可以使用自带的（译者注：Win10版本以上）Linux子系统（WSL）、Cygwin或Linux虚拟机来在类UNIX环境下运行Flink。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a con‐ sequence, an application with default operator identifiers is very limited in how it can be evolved without losing state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T030644Z" creationid="xccui" creationdate="20190610T025637Z">
