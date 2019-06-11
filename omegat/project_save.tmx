@@ -19504,6 +19504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We assume the following software is installed as well, although it is not strictly required to develop Flink applications:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020130Z" creationid="xccui" creationdate="20190611T020130Z">
+        <seg>此外虽不强制，但我们假设以下软件也已装好：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We call this type of applications data pipelines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T014229Z" creationid="xccui" creationdate="20190317T014229Z">
