@@ -6447,6 +6447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though Flink is a distributed data processing system, you will typically develop and run initial tests on your local machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T031040Z" creationid="xccui" creationdate="20190611T031040Z">
+        <seg>虽然Flink是一个分布式的数据处理系统，但你通常需要在本地计算机上进行开发和运行一些初始测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though low latency is an attractive feature of stream processing, its true value is way beyond just fast analytics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014221Z" creationid="xccui" creationdate="20190606T014221Z">
