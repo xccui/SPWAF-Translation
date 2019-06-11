@@ -17400,6 +17400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The results of the program are emitted to standard output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042541Z" creationid="xccui" creationdate="20190611T042541Z">
+        <seg>程序的结果会写入标准输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second property is used to handle streams with out-of-order record timestamps, such as the records with timestamps 3 and 5 in &lt;t0/&gt;Figure 3-8&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T034143Z" creationid="xccui" creationdate="20190523T042812Z">
