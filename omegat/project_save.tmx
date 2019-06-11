@@ -13007,6 +13007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now let’s quickly discuss what is happening under the hood.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043738Z" creationid="xccui" creationdate="20190611T043738Z">
+        <seg>接下来我们快速讨论一下内部发生的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now open your IDE and import the Maven project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040711Z" creationid="xccui" creationdate="20190611T040711Z">
