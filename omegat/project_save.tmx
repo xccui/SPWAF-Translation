@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// use event time for the application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041934Z" creationid="xccui" creationdate="20190612T041934Z">
+        <seg>// 在应用中使用事件时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144704Z" creationid="esouser" creationdate="20190603T144704Z">
@@ -22009,6 +22017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>def main(args: Array[String]) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041920Z" creationid="xccui" creationdate="20190612T041920Z">
+        <seg>def main(args: Array[String]) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deploying Flink applications and the way each distributes and executes tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141142Z" creationid="xccui" creationdate="20190606T141058Z">
@@ -22421,6 +22437,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040010Z" creationid="xccui" creationdate="20190418T040010Z">
         <seg>v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
       </tuv>
     </tu>
     <tu>
