@@ -20874,8 +20874,8 @@
       <tuv lang="EN-US">
         <seg>We discuss the implementation of a user-defined function in a later sec‐ tion of this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032346Z" creationid="xccui" creationdate="20190612T032346Z">
-        <seg>我们会在本章后面部分讨论用户自定义函数的实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054002Z" creationid="xccui" creationdate="20190612T032346Z">
+        <seg>有关用户自定义函数的实现会在本章后面部分讨论。</seg>
       </tuv>
     </tu>
     <tu>
