@@ -23121,6 +23121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>windows of 5 seconds:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053745Z" creationid="xccui" creationdate="20190612T053745Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>x | Preface</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130336Z" creationid="xccui" creationdate="20190605T130328Z">
