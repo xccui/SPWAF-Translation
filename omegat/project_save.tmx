@@ -78,6 +78,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-DarchetypeArtifactId=flink-quickstart-scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004831Z" creationid="xccui" creationdate="20190612T004831Z">
+        <seg>-DarchetypeArtifactId=flink-quickstart-scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DarchetypeGroupId=org.apache.flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004826Z" creationid="xccui" creationdate="20190612T004826Z">
+        <seg>-DarchetypeGroupId=org.apache.flink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DarchetypeVersion=1.7.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004835Z" creationid="xccui" creationdate="20190612T004835Z">
+        <seg>-DarchetypeVersion=1.7.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DartifactId=flink-scala-project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004842Z" creationid="xccui" creationdate="20190612T004842Z">
+        <seg>-DartifactId=flink-scala-project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DgroupId=org.apache.flink.quickstart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004839Z" creationid="xccui" creationdate="20190612T004839Z">
+        <seg>-DgroupId=org.apache.flink.quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DinteractiveMode=false</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004854Z" creationid="xccui" creationdate="20190612T004854Z">
+        <seg>-DinteractiveMode=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Dpackage=org.apache.flink.quickstart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004850Z" creationid="xccui" creationdate="20190612T004850Z">
+        <seg>-Dpackage=org.apache.flink.quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Dversion=0.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004846Z" creationid="xccui" creationdate="20190612T004846Z">
+        <seg>-Dversion=0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-c io.github.streamingwithflink.chapter1.AverageSensorReadings \ examples-scala.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040003Z" creationid="xccui" creationdate="20190329T040003Z">
@@ -18784,6 +18848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will generate a Maven project for Flink 1.7.1 in a folder called flink-scala-project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005158Z" creationid="xccui" creationdate="20190612T005158Z">
+        <seg>上述命令会为Flink 1.7.1版本生成一个Maven项目，放在flink-scala-project文件夹内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will initialize the state of the application to the state of the save‐ point and run the application from the point at which the savepoint was taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211521Z" creationid="xccui" creationdate="20190609T211509Z">
@@ -21493,6 +21565,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T154418Z" creationid="xccui" creationdate="20190401T154008Z">
         <seg>你的服务延迟就是在店内买咖啡的时间，即从你进门的一刻到抿到第一口咖啡的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004818Z" creationid="xccui" creationdate="20190612T004818Z">
+        <seg>\</seg>
       </tuv>
     </tu>
     <tu>
