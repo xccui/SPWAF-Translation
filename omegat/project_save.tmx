@@ -22825,6 +22825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>to connect to the source of the sensor measurements and create an initial DataStream of type SensorReading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051601Z" creationid="xccui" creationdate="20190612T051601Z">
+        <seg>来连接传感器测量源，并创建出SensorReading类型的初始DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>to instruct our program to interpret time semantics using event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045900Z" creationid="xccui" creationdate="20190612T045805Z">
