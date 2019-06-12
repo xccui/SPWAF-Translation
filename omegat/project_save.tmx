@@ -20760,6 +20760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We now look at these parts in detail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044534Z" creationid="xccui" creationdate="20190612T044457Z">
+        <seg>接下来我们详细介绍一下这些步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We now turn to another extremely important aspect of stream processing—state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031403Z" creationid="xccui" creationdate="20190606T031350Z">
