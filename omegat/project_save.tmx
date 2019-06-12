@@ -5233,8 +5233,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 5 will introduce you to the basics of the DataStream API, and Chapters 6, 7, and 8 will introduce everything you need to know about time-based operators, state‐ ful functions, and source and sink connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T011507Z" creationid="xccui" creationdate="20190612T011507Z">
-        <seg>我们会在第5章向你介绍DataStream API的基础</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012744Z" creationid="xccui" creationdate="20190612T011507Z">
+        <seg>我们会在第5章介绍DataStream API的基础知识，在第6、7、8章介绍有关基于时间的算子、状态化函数以及数据源（汇）连接器的全部内容。</seg>
       </tuv>
     </tu>
     <tu>
