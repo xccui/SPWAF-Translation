@@ -55,3 +55,4 @@ queryable state	可查询式状态
 embedded execution	嵌入式执行
 credit-based	基于信用值
 checkpoint barrier	检查点分隔符
+stateful operator	状态化算子
