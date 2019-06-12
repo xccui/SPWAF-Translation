@@ -166,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.addSource(new SensorSource)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042142Z" creationid="xccui" creationdate="20190612T042142Z">
+        <seg>.addSource(new SensorSource)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Scala object that defines the DataStream program in the main() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
         <seg>// 在main()方法中定义DataStream程序的Scala对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// assign timestamps and watermarks (required for event time)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042213Z" creationid="xccui" creationdate="20190612T042213Z">
+        <seg>// 分配时间戳和水位线（事件时间所需)</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>// ingest sensor readings with a SensorSource SourceFunction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042134Z" creationid="xccui" creationdate="20190612T042134Z">
-        <seg>// 利用SensorSource SourceFunction获取传感器读书</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042138Z" creationid="xccui" creationdate="20190612T042134Z">
+        <seg>// 利用SensorSource SourceFunction获取传感器读数</seg>
       </tuv>
     </tu>
     <tu>
