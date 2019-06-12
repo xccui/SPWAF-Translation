@@ -8673,8 +8673,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports many data types, which we describe in the next section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051624Z" creationid="xccui" creationdate="20190612T051624Z">
-        <seg>Flink支持很多数据类型，我们将在下一节中介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051637Z" creationid="xccui" creationdate="20190612T051624Z">
+        <seg>Flink支持很多数据类型，我们会在下一节介绍。</seg>
       </tuv>
     </tu>
     <tu>
