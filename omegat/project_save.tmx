@@ -21305,6 +21305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also delete them if you do not need them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010135Z" creationid="xccui" creationdate="20190612T010135Z">
+        <seg>如果不需要，你也可以删除它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also download the source code of the examples as a zip-archive from GitHub:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040419Z" creationid="xccui" creationdate="20190611T040419Z">
