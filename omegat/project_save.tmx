@@ -256,8 +256,8 @@
       <tuv lang="EN-US">
         <seg>// execute application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043517Z" creationid="xccui" creationdate="20190612T042805Z">
-        <seg>// 开始运行应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044712Z" creationid="xccui" creationdate="20190612T042805Z">
+        <seg>// 开始执行应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>// set up the streaming execution environment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041910Z" creationid="xccui" creationdate="20190612T041910Z">
-        <seg>// 设置流式运行环境</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044717Z" creationid="xccui" creationdate="20190612T041910Z">
+        <seg>// 设置流式执行环境</seg>
       </tuv>
     </tu>
     <tu>
