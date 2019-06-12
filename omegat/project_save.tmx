@@ -2726,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052010Z" creationid="xccui" creationdate="20190612T052010Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Bit of History</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030041Z" creationid="esouser" creationdate="20190603T143127Z">
@@ -15292,6 +15300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202509Z" creationid="xccui" creationdate="20190606T202509Z">
         <seg>通过网络连接逐条发送记录不但低效，还会导致很多额外开销。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SensorReading contains the sensor ID, a timestamp denoting when the measurement was taken, and the measured temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052008Z" creationid="xccui" creationdate="20190612T052008Z">
+        <seg>每一条SensorReading数据都包括传感器ID，表示测试时间的时间戳以及测量的温度。</seg>
       </tuv>
     </tu>
     <tu>
