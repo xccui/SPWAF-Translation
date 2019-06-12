@@ -9679,6 +9679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, we use a Scala case class as the data type that we defined before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051901Z" creationid="xccui" creationdate="20190612T051901Z">
+        <seg>在这里我们使用事先定义好的Scala样例类作为数据类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highly Available Setup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144306Z" creationid="esouser" creationdate="20190603T144306Z">
