@@ -256,8 +256,8 @@
       <tuv lang="EN-US">
         <seg>// execute application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042805Z" creationid="xccui" creationdate="20190612T042805Z">
-        <seg>// 开始执行应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043517Z" creationid="xccui" creationdate="20190612T042805Z">
+        <seg>// 开始运行应用</seg>
       </tuv>
     </tu>
     <tu>
