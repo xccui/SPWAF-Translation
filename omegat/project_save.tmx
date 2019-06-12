@@ -11287,6 +11287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the DataStream API, the execution environment of an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044948Z" creationid="xccui" creationdate="20190612T044948Z">
+        <seg>在DataStream API中，执行环境用StreamExecutionEnvironment表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the beginning of this chapter, you saw how you can model streaming programs as dataflow graphs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033203Z" creationid="xccui" creationdate="20190415T041033Z">
