@@ -8007,6 +8007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, let’s have a look at the data type we will be using to represent sensor readings:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035700Z" creationid="xccui" creationdate="20190612T035700Z">
+        <seg>首先来看一下传感器读取数据的数据类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you can parti&lt;t0/&gt;‐&lt;t1/&gt; tion your input data and have tasks of the same operation execute on the data subsets in parallel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T032148Z" creationid="xccui" creationdate="20190401T030434Z">
