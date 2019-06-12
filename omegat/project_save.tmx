@@ -13847,6 +13847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once we have a DataStream, we can apply a transformation on it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052239Z" creationid="xccui" creationdate="20190612T052239Z">
+        <seg>一旦得到了DataStream，我们就可以对它进行转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once your coffee is ready, the barista calls your name and you can pick up your coffee from the bench.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T153941Z" creationid="xccui" creationdate="20190401T152947Z">
