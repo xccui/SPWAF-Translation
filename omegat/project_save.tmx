@@ -19648,6 +19648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To structure a typical Flink streaming application:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043456Z" creationid="xccui" creationdate="20190612T043456Z">
+        <seg>构建一个典型的Flink流式应用需要以下步骤：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To understand latency intuitively, consider your daily visit to your favorite coffee shop.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233829Z" creationid="xccui" creationdate="20190401T152125Z">
