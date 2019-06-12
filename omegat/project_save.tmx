@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set up the streaming execution environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041910Z" creationid="xccui" creationdate="20190612T041910Z">
+        <seg>// 设置流式运行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144704Z" creationid="esouser" creationdate="20190603T144704Z">
