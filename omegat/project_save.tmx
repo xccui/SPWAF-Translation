@@ -22401,6 +22401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>environment offers more configuration options, such as setting the program parallel‐ ism and enabling fault tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045857Z" creationid="xccui" creationdate="20190612T045857Z">
+        <seg>执行环境提供了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>examples of finite, complete data sets that are generated all at once.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190301T035813Z" creationid="xccui" creationdate="20190301T035813Z">
@@ -22763,8 +22771,8 @@
       <tuv lang="EN-US">
         <seg>to instruct our program to interpret time semantics using event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045831Z" creationid="xccui" creationdate="20190612T045805Z">
-        <seg>来指定程序使用事件时间作为其时间语义</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045900Z" creationid="xccui" creationdate="20190612T045805Z">
+        <seg>来指定程序使用事件时间作为其时间语义。</seg>
       </tuv>
     </tu>
     <tu>
