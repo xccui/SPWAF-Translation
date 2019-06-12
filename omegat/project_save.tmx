@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create a local stream execution environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045528Z" creationid="xccui" creationdate="20190612T045528Z">
+        <seg>// 创建一个本地流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// execute application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044712Z" creationid="xccui" creationdate="20190612T042805Z">
