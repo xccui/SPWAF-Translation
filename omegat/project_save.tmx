@@ -17328,6 +17328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The assignTimestampsAndWater marks(new SensorTimeAssigner) method assigns the timestamps and watermarks that are required for event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052108Z" creationid="xccui" creationdate="20190612T052108Z">
+        <seg>assignTimestampsAndWatermarks(new SensorTimeAssigner)方法负责分配事件时间所需的时间戳和水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The batch processor periodically processes the data in batch storage, writes the exact results into a batch table, and drops the corre‐ sponding inaccurate results from the speed table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052357Z" creationid="xccui" creationdate="20190605T052246Z">
