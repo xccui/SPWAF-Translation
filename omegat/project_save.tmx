@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.map( r =&gt; {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042255Z" creationid="xccui" creationdate="20190612T042255Z">
+        <seg>.map( r =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Scala object that defines the DataStream program in the main() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041854Z" creationid="xccui" creationdate="20190612T041854Z">
         <seg>// 通过main()方法定义并执行DataStream程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// organize readings by sensor id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042353Z" creationid="xccui" creationdate="20190612T042353Z">
+        <seg>// 按照传感器id组织数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -15048,6 +15064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SensorReading(r.id, r.timestamp, celsius)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042303Z" creationid="xccui" creationdate="20190612T042303Z">
+        <seg>SensorReading(r.id, r.timestamp, celsius)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SensorReading(sensor_1,1547718199000,35.80018327300259)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T041720Z" creationid="xccui" creationdate="20190329T041720Z">
@@ -22505,6 +22529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val celsius = (r.temperature - 32) * (5.0 / 9.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042259Z" creationid="xccui" creationdate="20190612T042259Z">
+        <seg>val celsius = (r.temperature - 32) * (5.0 / 9.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
@@ -22605,6 +22637,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T052353Z" creationid="xccui" creationdate="20190416T052353Z">
         <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042307Z" creationid="xccui" creationdate="20190612T042307Z">
+        <seg>} )</seg>
       </tuv>
     </tu>
     <tu>
