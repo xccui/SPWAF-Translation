@@ -8607,6 +8607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides a well-maintained collection of stream sinks that can be used to write data to different systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054203Z" creationid="xccui" creationdate="20190612T054203Z">
+        <seg>Flink提供了一组维护良好的流式数据汇，可用来完成上述工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides connectors to the most commonly used storage systems such as Apache Kafka, Apache Cassandra, Elasticsearch, JDBC, Kinesis, and (distributed) file systems such as HDFS and S3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T045210Z" creationid="xccui" creationdate="20190328T044823Z">
