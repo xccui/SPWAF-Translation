@@ -6223,6 +6223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DataStream but reorganize it by partitioning or grouping.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052753Z" creationid="xccui" creationdate="20190612T052753Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dataflow Graphs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143808Z" creationid="esouser" creationdate="20190603T143808Z">
@@ -15826,8 +15834,8 @@
       <tuv lang="EN-US">
         <seg>Some transformations can produce a new DataStream, pos‐ sibly of a different type, while other transformations do not modify the records of the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052707Z" creationid="xccui" creationdate="20190612T052453Z">
-        <seg>有些会生成一个新的DataStream（类型可能不同），而另外的一些不会修改DataStream中的记录，仅会通过分区或分组的方式将其重新组织。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052746Z" creationid="xccui" creationdate="20190612T052453Z">
+        <seg>有些会生成一个新的DataStream（类型可能不同）；而另外的一些不会修改DataStream中的记录，仅会通过分区或分组的方式将其重新组织。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17762,8 +17770,8 @@
       <tuv lang="EN-US">
         <seg>The implementation details of SensorTimeAssigner</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052147Z" creationid="xccui" creationdate="20190612T052147Z">
-        <seg>有关SensorTimeAssigner的实现细节将不在此处讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052836Z" creationid="xccui" creationdate="20190612T052147Z">
+        <seg>现在无须关心SensorTimeAssigner的实现细节。</seg>
       </tuv>
     </tu>
     <tu>
