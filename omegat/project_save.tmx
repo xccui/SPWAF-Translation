@@ -8671,6 +8671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink supports many data types, which we describe in the next section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051624Z" creationid="xccui" creationdate="20190612T051624Z">
+        <seg>Flink支持很多数据类型，我们将在下一节中介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink treats all states—regardless of built-in or user-defined operators—the same.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053301Z" creationid="xccui" creationdate="20190607T053200Z">
