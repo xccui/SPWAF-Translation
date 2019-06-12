@@ -17874,8 +17874,8 @@
       <tuv lang="EN-US">
         <seg>The logic of an application is defined by chaining transformations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053015Z" creationid="xccui" creationdate="20190612T052904Z">
-        <seg>应用逻辑是通过一连串的转换来定义的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053100Z" creationid="xccui" creationdate="20190612T052904Z">
+        <seg>应用的逻辑是通过一系列转换来定义的。</seg>
       </tuv>
     </tu>
     <tu>
