@@ -14096,6 +14096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally output the result to one or more data sinks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044352Z" creationid="xccui" creationdate="20190612T044352Z">
+        <seg>选择性地将结果输出到一个或多个数据汇中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other features include support to upgrade application code or migrate a job to a different cluster or a new version of the stream processor without losing the current state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053924Z" creationid="xccui" creationdate="20190605T053913Z">
