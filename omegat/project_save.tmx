@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// hostname of JobManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045601Z" creationid="xccui" creationdate="20190612T045601Z">
+        <seg>// JobManager的主机名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// ingest sensor readings with a SensorSource SourceFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042138Z" creationid="xccui" creationdate="20190612T042134Z">
