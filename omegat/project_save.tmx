@@ -17872,6 +17872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The logic of an application is defined by chaining transformations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053015Z" creationid="xccui" creationdate="20190612T052904Z">
+        <seg>应用逻辑是通过一连串的转换来定义的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main take-away here is that lowering latency actually increases throughput.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T211801Z" creationid="xccui" creationdate="20190402T211645Z">
@@ -22485,6 +22493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141142Z" creationid="xccui" creationdate="20190606T141058Z">
         <seg>我们对两类部署Flink应用的方式加以讨论，关注它们如何分配及执行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>do not concern us right now.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052907Z" creationid="xccui" creationdate="20190612T052907Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
