@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create a remote stream execution environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045541Z" creationid="xccui" creationdate="20190612T045541Z">
+        <seg>// 创建一个远程流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// execute application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044712Z" creationid="xccui" creationdate="20190612T042805Z">
