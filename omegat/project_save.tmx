@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.assignTimestampsAndWatermarks(new SensorTimeAssigner)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042218Z" creationid="xccui" creationdate="20190612T042218Z">
+        <seg>.assignTimestampsAndWatermarks(new SensorTimeAssigner)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Scala object that defines the DataStream program in the main() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042213Z" creationid="xccui" creationdate="20190612T042213Z">
         <seg>// 分配时间戳和水位线（事件时间所需)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// convert Fahrenheit to Celsius with an inline lambda function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042248Z" creationid="xccui" creationdate="20190612T042248Z">
+        <seg>// 使用内联lambda函数把华氏温度转为摄氏</seg>
       </tuv>
     </tu>
     <tu>
@@ -22477,6 +22493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040010Z" creationid="xccui" creationdate="20190418T040010Z">
         <seg>v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val avgTemp: DataStream[SensorReading] = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042225Z" creationid="xccui" creationdate="20190612T042225Z">
+        <seg>val avgTemp: DataStream[SensorReading] = sensorData</seg>
       </tuv>
     </tu>
     <tu>
