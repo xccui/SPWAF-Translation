@@ -22177,6 +22177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>env.execute("Compute average sensor temperature")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042809Z" creationid="xccui" creationdate="20190612T042809Z">
+        <seg>env.execute("Compute average sensor temperature")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041940Z" creationid="xccui" creationdate="20190612T041940Z">
@@ -22693,6 +22701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T052353Z" creationid="xccui" creationdate="20190416T052353Z">
         <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042813Z" creationid="xccui" creationdate="20190612T042813Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
