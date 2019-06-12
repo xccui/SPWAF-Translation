@@ -22681,6 +22681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>implement your own streaming sinks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054219Z" creationid="xccui" creationdate="20190612T054219Z">
+        <seg>你也可以实现自己的流式数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in time, usually the point in time at which the event that is represented by the record happened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204807Z" creationid="xccui" creationdate="20190606T204807Z">
