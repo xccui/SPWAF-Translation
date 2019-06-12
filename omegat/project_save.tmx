@@ -17170,8 +17170,8 @@
       <tuv lang="EN-US">
         <seg>The gen‐ erated folder contains a src/ folder and a pom.xml file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005652Z" creationid="xccui" creationdate="20190612T005652Z">
-        <seg>生成的文件夹内包含了一个src目录和一个pom.xml文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005659Z" creationid="xccui" creationdate="20190612T005652Z">
+        <seg>生成的文件夹内包含了一个src/目录和一个pom.xml文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17748,6 +17748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T031659Z" creationid="xccui" creationdate="20190609T030952Z">
         <seg>数据源算子的任务会把输入流的当前偏移量存为状态；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The src/ folder has the follow‐ ing structure:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005710Z" creationid="xccui" creationdate="20190612T005710Z">
+        <seg>src/目录的结构如下：</seg>
       </tuv>
     </tu>
     <tu>
