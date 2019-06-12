@@ -19104,6 +19104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This method returns a local or remote environment, depending on the con‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045221Z" creationid="xccui" creationdate="20190612T045221Z">
+        <seg>根据调用时所处上下文的不同，这个方法可能会返回一个本地或远程环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method stores every event in a buffer until its processing has been acknowledged by all tasks in the pipeline, at which point the event can be discarded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045558Z" creationid="xccui" creationdate="20190416T043634Z">
@@ -22652,6 +22660,14 @@
         <seg>tems use to update materialized views.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T044542Z" creationid="xccui" creationdate="20190605T044542Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text in which the method is invoked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045223Z" creationid="xccui" creationdate="20190612T045223Z">
         <seg></seg>
       </tuv>
     </tu>
