@@ -5975,6 +5975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051345Z" creationid="xccui" creationdate="20190612T051345Z">
+        <seg>Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data &lt;t0/&gt;ingestion&lt;t1/&gt; is the operation of fetching raw data from exter&lt;t2/&gt;‐&lt;t3/&gt; nal sources and converting it into a format that is suitable for processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T152000Z" creationid="xccui" creationdate="20190405T152000Z">
@@ -11227,6 +11235,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045057Z" creationid="xccui" creationdate="20190612T045057Z">
         <seg>在示例中，我们通过调用静态的getExecutionEnvironment()方法来获取执行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our example, we use:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051404Z" creationid="xccui" creationdate="20190612T051404Z">
+        <seg>在示例中，我们使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -17472,6 +17488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The execution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051339Z" creationid="xccui" creationdate="20190612T051339Z">
+        <seg>The execution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The execution environment determines whether the program is running on a local machine or on a cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044916Z" creationid="xccui" creationdate="20190612T044916Z">
@@ -22877,6 +22901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
         <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051333Z" creationid="xccui" creationdate="20190612T051333Z">
+        <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
       </tuv>
     </tu>
     <tu>
