@@ -11241,8 +11241,8 @@
       <tuv lang="EN-US">
         <seg>In our example, we use:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051413Z" creationid="xccui" creationdate="20190612T051404Z">
-        <seg>在示例中，我们使用：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051434Z" creationid="xccui" creationdate="20190612T051404Z">
+        <seg>在示例中，我们通过：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22421,6 +22421,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050311Z" creationid="xccui" creationdate="20190605T050311Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.addSource(new SensorSource)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051430Z" creationid="xccui" creationdate="20190612T051430Z">
+        <seg>env.addSource(new SensorSource)</seg>
       </tuv>
     </tu>
     <tu>
