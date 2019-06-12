@@ -15032,6 +15032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setting Up a Development Environment for Apache Flink | 71</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012812Z" creationid="xccui" creationdate="20190612T012812Z">
+        <seg>设置Apache Flink开发环境 | 71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting Up a Development Environment for Apache Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144822Z" creationid="esouser" creationdate="20190603T144822Z">
@@ -15988,6 +15996,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T032814Z" creationid="xccui" creationdate="20190610T032814Z">
         <seg>总结 | 69</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary | 77</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012750Z" creationid="xccui" creationdate="20190612T012750Z">
+        <seg>总结 | 77</seg>
       </tuv>
     </tu>
     <tu>
