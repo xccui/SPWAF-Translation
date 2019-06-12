@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>74 | Chapter 4: Setting Up a Development Environment for Apache Flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012857Z" creationid="xccui" creationdate="20190612T012857Z">
+        <seg>74 | 设置Apaceh Flink开发环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144915Z" creationid="esouser" creationdate="20190603T144915Z">
@@ -14636,6 +14644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144840Z" creationid="esouser" creationdate="20190603T144840Z">
         <seg>在IDE中运行和调试Flink程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run and Debug Flink Applications in an IDE | 73</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012826Z" creationid="xccui" creationdate="20190612T012826Z">
+        <seg>在IDE中执行和调试Flink程序 | 73</seg>
       </tuv>
     </tu>
     <tu>
