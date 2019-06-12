@@ -22049,6 +22049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>src/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005738Z" creationid="xccui" creationdate="20190612T005738Z">
+        <seg>src/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>succeed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210830Z" creationid="esouser" creationdate="20190603T210830Z">
@@ -22265,6 +22273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>└── log4j.properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005730Z" creationid="xccui" creationdate="20190612T005730Z">
+        <seg>└── log4j.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>└── main</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040540Z" creationid="xccui" creationdate="20190611T040540Z">
@@ -22317,6 +22333,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040614Z" creationid="xccui" creationdate="20190611T040614Z">
         <seg>├── chapter5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005721Z" creationid="xccui" creationdate="20190612T005721Z">
+        <seg>├── resources</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
