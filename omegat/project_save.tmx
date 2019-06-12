@@ -17096,6 +17096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The folder contains a file flink-scala-project-0.1.jar, which is the JAR file of your Flink application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010603Z" creationid="xccui" creationdate="20190612T010603Z">
+        <seg>该文件夹里会有一个flink-scala-project-0.1.jar文件，也就是你Flink应用的JAR包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following typographical conventions are used in this book:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210759Z" creationid="esouser" creationdate="20190603T210759Z">
@@ -21315,8 +21323,8 @@
       <tuv lang="EN-US">
         <seg>You can also delete them if you do not need them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010135Z" creationid="xccui" creationdate="20190612T010135Z">
-        <seg>如果不需要，你也可以删除它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010448Z" creationid="xccui" creationdate="20190612T010135Z">
+        <seg>如果不需要，也可以删除它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21395,8 +21403,8 @@
       <tuv lang="EN-US">
         <seg>You can import the project in your IDE following the steps we described in the previ‐ ous section or you can execute the following command to build a JAR file:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010248Z" creationid="xccui" creationdate="20190612T010248Z">
-        <seg>你可以按照我们在上一节所介绍的步骤把项目导入IDE，也可以执行以下命令来构建一个JAR文件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010443Z" creationid="xccui" creationdate="20190612T010248Z">
+        <seg>此时，你可以按照我们在上一节所介绍的步骤把项目导入IDE，也可以执行以下命令来构建一个JAR文件：</seg>
       </tuv>
     </tu>
     <tu>
