@@ -11497,8 +11497,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, you will learn how to set up an environment to develop, run, and debug Flink applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040135Z" creationid="xccui" creationdate="20190610T040115Z">
-        <seg>本章你将学到如何搭建一个环境来开发、运行、调试Flink应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012943Z" creationid="xccui" creationdate="20190610T040115Z">
+        <seg>本章你将学到如何搭建一个用于开发、运行和调试Flink应用的环境。</seg>
       </tuv>
     </tu>
     <tu>
