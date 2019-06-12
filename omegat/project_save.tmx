@@ -4745,8 +4745,8 @@
       <tuv lang="EN-US">
         <seg>Bootstrap a Flink Maven Project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145025Z" creationid="esouser" creationdate="20190603T145025Z">
-        <seg>启用Flink Maven项目</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004254Z" creationid="esouser" creationdate="20190603T145025Z">
+        <seg>创建Flink Maven项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -8239,6 +8239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides Maven archetypes to generate Maven projects for Java or Scala Flink applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004239Z" creationid="xccui" creationdate="20190612T004239Z">
+        <seg>Flink提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides connectors to the most commonly used storage systems such as Apache Kafka, Apache Cassandra, Elasticsearch, JDBC, Kinesis, and (distributed) file systems such as HDFS and S3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T045210Z" creationid="xccui" creationdate="20190328T044823Z">
@@ -9721,8 +9729,8 @@
       <tuv lang="EN-US">
         <seg>However, you should also know how to create a new Flink project from scratch.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004101Z" creationid="xccui" creationdate="20190612T004101Z">
-        <seg>但同时你也要掌握如何</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004140Z" creationid="xccui" creationdate="20190612T004101Z">
+        <seg>但同时你也要掌握如何从头开始创建一个新的Flink项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10113,8 +10121,8 @@
       <tuv lang="EN-US">
         <seg>Importing the examples-scala repository into your IDE to experiment with Flink is a good first step.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004022Z" creationid="xccui" creationdate="20190612T004022Z">
-        <seg>将examples-scala库导入IDE来体验Flink是一个很好的开始。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004111Z" creationid="xccui" creationdate="20190612T004022Z">
+        <seg>将examples-scala库导入IDE来体验Flink是一个良好的开端。</seg>
       </tuv>
     </tu>
     <tu>
