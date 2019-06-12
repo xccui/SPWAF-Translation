@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.timeWindow(Time.seconds(5))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042713Z" creationid="xccui" creationdate="20190612T042713Z">
+        <seg>.timeWindow(Time.seconds(5))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Scala object that defines the DataStream program in the main() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042213Z" creationid="xccui" creationdate="20190612T042213Z">
         <seg>// 分配时间戳和水位线（事件时间所需)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// compute average temperature using a user-defined function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042729Z" creationid="xccui" creationdate="20190612T042729Z">
+        <seg>// 使用用户自定义函数计算平均温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>// group readings in 5 second tumbling windows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042701Z" creationid="xccui" creationdate="20190612T042607Z">
-        <seg>// 将读数按5秒滚动窗口分组</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
+        <seg>// 将读数按5秒的滚动窗口分组</seg>
       </tuv>
     </tu>
     <tu>
