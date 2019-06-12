@@ -248,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>// convert Fahrenheit to Celsius with an inline lambda function</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042248Z" creationid="xccui" creationdate="20190612T042248Z">
-        <seg>// 使用内联lambda函数把华氏温度转为摄氏</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053316Z" creationid="xccui" creationdate="20190612T042248Z">
+        <seg>// 使用内联lambda函数把华氏温度转为摄氏温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -18194,8 +18194,8 @@
       <tuv lang="EN-US">
         <seg>The program in Example 5-1 converts the temperatures from Fahrenheit to Celsius and computes the average temperature every 5 seconds for each sensor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035758Z" creationid="xccui" creationdate="20190612T035758Z">
-        <seg>示例5-1中的程序将温度从华氏转为摄氏并计算每个传感器每5秒钟的平均温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053332Z" creationid="xccui" creationdate="20190612T035758Z">
+        <seg>示例5-1中的程序将温度从华氏度转为摄氏度并计算每个传感器每5秒钟的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
