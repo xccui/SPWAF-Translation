@@ -13938,8 +13938,8 @@
       <tuv lang="EN-US">
         <seg>Our example application ingests a stream of temperature meas‐ urements from multiple sensors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035520Z" creationid="xccui" creationdate="20190612T035520Z">
-        <seg>我们的示例应用会从多个传感器中社区温度测量数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035537Z" creationid="xccui" creationdate="20190612T035520Z">
+        <seg>我们的示例应用会从多个传感器中获取温度测量数据流。</seg>
       </tuv>
     </tu>
     <tu>
