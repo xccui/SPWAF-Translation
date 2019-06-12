@@ -17600,6 +17600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The project contains two skeleton files, BatchJob.scala and StreamingJob.scala, as a starting point for your own programs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010104Z" creationid="xccui" creationdate="20190612T010104Z">
+        <seg>项目所包含的两个骨架文件，BatchJob.scala和StreamingJob.scala，可以作为你程序的起点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The random strategy uniformly distributes data items to operator tasks in order to evenly distribute the load across computing tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233607Z" creationid="xccui" creationdate="20190605T233549Z">
@@ -22257,6 +22265,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>└── StreamingJob.scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005810Z" creationid="xccui" creationdate="20190612T005810Z">
+        <seg>└── StreamingJob.scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── apache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005751Z" creationid="xccui" creationdate="20190612T005751Z">
+        <seg>└── apache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005756Z" creationid="xccui" creationdate="20190612T005756Z">
+        <seg>└── flink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>└── github</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040556Z" creationid="xccui" creationdate="20190611T040556Z">
@@ -22289,6 +22321,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>└── org</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005748Z" creationid="xccui" creationdate="20190612T005748Z">
+        <seg>└── org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── quickstart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005800Z" creationid="xccui" creationdate="20190612T005800Z">
+        <seg>└── quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>└── scala</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040543Z" creationid="xccui" creationdate="20190611T040543Z">
@@ -22317,6 +22365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040621Z" creationid="xccui" creationdate="20190611T040621Z">
         <seg>├── ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── BatchJob.scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005806Z" creationid="xccui" creationdate="20190612T005806Z">
+        <seg>├── BatchJob.scala</seg>
       </tuv>
     </tu>
     <tu>
