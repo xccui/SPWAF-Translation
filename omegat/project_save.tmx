@@ -11151,6 +11151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our example, we define the AverageSensorReadings object and include most of the application logic inside main().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043342Z" creationid="xccui" creationdate="20190612T043342Z">
+        <seg>在示例中，我们定义了AverageSensorReadings对象，并将大部分应用逻辑都放到了main()方法里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In parallel windows, each partition applies the window policies independently of other partitions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T195229Z" creationid="xccui" creationdate="20190409T194934Z">
@@ -22373,6 +22381,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031232Z" creationid="xccui" creationdate="20190606T031232Z">
         <seg>总之，虽然处理时间提供了很低的延迟，但它的结果依赖处理速度，具有不确定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>main method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043220Z" creationid="xccui" creationdate="20190612T043220Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
