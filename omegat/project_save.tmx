@@ -15282,8 +15282,8 @@
       <tuv lang="EN-US">
         <seg>Set Up the Execution Environment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145031Z" creationid="esouser" creationdate="20190603T145031Z">
-        <seg>设置运行环境</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044650Z" creationid="esouser" creationdate="20190603T145031Z">
+        <seg>设置执行环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -17420,6 +17420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T050636Z" creationid="xccui" creationdate="20190322T040934Z">
         <seg>第一代开源分布式流处理引擎（2011年）专注于以毫秒级延迟处理数据并保证系统出错时事件不会丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first thing a Flink application needs to do is set up its execution environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044646Z" creationid="xccui" creationdate="20190612T044646Z">
+        <seg>Flink应用要做的第一件事就是设置执行环境。</seg>
       </tuv>
     </tu>
     <tu>
