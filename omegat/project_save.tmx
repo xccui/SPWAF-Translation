@@ -13087,6 +13087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most commonly, this is done in a static</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043110Z" creationid="xccui" creationdate="20190612T043110Z">
+        <seg>大多数情况下，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-Stream Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022743Z" creationid="xccui" creationdate="20190225T022743Z">
@@ -21851,8 +21859,8 @@
       <tuv lang="EN-US">
         <seg>You have probably already noticed that Flink programs are defined and submitted for execution in regular Scala or Java methods.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043039Z" creationid="xccui" creationdate="20190612T043039Z">
-        <seg>你可能已经注意到了，用日常的Scala或Java方法就可以定义并提交Flink程序。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043120Z" creationid="xccui" creationdate="20190612T043039Z">
+        <seg>你可能已经注意到了，用日常的Scala或Java方法就可以定义和提交Flink程序。</seg>
       </tuv>
     </tu>
     <tu>
