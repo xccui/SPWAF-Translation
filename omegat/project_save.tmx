@@ -11263,6 +11263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our example, we first apply a map() transformation that converts the temperature of each sensor reading to Celsius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053231Z" creationid="xccui" creationdate="20190612T053231Z">
+        <seg>在示例中，我们首先利用map()转换将每个传感器读取的温度都转换为摄氏度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In our example, we retrieve the execution environment by calling the static getExecutionEnvironment() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045057Z" creationid="xccui" creationdate="20190612T045057Z">
