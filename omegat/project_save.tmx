@@ -12545,8 +12545,8 @@
       <tuv lang="EN-US">
         <seg>Let’s start with a simple example to get a first impression of what it is like to write streaming applications with the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035152Z" creationid="xccui" creationdate="20190612T035028Z">
-        <seg>让我们从一个简单的例子开始，来感受使用DataStream API编写流式应用的第一印象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035305Z" creationid="xccui" creationdate="20190612T035028Z">
+        <seg>让我们从一个简单的示例开始，来感受使用DataStream API编写流式应用的第一印象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20660,6 +20660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050803Z" creationid="xccui" creationdate="20190605T050803Z">
         <seg>我们将通过简要地历史回顾来探索一下开源流处理技术的前世今生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will use this example to show‐ case the basic structure of a Flink program and introduce some important features of the DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035413Z" creationid="xccui" creationdate="20190612T035257Z">
+        <seg>通过该示例，我们将展示Flink程序的基本结构并引出DataStream API中的几个重要特性。</seg>
       </tuv>
     </tu>
     <tu>
