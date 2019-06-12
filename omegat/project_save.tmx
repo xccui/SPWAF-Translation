@@ -15824,6 +15824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some transformations can produce a new DataStream, pos‐ sibly of a different type, while other transformations do not modify the records of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052707Z" creationid="xccui" creationdate="20190612T052453Z">
+        <seg>有些会生成一个新的DataStream（类型可能不同），而另外的一些不会修改DataStream中的记录，仅会通过分区或分组的方式将其重新组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source Functions, Timestamps, and Watermarks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152108Z" creationid="xccui" creationdate="20190225T025249Z">
@@ -18676,6 +18684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210637Z" creationid="xccui" creationdate="20190402T210637Z">
         <seg>既然这样，可以通过某种方式同时获得低延迟和高吞吐吗？还是说根本不切实际？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are different types of transformations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052303Z" creationid="xccui" creationdate="20190612T052303Z">
+        <seg>转换的类型多种多样，</seg>
       </tuv>
     </tu>
     <tu>
