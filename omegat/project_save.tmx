@@ -8241,8 +8241,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides Maven archetypes to generate Maven projects for Java or Scala Flink applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004239Z" creationid="xccui" creationdate="20190612T004239Z">
-        <seg>Flink提供</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004621Z" creationid="xccui" creationdate="20190612T004239Z">
+        <seg>Flink提供了Maven模板来为Java或Scala的Flink应用生成Maven项目。</seg>
       </tuv>
     </tu>
     <tu>
