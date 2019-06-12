@@ -17168,6 +17168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The gen‐ erated folder contains a src/ folder and a pom.xml file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005652Z" creationid="xccui" creationdate="20190612T005652Z">
+        <seg>生成的文件夹内包含了一个src目录和一个pom.xml文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal of this chapter is to introduce the fundamental concepts of stream process‐ ing and the requirements of its frameworks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224728Z" creationid="xccui" creationdate="20190605T224706Z">
