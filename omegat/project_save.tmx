@@ -7153,8 +7153,8 @@
       <tuv lang="EN-US">
         <seg>Every record contains an average temperature of a sensor over a period of 5 seconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054622Z" creationid="xccui" creationdate="20190612T054622Z">
-        <seg>每条记录都会包含某传感器在5秒内的平均温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054643Z" creationid="xccui" creationdate="20190612T054622Z">
+        <seg>每条记录都会包含对应传感器在5秒内的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18316,6 +18316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030241Z" creationid="xccui" creationdate="20190225T030241Z">
         <seg>Flink生态的其他组成部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result stream is written to the standard output by calling print():</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054705Z" creationid="xccui" creationdate="20190612T054705Z">
+        <seg>通过调用print()将写过写入标准输出：</seg>
       </tuv>
     </tu>
     <tu>
