@@ -15298,8 +15298,8 @@
       <tuv lang="EN-US">
         <seg>Set up the execution environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043506Z" creationid="xccui" creationdate="20190612T043506Z">
-        <seg>设置运行环境。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044657Z" creationid="xccui" creationdate="20190612T043506Z">
+        <seg>设置执行环境。</seg>
       </tuv>
     </tu>
     <tu>
