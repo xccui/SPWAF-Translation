@@ -17744,6 +17744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The implementation details of SensorTimeAssigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052147Z" creationid="xccui" creationdate="20190612T052147Z">
+        <seg>有关SensorTimeAssigner的实现细节将不在此处讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The import steps are similar for most IDEs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040757Z" creationid="xccui" creationdate="20190611T040757Z">
