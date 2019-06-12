@@ -13495,6 +13495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open a terminal and run the following command to create a Flink Maven Quickstart Scala project as a starting point for your Flink application:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004808Z" creationid="xccui" creationdate="20190612T004808Z">
+        <seg>打开终端运行以下命令来创建Flink Maven Quickstart Scala项目，并以它为基础开发Flink应用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open source communities are constantly improving the capabilities of their projects and are pushing the technical boundaries of stream pro‐ cessing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050637Z" creationid="xccui" creationdate="20190605T050637Z">
