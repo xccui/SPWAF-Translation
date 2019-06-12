@@ -14552,6 +14552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read one or more streams from data sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043536Z" creationid="xccui" creationdate="20190612T043536Z">
+        <seg>从数据源中读取一条或多条流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reading from and Writing to External Systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025053Z" creationid="xccui" creationdate="20190225T025053Z">
