@@ -17728,6 +17728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The program in Example 5-1 converts the temperatures from Fahrenheit to Celsius and computes the average temperature every 5 seconds for each sensor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035758Z" creationid="xccui" creationdate="20190612T035758Z">
+        <seg>示例5-1中的程序将温度从华氏转为摄氏并计算每个传感器每5秒钟的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The program will continue to generate new events, process them, and emit new results every second until you terminate it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043558Z" creationid="xccui" creationdate="20190611T043547Z">
@@ -21889,6 +21897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>case class SensorReading( id: String,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035705Z" creationid="xccui" creationdate="20190612T035705Z">
+        <seg>case class SensorReading( id: String,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T055509Z" creationid="xccui" creationdate="20190319T055509Z">
@@ -22301,6 +22317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T051432Z" creationid="xccui" creationdate="20190608T051432Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>timestamp: Long, temperature: Double)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035709Z" creationid="xccui" creationdate="20190612T035709Z">
+        <seg>timestamp: Long, temperature: Double)</seg>
       </tuv>
     </tu>
     <tu>
