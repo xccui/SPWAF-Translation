@@ -21849,6 +21849,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have probably already noticed that Flink programs are defined and submitted for execution in regular Scala or Java methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043039Z" creationid="xccui" creationdate="20190612T043039Z">
+        <seg>你可能已经注意到了，用日常的Scala或Java方法就可以定义并提交Flink程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have seen how rolling aggregations encode the history of the whole stream in an aggregate value and provide us with a low-latency result for every event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043002Z" creationid="xccui" creationdate="20190406T042607Z">
@@ -22037,6 +22045,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T032948Z" creationid="xccui" creationdate="20190418T032948Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>avgTemp.print()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042827Z" creationid="xccui" creationdate="20190612T042827Z">
+        <seg>avgTemp.print()</seg>
       </tuv>
     </tu>
     <tu>
