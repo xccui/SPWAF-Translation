@@ -11271,6 +11271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our example, the result is a DataStream[SensorReading] record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054549Z" creationid="xccui" creationdate="20190612T054549Z">
+        <seg>在所给示例中，结果是DataStream[SensorReading]中的记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In our example, we define the AverageSensorReadings object and include most of the application logic inside main().</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043342Z" creationid="xccui" creationdate="20190612T043342Z">
