@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create a DataStream[SensorReading] from a stream source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042034Z" creationid="xccui" creationdate="20190612T042034Z">
+        <seg>// 从流式数据源中创建DataStream[SensorReading]对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// main() defines and executes the DataStream program</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041854Z" creationid="xccui" creationdate="20190612T041854Z">
@@ -22045,6 +22053,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050311Z" creationid="xccui" creationdate="20190605T050311Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041940Z" creationid="xccui" creationdate="20190612T041940Z">
+        <seg>env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
       </tuv>
     </tu>
     <tu>
