@@ -12383,6 +12383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to explicitly create local or remote execution environments as fol‐ lows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045513Z" creationid="xccui" creationdate="20190612T045513Z">
+        <seg>同时也可以像下面那样显式地创建一个本地或远程执行环境：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is common that companies store the same data in multiple different systems to improve the performance of data accesses.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053952Z" creationid="xccui" creationdate="20190604T053931Z">
