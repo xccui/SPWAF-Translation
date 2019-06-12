@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1234,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054737Z" creationid="xccui" creationdate="20190612T054737Z">
+        <seg>1234,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>124</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035833Z" creationid="xccui" creationdate="20190418T035833Z">
@@ -23125,6 +23133,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051333Z" creationid="xccui" creationdate="20190612T051333Z">
         <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorData: DataStream[SensorReading] =</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054743Z" creationid="xccui" creationdate="20190612T054743Z">
+        <seg>val sensorData: DataStream[SensorReading] =</seg>
       </tuv>
     </tu>
     <tu>
