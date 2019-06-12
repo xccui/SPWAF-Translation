@@ -9975,6 +9975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the command completed successfully, you will find a new target folder in your project folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010337Z" creationid="xccui" creationdate="20190612T010337Z">
+        <seg>如果命令成功完成，你会在项目目录里看到一个新的target文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the event-time clock advances, the task processes all triggered timers and finally broadcasts its new event time to all downstream tasks by emitting a corresponding watermark to all con‐ nected output partitions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T025139Z" creationid="xccui" creationdate="20190607T025043Z">
