@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// execute application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042805Z" creationid="xccui" creationdate="20190612T042805Z">
+        <seg>// 开始执行应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 5 second tumbling windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
