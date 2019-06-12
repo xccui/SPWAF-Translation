@@ -11175,6 +11175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our example, we retrieve the execution environment by calling the static getExecutionEnvironment() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045057Z" creationid="xccui" creationdate="20190612T045057Z">
+        <seg>在示例中，我们通过调用静态的getExecutionEnvironment()方法来获取执行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In parallel windows, each partition applies the window policies independently of other partitions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T195229Z" creationid="xccui" creationdate="20190409T194934Z">
@@ -22125,6 +22133,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210833Z" creationid="esouser" creationdate="20190603T210833Z">
         <seg>and video from O’Reilly and 200+ other publishers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>application is represented by the StreamExecutionEnvironment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044952Z" creationid="xccui" creationdate="20190612T044952Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
