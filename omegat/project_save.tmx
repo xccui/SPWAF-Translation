@@ -13936,6 +13936,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our example application ingests a stream of temperature meas‐ urements from multiple sensors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035520Z" creationid="xccui" creationdate="20190612T035520Z">
+        <seg>我们的示例应用会从多个传感器中社区温度测量数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our unique network of experts and innovators share their knowledge and expertise through books, articles, conferences, and our online learning platform.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210831Z" creationid="esouser" creationdate="20190603T210831Z">
