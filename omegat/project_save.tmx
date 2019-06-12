@@ -17368,6 +17368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The execution environment determines whether the program is running on a local machine or on a cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044916Z" creationid="xccui" creationdate="20190612T044916Z">
+        <seg>执行环境决定了应用是在本地机器上还是集群上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The execu‐ tion of tasks and the concept of slots is discussed in “Task Execution”.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142745Z" creationid="xccui" creationdate="20190606T142726Z">
