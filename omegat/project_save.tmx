@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// ingest sensor readings with a SensorSource SourceFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042134Z" creationid="xccui" creationdate="20190612T042134Z">
+        <seg>// 利用SensorSource SourceFunction获取传感器读书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// main() defines and executes the DataStream program</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041854Z" creationid="xccui" creationdate="20190612T041854Z">
@@ -22461,6 +22469,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorData: DataStream[SensorReading] = env</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042047Z" creationid="xccui" creationdate="20190612T042047Z">
+        <seg>val sensorData: DataStream[SensorReading] = env</seg>
       </tuv>
     </tu>
     <tu>
