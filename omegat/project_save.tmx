@@ -7793,8 +7793,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we show how to bootstrap a Flink Maven project, the starting point for a new application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040745Z" creationid="xccui" creationdate="20190610T040552Z">
-        <seg>最后我们会介绍如何启用Flink Maven项目，这通常是任何一个新应用的起点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004304Z" creationid="xccui" creationdate="20190610T040552Z">
+        <seg>最后我们会介绍如何创建Flink Maven项目，这通常是任何一个新应用的起点。</seg>
       </tuv>
     </tu>
     <tu>
