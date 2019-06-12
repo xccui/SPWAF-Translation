@@ -21953,6 +21953,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window transformations are described in detail in “Window Operators” on page 122.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053825Z" creationid="xccui" creationdate="20190612T053825Z">
+        <seg>有关窗口转换的详细内容会在122页"窗口算子"一节介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035926Z" creationid="xccui" creationdate="20190406T035926Z">
