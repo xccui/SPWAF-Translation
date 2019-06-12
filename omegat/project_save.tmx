@@ -18712,6 +18712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, we use the keyBy() transformation to parti‐ tion the sensor readings by their sensor ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053453Z" creationid="xccui" creationdate="20190612T053453Z">
+        <seg>然后我们使用keyBy()转换，将传感器读数按照传感器ID进行分区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are different types of transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052719Z" creationid="xccui" creationdate="20190612T052303Z">
