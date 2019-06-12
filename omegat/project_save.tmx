@@ -16400,6 +16400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Streaming applications usually emit their results to some external system, such as Apache Kafka, a filesystem, or a database.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054057Z" creationid="xccui" creationdate="20190612T054057Z">
+        <seg>流式应用通常都会把结果发送到某些外部系统，例如Apache Kafka，文件系统或数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Streaming systems define their behavior in the pres&lt;t0/&gt;‐&lt;t1/&gt; ence of failures by offering result guarantees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T044432Z" creationid="xccui" creationdate="20190415T044326Z">
