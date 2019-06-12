@@ -7167,6 +7167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Execute the program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044410Z" creationid="xccui" creationdate="20190612T044410Z">
+        <seg>运行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explicitly Providing Type Information</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145233Z" creationid="esouser" creationdate="20190603T145233Z">
