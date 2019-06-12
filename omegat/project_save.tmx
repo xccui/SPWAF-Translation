@@ -9719,6 +9719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you should also know how to create a new Flink project from scratch.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004101Z" creationid="xccui" creationdate="20190612T004101Z">
+        <seg>但同时你也要掌握如何</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How‐ ever, efficient and reliable management of state is more challenging.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T055302Z" creationid="xccui" creationdate="20190607T055225Z">
@@ -10099,6 +10107,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022322Z" creationid="xccui" creationdate="20190225T022322Z">
         <seg>将书中示例导入你的IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing the examples-scala repository into your IDE to experiment with Flink is a good first step.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004022Z" creationid="xccui" creationdate="20190612T004022Z">
+        <seg>将examples-scala库导入IDE来体验Flink是一个很好的开始。</seg>
       </tuv>
     </tu>
     <tu>
