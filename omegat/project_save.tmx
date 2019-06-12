@@ -13255,6 +13255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next,  we  use env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045810Z" creationid="xccui" creationdate="20190612T045706Z">
+        <seg>接下来我们通过env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next, let’s run one of the book example applications in your IDE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042102Z" creationid="xccui" creationdate="20190611T042102Z">
@@ -22749,6 +22757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035709Z" creationid="xccui" creationdate="20190612T035709Z">
         <seg>timestamp: Long, temperature: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to instruct our program to interpret time semantics using event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045805Z" creationid="xccui" creationdate="20190612T045805Z">
+        <seg>来指定程序使用事件时间</seg>
       </tuv>
     </tu>
     <tu>
