@@ -10215,6 +10215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the method is invoked from a submission cli‐ ent with a connection to a remote cluster, a remote execution environment is returned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045413Z" creationid="xccui" creationdate="20190612T045413Z">
+        <seg>如果是一个连接远程集群的提交客户端调用了该方法，则会返回一个远程执行环境；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the sender and receiver tasks run in separate Task&lt;t0/&gt;‐&lt;t1/&gt; Manager processes, they communicate via the network stack of the operating system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T042532Z" creationid="xccui" creationdate="20190504T042532Z">
@@ -14148,6 +14156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041613Z" creationid="esouser" creationdate="20190603T153223Z">
         <seg>或者如果你迫不及待地想开始编写Flink代码，也可以先阅读实践章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, it returns a local environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045422Z" creationid="xccui" creationdate="20190612T045422Z">
+        <seg>否则会返回一个本地环境。</seg>
       </tuv>
     </tu>
     <tu>
