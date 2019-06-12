@@ -13783,6 +13783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the execution environment has been configured, it is time to do some actual work and start processing streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050957Z" creationid="xccui" creationdate="20190612T050957Z">
+        <seg>在执行环境配置完后，就可以进行一些实质性的工作，正式开始处理数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the sender task completes, the data is sent as a batch over a temporary TCP connection to the receiver</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045623Z" creationid="xccui" creationdate="20190504T045549Z">
