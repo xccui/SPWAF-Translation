@@ -4398,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply streaming transformations to implement the application logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043619Z" creationid="xccui" creationdate="20190612T043619Z">
+        <seg>通过一系列流式转换来实现应用逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022606Z" creationid="xccui" creationdate="20190225T022606Z">
