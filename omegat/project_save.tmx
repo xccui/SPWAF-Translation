@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// port of JobManager process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045623Z" creationid="xccui" creationdate="20190612T045623Z">
+        <seg>// JobManager的端口号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// print result stream to standard out</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042754Z" creationid="xccui" creationdate="20190612T042754Z">
@@ -22805,6 +22813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
+        <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
       </tuv>
     </tu>
     <tu>
