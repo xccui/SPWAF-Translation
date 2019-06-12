@@ -13329,8 +13329,8 @@
       <tuv lang="EN-US">
         <seg>Next, we define a timeWindow() transfor‐ mation, which groups the sensor readings of each sensor ID partition into tumbling</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053715Z" creationid="xccui" creationdate="20190612T053715Z">
-        <seg>接下来我们通过一个timeWindow()转换，在对每个传感器ID分区都将读数划分为5秒一次的滚动窗口：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053740Z" creationid="xccui" creationdate="20190612T053715Z">
+        <seg>接下来我们通过timeWindow()转换，在每个传感器ID分区都将读数划分为5秒一次的滚动窗口：</seg>
       </tuv>
     </tu>
     <tu>
