@@ -18560,6 +18560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter introduces the basics of Flink’s DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014914Z" creationid="xccui" creationdate="20190612T014914Z">
+        <seg>本章主要介绍Flink DataStream API的基础知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter is still rather independent of Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T053557Z" creationid="xccui" creationdate="20190329T053557Z">
