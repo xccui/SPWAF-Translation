@@ -15264,6 +15264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up the execution environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043506Z" creationid="xccui" creationdate="20190612T043506Z">
+        <seg>设置运行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting Flink Up for Streaming Applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025346Z" creationid="xccui" creationdate="20190225T025346Z">
