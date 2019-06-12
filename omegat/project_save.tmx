@@ -5423,6 +5423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compute the average temperature every 5 seconds for a stream of sensors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041632Z" creationid="xccui" creationdate="20190612T041632Z">
+        <seg>针对传感器数据流每5秒计算一次平均温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concep‐ tually, the list entries of all parallel operator tasks are collected and evenly redistrib‐ uted to a smaller or larger number of tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T060531Z" creationid="xccui" creationdate="20190608T060433Z">
