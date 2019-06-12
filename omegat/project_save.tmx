@@ -5095,6 +5095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAPTER 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014844Z" creationid="xccui" creationdate="20190612T014822Z">
+        <seg>第5章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025545Z" creationid="xccui" creationdate="20190225T025545Z">
@@ -16500,6 +16508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152457Z" creationid="esouser" creationdate="20190603T152457Z">
         <seg>用于批处理的DataSet API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DataStream API (v1.7)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014854Z" creationid="xccui" creationdate="20190612T014854Z">
+        <seg>DataStream API （1.7版本）</seg>
       </tuv>
     </tu>
     <tu>
