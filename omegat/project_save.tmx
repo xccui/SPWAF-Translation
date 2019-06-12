@@ -12545,8 +12545,8 @@
       <tuv lang="EN-US">
         <seg>Let’s start with a simple example to get a first impression of what it is like to write streaming applications with the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035028Z" creationid="xccui" creationdate="20190612T035028Z">
-        <seg>让我们从一个简单的例子开始，对使用DataStream API编写流式应用有一个初步印象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035140Z" creationid="xccui" creationdate="20190612T035028Z">
+        <seg>让我们从一个简单的例子开始，以感受使用DataStream API编写流式应用的第一印象。</seg>
       </tuv>
     </tu>
     <tu>
