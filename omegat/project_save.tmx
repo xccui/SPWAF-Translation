@@ -12543,6 +12543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let’s start with a simple example to get a first impression of what it is like to write streaming applications with the DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035028Z" creationid="xccui" creationdate="20190612T035028Z">
+        <seg>让我们从一个简单的例子开始，对使用DataStream API编写流式应用有一个初步印象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Library style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143638Z" creationid="xccui" creationdate="20190606T143638Z">
@@ -20148,6 +20156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154419Z" creationid="xccui" creationdate="20190608T154131Z">
         <seg>此外我们还会讨论Flink所独有的保存点机制，它就像一把瑞士军刀，解决了运行流式应用中的诸多挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We also provide complete example applications implemented in Java and Scala in our GitHub repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034647Z" creationid="xccui" creationdate="20190612T034647Z">
+        <seg>我们在Github仓库中同时提供了用Java和Scala实现的完整示例程序。</seg>
       </tuv>
     </tu>
     <tu>
