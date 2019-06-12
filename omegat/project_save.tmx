@@ -4537,8 +4537,8 @@
       <tuv lang="EN-US">
         <seg>As discussed in “A Quick Look at Flink” on page 12, the program generates read events for multiple thermal sensors, converts the temperature of the events from Fahrenheit to Celsius, and computes the average temperature of each sensor every second.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042511Z" creationid="xccui" creationdate="20190611T042330Z">
-        <seg>我们在第12页"Flink快览"中讲过，这个程序会模拟生成多个热传感器的读数事件，将其中的温度由华氏改为摄氏，然后计算每个传感器每秒钟的平均温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053343Z" creationid="xccui" creationdate="20190611T042330Z">
+        <seg>我们在第12页"Flink快览"中讲过，这个程序会模拟生成多个热传感器的读数事件，将其中的温度由华氏度改为摄氏度，然后计算每个传感器每秒钟的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
