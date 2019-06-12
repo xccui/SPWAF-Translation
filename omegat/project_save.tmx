@@ -7151,6 +7151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every record contains an average temperature of a sensor over a period of 5 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054622Z" creationid="xccui" creationdate="20190612T054622Z">
+        <seg>每条记录都会包含某传感器在5秒内的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evolving Stateful Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024857Z" creationid="xccui" creationdate="20190225T024857Z">
