@@ -8087,6 +8087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, we apply a user-defined function that computes the average temperature on each window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053852Z" creationid="xccui" creationdate="20190612T053852Z">
+        <seg>最后我们用了一个用户自定义函数来计算每个窗口的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, we briefly discuss the evolution of open source stream processors and help you run a streaming application on a local Flink instance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T050750Z" creationid="esouser" creationdate="20190603T163101Z">
