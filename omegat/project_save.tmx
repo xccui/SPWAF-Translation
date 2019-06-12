@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>// group readings in 5 second tumbling windows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042607Z" creationid="xccui" creationdate="20190612T042607Z">
-        <seg>// 将读数按5秒一次的滚动窗口分组</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042654Z" creationid="xccui" creationdate="20190612T042607Z">
+        <seg>// 将读数按间隔为5秒的滚动窗口分组</seg>
       </tuv>
     </tu>
     <tu>
