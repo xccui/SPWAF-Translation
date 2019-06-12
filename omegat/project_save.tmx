@@ -13089,8 +13089,8 @@
       <tuv lang="EN-US">
         <seg>Most commonly, this is done in a static</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043110Z" creationid="xccui" creationdate="20190612T043110Z">
-        <seg>大多数情况下，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043215Z" creationid="xccui" creationdate="20190612T043110Z">
+        <seg>大多数情况下，这些工作都会在静态的main方法中完成。</seg>
       </tuv>
     </tu>
     <tu>
