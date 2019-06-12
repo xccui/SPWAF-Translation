@@ -13920,6 +13920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our code exam‐ ples use Scala for conciseness, but the Java API is mostly analogous (exceptions or special cases will be pointed out).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034526Z" creationid="xccui" creationdate="20190612T034526Z">
+        <seg>出于简洁考虑，我们的示例代码还会选用Scala版本，但绝大多数的Java API都是类似的（如果有异常或特殊情况会指出）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our unique network of experts and innovators share their knowledge and expertise through books, articles, conferences, and our online learning platform.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210831Z" creationid="esouser" creationdate="20190603T210831Z">
