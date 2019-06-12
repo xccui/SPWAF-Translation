@@ -17424,6 +17424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The obvious next step is to learn how to actually implement a DataStream program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T011435Z" creationid="xccui" creationdate="20190612T011435Z">
+        <seg>而接下来将要学的自然就是如何实现DataStream程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The operator identifier and state name are required to be able to map the state data of a savepoint to the states of the operators of a starting application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215509Z" creationid="xccui" creationdate="20190609T215456Z">
