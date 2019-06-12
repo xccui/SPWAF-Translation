@@ -166,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Scala object that defines the DataStream program in the main() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
+        <seg>// 在main()方法中定义DataStream程序的Scala对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// main() defines and executes the DataStream program</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041854Z" creationid="xccui" creationdate="20190612T041854Z">
+        <seg>// 通过main()方法定义并执行DataStream程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144704Z" creationid="esouser" creationdate="20190603T144704Z">
@@ -22197,6 +22213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205902Z" creationid="xccui" creationdate="20190428T205902Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>object AverageSensorReadings {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041830Z" creationid="xccui" creationdate="20190612T041830Z">
+        <seg>object AverageSensorReadings {</seg>
       </tuv>
     </tu>
     <tu>
