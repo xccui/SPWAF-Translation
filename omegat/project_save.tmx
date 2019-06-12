@@ -11241,8 +11241,8 @@
       <tuv lang="EN-US">
         <seg>In our example, we use:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051404Z" creationid="xccui" creationdate="20190612T051404Z">
-        <seg>在示例中，我们使用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051413Z" creationid="xccui" creationdate="20190612T051404Z">
+        <seg>在示例中，我们使用：</seg>
       </tuv>
     </tu>
     <tu>
