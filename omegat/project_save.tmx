@@ -14722,8 +14722,8 @@
       <tuv lang="EN-US">
         <seg>Scaling Stateful Operators</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022106Z" creationid="xccui" creationdate="20190225T022106Z">
-        <seg>状态算子扩容</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032530Z" creationid="xccui" creationdate="20190225T022106Z">
+        <seg>状态化算子扩缩容</seg>
       </tuv>
     </tu>
     <tu>
@@ -21349,6 +21349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022718Z" creationid="xccui" creationdate="20190406T044746Z">
         <seg>窗口操作会持续创建一些称为桶（bucket）的有限事件集合，并允许我们基于这些有限集进行计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window operators, time-based transformations, stateful operators, and connectors are discussed in the next chapters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032454Z" creationid="xccui" creationdate="20190612T032454Z">
+        <seg>有关窗口算子、基于时间的转换、状态化</seg>
       </tuv>
     </tu>
     <tu>
