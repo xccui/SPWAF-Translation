@@ -21297,6 +21297,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can change the Flink version, group and artifact IDs, version, and generated package by changing the respective parameters of the above mvn command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005349Z" creationid="xccui" creationdate="20190612T005349Z">
+        <seg>你可以通过改变上述mvn命令的相应参数来更改Flink版本，group和artifact的ID，版本以及生成的包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can define breakpoints in the code and debug your application as you would normally do.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053653Z" creationid="xccui" creationdate="20190611T053048Z">
