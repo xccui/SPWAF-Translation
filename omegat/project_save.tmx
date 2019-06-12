@@ -22403,8 +22403,8 @@
       <tuv lang="EN-US">
         <seg>environment offers more configuration options, such as setting the program parallel‐ ism and enabling fault tolerance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045857Z" creationid="xccui" creationdate="20190612T045857Z">
-        <seg>执行环境提供了</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050011Z" creationid="xccui" creationdate="20190612T045857Z">
+        <seg>执行环境还提供了很多配置选项，例如：设置程序并行度和启用容错等。</seg>
       </tuv>
     </tu>
     <tu>
