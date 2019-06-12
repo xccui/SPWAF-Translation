@@ -11415,6 +11415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter you learned how to set up an environment to develop and debug Flink DataStream applications and how to generate a Maven project using Flink’s Maven archetype.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010845Z" creationid="xccui" creationdate="20190612T010845Z">
+        <seg>本章你学到了如何设置一个用于开发和调试Flink DataStream应用的环境，以及如何使用Flink的Maven模板生成Maven项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter, we discuss why stateful stream processing is becoming so popular and assess its poten‐ tial.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T024714Z" creationid="esouser" creationdate="20190603T163008Z">
