@@ -17184,6 +17184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The generated pom.xml file also contains instructions on how to add new dependencies to your project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010743Z" creationid="xccui" creationdate="20190612T010743Z">
+        <seg>生成的pom.xml文件里还包含一些如何往项目中添加其他依赖的说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The gen‐ erated folder contains a src/ folder and a pom.xml file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005659Z" creationid="xccui" creationdate="20190612T005652Z">
