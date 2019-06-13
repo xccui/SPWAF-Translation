@@ -5727,6 +5727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Combining events of two streams is a very common requirement in stream process‐ ing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T160725Z" creationid="xccui" creationdate="20190613T160725Z">
+        <seg>在流处理中，合并两条数据流中的事件是一个非常普遍的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common challenges that distributed systems need to address are allocation and man&lt;t0/&gt;‐&lt;t1/&gt; agement of compute resources in a cluster, process coordination, durable and avail&lt;t2/&gt;‐&lt;t3/&gt; able data storage, and failure recovery.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T031359Z" creationid="xccui" creationdate="20190418T031209Z">
