@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"path/to/jarFile.jar") // JAR file to ship to the JobManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045648Z" creationid="xccui" creationdate="20190612T045648Z">
+        <seg>"path/to/jarFile.jar") // 需要传输到JobManager的JAR包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$ ./bin/flink run \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040000Z" creationid="xccui" creationdate="20190329T040000Z">
@@ -78,6 +86,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-DarchetypeArtifactId=flink-quickstart-scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004831Z" creationid="xccui" creationdate="20190612T004831Z">
+        <seg>-DarchetypeArtifactId=flink-quickstart-scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DarchetypeGroupId=org.apache.flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004826Z" creationid="xccui" creationdate="20190612T004826Z">
+        <seg>-DarchetypeGroupId=org.apache.flink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DarchetypeVersion=1.7.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004835Z" creationid="xccui" creationdate="20190612T004835Z">
+        <seg>-DarchetypeVersion=1.7.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DartifactId=flink-scala-project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004842Z" creationid="xccui" creationdate="20190612T004842Z">
+        <seg>-DartifactId=flink-scala-project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DgroupId=org.apache.flink.quickstart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004839Z" creationid="xccui" creationdate="20190612T004839Z">
+        <seg>-DgroupId=org.apache.flink.quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-DinteractiveMode=false</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004854Z" creationid="xccui" creationdate="20190612T004854Z">
+        <seg>-DinteractiveMode=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Dpackage=org.apache.flink.quickstart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004850Z" creationid="xccui" creationdate="20190612T004850Z">
+        <seg>-Dpackage=org.apache.flink.quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Dversion=0.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004846Z" creationid="xccui" creationdate="20190612T004846Z">
+        <seg>-Dversion=0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-c io.github.streamingwithflink.chapter1.AverageSensorReadings \ examples-scala.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040003Z" creationid="xccui" creationdate="20190329T040003Z">
@@ -102,6 +174,238 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.addSource(new SensorSource)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042142Z" creationid="xccui" creationdate="20190612T042142Z">
+        <seg>.addSource(new SensorSource)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.apply(new TemperatureAverager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042735Z" creationid="xccui" creationdate="20190612T042735Z">
+        <seg>.apply(new TemperatureAverager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.assignTimestampsAndWatermarks(new SensorTimeAssigner)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042218Z" creationid="xccui" creationdate="20190612T042218Z">
+        <seg>.assignTimestampsAndWatermarks(new SensorTimeAssigner)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.filter( r =&gt; r.temperature &gt;= 25 )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053216Z" creationid="xccui" creationdate="20190613T053216Z">
+        <seg>.filter( r =&gt; r.temperature &gt;= 25 )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.flatMap(id =&gt; id.split(" "))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005229Z" creationid="xccui" creationdate="20190613T005229Z">
+        <seg>.flatMap(id =&gt; id.split(" "))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.keyBy(_.id)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042408Z" creationid="xccui" creationdate="20190612T042408Z">
+        <seg>.keyBy(_.id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.map( r =&gt; {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042255Z" creationid="xccui" creationdate="20190612T042255Z">
+        <seg>.map( r =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.timeWindow(Time.seconds(5))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042713Z" creationid="xccui" creationdate="20190612T042713Z">
+        <seg>.timeWindow(Time.seconds(5))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// O: the type of output elements FlatMapFunction[T, O]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061027Z" creationid="xccui" creationdate="20190613T061027Z">
+        <seg>// O：输出元素的类型 FlatMapFunction[T, O]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// O: the type of output elements MapFunction[T, O]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050340Z" creationid="xccui" creationdate="20190613T050340Z">
+        <seg>// O输出元素的类型 MapFunction[T, O]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Scala object that defines the DataStream program in the main() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
+        <seg>// 在main()方法中定义DataStream程序的Scala对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// T: the type of elements FilterFunction[T]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053022Z" creationid="xccui" creationdate="20190613T053018Z">
+        <seg>// T：元素类型 FilterFunction[T]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// T: the type of input elements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050329Z" creationid="xccui" creationdate="20190613T050329Z">
+        <seg>// T：输入元素的类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// assign timestamps and watermarks (required for event time)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042213Z" creationid="xccui" creationdate="20190612T042213Z">
+        <seg>// 分配时间戳和水位线（事件时间所需)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// compute average temperature using a user-defined function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042729Z" creationid="xccui" creationdate="20190612T042729Z">
+        <seg>// 使用用户自定义函数计算平均温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// convert Fahrenheit to Celsius with an inline lambda function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053316Z" creationid="xccui" creationdate="20190612T042248Z">
+        <seg>// 使用内联lambda函数把华氏温度转为摄氏温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create a DataStream[SensorReading] from a stream source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042034Z" creationid="xccui" creationdate="20190612T042034Z">
+        <seg>// 从流式数据源中创建DataStream[SensorReading]对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create a local stream execution environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045528Z" creationid="xccui" creationdate="20190612T045528Z">
+        <seg>// 创建一个本地流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create a remote stream execution environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045541Z" creationid="xccui" creationdate="20190612T045541Z">
+        <seg>// 创建一个远程流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// execute application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044712Z" creationid="xccui" creationdate="20190612T042805Z">
+        <seg>// 开始执行应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// group readings in 5 second tumbling windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
+        <seg>// 将读数按5秒的滚动窗口分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// hostname of JobManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045601Z" creationid="xccui" creationdate="20190612T045601Z">
+        <seg>// JobManager的主机名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// ingest sensor readings with a SensorSource SourceFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042138Z" creationid="xccui" creationdate="20190612T042134Z">
+        <seg>// 利用SensorSource SourceFunction获取传感器读数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// main() defines and executes the DataStream program</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041854Z" creationid="xccui" creationdate="20190612T041854Z">
+        <seg>// 通过main()方法定义并执行DataStream程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// organize readings by sensor id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042353Z" creationid="xccui" creationdate="20190612T042353Z">
+        <seg>// 按照传感器id组织数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// port of JobManager process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045623Z" creationid="xccui" creationdate="20190612T045623Z">
+        <seg>// JobManager的端口号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// print result stream to standard out</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042754Z" creationid="xccui" creationdate="20190612T042754Z">
+        <seg>// 将结果流打印到标准输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// set up the streaming execution environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044717Z" creationid="xccui" creationdate="20190612T041910Z">
+        <seg>// 设置流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// use event time for the application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041934Z" creationid="xccui" creationdate="20190612T041934Z">
+        <seg>// 在应用中使用事件时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144704Z" creationid="esouser" creationdate="20190603T144704Z">
@@ -114,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T122153Z" creationid="xccui" creationdate="20190605T122123Z">
         <seg>1 虽然Flink用于批处理的DataSet API及其算子都独立于对应的流处理部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 We also provide an examples-Java repository with all the examples implemented in Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040200Z" creationid="xccui" creationdate="20190611T040200Z">
+        <seg>1 我们同时提供了一个examples-Java库，里面的示例都是用Java完成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T150326Z" creationid="esouser" creationdate="20190603T150326Z">
         <seg>123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1234,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054737Z" creationid="xccui" creationdate="20190612T054737Z">
+        <seg>1234,</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +1170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040132Z" creationid="xccui" creationdate="20190418T040132Z">
         <seg>199</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1&gt; SensorReading(sensor_38,1515014051000,14.781835420242471)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043437Z" creationid="xccui" creationdate="20190611T043437Z">
+        <seg>1&gt; SensorReading(sensor_38,1515014051000,14.781835420242471)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2&gt; SensorReading(sensor_31,1515014051000,23.924656183848732)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043428Z" creationid="xccui" creationdate="20190611T043428Z">
+        <seg>2&gt; SensorReading(sensor_31,1515014051000,23.924656183848732)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144712Z" creationid="esouser" creationdate="20190603T144712Z">
@@ -1694,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3&gt; SensorReading(sensor_34,1515014051000,23.871433252250583)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043441Z" creationid="xccui" creationdate="20190611T043441Z">
+        <seg>3&gt; SensorReading(sensor_34,1515014051000,23.871433252250583)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144716Z" creationid="esouser" creationdate="20190603T144716Z">
@@ -1810,6 +2154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T041055Z" creationid="xccui" creationdate="20190414T041055Z">
         <seg>49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4&gt; SensorReading(sensor_32,1515014051000,4.118569049862492)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043432Z" creationid="xccui" creationdate="20190611T043432Z">
+        <seg>4&gt; SensorReading(sensor_32,1515014051000,4.118569049862492)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>72 | Chapter 4: Setting Up a Development Environment for Apache Flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040223Z" creationid="xccui" creationdate="20190611T040223Z">
+        <seg>72 | 第4章：设置Apaceh Flink开发环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>73</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035600Z" creationid="xccui" creationdate="20190418T035600Z">
@@ -2058,6 +2418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035605Z" creationid="xccui" creationdate="20190418T035605Z">
         <seg>74</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>74 | Chapter 4: Setting Up a Development Environment for Apache Flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012857Z" creationid="xccui" creationdate="20190612T012857Z">
+        <seg>74 | 设置Apaceh Flink开发环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2782,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; filter(T): Boolean</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052938Z" creationid="xccui" creationdate="20190613T052938Z">
+        <seg>&gt; filter(T): Boolean</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt; flatMap(T, Collector[O]): Unit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061035Z" creationid="xccui" creationdate="20190613T061035Z">
+        <seg>&gt; flatMap(T, Collector[O]): Unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt; map(T): O</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050345Z" creationid="xccui" creationdate="20190613T050345Z">
+        <seg>&gt; map(T): O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052010Z" creationid="xccui" creationdate="20190612T052010Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Bit of History</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030041Z" creationid="esouser" creationdate="20190603T143127Z">
@@ -2450,6 +2850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140636Z" creationid="xccui" creationdate="20190418T030126Z">
         <seg>它的设置包含多个进程，这些进程通常会分布在多台机器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Java JRE is not sufficient.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015648Z" creationid="xccui" creationdate="20190611T015626Z">
+        <seg>只有Java JRE是不够的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +3078,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A filter operation that only retains white values</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052343Z" creationid="xccui" creationdate="20190613T052343Z">
+        <seg>仅保留白色值的filter操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A filter transformation is specified by calling the DataStream.filter() method and pro‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052155Z" creationid="xccui" creationdate="20190613T052155Z">
+        <seg>通过调用DataStream.filter()方法可以指定filter转换产生一个相同数据类型的DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A flatMap operation that outputs white squares, duplicates black squares, and drops gray squares</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054751Z" creationid="xccui" creationdate="20190613T054718Z">
+        <seg>输出白色方块，复制黑色方块，丢弃灰色方块的flatMap操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A highly available Flink setup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T194903Z" creationid="xccui" creationdate="20190606T194859Z">
@@ -2706,6 +3138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T001230Z" creationid="xccui" creationdate="20190401T001056Z">
         <seg>持续计算主题标签数量的dataflow逻辑图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A map operation that transforms every square into a circle of the same color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045716Z" creationid="xccui" creationdate="20190613T045716Z">
+        <seg>将方形转换为相同颜色圆形的map操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A project import wizard will guide you though the next steps, such as selecting the Maven project to import (there should only be one), selecting the SDK, and naming the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041529Z" creationid="xccui" creationdate="20190611T041529Z">
+        <seg>根据导入向导的指示完成后续步骤，例如：选择要导入的Maven项目（应该只有一个），选择SDK，为项目命名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A receiving task grants some credit to a sending task, i.e., a number of network buffers that are reserved to receive its data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T143724Z" creationid="esouser" creationdate="20190513T210814Z">
@@ -2858,6 +3306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T200619Z" creationid="esouser" creationdate="20190603T200240Z">
         <seg>近些年提出的微服务设计模式可以克服这种应用紧耦合情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A return value of true preserves the input event and forwards it to the output, and false results in dropping the event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052016Z" creationid="xccui" creationdate="20190613T052016Z">
+        <seg>如果返回值为true则会保留并输入事件并将其转发到输出，否则会把事件丢弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2978,6 +3434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T054850Z" creationid="xccui" creationdate="20190305T054850Z">
         <seg>写入事件日志的数据流可以被相同或不同的消费者重复读取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A stream transformation is applied on one or more streams and converts them into one or more output streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013355Z" creationid="xccui" creationdate="20190613T013226Z">
+        <seg>流式转换会将一个或多个输入流转换成一个或多个输出流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3294,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After reading this chapter, you will know how to implement a stream processing application with basic functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032952Z" creationid="xccui" creationdate="20190612T032952Z">
+        <seg>本章过后，你将了解如何实现一个具有基本功能的流处理应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Again, Flink does all of this.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042759Z" creationid="xccui" creationdate="20190605T042752Z">
@@ -3494,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although a program is executed in a single JVM, records are serialized for cross- thread communication and possibly state persistance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054835Z" creationid="xccui" creationdate="20190611T054835Z">
+        <seg>虽然程序运行在单个JVM内，但出于跨线程通信或可能存在的状态持久化考虑，记录都会被序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although not being covered in this book but certainly worth mentioning is that Flink also provides support for analytical SQL queries over streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T040637Z" creationid="xccui" creationdate="20190319T040637Z">
@@ -3530,6 +4010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T192143Z" creationid="xccui" creationdate="20190228T190902Z">
         <seg>ETL的基本流程是：从事务型数据库中提取数据，将其转换为通用表示形式（可能包含数据验证、数据归一化、编码、去重、格式转换等工作），最终写入到分析型数据库中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An IDE for Java and/or Scala development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020738Z" creationid="xccui" creationdate="20190611T020738Z">
+        <seg>用于Java/Scala开发的IDE。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Maven 3.x.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020152Z" creationid="xccui" creationdate="20190611T020152Z">
+        <seg>Apache Maven 3.x版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apart from having a practical value, windows also enable semantically interesting queries on streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T042412Z" creationid="xccui" creationdate="20190406T042112Z">
@@ -4078,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply streaming transformations to implement the application logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043619Z" creationid="xccui" creationdate="20190612T043619Z">
+        <seg>通过一系列流式转换来实现应用逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022606Z" creationid="xccui" creationdate="20190225T022606Z">
@@ -4127,6 +4631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a Windows user you can use the Windows subsystem for Linux (WSL), Cygwin, or a Linux virtual machine to run Flink in a UNIX environ‐ ment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T014711Z" creationid="xccui" creationdate="20190611T014711Z">
+        <seg>如果你是Windows用户，可以使用自带的（译者注：Win10版本以上）Linux子系统（WSL）、Cygwin或Linux虚拟机来在类UNIX环境下运行Flink。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a con‐ sequence, an application with default operator identifiers is very limited in how it can be evolved without losing state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T030644Z" creationid="xccui" creationdate="20190610T025637Z">
@@ -4147,6 +4659,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T145426Z" creationid="xccui" creationdate="20190606T145426Z">
         <seg>如前所述，为了执行应用的全部任务，Flink需要足够数量的处理槽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As discussed in “A Quick Look at Flink” on page 12, the program generates read events for multiple thermal sensors, converts the temperature of the events from Fahrenheit to Celsius, and computes the average temperature of each sensor every second.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053343Z" creationid="xccui" creationdate="20190611T042330Z">
+        <seg>我们在第12页"Flink快览"中讲过，这个程序会模拟生成多个热传感器的读数事件，将其中的温度由华氏度改为摄氏度，然后计算每个传感器每秒钟的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As explained in “Com‐ ponents of a Flink Setup” on page 38, a Flink application is submitted to the JobMan‐ ager (master), which distributes execution tasks to one or more TaskManagers (workers).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051138Z" creationid="xccui" creationdate="20190611T051138Z">
+        <seg>正如之前第38页"Flink设置组件"中所介绍的，Flink应用会提交至JobManager（master），后者负责将需要执行的任务分配给一个或多个TaskManager（worker）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4327,6 +4855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the book’s GitHub page, you will find one repository with Scala examples and one repository with Java exam‐ ples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035852Z" creationid="xccui" creationdate="20190611T035708Z">
+        <seg>在书籍的GitHub页面上，你会看到两个分别包含Scala示例和Java示例的代码仓库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, the result completeness might suffer because relevant records might not be included in the result and would be considered as late records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T040404Z" creationid="xccui" creationdate="20190529T040337Z">
@@ -4451,6 +4987,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022712Z" creationid="xccui" creationdate="20190225T022712Z">
         <seg>基本转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic transformations are transformations on individual events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024530Z" creationid="xccui" creationdate="20190613T024209Z">
+        <seg>转本转换是作用于单条事件的转换；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic transformations process individual events, meaning that each output record was produced from a single input record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025056Z" creationid="xccui" creationdate="20190613T024932Z">
+        <seg>基本转换用于单独处理每个事件，也就是说每条输出记录都是由单条输入记录所生成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4607,6 +5159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black squares are duplicated, and gray squares are filtered out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054533Z" creationid="xccui" creationdate="20190613T054410Z">
+        <seg>如果是黑色方块会将其复制；如果是灰色方块会将其过滤掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bob and Alice play the same game but have different mobile pro‐ viders.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T024443Z" creationid="xccui" creationdate="20190606T024443Z">
@@ -4625,8 +5185,8 @@
       <tuv lang="EN-US">
         <seg>Bootstrap a Flink Maven Project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145025Z" creationid="esouser" creationdate="20190603T145025Z">
-        <seg>启用Flink Maven项目</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004254Z" creationid="esouser" creationdate="20190603T145025Z">
+        <seg>创建Flink Maven项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -4903,6 +5463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAPTER 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014844Z" creationid="xccui" creationdate="20190612T014822Z">
+        <seg>第5章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025545Z" creationid="xccui" creationdate="20190225T025545Z">
@@ -5047,6 +5615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 5 will introduce you to the basics of the DataStream API, and Chapters 6, 7, and 8 will introduce everything you need to know about time-based operators, state‐ ful functions, and source and sink connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012744Z" creationid="xccui" creationdate="20190612T011507Z">
+        <seg>我们会在第5章介绍DataStream API的基础知识，在第6、7、8章介绍有关基于时间的算子、状态化函数以及数据源（汇）连接器的全部内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 6 discusses the time-based operators of the DataStream API.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T161611Z" creationid="esouser" creationdate="20190603T161540Z">
@@ -5167,6 +5743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Common choices are IntelliJ IDEA, Eclipse, or Netbeans with the appropriate plugins (such as for Maven, Git, and Scala support).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030527Z" creationid="xccui" creationdate="20190611T030527Z">
+        <seg>常见选项有IntelliJ IDEA、Eclipse或Netbeans，它们都需要相应安装一些插件（例如Maven插件、Git插件以及Scala插件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Companies employ many different applications to run their business, such as enter&lt;t0/&gt;‐&lt;t1/&gt; prise resource planning (ERP) systems, customer relationship management (CRM) software, or web-based applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190226T184326Z" creationid="xccui" creationdate="20190226T155328Z">
@@ -5195,6 +5779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T051459Z" creationid="xccui" creationdate="20190225T021731Z">
         <seg>Flink设置组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compute the average temperature every 5 seconds for a stream of sensors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041632Z" creationid="xccui" creationdate="20190612T041632Z">
+        <seg>针对传感器数据流每5秒计算一次平均温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -5543,6 +6135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051345Z" creationid="xccui" creationdate="20190612T051345Z">
+        <seg>Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data &lt;t0/&gt;ingestion&lt;t1/&gt; is the operation of fetching raw data from exter&lt;t2/&gt;‐&lt;t3/&gt; nal sources and converting it into a format that is suitable for processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T152000Z" creationid="xccui" creationdate="20190405T152000Z">
@@ -5775,6 +6375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DataStream but reorganize it by partitioning or grouping.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052753Z" creationid="xccui" creationdate="20190612T052753Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dataflow Graphs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143808Z" creationid="esouser" creationdate="20190603T143808Z">
@@ -5991,6 +6599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the type of execution environment, a JobManager is started as a local thread (local execution environment) or the JobGraph is sent to a remote JobManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012430Z" creationid="xccui" creationdate="20190613T012430Z">
+        <seg>根据执行环境类型的不同，可能会将JobManager作为本地线程启动（本地执行环境），也可能会将JobGraph发送到远程JobManager上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the use case and data store, the updates need to be processed before they can be incorporated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T062601Z" creationid="xccui" creationdate="20190314T073211Z">
@@ -6063,6 +6679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribution transformations reorganize stream events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024707Z" creationid="xccui" creationdate="20190613T024707Z">
+        <seg>分发转换会将流中的事件重新组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040308Z" creationid="xccui" creationdate="20190418T040308Z">
@@ -6107,6 +6731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T060020Z" creationid="xccui" creationdate="20190305T054916Z">
         <seg>得益于日志的追加特性，无论向消费者发布几次，事件的顺序都能保持一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Due to the single JVM execution mode, it is also possible to debug Flink applications in an IDE almost like any other program in your IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053500Z" creationid="xccui" creationdate="20190611T052843Z">
+        <seg>由于单JVM执行模式的存在，你可以像调试其他程序那样在IDE中调试Flink应用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6407,6 +7039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though Flink is a distributed data processing system, you will typically develop and run initial tests on your local machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T032142Z" creationid="xccui" creationdate="20190611T031040Z">
+        <seg>虽然Flink是一个分布式的数据处理系统，但你通常可以在本地计算机上进行开发并运行一些初始测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though low latency is an attractive feature of stream processing, its true value is way beyond just fast analytics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014221Z" creationid="xccui" creationdate="20190606T014221Z">
@@ -6679,6 +7319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every record contains an average temperature of a sensor over a period of 5 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054643Z" creationid="xccui" creationdate="20190612T054622Z">
+        <seg>每条记录都会包含对应传感器在5秒内的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evolving Stateful Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024857Z" creationid="xccui" creationdate="20190225T024857Z">
@@ -6735,6 +7383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 5-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035805Z" creationid="xccui" creationdate="20190612T035805Z">
+        <seg>示例5-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -6747,6 +7403,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035744Z" creationid="xccui" creationdate="20190418T035744Z">
         <seg>执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute the program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044410Z" creationid="xccui" creationdate="20190612T044410Z">
+        <seg>运行程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6825,8 +7489,8 @@
       <tuv lang="EN-US">
         <seg>Figure 1-1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190226T155724Z" creationid="xccui" creationdate="20190226T155724Z">
-        <seg>图1-1</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T051343Z" creationid="xccui" creationdate="20190226T155724Z">
+        <seg>图1-1，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7479,6 +8143,86 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 4-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041603Z" creationid="xccui" creationdate="20190611T041603Z">
+        <seg>图4-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 4-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041632Z" creationid="xccui" creationdate="20190611T041632Z">
+        <seg>图4-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 4-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041648Z" creationid="xccui" creationdate="20190611T041648Z">
+        <seg>图4-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 5-1 shows a map transformation that converts every square into a circle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045343Z" creationid="xccui" creationdate="20190613T045343Z">
+        <seg>图5-1所示的map转换会将每个方形输入转换为圆形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 5-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045347Z" creationid="xccui" creationdate="20190613T045347Z">
+        <seg>图5-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 5-2 shows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052259Z" creationid="xccui" creationdate="20190613T052259Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 5-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052306Z" creationid="xccui" creationdate="20190613T052306Z">
+        <seg>图5-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 5-3 shows a flatMap operation that differentiates its output based on the color of the incoming event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054323Z" creationid="xccui" creationdate="20190613T054323Z">
+        <seg>图5-3展示的flatMap操作会根据输入事件颜色的不同输出不同的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 5-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054545Z" creationid="xccui" creationdate="20190613T054545Z">
+        <seg>图5-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
+        <seg>图4-1到图4-3展示了导入过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File System Configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025511Z" creationid="xccui" creationdate="20190225T025511Z">
@@ -7527,6 +8271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051132Z" creationid="xccui" creationdate="20190613T051132Z">
+        <seg>Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, Chapter 11 contains resources you can use to ask questions, attend Flink- related events, and learn how Flink is currently being used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162637Z" creationid="esouser" creationdate="20190603T162637Z">
@@ -7563,6 +8315,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031118Z" creationid="xccui" creationdate="20190606T031118Z">
         <seg>最后一点，处理时间窗口能够表示数据流自身的真实情况，这可能是某些用例的理想属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, we apply a user-defined function that computes the average temperature on each window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053852Z" creationid="xccui" creationdate="20190612T053852Z">
+        <seg>最后我们用了一个用户自定义函数来计算每个窗口的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7617,8 +8377,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we show how to bootstrap a Flink Maven project, the starting point for a new application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040745Z" creationid="xccui" creationdate="20190610T040552Z">
-        <seg>最后我们会介绍如何启用Flink Maven项目，这通常是任何一个新应用的起点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004304Z" creationid="xccui" creationdate="20190610T040552Z">
+        <seg>最后我们会介绍如何创建Flink Maven项目，这通常是任何一个新应用的起点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7735,6 +8495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, let’s have a look at the data type we will be using to represent sensor readings:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035700Z" creationid="xccui" creationdate="20190612T035700Z">
+        <seg>首先来看一下传感器读取数据的数据类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you can parti&lt;t0/&gt;‐&lt;t1/&gt; tion your input data and have tasks of the same operation execute on the data subsets in parallel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T032148Z" creationid="xccui" creationdate="20190401T030434Z">
@@ -7747,6 +8515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233238Z" creationid="xccui" creationdate="20190605T233227Z">
         <seg>首先，你可以将输入数据分组，让同一操作的多个任务并发执行在不同数据子集上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FlatMap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053224Z" creationid="xccui" creationdate="20190613T053224Z">
+        <seg>FlatMap</seg>
       </tuv>
     </tu>
     <tu>
@@ -8063,6 +8839,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink programs are executed lazily.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011017Z" creationid="xccui" creationdate="20190613T010906Z">
+        <seg>Flink程序都是通过延迟计算的方式执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides Maven archetypes to generate Maven projects for Java or Scala Flink applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004621Z" creationid="xccui" creationdate="20190612T004239Z">
+        <seg>Flink提供了Maven模板来为Java或Scala的Flink应用生成Maven项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides a well-maintained collection of stream sinks that can be used to write data to different systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054203Z" creationid="xccui" creationdate="20190612T054203Z">
+        <seg>Flink提供了一组维护良好的流式数据汇，可用来完成上述工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides connectors to the most commonly used storage systems such as Apache Kafka, Apache Cassandra, Elasticsearch, JDBC, Kinesis, and (distributed) file systems such as HDFS and S3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T045210Z" creationid="xccui" creationdate="20190328T044823Z">
@@ -8151,6 +8951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink supports many data types, which we describe in the next section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051637Z" creationid="xccui" creationdate="20190612T051624Z">
+        <seg>Flink支持很多数据类型，我们会在下一节介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink treats all states—regardless of built-in or user-defined operators—the same.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053301Z" creationid="xccui" creationdate="20190607T053200Z">
@@ -8195,6 +9003,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154858Z" creationid="xccui" creationdate="20190225T022209Z">
         <seg>Flink的检查点算法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s DataStream API is available for Java and Scala.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015102Z" creationid="xccui" creationdate="20190611T014730Z">
+        <seg>Flink的DataStream API支持Java和Scala语言，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8791,6 +9607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Functions, such as</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020745Z" creationid="xccui" creationdate="20190613T020745Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fundamentals, Implementation, and Operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041340Z" creationid="esouser" creationdate="20190603T142422Z">
@@ -8811,6 +9635,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152554Z" creationid="esouser" creationdate="20190603T152554Z">
         <seg>用于图计算的Gelly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give your project a name and click Finish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041704Z" creationid="xccui" creationdate="20190611T041704Z">
+        <seg>为项目命名，然后单击Finish</seg>
       </tuv>
     </tu>
     <tu>
@@ -8959,6 +9791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, a Java JDK is required to implement Flink DataStream applications—Java JDK 8 (or higher).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015629Z" creationid="xccui" creationdate="20190611T014959Z">
+        <seg>因此在写DataStream 应用之前需要安装Java JDK 8或更高版本，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, a single misbehaving task can kill a whole TaskManager process and all tasks that run on it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144925Z" creationid="xccui" creationdate="20190606T144925Z">
@@ -9103,6 +9943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, you should be aware that you might debug a multithreaded program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054146Z" creationid="xccui" creationdate="20190611T054146Z">
+        <seg>所以你应该有可能要调试多线程程序的觉悟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, we briefly review some common data exchange strate&lt;t2/&gt;‐&lt;t3/&gt; gies, as shown in &lt;t4/&gt;Figure 2-3&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T034906Z" creationid="xccui" creationdate="20190401T034747Z">
@@ -9115,6 +9963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233351Z" creationid="xccui" creationdate="20190605T233351Z">
         <seg>下面我们结合图2-3来简单回顾一下常见的数据交换策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, we use a Scala case class as the data type that we defined before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051901Z" creationid="xccui" creationdate="20190612T051901Z">
+        <seg>在这里我们使用事先定义好的Scala样例类作为数据类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9217,8 +10073,8 @@
       <tuv lang="EN-US">
         <seg>However, UNIX-based setups enjoy the richest tooling support because this environment is preferred by most Flink developers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041023Z" creationid="xccui" creationdate="20190610T041004Z">
-        <seg>但在类UNIX系统</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054143Z" creationid="xccui" creationdate="20190610T041004Z">
+        <seg>但基于类UNIX系统的设置会享有最丰富的工具支持，因为大多数Flink开发人员都偏爱这类环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9439,6 +10295,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there are a few things to consider when debugging a Flink application in an IDE:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053805Z" creationid="xccui" creationdate="20190611T053805Z">
+        <seg>但在调试时需要注意一下几点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, there is also a mode in which the call of the execute() method starts a Job‐ Manager and a TaskManager (by default with as many slots as available CPU threads) as separate threads within the same JVM. Consequently, the whole Flink application is multithreaded and executed within the same JVM process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052546Z" creationid="xccui" creationdate="20190611T052546Z">
+        <seg>但除此之外还有一种执行模式：当execute()方法被调用时，会在同一个JVM中以独立线程的方式启动一个JobManager线程和一个TaskManager（默认的处理槽数等于???CPU可用线程数???）。这样，整个Flink应用会以多线程的方式在同一个JVM进程中执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they do not meet the latency requirements for many of today’s use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T062139Z" creationid="xccui" creationdate="20190604T055430Z">
@@ -9491,6 +10363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T205940Z" creationid="xccui" creationdate="20190228T203747Z">
         <seg>但随着Hadoop的流行，不少公司开始意识到他们现有的数据分析流程会遗漏很多有价值的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you should also know how to create a new Flink project from scratch.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004140Z" creationid="xccui" creationdate="20190612T004101Z">
+        <seg>但同时你也要掌握如何从头开始创建一个新的Flink项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9623,6 +10503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the JobManager runs remotely, the JobGraph must be shipped together with a JAR file that contains all classes and required dependencies of the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012656Z" creationid="xccui" creationdate="20190613T012656Z">
+        <seg>如果是远程JobManager的情况，除了JobGraph之外，还要同时提供包含应用所需全部类和依赖的JAR包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the ResourceManager does not have enough slots to fulfill the JobManager’s request, the ResourceManager can talk to a resource provider to provision containers in which TaskManager processes are started.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062029Z" creationid="xccui" creationdate="20190418T050826Z">
@@ -9671,10 +10559,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the command completed successfully, you will find a new target folder in your project folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010337Z" creationid="xccui" creationdate="20190612T010337Z">
+        <seg>如果命令成功完成，你会在项目目录里看到一个新的target文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the event-time clock advances, the task processes all triggered timers and finally broadcasts its new event time to all downstream tasks by emitting a corresponding watermark to all con‐ nected output partitions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T025139Z" creationid="xccui" creationdate="20190607T025043Z">
         <seg>如果事件时间时钟向前推动，任务会先处理因此而触发的所有定时器，最后才会把对应的水位线发往所有连接的输出分区，从而实现将事件时间广播到全部下游任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the input is a white square, it outputs the event unmodified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054414Z" creationid="xccui" creationdate="20190613T054359Z">
+        <seg>如果输入是白色方块，则不加改动直接输出；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the method is invoked from a submission cli‐ ent with a connection to a remote cluster, a remote execution environment is returned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045413Z" creationid="xccui" creationdate="20190612T045413Z">
+        <seg>如果是一个连接远程集群的提交客户端调用了该方法，则会返回一个远程执行环境；</seg>
       </tuv>
     </tu>
     <tu>
@@ -9747,6 +10659,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T143249Z" creationid="xccui" creationdate="20190412T142831Z">
         <seg>如果我们仅考虑现实时间一分钟内收到多少数据，那结果可能会随网络连接速度或处理速度而改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are familiar with batch data processing APIs, functional programming languages, or SQL you will find the API concepts very easy to grasp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024103Z" creationid="xccui" creationdate="20190613T024059Z">
+        <seg>如果你熟悉批处理API、函数式编程语言或SQL，将会发现这里的API概念都很容易掌握。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9863,10 +10783,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import the book examples repository into IntelliJ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041629Z" creationid="xccui" creationdate="20190611T041629Z">
+        <seg>将书中示例仓库导入IntelliJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import the book’s examples in your IDE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022322Z" creationid="xccui" creationdate="20190225T022322Z">
         <seg>将书中示例导入你的IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing the examples-scala repository into your IDE to experiment with Flink is a good first step.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004111Z" creationid="xccui" creationdate="20190612T004022Z">
+        <seg>将examples-scala库导入IDE来体验Flink是一个良好的开端。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10215,6 +11151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast to executing a Flink program by sending it to a remote JobManager, the program is executed in a single JVM. Therefore, certain issues, such as class‐ loading issues, cannot be properly debugged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054526Z" creationid="xccui" creationdate="20190611T054526Z">
+        <seg>和将Flink程序发送到远程JobManager执行相比，将程序放在单个JVM进程中执行可能会导致某些问题（例如类加载）无法正确调试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast to the AssignerWithPeriodicWatermarks function, this function can—but does not need to—extract a watermark from each record.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T040244Z" creationid="xccui" creationdate="20190607T040224Z">
@@ -10379,6 +11323,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235716Z" creationid="xccui" creationdate="20190605T235716Z">
         <seg>事实上这就是在流处理管道中利用并行性实现的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, the flatMap transformation is a gener‐ alization of filter and map and can be used to implement both those operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053755Z" creationid="xccui" creationdate="20190613T053755Z">
+        <seg>事实上，flatMap转换可以看做是filter和map的泛化，能够实现它们二者的操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10607,6 +11559,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our example, the result is a DataStream[SensorReading] record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054549Z" creationid="xccui" creationdate="20190612T054549Z">
+        <seg>在所给示例中，结果是DataStream[SensorReading]中的记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our example, we define the AverageSensorReadings object and include most of the application logic inside main().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043342Z" creationid="xccui" creationdate="20190612T043342Z">
+        <seg>在示例中，我们定义了AverageSensorReadings对象，并将大部分应用逻辑都放到了main()方法里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our example, we first apply a map() transformation that converts the temperature of each sensor reading to Celsius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053231Z" creationid="xccui" creationdate="20190612T053231Z">
+        <seg>在示例中，我们首先利用map()转换将每个传感器读取的温度都转换为摄氏度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our example, we retrieve the execution environment by calling the static getExecutionEnvironment() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045057Z" creationid="xccui" creationdate="20190612T045057Z">
+        <seg>在示例中，我们通过调用静态的getExecutionEnvironment()方法来获取执行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our example, we use:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051434Z" creationid="xccui" creationdate="20190612T051404Z">
+        <seg>在示例中，我们通过：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In parallel windows, each partition applies the window policies independently of other partitions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T195229Z" creationid="xccui" creationdate="20190409T194934Z">
@@ -10719,6 +11711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the DataStream API, the execution environment of an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044948Z" creationid="xccui" creationdate="20190612T044948Z">
+        <seg>在DataStream API中，执行环境用StreamExecutionEnvironment表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the beginning of this chapter, you saw how you can model streaming programs as dataflow graphs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033203Z" creationid="xccui" creationdate="20190415T041033Z">
@@ -10815,6 +11815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we describe how to obtain the code examples we use here, how to import them into IntelliJ, how to run an example application, and how to debug it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035134Z" creationid="xccui" creationdate="20190611T035122Z">
+        <seg>下文我们会介绍如何获取书中用到的代码，如何将它们导入IntelliJ以及如何运行和调试它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we describe in detail how a task emits watermarks to multiple output tasks and how it advances its event-time clock from the watermarks it receives from its input tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T024024Z" creationid="xccui" creationdate="20190607T015241Z">
@@ -10827,6 +11835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060033Z" creationid="xccui" creationdate="20190609T060033Z">
         <seg>接下来我们解释一下这个算法的工作原理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following, we explain this step in detail for IntelliJ.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041041Z" creationid="xccui" creationdate="20190611T040830Z">
+        <seg>下文我们会以IntelliJ为例对该步骤进行详细解释。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11063,6 +12079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter you learned how to set up an environment to develop and debug Flink DataStream applications and how to generate a Maven project using Flink’s Maven archetype.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010845Z" creationid="xccui" creationdate="20190612T010845Z">
+        <seg>本章你学到了如何设置一个用于开发和调试Flink DataStream应用的环境，以及如何使用Flink的Maven模板生成Maven项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter, we discuss why stateful stream processing is becoming so popular and assess its poten‐ tial.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T024714Z" creationid="esouser" creationdate="20190603T163008Z">
@@ -11121,8 +12145,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, you will learn how to set up an environment to develop, run, and debug Flink applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040135Z" creationid="xccui" creationdate="20190610T040115Z">
-        <seg>本章你将学到如何搭建一个环境来开发、运行、调试Flink应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012943Z" creationid="xccui" creationdate="20190610T040115Z">
+        <seg>本章你将学到如何搭建一个用于开发、运行和调试Flink应用的环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11155,6 +12179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033253Z" creationid="xccui" creationdate="20190418T032751Z">
         <seg>在本节，我们将首先介绍Flink设置中的不同组件，讨论它们的职责以及在运行应用时如何交互。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section we give an overview of the basic transformations of the DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012954Z" creationid="xccui" creationdate="20190613T012853Z">
+        <seg>本节我们将对DataStream API中的基本转换做一个概览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11551,6 +12583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, the API calls construct an execution plan in the execution environment, which consists of the stream sources created from the environment and all transformations that were tran‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011810Z" creationid="xccui" creationdate="20190613T011810Z">
+        <seg>事实上，它们只会在执行环境中构建一个执行计划，其中包含了从环境创建的流式数据源以及应用于这些数据源之上的一系列转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, time-based DataStream operator tasks configure the time‐ stamps of emitted records to ensure they are properly aligned with the emitted watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T013338Z" creationid="xccui" creationdate="20190607T013124Z">
@@ -11719,6 +12759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It defines the map() method that trans‐ forms an input event into exactly one output event:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050318Z" creationid="xccui" creationdate="20190613T050318Z">
+        <seg>它定义的map()方法将每个输入事件转换为一个输出事件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It discusses Flink’s approach to end-to-end application consistency and how to implement custom connectors to ingest data from and emit data to external systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162535Z" creationid="esouser" creationdate="20190603T162455Z">
@@ -11759,10 +12807,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054227Z" creationid="xccui" creationdate="20190612T054227Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also possible to configure an application to retain its last checkpoint when it is canceled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211232Z" creationid="xccui" creationdate="20190609T211232Z">
         <seg>可以通过配置让应用在取消的时候保留最近一次检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also possible to explicitly create local or remote execution environments as fol‐ lows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045513Z" creationid="xccui" creationdate="20190612T045513Z">
+        <seg>同时也可以像下面那样显式地创建一个本地或远程执行环境：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11827,6 +12891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031430Z" creationid="xccui" creationdate="20190606T031411Z">
         <seg>任何稍复杂点的计算都要用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It passes each incoming event to a user-defined mapper</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050421Z" creationid="xccui" creationdate="20190613T042926Z">
+        <seg>该转换将每个到来的事件传给一个用户自定义的映射器，后者针对每个输入只会返回一个（可能是不同类型的）输出事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11983,6 +13055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just like many DataStream applications, the source, sink, and opera‐ tors of the program are assembled in the main() method of the AverageSensorRead ings class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042849Z" creationid="xccui" creationdate="20190611T042751Z">
+        <seg>和大多数DataStream应用一样，该程序的数据源、数据汇以及其他算子都是在（AverageSensorReadings类的）main()方法中组装的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Selectors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145630Z" creationid="esouser" creationdate="20190603T145630Z">
@@ -12011,6 +13091,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022735Z" creationid="xccui" creationdate="20190225T022735Z">
         <seg>基于KeyedStream的转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KeyedStream transformations are transformations that are applied to events in the context of a key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024555Z" creationid="xccui" creationdate="20190613T024408Z">
+        <seg>KeyedStream转换是作用于同一键值上下文内事件的转换；</seg>
       </tuv>
     </tu>
     <tu>
@@ -12143,6 +13231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let’s start with a simple example to get a first impression of what it is like to write streaming applications with the DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035305Z" creationid="xccui" creationdate="20190612T035028Z">
+        <seg>让我们从一个简单的示例开始，来感受使用DataStream API编写流式应用的第一印象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Library style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143638Z" creationid="xccui" creationdate="20190606T143638Z">
@@ -12207,6 +13303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure that “Import project from external model” and “Maven” are selected and click Next.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041318Z" creationid="xccui" creationdate="20190611T041318Z">
+        <seg>确保勾上"Import project from external model"以及"Maven"两个选项，然后点击Next。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Managing Applications with the Command-Line Client</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025929Z" creationid="xccui" creationdate="20190225T025929Z">
@@ -12247,10 +13351,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Map</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T044721Z" creationid="xccui" creationdate="20190613T044721Z">
+        <seg>Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Map state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T220307Z" creationid="xccui" creationdate="20190607T220057Z">
         <seg>映射状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MapFunction in  the  following,  are  defined  as  classes  that  implement  a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020939Z" creationid="xccui" creationdate="20190613T020742Z">
+        <seg>函数可以被定义为实现了某个特定转换接口的类，例如下面的MapFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12375,6 +13495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, Flink provides Maven archetypes to bootstrap new Flink Maven projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004357Z" creationid="xccui" creationdate="20190611T020723Z">
+        <seg>此外，Flink还提供了Maven模板（Maven archetypes）来创建新的Flink Maven项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, even though events were not lost, they could be processed more than once.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051608Z" creationid="xccui" creationdate="20190605T051608Z">
@@ -12487,6 +13615,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most commonly, this is done in a static</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043215Z" creationid="xccui" creationdate="20190612T043110Z">
+        <seg>大多数情况下，这些工作都会在静态的main方法中完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most function interfaces are designed as SAM (single abstract method) interfaces and they can be implemented as Java 8 lambda functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022250Z" creationid="xccui" creationdate="20190613T022250Z">
+        <seg>大多数函数接口都被设计为SAM（单一抽象方法）形式的，因此可以通过Java 8的labmda函数实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most stream transformations are based on user-defined functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T014153Z" creationid="xccui" creationdate="20190613T014153Z">
+        <seg>大多数流式转换都是基于用户自定义函数来完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-Stream Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022743Z" creationid="xccui" creationdate="20190225T022743Z">
@@ -12505,8 +13657,16 @@
       <tuv lang="EN-US">
         <seg>Multistream Transformations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145126Z" creationid="esouser" creationdate="20190603T145126Z">
-        <seg>基于多流的转换</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024730Z" creationid="esouser" creationdate="20190603T145126Z">
+        <seg>多流转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multistream transformations merge multiple streams into one stream or split one stream into multiple streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024606Z" creationid="xccui" creationdate="20190613T024521Z">
+        <seg>多流转换会将多条数据流合并为一条或将一条数据流拆分成多条；</seg>
       </tuv>
     </tu>
     <tu>
@@ -12527,6 +13687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to File -&gt; New -&gt; Project from Existing Sources, select the book examples folder examples-scala, and click OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041215Z" creationid="xccui" creationdate="20190611T041215Z">
+        <seg>依次找到File -&gt; New -&gt; Project from Existing Sources，选择书中示例文件夹examples-scala，点击OK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New distributed stream processing projects are continuously entering the open source stage and are challenging the state-of-the-art with new features and capabilities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T054015Z" creationid="xccui" creationdate="20190319T054015Z">
@@ -12539,6 +13707,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050557Z" creationid="xccui" creationdate="20190605T050557Z">
         <seg>新的分布式流处理项目不断涌入开源领域，依靠其新特性和新功能向旧有的领先技术发起挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next,  we  use env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045810Z" creationid="xccui" creationdate="20190612T045706Z">
+        <seg>接下来我们通过env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, let’s run one of the book example applications in your IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042102Z" creationid="xccui" creationdate="20190611T042102Z">
+        <seg>下一步让我们尝试在IDE里运行书中的一个示例程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, we define a timeWindow() transfor‐ mation, which groups the sensor readings of each sensor ID partition into tumbling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053740Z" creationid="xccui" creationdate="20190612T053715Z">
+        <seg>接下来我们通过timeWindow()转换，在每个传感器ID分区都将读数划分为5秒一次的滚动窗口：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12735,6 +13927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the choice of a streaming sink affects the end-to-end con‐ sistency of an application, whether the result of the application is provided with at-least once or exactly-once semantics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005523Z" creationid="xccui" creationdate="20190613T005523Z">
+        <seg>注意，无论应用结果是至少一次语义还是精确一次语义，流式数据汇的选择都将影响应用端到端的一致性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the savepoint does not contain information about opera‐ tor tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215650Z" creationid="xccui" creationdate="20190609T215650Z">
@@ -12763,6 +13963,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T035840Z" creationid="xccui" creationdate="20190329T035802Z">
         <seg>注意：你也可以根据代码库中README文件的指示自行构建JAR文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now let’s quickly discuss what is happening under the hood.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043738Z" creationid="xccui" creationdate="20190611T043738Z">
+        <seg>接下来我们快速讨论一下内部发生的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now open your IDE and import the Maven project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040711Z" creationid="xccui" creationdate="20190611T040711Z">
+        <seg>现在就可以打开你的IDE，把Maven项目导进去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12975,6 +14191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all tasks are up and running, the pro‐ gram starts to produce its results, which should look similar to the following lines:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043424Z" creationid="xccui" creationdate="20190611T043424Z">
+        <seg>一旦所有任务启动起来并开始运行，程序就会开始生成类似下面这样的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once an application is submitted for execution, it starts a JobManager and hands the application over.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142904Z" creationid="xccui" creationdate="20190606T142857Z">
@@ -13031,6 +14255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the execution environment has been configured, it is time to do some actual work and start processing streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050957Z" creationid="xccui" creationdate="20190612T050957Z">
+        <seg>在执行环境配置完后，就可以进行一些实质性的工作，正式开始处理数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the sender task completes, the data is sent as a batch over a temporary TCP connection to the receiver</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045623Z" creationid="xccui" creationdate="20190504T045549Z">
@@ -13043,6 +14275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T200648Z" creationid="xccui" creationdate="20190606T200629Z">
         <seg>一旦发送端任务完成，所有数据会经由一个到接收端的临时TCP连接，批量发出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once we have a DataStream, we can apply a transformation on it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052239Z" creationid="xccui" creationdate="20190612T052239Z">
+        <seg>一旦得到了DataStream，我们就可以对它进行转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13127,6 +14367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only when execute() is called does the system trig‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011948Z" creationid="xccui" creationdate="20190613T011858Z">
+        <seg>只有在调用execute()方法时，系统才会触发程序执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Flink’s Web UI by entering the URL http://localhost:8081 in your browser.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123232Z" creationid="xccui" creationdate="20190605T123228Z">
@@ -13139,6 +14387,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T035037Z" creationid="xccui" creationdate="20190329T025509Z">
         <seg>在你浏览器中输入URL http://localhost:8081，打开Flink Web UI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open a terminal and run the following Git command to clone the examples-scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040102Z" creationid="xccui" creationdate="20190611T035954Z">
+        <seg>打开终端运行以下Git命令将examples-scala库克隆到你的机器上1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open a terminal and run the following command to create a Flink Maven Quickstart Scala project as a starting point for your Flink application:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004808Z" creationid="xccui" creationdate="20190612T004808Z">
+        <seg>打开终端运行以下命令来创建Flink Maven Quickstart Scala项目，并以它为基础开发Flink应用：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13416,6 +14680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally output the result to one or more data sinks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044352Z" creationid="xccui" creationdate="20190612T044352Z">
+        <seg>选择性地将结果输出到一个或多个数据汇中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other features include support to upgrade application code or migrate a job to a different cluster or a new version of the stream processor without losing the current state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053924Z" creationid="xccui" creationdate="20190605T053913Z">
@@ -13440,10 +14712,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, it returns a local environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045422Z" creationid="xccui" creationdate="20190612T045422Z">
+        <seg>否则会返回一个本地环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise, the operator would have to store the complete stream history.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035454Z" creationid="xccui" creationdate="20190406T035454Z">
         <seg>否则算子就需要存储整个历史流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our code exam‐ ples use Scala for conciseness, but the Java API is mostly analogous (exceptions or special cases will be pointed out).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034526Z" creationid="xccui" creationdate="20190612T034526Z">
+        <seg>出于简洁考虑，我们的示例代码还会选用Scala版本，但绝大多数的Java API都是类似的（如果有异常或特殊情况会指出）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our example application ingests a stream of temperature meas‐ urements from multiple sensors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035537Z" creationid="xccui" creationdate="20190612T035520Z">
+        <seg>我们的示例应用会从多个传感器中获取温度测量数据流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13864,6 +15160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read one or more streams from data sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043536Z" creationid="xccui" creationdate="20190612T043536Z">
+        <seg>从数据源中读取一条或多条流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reading from and Writing to External Systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025053Z" creationid="xccui" creationdate="20190225T025053Z">
@@ -14192,6 +15496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run and Debug Flink Applications in an IDE | 73</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012826Z" creationid="xccui" creationdate="20190612T012826Z">
+        <seg>在IDE中执行和调试Flink程序 | 73</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run and debug Flink applications in an IDE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022308Z" creationid="xccui" creationdate="20190225T022308Z">
@@ -14250,8 +15562,8 @@
       <tuv lang="EN-US">
         <seg>Scaling Stateful Operators</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022106Z" creationid="xccui" creationdate="20190225T022106Z">
-        <seg>状态算子扩容</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032530Z" creationid="xccui" creationdate="20190225T022106Z">
+        <seg>状态化算子扩缩容</seg>
       </tuv>
     </tu>
     <tu>
@@ -14352,6 +15664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for the AverageSensorReadings class and open it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042128Z" creationid="xccui" creationdate="20190611T042128Z">
+        <seg>找到AverageSensorReadings类，打开它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sebastopol</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210641Z" creationid="esouser" creationdate="20190603T210641Z">
@@ -14400,6 +15720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Maven project to import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041645Z" creationid="xccui" creationdate="20190611T041645Z">
+        <seg>选择要导入的Maven项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selling or distributing a CD-ROM of examples from O’Reilly books does require permission.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210819Z" creationid="esouser" creationdate="20190603T210819Z">
@@ -14420,6 +15748,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202509Z" creationid="xccui" creationdate="20190606T202509Z">
         <seg>通过网络连接逐条发送记录不但低效，还会导致很多额外开销。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SensorReading contains the sensor ID, a timestamp denoting when the measurement was taken, and the measured temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052008Z" creationid="xccui" creationdate="20190612T052008Z">
+        <seg>每一条SensorReading数据都包括传感器ID，表示测试时间的时间戳以及测量的温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SensorReading(r.id, r.timestamp, celsius)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042303Z" creationid="xccui" creationdate="20190612T042303Z">
+        <seg>SensorReading(r.id, r.timestamp, celsius)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14530,8 +15874,8 @@
       <tuv lang="EN-US">
         <seg>Set Up the Execution Environment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145031Z" creationid="esouser" creationdate="20190603T145031Z">
-        <seg>设置运行环境</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044650Z" creationid="esouser" creationdate="20190603T145031Z">
+        <seg>设置执行环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -14540,6 +15884,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022537Z" creationid="xccui" creationdate="20190225T022537Z">
         <seg>设置运行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set up the execution environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044657Z" creationid="xccui" creationdate="20190612T043506Z">
+        <seg>设置执行环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14564,6 +15916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T042846Z" creationid="xccui" creationdate="20190606T042846Z">
         <seg>设置Apaceh Flink开发环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting Up a Development Environment for Apache Flink | 71</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012812Z" creationid="xccui" creationdate="20190612T012812Z">
+        <seg>设置Apache Flink开发环境 | 71</seg>
       </tuv>
     </tu>
     <tu>
@@ -14636,6 +15996,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T203907Z" creationid="xccui" creationdate="20190402T203453Z">
         <seg>同样，如果系统性能不足，事件很容易堆积缓冲，必须等待一段时间才能处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple value conversions, splitting of records, or filtering of records are examples of common basic functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025233Z" creationid="xccui" creationdate="20190613T025145Z">
+        <seg>常见的基本函数示例有：简单的值转换，记录拆分或过滤等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since Flink is a distributed system, the JobManager and TaskManagers typically run as separate JVM processes on different machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051402Z" creationid="xccui" creationdate="20190611T051402Z">
+        <seg>由于Flink是一个分布式系统，JobManager和TaskManager通常会在不同机器上作为独立的JVM进程运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14892,6 +16268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T045924Z" creationid="xccui" creationdate="20190605T045832Z">
         <seg>一些最初的研究原型和商业产品可以追溯到上世纪90年代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some transformations can produce a new DataStream, pos‐ sibly of a different type, while other transformations do not modify the records of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052746Z" creationid="xccui" creationdate="20190612T052453Z">
+        <seg>有些会生成一个新的DataStream（类型可能不同）；而另外的一些不会修改DataStream中的记录，仅会通过分区或分组的方式将其重新组织。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,6 +16664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stream API program essentially boils down to combining such transformations to create a dataflow graph that implements the application logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013754Z" creationid="xccui" creationdate="20190613T013744Z">
+        <seg>完成一个DataStream API程序在本质上可以归结为：通过组合不同的转换来创建一个满足应用逻辑的dataflow图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stream Processing Fundamentals</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T050207Z" creationid="xccui" creationdate="20190329T050207Z">
@@ -15432,6 +16824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Streaming applications usually emit their results to some external system, such as Apache Kafka, a filesystem, or a database.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054057Z" creationid="xccui" creationdate="20190612T054057Z">
+        <seg>流式应用通常都会把结果发送到某些外部系统，例如Apache Kafka，文件系统或数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Streaming systems define their behavior in the pres&lt;t0/&gt;‐&lt;t1/&gt; ence of failures by offering result guarantees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T044432Z" creationid="xccui" creationdate="20190415T044326Z">
@@ -15516,6 +16916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T032814Z" creationid="xccui" creationdate="20190610T032814Z">
         <seg>总结 | 69</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary | 77</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012750Z" creationid="xccui" creationdate="20190612T012750Z">
+        <seg>总结 | 77</seg>
       </tuv>
     </tu>
     <tu>
@@ -15816,6 +17224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That is, the API calls that create stream sources and transformations do not immediately trigger any data processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011133Z" creationid="xccui" creationdate="20190613T011133Z">
+        <seg>也就是说，那些创建数据源和转换操作的API调用不会立即触发任何数据处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That is, the processing of an event does not depend on any events seen in the past and no history is kept.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T035827Z" creationid="xccui" creationdate="20190405T035802Z">
@@ -15876,6 +17292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210230Z" creationid="xccui" creationdate="20190402T204424Z">
         <seg>确切地说，如果咖啡店只有你一名顾客，你将得到最快的服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s it!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041710Z" creationid="xccui" creationdate="20190611T041710Z">
+        <seg>就这么简单！</seg>
       </tuv>
     </tu>
     <tu>
@@ -15992,10 +17416,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream API (v1.7)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014854Z" creationid="xccui" creationdate="20190612T014854Z">
+        <seg>DataStream API （1.7版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API (v1.7).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022444Z" creationid="xccui" creationdate="20190225T022435Z">
         <seg>DataStream API （1.7版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DataStream API provides transformations for the most common data transfor‐ mation operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T023051Z" creationid="xccui" creationdate="20190613T023051Z">
+        <seg>DataStream API为一些最常见的数据转换操作都提供了对应的转换抽象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16020,6 +17460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130824Z" creationid="xccui" creationdate="20190605T130824Z">
         <seg>开源流处理的衍变 | 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The FilterFunction interface is typed to the type of the input stream and defines the filter() method that is called with an input event and returns a boolean:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052914Z" creationid="xccui" creationdate="20190613T052914Z">
+        <seg>FilterFunction接口的类型为输入流的类型，它的filter()方法会接收一个输入事件，返回一个布尔值：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16160,6 +17608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The MapFunction is typed to the types of the input and output events and can be specified using the MapFunction interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052743Z" creationid="xccui" creationdate="20190613T050021Z">
+        <seg>MapFunction的两个类型分别为输入和输出事件类型，可以通过MapFunction接口来指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The O’Reilly logo is a registered trademark of O’Reilly Media, Inc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210736Z" creationid="esouser" creationdate="20190603T210736Z">
@@ -16212,6 +17668,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152428Z" creationid="esouser" creationdate="20190603T152428Z">
         <seg>Flink生态的其他组成部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Scala DataStream API also has built-in support for lambda functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022408Z" creationid="xccui" creationdate="20190613T022402Z">
+        <seg>Scala DataStream API同样内置了对lambda函数的支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The StreamExecutionEnvironment provides methods to create stream sources that ingest data streams into the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051229Z" creationid="xccui" creationdate="20190612T051229Z">
+        <seg>StreamExecutionEnvironment提供了一些创建流式数据源的方法，可以将数据流读取到应用中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16376,6 +17848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The assignTimestampsAndWater marks(new SensorTimeAssigner) method assigns the timestamps and watermarks that are required for event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052108Z" creationid="xccui" creationdate="20190612T052108Z">
+        <seg>assignTimestampsAndWatermarks(new SensorTimeAssigner)方法负责分配事件时间所需的时间戳和水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The batch processor periodically processes the data in batch storage, writes the exact results into a batch table, and drops the corre‐ sponding inaccurate results from the speed table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052357Z" creationid="xccui" creationdate="20190605T052246Z">
@@ -16388,6 +17868,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012714Z" creationid="xccui" creationdate="20190606T012714Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The book examples are provided as a Maven project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040502Z" creationid="xccui" creationdate="20190611T040502Z">
+        <seg>书中的示例都是以Maven项目的形式提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The boolean condition is implemented as a function either using the FilterFunction interface or a lambda function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052627Z" creationid="xccui" creationdate="20190613T052627Z">
+        <seg>可以利用FilterFunction接口或lambda函数来实现定义布尔条件的函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16440,10 +17936,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The code examples of the book use Maven build manage‐ ment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030150Z" creationid="xccui" creationdate="20190611T020420Z">
+        <seg>书中示例代码都是使用Maven来构建管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The code examples of this book are hosted on GitHub.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035214Z" creationid="xccui" creationdate="20190611T035214Z">
+        <seg>本书的示例代码托管在GitHub上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The completed checkpoint can be used to recover the appli‐ cation from a failure as described before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T194512Z" creationid="xccui" creationdate="20190609T194447Z">
         <seg>如前所述，应用在发生故障时就可以利用这个生成好的检查点进行恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The constructed plan is translated into a JobGraph and submitted to a JobManager for execution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012200Z" creationid="xccui" creationdate="20190613T012055Z">
+        <seg>构建完的计划会被转成JobGraph并提交至JobManager执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The corre‐ sponding FlatMapFunction defines the flatMap() method, which may return zero, one, or more events as results by passing them to the Collector object:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061011Z" creationid="xccui" creationdate="20190613T055004Z">
+        <seg>对应的FlatMapFunction定义了flatMap()方法，可以通过向Collector对象中传递数据的方式返回零个、一个或多个事件作为结果：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16496,6 +18024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The end-to- end consistency of the application depends on the integration of the chosen stream sinks with Flink’s checkpointing algorithm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005721Z" creationid="xccui" creationdate="20190613T005721Z">
+        <seg>该一致性取决于所选数据汇和Flink检查点算法的集成情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The event log decouples senders and receivers and provides asynchronous, non-blocking event transfer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190308T072837Z" creationid="xccui" creationdate="20190308T072837Z">
@@ -16544,6 +18080,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The execution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051339Z" creationid="xccui" creationdate="20190612T051339Z">
+        <seg>The execution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The execution environment determines whether the program is running on a local machine or on a cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044916Z" creationid="xccui" creationdate="20190612T044916Z">
+        <seg>执行环境决定了应用是在本地机器上还是集群上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The execu‐ tion of tasks and the concept of slots is discussed in “Task Execution”.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142745Z" creationid="xccui" creationdate="20190606T142726Z">
@@ -16576,6 +18128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The filter transformation drops or forwards events of a stream by evaluating a boolean condition on each input event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051901Z" creationid="xccui" creationdate="20190613T051252Z">
+        <seg>Filter转换利用一个作用在每条输入事件上的布尔条件来决定流中事件的去存，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first field of the SensorReading is a sensorId, the second field is the time‐ stamp in milliseconds since 1970-01-01-00:00:00.000, and the third field is an average temperature computed over 5 seconds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T124114Z" creationid="xccui" creationdate="20190605T123948Z">
@@ -16600,10 +18160,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first thing a Flink application needs to do is set up its execution environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044646Z" creationid="xccui" creationdate="20190612T044646Z">
+        <seg>Flink应用要做的第一件事就是设置执行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first type are periodic report queries that compute business relevant statistics such as revenue, user growth, or production output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T193927Z" creationid="xccui" creationdate="20190228T193139Z">
         <seg>第一类是定期报告查询，用于计算业务相关的统计信息，如收入、用户增长、产出等，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The flatMap transformation applies a function on each incoming event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T055027Z" creationid="xccui" creationdate="20190613T054855Z">
+        <seg>flatMap转换会针对每个到来事件应用一个函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The flatMap transformation is similar to map, but it can produce zero, one, or more output events for each incoming event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053414Z" creationid="xccui" creationdate="20190613T053414Z">
+        <seg>flatMap转换类似于map，但它可以对每个到来事件产生零个、一个或多个输出事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The folder contains a file flink-scala-project-0.1.jar, which is the JAR file of your Flink application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010603Z" creationid="xccui" creationdate="20190612T010603Z">
+        <seg>该文件夹里会有一个flink-scala-project-0.1.jar文件，也就是你Flink应用的JAR包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example shows a filter that drops all sensor measurements with tem‐ perature below 25°F:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053205Z" creationid="xccui" creationdate="20190613T053205Z">
+        <seg>下方示例所展示的filter会丢弃所有温度低于25°F的传感器测量值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following is a simple mapper that extracts the first field (id) of each SensorRead ing in the input stream:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050710Z" creationid="xccui" creationdate="20190613T050710Z">
+        <seg>下面是一个简单的映射器，它会提取输入流中的每个SensorReading记录的第一个字段（id）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16664,6 +18272,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The function interface defines the transformation method that needs to be imple‐ mented by the user, such as the map() method in the example above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T021057Z" creationid="xccui" creationdate="20190613T020932Z">
+        <seg>函数接口规定了用户需要实现的转换方法，例如上面例子中的map()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The function is applied on a stream of sentences, splits each sentence by the space character, and emits each resulting word as an individual record:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T062037Z" creationid="xccui" creationdate="20190613T061921Z">
+        <seg>这个函数会作用于一个语句流上，将每个句子按照空格字符分割，随后把分割得到的每个单词作为一条独立的记录发出去：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The functions encapsulate the user application logic and define how the elements of the input stream are transformed into the elements of the output stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T014237Z" creationid="xccui" creationdate="20190613T014237Z">
+        <seg>这些函数封装了用户应用逻辑，定义了输入流的元素如何转换为输出流的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The functions of the operators are fused into a single task that is executed by a single thread.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203638Z" creationid="xccui" creationdate="20190606T203546Z">
@@ -16688,6 +18320,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The generated pom.xml file also contains instructions on how to add new dependencies to your project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010743Z" creationid="xccui" creationdate="20190612T010743Z">
+        <seg>生成的pom.xml文件里还包含一些如何往项目中添加其他依赖的说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The gen‐ erated folder contains a src/ folder and a pom.xml file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005659Z" creationid="xccui" creationdate="20190612T005652Z">
+        <seg>生成的文件夹内包含了一个src/目录和一个pom.xml文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal of this chapter is to introduce the fundamental concepts of stream process‐ ing and the requirements of its frameworks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224728Z" creationid="xccui" creationdate="20190605T224706Z">
@@ -16708,6 +18356,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T030328Z" creationid="xccui" creationdate="20190423T030328Z">
         <seg>映像中还包含着运行JobManager以及ResourceManager的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The implementation details of SensorTimeAssigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052836Z" creationid="xccui" creationdate="20190612T052147Z">
+        <seg>现在无须关心SensorTimeAssigner的实现细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The import steps are similar for most IDEs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040757Z" creationid="xccui" creationdate="20190611T040757Z">
+        <seg>大多数IDE的导入步骤都很类似，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16800,6 +18464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The logic of an application is defined by chaining transformations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053100Z" creationid="xccui" creationdate="20190612T052904Z">
+        <seg>应用的逻辑是通过一系列转换来定义的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main take-away here is that lowering latency actually increases throughput.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T211801Z" creationid="xccui" creationdate="20190402T211645Z">
@@ -16812,6 +18484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235620Z" creationid="xccui" creationdate="20190605T235620Z">
         <seg>这里的要点就是降低延迟实际上可以提高吞吐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The map transformation is specified by calling the DataStream.map() method and produces a new DataStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T044734Z" creationid="xccui" creationdate="20190613T042736Z">
+        <seg>通过调用DataStream.map()方法可以指定map转换产生一个新的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16892,6 +18572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051812Z" creationid="xccui" creationdate="20190605T051725Z">
         <seg>以当时的眼光看待流处理系统，计算快速和结果准确二者不可兼得，因此才有了所谓的Lambda架构，详见图1-7。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The obvious next step is to learn how to actually implement a DataStream program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T011435Z" creationid="xccui" creationdate="20190612T011435Z">
+        <seg>而接下来将要学的自然就是如何实现DataStream程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17008,10 +18696,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The output of the program is written to the standard out (or console) window of your IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042955Z" creationid="xccui" creationdate="20190611T042955Z">
+        <seg>程序的输出会写到你IDE的标准输出（或控制台）窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The output of the source tasks is partitioned into streams of  even and odd numbers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T062132Z" creationid="xccui" creationdate="20190609T062059Z">
         <seg>数据源任务的输出会被分成奇数流和偶数流两个部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The output starts with a few log statements about the states that parallel operator tasks go through, such as SCHED‐ ULING, DEPLOYING, and RUNNING.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043236Z" creationid="xccui" creationdate="20190611T043225Z">
+        <seg>输出以几行日志语句开始，它们记录了并行算子所经过的一些状态，例如：SCHEDULING、DEPLOYING和RUNNING。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17080,6 +18784,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The program in Example 5-1 converts the temperatures from Fahrenheit to Celsius and computes the average temperature every 5 seconds for each sensor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053332Z" creationid="xccui" creationdate="20190612T035758Z">
+        <seg>示例5-1中的程序将温度从华氏度转为摄氏度并计算每个传感器每5秒钟的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The program will continue to generate new events, process them, and emit new results every second until you terminate it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043558Z" creationid="xccui" creationdate="20190611T043547Z">
+        <seg>如果不手动终止，这个程序会一直生成新的事件、处理它们并每秒产生新的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project contains two skeleton files, BatchJob.scala and StreamingJob.scala, as a starting point for your own programs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010104Z" creationid="xccui" creationdate="20190612T010104Z">
+        <seg>项目所包含的两个骨架文件，BatchJob.scala和StreamingJob.scala，可以作为你程序的起点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The random strategy uniformly distributes data items to operator tasks in order to evenly distribute the load across computing tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233607Z" creationid="xccui" creationdate="20190605T233549Z">
@@ -17124,6 +18852,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030241Z" creationid="xccui" creationdate="20190225T030241Z">
         <seg>Flink生态的其他组成部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result stream is written to the standard output by calling print():</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022726Z" creationid="xccui" creationdate="20190612T054705Z">
+        <seg>通过调用print()将写过写到标准输出：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results of the program are emitted to standard output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042541Z" creationid="xccui" creationdate="20190611T042541Z">
+        <seg>程序的结果会写入标准输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17220,6 +18964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T031659Z" creationid="xccui" creationdate="20190609T030952Z">
         <seg>数据源算子的任务会把输入流的当前偏移量存为状态；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The src/ folder has the follow‐ ing structure:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005710Z" creationid="xccui" creationdate="20190612T005710Z">
+        <seg>src/目录的结构如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17346,8 +19098,8 @@
       <tuv lang="EN-US">
         <seg>The tasks of operators with two or more input streams such as Union or CoFlatMap (see “Multistream Transformations”) also compute their event-time clock as the mini‐ mum of all partition watermarks—they do not distinguish between partition water‐ marks of different input streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T030516Z" creationid="xccui" creationdate="20190607T025821Z">
-        <seg>对于那些有着两条或多条输入数据流的算子，如Union或CoFlatMap（详见"基于多流的转换"），它们的任务同样是利用全部分区水位线中的最小值来计算事件时间时钟而没有考虑分区是否来自不同的流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024744Z" creationid="xccui" creationdate="20190607T025821Z">
+        <seg>对于那些有着两条或多条输入数据流的算子，如Union或CoFlatMap（详见"多流转换"），它们的任务同样是利用全部分区水位线中的最小值来计算事件时间时钟而没有考虑分区是否来自不同的流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17556,6 +19308,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210637Z" creationid="xccui" creationdate="20190402T210637Z">
         <seg>既然这样，可以通过某种方式同时获得低延迟和高吞吐吗？还是说根本不切实际？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, we use the keyBy() transformation to parti‐ tion the sensor readings by their sensor ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053453Z" creationid="xccui" creationdate="20190612T053453Z">
+        <seg>然后我们使用keyBy()转换，将传感器读数按照传感器ID进行分区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are also applications that do not emit results but keep them internally to serve them via Flink’s queryable state feature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054456Z" creationid="xccui" creationdate="20190612T054456Z">
+        <seg>还有一些应用不会发出结果，而是将它们保存在内部，利用Flink的可查询状态功能对外提供服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are different types of transformations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052719Z" creationid="xccui" creationdate="20190612T052303Z">
+        <seg>转换的类型多种多样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17920,6 +19696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter introduces the basics of Flink’s DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014914Z" creationid="xccui" creationdate="20190612T014914Z">
+        <seg>本章主要介绍Flink DataStream API的基础知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter is still rather independent of Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T053557Z" creationid="xccui" creationdate="20190329T053557Z">
@@ -17988,6 +19772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210811Z" creationid="esouser" creationdate="20190603T210811Z">
         <seg>This element signifies a warning or caution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example shows a flatMap transformation commonly found in data processing tutorials.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061551Z" creationid="xccui" creationdate="20190613T061551Z">
+        <seg>以下示例展示了数据处理教程中一个常见的flagMap转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18088,6 +19880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the last call in our example:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005918Z" creationid="xccui" creationdate="20190613T005918Z">
+        <seg>这是我们示例中最后一个方法调用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the strictest and most challenging to achieve type of guarantee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T043916Z" creationid="xccui" creationdate="20190416T043916Z">
@@ -18100,6 +19900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190313T005726Z" creationid="xccui" creationdate="20190312T214059Z">
         <seg>这在Flink保存点（savepoint）功能的加持下，尤为引人注目。所谓保存点功能是指在保证一致性的前提下，允许将应用状态重置到先前某个保存的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes development easier and sim‐ plifies cluster deployment, as you can run the exact same code in a cluster environ‐ ment without making any changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T034912Z" creationid="xccui" creationdate="20190611T032127Z">
+        <seg>这让开发过程变得更容易，也让集群部署变得更简单，因为你可以在不对代码进行任何修改的情况下直接切换到集群环境中运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18136,10 +19944,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This method returns a local or remote environment, depending on the con‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045221Z" creationid="xccui" creationdate="20190612T045221Z">
+        <seg>根据调用时所处上下文的不同，这个方法可能会返回一个本地或远程环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method stores every event in a buffer until its processing has been acknowledged by all tasks in the pipeline, at which point the event can be discarded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045558Z" creationid="xccui" creationdate="20190416T043634Z">
         <seg>该方法会将所有事件存在缓冲中，直到处理管道中所有任务都确认某个事件已经处理完毕才会将它丢弃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This mode is used to execute a Flink program within an IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052637Z" creationid="xccui" creationdate="20190611T052637Z">
+        <seg>该模式可用于在IDE中执行Flink应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18308,6 +20132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210136Z" creationid="xccui" creationdate="20190402T205924Z">
         <seg>这样的话，准备单杯咖啡的时间就会延长，继而导致每名顾客在店里花费的时间增加，整体吞吐量下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will generate a Maven project for Flink 1.7.1 in a folder called flink-scala-project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005158Z" creationid="xccui" creationdate="20190612T005158Z">
+        <seg>上述命令会为Flink 1.7.1版本生成一个Maven项目，放在flink-scala-project文件夹内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18520,6 +20352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time-related operators such as window operators and other specialized trans‐ formations are described in later chapters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013239Z" creationid="xccui" creationdate="20190613T013033Z">
+        <seg>基于时间的算子（例如窗口算子）以及其他一些特殊转换会在后面章节介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TimerService and Timers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145847Z" creationid="esouser" creationdate="20190603T145847Z">
@@ -18724,6 +20564,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T043556Z" creationid="xccui" creationdate="20190605T043556Z">
         <seg>在某种程度上，使用数据管道应用来导入数据可以降低延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start the application, run the main() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042857Z" creationid="xccui" creationdate="20190611T042842Z">
+        <seg>直接运行它就能启动应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To structure a typical Flink streaming application:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043456Z" creationid="xccui" creationdate="20190612T043456Z">
+        <seg>构建一个典型的Flink流式应用需要以下步骤：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19096,6 +20952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless you specify a parallelism, a program is executed by as many threads as the number of CPU threads of your development machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053929Z" creationid="xccui" creationdate="20190611T053929Z">
+        <seg>除非手工指定并行度，否则程序的线程数会和你开发机器的CPU线程数一样多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Until the rise of Apache Hadoop, specialized analytical database systems and data warehouses were the predominant solutions for data analytics workloads.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T203754Z" creationid="xccui" creationdate="20190228T194848Z">
@@ -19244,6 +21108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040616Z" creationid="xccui" creationdate="20190610T040506Z">
         <seg>这些示例将向你展示如何在IDE中执行和调试Flink应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually, the program’s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051407Z" creationid="xccui" creationdate="20190611T051407Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -19440,6 +21312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We also provide complete example applications implemented in Java and Scala in our GitHub repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034647Z" creationid="xccui" creationdate="20190612T034647Z">
+        <seg>我们在Github仓库中同时提供了用Java和Scala实现的完整示例程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We appreciate, but do not require, attribution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210822Z" creationid="esouser" creationdate="20190603T210822Z">
@@ -19468,6 +21348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T043327Z" creationid="xccui" creationdate="20190415T043245Z">
         <seg>我们假设网络连接是可靠的，即不存在记录丢失或重复，所有事件最终都会以先进先出的顺序到达其终点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We assume the following software is installed as well, although it is not strictly required to develop Flink applications:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020130Z" creationid="xccui" creationdate="20190611T020130Z">
+        <seg>此外虽不强制，但我们假设以下软件也已装好：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19600,6 +21488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We discuss the implementation of a user-defined function in a later sec‐ tion of this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054002Z" creationid="xccui" creationdate="20190612T032346Z">
+        <seg>有关用户自定义函数的实现会在本章后面部分讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We discuss the responsibilities of each component and how it interacts with the other components in the following.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033707Z" creationid="xccui" creationdate="20190418T033707Z">
@@ -19688,6 +21584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We explain their semantics and show code examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025327Z" creationid="xccui" creationdate="20190613T025327Z">
+        <seg>我们将结合代码示例对它们的语义进行解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We express these performance requirements in terms of &lt;t4/&gt;latency &lt;t5/&gt;and&lt;t6/&gt; throughput&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T151521Z" creationid="xccui" creationdate="20190401T151311Z">
@@ -19752,6 +21656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We now look at these parts in detail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044534Z" creationid="xccui" creationdate="20190612T044457Z">
+        <seg>接下来我们详细介绍一下这些步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We now turn to another extremely important aspect of stream processing—state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031403Z" creationid="xccui" creationdate="20190606T031350Z">
@@ -19768,10 +21680,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We present the transformations of the DataStream API in four categories:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024132Z" creationid="xccui" creationdate="20190613T024132Z">
+        <seg>我们将DataStream API的转换分为四类：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We present two different styles of deploying Flink applications and dis&lt;t0/&gt;‐&lt;t1/&gt; cuss how tasks are distributed and executed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033310Z" creationid="xccui" creationdate="20190418T033020Z">
         <seg>随后，我们会给出部署Flink应用的两种类型，并讨论如何分配和执行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend using IntelliJ IDEA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030642Z" creationid="xccui" creationdate="20190611T030642Z">
+        <seg>本书建议使用IntelliJ IDEA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We show the structure and components of a typical Flink streaming application, discuss Flink’s type systems and the supported data types, and present data and partitioning transformations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032259Z" creationid="xccui" creationdate="20190612T032259Z">
+        <seg>我们会介绍典型Flink流式应用的结构及组件，讨论Flink的类型系统和支持的数据类型，并展示数据转换和分区转换操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19804,6 +21740,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T061814Z" creationid="xccui" creationdate="20190609T061814Z">
         <seg>我们通过一个简单流式应用的示例来一步一步解释这个算法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will be assuming a UNIX-based setup in the rest of this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T014324Z" creationid="xccui" creationdate="20190610T054905Z">
+        <seg>本章剩余部分假设设置都是基于类UNIX系统来完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will be using the Scala repository for the setup, but you should be able to follow the same instructions if you prefer Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035926Z" creationid="xccui" creationdate="20190611T035846Z">
+        <seg>我们将选用Scala仓库进行设置，但如果你想用Java，也可以遵循相同的说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19856,6 +21808,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will discuss this topic in more detail in “Application Consistency Guarantees” on page 184.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005758Z" creationid="xccui" creationdate="20190613T005758Z">
+        <seg>我们会在184页"应用一致性保障"一节详细讨论这一话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will present Flink’s more sophisticated checkpointing algorithm later in this section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T224913Z" creationid="xccui" creationdate="20190608T224902Z">
@@ -19866,7 +21826,7 @@
       <tuv lang="EN-US">
         <seg>We will start by discussing the required software and where you can get the code examples of this book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040419Z" creationid="xccui" creationdate="20190610T040332Z">
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014744Z" creationid="xccui" creationdate="20190610T040332Z">
         <seg>我们会从所需软件以及怎样获取书中示例代码开始讲起。</seg>
       </tuv>
     </tu>
@@ -19884,6 +21844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050803Z" creationid="xccui" creationdate="20190605T050803Z">
         <seg>我们将通过简要地历史回顾来探索一下开源流处理技术的前世今生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will use this example to show‐ case the basic structure of a Flink program and introduce some important features of the DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035413Z" creationid="xccui" creationdate="20190612T035257Z">
+        <seg>通过该示例，我们将展示Flink程序的基本结构并引出DataStream API中的几个重要特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20273,6 +22241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When presenting the transformations of the DataStream API, we show the interfaces for all function classes, but mostly use lambda functions instead of function classes in code examples for brevity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022839Z" creationid="xccui" creationdate="20190613T022648Z">
+        <seg>在介绍DataStream API的转换时，我们会展示所有函数类的接口。但出于简洁考虑，在绝大多数示例代码中我们会使用lambda函数而不是函数类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When running an application as a library deployment in a container environment, such as Kubernetes, failed JobManager or TaskManager containers are usually auto&lt;t0/&gt;‐&lt;t1/&gt; matically restarted by the container orchestration service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T035643Z" creationid="xccui" creationdate="20190504T035046Z">
@@ -20301,6 +22277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T035754Z" creationid="xccui" creationdate="20190504T035708Z">
         <seg>当运行在YARN或Mesos上面时，Flink的剩余进程会触发JobManager或TaskManager进程重启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the application has been completely defined, it can be executed by call‐ ing StreamExecutionEnvironment.execute().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005845Z" creationid="xccui" creationdate="20190613T005845Z">
+        <seg>当应用定义完成后就可以通过调用StreamExecutionEnvironment.execute()来执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20357,6 +22341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013021Z" creationid="xccui" creationdate="20190606T013021Z">
         <seg>在窗口边界通过后，所有事件会发送给计算函数处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using the Scala API or Java 8, the mapper can also be expressed as a lambda function:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051123Z" creationid="xccui" creationdate="20190613T051123Z">
+        <seg>如果使用Scala API或Java 8，还可以通过lambda函数来表示映射器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20609,6 +22601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window operators, time-based transformations, stateful operators, and connectors are discussed in the next chapters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032830Z" creationid="xccui" creationdate="20190612T032454Z">
+        <seg>有关窗口算子、基于时间的转换、状态化算子和连接器的内容将在接下来的几章讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window policies decide when new buckets are created, which events are assigned to which buckets, and when the con&lt;t10/&gt;‐&lt;t11/&gt; tents of a bucket get evaluated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022740Z" creationid="xccui" creationdate="20190406T045304Z">
@@ -20621,6 +22621,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012831Z" creationid="xccui" creationdate="20190606T012724Z">
         <seg>这些窗口策略决定了什么时间创建桶，事件如何分配到桶中以及桶内数据什么时间参与计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window transformations are described in detail in “Window Operators” on page 122.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053825Z" creationid="xccui" creationdate="20190612T053825Z">
+        <seg>有关窗口转换的详细内容会在122页"窗口算子"一节介绍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20645,6 +22653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T044751Z" creationid="xccui" creationdate="20190605T132916Z">
         <seg>通过本书，我们渴望能够吸引世界各地的开发者、工程师以及流处理爱好者，进一步扩大Flink社区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writing a Data‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013925Z" creationid="xccui" creationdate="20190613T013925Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -20681,6 +22697,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also delete them if you do not need them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010448Z" creationid="xccui" creationdate="20190612T010135Z">
+        <seg>如果不需要，也可以删除它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also download the source code of the examples as a zip-archive from GitHub:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040419Z" creationid="xccui" creationdate="20190611T040419Z">
+        <seg>你也可以把示例代码以zip压缩包的形式从GitHub上下载下来：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also just take a savepoint to version and archive the state of an applica‐ tion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213419Z" creationid="xccui" creationdate="20190609T213419Z">
@@ -20689,10 +22721,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can change the Flink version, group and artifact IDs, version, and generated package by changing the respective parameters of the above mvn command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005618Z" creationid="xccui" creationdate="20190612T005349Z">
+        <seg>你可以通过改变上述mvn命令的相应参数来更改Flink版本，Maven的组标识符和项目标识符，项目版本以及生成的包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can define breakpoints in the code and debug your application as you would normally do.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053653Z" creationid="xccui" creationdate="20190611T053048Z">
+        <seg>就如同往常一般，在代码里设置断点，开启调试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can develop and execute Flink applications on Linux, macOS, and Windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T040939Z" creationid="xccui" creationdate="20190610T040911Z">
-        <seg>你可以在Linux、maxOS以及Windows等常见操作系统上开发和运行Flink应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054036Z" creationid="xccui" creationdate="20190610T040911Z">
+        <seg>你可以在Linux、maxOS以及Windows等常见操作系统上开发和运行Flink应用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20717,6 +22765,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233216Z" creationid="xccui" creationdate="20190401T022711Z">
         <seg>Dataflow图的并行性可以通过多种方式加以利用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can follow the instruc‐ tions at the IntelliJ IDEA website to download and install it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030717Z" creationid="xccui" creationdate="20190611T030717Z">
+        <seg>你可以按照IntelliJ IDEA官网的说明下载并安装它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can import the project in your IDE following the steps we described in the previ‐ ous section or you can execute the following command to build a JAR file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010443Z" creationid="xccui" creationdate="20190612T010248Z">
+        <seg>此时，你可以按照我们在上一节所介绍的步骤把项目导入IDE，也可以执行以下命令来构建一个JAR文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20809,6 +22873,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have probably already noticed that Flink programs are defined and submitted for execution in regular Scala or Java methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043401Z" creationid="xccui" creationdate="20190612T043039Z">
+        <seg>你可能已经注意到了，用日常的Scala或Java方法就可以定义并提交Flink程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have seen how rolling aggregations encode the history of the whole stream in an aggregate value and provide us with a low-latency result for every event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043002Z" creationid="xccui" creationdate="20190406T042607Z">
@@ -20865,6 +22937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should now be able to browse and inspect the code of the book exam‐ ples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041822Z" creationid="xccui" creationdate="20190611T041759Z">
+        <seg>你现在应该就能浏览和研究书中示例的源码了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should see a job listed under “Running Jobs.” If you click on that job, you will see the dataflow and live metrics about the opera‐ tors of the running job similar to the screenshot in Figure 1-9.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123742Z" creationid="xccui" creationdate="20190605T123657Z">
@@ -20893,6 +22973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123930Z" creationid="xccui" creationdate="20190605T123849Z">
         <seg>你会看到文件中写入了和下面类似的文本行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will find the source code in the src/ directory, grouped by chapter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040535Z" creationid="xccui" creationdate="20190611T040535Z">
+        <seg>你可以在src/目录中找到按照章节分好的源代码：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20929,6 +23017,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004818Z" creationid="xccui" creationdate="20190612T004818Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a filter operation that only preserves white squares.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052257Z" creationid="xccui" creationdate="20190613T052257Z">
+        <seg>图5-2展示的filter操作仅保留了白色方块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>acceptable because a prompt reaction to new results or insights did not yield a signifi&lt;t0/&gt;‐&lt;t1/&gt; cant advantage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T032923Z" creationid="xccui" creationdate="20190317T032923Z">
@@ -20961,6 +23065,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>application is represented by the StreamExecutionEnvironment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044952Z" creationid="xccui" creationdate="20190612T044952Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>application, fix bugs and repair previously emitted results, migrate an application to a different cluster, or perform A/B tests with different application versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T211848Z" creationid="esouser" creationdate="20190603T211838Z">
@@ -20973,6 +23085,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T032948Z" creationid="xccui" creationdate="20190418T032948Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>avgTemp.print()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042827Z" creationid="xccui" creationdate="20190612T042827Z">
+        <seg>avgTemp.print()</seg>
       </tuv>
     </tu>
     <tu>
@@ -21009,6 +23129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>case class SensorReading( id: String,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035705Z" creationid="xccui" creationdate="20190612T035705Z">
+        <seg>case class SensorReading( id: String,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T055509Z" creationid="xccui" creationdate="20190319T055509Z">
@@ -21037,6 +23165,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T032758Z" creationid="xccui" creationdate="20190327T032758Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>class MyMapFunction extends MapFunction[Int, Int] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020905Z" creationid="xccui" creationdate="20190613T020905Z">
+        <seg>class MyMapFunction extends MapFunction[Int, Int] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>class MyMapFunction extends MapFunction[SensorReading, String] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050721Z" creationid="xccui" creationdate="20190613T050721Z">
+        <seg>class MyMapFunction extends MapFunction[SensorReading, String] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -21073,10 +23217,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>def main(args: Array[String]) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041920Z" creationid="xccui" creationdate="20190612T041920Z">
+        <seg>def main(args: Array[String]) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deploying Flink applications and the way each distributes and executes tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141142Z" creationid="xccui" creationdate="20190606T141058Z">
         <seg>我们对两类部署Flink应用的方式加以讨论，关注它们如何分配及执行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>do not concern us right now.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052907Z" creationid="xccui" creationdate="20190612T052907Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -21089,10 +23249,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>duces a new DataStream of the same type as the input DataStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052158Z" creationid="xccui" creationdate="20190613T052158Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>enterprises across different industries such as (online) retail, social media, telecom‐ munication, gaming, and banking.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050311Z" creationid="xccui" creationdate="20190605T050311Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.addSource(new SensorSource)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051430Z" creationid="xccui" creationdate="20190612T051430Z">
+        <seg>env.addSource(new SensorSource)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.execute("Compute average sensor temperature")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042809Z" creationid="xccui" creationdate="20190612T042809Z">
+        <seg>env.execute("Compute average sensor temperature")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041940Z" creationid="xccui" creationdate="20190612T041940Z">
+        <seg>env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>environment offers more configuration options, such as setting the program parallel‐ ism and enabling fault tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050029Z" creationid="xccui" creationdate="20190612T045857Z">
+        <seg>执行环境还提供了很多配置选项，例如设置程序并行度，启用容错等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21137,10 +23337,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ger the execution of the program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011950Z" creationid="xccui" creationdate="20190613T011950Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>get stronger semantics with weaker guarantees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T050116Z" creationid="xccui" creationdate="20190416T050116Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>git clone https://github.com/streaming-with-flink/examples-scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040428Z" creationid="xccui" creationdate="20190611T040428Z">
+        <seg>git clone https://github.com/streaming-with-flink/examples-scala</seg>
       </tuv>
     </tu>
     <tu>
@@ -21157,6 +23373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035452Z" creationid="xccui" creationdate="20190418T035452Z">
         <seg>iii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>implement your own streaming sinks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054219Z" creationid="xccui" creationdate="20190612T054219Z">
+        <seg>你也可以实现自己的流式数据汇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21249,6 +23473,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>main method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043220Z" creationid="xccui" creationdate="20190612T043220Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>main() method assembles the dataflow and submits it to a remote JobManager when the StreamExecutionEnvironment.execute() method is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051801Z" creationid="xccui" creationdate="20190611T051412Z">
+        <seg>通常情况下程序的main()方法会把dataflow组装好，然后在StreamExecutionEnvironment.execute()方法被调用时将其提交到远程的JobManager上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ments such as variable or function names, databases, data types, environment variables, statements, and keywords.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210805Z" creationid="esouser" creationdate="20190603T210805Z">
@@ -21273,6 +23513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>object AverageSensorReadings {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041830Z" creationid="xccui" creationdate="20190612T041830Z">
+        <seg>object AverageSensorReadings {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of Streaming Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T142522Z" creationid="esouser" creationdate="20190603T142522Z">
@@ -21293,6 +23541,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045238Z" creationid="xccui" creationdate="20190504T045238Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def map(r: SensorReading): String = r.id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050726Z" creationid="xccui" creationdate="20190613T050726Z">
+        <seg>override def map(r: SensorReading): String = r.id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def map(value: Int): Int = value + 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020909Z" creationid="xccui" creationdate="20190613T020909Z">
+        <seg>override def map(value: Int): Int = value + 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -21329,6 +23593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>repository to your local machine:1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040104Z" creationid="xccui" creationdate="20190611T040104Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>results continuously, maybe every minute.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014703Z" creationid="xccui" creationdate="20190606T014703Z">
@@ -21349,6 +23621,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152232Z" creationid="esouser" creationdate="20190514T152232Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sitively applied to these sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011815Z" creationid="xccui" creationdate="20190613T011815Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>src/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005738Z" creationid="xccui" creationdate="20190612T005738Z">
+        <seg>src/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>streams can be ingested from sources such as message queues or files, or also be gen‐ erated on the fly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051324Z" creationid="xccui" creationdate="20190612T051324Z">
+        <seg>这些数据流的来源可以是消息队列或文件，也可以实时生成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21385,6 +23681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>text in which the method is invoked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045223Z" creationid="xccui" creationdate="20190612T045223Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>that is called a state backend.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T051432Z" creationid="xccui" creationdate="20190608T051432Z">
@@ -21393,10 +23697,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>that returns exactly one output event, possibly of a different type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045224Z" creationid="xccui" creationdate="20190613T045224Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>timestamp: Long, temperature: Double)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035709Z" creationid="xccui" creationdate="20190612T035709Z">
+        <seg>timestamp: Long, temperature: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to connect to the source of the sensor measurements and create an initial DataStream of type SensorReading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051601Z" creationid="xccui" creationdate="20190612T051601Z">
+        <seg>来连接传感器测量源，并创建出SensorReading类型的初始DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to instruct our program to interpret time semantics using event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045900Z" creationid="xccui" creationdate="20190612T045805Z">
+        <seg>来指定程序使用事件时间作为其时间语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tors collect and process records with possibly unordered timestamps and finalize a computation when their event-time clock, which is advanced by the received water‐ marks, indicates that no more records with relevant timestamps are expected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205535Z" creationid="xccui" creationdate="20190606T205535Z">
         <seg>对基于时间算子的任务而言，其收集和处理的记录可能会包含乱序的时间戳。只有当它们的事件时间时钟（由接收的水位线驱动）指示不必再等那些包含相关时间戳的记录时，才会最终触发计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformation-specific function interface:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020901Z" creationid="xccui" creationdate="20190613T020901Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -21417,6 +23761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>unzip master.zip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040435Z" creationid="xccui" creationdate="20190611T040435Z">
+        <seg>unzip master.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>up with the events happening now, it can continue as a real-time application using exactly the same program logic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T155347Z" creationid="xccui" creationdate="20190412T155347Z">
@@ -21429,6 +23781,118 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040010Z" creationid="xccui" creationdate="20190418T040010Z">
         <seg>v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val avgTemp: DataStream[SensorReading] = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042225Z" creationid="xccui" creationdate="20190612T042225Z">
+        <seg>val avgTemp: DataStream[SensorReading] = sensorData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val celsius = (r.temperature - 32) * (5.0 / 9.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042259Z" creationid="xccui" creationdate="20190612T042259Z">
+        <seg>val celsius = (r.temperature - 32) * (5.0 / 9.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val filteredSensors = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053212Z" creationid="xccui" creationdate="20190613T053212Z">
+        <seg>val filteredSensors = readings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
+        <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val readings: DataStream[SensorReading] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050713Z" creationid="xccui" creationdate="20190613T050713Z">
+        <seg>val readings: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val readings: DataStream[SensorReadings] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053208Z" creationid="xccui" creationdate="20190613T053208Z">
+        <seg>val readings: DataStream[SensorReadings] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051333Z" creationid="xccui" creationdate="20190612T051333Z">
+        <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorData: DataStream[SensorReading] =</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054743Z" creationid="xccui" creationdate="20190612T054743Z">
+        <seg>val sensorData: DataStream[SensorReading] =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorData: DataStream[SensorReading] = env</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042047Z" creationid="xccui" creationdate="20190612T042047Z">
+        <seg>val sensorData: DataStream[SensorReading] = env</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorIds: DataStream[String] = readings.map(new MyMapFunction)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050717Z" creationid="xccui" creationdate="20190613T050717Z">
+        <seg>val sensorIds: DataStream[String] = readings.map(new MyMapFunction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorIds: DataStream[String] = readings.map(r =&gt; r.id)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051126Z" creationid="xccui" creationdate="20190613T051126Z">
+        <seg>val sensorIds: DataStream[String] = readings.map(r =&gt; r.id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sentences: DataStream[String] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005237Z" creationid="xccui" creationdate="20190613T005237Z">
+        <seg>val sentences: DataStream[String] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val words: DataStream[String] = sentences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005233Z" creationid="xccui" creationdate="20190613T005233Z">
+        <seg>val words: DataStream[String] = sentences</seg>
       </tuv>
     </tu>
     <tu>
@@ -21481,10 +23945,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040424Z" creationid="xccui" creationdate="20190611T040424Z">
+        <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>windows is defined by a set of policies.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012709Z" creationid="xccui" creationdate="20190606T012709Z">
         <seg>窗口的行为是由一系列策略定义的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>windows of 5 seconds:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053745Z" creationid="xccui" creationdate="20190612T053745Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -21509,6 +23989,182 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T052353Z" creationid="xccui" creationdate="20190416T052353Z">
         <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042813Z" creationid="xccui" creationdate="20190612T042813Z">
+        <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042307Z" creationid="xccui" creationdate="20190612T042307Z">
+        <seg>} )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>│</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040608Z" creationid="xccui" creationdate="20190611T040608Z">
+        <seg>│</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040619Z" creationid="xccui" creationdate="20190611T040619Z">
+        <seg>└── ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── AverageSensorReadings.scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040611Z" creationid="xccui" creationdate="20190611T040611Z">
+        <seg>└── AverageSensorReadings.scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── StreamingJob.scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005810Z" creationid="xccui" creationdate="20190612T005810Z">
+        <seg>└── StreamingJob.scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── apache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005751Z" creationid="xccui" creationdate="20190612T005751Z">
+        <seg>└── apache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005756Z" creationid="xccui" creationdate="20190612T005756Z">
+        <seg>└── flink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── github</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040556Z" creationid="xccui" creationdate="20190611T040556Z">
+        <seg>└── github</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── io</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040552Z" creationid="xccui" creationdate="20190611T040552Z">
+        <seg>└── io</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── log4j.properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005730Z" creationid="xccui" creationdate="20190612T005730Z">
+        <seg>└── log4j.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── main</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040540Z" creationid="xccui" creationdate="20190611T040540Z">
+        <seg>└── main</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── org</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005748Z" creationid="xccui" creationdate="20190612T005748Z">
+        <seg>└── org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── quickstart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005800Z" creationid="xccui" creationdate="20190612T005800Z">
+        <seg>└── quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040543Z" creationid="xccui" creationdate="20190611T040543Z">
+        <seg>└── scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── streamingwithflink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040559Z" creationid="xccui" creationdate="20190611T040559Z">
+        <seg>└── streamingwithflink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>└── util</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040628Z" creationid="xccui" creationdate="20190611T040628Z">
+        <seg>└── util</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040621Z" creationid="xccui" creationdate="20190611T040621Z">
+        <seg>├── ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── BatchJob.scala</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005806Z" creationid="xccui" creationdate="20190612T005806Z">
+        <seg>├── BatchJob.scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── chapter1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040604Z" creationid="xccui" creationdate="20190611T040604Z">
+        <seg>├── chapter1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── chapter5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040614Z" creationid="xccui" creationdate="20190611T040614Z">
+        <seg>├── chapter5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>├── resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005721Z" creationid="xccui" creationdate="20190612T005721Z">
+        <seg>├── resources</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
