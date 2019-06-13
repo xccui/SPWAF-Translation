@@ -23513,6 +23513,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mvn archetype:generate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T064642Z" creationid="xccui" creationdate="20190613T064642Z">
+        <seg>mvn archetype:generate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mvn clean package -Pbuild-jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T064647Z" creationid="xccui" creationdate="20190613T064647Z">
+        <seg>mvn clean package -Pbuild-jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>object AverageSensorReadings {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041830Z" creationid="xccui" creationdate="20190612T041830Z">
