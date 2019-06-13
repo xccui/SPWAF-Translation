@@ -4993,8 +4993,8 @@
       <tuv lang="EN-US">
         <seg>Basic transformations are transformations on individual events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024530Z" creationid="xccui" creationdate="20190613T024209Z">
-        <seg>转本转换是作用于单条事件的转换；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T065149Z" creationid="xccui" creationdate="20190613T024209Z">
+        <seg>基本转换是作用于单条事件的转换；</seg>
       </tuv>
     </tu>
     <tu>
