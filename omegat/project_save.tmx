@@ -18576,6 +18576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The function can be specified with a class that implements the ReduceFunction inter‐ face.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061729Z" creationid="xccui" creationdate="20190614T061729Z">
+        <seg>reduce转换的函数可以通过一个实现了ReduceFunction接口的类来指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The function interface defines the transformation method that needs to be imple‐ mented by the user, such as the map() method in the example above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T021057Z" creationid="xccui" creationdate="20190613T020932Z">
