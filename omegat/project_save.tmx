@@ -18482,8 +18482,8 @@
       <tuv lang="EN-US">
         <seg>The events are merged in a FIFO fashion—the operator does not produce a specific order of events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064527Z" creationid="xccui" creationdate="20190614T064449Z">
-        <seg>执行过程中事件会以FIFO的方式合并，union算子不对事件顺序做任何保证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064546Z" creationid="xccui" creationdate="20190614T064449Z">
+        <seg>执行过程中事件会以FIFO的方式合并，union算子无法对事件顺序做任何保证。</seg>
       </tuv>
     </tu>
     <tu>
