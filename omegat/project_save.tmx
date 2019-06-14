@@ -15328,6 +15328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to “Implementing Stateful Functions” on page 154, which discusses stateful functions in detail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045650Z" creationid="xccui" creationdate="20190614T045650Z">
+        <seg>有关状态化函数的详细信息请参照154页"实现状态化函数"一节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing State from an Application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024915Z" creationid="xccui" creationdate="20190225T024915Z">
