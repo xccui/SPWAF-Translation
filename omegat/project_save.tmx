@@ -18320,6 +18320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following code declares the id field as the key of a stream of SensorReading records:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051701Z" creationid="xccui" creationdate="20190614T051701Z">
+        <seg>以下代码针对SensorReading记录流将其中的id字段声明为键值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following example shows a filter that drops all sensor measurements with tem‐ perature below 25°F:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053205Z" creationid="xccui" creationdate="20190613T053205Z">
