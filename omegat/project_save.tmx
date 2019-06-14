@@ -23649,6 +23649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>field is the common key, the second field is the sum, and the third field is not defined.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T060228Z" creationid="xccui" creationdate="20190614T060228Z">
+        <seg>结果中的第1个字段是键值，第2个字段是总和，第3个字段没有定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>first type are periodic report queries that compute business-relevant statistics such as revenue, user growth, or production output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T203039Z" creationid="esouser" creationdate="20190603T203039Z">
