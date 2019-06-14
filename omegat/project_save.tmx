@@ -3350,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A rolling aggregation does not require a user-defined func‐ tion but receives an argument that specifies on which field the aggregate is computed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052539Z" creationid="xccui" creationdate="20190614T052539Z">
+        <seg>虽然滚动聚合不需要用户自定义函数，但需要接收一个用于指定聚合计算字段的参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A rolling aggregation is an aggregation, such as sum, minimum, and maximum, that is continuously updated for each input event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035610Z" creationid="xccui" creationdate="20190406T034203Z">
@@ -9259,6 +9267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T212956Z" creationid="xccui" creationdate="20190606T212941Z">
         <seg>对于每个到期的定时器，调用回调函数，利用它来执行计算并发出记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each incoming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052406Z" creationid="xccui" creationdate="20190614T052406Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -23491,8 +23507,8 @@
       <tuv lang="EN-US">
         <seg>event, the operator updates the corresponding aggregate value and emits an event with the updated value.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052132Z" creationid="xccui" creationdate="20190614T052132Z">
-        <seg>对每一个到来的事件，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052402Z" creationid="xccui" creationdate="20190614T052132Z">
+        <seg>每到来一个事件，该算子都会更新相应的聚合结果，并将它以事件形式发送出去。</seg>
       </tuv>
     </tu>
     <tu>
