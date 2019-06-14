@@ -12911,6 +12911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It applies a ReduceFunction on a KeyedStream, which combines each incoming event with the current reduced value, and produces a DataStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061430Z" creationid="xccui" creationdate="20190614T061430Z">
+        <seg>它会将一个ReduceFunction作用在一条KeyedStream上，每个到来事件都会和reduce结果进行一次组合，从而产生一条新的DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be used to generate watermarks that are encoded in special input records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T040000Z" creationid="xccui" creationdate="20190607T035846Z">
