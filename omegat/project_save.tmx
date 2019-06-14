@@ -11895,6 +11895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we will use a keyBy transformation to convert a DataStream into a KeyedStream and keyed transformations such as rolling aggrega‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050124Z" creationid="xccui" creationdate="20190614T050124Z">
+        <seg>下面我们将使用keyBy转换将一个DataStream转换为KeyedStream，然后对它进行滚动聚合以及reduce。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the library mode, there is no Flink ser&lt;t0/&gt;‐&lt;t1/&gt; vice continuously running.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T041017Z" creationid="xccui" creationdate="20190423T040707Z">
