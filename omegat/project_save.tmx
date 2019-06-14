@@ -18968,6 +18968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The output of the example is (1,2,2) followed by (1,7,2) for the key “1” and (2,3,1) followed by (2,5,1) for the key “2.” The first</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T055254Z" creationid="xccui" creationdate="20190614T055254Z">
+        <seg>示例针对键值"1"首先输出(1,2,2)，然后是(1,7,2)；对于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The output of the job is written to the standard out of Flink’s worker process which is by default redirected into a file in the &lt;t0/&gt;./log&lt;t1/&gt; folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T042518Z" creationid="xccui" creationdate="20190329T042238Z">
