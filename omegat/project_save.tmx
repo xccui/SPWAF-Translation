@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.keyBy(r =&gt; r.id)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051709Z" creationid="xccui" creationdate="20190614T051709Z">
+        <seg>.keyBy(r =&gt; r.id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.map( r =&gt; {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042255Z" creationid="xccui" creationdate="20190612T042255Z">
@@ -18572,6 +18580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052742Z" creationid="xccui" creationdate="20190605T052742Z">
         <seg>虽然Lambda架构已经算不上最先进，但仍在许多地方使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lambda function r =&gt; r.id extracts the id field of a sensor reading r.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051803Z" creationid="xccui" creationdate="20190614T051803Z">
+        <seg>lambda函数r =&gt; r.id会从一个传感器读数r中提取id字段。</seg>
       </tuv>
     </tu>
     <tu>
