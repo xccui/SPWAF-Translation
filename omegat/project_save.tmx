@@ -7519,6 +7519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every input event is emitted to the next operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064709Z" creationid="xccui" creationdate="20190614T064709Z">
+        <seg>每个输入消息都会发给下游算子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every record contains an average temperature of a sensor over a period of 5 seconds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054643Z" creationid="xccui" creationdate="20190612T054622Z">
@@ -13897,8 +13905,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the union operator does not perform duplication elimina‐ tion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064642Z" creationid="xccui" creationdate="20190614T064619Z">
-        <seg>此外，算子不会对数据进行去重，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064716Z" creationid="xccui" creationdate="20190614T064619Z">
+        <seg>此外，union算子不会对数据进行去重，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18490,8 +18498,8 @@
       <tuv lang="EN-US">
         <seg>The events are merged in a FIFO fashion—the operator does not produce a specific order of events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064546Z" creationid="xccui" creationdate="20190614T064449Z">
-        <seg>执行过程中事件会以FIFO的方式合并，union算子无法对事件顺序做任何保证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064745Z" creationid="xccui" creationdate="20190614T064449Z">
+        <seg>执行过程中事件会以FIFO的方式合并，其顺序无法得到任何保证。</seg>
       </tuv>
     </tu>
     <tu>
