@@ -13935,6 +13935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that stateful transformations and keyed aggregates have to be used with care.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044921Z" creationid="xccui" creationdate="20190614T044921Z">
+        <seg>请注意，在使用状态化转换和基于键值的聚合时要格外小心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that stream pro&lt;t0/&gt;‐&lt;t1/&gt; cessors can normally only guarantee result correctness for state that lives inside the stream processor itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T045425Z" creationid="xccui" creationdate="20190415T045308Z">
@@ -19968,6 +19976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that all events</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044724Z" creationid="xccui" creationdate="20190614T044724Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that all records processed by the same parallel task have access to the same state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T060848Z" creationid="xccui" creationdate="20190607T060836Z">
@@ -24035,8 +24051,8 @@
       <tuv lang="EN-US">
         <seg>with the same key access the same state and thus can be processed together.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044414Z" creationid="xccui" creationdate="20190614T044414Z">
-        <seg>这意味着所有键值相同的事件可以访问相同的状态，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044717Z" creationid="xccui" creationdate="20190614T044414Z">
+        <seg>这意味着所有键值相同的事件可以访问相同的状态，因此可以一并处理。</seg>
       </tuv>
     </tu>
     <tu>
