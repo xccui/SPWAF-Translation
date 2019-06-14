@@ -6097,8 +6097,8 @@
       <tuv lang="EN-US">
         <seg>Consider the following example of keying a stream of Tuple3[Int, Int, Int] on the first field and computing a rolling sum on the second field:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054424Z" creationid="xccui" creationdate="20190614T054424Z">
-        <seg>以下示例中，我们对一个Tuple3[Int, Int, Int]类型的数据流按照第一个字段进行键值分区，然后滚动计算第二个字段的总和：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054958Z" creationid="xccui" creationdate="20190614T054424Z">
+        <seg>以下示例中，我们对一个Tuple3[Int, Int, Int]类型的数据流按照第1个字段进行键值分区，然后滚动计算第2个字段的总和：</seg>
       </tuv>
     </tu>
     <tu>
