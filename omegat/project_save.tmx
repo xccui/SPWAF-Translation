@@ -19474,8 +19474,8 @@
       <tuv lang="EN-US">
         <seg>There are different ways to specify keys.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051506Z" creationid="xccui" creationdate="20190614T051506Z">
-        <seg>指定键值的方式多种多样。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051541Z" creationid="xccui" creationdate="20190614T051506Z">
+        <seg>指定键值的方式多种多样，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23893,6 +23893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045224Z" creationid="xccui" creationdate="20190613T045224Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>them in “Defining Keys and Referencing Fields” on page 102.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051537Z" creationid="xccui" creationdate="20190614T051537Z">
+        <seg>我们会在102页"定义键值和引用字段中"介绍它们。</seg>
       </tuv>
     </tu>
     <tu>
