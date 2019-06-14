@@ -4999,6 +4999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on the key, the events of the stream are assigned to partitions, so that all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050345Z" creationid="xccui" creationdate="20190614T050345Z">
+        <seg>根据键值，流中的事件会被分配到不同分区，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022712Z" creationid="xccui" creationdate="20190225T022712Z">
@@ -23389,6 +23397,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050029Z" creationid="xccui" creationdate="20190612T045857Z">
         <seg>执行环境还提供了很多配置选项，例如设置程序并行度，启用容错等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>events with the same key are processed by the same task of the subsequent operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050540Z" creationid="xccui" creationdate="20190614T050540Z">
+        <seg>这样一来有着相同键值的事件一定会在后续算子的同一个任务上处理。</seg>
       </tuv>
     </tu>
     <tu>
