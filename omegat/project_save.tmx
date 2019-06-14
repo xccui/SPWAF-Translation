@@ -24121,6 +24121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>merges black and gray events into a single output stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065114Z" creationid="xccui" creationdate="20190614T065114Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>microservices are strictly decoupled from each other and only communicate over well-defined interfaces, each microservice can be implemented with a different tech‐ nology stack including a programming language, libraries, and datastores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T201016Z" creationid="esouser" creationdate="20190603T200753Z">
