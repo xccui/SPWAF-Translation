@@ -13897,8 +13897,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the union operator does not perform duplication elimina‐ tion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064619Z" creationid="xccui" creationdate="20190614T064619Z">
-        <seg>此外，算子不会对数据进行去重。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064642Z" creationid="xccui" creationdate="20190614T064619Z">
+        <seg>此外，算子不会对数据进行去重，</seg>
       </tuv>
     </tu>
     <tu>
