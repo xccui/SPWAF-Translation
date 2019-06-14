@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// T: the element type ReduceFunction[T]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061908Z" creationid="xccui" creationdate="20190614T061908Z">
+        <seg>// T：元素类型 ReduceFunction[T]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// T: the type of elements FilterFunction[T]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053022Z" creationid="xccui" creationdate="20190613T053018Z">
@@ -15532,6 +15540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061233Z" creationid="xccui" creationdate="20190614T061233Z">
         <seg>Reduce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ReduceFunction defines the reduce() method, which takes two input events and returns an event of the same type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061856Z" creationid="xccui" creationdate="20190614T061856Z">
+        <seg>其中定义的reduce()方法每次接收两个输入事件，产生一个类型相同的输出事件：</seg>
       </tuv>
     </tu>
     <tu>
