@@ -3000,8 +3000,8 @@
       <tuv lang="EN-US">
         <seg>A common requirement of many applications is to process groups of events that share a certain property together.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T043547Z" creationid="xccui" creationdate="20190614T043547Z">
-        <seg>在很多应用中需要将事件按照某个属性分组进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044428Z" creationid="xccui" creationdate="20190614T043547Z">
+        <seg>在很多应用中需要将事件按照某个属性分组后再进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24029,6 +24029,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053745Z" creationid="xccui" creationdate="20190612T053745Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with the same key access the same state and thus can be processed together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044414Z" creationid="xccui" creationdate="20190614T044414Z">
+        <seg>这意味着所有键值相同的事件可以访问相同的状态，</seg>
       </tuv>
     </tu>
     <tu>
