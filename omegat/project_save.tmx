@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.keyBy(0) // key on first field of the tuple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054452Z" creationid="xccui" creationdate="20190614T054452Z">
+        <seg>.keyBy(0) // 以元组第一个字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.keyBy(_.id)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042408Z" creationid="xccui" creationdate="20190612T042408Z">
