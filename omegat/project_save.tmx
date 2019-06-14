@@ -19576,6 +19576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The type of the output stream is the same as the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061549Z" creationid="xccui" creationdate="20190614T061549Z">
+        <seg>输出流的类型永远和输入流保持一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The types of guarantees you have seen so far refer to the state of an application that is managed by the stream processor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035037Z" creationid="xccui" creationdate="20190606T035014Z">
