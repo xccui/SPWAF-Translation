@@ -14583,6 +14583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only Use Rolling Aggregations on Bounded Key Domains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T060917Z" creationid="xccui" creationdate="20190614T060917Z">
+        <seg>只在键值域有限时使用滚动聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only when execute() is called does the system trig‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011948Z" creationid="xccui" creationdate="20190613T011858Z">
