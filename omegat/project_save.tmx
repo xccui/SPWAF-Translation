@@ -3390,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A rolling sum of the input stream on the specified field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052657Z" creationid="xccui" creationdate="20190614T052657Z">
+        <seg>滚动计算输入流中指定字段的和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second, job-independent image is used to deploy TaskManager containers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143748Z" creationid="xccui" creationdate="20190606T143748Z">
