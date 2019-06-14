@@ -2862,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A KeyedStream can be processed using the map, flatMap, and filter transformations that you saw earlier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045801Z" creationid="xccui" creationdate="20190614T045801Z">
+        <seg>KeyedStream也支持使用你之前看到过的map、flatMap和filter等转换进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Quick Look at Flink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143155Z" creationid="esouser" creationdate="20190603T143155Z">
