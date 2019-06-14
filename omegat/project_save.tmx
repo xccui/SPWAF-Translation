@@ -8415,6 +8415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 5-5 shows a union operation that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064219Z" creationid="xccui" creationdate="20190614T064219Z">
+        <seg>图5-5展示的union操作会将黑色和白色的事件合并成一条输出流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
