@@ -15512,6 +15512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduce</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061233Z" creationid="xccui" creationdate="20190614T061233Z">
+        <seg>Reduce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to “Implementing Stateful Functions” on page 154, which discusses stateful functions in detail.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045701Z" creationid="xccui" creationdate="20190614T045650Z">
@@ -16396,6 +16404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210342Z" creationid="xccui" creationdate="20190609T205625Z">
         <seg>检查点的目的是保证应用可以在出现故障的时候顺利重启，因此当应用被显式取消后，检查点也会随之删除4。但应用状态的一致性快照除了故障恢复外，还有很多其他用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since this state is never cleaned up, you should only apply a rolling aggregations operator on a stream with a bounded key domain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061231Z" creationid="xccui" creationdate="20190614T061231Z">
+        <seg>由于这些状态不会被自动清理，所以只能在键值域有限的流上使用滚动聚合算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19140,6 +19156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T192333Z" creationid="esouser" creationdate="20190513T192253Z">
         <seg>接收任务会从这个队列里获取缓冲并反序列化其中的记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reduce transformation is a generalization of the rolling aggregation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061250Z" creationid="xccui" creationdate="20190614T061250Z">
+        <seg>reduce转换是滚动聚合转换的泛化。</seg>
       </tuv>
     </tu>
     <tu>
