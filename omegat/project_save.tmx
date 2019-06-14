@@ -18664,6 +18664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following shows how to union three streams of type SensorReading into a single stream:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064837Z" creationid="xccui" creationdate="20190614T064837Z">
+        <seg>以下示例展示了如何将3条类型为SensorReading的数据流合并为一条：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following typographical conventions are used in this book:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210759Z" creationid="esouser" creationdate="20190603T210759Z">
