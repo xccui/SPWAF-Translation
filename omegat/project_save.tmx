@@ -6023,6 +6023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect, coMap, and coFlatMap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065150Z" creationid="xccui" creationdate="20190614T065132Z">
+        <seg>Connect，coMap，coFlatMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting a stateful streaming application running on Flink and an event log is interesting for multiple reasons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T211646Z" creationid="xccui" creationdate="20190305T060607Z">
