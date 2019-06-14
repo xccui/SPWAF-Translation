@@ -13119,6 +13119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KeyedStream, which is a DataStream that has been logically partitioned into disjoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044002Z" creationid="xccui" creationdate="20190614T044002Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kubernetes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040325Z" creationid="xccui" creationdate="20190418T040325Z">
@@ -16636,6 +16644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T204846Z" creationid="esouser" creationdate="20190603T204846Z">
         <seg>作为一类面向无限事件流的应用设计模式，状态化流处理可用于公司IT基础设施中的很多用例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stateful transformations that are applied on a KeyedStream read from and write to state in the context of the currently processed event’s key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044151Z" creationid="xccui" creationdate="20190614T044151Z">
+        <seg>作用于KeyedStream的状态化转换可以读写当前处理事件键值所对应上下文中的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23685,6 +23701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051324Z" creationid="xccui" creationdate="20190612T051324Z">
         <seg>这些数据流的来源可以是消息队列或文件，也可以实时生成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>substreams of events that share the same key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T043958Z" creationid="xccui" creationdate="20190614T043958Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
