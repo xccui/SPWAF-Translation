@@ -14641,8 +14641,8 @@
       <tuv lang="EN-US">
         <seg>Only Use Rolling Aggregations on Bounded Key Domains</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T060935Z" creationid="xccui" creationdate="20190614T060917Z">
-        <seg>只对有限键值域使用滚动聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062710Z" creationid="xccui" creationdate="20190614T060917Z">
+        <seg>只对有限键值域使用滚动聚合</seg>
       </tuv>
     </tu>
     <tu>
