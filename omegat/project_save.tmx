@@ -16650,8 +16650,8 @@
       <tuv lang="EN-US">
         <seg>Stateful transformations that are applied on a KeyedStream read from and write to state in the context of the currently processed event’s key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044151Z" creationid="xccui" creationdate="20190614T044151Z">
-        <seg>作用于KeyedStream的状态化转换可以读写当前处理事件键值所对应上下文中的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044300Z" creationid="xccui" creationdate="20190614T044151Z">
+        <seg>作用于KeyedStream的状态化转换可以对当前处理事件键值所对应上下文中的状态进行读写。</seg>
       </tuv>
     </tu>
     <tu>
