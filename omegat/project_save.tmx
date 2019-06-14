@@ -17224,6 +17224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subsequent transformations pro‐ cess the elements of all input streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064047Z" creationid="xccui" creationdate="20190614T064047Z">
+        <seg>这样后续的转换操作就可以对所有输入流中的元素进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subsequently, the task updates its event-time clock to be the minimum of all partition watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T024721Z" creationid="xccui" creationdate="20190607T024706Z">
@@ -17818,8 +17826,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream.union() method merges two or more DataStreams of the same type and produces a new DataStream of the same type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063938Z" creationid="xccui" creationdate="20190614T063938Z">
-        <seg>DataStream.union()方法可以合并两条或多条类型相同的DataStream，并生成一条新的类型不变DataStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063946Z" creationid="xccui" creationdate="20190614T063938Z">
+        <seg>DataStream.union()方法可以合并两条或多条类型相同的DataStream，并生成一条新的类型不变的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
