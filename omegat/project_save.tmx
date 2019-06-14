@@ -15498,8 +15498,8 @@
       <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064954Z" creationid="xccui" creationdate="20190614T064954Z">
-        <seg>随机策略</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065004Z" creationid="xccui" creationdate="20190614T064954Z">
+        <seg>Random策略</seg>
       </tuv>
     </tu>
     <tu>
