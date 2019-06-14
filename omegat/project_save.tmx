@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; reduce(T, T): T</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061913Z" creationid="xccui" creationdate="20190614T061913Z">
+        <seg>&gt; reduce(T, T): T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052010Z" creationid="xccui" creationdate="20190612T052010Z">
@@ -11947,6 +11955,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202650Z" creationid="esouser" creationdate="20190513T210715Z">
         <seg>在流处理环境下，缓冲的一个明显缺点是会增加延迟，因为记录首先要在缓冲中收集而不会立即发送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the example below, the stream is keyed by language and the result is a continuously updated list of words per language:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062107Z" creationid="xccui" creationdate="20190614T062107Z">
+        <seg>在下面的示例中，数据流会以语言字段（译者注：第1个字段）为键值进行分区，</seg>
       </tuv>
     </tu>
     <tu>
