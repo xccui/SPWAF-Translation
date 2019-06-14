@@ -3374,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A rolling maximum of the input stream on the specified field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053531Z" creationid="xccui" creationdate="20190614T053531Z">
+        <seg>滚动计算输入流中指定字段的最大值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A rolling minimum aggregation operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011943Z" creationid="xccui" creationdate="20190606T011943Z">
@@ -3394,6 +3402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052715Z" creationid="xccui" creationdate="20190614T052715Z">
         <seg>滚动计算输入流中指定字段的最小值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A rolling minimum of the input stream that returns the event with the lowest</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053741Z" creationid="xccui" creationdate="20190614T053741Z">
+        <seg>滚动计算输入流中的最小值，返回该值所在事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23745,6 +23761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>max()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053408Z" creationid="xccui" creationdate="20190614T053408Z">
+        <seg>max()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ments such as variable or function names, databases, data types, environment variables, statements, and keywords.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210805Z" creationid="esouser" creationdate="20190603T210805Z">
@@ -23765,6 +23789,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052719Z" creationid="xccui" creationdate="20190614T052719Z">
         <seg>min()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>minBy()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053534Z" creationid="xccui" creationdate="20190614T053534Z">
+        <seg>minBy()</seg>
       </tuv>
     </tu>
     <tu>
