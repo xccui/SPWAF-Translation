@@ -10599,6 +10599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the key domain is continuously growing—for example, because the key is a unique transaction ID—you have to clean up state for keys that are no longer active to avoid memory problems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045513Z" creationid="xccui" creationdate="20190614T045513Z">
+        <seg>如果键值域会持续增长（例如将唯一的事务ID作为键值），则必须对那些不再活跃的键值进行清理，以避免出现内存问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the method is invoked from a submission cli‐ ent with a connection to a remote cluster, a remote execution environment is returned.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045413Z" creationid="xccui" creationdate="20190612T045413Z">
