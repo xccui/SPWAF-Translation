@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A keyBy operation that partitions events based on color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051146Z" creationid="xccui" creationdate="20190614T051146Z">
+        <seg>基于颜色对事件进行分区的keyBy操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A logical dataflow graph to continuously count hashtags (nodes represent operators and edges denote data dependencies)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224959Z" creationid="xccui" creationdate="20190605T224959Z">
@@ -8259,6 +8267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054545Z" creationid="xccui" creationdate="20190613T054545Z">
         <seg>图5-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 5-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051113Z" creationid="xccui" creationdate="20190614T051113Z">
+        <seg>图5-4，</seg>
       </tuv>
     </tu>
     <tu>
