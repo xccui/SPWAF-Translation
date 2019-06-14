@@ -12055,6 +12055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we discuss the DataStream API transformations that process multiple input streams or emit multiple output streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063511Z" creationid="xccui" creationdate="20190614T063511Z">
+        <seg>接下来我们就开始讨论那些能同时处理多条输入流或产生多条结果流的DataStream API转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we explain how this algorithm works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060033Z" creationid="xccui" creationdate="20190609T060033Z">
@@ -17808,6 +17816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream.union() method merges two or more DataStreams of the same type and produces a new DataStream of the same type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063938Z" creationid="xccui" creationdate="20190614T063938Z">
+        <seg>DataStream.union()方法可以合并两条或多条类型相同的DataStream，并生成一条新的类型不变DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dispatcher runs across job executions and provides a REST interface to sub‐ mit applications for execution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142824Z" creationid="xccui" creationdate="20190606T142757Z">
@@ -21412,6 +21428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T155205Z" creationid="xccui" creationdate="20190405T155205Z">
         <seg>UDF由应用开发人员编写，实现某些自定义的计算逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Union</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063514Z" creationid="xccui" creationdate="20190614T063514Z">
+        <seg>Union</seg>
       </tuv>
     </tu>
     <tu>
