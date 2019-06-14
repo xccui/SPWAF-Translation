@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A reduce transformation does</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061516Z" creationid="xccui" creationdate="20190614T061516Z">
+        <seg>reduce转换不会改变数据流的类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A return value of true preserves the input event and forwards it to the output, and false results in dropping the event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052016Z" creationid="xccui" creationdate="20190613T052016Z">
