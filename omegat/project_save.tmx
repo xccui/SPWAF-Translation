@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.union(tokyoStream, rioStream)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064856Z" creationid="xccui" creationdate="20190614T064856Z">
+        <seg>.union(tokyoStream, rioStream)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// O: the type of output elements FlatMapFunction[T, O]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061027Z" creationid="xccui" creationdate="20190613T061027Z">
@@ -24473,6 +24481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val allCities: DataStream[SensorReading] = parisStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064852Z" creationid="xccui" creationdate="20190614T064852Z">
+        <seg>val allCities: DataStream[SensorReading] = parisStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val avgTemp: DataStream[SensorReading] = sensorData</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042225Z" creationid="xccui" creationdate="20190612T042225Z">
@@ -24525,6 +24541,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
         <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val parisStream: DataStream[SensorReading] = ... val tokyoStream: DataStream[SensorReading] = ... val rioStream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064847Z" creationid="xccui" creationdate="20190614T064847Z">
+        <seg>val parisStream: DataStream[SensorReading] = ... val tokyoStream: DataStream[SensorReading] = ... val rioStream: DataStream[SensorReading] = ...</seg>
       </tuv>
     </tu>
     <tu>
