@@ -13591,6 +13591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many applications ingest multiple streams that need to be jointly processed or split a stream in order to apply different logic to different substreams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063301Z" creationid="xccui" creationdate="20190614T063301Z">
+        <seg>很多应用需要将多条输入流联结起来处理，或将一条流分割成多条子流以便应用不同的逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many operators continuously read and update some kind of state such as records collected in a window, reading positions of an input source, or custom, application-specific operator states like machine learning models.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053106Z" creationid="xccui" creationdate="20190607T052753Z">
