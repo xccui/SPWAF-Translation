@@ -13895,6 +13895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, the union operator does not perform duplication elimina‐ tion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064619Z" creationid="xccui" creationdate="20190614T064619Z">
+        <seg>此外，算子不会对数据进行去重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, users of open source software request or contribute new features that are missing to support their use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190322T041404Z" creationid="xccui" creationdate="20190319T054608Z">
