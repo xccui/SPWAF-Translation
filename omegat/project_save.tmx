@@ -23489,6 +23489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>event, the operator updates the corresponding aggregate value and emits an event with the updated value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052132Z" creationid="xccui" creationdate="20190614T052132Z">
+        <seg>对每一个到来的事件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>events with the same key are processed by the same task of the subsequent operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050540Z" creationid="xccui" creationdate="20190614T050540Z">
