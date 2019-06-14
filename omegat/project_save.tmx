@@ -18536,6 +18536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The keyBy() method receives an argument that specifies the key (or keys) to group by and returns a KeyedStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051446Z" creationid="xccui" creationdate="20190614T051446Z">
+        <seg>keyBy()方法接收一个用来指定分区键值（可以是多个）的参数，返回一个KeyedStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lambda architecture</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051834Z" creationid="xccui" creationdate="20190605T051834Z">
