@@ -17592,6 +17592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream API provides the following rolling aggregation methods:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052557Z" creationid="xccui" creationdate="20190614T052557Z">
+        <seg>DataStream API提供了以下滚动聚合方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API provides transformations for the most common data transfor‐ mation operations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T023051Z" creationid="xccui" creationdate="20190613T023051Z">
@@ -23909,6 +23917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210830Z" creationid="esouser" creationdate="20190603T210830Z">
         <seg>succeed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sum()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052601Z" creationid="xccui" creationdate="20190614T052601Z">
+        <seg>sum()</seg>
       </tuv>
     </tu>
     <tu>
