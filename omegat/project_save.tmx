@@ -14647,6 +14647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only Use Rolling Reduce on Bounded Key Domains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062659Z" creationid="xccui" creationdate="20190614T062659Z">
+        <seg>只对有限键值域使用滚动reduce操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only when execute() is called does the system trig‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011948Z" creationid="xccui" creationdate="20190613T011858Z">
