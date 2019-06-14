@@ -16488,6 +16488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since this state is never cleaned up, you should only apply a rolling reduce operator on a stream with a bounded key domain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062950Z" creationid="xccui" creationdate="20190614T062950Z">
+        <seg>由于这些状态不会被自动清理，所以只能在键值域有限的流上使用滚动reduce算子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since you are running a streaming application, it will continue to run until you cancel it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T045509Z" creationid="xccui" creationdate="20190329T045426Z">
@@ -19291,6 +19299,14 @@
         <seg>The rolling aggregate operator keeps a state for every key that is processed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061006Z" creationid="xccui" creationdate="20190614T061006Z">
+        <seg>滚动聚合算子会为每个处理过的键值维持一个状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rolling reduce operator keeps a state for every key that is pro‐ cessed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062936Z" creationid="xccui" creationdate="20190614T062936Z">
         <seg>滚动聚合算子会为每个处理过的键值维持一个状态。</seg>
       </tuv>
     </tu>
