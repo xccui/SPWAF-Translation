@@ -3358,6 +3358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A rolling aggre‐ gate operator keeps an aggregated value for every observed key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052118Z" creationid="xccui" creationdate="20190614T052118Z">
+        <seg>滚动聚合算子会对每一个遇到的键值保存一个聚合结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A rolling minimum aggregation operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011943Z" creationid="xccui" creationdate="20190606T011943Z">
