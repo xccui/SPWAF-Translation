@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.keyBy(0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062236Z" creationid="xccui" creationdate="20190614T062236Z">
+        <seg>.keyBy(0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.keyBy(0) // key on first field of the tuple</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054716Z" creationid="xccui" creationdate="20190614T054452Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042255Z" creationid="xccui" creationdate="20190612T042255Z">
         <seg>.map( r =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.reduce((x, y) =&gt; (x._1, x._2 ::: y._2))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062241Z" creationid="xccui" creationdate="20190614T062241Z">
+        <seg>.reduce((x, y) =&gt; (x._1, x._2 ::: y._2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -18800,6 +18816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lambda reduce function forwards the first tuple field (the key field) and concate‐ nates the List[String] values of the second tuple field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062552Z" creationid="xccui" creationdate="20190614T062552Z">
+        <seg>用于reduce的lambda函数会直接转发第1个字段（键值字段），而将所有第2个字段中的List[String]值连接合并起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The latter decision is based on a trigger condition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022846Z" creationid="xccui" creationdate="20190406T045549Z">
@@ -24369,6 +24393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val inputStream: DataStream[(String, List[String])] = env.fromElements( ("en", List("tea")), ("fr", List("vin")), ("en", List("cake")))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062232Z" creationid="xccui" creationdate="20190614T062232Z">
+        <seg>val inputStream: DataStream[(String, List[String])] = env.fromElements( ("en", List("tea")), ("fr", List("vin")), ("en", List("cake")))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
@@ -24405,6 +24437,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054459Z" creationid="xccui" creationdate="20190614T054459Z">
         <seg>val resultStream: DataStream[(Int, Int, Int)] = inputStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val resultStream: DataStream[(String, List[String])] = inputStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062227Z" creationid="xccui" creationdate="20190614T062227Z">
+        <seg>val resultStream: DataStream[(String, List[String])] = inputStream</seg>
       </tuv>
     </tu>
     <tu>
