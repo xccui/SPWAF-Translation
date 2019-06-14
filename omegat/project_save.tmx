@@ -216,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>.keyBy(0) // key on first field of the tuple</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054452Z" creationid="xccui" creationdate="20190614T054452Z">
-        <seg>.keyBy(0) // 以元组第一个字段为键值</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054716Z" creationid="xccui" creationdate="20190614T054452Z">
+        <seg>.keyBy(0) // 以元组第1个字段为键值进行分区</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042255Z" creationid="xccui" creationdate="20190612T042255Z">
         <seg>.map( r =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.sum(1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054503Z" creationid="xccui" creationdate="20190614T054503Z">
+        <seg>.sum(1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044717Z" creationid="xccui" creationdate="20190612T041910Z">
         <seg>// 设置流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// sum the second field of the tuple in place</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054727Z" creationid="xccui" creationdate="20190614T054550Z">
+        <seg>// 滚动计算每个分区内元组第2个字段的总和</seg>
       </tuv>
     </tu>
     <tu>
@@ -24237,6 +24253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051333Z" creationid="xccui" creationdate="20190612T051333Z">
         <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val resultStream: DataStream[(Int, Int, Int)] = inputStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054459Z" creationid="xccui" creationdate="20190614T054459Z">
+        <seg>val resultStream: DataStream[(Int, Int, Int)] = inputStream</seg>
       </tuv>
     </tu>
     <tu>
