@@ -17466,8 +17466,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API features the abstraction of a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T043951Z" creationid="xccui" creationdate="20190614T043951Z">
-        <seg>DataStream API中的KeyedStream抽象是一种特殊的DataStream，它可以从逻辑上将事件按照键值分配到多条独立的子流中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044525Z" creationid="xccui" creationdate="20190614T043951Z">
+        <seg>作为一种特殊的DataStream，DataStream API中的KeyedStream抽象可以从逻辑上将事件按照键值分配到多条独立的子流中。</seg>
       </tuv>
     </tu>
     <tu>
