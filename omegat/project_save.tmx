@@ -3718,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A union operation that merges two input streams into one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064258Z" creationid="xccui" creationdate="20190614T064258Z">
+        <seg>将两条输入流合二为一的union操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A watermark is a global progress metric that indicates a certain point in time when we are confident that no more delayed events will arrive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T205155Z" creationid="xccui" creationdate="20190412T204632Z">
