@@ -3382,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A rolling maximum of the input stream that returns the event with the highest</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053838Z" creationid="xccui" creationdate="20190614T053838Z">
+        <seg>滚动计算输入流中迄今为止最大值，返回该值所在事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A rolling minimum aggregation operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011943Z" creationid="xccui" creationdate="20190606T011943Z">
@@ -3408,8 +3416,8 @@
       <tuv lang="EN-US">
         <seg>A rolling minimum of the input stream that returns the event with the lowest</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053741Z" creationid="xccui" creationdate="20190614T053741Z">
-        <seg>滚动计算输入流中的最小值，返回该值所在事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053812Z" creationid="xccui" creationdate="20190614T053741Z">
+        <seg>滚动计算输入流中迄今为止最小值，返回该值所在事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23769,6 +23777,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>maxBy()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053818Z" creationid="xccui" creationdate="20190614T053818Z">
+        <seg>maxBy()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ments such as variable or function names, databases, data types, environment variables, statements, and keywords.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210805Z" creationid="esouser" creationdate="20190603T210805Z">
@@ -24237,6 +24253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005233Z" creationid="xccui" creationdate="20190613T005233Z">
         <seg>val words: DataStream[String] = sentences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value observed so far.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053815Z" creationid="xccui" creationdate="20190614T053815Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
