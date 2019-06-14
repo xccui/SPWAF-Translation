@@ -19472,6 +19472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are different ways to specify keys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051506Z" creationid="xccui" creationdate="20190614T051506Z">
+        <seg>指定键值的方式多种多样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are several event log sys&lt;t0/&gt;‐&lt;t1/&gt; tems available as open source software, Apache Kafka being the most popular, or as integrated services offered by cloud computing providers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T060116Z" creationid="xccui" creationdate="20190305T055922Z">
