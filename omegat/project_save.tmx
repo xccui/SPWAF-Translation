@@ -15496,6 +15496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Random</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064954Z" creationid="xccui" creationdate="20190614T064954Z">
+        <seg>随机策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read an Input Stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145047Z" creationid="esouser" creationdate="20190603T145047Z">
