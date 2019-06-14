@@ -12335,6 +12335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this example the tuple input stream is keyed by the first field and the rolling sum is computed on the second field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054950Z" creationid="xccui" creationdate="20190614T054950Z">
+        <seg>该示例中，输入流的元组按照第1个字段进行分区，然后滚动计算第2个字段的总和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this mode, Flink applications are packaged into a JAR file and submitted by a client to a running service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143428Z" creationid="xccui" creationdate="20190606T143415Z">
