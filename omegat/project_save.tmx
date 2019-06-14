@@ -19176,6 +19176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rolling aggregate operator keeps a state for every key that is processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061006Z" creationid="xccui" creationdate="20190614T061006Z">
+        <seg>滚动聚合算子会为每个处理过的键值维持一个状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second property is used to handle streams with out-of-order record timestamps, such as the records with timestamps 3 and 5 in &lt;t0/&gt;Figure 3-8&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T034143Z" creationid="xccui" creationdate="20190523T042812Z">
