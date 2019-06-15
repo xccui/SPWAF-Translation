@@ -10383,6 +10383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the elements of both input streams can be jointly processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052207Z" creationid="xccui" creationdate="20190615T052207Z">
+        <seg>这样一来，就可以联合处理两个输入流的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the identifier of an operator changes when one of its predecessors changes, for example, when an operator is added or removed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T025037Z" creationid="xccui" creationdate="20190610T023325Z">
