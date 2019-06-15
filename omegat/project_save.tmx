@@ -17016,6 +17016,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Split and select</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052256Z" creationid="xccui" creationdate="20190615T052247Z">
+        <seg>Split和Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stand-Alone Cluster</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025413Z" creationid="xccui" creationdate="20190225T025413Z">
