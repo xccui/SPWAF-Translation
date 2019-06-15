@@ -16320,6 +16320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Round-Robin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T071053Z" creationid="xccui" creationdate="20190615T071053Z">
+        <seg>Round-Robin策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run Flink Applications in an IDE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144911Z" creationid="esouser" creationdate="20190603T144911Z">
