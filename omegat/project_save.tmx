@@ -19912,6 +19912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The random data exchange strategy is implemented by the DataStream.shuf fle() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070800Z" creationid="xccui" creationdate="20190615T070800Z">
+        <seg>我们可以利用DataStream.shuffle()方法实现random数据交换策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The random strategy uniformly distributes data items to operator tasks in order to evenly distribute the load across computing tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233607Z" creationid="xccui" creationdate="20190605T233549Z">
