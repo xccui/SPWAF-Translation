@@ -12943,6 +12943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, a method is called as soon as an event has arrived via the corre‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T043711Z" creationid="xccui" creationdate="20190615T043711Z">
+        <seg>一旦对应流中有事件到来，就需要调用相应的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, it focuses on its core function - distributed data stream processing - and leverages existing cluster infra&lt;t0/&gt;‐&lt;t1/&gt; structure and services.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T031834Z" creationid="xccui" creationdate="20190418T031709Z">
@@ -13307,6 +13315,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054053Z" creationid="xccui" creationdate="20190614T054037Z">
         <seg>注意，无法将多个滚动聚合方法组合使用，每次只能计算一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not possible to control the order in which the methods of a CoMapFunction or CoFlatMapFunction are called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T043633Z" creationid="xccui" creationdate="20190615T043633Z">
+        <seg>CoMapFunctionhe CoFlatMapFunction内方法的调用顺序无法控制。</seg>
       </tuv>
     </tu>
     <tu>
