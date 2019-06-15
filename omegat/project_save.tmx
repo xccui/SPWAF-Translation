@@ -5415,6 +5415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both functions are typed on the types of the first and second input stream and on the type of the output stream and define two methods—one for each input.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041305Z" creationid="xccui" creationdate="20190615T041305Z">
+        <seg>两个函数的类型都是两条输入流的类型再加上数据流的类型，它们分别为两条输入流提供了各自的处理方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both kinds of queries are executed by a data warehouse in a batch processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T194232Z" creationid="xccui" creationdate="20190228T194049Z">
