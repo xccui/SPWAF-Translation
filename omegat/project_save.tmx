@@ -17872,6 +17872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ConnectedStreams object provides map() and flatMap() methods that expect a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041010Z" creationid="xccui" creationdate="20190615T041010Z">
+        <seg>ConnectedStreams对象提供了map()和flatMap()方法，它们分别接收一个CoMapFunction和一个CoFlatMapFunction作为参数。2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataSet API for Batch Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152457Z" creationid="esouser" creationdate="20190603T152457Z">
@@ -24685,6 +24693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062227Z" creationid="xccui" creationdate="20190614T062227Z">
         <seg>val resultStream: DataStream[(String, List[String])] = inputStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val second: DataStream[String] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040832Z" creationid="xccui" creationdate="20190615T040832Z">
+        <seg>val second: DataStream[String] = ...</seg>
       </tuv>
     </tu>
     <tu>
