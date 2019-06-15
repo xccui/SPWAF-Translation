@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// alternative: connect two keyed streams</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050418Z" creationid="xccui" creationdate="20190615T050418Z">
+        <seg>// 或者是接通两个已经按键值分好区的数据流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// assign timestamps and watermarks (required for event time)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042213Z" creationid="xccui" creationdate="20190612T042213Z">
