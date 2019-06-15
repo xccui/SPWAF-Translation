@@ -12975,6 +12975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “Emitting to Side Outputs” on page 119, we present the side-output feature of the process functions, which can emit multiple streams of different types from a function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064512Z" creationid="xccui" creationdate="20190615T064512Z">
+        <seg>在119页"发送至副输出"一节，我们会介绍针对处理函数的副输出功能，它可以从函数中发出多条类型不同的数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Time Semantics” on page 27, we highlighted the importance of time semantics for stream processing applications and explained the differences between processing time and event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204156Z" creationid="xccui" creationdate="20190606T204144Z">
