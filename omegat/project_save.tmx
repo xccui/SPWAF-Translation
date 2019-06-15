@@ -7863,6 +7863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 5-2 splits a stream of numbers into a stream of large numbers and a stream of small numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T061613Z" creationid="xccui" creationdate="20190615T061613Z">
+        <seg>示例5-2将一条数字流分成一条大数字流和一条小数字流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
