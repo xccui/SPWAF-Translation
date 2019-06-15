@@ -22913,6 +22913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the temperature is over a given threshold and the smoke level is high, the application emits a fire alert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040129Z" creationid="xccui" creationdate="20190615T040129Z">
+        <seg>当温度超过给定阈值且烟雾水平很高时，应用就会发出火灾警报。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the train exits the tunnel, she comes back online, and pending events are sent to the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190411T151949Z" creationid="xccui" creationdate="20190411T151545Z">
