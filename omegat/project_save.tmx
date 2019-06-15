@@ -25097,6 +25097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the application logic might require that all tasks of an operation receive the same data or that events be distributed following a custom strategy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070115Z" creationid="xccui" creationdate="20190615T070115Z">
+        <seg>亦或是可能应用逻辑要求某操作的所有任务接收相同的数据或按照自定义策略分发事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>them in “Defining Keys and Referencing Fields” on page 102.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051537Z" creationid="xccui" creationdate="20190614T051537Z">
