@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.connect(two.keyBy(0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050438Z" creationid="xccui" creationdate="20190615T050438Z">
+        <seg>.connect(two.keyBy(0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.filter( r =&gt; r.temperature &gt;= 25 )</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053216Z" creationid="xccui" creationdate="20190613T053216Z">
@@ -15880,6 +15888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regardless of whether you keyBy() ConnectedStreams or you connect() two Keyed Streams, the connect() transformation will route all events from both streams with the same key to the same operator instance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050651Z" creationid="xccui" creationdate="20190615T050651Z">
+        <seg>无论你是对ConnectedStreams执行keyBy()还是对两个已经按键值分好区的数据流执行connect()，connect()转换都会将两个数据流中具有相同键值的事件发往同一个算子实例上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing State from an Application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024915Z" creationid="xccui" creationdate="20190225T024915Z">
@@ -24893,6 +24909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050145Z" creationid="xccui" creationdate="20190615T050145Z">
         <seg>val keyedConnect1: ConnectedStreams[(Int, Long), (Int, String)] = one</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val keyedConnect2: ConnectedStreams[(Int, Long), (Int, String)] = one.keyBy(0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050432Z" creationid="xccui" creationdate="20190615T050432Z">
+        <seg>val keyedConnect2: ConnectedStreams[(Int, Long), (Int, String)] = one.keyBy(0)</seg>
       </tuv>
     </tu>
     <tu>
