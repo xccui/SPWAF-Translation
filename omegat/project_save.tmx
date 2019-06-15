@@ -25201,6 +25201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val inputStream: DataStream[(Int, String)] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064057Z" creationid="xccui" creationdate="20190615T064057Z">
+        <seg>val inputStream: DataStream[(Int, String)] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val inputStream: DataStream[(String, List[String])] = env.fromElements( ("en", List("tea")), ("fr", List("vin")), ("en", List("cake")))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062232Z" creationid="xccui" creationdate="20190614T062232Z">
