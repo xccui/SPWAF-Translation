@@ -18280,6 +18280,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream.split()  method  returns  a  SplitStream,  which  provides  a select() method to select one or more streams from the SplitStream by specify‐ ing the output names.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T061408Z" creationid="xccui" creationdate="20190615T061408Z">
+        <seg>DataStream.split()方法会返回一个SplitStream对象，它提供的select()方法可以让我们通过指定输出名称的方式从SplitStream中选择一条或多条流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream.split() method receives an OutputSelector that defines how stream elements are assigned to named outputs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054406Z" creationid="xccui" creationdate="20190615T054406Z">
