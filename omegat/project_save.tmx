@@ -2918,6 +2918,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; flatMap1(IN1, Collector[OUT]): Unit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042926Z" creationid="xccui" creationdate="20190615T042926Z">
+        <seg>&gt; flatMap1(IN1, Collector[OUT]): Unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt; flatMap2(IN2, Collector[OUT]): Unit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042921Z" creationid="xccui" creationdate="20190615T042921Z">
+        <seg>&gt; flatMap2(IN2, Collector[OUT]): Unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt; map(T): O</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050345Z" creationid="xccui" creationdate="20190613T050345Z">
@@ -2994,6 +3010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140636Z" creationid="xccui" creationdate="20190418T030126Z">
         <seg>它的设置包含多个进程，这些进程通常会分布在多台机器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Function Cannot Choose Which ConnectedStreams to Read</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T043536Z" creationid="xccui" creationdate="20190615T043536Z">
+        <seg>函数无法选择从哪条流读取数据</seg>
       </tuv>
     </tu>
     <tu>
