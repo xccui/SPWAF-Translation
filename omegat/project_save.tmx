@@ -18592,6 +18592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The connect transformation and the cofunctions discussed in this section are more generic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045206Z" creationid="xccui" creationdate="20190615T045206Z">
+        <seg>本节讨论的connect转换以及协处理函数通用性更强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The constructed plan is translated into a JobGraph and submitted to a JobManager for execution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012200Z" creationid="xccui" creationdate="20190613T012055Z">
@@ -23453,6 +23461,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210843Z" creationid="esouser" creationdate="20190603T210843Z">
         <seg>You can access this page at http://bit.ly/stream-proc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also apply a CoProcessFunction to ConnectedStreams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045325Z" creationid="xccui" creationdate="20190615T045325Z">
+        <seg>你也可以对ConnectedStreams应用CoProcessFunction。</seg>
       </tuv>
     </tu>
     <tu>
