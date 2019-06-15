@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.connect(two)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050150Z" creationid="xccui" creationdate="20190615T050150Z">
+        <seg>.connect(two)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.filter( r =&gt; r.temperature &gt;= 25 )</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053216Z" creationid="xccui" creationdate="20190613T053216Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054716Z" creationid="xccui" creationdate="20190614T054452Z">
         <seg>.keyBy(0) // 以元组第1个字段为键值进行分区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.keyBy(0, 0) // key both input streams on first attribute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050311Z" creationid="xccui" creationdate="20190615T050311Z">
+        <seg>.keyBy(0, 0) // 两个数据流都以第1个属性作为键值</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042138Z" creationid="xccui" creationdate="20190612T042134Z">
         <seg>// 利用SensorSource SourceFunction获取传感器读数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// keyBy two connected streams</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050223Z" creationid="xccui" creationdate="20190615T050140Z">
+        <seg>// 对两个接通后的数据流执行keyBy</seg>
       </tuv>
     </tu>
     <tu>
@@ -24857,6 +24881,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val keyedConnect1: ConnectedStreams[(Int, Long), (Int, String)] = one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050145Z" creationid="xccui" creationdate="20190615T050145Z">
+        <seg>val keyedConnect1: ConnectedStreams[(Int, Long), (Int, String)] = one</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
@@ -24957,6 +24989,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005237Z" creationid="xccui" creationdate="20190613T005237Z">
         <seg>val sentences: DataStream[String] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val two: DataStream[(Int, String)] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050041Z" creationid="xccui" creationdate="20190615T050041Z">
+        <seg>val two: DataStream[(Int, String)] = ...</seg>
       </tuv>
     </tu>
     <tu>
