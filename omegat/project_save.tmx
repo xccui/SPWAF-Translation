@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.split(t =&gt; if (t._1 &gt; 1000) Seq("large") else Seq("small"))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064105Z" creationid="xccui" creationdate="20190615T064105Z">
+        <seg>.split(t =&gt; if (t._1 &gt; 1000) Seq("large") else Seq("small"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.sum(1)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054503Z" creationid="xccui" creationdate="20190614T054503Z">
@@ -15047,6 +15055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One restriction of the split transformation is that all outgoing streams are of the same type as the input type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064224Z" creationid="xccui" creationdate="20190615T064224Z">
+        <seg>split转换的一个限制是所有输出流的类型必须和输入流相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One way you can lower latency is by hiring a more skilled barista, i.e. one that prepares coffees faster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210823Z" creationid="xccui" creationdate="20190402T210744Z">
@@ -25129,6 +25145,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val all: DataStream[(Int, String)] = splitted.select("small", "large")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064116Z" creationid="xccui" creationdate="20190615T064116Z">
+        <seg>val all: DataStream[(Int, String)] = splitted.select("small", "large")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val allCities: DataStream[SensorReading] = parisStream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064852Z" creationid="xccui" creationdate="20190614T064852Z">
@@ -25249,6 +25273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val large: DataStream[(Int, String)] = splitted.select("large")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064109Z" creationid="xccui" creationdate="20190615T064109Z">
+        <seg>val large: DataStream[(Int, String)] = splitted.select("large")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
@@ -25365,6 +25397,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005237Z" creationid="xccui" creationdate="20190613T005237Z">
         <seg>val sentences: DataStream[String] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val small: DataStream[(Int, String)] = splitted.select("small")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064112Z" creationid="xccui" creationdate="20190615T064112Z">
+        <seg>val small: DataStream[(Int, String)] = splitted.select("small")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val splitted: SplitStream[(Int, String)] = inputStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064101Z" creationid="xccui" creationdate="20190615T064101Z">
+        <seg>val splitted: SplitStream[(Int, String)] = inputStream</seg>
       </tuv>
     </tu>
     <tu>
