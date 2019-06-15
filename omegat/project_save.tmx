@@ -15568,6 +15568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Partitioning transformations correspond to the data exchange strategies we intro‐ duced in “Data Exchange Strategies” on page 19.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064825Z" creationid="xccui" creationdate="20190615T064707Z">
+        <seg>分区转换对应我们在19页"数据交换策略"一节中介绍的数据交换策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pattern detection or complex event processing (CEP), e.g., for fraud detection in credit card transactions, and</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190315T012134Z" creationid="xccui" creationdate="20190307T151505Z">
@@ -20508,6 +20516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011319Z" creationid="xccui" creationdate="20190606T011303Z">
         <seg>这些操作逐个读取事件，对其应用某些转换并产生一条新的输出流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These operations define how events are assigned to tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064903Z" creationid="xccui" creationdate="20190615T064903Z">
+        <seg>这些操作定义了如何将事件分配给不同任务。</seg>
       </tuv>
     </tu>
     <tu>
