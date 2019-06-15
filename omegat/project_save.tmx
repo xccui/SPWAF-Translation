@@ -15570,8 +15570,8 @@
       <tuv lang="EN-US">
         <seg>Partitioning transformations correspond to the data exchange strategies we intro‐ duced in “Data Exchange Strategies” on page 19.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064825Z" creationid="xccui" creationdate="20190615T064707Z">
-        <seg>分区转换对应我们在19页"数据交换策略"一节中介绍的数据交换策略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065003Z" creationid="xccui" creationdate="20190615T064707Z">
+        <seg>各类分区转换对应我们在第19页"数据交换策略"一节中介绍的多种数据交换策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23357,6 +23357,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025434Z" creationid="xccui" creationdate="20190606T025434Z">
         <seg>当一个算子接收到时间为T的水位线，就可以认为不会再收到任何时间戳小于或等于T的事件了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When building applications with the DataStream API the sys‐ tem automatically chooses data partitioning strategies and routes data to the correct destination depending on the operation semantics and the configured parallelism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065209Z" creationid="xccui" creationdate="20190615T065209Z">
+        <seg>在使用DataStream API构建程序时，系统会根据操作语义和配置的并行度自动选择数据分区策略并将数据转发到正确的目标。</seg>
       </tuv>
     </tu>
     <tu>
