@@ -17112,6 +17112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Split a tuple stream into a stream with large numbers and a stream with small numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T062047Z" creationid="xccui" creationdate="20190615T062047Z">
+        <seg>将元组流拆分成一条大数字流和一条小数字流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Split and select</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T055000Z" creationid="xccui" creationdate="20190615T052247Z">
