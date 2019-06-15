@@ -4478,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An opera‐ tor that is applied on a connected and keyed stream has access to keyed state.3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051502Z" creationid="xccui" creationdate="20190615T051502Z">
+        <seg>应用于已经按照键值分区且已连通数据流上的算子可以访问键值状态。3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analytical Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T142900Z" creationid="esouser" creationdate="20190603T142900Z">
@@ -19316,6 +19324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195616Z" creationid="xccui" creationdate="20190606T195414Z">
         <seg>它的网络模块在传输记录前会将它们在缓冲区中收集起来，因此，记录并非逐个发送的，而是在缓冲区中以批次形式发送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next example shows how to connect a (nonkeyed) DataStream with a broadcas‐ ted stream:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051632Z" creationid="xccui" creationdate="20190615T051632Z">
+        <seg>接下来的示例展示了如何接通一个（未按照键值分区的）DataStream和一个广播流：</seg>
       </tuv>
     </tu>
     <tu>
