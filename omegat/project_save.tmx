@@ -22216,6 +22216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We discuss CoProcessFunction in Chapter 6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045349Z" creationid="xccui" creationdate="20190615T045349Z">
+        <seg>有关CoProcessFunction的内容会在第6章讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We discuss Flink’s fault-tolerance algorithm in &lt;t2/&gt;Chapter 3&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045041Z" creationid="xccui" creationdate="20190416T045041Z">
