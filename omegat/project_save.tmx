@@ -23897,6 +23897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>between the events of both streams so events of both streams are randomly assigned to operator instances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045458Z" creationid="xccui" creationdate="20190615T045451Z">
+        <seg>默认情况下，connect()方法不会在两个输入流的事件之间建立关联，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ble.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T041101Z" creationid="xccui" creationdate="20190414T041101Z">
