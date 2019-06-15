@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// IN: the type of the split elements OutputSelector[IN]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T061011Z" creationid="xccui" creationdate="20190615T061011Z">
+        <seg>// IN：拆分流的元素类型 OutputSelector[IN]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// O: the type of output elements FlatMapFunction[T, O]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061027Z" creationid="xccui" creationdate="20190613T061027Z">
