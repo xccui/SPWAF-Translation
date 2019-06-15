@@ -4294,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All transformations in this section produce a DataStream whereas keyBy() results in a KeyedStream, on which transformation with access to keyed state can be applied.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070620Z" creationid="xccui" creationdate="20190615T070620Z">
+        <seg>所有本节介绍的转换都会生成一个DataStream，而keyBy()会生成一个KeyedStream。基于后者可以应用那些能够访问键值状态的转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also the internals of a stream processor that supports event-time are more involved than the internals of a system that purely operates in processing-time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T033738Z" creationid="xccui" creationdate="20190523T033738Z">
@@ -4330,6 +4338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234036Z" creationid="xccui" creationdate="20190605T234036Z">
         <seg>而第95百分位延迟在10毫秒意味着95%的事件会在10毫秒内处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070120Z" creationid="xccui" creationdate="20190615T070120Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -12823,6 +12839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070259Z" creationid="xccui" creationdate="20190615T070259Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we describe how Flink initializes the state of an application started from a savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214403Z" creationid="xccui" creationdate="20190609T214356Z">
@@ -14619,6 +14643,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034253Z" creationid="xccui" creationdate="20190606T034216Z">
         <seg>但注意，保证应用状态的一致性和保证输出的一致性二者无法划等号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that keyBy() is different from the distribution transforma‐ tions discussed in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070343Z" creationid="xccui" creationdate="20190615T070343Z">
+        <seg>注意，keyBy()和本节介绍的分发转换不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24457,6 +24489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>define their own.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070302Z" creationid="xccui" creationdate="20190615T070302Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deploying Flink applications and the way each distributes and executes tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141142Z" creationid="xccui" creationdate="20190606T141058Z">
@@ -24925,6 +24965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T061733Z" creationid="xccui" creationdate="20190609T061206Z">
         <seg>所有先于分隔符的记录所导致的状态更改都会被包含在分隔符所对应的检查点之中；而所有晚于分隔符的记录所导致的状态更改都会被纳入随后的检查点中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>present DataStream methods that enable users to control partitioning strategies or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070257Z" creationid="xccui" creationdate="20190615T070257Z">
+        <seg>本节我们会介绍DataStream中用于控制分区策略或自定义分区策略的方法。</seg>
       </tuv>
     </tu>
     <tu>
