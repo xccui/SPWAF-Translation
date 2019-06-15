@@ -7327,6 +7327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each incoming event can be routed to zero, one, or more output streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053929Z" creationid="xccui" creationdate="20190615T053929Z">
+        <seg>每一个到来的事件都可以被发往零个、一个或多个输出流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each operator can define one or more keyed and operator states.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214508Z" creationid="xccui" creationdate="20190609T214500Z">
