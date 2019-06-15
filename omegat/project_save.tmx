@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// IN1: the type of the first input stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042818Z" creationid="xccui" creationdate="20190615T042818Z">
+        <seg>// IN1：第一条输入流的类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// O: the type of output elements FlatMapFunction[T, O]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061027Z" creationid="xccui" creationdate="20190613T061027Z">
@@ -24187,8 +24195,8 @@
       <tuv lang="EN-US">
         <seg>map1() and flatMap1() are called to process an event of the first input and map2() and flat Map2() are invoked to process an event of the second input:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041659Z" creationid="xccui" creationdate="20190615T041435Z">
-        <seg>其中map1()和flatMap()用来处理第一个输入流的事件；map2()和flatMap2()用来处理第二个输入流的事件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042740Z" creationid="xccui" creationdate="20190615T041435Z">
+        <seg>map1()和flatMap()用来处理第一个输入流的事件；map2()和flatMap2()用来处理第二个输入流的事件：</seg>
       </tuv>
     </tu>
     <tu>
