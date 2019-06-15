@@ -18672,6 +18672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The broadcast state is discussed in detail in “Using Connected Broadcast State” on page 160.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053447Z" creationid="xccui" creationdate="20190615T053447Z">
+        <seg>我们会在第160页"使用接通的广播状态"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The broadcast strategy sends every data item to all parallel tasks of an operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233431Z" creationid="xccui" creationdate="20190605T233431Z">
@@ -22018,8 +22026,8 @@
       <tuv lang="EN-US">
         <seg>Using Connected Broadcast State</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024605Z" creationid="xccui" creationdate="20190225T024605Z">
-        <seg>使用Connected Broadcast State</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053457Z" creationid="xccui" creationdate="20190225T024605Z">
+        <seg>使用接通的广播状态</seg>
       </tuv>
     </tu>
     <tu>
