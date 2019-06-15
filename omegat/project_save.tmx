@@ -18248,6 +18248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The application receives the stream of temperature sensor readings you have seen previously and an additional stream of smoke level measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T035958Z" creationid="xccui" creationdate="20190615T035958Z">
+        <seg>该应用会接收一条包含之前所见全部温度传感器读数的数据流，以及另外一条烟雾水平测量值数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The application we are going to run converts and aggregates randomly generated temperature sensor readings by time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T122633Z" creationid="xccui" creationdate="20190605T122633Z">
