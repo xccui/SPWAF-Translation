@@ -4144,8 +4144,8 @@
       <tuv lang="EN-US">
         <seg>All events of the broadcasted stream are replicated and sent to all parallel operator instances of the subsequent processing function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051939Z" creationid="xccui" creationdate="20190615T051939Z">
-        <seg>所有广播流的事件都会被复制多份并分别发往后续处理函数所在算子的每个实例上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051948Z" creationid="xccui" creationdate="20190615T051939Z">
+        <seg>所有广播流的事件都会被复制多份并分别发往后续处理函数所在算子的每个实例。</seg>
       </tuv>
     </tu>
     <tu>
