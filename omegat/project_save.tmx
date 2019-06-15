@@ -5599,6 +5599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broadcast state is an improved version of the broadcast()- connect() transformation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052518Z" creationid="xccui" creationdate="20190615T052518Z">
+        <seg>广播状态是broadcast()-connect()转换的一个改进版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buffering is a mandatory technique to fully utilize the bandwidth of network connections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T210224Z" creationid="esouser" creationdate="20190513T210224Z">
