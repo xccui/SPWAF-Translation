@@ -23809,6 +23809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use broadcast state to connect a keyed and a broadcast stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052419Z" creationid="xccui" creationdate="20190615T052419Z">
+        <seg>你可以使用广播状态来接通一个按键值分好区流和一个广播流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not need to contact us for permission unless you’re reproducing a significant portion of the code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210817Z" creationid="esouser" creationdate="20190603T210817Z">
