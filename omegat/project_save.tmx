@@ -19600,6 +19600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The method distributes records randomly according to a uniform distribution to the parallel tasks of the following operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T071043Z" creationid="xccui" creationdate="20190615T071043Z">
+        <seg>该方法会依照均匀分布随机地将记录发往后继算子的并行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most trivial way would be to simply restart the job, but then we would have to replay all data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T044142Z" creationid="xccui" creationdate="20190415T044114Z">
