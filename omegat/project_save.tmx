@@ -25073,6 +25073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val keyed: KeyedStream[SensorReading, String] = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053550Z" creationid="xccui" creationdate="20190615T053550Z">
+        <seg>val keyed: KeyedStream[SensorReading, String] = readings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val keyedConnect1: ConnectedStreams[(Int, Long), (Int, String)] = one</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050145Z" creationid="xccui" creationdate="20190615T050145Z">
