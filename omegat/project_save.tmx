@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// first stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040749Z" creationid="xccui" creationdate="20190615T040720Z">
+        <seg>// 第一条流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 5 second tumbling windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042754Z" creationid="xccui" creationdate="20190612T042754Z">
         <seg>// 将结果流打印到标准输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// second stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040744Z" creationid="xccui" creationdate="20190615T040744Z">
+        <seg>// 第二条流</seg>
       </tuv>
     </tu>
     <tu>
@@ -24573,6 +24589,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053212Z" creationid="xccui" creationdate="20190613T053212Z">
         <seg>val filteredSensors = readings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val first: DataStream[Int] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040722Z" creationid="xccui" creationdate="20190615T040722Z">
+        <seg>val first: DataStream[Int] = ...</seg>
       </tuv>
     </tu>
     <tu>
