@@ -4144,8 +4144,8 @@
       <tuv lang="EN-US">
         <seg>All events of the broadcasted stream are replicated and sent to all parallel operator instances of the subsequent processing function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051948Z" creationid="xccui" creationdate="20190615T051939Z">
-        <seg>所有广播流的事件都会被复制多份并分别发往后续处理函数所在算子的每个实例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052019Z" creationid="xccui" creationdate="20190615T051939Z">
+        <seg>所有广播流的事件都会被复制多份并分别发往后续处理函数所在算子的每个实例；</seg>
       </tuv>
     </tu>
     <tu>
@@ -18820,6 +18820,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064745Z" creationid="xccui" creationdate="20190614T064449Z">
         <seg>执行过程中事件会以FIFO的方式合并，其顺序无法得到任何保证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The events of the nonbroadcasted stream are simply forwarded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052015Z" creationid="xccui" creationdate="20190615T052015Z">
+        <seg>而所有非广播流的事件</seg>
       </tuv>
     </tu>
     <tu>
