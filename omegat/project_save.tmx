@@ -24593,6 +24593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>refer to the same class of entities, just like a join predicate in a SQL query.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051155Z" creationid="xccui" creationdate="20190615T051155Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>repository to your local machine:1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040104Z" creationid="xccui" creationdate="20190611T040104Z">
