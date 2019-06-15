@@ -18264,6 +18264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream.split() method receives an OutputSelector that defines how stream elements are assigned to named outputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054406Z" creationid="xccui" creationdate="20190615T054406Z">
+        <seg>DataStream.split()方法接收一个OutputSelector，它用来定义如何将数据流的元素分配到不同的命名输出中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream.union() method merges two or more DataStreams of the same type and produces a new DataStream of the same type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040651Z" creationid="xccui" creationdate="20190614T063938Z">
