@@ -14489,8 +14489,8 @@
       <tuv lang="EN-US">
         <seg>Note that the keys of both streams should</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050913Z" creationid="xccui" creationdate="20190615T050826Z">
-        <seg>注意，就像SQL查询中的联结条件一样，两条流中的键值类型必须是相同的实体类。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051142Z" creationid="xccui" creationdate="20190615T050826Z">
+        <seg>注意，就像SQL查询中的联结谓词一样，两条流中的键值类型需要是同一类实体。</seg>
       </tuv>
     </tu>
     <tu>
