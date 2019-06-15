@@ -7127,6 +7127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribution  Transformations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064528Z" creationid="xccui" creationdate="20190615T064528Z">
+        <seg>分发转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribution Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022750Z" creationid="xccui" creationdate="20190225T022750Z">
