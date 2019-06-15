@@ -25105,6 +25105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val one: DataStream[(Int, Long)] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053600Z" creationid="xccui" creationdate="20190615T053600Z">
+        <seg>val one: DataStream[(Int, Long)] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val parisStream: DataStream[SensorReading] = ... val tokyoStream: DataStream[SensorReading] = ... val rioStream: DataStream[SensorReading] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064847Z" creationid="xccui" creationdate="20190614T064847Z">
