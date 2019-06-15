@@ -480,8 +480,8 @@
       <tuv lang="EN-US">
         <seg>// keyBy two connected streams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050223Z" creationid="xccui" creationdate="20190615T050140Z">
-        <seg>// 对两个接通后的数据流执行keyBy</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050345Z" creationid="xccui" creationdate="20190615T050140Z">
+        <seg>// 对两个接通后的数据流按键值分区</seg>
       </tuv>
     </tu>
     <tu>
