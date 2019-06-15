@@ -13265,8 +13265,8 @@
       <tuv lang="EN-US">
         <seg>It also supports connecting a keyed and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053018Z" creationid="xccui" creationdate="20190615T053018Z">
-        <seg>它不仅支持接通一个按键值分好区的流和一个广播流，还能将广播后的事件存到一个受监管的状态中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053154Z" creationid="xccui" creationdate="20190615T053018Z">
+        <seg>它不仅支持接通一个按键值分好区的流和一个广播流，还能将广播后的事件存到一个托管状态中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24009,6 +24009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a broadcasted stream and storing the broadcasted events in man‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053023Z" creationid="xccui" creationdate="20190615T053023Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a filter operation that only preserves white squares.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052257Z" creationid="xccui" creationdate="20190613T052257Z">
@@ -24028,6 +24036,14 @@
         <seg>access intermediate data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T205838Z" creationid="esouser" creationdate="20190603T205838Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aged state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053027Z" creationid="xccui" creationdate="20190615T053027Z">
         <seg></seg>
       </tuv>
     </tu>
