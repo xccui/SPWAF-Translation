@@ -14487,6 +14487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the keys of both streams should</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050913Z" creationid="xccui" creationdate="20190615T050826Z">
+        <seg>注意，就像SQL查询中的联结条件一样，两条流中的键值类型必须是相同的实体类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the savepoint does not contain information about opera‐ tor tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215650Z" creationid="xccui" creationdate="20190609T215650Z">
