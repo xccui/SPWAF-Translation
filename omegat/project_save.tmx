@@ -17082,8 +17082,8 @@
       <tuv lang="EN-US">
         <seg>Split and select</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052256Z" creationid="xccui" creationdate="20190615T052247Z">
-        <seg>Split和Select</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T055000Z" creationid="xccui" creationdate="20190615T052247Z">
+        <seg>Split和Select（译者注：该组合自1.7.2和1.8.0版本后已过期，可使用副输出功能替代）</seg>
       </tuv>
     </tu>
     <tu>
