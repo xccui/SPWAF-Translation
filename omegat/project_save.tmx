@@ -6127,6 +6127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consider an application that monitors a forest area and outputs an alert when‐ ever there is a high risk of fire.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T035523Z" creationid="xccui" creationdate="20190615T035523Z">
+        <seg>假设有一个森林区域监控应用会在火灾发生风险很高时报警。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consider an application that provides real-time traffic information to drivers so that they can avoid congested routes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043400Z" creationid="xccui" creationdate="20190406T043152Z">
