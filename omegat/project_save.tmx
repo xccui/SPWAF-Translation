@@ -11815,6 +11815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to achieve deterministic transformations on ConnectedStreams, connect() can be combined with keyBy() or broadcast().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045948Z" creationid="xccui" creationdate="20190615T045948Z">
+        <seg>为了在ConnectedStreams上实现确定性的转换，connect()可以与keyBy()和broadcast()结合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to enable a smooth pipelined data exchange, a TaskManager must be able to provide enough buf&lt;t2/&gt;‐&lt;t3/&gt; fers to serve all outgoing and incoming connections concurrently.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044648Z" creationid="xccui" creationdate="20190504T044648Z">
@@ -20392,6 +20400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This behavior yields nondeterministic results and is usually</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045745Z" creationid="xccui" creationdate="20190615T045745Z">
+        <seg>该行为会产生不确定的结果，而这往往并不是我们想要的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This book couldn’t have been possible without the help and support of several amaz‐ ing people.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T160100Z" creationid="xccui" creationdate="20190605T131119Z">
@@ -24724,6 +24740,14 @@
         <seg>type of the input stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061554Z" creationid="xccui" creationdate="20190614T061554Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>undesirable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045748Z" creationid="xccui" creationdate="20190615T045748Z">
         <seg></seg>
       </tuv>
     </tu>
