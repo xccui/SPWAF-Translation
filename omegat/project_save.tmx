@@ -18456,6 +18456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OutputSelector defines the select() method that is called for each input event and returns a java.lang.Itera ble[String].</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054416Z" creationid="xccui" creationdate="20190615T054416Z">
+        <seg>OutputSelector定义了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The O’Reilly logo is a registered trademark of O’Reilly Media, Inc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210736Z" creationid="esouser" creationdate="20190603T210736Z">
