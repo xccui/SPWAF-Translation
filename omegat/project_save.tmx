@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// IN2: the type of the second input stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042841Z" creationid="xccui" creationdate="20190615T042841Z">
+        <seg>// IN2：第二条输入流的类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// O: the type of output elements FlatMapFunction[T, O]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061027Z" creationid="xccui" creationdate="20190613T061027Z">
