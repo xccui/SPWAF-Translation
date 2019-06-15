@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// connect streams with broadcast</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051801Z" creationid="xccui" creationdate="20190615T051801Z">
+        <seg>// 利用广播接通数据流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// convert Fahrenheit to Celsius with an inline lambda function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053316Z" creationid="xccui" creationdate="20190612T042248Z">
@@ -24913,6 +24921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val first: DataStream[(Int, Long)] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051655Z" creationid="xccui" creationdate="20190615T051655Z">
+        <seg>val first: DataStream[(Int, Long)] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val first: DataStream[Int] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040722Z" creationid="xccui" creationdate="20190615T040722Z">
@@ -25005,6 +25021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062227Z" creationid="xccui" creationdate="20190614T062227Z">
         <seg>val resultStream: DataStream[(String, List[String])] = inputStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val second: DataStream[(Int, String)] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051658Z" creationid="xccui" creationdate="20190615T051658Z">
+        <seg>val second: DataStream[(Int, String)] = ...</seg>
       </tuv>
     </tu>
     <tu>
