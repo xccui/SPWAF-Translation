@@ -17112,6 +17112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes it is necessary or desirable to control the partitioning strategies at the application level or define custom partitioners.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065406Z" creationid="xccui" creationdate="20190615T065406Z">
+        <seg>某些时候，我们有必要或希望能够在应用级别控制这些分区策略或者自定义分区器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source Functions, Timestamps, and Watermarks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152108Z" creationid="xccui" creationdate="20190225T025249Z">
