@@ -10399,6 +10399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, split can also be used to filter or replicate events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053954Z" creationid="xccui" creationdate="20190615T053954Z">
+        <seg>因此，split也可以用来过滤或复制事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the elements of both input streams can be jointly processed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052207Z" creationid="xccui" creationdate="20190615T052207Z">
