@@ -13351,6 +13351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It divides an input stream into two or more output streams of the same type as the input stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053847Z" creationid="xccui" creationdate="20190615T053847Z">
+        <seg>它将输入流分割成两条或多条类型和输入流相同的输出流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It efficiently runs such applica&lt;t0/&gt;‐&lt;t1/&gt; tions at large scale in a fault-tolerant manner.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T215719Z" creationid="xccui" creationdate="20190225T192215Z">
