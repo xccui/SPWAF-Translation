@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// OUT: the type of the output elements CoFlatMapFunction[IN1, IN2, OUT]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042914Z" creationid="xccui" creationdate="20190615T042914Z">
+        <seg>// OUT：输出元素的类型 CoFlatMapFunction[IN1, IN2, OUT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// OUT: the type of the output elements CoMapFunction[IN1, IN2, OUT]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042855Z" creationid="xccui" creationdate="20190615T042855Z">
@@ -2914,6 +2922,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050345Z" creationid="xccui" creationdate="20190613T050345Z">
         <seg>&gt; map(T): O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt; map1(IN1): OUT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042859Z" creationid="xccui" creationdate="20190615T042859Z">
+        <seg>&gt; map1(IN1): OUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt; map2(IN2): OUT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042906Z" creationid="xccui" creationdate="20190615T042906Z">
+        <seg>&gt; map2(IN2): OUT</seg>
       </tuv>
     </tu>
     <tu>
