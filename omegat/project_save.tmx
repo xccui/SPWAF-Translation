@@ -5417,8 +5417,8 @@
       <tuv lang="EN-US">
         <seg>Both functions are typed on the types of the first and second input stream and on the type of the output stream and define two methods—one for each input.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041305Z" creationid="xccui" creationdate="20190615T041305Z">
-        <seg>两个函数的类型都是两条输入流的类型再加上数据流的类型，它们分别为两条输入流提供了各自的处理方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041455Z" creationid="xccui" creationdate="20190615T041305Z">
+        <seg>两个函数的类型都是两条输入流的类型再加上数据流的类型，它们都为两条输入流提供了各自的处理方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24181,6 +24181,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051801Z" creationid="xccui" creationdate="20190611T051412Z">
         <seg>通常情况下程序的main()方法会把dataflow组装好，然后在StreamExecutionEnvironment.execute()方法被调用时将其提交到远程的JobManager上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>map1() and flatMap1() are called to process an event of the first input and map2() and flat Map2() are invoked to process an event of the second input:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041435Z" creationid="xccui" creationdate="20190615T041435Z">
+        <seg>map1()</seg>
       </tuv>
     </tu>
     <tu>
