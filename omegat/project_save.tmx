@@ -17066,8 +17066,8 @@
       <tuv lang="EN-US">
         <seg>Split is the inverse transformation to the union transformation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053750Z" creationid="xccui" creationdate="20190615T053736Z">
-        <seg>Split转换是Union转换的逆操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054002Z" creationid="xccui" creationdate="20190615T053736Z">
+        <seg>split转换是union转换的逆操作。</seg>
       </tuv>
     </tu>
     <tu>
