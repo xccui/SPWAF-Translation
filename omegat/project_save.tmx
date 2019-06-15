@@ -5919,6 +5919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CoMapFunction and CoFlatMapFunction as argument respectively.2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041022Z" creationid="xccui" creationdate="20190615T041022Z">
+        <seg>它们分别接收一个CoMapFunction和一个CoFlatMapFunction作为参数。2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CoProcessFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210745Z" creationid="esouser" creationdate="20190603T210745Z">
@@ -17874,8 +17882,8 @@
       <tuv lang="EN-US">
         <seg>The ConnectedStreams object provides map() and flatMap() methods that expect a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041010Z" creationid="xccui" creationdate="20190615T041010Z">
-        <seg>ConnectedStreams对象提供了map()和flatMap()方法，它们分别接收一个CoMapFunction和一个CoFlatMapFunction作为参数。2</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041020Z" creationid="xccui" creationdate="20190615T041010Z">
+        <seg>ConnectedStreams对象提供了map()和flatMap()方法，</seg>
       </tuv>
     </tu>
     <tu>
