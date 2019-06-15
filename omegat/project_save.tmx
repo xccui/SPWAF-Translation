@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// broadcast second input stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051818Z" creationid="xccui" creationdate="20190615T051818Z">
+        <seg>// 将第二条输入流广播</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// compute average temperature using a user-defined function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042729Z" creationid="xccui" creationdate="20190612T042729Z">
