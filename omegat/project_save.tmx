@@ -3038,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; select(IN): Iterable[String]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T061016Z" creationid="xccui" creationdate="20190615T061016Z">
+        <seg>&gt; select(IN): Iterable[String]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052010Z" creationid="xccui" creationdate="20190612T052010Z">
@@ -24893,6 +24901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051324Z" creationid="xccui" creationdate="20190612T051324Z">
         <seg>这些数据流的来源可以是消息队列或文件，也可以实时生成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>streams to which the record is routed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T061022Z" creationid="xccui" creationdate="20190615T061022Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
