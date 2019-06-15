@@ -22328,6 +22328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We cover</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053544Z" creationid="xccui" creationdate="20190615T053544Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We covered basic streaming operations and how to compute meaningful results on unbounded input data using windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T040418Z" creationid="xccui" creationdate="20190606T040418Z">
