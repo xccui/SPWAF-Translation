@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A split operation that splits the input stream into a stream of white events and a stream of others</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054207Z" creationid="xccui" creationdate="20190615T054207Z">
+        <seg>将输入流拆分为白色事件和其他颜色事件的split操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A state backend is responsible for two things: local state management and checkpointing state to a remote location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T155046Z" creationid="xccui" creationdate="20190608T051505Z">
