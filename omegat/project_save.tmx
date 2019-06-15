@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// connect streams</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040821Z" creationid="xccui" creationdate="20190615T040821Z">
+        <seg>// 将两条流接通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// convert Fahrenheit to Celsius with an inline lambda function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053316Z" creationid="xccui" creationdate="20190612T042248Z">
@@ -24573,6 +24581,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042259Z" creationid="xccui" creationdate="20190612T042259Z">
         <seg>val celsius = (r.temperature - 32) * (5.0 / 9.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val connected: ConnectedStreams[Int, String] = first.connect(second)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040824Z" creationid="xccui" creationdate="20190615T040824Z">
+        <seg>val connected: ConnectedStreams[Int, String] = first.connect(second)</seg>
       </tuv>
     </tu>
     <tu>
