@@ -18536,6 +18536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The String values that are returned for a record specify the output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T060916Z" creationid="xccui" creationdate="20190615T060916Z">
+        <seg>针对某记录所返回的一系列String值指定了该记录需要被发往哪些输出流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The TaskMan&lt;t0/&gt;‐&lt;t1/&gt; agers take care of shipping data from sending tasks to receiving tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T041011Z" creationid="xccui" creationdate="20190504T040910Z">
