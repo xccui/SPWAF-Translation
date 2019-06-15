@@ -25097,6 +25097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val keyedConnect: ConnectedStreams[(Int, Long), (Int, String)] = first</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053608Z" creationid="xccui" creationdate="20190615T053608Z">
+        <seg>val keyedConnect: ConnectedStreams[(Int, Long), (Int, String)] = first</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
