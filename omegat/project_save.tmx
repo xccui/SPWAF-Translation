@@ -9039,6 +9039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink features dedicated operators for time-based stream joins, which are discussed in Chapter 6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T044956Z" creationid="xccui" creationdate="20190615T044956Z">
+        <seg>Flink对基于时间的流式联结设有专用算子，相关内容会在第6章讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink features different techniques to reduce the communication costs between tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T192536Z" creationid="esouser" creationdate="20190513T192536Z">
@@ -24188,6 +24196,14 @@
         <seg>ing: transactional processing and analytical processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T194515Z" creationid="esouser" creationdate="20190603T194515Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>instance of an operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T044645Z" creationid="xccui" creationdate="20190615T044645Z">
         <seg></seg>
       </tuv>
     </tu>
