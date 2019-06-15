@@ -8687,6 +8687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 5-6 shows a split operator that routes all white events into a separate stream than the rest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054125Z" creationid="xccui" creationdate="20190615T054125Z">
+        <seg>图5-6所示的split算子会将所有白色事件和其他事件分别发往不同的数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
