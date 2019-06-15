@@ -9951,6 +9951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, if we know that the load</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065829Z" creationid="xccui" creationdate="20190615T065827Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, if you are receiving meas&lt;t4/&gt;‐&lt;t5/&gt; urements from different sensors, you probably want to group the stream by sensor id before applying a window computation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T195017Z" creationid="xccui" creationdate="20190409T194251Z">
