@@ -17040,6 +17040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Split is the inverse transformation to the union transformation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053736Z" creationid="xccui" creationdate="20190615T053736Z">
+        <seg>Split是Union转换的逆操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stand-Alone Cluster</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025413Z" creationid="xccui" creationdate="20190225T025413Z">
