@@ -15760,6 +15760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primitives</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T071237Z" creationid="xccui" creationdate="20190615T071237Z">
+        <seg>原始类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printed in the United States of America.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210713Z" creationid="esouser" creationdate="20190603T210713Z">
