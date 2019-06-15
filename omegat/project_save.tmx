@@ -13025,8 +13025,8 @@
       <tuv lang="EN-US">
         <seg>It applies a ReduceFunction on a KeyedStream, which combines each incoming event with the current reduced value, and produces a DataStream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061436Z" creationid="xccui" creationdate="20190614T061430Z">
-        <seg>它将一个ReduceFunction作用在一条KeyedStream上，每个到来事件都会和reduce结果进行一次组合，从而产生一条新的DataStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040642Z" creationid="xccui" creationdate="20190614T061430Z">
+        <seg>它将一个ReduceFunction作用在一个KeyedStream上，每个到来事件都会和reduce结果进行一次组合，从而产生一个新的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
