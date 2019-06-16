@@ -19960,6 +19960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rebalance() method partitions the input stream so that events are evenly distributed to successor tasks in a round-robin fashion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043105Z" creationid="xccui" creationdate="20190616T043105Z">
+        <seg>rebalance()方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The receiver processes the shipped data with the reserved buffers and uses the sender’s backlog size to prioritize the next credit grants for all its connected senders.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203049Z" creationid="esouser" creationdate="20190514T143015Z">
