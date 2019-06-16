@@ -13519,6 +13519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It determines how much the operator’s process‐ ing effort can be distributed and also how much data it can process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051504Z" creationid="xccui" creationdate="20190616T051504Z">
+        <seg>它决定了算子处理的并行化程度以及能够处理的数据规模。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It discusses Flink’s approach to end-to-end application consistency and how to implement custom connectors to ingest data from and emit data to external systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162535Z" creationid="esouser" creationdate="20190603T162455Z">
@@ -19772,6 +19780,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051632Z" creationid="xccui" creationdate="20190615T051632Z">
         <seg>接下来的示例展示了如何接通一个（未按照键值分区的）DataStream和一个广播流：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of parallel tasks of an operator is called the parallelism of the operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051400Z" creationid="xccui" creationdate="20190616T051400Z">
+        <seg>算子并行化任务的数目称为该算子的并行度。</seg>
       </tuv>
     </tu>
     <tu>
