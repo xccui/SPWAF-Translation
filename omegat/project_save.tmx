@@ -24561,6 +24561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>connection pattern of the rescale distribution transformation is shown in Figure 5-7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044847Z" creationid="xccui" creationdate="20190616T044847Z">
+        <seg>图5-7展示了重调分发转换的连接模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>constantly produced output using the tail command as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
