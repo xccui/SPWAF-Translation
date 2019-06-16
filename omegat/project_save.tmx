@@ -9159,6 +9159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink applications are executed in parallel in a distributed environment such as a cluster of machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050849Z" creationid="xccui" creationdate="20190616T050849Z">
+        <seg>Flink应用可以在分布式环境中（例如机器集群）并行执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink applications can be deployed in two different styles.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T025403Z" creationid="xccui" creationdate="20190423T025315Z">
