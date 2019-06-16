@@ -12495,6 +12495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following example, the source operator will be executed with the default parallel‐ ism of the environment, the map transformation has double as many tasks as the source, and the sink operation will always be executed by two parallel tasks:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061542Z" creationid="xccui" creationdate="20190616T061542Z">
+        <seg>下面的示例中，数据源算子会以环境默认并行度执行，map转换的任务数是数据源的两倍，数据汇操作固定以两个并行任务执行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following sections, we briefly discuss credit-based flow control and task chain&lt;t0/&gt;‐&lt;t1/&gt; ing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T205548Z" creationid="esouser" creationdate="20190513T192619Z">
