@@ -11887,6 +11887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In essence, the rescale partitioning strategy offers a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043856Z" creationid="xccui" creationdate="20190616T043856Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In essence, watermarks pro&lt;t0/&gt;‐&lt;t1/&gt; vide a logical clock which informs the system about the current event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T205344Z" creationid="xccui" creationdate="20190412T205344Z">
@@ -20012,6 +20020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T053803Z" creationid="xccui" creationdate="20190608T053742Z">
         <seg>该远程存储可能是一个分布式文件系统，也可能是某个数据库系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rescale transformation is more efficient if the number of receiver tasks is a multitude of the number of sender tasks or vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044029Z" creationid="xccui" creationdate="20190616T044029Z">
+        <seg>当接收端任务远大于发送端任务的时候，该方法会更有效，反之亦然。</seg>
       </tuv>
     </tu>
     <tu>
