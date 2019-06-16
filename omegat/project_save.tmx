@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// DataStream of Tuple2[String, Integer] for Person(name, age) val persons: DataStream[(String, Integer)] = env.fromElements( ("Adam", 17),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071009Z" creationid="xccui" creationdate="20190616T071009Z">
+        <seg>// DataStream的类型Tuple2[String, Integer]表示Person(name, age) val persons: DataStream[(String, Integer)] = env.fromElements( ("Adam", 17),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// IN1: the type of the first input stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042818Z" creationid="xccui" creationdate="20190615T042818Z">
@@ -19636,6 +19644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051701Z" creationid="xccui" creationdate="20190614T051701Z">
         <seg>以下代码针对SensorReading记录流将其中的id字段声明为键值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example fil‐ ters a DataStream of tuples with two fields:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070849Z" creationid="xccui" creationdate="20190616T070849Z">
+        <seg>以下示例对于一个双字段元组的DataStream进行过滤处理：</seg>
       </tuv>
     </tu>
     <tu>
