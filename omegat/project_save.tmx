@@ -13487,6 +13487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internally, Flink needs to be able to handle these objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063048Z" creationid="xccui" creationdate="20190616T063048Z">
+        <seg>Flink在内部需要对这些数据对象进行一些处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interval Join</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T150359Z" creationid="esouser" creationdate="20190603T150359Z">
