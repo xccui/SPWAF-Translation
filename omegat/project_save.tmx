@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// the map parallelism is set to double the default parallelism</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061644Z" creationid="xccui" creationdate="20190616T061644Z">
+        <seg>// 设置map的并行度为默认并行度的两倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// the source runs with the default parallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061610Z" creationid="xccui" creationdate="20190616T061610Z">
@@ -25745,6 +25753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val defaultP = env.getParallelism</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061615Z" creationid="xccui" creationdate="20190616T061615Z">
+        <seg>val defaultP = env.getParallelism</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
@@ -25909,6 +25925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051333Z" creationid="xccui" creationdate="20190612T051333Z">
         <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val result: = env.addSource(new CustomSource)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061619Z" creationid="xccui" creationdate="20190616T061619Z">
+        <seg>val result: = env.addSource(new CustomSource)</seg>
       </tuv>
     </tu>
     <tu>
