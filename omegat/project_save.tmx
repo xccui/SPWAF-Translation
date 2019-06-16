@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// the print sink parallelism is fixed to 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061714Z" creationid="xccui" creationdate="20190616T061714Z">
+        <seg>// print数据汇的并行度固定为2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// the source runs with the default parallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061610Z" creationid="xccui" creationdate="20190616T061610Z">
