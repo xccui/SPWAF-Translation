@@ -9783,6 +9783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s Java tuples can have up to 25 fields, with each length is implemented as a separate class—Tuple1, Tuple2, up to Tuple25.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071356Z" creationid="xccui" creationdate="20190616T071356Z">
+        <seg>它最多可包含25个字段，每</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s batch processing API, the DataSet API, and the runtime are separate from their corresponding stream&lt;t0/&gt;‐&lt;t1/&gt; ing counterparts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T060914Z" creationid="xccui" creationdate="20190328T060503Z">
