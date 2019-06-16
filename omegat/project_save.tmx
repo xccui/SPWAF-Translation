@@ -19040,6 +19040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Scala DataStream API uses regular Scala tuples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070721Z" creationid="xccui" creationdate="20190616T070721Z">
+        <seg>Scala DataStream API使用常规的Scala元组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The StreamExecutionEnvironment provides methods to create stream sources that ingest data streams into the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051229Z" creationid="xccui" creationdate="20190612T051229Z">
