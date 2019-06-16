@@ -15954,8 +15954,8 @@
       <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065004Z" creationid="xccui" creationdate="20190614T064954Z">
-        <seg>Random策略</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043113Z" creationid="xccui" creationdate="20190614T064954Z">
+        <seg>随机</seg>
       </tuv>
     </tu>
     <tu>
@@ -16330,8 +16330,8 @@
       <tuv lang="EN-US">
         <seg>Round-Robin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T071053Z" creationid="xccui" creationdate="20190615T071053Z">
-        <seg>Round-Robin策略</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043236Z" creationid="xccui" creationdate="20190615T071053Z">
+        <seg>轮询</seg>
       </tuv>
     </tu>
     <tu>
