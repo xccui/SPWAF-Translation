@@ -10945,8 +10945,8 @@
       <tuv lang="EN-US">
         <seg>However, in certain situations, such as lambda functions or generic types, it is necessary to explicitly provide type information to make an application work or improve its performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064538Z" creationid="xccui" creationdate="20190616T064538Z">
-        <seg>但在某些情况下，例如使用了lambda函数或泛型，则必须显式指定类型信息才能启动应用或提高其性能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065250Z" creationid="xccui" creationdate="20190616T064538Z">
+        <seg>但在某些情况下，例如使用了lambda函数或泛型类型，则必须显式指定类型信息才能启动应用或提高其性能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22476,6 +22476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022759Z" creationid="xccui" creationdate="20190225T022759Z">
         <seg>类型系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types that are not specially handled are treated as generic types and serialized using the Kryo serialization framework.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065247Z" creationid="xccui" creationdate="20190616T065247Z">
+        <seg>对于那些无法特别处理的类型，Flink将它们视为泛型类型</seg>
       </tuv>
     </tu>
     <tu>
