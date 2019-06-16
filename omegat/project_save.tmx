@@ -19992,6 +19992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The parallelism of the environment (and thus also the default parallelism of all operators) is automatically initialized based on the context in which the application is started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052730Z" creationid="xccui" creationdate="20190616T052730Z">
+        <seg>环境的并行度（即所有算子的默认并行度）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The previous chapter discussed important concepts of distributed stream processing, such as parallelization, time, and state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T053758Z" creationid="xccui" creationdate="20190416T053731Z">
