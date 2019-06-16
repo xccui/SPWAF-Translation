@@ -19042,8 +19042,8 @@
       <tuv lang="EN-US">
         <seg>The Scala DataStream API uses regular Scala tuples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070721Z" creationid="xccui" creationdate="20190616T070721Z">
-        <seg>Scala DataStream API使用常规的Scala元组。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070731Z" creationid="xccui" creationdate="20190616T070721Z">
+        <seg>Scala DataStream API使用常规Scala元组。</seg>
       </tuv>
     </tu>
     <tu>
