@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>//</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060223Z" creationid="xccui" creationdate="20190616T060223Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// IN1: the type of the first input stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042818Z" creationid="xccui" creationdate="20190615T042818Z">
@@ -24249,6 +24257,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also override the default parallelism of the environment, but you will no longer be able to control the parallelism of your application via the submission client:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060440Z" creationid="xccui" creationdate="20190616T060440Z">
+        <seg>你也可以覆盖环境的默认并行度，然而一旦如此，将再无法通过提交客户端控制应用并行度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can change the Flink version, group and artifact IDs, version, and generated package by changing the respective parameters of the above mvn command.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005618Z" creationid="xccui" creationdate="20190612T005349Z">
@@ -24900,6 +24916,14 @@
         <seg>examples of finite, complete data sets that are generated all at once.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190301T035813Z" creationid="xccui" creationdate="20190301T035813Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>explicitly specified via the submission client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060228Z" creationid="xccui" creationdate="20190616T060228Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -25661,6 +25685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040824Z" creationid="xccui" creationdate="20190615T040824Z">
         <seg>val connected: ConnectedStreams[Int, String] = first.connect(second)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val defaultP = env.env.getParallelism</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060244Z" creationid="xccui" creationdate="20190616T060244Z">
+        <seg>val defaultP = env.env.getParallelism</seg>
       </tuv>
     </tu>
     <tu>
