@@ -11465,8 +11465,8 @@
       <tuv lang="EN-US">
         <seg>If you run the application in a local environ‐ ment—or example, from your IDE—on a machine with 8 cores, the source task will run with 8 tasks, the mapper with 16 tasks, and the sink with 2 tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062221Z" creationid="xccui" creationdate="20190616T062221Z">
-        <seg>如果你在一台8核的机器上以本地环境中运行（例如在IDE里），那么数据源将会运行8个任务，map将会运行16个任务，数据汇将会运行2个任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062232Z" creationid="xccui" creationdate="20190616T062221Z">
+        <seg>如果你在一台8核的机器上以本地环境中运行（例如在IDE里），那么数据源将会运行8个任务，map将运行16个任务，数据汇将运行2个任务。</seg>
       </tuv>
     </tu>
     <tu>
