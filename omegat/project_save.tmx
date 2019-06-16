@@ -25515,8 +25515,8 @@
       <tuv lang="EN-US">
         <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045612Z" creationid="xccui" creationdate="20190612T045612Z">
-        <seg>val localEnv: StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044907Z" creationid="xccui" creationdate="20190612T045612Z">
+        <seg>val localEnv = StreamExecutionEnvironment.createLocalEnvironment()</seg>
       </tuv>
     </tu>
     <tu>
