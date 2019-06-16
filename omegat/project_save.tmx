@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set parallelism of the environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060453Z" creationid="xccui" creationdate="20190616T060453Z">
+        <seg>// 设置环境的并行度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set up the streaming execution environment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044717Z" creationid="xccui" creationdate="20190612T041910Z">
