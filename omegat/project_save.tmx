@@ -18960,6 +18960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The broadcast() method replicates the input data stream so that all events are sent to all parallel tasks of the downstream operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045756Z" creationid="xccui" creationdate="20190616T045756Z">
+        <seg>broadcast()方法会将输入流中的事件复制并发往所有下游算子的并行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The business logic is constrained by how much it can control state and time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T061822Z" creationid="xccui" creationdate="20190313T051256Z">
