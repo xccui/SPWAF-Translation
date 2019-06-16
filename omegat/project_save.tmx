@@ -10935,6 +10935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, in certain situations, such as lambda functions or generic types, it is necessary to explicitly provide type information to make an application work or improve its performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064538Z" creationid="xccui" creationdate="20190616T064538Z">
+        <seg>但在某些情况下，例如使用了lambda函数或泛型，则必须显式指定类型信息才能启动应用或提高其性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it can</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T195737Z" creationid="xccui" creationdate="20190609T195737Z">
@@ -13107,6 +13115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053356Z" creationid="xccui" creationdate="20190607T053343Z">
         <seg>本节我们会对Flink支持的不同类别的状态加以讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, we discuss the types supported by Flink, how to create type informa‐ tion for a data type, and how to help Flink’s type system with hints if it cannot auto‐ matically infer the return type of a function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064849Z" creationid="xccui" creationdate="20190616T064849Z">
+        <seg>本节我们会讨论Flink支持的类型，如何为数据类型创建类型信息，以及当Flink无法自动推断函数的返回类型时如何以提示的方式帮助类型系统。</seg>
       </tuv>
     </tu>
     <tu>
