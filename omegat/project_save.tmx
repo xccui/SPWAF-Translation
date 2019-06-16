@@ -19176,6 +19176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default parallelism of an operator can be overridden by specifying it explicitly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060553Z" creationid="xccui" creationdate="20190616T060553Z">
+        <seg>可以通过显式指定来覆盖算子的默认并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dis&lt;t6/&gt;‐&lt;t7/&gt; patcher also runs a web dashboard to provide information about job executions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T024218Z" creationid="xccui" creationdate="20190423T024218Z">
@@ -24885,6 +24893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042809Z" creationid="xccui" creationdate="20190612T042809Z">
         <seg>env.execute("Compute average sensor temperature")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.setParallelism(32)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060510Z" creationid="xccui" creationdate="20190616T060510Z">
+        <seg>env.setParallelism(32)</seg>
       </tuv>
     </tu>
     <tu>
