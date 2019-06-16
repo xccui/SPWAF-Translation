@@ -10737,8 +10737,8 @@
       <tuv lang="EN-US">
         <seg>Here is an example that processes a stream of Long values and increments each element:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070438Z" creationid="xccui" creationdate="20190616T070438Z">
-        <seg>下面的示例处理Long类型的数据流，对每个元素加一：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070614Z" creationid="xccui" creationdate="20190616T070438Z">
+        <seg>下面的示例处理一条Long值组成的数据流，对每个元素加一：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22528,6 +22528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tuples are composite data types that consist of a fixed number of typed fields.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070645Z" creationid="xccui" creationdate="20190616T070645Z">
+        <seg>元组是由固定数量的类型字段所组成的复合数据类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two tasks of a sum operator compute the running sums of all even and odd numbers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T030906Z" creationid="xccui" creationdate="20190609T030813Z">
@@ -26109,6 +26117,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050629Z" creationid="xccui" creationdate="20190616T050629Z">
         <seg>val numbers: DataStream[(Int)] = ... numbers.partitionCustom(myPartitioner, 0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val numbers: DataStream[Long] = env.fromElements(1L, 2L, 3L, 4L) numbers.map( n =&gt; n + 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070457Z" creationid="xccui" creationdate="20190616T070457Z">
+        <seg>val numbers: DataStream[Long] = env.fromElements(1L, 2L, 3L, 4L) numbers.map( n =&gt; n + 1)</seg>
       </tuv>
     </tu>
     <tu>
