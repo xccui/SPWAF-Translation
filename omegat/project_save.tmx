@@ -21256,6 +21256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This method receives a Par titioner object that implements the partitioning logic and the field or key posi‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050335Z" creationid="xccui" creationdate="20190616T050245Z">
+        <seg>该方法接收一个Partitioner对象，其中可以实现分区逻辑，定义分区需要参照的字段或键值位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method returns a local or remote environment, depending on the con‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045221Z" creationid="xccui" creationdate="20190612T045221Z">
@@ -23585,6 +23593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When none of the predefined partitioning strategies is suitable, you can define your own by using the partitionCustom() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050123Z" creationid="xccui" creationdate="20190616T050123Z">
+        <seg>如果所有预定义的分区策略都不合适，你可以利用partitionCustom()方法自己定义分区策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When operating in high- availability mode, the JobManager writes the JobGraph and all required metadata,  such as the application’s JAR file, into a remote persistent storage system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T150048Z" creationid="xccui" creationdate="20190606T150048Z">
@@ -25341,6 +25357,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035709Z" creationid="xccui" creationdate="20190612T035709Z">
         <seg>timestamp: Long, temperature: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tion on which the stream is to be partitioned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050340Z" creationid="xccui" creationdate="20190616T050340Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
