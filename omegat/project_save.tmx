@@ -9617,8 +9617,8 @@
       <tuv lang="EN-US">
         <seg>Flink pro‐ vides configuration options to improve the efficiency by preregis‐ tering classes to Kryo.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065724Z" creationid="xccui" creationdate="20190616T065724Z">
-        <seg>为了提高效率，Flink提供配置选项可以将类在Kryo中提前注册。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070043Z" creationid="xccui" creationdate="20190616T065724Z">
+        <seg>为了提高效率，Flink提供配置选项可以提前将类在Kryo中注册好。</seg>
       </tuv>
     </tu>
     <tu>
