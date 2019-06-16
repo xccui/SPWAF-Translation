@@ -12065,8 +12065,8 @@
       <tuv lang="EN-US">
         <seg>In general, it is a good idea to define the parallelism of your operators relative to the default parallelism of the environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T053603Z" creationid="xccui" creationdate="20190616T053603Z">
-        <seg>一般情况下，最好根据环境的默认并行度来设置算子的并行度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T053829Z" creationid="xccui" creationdate="20190616T053603Z">
+        <seg>一般情况下，最好将算子并行度设置为随环境默认并行度变化的值。</seg>
       </tuv>
     </tu>
     <tu>
