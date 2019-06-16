@@ -24185,6 +24185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can access the default paral‐ lelism of the environment as shown in the following example:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T054220Z" creationid="xccui" creationdate="20190616T054220Z">
+        <seg>你可以按照下面的示例来访问环境的默认并行度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can access this page at http://bit.ly/stream-proc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210843Z" creationid="esouser" creationdate="20190603T210843Z">
