@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// get default parallelism as configured in the cluster config or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T054814Z" creationid="xccui" creationdate="20190616T054814Z">
+        <seg>// 获取集群配置或提交客户端指定的默认并行度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 5 second tumbling windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
