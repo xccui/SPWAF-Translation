@@ -6599,6 +6599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050033Z" creationid="xccui" creationdate="20190616T050033Z">
+        <seg>自定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customizing Window Operators</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023237Z" creationid="xccui" creationdate="20190225T023237Z">
@@ -21272,6 +21280,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This partitioning strategy must be used with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045954Z" creationid="xccui" creationdate="20190616T045912Z">
+        <seg>使用此分区策略时务必小心，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This problem is commonly solved by delegating state management to an external system, such as a database.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T054012Z" creationid="xccui" creationdate="20190414T053952Z">
@@ -24525,6 +24541,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210709Z" creationid="esouser" creationdate="20190603T210709Z">
         <seg>by Fabian Hueske and Vasiliki Kalavri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>care, as routing all events to the same task might impact application perfor‐ mance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050002Z" creationid="xccui" creationdate="20190616T045949Z">
+        <seg>因为将所有事件发往同一任务可能会影响程序性能。</seg>
       </tuv>
     </tu>
     <tu>
