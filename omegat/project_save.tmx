@@ -9215,6 +9215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink DataStream applications process streams of events that are represented as data objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062416Z" creationid="xccui" creationdate="20190616T062416Z">
+        <seg>Flink DataStream应用所处理的事件会表示为数据对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink Web UI</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030126Z" creationid="xccui" creationdate="20190225T030126Z">
@@ -10283,6 +10291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022917Z" creationid="xccui" creationdate="20190225T022917Z">
         <seg>函数类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions are called with data objects and emit data objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062947Z" creationid="xccui" creationdate="20190616T062947Z">
+        <seg>函数在调用时会传入数据对象，同时它也可以发出数据对象。</seg>
       </tuv>
     </tu>
     <tu>
