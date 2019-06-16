@@ -10303,6 +10303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045801Z" creationid="xccui" creationdate="20190616T045801Z">
+        <seg>全局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to the Apache Flink webpage &lt;t0/&gt;flink.apache.org&lt;t1/&gt; &lt;t2/&gt;and download the Hadoop-free binary distribution of Apache Flink 1.7.1 for Scala 2.12.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T024852Z" creationid="xccui" creationdate="20190329T024852Z">
@@ -19460,6 +19468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005659Z" creationid="xccui" creationdate="20190612T005652Z">
         <seg>生成的文件夹内包含了一个src/目录和一个pom.xml文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The global() method sends all events of the input data stream to the first paral‐ lel task of the downstream operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045845Z" creationid="xccui" creationdate="20190616T045845Z">
+        <seg>global()方法会将输入流中的所有事件发往下游算子的第一个并行任务。</seg>
       </tuv>
     </tu>
     <tu>
