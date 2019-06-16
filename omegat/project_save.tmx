@@ -8775,6 +8775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 5-7 illustrates the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043407Z" creationid="xccui" creationdate="20190616T043407Z">
+        <seg>图5-7对该分发转换进行了说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -19938,8 +19946,8 @@
       <tuv lang="EN-US">
         <seg>The random data exchange strategy is implemented by the DataStream.shuf fle() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070800Z" creationid="xccui" creationdate="20190615T070800Z">
-        <seg>我们可以利用DataStream.shuffle()方法实现random数据交换策略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043250Z" creationid="xccui" creationdate="20190615T070800Z">
+        <seg>我们可以利用DataStream.shuffle()方法实现随机数据交换策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19962,8 +19970,8 @@
       <tuv lang="EN-US">
         <seg>The rebalance() method partitions the input stream so that events are evenly distributed to successor tasks in a round-robin fashion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043105Z" creationid="xccui" creationdate="20190616T043105Z">
-        <seg>rebalance()方法</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043412Z" creationid="xccui" creationdate="20190616T043105Z">
+        <seg>rebalance()方法会将输入流中的事件以轮询的方式均匀分配给后继任务，</seg>
       </tuv>
     </tu>
     <tu>
