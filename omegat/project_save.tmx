@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// get default parallelism</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061553Z" creationid="xccui" creationdate="20190616T061553Z">
+        <seg>// 获取默认并行度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// get default parallelism as configured in the cluster config or</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060212Z" creationid="xccui" creationdate="20190616T054814Z">
