@@ -14503,6 +14503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, Kryo does not provide a good migration path to evolve data types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070032Z" creationid="xccui" creationdate="20190616T070032Z">
+        <seg>此外，对于数据类型演变的情况，Kryo没有提供很好的迁移路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, even though events were not lost, they could be processed more than once.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051608Z" creationid="xccui" creationdate="20190605T051608Z">
