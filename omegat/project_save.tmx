@@ -7407,6 +7407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each operator is parallelized into one or multiple tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051232Z" creationid="xccui" creationdate="20190616T051232Z">
+        <seg>每个算子都会产生一个或多个并行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each partition is a stream of timestamped records and watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T014920Z" creationid="xccui" creationdate="20190607T014705Z">
