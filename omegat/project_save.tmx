@@ -10735,6 +10735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here is an example that processes a stream of Long values and increments each element:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070438Z" creationid="xccui" creationdate="20190616T070438Z">
+        <seg>下面的示例处理Long类型的数据流，对每个元素加一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, we briefly review some common data exchange strate&lt;t2/&gt;‐&lt;t3/&gt; gies, as shown in &lt;t4/&gt;Figure 2-3&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T034906Z" creationid="xccui" creationdate="20190401T034747Z">
