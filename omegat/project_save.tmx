@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// the source runs with the default parallelism</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061610Z" creationid="xccui" creationdate="20190616T061610Z">
+        <seg>// 数据源以默认并行度运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// use event time for the application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041934Z" creationid="xccui" creationdate="20190612T041934Z">
