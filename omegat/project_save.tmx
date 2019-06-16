@@ -16688,6 +16688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scala case classes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065042Z" creationid="xccui" creationdate="20190616T065042Z">
+        <seg>Scala样例类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scalable stream processing technology is rapidly maturing and evolving due to the efforts of many open source communities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T054139Z" creationid="xccui" creationdate="20190319T053253Z">
