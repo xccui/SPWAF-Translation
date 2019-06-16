@@ -11183,6 +11183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the application runs in a local execution environment the parallelism is set to match the number of CPU cores.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052859Z" creationid="xccui" creationdate="20190616T052859Z">
+        <seg>如果应用是在一个本地执行环境中运行，并行度会设置为CPU的核心数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the application was submitted to a Dispatcher or YARN Resource&lt;t5/&gt;‐&lt;t6/&gt; Manager, it will spin up a JobManager, hand over the application, and the Job&lt;t7/&gt;‐&lt;t8/&gt; Manager continues to execute the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T030049Z" creationid="xccui" creationdate="20190423T030049Z">
