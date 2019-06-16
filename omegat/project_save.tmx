@@ -19408,6 +19408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fundamental difference between rebalance() and rescale() lies in the way task connections are formed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044140Z" creationid="xccui" creationdate="20190616T044140Z">
+        <seg>rebalance()和rescale()的本质不同体现在生成任务连接的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fundamental mode of operation - batch processing - is the same regardless whether the architecture is based on a data ware&lt;t2/&gt;‐&lt;t3/&gt; house or components of the Hadoop ecosystem.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T030601Z" creationid="xccui" creationdate="20190317T030601Z">
@@ -23765,6 +23773,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T160158Z" creationid="esouser" creationdate="20190514T160158Z">
         <seg>虽然处理时间是基于处理机器的本地时间，相对容易理解，但它会产生一些较为随意、不一致且无法重现的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While rebalance() will create communication channels between all sending tasks to all receiving tasks, rescale() will only cre‐ ate channels from each task to some of the tasks of the downstream operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044438Z" creationid="xccui" creationdate="20190616T044438Z">
+        <seg>rebalance()会在所有发送任务和接收任务之间建立通信通道；而rescale()中每个发送任务只会和下游算子的部分任务建立通道。</seg>
       </tuv>
     </tu>
     <tu>
