@@ -5783,6 +5783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the parallelism of all operators of an application is set as the parallelism of the application’s execution environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051647Z" creationid="xccui" creationdate="20190616T051647Z">
+        <seg>默认情况下，应用内所有算子的并行度都会设置为应用执行环境的并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By injecting the barrier into its output stream, the source function defines the stream position on which the checkpoint is taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T154906Z" creationid="xccui" creationdate="20190609T154731Z">
