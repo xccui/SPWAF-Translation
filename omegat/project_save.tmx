@@ -19976,6 +19976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The parallelism of an operator can be controlled at the level of the execution environ‐ ment or per individual operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051555Z" creationid="xccui" creationdate="20190616T051555Z">
+        <seg>算子的并行度可以在执行环境级别或单个算子级别进行控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The previous chapter discussed important concepts of distributed stream processing, such as parallelization, time, and state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T053758Z" creationid="xccui" creationdate="20190416T053731Z">
