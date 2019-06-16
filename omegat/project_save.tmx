@@ -9625,8 +9625,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides efficient implementations of Java tuples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071214Z" creationid="xccui" creationdate="20190616T071153Z">
-        <seg>Flink提供了Java元组的高效实现</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071236Z" creationid="xccui" creationdate="20190616T071153Z">
+        <seg>Flink为Java元组提供了高效实现，</seg>
       </tuv>
     </tu>
     <tu>
