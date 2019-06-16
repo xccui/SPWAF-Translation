@@ -23369,6 +23369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a DataStream program is submitted to the JobManager for execution, the system creates a dataflow graph and prepares the operators for execu‐ tion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051014Z" creationid="xccui" creationdate="20190616T051014Z">
+        <seg>当提交一个DataStream程序到JobManager上执行时，系统会生成一个dataflow图并将用于执行的算子准备好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a JobManager fails, all tasks that belong to its application are automatically  cancelled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195013Z" creationid="xccui" creationdate="20190606T194908Z">
