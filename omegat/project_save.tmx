@@ -14983,6 +14983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that you should avoid using Kryo if possible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065518Z" creationid="xccui" creationdate="20190616T065518Z">
+        <seg>注意，如果可能请尽量避免使用Kryo。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: you can also build the JAR file yourself by following the steps on the repo&lt;t0/&gt;‐&lt;t1/&gt; sitory’s README file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T035840Z" creationid="xccui" creationdate="20190329T035802Z">
