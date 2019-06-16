@@ -15399,6 +15399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only Use Kryo as a Fallback Solution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065453Z" creationid="xccui" creationdate="20190616T065453Z">
+        <seg>仅将Kryo作为后备方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only Use Rolling Aggregations on Bounded Key Domains</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062710Z" creationid="xccui" creationdate="20190614T060917Z">
