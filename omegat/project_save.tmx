@@ -25249,6 +25249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>stream of integers so that all negative numbers are sent to the first task and all other numbers are sent to a random task:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050616Z" creationid="xccui" creationdate="20190616T050616Z">
+        <seg>以下示例对一个整数数据流进行了分区，所有负数会定向发往第一个任务，而其他数字会随机选择一个任务发送：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>streams can be ingested from sources such as message queues or files, or also be gen‐ erated on the fly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051324Z" creationid="xccui" creationdate="20190612T051324Z">
