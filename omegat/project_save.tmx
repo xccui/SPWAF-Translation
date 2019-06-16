@@ -13983,6 +13983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Java and Scala tuples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065007Z" creationid="xccui" creationdate="20190616T065007Z">
+        <seg>Java和Scala元组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Job has been submitted with JobID cfde9dbe315ce162444c475a08cf93d9</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040020Z" creationid="xccui" creationdate="20190329T040020Z">
