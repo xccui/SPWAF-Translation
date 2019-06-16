@@ -25729,6 +25729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>type information to represent data types and generate specific serializers, deserializ‐ ers, and comparators for every data type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063841Z" creationid="xccui" creationdate="20190616T063841Z">
+        <seg>Flink利用类型信息的概念来表示数据类型。对于每种类型，它都会为其生成特定的序列化器、反序列化器以及比较器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>type of parallelism is called task parallelism.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T032421Z" creationid="xccui" creationdate="20190401T032421Z">
