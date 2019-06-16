@@ -17448,6 +17448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some special types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065127Z" creationid="xccui" creationdate="20190616T065127Z">
+        <seg>一些特殊类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some transformations can produce a new DataStream, pos‐ sibly of a different type, while other transformations do not modify the records of the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052746Z" creationid="xccui" creationdate="20190612T052453Z">
