@@ -13489,8 +13489,8 @@
       <tuv lang="EN-US">
         <seg>Internally, Flink needs to be able to handle these objects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063048Z" creationid="xccui" creationdate="20190616T063048Z">
-        <seg>Flink在内部需要对这些数据对象进行一些处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063149Z" creationid="xccui" creationdate="20190616T063048Z">
+        <seg>因此Flink在内部需要对这些数据对象进行一些处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21036,6 +21036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205400Z" creationid="xccui" creationdate="20190606T205354Z">
         <seg>必须单调递增，这是为了确保任务中的事件时间时钟正确前进，不会倒退。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They need to be serialized and deserialized to ship them over the network or write them into or read them from state backends, checkpoints, and savepoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063508Z" creationid="xccui" creationdate="20190616T063508Z">
+        <seg>出于网络传输，读写状态、检查点和保存点等目的，需要对它们进行序列化和反序列化。</seg>
       </tuv>
     </tu>
     <tu>
