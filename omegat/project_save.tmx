@@ -20968,6 +20968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows you to easily scale the application by adjusting its parallelism via the submission client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T054115Z" creationid="xccui" creationdate="20190616T054115Z">
+        <seg>这样就可以通过提交客户端来轻易调整并行度，从而实现应用的扩缩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows you to implement operators that are dynam‐ ically configured via a data stream (e.g., to add or remove filtering rules or update machine-learning models).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053341Z" creationid="xccui" creationdate="20190615T053341Z">
