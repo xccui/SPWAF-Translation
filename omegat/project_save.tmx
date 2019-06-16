@@ -22482,8 +22482,8 @@
       <tuv lang="EN-US">
         <seg>Types that are not specially handled are treated as generic types and serialized using the Kryo serialization framework.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065247Z" creationid="xccui" creationdate="20190616T065247Z">
-        <seg>对于那些无法特别处理的类型，Flink将它们视为泛型类型</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065415Z" creationid="xccui" creationdate="20190616T065247Z">
+        <seg>那些无法特别处理的类型会被当做泛型类型交给Kryo序列化框架进行序列化。</seg>
       </tuv>
     </tu>
     <tu>
