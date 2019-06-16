@@ -7439,6 +7439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each task will process a subset of the operator’s input stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051313Z" creationid="xccui" creationdate="20190616T051313Z">
+        <seg>每个任务负责处理算子输入流的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eager watermarks ensure low latency but provide lower confidence.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025637Z" creationid="xccui" creationdate="20190606T025637Z">
