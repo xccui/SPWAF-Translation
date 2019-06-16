@@ -9623,6 +9623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides efficient implementations of Java tuples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071153Z" creationid="xccui" creationdate="20190616T071153Z">
+        <seg>Flink提供了高效地Java元组实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides intuitive and easy-to-use primitives for common event-time process&lt;t0/&gt;‐&lt;t1/&gt; ing operations but also exposes expressive APIs to implement more advanced event-time applications with custom operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T034459Z" creationid="xccui" creationdate="20190523T034002Z">
@@ -25637,6 +25645,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
         <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>persons.filter(p =&gt; p._2 &gt; 18)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071131Z" creationid="xccui" creationdate="20190616T071131Z">
+        <seg>persons.filter(p =&gt; p._2 &gt; 18)</seg>
       </tuv>
     </tu>
     <tu>
