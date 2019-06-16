@@ -14207,6 +14207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let’s look at each type category.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070104Z" creationid="xccui" creationdate="20190616T070104Z">
+        <seg>我们分别来看一下每种类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Let’s now explain in more detail how a task emits watermarks and updates its event- time clock when receiving a new watermark.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T014349Z" creationid="xccui" creationdate="20190607T014310Z">
