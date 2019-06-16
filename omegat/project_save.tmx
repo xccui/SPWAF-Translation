@@ -16200,6 +16200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rescale</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043443Z" creationid="xccui" creationdate="20190616T043443Z">
+        <seg>重调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset the states of all stateful tasks to the latest checkpoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T040226Z" creationid="xccui" creationdate="20190609T040149Z">
@@ -20004,6 +20012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T053803Z" creationid="xccui" creationdate="20190608T053742Z">
         <seg>该远程存储可能是一个分布式文件系统，也可能是某个数据库系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rescale() method also distributes events in a round-robin fashion, but only to a subset of successor tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043552Z" creationid="xccui" creationdate="20190616T043552Z">
+        <seg>rescale()也会以轮询的方式对事件进行分发，但分发目标仅限于部分后继任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25065,6 +25081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>round-robin distribution transformation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043417Z" creationid="xccui" creationdate="20190616T043417Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>separate tiers for data processing (the application itself) and data storage (a transac&lt;t0/&gt;‐&lt;t1/&gt; tional database system) as shown in &lt;t2/&gt;Figure 1-1&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190226T155712Z" creationid="xccui" creationdate="20190226T155712Z">
@@ -25653,6 +25677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234106Z" creationid="xccui" creationdate="20190605T234106Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>way to perform a lightweight load rebalance when the number of sender and receiver tasks is not the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043851Z" creationid="xccui" creationdate="20190616T043851Z">
+        <seg>本质上看，重调分区策略为发送端和接收端任务不等的情况提供了一种轻量级的负载平衡方法。</seg>
       </tuv>
     </tu>
     <tu>
