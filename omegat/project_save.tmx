@@ -16866,8 +16866,8 @@
       <tuv lang="EN-US">
         <seg>Setting the Parallelism</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145135Z" creationid="esouser" creationdate="20190603T145135Z">
-        <seg>设置并发度</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050657Z" creationid="esouser" creationdate="20190603T145135Z">
+        <seg>设置并行度</seg>
       </tuv>
     </tu>
     <tu>
@@ -19316,6 +19316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051701Z" creationid="xccui" creationdate="20190614T051701Z">
         <seg>以下代码针对SensorReading记录流将其中的id字段声明为键值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example partitions a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050622Z" creationid="xccui" creationdate="20190616T050622Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -24849,6 +24857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (key &lt; 0) 0 else r.nextInt(numPartitions)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050644Z" creationid="xccui" creationdate="20190616T050644Z">
+        <seg>if (key &lt; 0) 0 else r.nextInt(numPartitions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iii</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035452Z" creationid="xccui" creationdate="20190418T035452Z">
@@ -25089,6 +25105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>object myPartitioner extends Partitioner[Int] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050633Z" creationid="xccui" creationdate="20190616T050633Z">
+        <seg>object myPartitioner extends Partitioner[Int] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of Streaming Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T142522Z" creationid="esouser" creationdate="20190603T142522Z">
@@ -25133,6 +25157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020909Z" creationid="xccui" creationdate="20190613T020909Z">
         <seg>override def map(value: Int): Int = value + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
+        <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -25617,6 +25649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val numbers: DataStream[(Int)] = ... numbers.partitionCustom(myPartitioner, 0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050629Z" creationid="xccui" creationdate="20190616T050629Z">
+        <seg>val numbers: DataStream[(Int)] = ... numbers.partitionCustom(myPartitioner, 0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val one: DataStream[(Int, Long)] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053600Z" creationid="xccui" creationdate="20190615T053600Z">
@@ -25629,6 +25669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064847Z" creationid="xccui" creationdate="20190614T064847Z">
         <seg>val parisStream: DataStream[SensorReading] = ... val tokyoStream: DataStream[SensorReading] = ... val rioStream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val r = scala.util.Random</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050636Z" creationid="xccui" creationdate="20190616T050636Z">
+        <seg>val r = scala.util.Random</seg>
       </tuv>
     </tu>
     <tu>
