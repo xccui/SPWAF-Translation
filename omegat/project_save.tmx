@@ -5191,6 +5191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As for the tuples, we filter the DataStream by age:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041008Z" creationid="xccui" creationdate="20190617T041008Z">
+        <seg>和元组情况一样，我们将DataStream按照年龄进行过滤：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As motivated in &lt;t2/&gt;Chapter 2&lt;t3/&gt;, a certain degree of timestamp out-of-orderness is given in basically all real-world use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040054Z" creationid="xccui" creationdate="20190523T040054Z">
