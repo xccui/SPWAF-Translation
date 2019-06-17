@@ -10039,6 +10039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050329Z" creationid="xccui" creationdate="20190617T050329Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For almost 40 years, O’Reilly has provided technology and    business training, knowledge, and insight to help companies</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210829Z" creationid="esouser" creationdate="20190603T210829Z">
@@ -24233,6 +24241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When an application is submitted for execution, Flink’s type system tries to automati‐ cally derive the TypeInformation for every data type that is processed by the frame‐ work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T051220Z" creationid="xccui" creationdate="20190617T051220Z">
+        <seg>当应用提交执行时，Flink的类型系统会为框架所需处理的每种类型自动推断TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an application receives an event, it can perform arbitrary computations that involve reading data from or writing data to the state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T030804Z" creationid="xccui" creationdate="20190305T030739Z">
@@ -25685,6 +25701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T044645Z" creationid="xccui" creationdate="20190615T044645Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>instance, when you join or group by some key, TypeInformation allows Flink to per‐ form the semantic check of whether the fields used as keys are valid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050559Z" creationid="xccui" creationdate="20190617T050559Z">
+        <seg>例如：如果需要通过某个键值进行联结或分组，TypeInformation允许Flink对能否使用某字段作为键值进行语义检测。</seg>
       </tuv>
     </tu>
     <tu>
