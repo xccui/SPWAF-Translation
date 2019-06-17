@@ -12047,6 +12047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast to their Scala counterparts, Flink’s Java tuples are mutable, so the val‐ ues of fields can be reassigned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040328Z" creationid="xccui" creationdate="20190617T040328Z">
+        <seg>和Scala不同的是，Java元组是可变的，因此可以为其字段重新赋值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, a stream consumed from a socket cannot be reset because sockets discard data once it has been consumed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T044947Z" creationid="xccui" creationdate="20190609T044943Z">
@@ -22620,6 +22628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035201Z" creationid="xccui" creationdate="20190617T035201Z">
         <seg>Tuple2.of("Sarah", 23));</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuple2&lt;String, Integer&gt; personTuple = Tuple2.of("Alex", "42"); Integer age = personTuple.getField(1); // age = 42</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035820Z" creationid="xccui" creationdate="20190617T035820Z">
+        <seg>Tuple2&lt;String, Integer&gt; personTuple = Tuple2.of("Alex", "42"); Integer age = personTuple.getField(1); // age = 42</seg>
       </tuv>
     </tu>
     <tu>
