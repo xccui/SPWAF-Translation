@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set the 2nd field to 42</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040517Z" creationid="xccui" creationdate="20190617T040501Z">
+        <seg>// 将第二个字段设为42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set up the streaming execution environment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044717Z" creationid="xccui" creationdate="20190612T041910Z">
@@ -25733,6 +25741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
         <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>personTuple.setField(43, 1); // set the 2nd field to 43</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040535Z" creationid="xccui" creationdate="20190617T040535Z">
+        <seg>personTuple.setField(43, 1); // 将第二个字段设为43</seg>
       </tuv>
     </tu>
     <tu>
