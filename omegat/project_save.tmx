@@ -9311,6 +9311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink accepts a class as a POJO if it satisfies the following conditions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042701Z" creationid="xccui" creationdate="20190617T042701Z">
+        <seg>如果一个类满足如下条件，Flink就会将它看做POJO：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink achieves millisecond latencies and is able to process millions of events per second.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T042644Z" creationid="xccui" creationdate="20190328T042616Z">
@@ -13899,6 +13907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162821Z" creationid="esouser" creationdate="20190603T162716Z">
         <seg>且支持在容错的前提下高效、大规模地运行此类应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a public class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042846Z" creationid="xccui" creationdate="20190617T042846Z">
+        <seg>是一个公有类。</seg>
       </tuv>
     </tu>
     <tu>
