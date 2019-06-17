@@ -9793,8 +9793,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s Java tuples can have up to 25 fields, with each length is implemented as a separate class—Tuple1, Tuple2, up to Tuple25.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071356Z" creationid="xccui" creationdate="20190616T071356Z">
-        <seg>它最多可包含25个字段，每</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T015545Z" creationid="xccui" creationdate="20190616T071356Z">
+        <seg>它最多可包含25个字段，每个字段长度都对应一个单独的实现类——Tuple1、Tuple2直到Tuple25。</seg>
       </tuv>
     </tu>
     <tu>
