@@ -11265,8 +11265,8 @@
       <tuv lang="EN-US">
         <seg>However, sometimes the type extractor fails or you might want to define your</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052957Z" creationid="xccui" creationdate="20190617T052957Z">
-        <seg>但有时候类型提取器会失败或者你可能需要定义自己的类型并告知Flink该如何高效地处理它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053101Z" creationid="xccui" creationdate="20190617T052957Z">
+        <seg>但有时候类型提取器会出现故障或者你可能需要定义自己的类型并告知Flink该如何高效地处理它们。</seg>
       </tuv>
     </tu>
     <tu>
