@@ -9703,6 +9703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink supports Scala case classes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040631Z" creationid="xccui" creationdate="20190617T040631Z">
+        <seg>Flink对Scala样例类也提供了相应支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink supports all common data types that are available in Java and Scala.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064957Z" creationid="xccui" creationdate="20190616T064910Z">
