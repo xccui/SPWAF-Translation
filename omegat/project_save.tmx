@@ -11009,8 +11009,8 @@
       <tuv lang="EN-US">
         <seg>Hence, you might need to explicitly provide TypeInformation objects to Flink for some of the data types used in your application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061243Z" creationid="xccui" creationdate="20190617T061243Z">
-        <seg>因此对于应用中的部分数据类型，可能需要你向Flink显式提供TypeInformation对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061313Z" creationid="xccui" creationdate="20190617T061243Z">
+        <seg>因此对于应用中的部分数据类型，可能你需要向Flink显式提供TypeInformation对象。</seg>
       </tuv>
     </tu>
     <tu>
