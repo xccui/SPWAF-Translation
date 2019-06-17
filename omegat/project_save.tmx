@@ -10071,6 +10071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For Java, the helper class is org.apache.flink.api.common.type info.Types, and it is used as shown in the following examples:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053555Z" creationid="xccui" creationdate="20190617T053555Z">
+        <seg>Java中的这个辅助类是org.apache.flink.api.common.typeInfo.Types，它的使用方法如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For almost 40 years, O’Reilly has provided technology and    business training, knowledge, and insight to help companies</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210829Z" creationid="esouser" creationdate="20190603T210829Z">
