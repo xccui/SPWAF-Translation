@@ -5183,6 +5183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrays, Lists, Maps, Enums, and other special types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T045252Z" creationid="xccui" creationdate="20190617T045252Z">
+        <seg>数组、列表、映射、枚举以及其他特殊类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a Windows user you can use the Windows subsystem for Linux (WSL), Cygwin, or a Linux virtual machine to run Flink in a UNIX environ‐ ment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T014711Z" creationid="xccui" creationdate="20190611T014711Z">
@@ -5539,6 +5547,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T155538Z" creationid="xccui" creationdate="20190401T155435Z">
         <seg>平均值会掩盖处理延迟的真实分布，继而导致难以发现问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avro-generated classes are automatically identified by Flink and handled as POJOs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T045142Z" creationid="xccui" creationdate="20190617T045142Z">
+        <seg>Flink还会将Avro自动生成的类识别为POJO进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7043,6 +7059,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052753Z" creationid="xccui" creationdate="20190612T052753Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DataStream&lt;Person&gt; persons = env.fromElements(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044917Z" creationid="xccui" creationdate="20190617T044917Z">
+        <seg>DataStream&lt;Person&gt; persons = env.fromElements(</seg>
       </tuv>
     </tu>
     <tu>
@@ -25809,6 +25833,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new Person("Alex", 42),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044923Z" creationid="xccui" creationdate="20190617T044923Z">
+        <seg>new Person("Alex", 42),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new Person("Wendy", 23));</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044926Z" creationid="xccui" creationdate="20190617T044926Z">
+        <seg>new Person("Wendy", 23));</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>not change the type of the stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061521Z" creationid="xccui" creationdate="20190614T061521Z">
@@ -25949,6 +25989,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T203458Z" creationid="xccui" creationdate="20190409T203458Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public Person() {}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044844Z" creationid="xccui" creationdate="20190617T044844Z">
+        <seg>public Person() {}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public Person(String name, int age) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044851Z" creationid="xccui" creationdate="20190617T044851Z">
+        <seg>public Person(String name, int age) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -26149,6 +26205,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051537Z" creationid="xccui" creationdate="20190614T051537Z">
         <seg>我们会在102页"定义键值和引用字段中"介绍它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this.age = age;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044901Z" creationid="xccui" creationdate="20190617T044901Z">
+        <seg>this.age = age;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this.name = name;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044856Z" creationid="xccui" creationdate="20190617T044856Z">
+        <seg>this.name = name;</seg>
       </tuv>
     </tu>
     <tu>
