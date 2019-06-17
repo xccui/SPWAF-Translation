@@ -9791,6 +9791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides two utility classes for Java and Scala with static methods to generate a TypeInformation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053425Z" creationid="xccui" creationdate="20190617T053425Z">
+        <seg>Flink为Java和Scala提供了两个工具类，其中的静态方法可以用来生成TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink pro‐ vides configuration options to improve the efficiency by preregis‐ tering classes to Kryo.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070043Z" creationid="xccui" creationdate="20190616T065724Z">
