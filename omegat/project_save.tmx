@@ -464,8 +464,8 @@
       <tuv lang="EN-US">
         <seg>// TypeInformation for Java Tuples TypeInformation&lt;Tuple2&lt;Long, String&gt;&gt; tupleType = Types.TUPLE(Types.LONG, Types.STRING);</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053631Z" creationid="xccui" creationdate="20190617T053631Z">
-        <seg>// Java元组类型的TypeInformation TypeInformation&lt;Tuple2&lt;Long, String&gt;&gt; tupleType = Types.TUPLE(Types.LONG, Types.STRING);</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053842Z" creationid="xccui" creationdate="20190617T053631Z">
+        <seg>// Java元组的TypeInformation TypeInformation&lt;Tuple2&lt;Long, String&gt;&gt; tupleType = Types.TUPLE(Types.LONG, Types.STRING);</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053657Z" creationid="xccui" creationdate="20190617T053657Z">
         <seg>// POJO的TypeInformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// TypeInformation for Scala Tuples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053836Z" creationid="xccui" creationdate="20190617T053836Z">
+        <seg>// Scala元组的TypeInformation</seg>
       </tuv>
     </tu>
     <tu>
@@ -26861,6 +26869,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064101Z" creationid="xccui" creationdate="20190615T064101Z">
         <seg>val splitted: SplitStream[(Int, String)] = inputStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val stringType: TypeInformation[String] = Types.STRING</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053818Z" creationid="xccui" creationdate="20190617T053818Z">
+        <seg>val stringType: TypeInformation[String] = Types.STRING</seg>
       </tuv>
     </tu>
     <tu>
