@@ -22608,6 +22608,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tuple fields can be accessed by the name of their public fields—f0, f1, f2, etc., as shown earlier—or by position using the getField(int pos) method, where indexes start at 0:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035616Z" creationid="xccui" creationdate="20190617T035415Z">
+        <seg>元组中的各个字段可以向上面那样通过公有字段名称（f0、f1、f2等）访问，也可以使用getField(int pos)方法通过位置访问，位置下标从0开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuple2.of("Sarah", 23));</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035201Z" creationid="xccui" creationdate="20190617T035201Z">
+        <seg>Tuple2.of("Sarah", 23));</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tuples are composite data types that consist of a fixed number of typed fields.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070645Z" creationid="xccui" creationdate="20190616T070645Z">
@@ -25685,6 +25701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
         <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>persons.filter(p -&gt; p.f1 &gt; 18);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035205Z" creationid="xccui" creationdate="20190617T035205Z">
+        <seg>persons.filter(p -&gt; p.f1 &gt; 18);</seg>
       </tuv>
     </tu>
     <tu>
