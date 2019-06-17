@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// both fields are public public String name; public int age;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044828Z" creationid="xccui" creationdate="20190617T044828Z">
+        <seg>// 两个字段都是公有类型 public String name; public int age;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// broadcast second input stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051818Z" creationid="xccui" creationdate="20190615T051818Z">
@@ -25933,6 +25941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T203458Z" creationid="xccui" creationdate="20190409T203458Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public class Person {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044803Z" creationid="xccui" creationdate="20190617T044803Z">
+        <seg>public class Person {</seg>
       </tuv>
     </tu>
     <tu>
