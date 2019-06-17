@@ -12089,8 +12089,8 @@
       <tuv lang="EN-US">
         <seg>In Flink, keys are not predefined in the input types like in systems that work with key-value pairs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062643Z" creationid="xccui" creationdate="20190617T062643Z">
-        <seg>Flink不像某些使用键值对的系统一样，会在输入类型中提前定义好键值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T063113Z" creationid="xccui" creationdate="20190617T062643Z">
+        <seg>和某些使用键值对的系统不同，Flink不是在输入类型中提前定义好键值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13907,6 +13907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140811Z" creationid="xccui" creationdate="20190606T140758Z">
         <seg>而是利用了现有的分布式文件系统（如HDFS）或对象存储（如S3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, keys are defined as functions over the input data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062909Z" creationid="xccui" creationdate="20190617T062909Z">
+        <seg>而是将键值定义为输入数据上的函数。</seg>
       </tuv>
     </tu>
     <tu>
