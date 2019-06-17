@@ -9569,8 +9569,8 @@
       <tuv lang="EN-US">
         <seg>Flink for a while without ever needing to worry about TypeInformation for your data</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052631Z" creationid="xccui" creationdate="20190617T052631Z">
-        <seg>因此你可以先用Flink一段时间而无需担心数据类型的TypeInformation问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052704Z" creationid="xccui" creationdate="20190617T052631Z">
+        <seg>因此你可以先用上一段时间的Flink而无需担心数据类型的TypeInformation问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10943,6 +10943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, you might use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052635Z" creationid="xccui" creationdate="20190617T052635Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, you should be aware that you might debug a multithreaded program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054146Z" creationid="xccui" creationdate="20190611T054146Z">
@@ -11251,6 +11259,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T041813Z" creationid="xccui" creationdate="20190406T040646Z">
         <seg>但有些操作必须收集并缓冲数据才能计算结果，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, sometimes the type extractor fails or you might want to define your</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052957Z" creationid="xccui" creationdate="20190617T052957Z">
+        <seg>但有时候类型提取器会失败或者你可能需要定义自己的类型并告知Flink该如何高效地处理它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26380,6 +26396,14 @@
         <seg>type of the input stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061554Z" creationid="xccui" creationdate="20190614T061554Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052653Z" creationid="xccui" creationdate="20190617T052653Z">
         <seg></seg>
       </tuv>
     </tu>
