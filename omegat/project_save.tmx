@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.print().setParallelism(2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T015337Z" creationid="xccui" creationdate="20190617T015337Z">
+        <seg>.print().setParallelism(2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.reduce((x, y) =&gt; (x._1, x._2 ::: y._2))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062241Z" creationid="xccui" creationdate="20190614T062241Z">
