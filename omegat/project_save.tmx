@@ -10415,6 +10415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Functions can reuse Java tuples in order to reduce the pressure on the garbage collector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040423Z" creationid="xccui" creationdate="20190617T040423Z">
+        <seg>函数可以重用Java元组以减轻垃圾回收器的压力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions cannot read or modify record time‐ stamps and watermarks, except for the process functions, which  can read the timestamp of a currently processed record, request the current event time of the operator, and register timers.3 None of the functions exposes an API to set the timestamps of emitted records, manipulate the event-time clock of a task, or emit watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T012935Z" creationid="xccui" creationdate="20190607T012544Z">
@@ -19724,6 +19732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053205Z" creationid="xccui" creationdate="20190613T053205Z">
         <seg>下方示例所展示的filter会丢弃所有温度低于25°F的传感器测量值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example shows how to update a field of a Java tuple:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040456Z" creationid="xccui" creationdate="20190617T040456Z">
+        <seg>下面的例子展示了如何对Java元组的字段进行更新：</seg>
       </tuv>
     </tu>
     <tu>
