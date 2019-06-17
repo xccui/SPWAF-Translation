@@ -10199,6 +10199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the following Java class will be identified as a POJO by Flink:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044720Z" creationid="xccui" creationdate="20190617T044720Z">
+        <seg>例如，以下Java类就会被Flink识别为POJO：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, to finalize windows when the event-time passes their end boundaries, a time-window task registers a timer for the ending time of each of its active windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T041839Z" creationid="xccui" creationdate="20190529T041558Z">
