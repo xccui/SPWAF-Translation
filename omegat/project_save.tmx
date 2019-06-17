@@ -7249,8 +7249,8 @@
       <tuv lang="EN-US">
         <seg>Defining Keys and Referencing Fields</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145323Z" creationid="esouser" creationdate="20190603T145323Z">
-        <seg>定义键值及引用字段</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062314Z" creationid="esouser" creationdate="20190603T145323Z">
+        <seg>定义键值和引用字段</seg>
       </tuv>
     </tu>
     <tu>
