@@ -22978,8 +22978,8 @@
       <tuv lang="EN-US">
         <seg>TypeInformation’s helper class is org.apache.flink.api.scala.typeutils.Types</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053746Z" creationid="xccui" creationdate="20190617T053746Z">
-        <seg>Scala API中有关TypeInformation的辅助类是org.apache.flink.api.scala.typeutils.Types，它的用法如下：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053810Z" creationid="xccui" creationdate="20190617T053746Z">
+        <seg>Scala API中有关TypeInformation的辅助类是org.apache.flink.api.scala.typeutils.Types，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25709,6 +25709,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T203039Z" creationid="esouser" creationdate="20190603T203039Z">
         <seg>第一类是定期报告查询，用于计算业务相关的统计信息，如收入、用户增长、产出等，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for the Scala API, and it is used as shown in the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053814Z" creationid="xccui" creationdate="20190617T053801Z">
+        <seg>它的用法如下：</seg>
       </tuv>
     </tu>
     <tu>
