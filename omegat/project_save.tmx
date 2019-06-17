@@ -3854,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A so-called type extractor analyzes the generic types and return types of all functions to obtain the respective TypeInformation objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052355Z" creationid="xccui" creationdate="20190617T052355Z">
+        <seg>一个类型提取器会分析所有函数的泛型类型及返回类型，以获取相应的TypeInformation对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A source function emits a stream of records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034220Z" creationid="xccui" creationdate="20190607T034220Z">
