@@ -4318,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All fields have types that are supported by Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044620Z" creationid="xccui" creationdate="20190617T044620Z">
+        <seg>所有字段类型必须是Flink所支持的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All functions are evaluated by an individual task running in a dedicated thread.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T155122Z" creationid="esouser" creationdate="20190514T154729Z">
