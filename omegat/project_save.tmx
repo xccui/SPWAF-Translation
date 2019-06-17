@@ -21552,6 +21552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, it is not necessary to define data types to hold keys and values, which avoids a lot of boilerplate code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T063903Z" creationid="xccui" creationdate="20190617T063903Z">
+        <seg>因此也就没必要定义很多用来保存键和值的数据类型，这样避免了放多样板代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, we strongly recommend manually assign‐ ing unique identifiers to operators and not relying on Flink’s default assignment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T030745Z" creationid="xccui" creationdate="20190610T030737Z">
