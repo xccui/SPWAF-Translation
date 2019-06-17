@@ -4320,8 +4320,8 @@
       <tuv lang="EN-US">
         <seg>All fields have types that are supported by Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044620Z" creationid="xccui" creationdate="20190617T044620Z">
-        <seg>所有字段类型必须是Flink所支持的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044633Z" creationid="xccui" creationdate="20190617T044620Z">
+        <seg>所有字段类型都必须是Flink所支持的。</seg>
       </tuv>
     </tu>
     <tu>
