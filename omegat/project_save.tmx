@@ -12535,6 +12535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In most cases, Flink can automatically infer types and generate the correct TypeInfor mation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T055139Z" creationid="xccui" creationdate="20190617T055139Z">
+        <seg>大多数情况下，Flink可以自动推断类型并生成正确的TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In most real-world applications, the expectation is that events should not get lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034559Z" creationid="xccui" creationdate="20190606T034519Z">
@@ -25833,6 +25841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>import org.apache.flink.streaming.api.scala._</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054850Z" creationid="xccui" creationdate="20190617T054850Z">
+        <seg>import org.apache.flink.streaming.api.scala._</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in time, usually the point in time at which the event that is represented by the record happened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204807Z" creationid="xccui" creationdate="20190606T204807Z">
@@ -26460,6 +26476,14 @@
         <seg>tion on which the stream is to be partitioned.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050340Z" creationid="xccui" creationdate="20190616T050340Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tion:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054847Z" creationid="xccui" creationdate="20190617T054847Z">
         <seg></seg>
       </tuv>
     </tu>
