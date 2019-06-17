@@ -20888,6 +20888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tuple classes are strongly typed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T015557Z" creationid="xccui" creationdate="20190617T015557Z">
+        <seg>这些元组类都是强类型的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The two tasks of operators C and E are assigned to slots 1.1 and 2.1 and slots 1.2 and 2.2, respectively.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144657Z" creationid="xccui" creationdate="20190606T144651Z">
