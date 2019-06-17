@@ -560,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>// filter for persons with age &gt; 18</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041209Z" creationid="xccui" creationdate="20190617T041209Z">
-        <seg>// 过滤那些年龄大于18的人</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041258Z" creationid="xccui" creationdate="20190617T041209Z">
+        <seg>// 过滤出那些年龄大于18的人</seg>
       </tuv>
     </tu>
     <tu>
