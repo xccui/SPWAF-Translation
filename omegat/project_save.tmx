@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// TypeInformation for case classes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053913Z" creationid="xccui" creationdate="20190617T053913Z">
+        <seg>// 样例类的TypeInformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// TypeInformation for primitive types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053611Z" creationid="xccui" creationdate="20190617T053611Z">
@@ -22968,6 +22976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type Information in the Scala API</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054635Z" creationid="xccui" creationdate="20190617T054635Z">
+        <seg>Scala API中的类型信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TypeInformation&lt;Integer&gt; intType = Types.INT;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053613Z" creationid="xccui" creationdate="20190617T053613Z">
@@ -26561,6 +26577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val caseClassType: TypeInformation[Person] = Types.CASE_CLASS[Person]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053917Z" creationid="xccui" creationdate="20190617T053917Z">
+        <seg>val caseClassType: TypeInformation[Person] = Types.CASE_CLASS[Person]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val celsius = (r.temperature - 32) * (5.0 / 9.0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042259Z" creationid="xccui" creationdate="20190612T042259Z">
@@ -26877,6 +26901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053818Z" creationid="xccui" creationdate="20190617T053818Z">
         <seg>val stringType: TypeInformation[String] = Types.STRING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val tupleType: TypeInformation[(Int, Long)] = Types.TUPLE[(Int, Long)]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053851Z" creationid="xccui" creationdate="20190617T053851Z">
+        <seg>val tupleType: TypeInformation[(Int, Long)] = Types.TUPLE[(Int, Long)]</seg>
       </tuv>
     </tu>
     <tu>
