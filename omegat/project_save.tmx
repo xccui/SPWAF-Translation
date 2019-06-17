@@ -13119,6 +13119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we discuss different methods to reference fields and define keys on data types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T064316Z" creationid="xccui" creationdate="20190617T064316Z">
+        <seg>接下来我们将讨论基于数据类型定义引用字段和键值的几种方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we discuss the DataStream API transformations that process multiple input streams or emit multiple output streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063511Z" creationid="xccui" creationdate="20190614T063511Z">
@@ -13913,8 +13921,8 @@
       <tuv lang="EN-US">
         <seg>Instead, keys are defined as functions over the input data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062909Z" creationid="xccui" creationdate="20190617T062909Z">
-        <seg>而是将键值定义为输入数据上的函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T063908Z" creationid="xccui" creationdate="20190617T062909Z">
+        <seg>而是它定义为输入数据上的函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21554,8 +21562,8 @@
       <tuv lang="EN-US">
         <seg>Therefore, it is not necessary to define data types to hold keys and values, which avoids a lot of boilerplate code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T063903Z" creationid="xccui" creationdate="20190617T063903Z">
-        <seg>因此也就没必要定义很多用来保存键和值的数据类型，这样避免了放多样板代码。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T064100Z" creationid="xccui" creationdate="20190617T063903Z">
+        <seg>因此，没必要为键和值再单独定义数据类型，这样省去了很多样板代码。</seg>
       </tuv>
     </tu>
     <tu>
