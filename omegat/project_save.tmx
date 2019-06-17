@@ -11007,6 +11007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, you might need to explicitly provide TypeInformation objects to Flink for some of the data types used in your application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061243Z" creationid="xccui" creationdate="20190617T061243Z">
+        <seg>因此对于应用中的部分数据类型，可能需要你向Flink显式提供TypeInformation对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, you might use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052635Z" creationid="xccui" creationdate="20190617T052635Z">
@@ -14915,6 +14923,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T064049Z" creationid="xccui" creationdate="20190314T062307Z">
         <seg>此外，作为基本需求，系统要提供精确一次的状态一致性保障和应用扩容能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, in some cases Flink might not</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061122Z" creationid="xccui" creationdate="20190617T061122Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -25565,6 +25581,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T032758Z" creationid="xccui" creationdate="20190327T032758Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>choose the TypeInformation that generates the most efficient serializers and deserial‐ izers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061119Z" creationid="xccui" creationdate="20190617T061119Z">
+        <seg>此外，某些情况下Flink选择的TypeInformation可能无法生成最高效的序列化和反序列化器。</seg>
       </tuv>
     </tu>
     <tu>
