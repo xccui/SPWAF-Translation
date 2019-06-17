@@ -14119,6 +14119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It provides the system with the necessary information it needs to generate serialiazers and comparators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050322Z" creationid="xccui" creationdate="20190617T050322Z">
+        <seg>它为系统生成序列化器和比较器提供了必要的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It requests processing slots from the ResourceManager to continue executing the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190503T192045Z" creationid="xccui" creationdate="20190503T192045Z">
@@ -19556,6 +19564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T152916Z" creationid="xccui" creationdate="20190401T152703Z">
         <seg>收银员收到你的付款后会把订单交给帮你准备饮品的咖啡师。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The central class in Flink’s type system is TypeInformation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050145Z" creationid="xccui" creationdate="20190617T050145Z">
+        <seg>Flink类型系统的核心类是TypeInformation。</seg>
       </tuv>
     </tu>
     <tu>
