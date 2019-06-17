@@ -12775,6 +12775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we define a case class Person with two fields: name and age.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040740Z" creationid="xccui" creationdate="20190617T040740Z">
+        <seg>下方我们定义了一个样例类Person，它有两个字段：name和age。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we describe how Flink internally implements and handles timestamps and watermarks to support streaming applications with event-time semantics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204715Z" creationid="xccui" creationdate="20190606T204617Z">
