@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.map(t -&gt; new Person(t.f0, t.f1))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062217Z" creationid="xccui" creationdate="20190617T062217Z">
+        <seg>.map(t -&gt; new Person(t.f0, t.f1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.print().setParallelism(2)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T015337Z" creationid="xccui" creationdate="20190617T015337Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062241Z" creationid="xccui" creationdate="20190614T062241Z">
         <seg>.reduce((x, y) =&gt; (x._1, x._2 ::: y._2))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.returns(Types.POJO(Person.class));</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062253Z" creationid="xccui" creationdate="20190617T062253Z">
+        <seg>.returns(Types.POJO(Person.class));</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042754Z" creationid="xccui" creationdate="20190612T042754Z">
         <seg>// 将结果流打印到标准输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// provide TypeInformation for the map lambda function's return type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062250Z" creationid="xccui" creationdate="20190617T062250Z">
+        <seg>// 为map lambda函数的返回类型提供TypeInformation</seg>
       </tuv>
     </tu>
     <tu>
