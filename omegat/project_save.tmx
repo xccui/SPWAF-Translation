@@ -462,6 +462,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// TypeInformation for Java Tuples TypeInformation&lt;Tuple2&lt;Long, String&gt;&gt; tupleType = Types.TUPLE(Types.LONG, Types.STRING);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053631Z" creationid="xccui" creationdate="20190617T053631Z">
+        <seg>// Java元组类型的TypeInformation TypeInformation&lt;Tuple2&lt;Long, String&gt;&gt; tupleType = Types.TUPLE(Types.LONG, Types.STRING);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// TypeInformation for primitive types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053611Z" creationid="xccui" creationdate="20190617T053611Z">
+        <seg>// 原始类型的TypeInformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// alternative: connect two keyed streams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050418Z" creationid="xccui" creationdate="20190615T050418Z">
@@ -22932,6 +22948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T030906Z" creationid="xccui" creationdate="20190609T030813Z">
         <seg>求和算子的两个任务会分别对它们求和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TypeInformation&lt;Integer&gt; intType = Types.INT;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053613Z" creationid="xccui" creationdate="20190617T053613Z">
+        <seg>TypeInformation&lt;Integer&gt; intType = Types.INT;</seg>
       </tuv>
     </tu>
     <tu>
