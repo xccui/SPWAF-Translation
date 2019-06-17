@@ -10081,8 +10081,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s type extractor leverages reflection and analyzes function signatures and subclass information to derive the correct output type of a user-defined function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T060529Z" creationid="xccui" creationdate="20190617T060529Z">
-        <seg>Flink的类型提取器利用反射和分析函数签名及子类来从用户自定义函数中提取正确的输出类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T060621Z" creationid="xccui" creationdate="20190617T060529Z">
+        <seg>Flink的类型提取器利用反射和分析函数签名及子类信息的方式，从用户自定义函数中提取正确的输出类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17916,6 +17916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065406Z" creationid="xccui" creationdate="20190615T065406Z">
         <seg>某些时候，我们有必要或希望能够在应用级别控制这些分区策略或者自定义分区器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, though, the necessary information cannot be extracted (e.g., because of Java erasing generic type information).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061027Z" creationid="xccui" creationdate="20190617T061027Z">
+        <seg>但有时候一些必要的信息可能无法提取（例如：由于Java会擦出泛型信息）。</seg>
       </tuv>
     </tu>
     <tu>
