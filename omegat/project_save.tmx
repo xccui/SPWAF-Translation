@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
+        <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2[String, Integer] for Person(name, age) val persons: DataStream[(String, Integer)] = env.fromElements( ("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071124Z" creationid="xccui" creationdate="20190616T071009Z">
