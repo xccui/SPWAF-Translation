@@ -23160,6 +23160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We can rewrite the filtering example in the Java DataStream API as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T015621Z" creationid="xccui" creationdate="20190617T015621Z">
+        <seg>我们可以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We cover</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053544Z" creationid="xccui" creationdate="20190615T053544Z">
