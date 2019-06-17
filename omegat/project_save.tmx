@@ -12807,6 +12807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In such cases, you need to generate a TypeInformation for a specific data type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053326Z" creationid="xccui" creationdate="20190617T053326Z">
+        <seg>这些情况下，你就需要为特定数据类型生成TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the DataStream API, the execution environment of an</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044948Z" creationid="xccui" creationdate="20190612T044948Z">
