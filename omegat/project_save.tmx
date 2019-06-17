@@ -10097,8 +10097,8 @@
       <tuv lang="EN-US">
         <seg>For Java, the helper class is org.apache.flink.api.common.type info.Types, and it is used as shown in the following examples:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053555Z" creationid="xccui" creationdate="20190617T053555Z">
-        <seg>Java中的这个辅助类是org.apache.flink.api.common.typeInfo.Types，它的使用方法如下所示：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053757Z" creationid="xccui" creationdate="20190617T053555Z">
+        <seg>Java中的这个辅助类是org.apache.flink.api.common.typeInfo.Types，它的用法如下：</seg>
       </tuv>
     </tu>
     <tu>
