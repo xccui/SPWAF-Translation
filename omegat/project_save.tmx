@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// TypeInformation for POJOs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053657Z" creationid="xccui" creationdate="20190617T053657Z">
+        <seg>// POJO的TypeInformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// TypeInformation for primitive types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053611Z" creationid="xccui" creationdate="20190617T053611Z">
@@ -22956,6 +22964,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053613Z" creationid="xccui" creationdate="20190617T053613Z">
         <seg>TypeInformation&lt;Integer&gt; intType = Types.INT;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TypeInformation&lt;Person&gt; personType = Types.POJO(Person.class);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053659Z" creationid="xccui" creationdate="20190617T053659Z">
+        <seg>TypeInformation&lt;Person&gt; personType = Types.POJO(Person.class);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TypeInformation’s helper class is org.apache.flink.api.scala.typeutils.Types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053746Z" creationid="xccui" creationdate="20190617T053746Z">
+        <seg>Scala API中有关TypeInformation的辅助类是org.apache.flink.api.scala.typeutils.Types，它的用法如下：</seg>
       </tuv>
     </tu>
     <tu>
