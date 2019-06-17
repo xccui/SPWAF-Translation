@@ -9359,6 +9359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you can extend a function class to explicitly provide the TypeInformation of its return type by implementing the ResultTypeQueryable interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061847Z" creationid="xccui" creationdate="20190617T061847Z">
+        <seg>首先你可以通过实现ResultTypeQueryable接口来扩展函数，在其中提供返回类型的TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you can parti&lt;t0/&gt;‐&lt;t1/&gt; tion your input data and have tasks of the same operation execute on the data subsets in parallel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T032148Z" creationid="xccui" creationdate="20190401T030434Z">
@@ -20068,6 +20076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050622Z" creationid="xccui" creationdate="20190616T050622Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example shows a MapFunction that provides its return type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061907Z" creationid="xccui" creationdate="20190617T061907Z">
+        <seg>下面的例子展示了一个提供返回类型的MapFunction：</seg>
       </tuv>
     </tu>
     <tu>
