@@ -9567,6 +9567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink for a while without ever needing to worry about TypeInformation for your data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052631Z" creationid="xccui" creationdate="20190617T052631Z">
+        <seg>因此你可以先用Flink一段时间而无需担心数据类型的TypeInformation问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink guarantees this by periodically writing a consistent checkpoint of the application state to a remote and durable storage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154922Z" creationid="xccui" creationdate="20190305T032707Z">
