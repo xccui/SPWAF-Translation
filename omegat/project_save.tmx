@@ -20000,6 +20000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The getter and setter functions must follow the default naming scheme, which is Y getX() and setX(Y x) for a field x of type Y.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044510Z" creationid="xccui" creationdate="20190617T044510Z">
+        <seg>这些方法需要遵循默认的命名模式，即对于Y类型的x字段方法头分别为Y getX()和setX(Y x)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The global() method sends all events of the input data stream to the first paral‐ lel task of the downstream operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045845Z" creationid="xccui" creationdate="20190616T045845Z">
