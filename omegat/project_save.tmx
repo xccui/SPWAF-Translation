@@ -12879,6 +12879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Scala API, Flink uses Scala compiler macros that generate TypeInformation objects for all data types at compile time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054714Z" creationid="xccui" creationdate="20190617T054714Z">
+        <seg>在Scala API中，Flink利用Scala编译器的宏功能在编译时为所有数据类型生成TypeInformation对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the beginning of this chapter, you saw how you can model streaming programs as dataflow graphs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033203Z" creationid="xccui" creationdate="20190415T041033Z">
@@ -22520,6 +22528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the createTypeInformation macro function, make sure to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054745Z" creationid="xccui" creationdate="20190617T054731Z">
+        <seg>为了使用createTypeInformation宏函数，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To assess end-to-end guarantees, one has to consider all the components of an application pipeline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045840Z" creationid="xccui" creationdate="20190416T045830Z">
@@ -25373,6 +25389,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053027Z" creationid="xccui" creationdate="20190615T053027Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>always add the following import statement to your Scala applica‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054830Z" creationid="xccui" creationdate="20190617T054830Z">
+        <seg>请确保将以下导入语句添加到你的Scala应用中：</seg>
       </tuv>
     </tu>
     <tu>
