@@ -12087,6 +12087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Flink, keys are not predefined in the input types like in systems that work with key-value pairs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062643Z" creationid="xccui" creationdate="20190617T062643Z">
+        <seg>Flink不像某些使用键值对的系统一样，会在输入类型中提前定义好键值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Flink, state is always associated with a specific operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T055854Z" creationid="xccui" creationdate="20190607T055833Z">
@@ -17972,6 +17980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T045924Z" creationid="xccui" creationdate="20190605T045832Z">
         <seg>一些最初的研究原型和商业产品可以追溯到上世纪90年代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of the transformations you saw in the previous section require a key specifica‐ tion or field reference on the input stream type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062440Z" creationid="xccui" creationdate="20190617T062440Z">
+        <seg>你在上一节中看到的部分转换需要基于输入流的类型指定键值或引用字段。</seg>
       </tuv>
     </tu>
     <tu>
