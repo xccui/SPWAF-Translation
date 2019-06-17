@@ -6031,6 +6031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case class fields are accessed by name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040708Z" creationid="xccui" creationdate="20190617T040708Z">
+        <seg>样例类的字段可以按名称访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chained task execution with fused function in a single thread and data pass&lt;t0/&gt;‐&lt;t1/&gt; ing via method calls.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T153822Z" creationid="esouser" creationdate="20190514T153152Z">
