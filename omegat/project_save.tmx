@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// provide the TypeInformation for the output data type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061937Z" creationid="xccui" creationdate="20190617T061937Z">
+        <seg>// 为输出数据类型提供TypeInformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// second stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040744Z" creationid="xccui" creationdate="20190615T040744Z">
@@ -7119,6 +7127,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DataStream&lt;Person&gt; persons = tuples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062214Z" creationid="xccui" creationdate="20190617T062214Z">
+        <seg>DataStream&lt;Person&gt; persons = tuples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; tuples = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062211Z" creationid="xccui" creationdate="20190617T062211Z">
+        <seg>DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; tuples = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dataflow Graphs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143808Z" creationid="esouser" creationdate="20190603T143808Z">
@@ -12907,6 +12931,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044948Z" creationid="xccui" creationdate="20190612T044948Z">
         <seg>在DataStream API中，执行环境用StreamExecutionEnvironment表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Java DataStream API, you can also use the returns() method to explicitly specify the return type of an operator when defining the dataflow as shown in the fol‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062203Z" creationid="xccui" creationdate="20190617T062203Z">
+        <seg>你还可以像下面这样，在定义dataflow时使用Java DataStream API中的returns()方法来显式指定某算子的返回类型：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25633,6 +25665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061912Z" creationid="xccui" creationdate="20190617T061912Z">
+        <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>clearly define its behavior in a failure scenario.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042849Z" creationid="xccui" creationdate="20190415T042849Z">
@@ -26025,6 +26065,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lowing:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062207Z" creationid="xccui" creationdate="20190617T062207Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>main method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043220Z" creationid="xccui" creationdate="20190612T043220Z">
@@ -26201,10 +26249,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def getProducedType: TypeInformation[Person] = Types.CASE_CLASS[Person]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061940Z" creationid="xccui" creationdate="20190617T061940Z">
+        <seg>override def getProducedType: TypeInformation[Person] = Types.CASE_CLASS[Person]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def map(r: SensorReading): String = r.id</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050726Z" creationid="xccui" creationdate="20190613T050726Z">
         <seg>override def map(r: SensorReading): String = r.id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def map(v: (String, Int)): Person = Person(v._1, v._2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061916Z" creationid="xccui" creationdate="20190617T061916Z">
+        <seg>override def map(v: (String, Int)): Person = Person(v._1, v._2)</seg>
       </tuv>
     </tu>
     <tu>
