@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All fields are public or accessible through getters and setters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T043446Z" creationid="xccui" creationdate="20190617T043446Z">
+        <seg>所有字段都是公有的或提供了相应的getter及setter方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All functions are evaluated by an individual task running in a dedicated thread.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T155122Z" creationid="esouser" creationdate="20190514T154729Z">
@@ -13907,6 +13915,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162821Z" creationid="esouser" creationdate="20190603T162716Z">
         <seg>且支持在容错的前提下高效、大规模地运行此类应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has a public constructor without any arguments—a default constructor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042929Z" creationid="xccui" creationdate="20190617T042929Z">
+        <seg>有一个公有的无参默认构造函数。</seg>
       </tuv>
     </tu>
     <tu>
