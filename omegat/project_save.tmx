@@ -10079,6 +10079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s type extractor leverages reflection and analyzes function signatures and subclass information to derive the correct output type of a user-defined function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T060529Z" creationid="xccui" creationdate="20190617T060529Z">
+        <seg>Flink的类型提取器利用反射和分析函数签名及子类来从用户自定义函数中提取正确的输出类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s watermark-handling and propagation algorithm ensures operator tasks emit properly aligned timestamped records and watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T031249Z" creationid="xccui" creationdate="20190607T031249Z">
