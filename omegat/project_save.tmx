@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// filter for persons with age &gt; 18</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041209Z" creationid="xccui" creationdate="20190617T041209Z">
+        <seg>// 过滤那些年龄大于18的人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// first stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040749Z" creationid="xccui" creationdate="20190615T040720Z">
@@ -16104,6 +16112,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Person("Adam", 17),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041131Z" creationid="xccui" creationdate="20190617T041131Z">
+        <seg>Person("Adam", 17),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Person("Sarah", 23))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041140Z" creationid="xccui" creationdate="20190617T041140Z">
+        <seg>Person("Sarah", 23))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Playing online mobile games in the subway.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190411T152158Z" creationid="xccui" creationdate="20190411T152153Z">
@@ -25169,6 +25193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>case class Person(name: String, age: Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041136Z" creationid="xccui" creationdate="20190617T041136Z">
+        <seg>case class Person(name: String, age: Int)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>case class SensorReading( id: String,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035705Z" creationid="xccui" creationdate="20190612T035705Z">
@@ -26341,6 +26373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064847Z" creationid="xccui" creationdate="20190614T064847Z">
         <seg>val parisStream: DataStream[SensorReading] = ... val tokyoStream: DataStream[SensorReading] = ... val rioStream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val persons: DataStream[Person] = env.fromElements(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041128Z" creationid="xccui" creationdate="20190617T041128Z">
+        <seg>val persons: DataStream[Person] = env.fromElements(</seg>
       </tuv>
     </tu>
     <tu>
