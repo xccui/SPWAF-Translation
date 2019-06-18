@@ -3582,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A full data type can be selected using the wildcard field expression "_" (underscore character):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050750Z" creationid="xccui" creationdate="20190618T050750Z">
+        <seg>可以使用通配符字段表达式"_"（英文下划线）选择全部字段：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A highly available Flink setup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T194903Z" creationid="xccui" creationdate="20190606T194859Z">
@@ -26589,6 +26597,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041213Z" creationid="xccui" creationdate="20190617T041213Z">
         <seg>persons.filter(p =&gt; p.age &gt; 18)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>persons.keyBy("birthday._1") // key by field of nested tuple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050632Z" creationid="xccui" creationdate="20190618T050632Z">
+        <seg>persons.keyBy("birthday._1") // 以嵌套元组的字段为键值</seg>
       </tuv>
     </tu>
     <tu>
