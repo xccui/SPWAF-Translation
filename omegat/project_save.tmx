@@ -14495,6 +14495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is called once per task before a transformation method like filter or map is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061044Z" creationid="xccui" creationdate="20190618T061044Z">
+        <seg>它在每个任务调用正式的转换方法（例如filter或map）前调用一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is common that companies store the same data in multiple different systems to improve the performance of data accesses.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053952Z" creationid="xccui" creationdate="20190604T053931Z">
@@ -21032,6 +21040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The open() method is an initialization method for the rich function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060850Z" creationid="xccui" creationdate="20190618T060850Z">
+        <seg>open()是富函数中的初始化方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The operator identifier and state name are required to be able to map the state data of a savepoint to the states of the operators of a starting application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215509Z" creationid="xccui" creationdate="20190609T215456Z">
@@ -25205,6 +25221,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013021Z" creationid="xccui" creationdate="20190606T013021Z">
         <seg>在窗口边界通过后，所有事件会发送给计算函数处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using a rich function, you can implement two additional methods to the func‐ tion’s lifecycle:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060824Z" creationid="xccui" creationdate="20190618T060824Z">
+        <seg>在使用富函数的时候，你可以针对函数生命周期实现两个额外的方法：</seg>
       </tuv>
     </tu>
     <tu>
