@@ -21872,6 +21872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are rich versions of all the DataStream API transformation functions, and you can use them in the same places you can use a regular function or lambda function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060440Z" creationid="xccui" creationdate="20190618T060440Z">
+        <seg>DataStream API中的所有转换函数都有对应的富函数，它们能够的使用位置和普通函数以及lambda函数相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are several event log sys&lt;t0/&gt;‐&lt;t1/&gt; tems available as open source software, Apache Kafka being the most popular, or as integrated services offered by cloud computing providers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T060116Z" creationid="xccui" creationdate="20190305T055922Z">
