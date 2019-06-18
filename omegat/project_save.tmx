@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; getKey(IN): KEY</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051101Z" creationid="xccui" creationdate="20190618T051101Z">
+        <seg>&gt; getKey(IN): KEY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt; map(T): O</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050345Z" creationid="xccui" creationdate="20190613T050345Z">
@@ -20572,6 +20580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031746Z" creationid="xccui" creationdate="20190606T031623Z">
         <seg>在使用批处理系统分析有限数据集的情况下，状态的重要性会越发凸显。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The introductory example actually uses a simple KeySelector function in the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051634Z" creationid="xccui" creationdate="20190618T051634Z">
+        <seg>开篇示例中</seg>
       </tuv>
     </tu>
     <tu>
