@@ -13215,6 +13215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the introductory example of this chapter, we defined the following case class:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042328Z" creationid="xccui" creationdate="20190618T042328Z">
+        <seg>在本章的介绍示例中，我们定义了如下样例类：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the library mode, there is no Flink ser&lt;t0/&gt;‐&lt;t1/&gt; vice continuously running.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T041017Z" creationid="xccui" creationdate="20190423T040707Z">
@@ -22804,6 +22812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T045427Z" creationid="esouser" creationdate="20190603T162900Z">
         <seg>截至目前，项目已经有超过470名贡献者，并在不断普及的过程中逐渐演变为开源界最为复杂的流处理引擎之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To key the stream by sensor ID we can pass the field name id to the keyBy() func‐ tion:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042634Z" creationid="xccui" creationdate="20190618T042634Z">
+        <seg>为了将传感器ID设为数据流的键值，我们可以把字段名称id传给keyBy()函数：，</seg>
       </tuv>
     </tu>
     <tu>
