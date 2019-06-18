@@ -11743,6 +11743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the data type is a tuple, keys can be defined by simply using the field position of the corresponding tuple element.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033121Z" creationid="xccui" creationdate="20190618T033121Z">
+        <seg>针对元组数据类型，可以简单地使用元组相应元素的字段位置来定义键值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the event-time clock advances, the task processes all triggered timers and finally broadcasts its new event time to all downstream tasks by emitting a corresponding watermark to all con‐ nected output partitions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T025139Z" creationid="xccui" creationdate="20190607T025043Z">
