@@ -16440,6 +16440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POJO or case class fields are selected by their field name like in the above example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042758Z" creationid="xccui" creationdate="20190618T042758Z">
+        <seg>POJO或样例类的字段也可以像上面那样根据字段名称进行选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POJOs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T064539Z" creationid="xccui" creationdate="20190617T064539Z">
@@ -27089,6 +27097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val keyedSensors = sensorStream.keyBy("id")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042640Z" creationid="xccui" creationdate="20190618T042640Z">
+        <seg>val keyedSensors = sensorStream.keyBy("id")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val large: DataStream[(Int, String)] = splitted.select("large")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064109Z" creationid="xccui" creationdate="20190615T064109Z">
@@ -27245,6 +27261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051126Z" creationid="xccui" creationdate="20190613T051126Z">
         <seg>val sensorIds: DataStream[String] = readings.map(r =&gt; r.id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorStream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042637Z" creationid="xccui" creationdate="20190618T042637Z">
+        <seg>val sensorStream: DataStream[SensorReading] = ...</seg>
       </tuv>
     </tu>
     <tu>
