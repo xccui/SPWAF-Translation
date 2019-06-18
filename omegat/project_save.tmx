@@ -23208,6 +23208,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tuple fields are referenced either by their field name (1-offset for Scala tuples, 0-offset for Java tuples) or by their 0-offset field index:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T043248Z" creationid="xccui" creationdate="20190618T043248Z">
+        <seg>元组字段的引用既可以利用字段名称（Scala元组编号从1开始，Java元组编号从0开始）也可以利用从0开始的字段索引：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tuple fields can be accessed by the name of their public fields—f0, f1, f2, etc., as shown earlier—or by position using the getField(int pos) method, where indexes start at 0:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035616Z" creationid="xccui" creationdate="20190617T035415Z">
