@@ -8263,6 +8263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everything contained in a user func‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055230Z" creationid="xccui" creationdate="20190618T055230Z">
+        <seg>用户函数中的全部内容都必须是可序列化的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evolving Stateful Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024857Z" creationid="xccui" creationdate="20190225T024857Z">
@@ -12075,6 +12083,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062232Z" creationid="xccui" creationdate="20190616T062221Z">
         <seg>如果你在一台8核的机器上以本地环境中运行（例如在IDE里），那么数据源将会运行8个任务，map将运行16个任务，数据汇将运行2个任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your function requires a nonserializable object instance, you can either implement it as a rich function and initialize the nonserializ‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055411Z" creationid="xccui" creationdate="20190618T055329Z">
+        <seg>如何你的函数需要一个无法序列化的对象实例，可以选择使用富函数在open()方法中将其初始化或</seg>
       </tuv>
     </tu>
     <tu>
@@ -24795,8 +24811,8 @@
       <tuv lang="EN-US">
         <seg>When a program is submitted for execution, all function objects are serialized using Java serialization and shipped to all parallel tasks of their corresponding operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054831Z" creationid="xccui" creationdate="20190618T054831Z">
-        <seg>当程序提交执行时，所有参数对象都会利用Java自身的序列化机制进行序列化，然后传送到对应算子的所有并行任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055206Z" creationid="xccui" creationdate="20190618T054831Z">
+        <seg>当程序提交执行时，所有参数对象都会利用Java自身的序列化机制进行序列化，然后传发送对应算子的所有并行任务上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25869,6 +25885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052257Z" creationid="xccui" creationdate="20190613T052257Z">
         <seg>图5-2展示的filter操作仅保留了白色方块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>able field in the open() method or override the Java serialization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055447Z" creationid="xccui" creationdate="20190618T055342Z">
+        <seg>或者覆盖Java的序列化反序列化方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27109,6 +27133,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035709Z" creationid="xccui" creationdate="20190612T035709Z">
         <seg>timestamp: Long, temperature: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tion must be Serializable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055235Z" creationid="xccui" creationdate="20190618T055235Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
