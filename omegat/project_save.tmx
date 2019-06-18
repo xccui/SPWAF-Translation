@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An instance of the function class can then be passed as an argument to the filter transformation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054126Z" creationid="xccui" creationdate="20190618T054126Z">
+        <seg>随后可将函数类的实例作为参数传递给filter转换：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An interesting property of watermarks is that they allow an application to control result completeness and latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T035910Z" creationid="xccui" creationdate="20190529T035835Z">
@@ -10803,6 +10811,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011521Z" creationid="xccui" creationdate="20190606T011456Z">
         <seg>函数由应用开发人员编写，可以实现某些自定义的计算逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions can also be implemented as anonymous classes:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054230Z" creationid="xccui" creationdate="20190618T054230Z">
+        <seg>还可以通过匿名类来实现函数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions can receive parameters through their constructor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054311Z" creationid="xccui" creationdate="20190618T054311Z">
+        <seg>函数可以通过其构造函数接收参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26025,6 +26049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class FlinkFilter extends FilterFunction[String] { override def filter(value: String): Boolean = { value.contains("flink")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054002Z" creationid="xccui" creationdate="20190618T054002Z">
+        <seg>class FlinkFilter extends FilterFunction[String] { override def filter(value: String): Boolean = { value.contains("flink")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class MyMapFunction extends MapFunction[Int, Int] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020905Z" creationid="xccui" creationdate="20190613T020905Z">
@@ -26577,6 +26609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new RichFilterFunction[String] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054235Z" creationid="xccui" creationdate="20190618T054235Z">
+        <seg>new RichFilterFunction[String] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>not change the type of the stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061521Z" creationid="xccui" creationdate="20190614T061521Z">
@@ -26629,6 +26669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045238Z" creationid="xccui" creationdate="20190504T045238Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def filter(value: String): Boolean = { value.contains("flink")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054238Z" creationid="xccui" creationdate="20190618T054238Z">
+        <seg>override def filter(value: String): Boolean = { value.contains("flink")</seg>
       </tuv>
     </tu>
     <tu>
@@ -27257,6 +27305,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val flinkTweets = tweets.filter(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054233Z" creationid="xccui" creationdate="20190618T054233Z">
+        <seg>val flinkTweets = tweets.filter(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val flinkTweets = tweets.filter(new FlinkFilter)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054129Z" creationid="xccui" creationdate="20190618T054129Z">
+        <seg>val flinkTweets = tweets.filter(new FlinkFilter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val input : DataStream[(Int, Int)] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052152Z" creationid="xccui" creationdate="20190618T052152Z">
@@ -27741,6 +27805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042307Z" creationid="xccui" creationdate="20190612T042307Z">
         <seg>} )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054242Z" creationid="xccui" creationdate="20190618T054242Z">
+        <seg>})</seg>
       </tuv>
     </tu>
     <tu>
