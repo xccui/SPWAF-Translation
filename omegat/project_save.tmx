@@ -12089,8 +12089,8 @@
       <tuv lang="EN-US">
         <seg>If your function requires a nonserializable object instance, you can either implement it as a rich function and initialize the nonserializ‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055411Z" creationid="xccui" creationdate="20190618T055329Z">
-        <seg>如何你的函数需要一个无法序列化的对象实例，可以选择使用富函数在open()方法中将其初始化或</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055504Z" creationid="xccui" creationdate="20190618T055329Z">
+        <seg>如何你有函数需要一个无法序列化的对象实例，可以选择使用富函数在open()方法中将其初始化或</seg>
       </tuv>
     </tu>
     <tu>
