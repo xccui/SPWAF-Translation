@@ -4982,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another way to define keys and select fields is by using String-based field expres‐ sions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041433Z" creationid="xccui" creationdate="20190618T041433Z">
+        <seg>另一种定义键值和选择字段的方法是使用基于字符串的字段表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Answering a question by citing this book and quoting example code does not require permission.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210820Z" creationid="esouser" creationdate="20190603T210820Z">
@@ -8347,6 +8355,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145330Z" creationid="esouser" creationdate="20190603T145330Z">
         <seg>字段位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field expressions work for tuples, POJOs, and case classes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041522Z" creationid="xccui" creationdate="20190618T041522Z">
+        <seg>它可以可用于元组、POJO以及样例类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20202,8 +20218,8 @@
       <tuv lang="EN-US">
         <seg>The following example keys the input stream by the second field of the input tuple:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033243Z" creationid="xccui" creationdate="20190618T033243Z">
-        <seg>下方示例以输入元组的第二个字段作为输入流的键值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041329Z" creationid="xccui" creationdate="20190618T033243Z">
+        <seg>下方示例以输入元组的第2个字段作为输入流的键值：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23778,8 +23794,8 @@
       <tuv lang="EN-US">
         <seg>We can key the input stream by the second and third fields as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041209Z" creationid="xccui" creationdate="20190618T041209Z">
-        <seg>我们可以像下面这样利用第二、三字段作为输入流的键值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041320Z" creationid="xccui" creationdate="20190618T041209Z">
+        <seg>我们可以像下面这样利用第2、3字段作为输入流的键值：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26997,6 +27013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033251Z" creationid="xccui" creationdate="20190618T033251Z">
         <seg>val keyed = input.keyBy(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val keyed2 = input.keyBy(1, 2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041306Z" creationid="xccui" creationdate="20190618T041306Z">
+        <seg>val keyed2 = input.keyBy(1, 2)</seg>
       </tuv>
     </tu>
     <tu>
