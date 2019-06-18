@@ -3350,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A KeySelector function receives an input item and returns a key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051811Z" creationid="xccui" creationdate="20190618T051811Z">
+        <seg>KeySelector函数接受一个输入项，返回一个键值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A KeyedStream can be processed using the map, flatMap, and filter transformations that you saw earlier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045801Z" creationid="xccui" creationdate="20190614T045801Z">
