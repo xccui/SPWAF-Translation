@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// a filter lambda function that checks if tweets contains the word "flink"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055912Z" creationid="xccui" creationdate="20190618T055912Z">
+        <seg>// 用于检查是否包含"flink"一词的过滤器lambda函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// alternative: connect two keyed streams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050418Z" creationid="xccui" creationdate="20190615T050418Z">
@@ -15871,6 +15879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oftentimes there is a need to initialize a function before it processes the first record or to retrieve information about the context in which it is executed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060108Z" creationid="xccui" creationdate="20190618T060108Z">
+        <seg>很多时候我们需要在函数处理第一条记录之前进行一些初始化工作或是取得有关执行它的上下文信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the contrary, in continuously running stream&lt;t4/&gt;‐&lt;t5/&gt; ing jobs, state is durable across events and we can expose it as a first-class citizen in the programming model.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T053122Z" creationid="xccui" creationdate="20190414T054354Z">
@@ -19524,6 +19540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044525Z" creationid="xccui" creationdate="20190614T043951Z">
         <seg>作为一种特殊的DataStream，DataStream API中的KeyedStream抽象可以从逻辑上将事件按照键值分配到多条独立的子流中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DataStream API provides rich functions that expose more functionality than the regular functions discussed until now.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060242Z" creationid="xccui" creationdate="20190618T060242Z">
+        <seg>DataStream API提供了一类富函数，它和我们之前见到的普通函数相比可以对外提供更多功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27425,6 +27449,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val flinkTweets = tweets.filter(_.contains("flink"))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055915Z" creationid="xccui" creationdate="20190618T055915Z">
+        <seg>val flinkTweets = tweets.filter(_.contains("flink"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val flinkTweets = tweets.filter(new FlinkFilter)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054129Z" creationid="xccui" creationdate="20190618T054129Z">
@@ -27773,6 +27805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053851Z" creationid="xccui" creationdate="20190617T053851Z">
         <seg>val tupleType: TypeInformation[(Int, Long)] = Types.TUPLE[(Int, Long)]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val tweets: DataStream[String] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055841Z" creationid="xccui" creationdate="20190618T055841Z">
+        <seg>val tweets: DataStream[String] = ...</seg>
       </tuv>
     </tu>
     <tu>
