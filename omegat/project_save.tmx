@@ -8393,8 +8393,8 @@
       <tuv lang="EN-US">
         <seg>Field expressions work for tuples, POJOs, and case classes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041608Z" creationid="xccui" creationdate="20190618T041522Z">
-        <seg>它可以可用于元组、POJO以及样例类，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050859Z" creationid="xccui" creationdate="20190618T041522Z">
+        <seg>它可用于元组、POJO以及样例类，</seg>
       </tuv>
     </tu>
     <tu>
