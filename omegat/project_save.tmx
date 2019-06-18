@@ -10047,6 +10047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink serializes all function objects with Java serialization to ship them to the worker processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055202Z" creationid="xccui" creationdate="20190618T055202Z">
+        <seg>Flink会利用Java序列化机制将所有函数对象序列化后发送到对应的工作进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink supports Scala case classes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040631Z" creationid="xccui" creationdate="20190617T040631Z">
@@ -10787,6 +10795,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022917Z" creationid="xccui" creationdate="20190225T022917Z">
         <seg>函数类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions Must Be Java Serializable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055059Z" creationid="xccui" creationdate="20190618T055059Z">
+        <seg>函数必须是Java可序列化的</seg>
       </tuv>
     </tu>
     <tu>
@@ -21820,6 +21836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061719Z" creationid="xccui" creationdate="20190617T061659Z">
         <seg>其方法有二。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, all configuration values are preserved after the object is deserialized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054924Z" creationid="xccui" creationdate="20190618T054924Z">
+        <seg>这样在对象反序列化后，全部配置值都可以保留。</seg>
       </tuv>
     </tu>
     <tu>
