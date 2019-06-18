@@ -27233,6 +27233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val persons: DataStream[Person] = ... persons.keyBy("address.zip") // key by nested POJO field</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050133Z" creationid="xccui" creationdate="20190618T050133Z">
+        <seg>val persons: DataStream[Person] = ... persons.keyBy("address.zip") // 以嵌套的POJO字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val persons: DataStream[Person] = env.fromElements(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041128Z" creationid="xccui" creationdate="20190617T041128Z">
