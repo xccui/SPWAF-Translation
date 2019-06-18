@@ -20586,8 +20586,8 @@
       <tuv lang="EN-US">
         <seg>The introductory example actually uses a simple KeySelector function in the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051726Z" creationid="xccui" creationdate="20190618T051634Z">
-        <seg>开篇示例中其实就是在keyBy()方法中使用了一个简单的KeySelector函数：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051741Z" creationid="xccui" creationdate="20190618T051634Z">
+        <seg>开篇示例其实就是在keyBy()方法中使用了一个简单的KeySelector函数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26357,6 +26357,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050132Z" creationid="xccui" creationdate="20190614T050132Z">
         <seg>keyBy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>keyBy() method:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051732Z" creationid="xccui" creationdate="20190618T051732Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
