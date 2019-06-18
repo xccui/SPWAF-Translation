@@ -20952,6 +20952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The name of a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060732Z" creationid="xccui" creationdate="20190618T060732Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The network</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T041626Z" creationid="xccui" creationdate="20190504T041203Z">
@@ -27019,8 +27027,8 @@
       <tuv lang="EN-US">
         <seg>rich function starts with Rich followed by the transformation name—RichMapFunc tion, RichFlatMapFunction, and so on.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060721Z" creationid="xccui" creationdate="20190618T060721Z">
-        <seg>它的命名规则是以Rich开头，后面跟着普通转换函数的名字，例如：RichMapFunction、RichFlatMapFunction等</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060729Z" creationid="xccui" creationdate="20190618T060721Z">
+        <seg>它的命名规则是以Rich开头，后面跟着普通转换函数的名字，例如：RichMapFunction、RichFlatMapFunction等。</seg>
       </tuv>
     </tu>
     <tu>
