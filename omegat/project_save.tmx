@@ -6719,6 +6719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consider the following case classes:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T045952Z" creationid="xccui" creationdate="20190618T045952Z">
+        <seg>考虑以下样例类：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consider the following example of keying a stream of Tuple3[Int, Int, Int] on the first field and computing a rolling sum on the second field:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054958Z" creationid="xccui" creationdate="20190614T054424Z">
@@ -25753,6 +25761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>birthday: (Int, Int, Int), // year, month, day</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050008Z" creationid="xccui" creationdate="20190618T050008Z">
+        <seg>birthday: (Int, Int, Int), // 年、月、日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ble.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T041101Z" creationid="xccui" creationdate="20190414T041101Z">
@@ -25781,6 +25797,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050002Z" creationid="xccui" creationdate="20190616T045949Z">
         <seg>因为将所有事件发往同一任务可能会影响程序性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>case class Address( address: String, zip: String country: String)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T045954Z" creationid="xccui" creationdate="20190618T045954Z">
+        <seg>case class Address( address: String, zip: String country: String)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>case class Person( name: String,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T045958Z" creationid="xccui" creationdate="20190618T045958Z">
+        <seg>case class Person( name: String,</seg>
       </tuv>
     </tu>
     <tu>
