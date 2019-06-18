@@ -14823,6 +14823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lambda functions are avail‐ able for Scala and Java and offer a simple and concise way to implement application logic when no advanced operations such as accessing state and configuration are required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055802Z" creationid="xccui" creationdate="20190618T055802Z">
+        <seg>lambda函数可用于Scala或Java，它在不需要进行高级操作（例如访问状态或配置）的情况下提供了一种简洁明了的方式来实现应用逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last but not least, Flink is also a full-fledged batch processor.1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T121820Z" creationid="xccui" creationdate="20190605T121712Z">
@@ -15363,6 +15371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T202748Z" creationid="esouser" creationdate="20190603T202046Z">
         <seg>此外，数据经常需要转换为某种一般格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most DataStream API methods accept lambda functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055552Z" creationid="xccui" creationdate="20190618T055552Z">
+        <seg>大多数DataStream API的方法都接收lambda函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20436,6 +20452,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050622Z" creationid="xccui" creationdate="20190616T050622Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example show a lambda function that filters tweets contain‐ ing the word “flink”:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055838Z" creationid="xccui" creationdate="20190618T055838Z">
+        <seg>下面示例中的lambda函数会过滤出所有包含"flink"一词的推文：</seg>
       </tuv>
     </tu>
     <tu>
