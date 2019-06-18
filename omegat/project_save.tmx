@@ -6505,8 +6505,8 @@
       <tuv lang="EN-US">
         <seg>Composite keys consisting of more than one tuple field can also be defined.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033324Z" creationid="xccui" creationdate="20190618T033324Z">
-        <seg>此外还可以定义由多个元组字段组成的复合键值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033803Z" creationid="xccui" creationdate="20190618T033324Z">
+        <seg>还可以利用多个元组字段定义复合键值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13371,6 +13371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T210653Z" creationid="xccui" creationdate="20190412T210653Z">
         <seg>该情况下，延迟事件可能会在水位线之后到来，我们必须额外加一些代码来处理它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, the positions are provided as a list, one after the other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T040655Z" creationid="xccui" creationdate="20190618T033756Z">
+        <seg>只需将所有位置以列表的形式逐一提供即可。</seg>
       </tuv>
     </tu>
     <tu>
