@@ -27033,6 +27033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val input: DataStream[(Int, String, Long)] = ... val keyed1 = input.keyBy("2") // key by 3rd field val keyed2 = input.keyBy("_1") // key by 1st field</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T043349Z" creationid="xccui" creationdate="20190618T043341Z">
+        <seg>val input: DataStream[(Int, String, Long)] = ... val keyed1 = input.keyBy("2") // 以第3个字段为键值 val keyed2 = input.keyBy("_1") // 以第1个字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val inputStream: DataStream[(Int, Int, Int)] = env.fromElements( (1, 2, 2), (2, 3, 1), (2, 2, 4), (1, 5, 3))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054427Z" creationid="xccui" creationdate="20190614T054427Z">
