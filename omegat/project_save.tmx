@@ -4118,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A third option to specify keys are KeySelector functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050826Z" creationid="xccui" creationdate="20190618T050826Z">
+        <seg>第三种指定键值的方法是利用KeySelector函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A traditional approach to synchronize data in different storage systems is periodic ETL jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T062152Z" creationid="xccui" creationdate="20190604T055001Z">
