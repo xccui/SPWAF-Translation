@@ -6615,6 +6615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuration parameter is only used by the DataSet API and not by the Data‐ Stream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061320Z" creationid="xccui" creationdate="20190618T061320Z">
+        <seg>注意，Configuration参数只在DataSet API中使用而并没有在DataStream API中用到，因此需要将其忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuring Checkpointing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035400Z" creationid="xccui" creationdate="20190225T030042Z">
@@ -26837,6 +26845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T000316Z" creationid="xccui" creationdate="20190401T000316Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>open() is typically used for setup work that needs to be done only once.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061103Z" creationid="xccui" creationdate="20190618T061103Z">
+        <seg>open()通常用于那些只需进行一次的设置工作。</seg>
       </tuv>
     </tu>
     <tu>
