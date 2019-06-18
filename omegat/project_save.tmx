@@ -24024,6 +24024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We can parametrize the above example and pass the String "flink" as a parameter to the KeywordFilter constructor as shown below:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054636Z" creationid="xccui" creationdate="20190618T054636Z">
+        <seg>我们为上述示例添加参数并将"flink"字符串以参数形式传给KeywordFilter：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We can rewrite the filtering example in the Java DataStream API as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035150Z" creationid="xccui" creationdate="20190617T015621Z">
