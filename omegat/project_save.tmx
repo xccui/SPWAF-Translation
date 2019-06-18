@@ -13743,6 +13743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we explain the different ways in which you can define and para‐ metrize functions in the DataStream API in more detail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053322Z" creationid="xccui" creationdate="20190618T052914Z">
+        <seg>本节我们会对在DataStream API中定义和参数化函数的各种方式进行一个更加详细的解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we introduce time semantics and describe the different notions of time in streaming.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T210054Z" creationid="xccui" creationdate="20190409T205917Z">
@@ -25747,8 +25755,8 @@
       <tuv lang="EN-US">
         <seg>You’ve seen user-defined functions in action in the code examples of this chapter so far.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052830Z" creationid="xccui" creationdate="20190618T052830Z">
-        <seg>到目前位置，你已经在本章的代码示例中见到过定义用户自定义函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052928Z" creationid="xccui" creationdate="20190618T052830Z">
+        <seg>目前位置，你已经在本章的代码示例中见到过如何使用用户自定义函数。</seg>
       </tuv>
     </tu>
     <tu>
