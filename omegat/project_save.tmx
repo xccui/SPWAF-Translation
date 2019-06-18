@@ -13183,6 +13183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, the KeySelector function returns the maximum of the tuple fields as the key:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052138Z" creationid="xccui" creationdate="20190618T052138Z">
+        <seg>下面的示例中，KeySelector函数会返回元组中最大的字段作为键值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we briefly describe the contents and style of each chapter, so you can directly jump to the part that interests you most.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T163452Z" creationid="xccui" creationdate="20190225T163433Z">
@@ -20604,6 +20612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T221809Z" creationid="xccui" creationdate="20190607T221757Z">
         <seg>该映射的键和值可以是任意类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The key does not necessarily have to be a field of the input event but can be derived using arbitrary computations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052030Z" creationid="xccui" creationdate="20190618T052030Z">
+        <seg>这个键值不一定非要是输入事件中的一个字段，而是可以经由任意计算得来的。</seg>
       </tuv>
     </tu>
     <tu>
