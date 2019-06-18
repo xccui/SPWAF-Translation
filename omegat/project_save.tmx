@@ -7183,6 +7183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DataStream&lt;Tuple3&lt;Integer, String, Long&gt;&gt; javaInput = ... javaInput.keyBy("f2") // key Java tuple by 3rd field</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T043408Z" creationid="xccui" creationdate="20190618T043408Z">
+        <seg>DataStream&lt;Tuple3&lt;Integer, String, Long&gt;&gt; javaInput = ... javaInput.keyBy("f2") // Java元组以第3个字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dataflow Graphs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143808Z" creationid="esouser" creationdate="20190603T143808Z">
@@ -15259,6 +15267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041215Z" creationid="xccui" creationdate="20190611T041215Z">
         <seg>依次找到File -&gt; New -&gt; Project from Existing Sources，选择书中示例文件夹examples-scala，点击OK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nested fields in POJOs and tuples are selected by denoting the nesting level with a "." (period character).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T045900Z" creationid="xccui" creationdate="20190618T045900Z">
+        <seg>如需选择POJO和元组中嵌套字段，可以利用"." (英文句号)来区分嵌套级别。</seg>
       </tuv>
     </tu>
     <tu>
