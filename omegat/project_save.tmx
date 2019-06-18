@@ -26601,6 +26601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>persons.keyBy("birthday._") // key by all fields of nested tuple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050802Z" creationid="xccui" creationdate="20190618T050802Z">
+        <seg>persons.keyBy("birthday._") // 以元组中的全部字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>persons.keyBy("birthday._1") // key by field of nested tuple</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050632Z" creationid="xccui" creationdate="20190618T050632Z">
