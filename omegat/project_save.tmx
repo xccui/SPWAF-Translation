@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// KEY: the type of the key KeySelector[IN, KEY]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051050Z" creationid="xccui" creationdate="20190618T051050Z">
+        <seg>// KEY：键值类型 KeySelector[IN, KEY]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// O: the type of output elements FlatMapFunction[T, O]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061027Z" creationid="xccui" creationdate="20190613T061027Z">
@@ -3326,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A KeySelector function extracts a key from an input event:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051016Z" creationid="xccui" creationdate="20190618T050945Z">
+        <seg>它可以从输入事件中提取键值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A KeyedStream can be processed using the map, flatMap, and filter transformations that you saw earlier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045801Z" creationid="xccui" creationdate="20190614T045801Z">
@@ -4120,8 +4136,8 @@
       <tuv lang="EN-US">
         <seg>A third option to specify keys are KeySelector functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050826Z" creationid="xccui" creationdate="20190618T050826Z">
-        <seg>第三种指定键值的方法是利用KeySelector函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050950Z" creationid="xccui" creationdate="20190618T050826Z">
+        <seg>第三种指定键值的方法是使用KeySelector函数，</seg>
       </tuv>
     </tu>
     <tu>
