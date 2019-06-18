@@ -17432,6 +17432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rich functions can be parameterized just like regular function classes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060523Z" creationid="xccui" creationdate="20190618T060523Z">
+        <seg>富函数可以像普通函数类一样接收参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rolling aggregation transformations are applied on a KeyedStream and produce a DataStream of aggregates, such as sum, minimum, and maximum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052018Z" creationid="xccui" creationdate="20190614T052018Z">
@@ -27005,6 +27013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014703Z" creationid="xccui" creationdate="20190606T014703Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rich function starts with Rich followed by the transformation name—RichMapFunc tion, RichFlatMapFunction, and so on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060721Z" creationid="xccui" creationdate="20190618T060721Z">
+        <seg>它的命名规则是以Rich开头，后面跟着普通转换函数的名字，例如：RichMapFunction、RichFlatMapFunction等</seg>
       </tuv>
     </tu>
     <tu>
