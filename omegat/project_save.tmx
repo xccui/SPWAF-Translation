@@ -25937,6 +25937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and deserialization methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055451Z" creationid="xccui" creationdate="20190618T055451Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and that all input streams are reset to the position up to which they were consumed when the checkpoint was taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T044017Z" creationid="xccui" creationdate="20190609T044017Z">
