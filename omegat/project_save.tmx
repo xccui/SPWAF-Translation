@@ -24769,6 +24769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a program is submitted for execution, all function objects are serialized using Java serialization and shipped to all parallel tasks of their corresponding operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054831Z" creationid="xccui" creationdate="20190618T054831Z">
+        <seg>当程序提交执行时，所有参数对象都会利用Java自身的序列化机制进行序列化，然后传送到对应算子的所有并行任务上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a savepoint is taken, the states of all tasks are copied to a persistent storage location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215054Z" creationid="xccui" creationdate="20190609T214950Z">
@@ -26065,6 +26073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class KeywordFilter(keyWord: String) extends FilterFunction[String] { override def filter(value: String): Boolean = { value.contains(keyWord)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054645Z" creationid="xccui" creationdate="20190618T054645Z">
+        <seg>class KeywordFilter(keyWord: String) extends FilterFunction[String] { override def filter(value: String): Boolean = { value.contains(keyWord)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class MyMapFunction extends MapFunction[Int, Int] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020905Z" creationid="xccui" creationdate="20190613T020905Z">
@@ -27329,6 +27345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val flinkTweets = tweets.filter(new KeywordFilter("flink"))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054642Z" creationid="xccui" creationdate="20190618T054642Z">
+        <seg>val flinkTweets = tweets.filter(new KeywordFilter("flink"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val input : DataStream[(Int, Int)] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052152Z" creationid="xccui" creationdate="20190618T052152Z">
@@ -27661,6 +27685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053851Z" creationid="xccui" creationdate="20190617T053851Z">
         <seg>val tupleType: TypeInformation[(Int, Long)] = Types.TUPLE[(Int, Long)]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val tweets: DataStream[String] = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054638Z" creationid="xccui" creationdate="20190618T054638Z">
+        <seg>val tweets: DataStream[String] = ???</seg>
       </tuv>
     </tu>
     <tu>
