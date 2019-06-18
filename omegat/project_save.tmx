@@ -6617,8 +6617,8 @@
       <tuv lang="EN-US">
         <seg>Configuration parameter is only used by the DataSet API and not by the Data‐ Stream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061320Z" creationid="xccui" creationdate="20190618T061320Z">
-        <seg>注意，Configuration参数只在DataSet API中使用而并没有在DataStream API中用到，因此需要将其忽略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061335Z" creationid="xccui" creationdate="20190618T061320Z">
+        <seg>注意，Configuration参数只在DataSet API中使用而并没有在DataStream API中用到，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11163,6 +11163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T204156Z" creationid="xccui" creationdate="20190424T064522Z">
         <seg>因此能够做到在内部进程发生故障时也不终止运行就显得异常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, it should be ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061338Z" creationid="xccui" creationdate="20190618T061338Z">
+        <seg>因此需要将其忽略。</seg>
       </tuv>
     </tu>
     <tu>
