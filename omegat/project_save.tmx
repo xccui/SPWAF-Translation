@@ -20184,6 +20184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following example keys the input stream by the second field of the input tuple:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033243Z" creationid="xccui" creationdate="20190618T033243Z">
+        <seg>下方示例以输入元组的第二个字段作为输入流的键值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following example partitions a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050622Z" creationid="xccui" creationdate="20190616T050622Z">
