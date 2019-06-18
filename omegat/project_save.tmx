@@ -14327,6 +14327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to nest expressions on mixed types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050346Z" creationid="xccui" creationdate="20190618T050242Z">
+        <seg>还能够以混合类型嵌套表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is common that companies store the same data in multiple different systems to improve the performance of data accesses.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053952Z" creationid="xccui" creationdate="20190604T053931Z">
@@ -20300,6 +20308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040456Z" creationid="xccui" creationdate="20190617T040456Z">
         <seg>下面的例子展示了如何对Java元组的字段进行更新：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following expression accesses the field of a tuple nested in a POJO:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050556Z" creationid="xccui" creationdate="20190618T050556Z">
+        <seg>下方表达式用于访问嵌套在POJO中某一元组的字段：</seg>
       </tuv>
     </tu>
     <tu>
