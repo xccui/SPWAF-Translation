@@ -4984,7 +4984,7 @@
       <tuv lang="EN-US">
         <seg>Another way to define keys and select fields is by using String-based field expres‐ sions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041433Z" creationid="xccui" creationdate="20190618T041433Z">
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041602Z" creationid="xccui" creationdate="20190618T041433Z">
         <seg>另一种定义键值和选择字段的方法是使用基于字符串的字段表达式。</seg>
       </tuv>
     </tu>
@@ -8361,8 +8361,8 @@
       <tuv lang="EN-US">
         <seg>Field expressions work for tuples, POJOs, and case classes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041522Z" creationid="xccui" creationdate="20190618T041522Z">
-        <seg>它可以可用于元组、POJO以及样例类。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041608Z" creationid="xccui" creationdate="20190618T041522Z">
+        <seg>它可以可用于元组、POJO以及样例类，</seg>
       </tuv>
     </tu>
     <tu>
@@ -21752,6 +21752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They also support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041632Z" creationid="xccui" creationdate="20190618T041617Z">
+        <seg>同时还支持选择嵌套字段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are discussed further in “Declaring Keyed State at RuntimeCon‐ text” on page 154.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T223752Z" creationid="xccui" creationdate="20190607T223752Z">
@@ -26709,6 +26717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070115Z" creationid="xccui" creationdate="20190615T070115Z">
         <seg>亦或是可能应用逻辑要求某操作的所有任务接收相同的数据或按照自定义策略分发事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the selection of nested fields.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041634Z" creationid="xccui" creationdate="20190618T041634Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
