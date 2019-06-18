@@ -3622,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A function is implemented by implementing the interface or extending the abstract class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053826Z" creationid="xccui" creationdate="20190618T053826Z">
+        <seg>因此可以通过实现接口或继承抽象类的方式实现函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A highly available Flink setup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T194903Z" creationid="xccui" creationdate="20190606T194859Z">
@@ -9713,8 +9721,8 @@
       <tuv lang="EN-US">
         <seg>Flink exposes all interfaces for user-defined functions, such as MapFunction, Filter Function, and ProcessFunction, as interfaces or abstract classes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053724Z" creationid="xccui" creationdate="20190618T053724Z">
-        <seg>Flink中所有用户自定义函数（例如MapFunction、FilterFunction、ProcessFunction）都是以接口或抽象类的形式对外暴露。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053854Z" creationid="xccui" creationdate="20190618T053724Z">
+        <seg>Flink中所有用户自定义函数（例如MapFunction、FilterFunction、ProcessFunction）的接口都是以接口或抽象类的形式对外暴露，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13163,6 +13171,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061542Z" creationid="xccui" creationdate="20190616T061542Z">
         <seg>下面的示例中，数据源算子会以环境默认并行度执行，map转换的任务数是数据源的两倍，数据汇操作固定以两个并行任务执行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following example, we implement a FilterFunction that filters for strings that contain the word "flink":</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053958Z" creationid="xccui" creationdate="20190618T053958Z">
+        <seg>下面的例子中，我们实现了一个FilterFunction，用来过滤出所有包含"flink"一词的字符串。</seg>
       </tuv>
     </tu>
     <tu>
