@@ -11895,6 +11895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If we want to reference a person’s ZIP code, we can use a field expression:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050107Z" creationid="xccui" creationdate="20190618T050107Z">
+        <seg>如果我们想引用某人的邮政编码，可以使用字段表达式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are familiar with batch data processing APIs, functional programming languages, or SQL you will find the API concepts very easy to grasp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024103Z" creationid="xccui" creationdate="20190613T024059Z">
@@ -25677,6 +25685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T205838Z" creationid="esouser" creationdate="20190603T205838Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>address: Address)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050018Z" creationid="xccui" creationdate="20190618T050018Z">
+        <seg>address: Address)</seg>
       </tuv>
     </tu>
     <tu>
