@@ -6543,6 +6543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compared to field positions and field expressions, an advantage of KeySelector functions is that the resulting key is strongly typed due to the generic types of the KeySelector class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052507Z" creationid="xccui" creationdate="20190618T052507Z">
+        <seg>和使用字段位置以及字段表达式相比，KeySelector函数的一大好处是它返回的键值是强类型的，因为KeySelector类需要提供泛型参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complex data structures can also be stored as value state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T215859Z" creationid="xccui" creationdate="20190607T215731Z">
@@ -27209,6 +27217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val input : DataStream[(Int, Int)] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052152Z" creationid="xccui" creationdate="20190618T052152Z">
+        <seg>val input : DataStream[(Int, Int)] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val input: DataStream[(Int, String, Long)] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033254Z" creationid="xccui" creationdate="20190618T033254Z">
@@ -27301,6 +27317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042640Z" creationid="xccui" creationdate="20190618T042640Z">
         <seg>val keyedSensors = sensorStream.keyBy("id")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val keyedStream = input.keyBy(value =&gt; math.max(value._1, value._2))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052156Z" creationid="xccui" creationdate="20190618T052156Z">
+        <seg>val keyedStream = input.keyBy(value =&gt; math.max(value._1, value._2))</seg>
       </tuv>
     </tu>
     <tu>
