@@ -5663,6 +5663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you learned in “Timestamps” on page 47, time‐ stamps either exist in the data before entering the data processing pipeline, or are assigned by the application at the sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070828Z" creationid="xccui" creationdate="20190619T070828Z">
+        <seg>在第47页"时间戳"一节，你了解到了时间戳在数据进入处理管道之前就已经存在其中或者由应用在数据源处分配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you might imagine, supporting stateful operators comes with a few implementa‐ tion challenges:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032848Z" creationid="xccui" creationdate="20190606T032848Z">
@@ -8003,6 +8011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035338Z" creationid="xccui" creationdate="20190416T045936Z">
         <seg>在每个组件都提供自身的保障情况下，整个处理管道上端到端的保障会取决于保障最弱的那个组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each event carries a timestamp and the logical time of the system is defined by watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070339Z" creationid="xccui" creationdate="20190619T070339Z">
+        <seg>每个事件时间都带有一个时间戳，而系统的逻辑时间是由水位线来定义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27787,8 +27803,8 @@
       <tuv lang="EN-US">
         <seg>specifies that operators determine the current time by using information from</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070212Z" creationid="xccui" creationdate="20190619T070212Z">
-        <seg>指定</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070249Z" creationid="xccui" creationdate="20190619T070212Z">
+        <seg>指定算子根据数据自身的信息决定当前时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27917,6 +27933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070115Z" creationid="xccui" creationdate="20190615T070115Z">
         <seg>亦或是可能应用逻辑要求某操作的所有任务接收相同的数据或按照自定义策略分发事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the data itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070251Z" creationid="xccui" creationdate="20190619T070251Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
