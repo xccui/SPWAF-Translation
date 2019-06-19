@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// do some initialization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034334Z" creationid="xccui" creationdate="20190619T034334Z">
+        <seg>// 进行一些初始化工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// execute application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044712Z" creationid="xccui" creationdate="20190612T042805Z">
@@ -8369,8 +8377,8 @@
       <tuv lang="EN-US">
         <seg>Example 5-3 shows the methods of a RichFLatMapFunction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034206Z" creationid="xccui" creationdate="20190619T034206Z">
-        <seg>示例5-3，RichFlatMapFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034219Z" creationid="xccui" creationdate="20190619T034206Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -21120,6 +21128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The open() and close() methods of a RichFlatMapFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034240Z" creationid="xccui" creationdate="20190619T034231Z">
+        <seg>RichFlatMapFunction中的open()和close()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The open() method is an initialization method for the rich function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060850Z" creationid="xccui" creationdate="20190618T060850Z">
@@ -26313,6 +26329,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class MyFlatMap extends RichFlatMapFunction[Int, (Int, Int)] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034245Z" creationid="xccui" creationdate="20190619T034245Z">
+        <seg>class MyFlatMap extends RichFlatMapFunction[Int, (Int, Int)] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class MyMapFunction extends MapFunction[Int, Int] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020905Z" creationid="xccui" creationdate="20190613T020905Z">
@@ -26989,6 +27013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020909Z" creationid="xccui" creationdate="20190613T020909Z">
         <seg>override def map(value: Int): Int = value + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def open(configuration: Configuration): Unit = { subTaskIndex = getRuntimeContext.getIndexOfThisSubtask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034254Z" creationid="xccui" creationdate="20190619T034254Z">
+        <seg>override def open(configuration: Configuration): Unit = { subTaskIndex = getRuntimeContext.getIndexOfThisSubtask</seg>
       </tuv>
     </tu>
     <tu>
@@ -28021,6 +28053,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011820Z" creationid="xccui" creationdate="20190606T011820Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var subTaskIndex = 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034249Z" creationid="xccui" creationdate="20190619T034249Z">
+        <seg>var subTaskIndex = 0</seg>
       </tuv>
     </tu>
     <tu>
