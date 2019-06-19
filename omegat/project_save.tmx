@@ -23064,6 +23064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This yields a self- contained, yet typically quite large, application JAR file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041513Z" creationid="xccui" creationdate="20190619T041513Z">
+        <seg>这样会生成一个独立但通常很大的应用JAR文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threads are more lightweight than separate processes and have lower communication costs but do not strictly isolate tasks from each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T063219Z" creationid="xccui" creationdate="20190424T063109Z">
