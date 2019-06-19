@@ -14367,6 +14367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IngestionTime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071453Z" creationid="xccui" creationdate="20190619T071453Z">
+        <seg>IngestionTime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inspect the web dashboard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T042050Z" creationid="xccui" creationdate="20190329T040028Z">
@@ -14819,6 +14827,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042929Z" creationid="xccui" creationdate="20190617T042929Z">
         <seg>有一个公有的无参默认构造函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a hybrid of EventTime and ProcessingTime.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071529Z" creationid="xccui" creationdate="20190619T071529Z">
+        <seg>它其实是EventTime和ProcessingTime的混合体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27841,6 +27857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>specifies the processing time of the source operator as an event time timestamp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071451Z" creationid="xccui" creationdate="20190619T071451Z">
+        <seg>指定每个接收的记录都把在数据源算子的处理时间作为事件时间戳并且自动生成水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sponding input.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T043715Z" creationid="xccui" creationdate="20190615T043715Z">
@@ -28045,6 +28069,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051601Z" creationid="xccui" creationdate="20190612T051601Z">
         <seg>来连接传感器测量源，并创建出SensorReading类型的初始DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to each ingested record and automatically generates watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071459Z" creationid="xccui" creationdate="20190619T071459Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
