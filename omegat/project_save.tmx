@@ -13071,6 +13071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, using processing time for window operations results in nondeterministic results</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065807Z" creationid="xccui" creationdate="20190619T065807Z">
+        <seg>通常情况下，在窗口算子中使用处理时间会导致不确定的结果，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In long-running, streaming jobs, each of these tasks can fail at any time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042040Z" creationid="xccui" creationdate="20190415T041755Z">
@@ -17338,8 +17346,8 @@
       <tuv lang="EN-US">
         <seg>Processing- time windows trigger based on machine time and include whatever elements happen to have arrived at the operator until that point in time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065139Z" creationid="xccui" creationdate="20190619T065139Z">
-        <seg>处理时间窗口</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065433Z" creationid="xccui" creationdate="20190619T065139Z">
+        <seg>处理时间窗口基于机器时间触发，它涵盖了触发时间点之前所有到达算子的元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19274,8 +19282,8 @@
       <tuv lang="EN-US">
         <seg>StreamExecutionEnvironment and it takes the following values:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064839Z" creationid="xccui" creationdate="20190619T055332Z">
-        <seg>时间特性是StreamExecutionEnvironment的属性，它支持以下值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065200Z" creationid="xccui" creationdate="20190619T055332Z">
+        <seg>时间特性是StreamExecutionEnvironment的属性，它可以接收以下值：</seg>
       </tuv>
     </tu>
     <tu>
