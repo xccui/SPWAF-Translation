@@ -19258,8 +19258,8 @@
       <tuv lang="EN-US">
         <seg>StreamExecutionEnvironment and it takes the following values:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064607Z" creationid="xccui" creationdate="20190619T055332Z">
-        <seg>时间特性是StreamExecutionEnvironment的属性，它包含</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064709Z" creationid="xccui" creationdate="20190619T055332Z">
+        <seg>时间特性是StreamExecutionEnvironment的属性，它包含下列值：</seg>
       </tuv>
     </tu>
     <tu>
