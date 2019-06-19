@@ -6095,6 +6095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bundle all dependencies into the application JAR file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041343Z" creationid="xccui" creationdate="20190619T041343Z">
+        <seg>将所有依赖打进应用的JAR包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bundling and Deploying Applications in Containers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025949Z" creationid="xccui" creationdate="20190225T025949Z">
@@ -22148,6 +22156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T060205Z" creationid="xccui" creationdate="20190607T023422Z">
         <seg>根据作用域的不同，状态可以分为两类：算子状态和键值状态，我们会在接下来的几节介绍它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two ways to ensure all dependencies are available to an application when it is executed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041104Z" creationid="xccui" creationdate="20190619T041054Z">
+        <seg>有两种方法可以保证在执行应用时可以同时使用所有依赖：</seg>
       </tuv>
     </tu>
     <tu>
