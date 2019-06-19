@@ -9759,6 +9759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink also aims to keep its own external dependencies to a minimum and hides most of them (including tran‐ sitive dependencies) from user applications to prevent version conflicts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045122Z" creationid="xccui" creationdate="20190619T045122Z">
+        <seg>为了尽可能降低自身的外部依赖，Flink将很多依赖（包括传递依赖）都隐藏起来，对用户应用不可见，以此来避免版本冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink also features a type extraction system that analyzes the input and return types of functions to automatically obtain type information and hence serializers and deserial‐ izers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064254Z" creationid="xccui" creationdate="20190616T064035Z">
@@ -12233,8 +12241,8 @@
       <tuv lang="EN-US">
         <seg>If you take a step back and read the introductory example once more, you hopefully have a better idea about what is going on.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044357Z" creationid="xccui" creationdate="20190619T044357Z">
-        <seg>如果你回头再看一次开篇示例，希望能对它的行为有更好的理解。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044441Z" creationid="xccui" creationdate="20190619T044357Z">
+        <seg>如果回头再看一次开篇示例，希望你能对它的行为有一个更好的理解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12411,6 +12419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T042001Z" creationid="xccui" creationdate="20190607T041304Z">
         <seg>在第2章我们指出，大部分的流式应用都是有状态的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Chapter 6, things are going to get even more interesting—we will learn how to enrich our programs with window operators and time semantics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044618Z" creationid="xccui" creationdate="20190619T044618Z">
+        <seg>在第6章，我们将会接触到一些更加有趣的内容——学习如何利用窗口算子和时间语义来进一步丰富我们的程序。</seg>
       </tuv>
     </tu>
     <tu>
