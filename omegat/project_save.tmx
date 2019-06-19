@@ -13927,6 +13927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter, we will cover DataStream API methods for time handling and time- based operators, like windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T050036Z" creationid="xccui" creationdate="20190619T050036Z">
+        <seg>本章我们将介绍DataStream API中用于处理时间和方法以及基于时间的算子，例如窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter, you have learned the fundamental concepts and ideas of data stream processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T051435Z" creationid="xccui" creationdate="20190416T050432Z">
