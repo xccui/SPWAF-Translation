@@ -10905,8 +10905,8 @@
       <tuv lang="EN-US">
         <seg>Further, it includes methods for accessing partitioned state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033527Z" creationid="xccui" creationdate="20190619T033527Z">
-        <seg>另外它还涵盖了访问分区状态的方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033725Z" creationid="xccui" creationdate="20190619T033527Z">
+        <seg>另外它还提供了访问分区状态的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18744,6 +18744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stateful stream processing in Flink is discussed in detail in “Implementing Stateful Functions” on</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033814Z" creationid="xccui" creationdate="20190619T033814Z">
+        <seg>有关Flink中状态化流处理的内容会在154页"实现状态化函数"一节详细讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stateful stream processing is an application design pattern for processing unbounded streams of events and is applicable to many different use cases in the IT infrastructure of a com&lt;t0/&gt;‐&lt;t1/&gt; pany.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T034013Z" creationid="xccui" creationdate="20190301T202026Z">
@@ -19898,8 +19906,8 @@
       <tuv lang="EN-US">
         <seg>The RuntimeContext can be used to retrieve information such as the function’s parallelism, its subtask index, and the name of the task that executes the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033451Z" creationid="xccui" creationdate="20190619T033451Z">
-        <seg>RuntimeContext可用于获取一些信息，例如函数的并行度，它所在的子任务编号以及执行函数的任务名称。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033617Z" creationid="xccui" creationdate="20190619T033451Z">
+        <seg>从RuntimeContext能够获取一些信息，例如函数的并行度，它所在的子任务编号以及执行函数的任务名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20524,6 +20532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051701Z" creationid="xccui" creationdate="20190614T051701Z">
         <seg>以下代码针对SensorReading记录流将其中的id字段声明为键值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example code shows how to use the methods of a RichFlat MapFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033912Z" creationid="xccui" creationdate="20190619T033912Z">
+        <seg>以下示例代码展示了如何使用RichFlatMapFunction中的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26981,6 +26997,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053222Z" creationid="xccui" creationdate="20190617T053009Z">
         <seg>或者你可能需要定义自己的类型并告知Flink该如何高效地处理它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>page 154.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033816Z" creationid="xccui" creationdate="20190619T033816Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
