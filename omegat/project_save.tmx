@@ -9639,6 +9639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, we will discuss how to join streams on time and strategies to handle late events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T053439Z" creationid="xccui" creationdate="20190619T053439Z">
+        <seg>最后我们会讨论如何基于时间对数据流进行联结以及处理延迟事件的策略。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, you have seen why state is important in streaming applications and how you can guard it against failures and guarantee correct results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T051729Z" creationid="xccui" creationdate="20190416T051720Z">
@@ -23612,6 +23620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T045427Z" creationid="esouser" creationdate="20190603T162900Z">
         <seg>截至目前，项目已经有超过470名贡献者，并在不断普及的过程中逐渐演变为开源界最为复杂的流处理引擎之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To define time operations in a distributed stream processing application, it is impor‐ tant to understand the meaning of time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T054843Z" creationid="xccui" creationdate="20190619T054843Z">
+        <seg>为了在分布式流处理应用中定义时间操作，准确理解时间的含义非常重要。</seg>
       </tuv>
     </tu>
     <tu>
