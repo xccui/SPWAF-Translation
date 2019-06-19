@@ -4360,8 +4360,8 @@
       <tuv lang="EN-US">
         <seg>Adding external dependencies is a common requirement when implementing Flink applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034645Z" creationid="xccui" creationdate="20190619T034645Z">
-        <seg>在实现Flink应用时经常需要添加一些外部依赖。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034708Z" creationid="xccui" creationdate="20190619T034645Z">
+        <seg>在实现Flink应用时经常需要添加一些外部依赖，</seg>
       </tuv>
     </tu>
     <tu>
