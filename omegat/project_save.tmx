@@ -26777,6 +26777,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>monly used for cleanup and releasing resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033155Z" creationid="xccui" creationdate="20190619T033155Z">
+        <seg>因而它通常用于清理和释放资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>more processing slots.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205902Z" creationid="xccui" creationdate="20190428T205902Z">
