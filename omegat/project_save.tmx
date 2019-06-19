@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>108 | Chapter 5: The DataStream API (v1.7)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045411Z" creationid="xccui" creationdate="20190619T045411Z">
+        <seg>108 | 第5章：DataStream API （1.7版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>109</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145701Z" creationid="esouser" creationdate="20190603T145701Z">
