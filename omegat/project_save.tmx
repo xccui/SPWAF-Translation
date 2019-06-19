@@ -7519,6 +7519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dependencies included in the classpath of Flink processes by default are automatically excluded from the JAR file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043140Z" creationid="xccui" creationdate="20190619T043140Z">
+        <seg>默认情况下，Flink进程的classpath中所包含的依赖会被自动从JAR包中剔除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on    the environment (YARN, Mesos, Kubernetes, standalone cluster), some steps can be omitted or components might run in the same JVM process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143250Z" creationid="xccui" creationdate="20190606T143213Z">
