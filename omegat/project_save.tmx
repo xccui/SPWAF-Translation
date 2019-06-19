@@ -13319,6 +13319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to use processing time, replace TimeCharacteristic.EventTime with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T073049Z" creationid="xccui" creationdate="20190619T073049Z">
+        <seg>如果需要使用处理时间，请将TimeCharacteristic.EventTime替换为TimeCharacteristic.ProcessingTime。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In other words, events can be simply dropped and nothing is done to ensure result correctness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034357Z" creationid="xccui" creationdate="20190606T034357Z">
