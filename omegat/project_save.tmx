@@ -8399,6 +8399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EventTime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070157Z" creationid="xccui" creationdate="20190619T070157Z">
+        <seg>EventTime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Events are buffered in the player’s phone and delivered to the application when the network connection is restored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190411T153031Z" creationid="xccui" creationdate="20190411T153031Z">
@@ -27777,10 +27785,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>specifies that operators determine the current time by using information from</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070212Z" creationid="xccui" creationdate="20190619T070212Z">
+        <seg>指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>specifies that operators determine the current time of the data stream according</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065119Z" creationid="xccui" creationdate="20190619T065107Z">
-        <seg>表示算子根据处理机器的系统时钟决定数据流当前的时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070216Z" creationid="xccui" creationdate="20190619T065107Z">
+        <seg>指定算子根据处理机器的系统时钟决定数据流当前的时间。</seg>
       </tuv>
     </tu>
     <tu>
