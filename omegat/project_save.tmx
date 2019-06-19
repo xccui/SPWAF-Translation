@@ -15415,6 +15415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, most Flink applications depend on one or more of Flink’s connectors to ingest data from or emit data to external sys‐ tems, like Apache Kafka, filesystems, or Apache Cassandra.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035050Z" creationid="xccui" creationdate="20190619T035050Z">
+        <seg>此外，大多数Flink应用都会依赖一个或多个Flink的连接器来读写外部系统（例如：Apache Kafka、文件系统或Apache Cassandra）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, results were still dependent on timing and order of arriving events, i.e., the results did not depend solely on the data but also on exter&lt;t2/&gt;‐&lt;t3/&gt; nal conditions such as the hardware utilization.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T050519Z" creationid="xccui" creationdate="20190327T050502Z">
@@ -18396,6 +18404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235232Z" creationid="xccui" creationdate="20190605T235232Z">
         <seg>既然这样，可以通过某种方式同时获得低延迟和高吞吐吗？还是说根本不切实际？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some applications also leverage Flink’s domain-specific libraries, such as the Table API, SQL, or the CEP library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035212Z" creationid="xccui" creationdate="20190619T035212Z">
+        <seg>还有一些应用需要用到Flink一些特定领域的库（例如：Table API、SQL或CEP库）。</seg>
       </tuv>
     </tu>
     <tu>
