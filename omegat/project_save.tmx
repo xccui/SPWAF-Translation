@@ -12231,6 +12231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you take a step back and read the introductory example once more, you hopefully have a better idea about what is going on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044357Z" creationid="xccui" creationdate="20190619T044357Z">
+        <seg>如果你回头再看一次开篇示例，希望能对它的行为有更好的理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your function requires a nonserializable object instance, you can either implement it as a rich function and initialize the nonserializ‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055521Z" creationid="xccui" creationdate="20190618T055329Z">
