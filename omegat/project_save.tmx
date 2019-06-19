@@ -7511,6 +7511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defining Keys and Referencing Fields | 103</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045324Z" creationid="xccui" creationdate="20190619T045324Z">
+        <seg>定义键值和引用字段 | 103</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defining Slot Sharing Groups</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030021Z" creationid="xccui" creationdate="20190225T030021Z">
