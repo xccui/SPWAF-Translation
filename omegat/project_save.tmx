@@ -3622,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dependency that is added to the classpath like this is available to (and might interfere with) all applications that run on the Flink setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T042001Z" creationid="xccui" creationdate="20190619T042001Z">
+        <seg>像这样加入classpath的依赖会对一个Flink设置中所有运行的应用可见（可能会产生干扰）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A failure can occur during any of these steps and the system has to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042813Z" creationid="xccui" creationdate="20190415T042639Z">
@@ -13695,6 +13703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, the dependencies are loaded into the classpath when Flink processes are started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041732Z" creationid="xccui" creationdate="20190619T041732Z">
+        <seg>这样在Flink进程启动时就会将依赖加载到classpath中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, the positions are provided as a list, one after the other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T040655Z" creationid="xccui" creationdate="20190618T033756Z">
@@ -19828,6 +19844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023305Z" creationid="xccui" creationdate="20190225T023305Z">
         <seg>The Interval Join</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The JAR file of a dependency can be added to the ./lib folder of a Flink setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041644Z" creationid="xccui" creationdate="20190619T041644Z">
+        <seg>可以将依赖的JAR包放到设置Flink的./lib目录中。</seg>
       </tuv>
     </tu>
     <tu>
