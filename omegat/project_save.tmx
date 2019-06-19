@@ -19848,6 +19848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Flink Maven archetypes we introduced in “Bootstrap a Flink Maven Project” on page 76 generate Maven projects that are configured to produce application-fat JARs that include all required dependencies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043037Z" creationid="xccui" creationdate="20190619T043037Z">
+        <seg>我们在第76页"创建Flink Maven项目"中介绍了利用Flink Maven模板生成Maven项目，其中就加入了生成包含全部所需依赖的胖JAR的配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Interval Join</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023305Z" creationid="xccui" creationdate="20190225T023305Z">
