@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// subtasks are 0-indexed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034418Z" creationid="xccui" creationdate="20190619T034418Z">
+        <seg>// 子任务编号从0开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// sum the second field of the tuple in place</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054727Z" creationid="xccui" creationdate="20190614T054550Z">
@@ -26989,6 +26997,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054238Z" creationid="xccui" creationdate="20190618T054238Z">
         <seg>override def filter(value: String): Boolean = { value.contains("flink")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def flatMap(in: Int, out: Collector[(Int, Int)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034402Z" creationid="xccui" creationdate="20190619T034402Z">
+        <seg>override def flatMap(in: Int, out: Collector[(Int, Int)]): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
