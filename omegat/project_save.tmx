@@ -15743,6 +15743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T032826Z" creationid="xccui" creationdate="20190619T032826Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the application and the savepoint must be compatible—the application must be able to load the state of the savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212525Z" creationid="xccui" creationdate="20190609T212448Z">
@@ -20180,6 +20188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T224148Z" creationid="xccui" creationdate="20190608T224148Z">
         <seg>在所有任务完成自己的拷贝工作后，检查点生成完毕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The close() method is a finalization method for the function and it is called once per task after the last call of the transformation method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033120Z" creationid="xccui" creationdate="20190619T033120Z">
+        <seg>close()作为函数的终止方法会在每个任务的转换方法调用结束后调用一次。</seg>
       </tuv>
     </tu>
     <tu>
