@@ -22354,8 +22354,8 @@
       <tuv lang="EN-US">
         <seg>The window result will not depend on how fast the stream is read or processed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071135Z" creationid="xccui" creationdate="20190619T071135Z">
-        <seg>窗口</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071159Z" creationid="xccui" creationdate="20190619T071135Z">
+        <seg>窗口结果不会取决于数据流的读取或处理速度。</seg>
       </tuv>
     </tu>
     <tu>
