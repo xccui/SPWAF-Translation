@@ -4358,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding external dependencies is a common requirement when implementing Flink applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034645Z" creationid="xccui" creationdate="20190619T034645Z">
+        <seg>在实现Flink应用时经常需要添加一些外部依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional require&lt;t2/&gt;‐&lt;t3/&gt; ments to successfully support streaming analytics applications are support for event-time processing in order to produce correct and deterministic results and the ability to process large amounts of data in little time, i.e., high throughput.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T033210Z" creationid="xccui" creationdate="20190319T033109Z">
