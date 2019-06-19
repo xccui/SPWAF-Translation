@@ -23408,6 +23408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045937Z" creationid="xccui" creationdate="20190619T045937Z">
+        <seg>基于时间和窗口的算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time-Based and Window Operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145657Z" creationid="esouser" creationdate="20190603T145657Z">
