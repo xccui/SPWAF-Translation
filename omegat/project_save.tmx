@@ -13447,6 +13447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Data‐ Stream API, you can use the time characteristic to tell Flink how to define time when you are creating windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T055236Z" creationid="xccui" creationdate="20190619T055236Z">
+        <seg>在DataStream API中，你可以使用时间特性告诉Flink在创建窗口时如何定义时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Java DataStream API, you can also use the returns() method to explicitly specify the return type of an operator when defining the dataflow as shown in the fol‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062203Z" creationid="xccui" creationdate="20190617T062203Z">
@@ -19244,6 +19252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T040818Z" creationid="xccui" creationdate="20190415T040248Z">
         <seg>流式作业会运行较长时间，因此状态可能是数天甚至数月才收集而来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StreamExecutionEnvironment and it takes the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T055332Z" creationid="xccui" creationdate="20190619T055332Z">
+        <seg>时间特性是StreamExecutionEnvironment的属性</seg>
       </tuv>
     </tu>
     <tu>
