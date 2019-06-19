@@ -4934,6 +4934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An event-time window triggers when the watermarks declare that all timestamps for a certain time interval have been received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071049Z" creationid="xccui" creationdate="20190619T071049Z">
+        <seg>当水位线表明某个时间间隔内所有时间戳都已接收时，事件时间窗口才会触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example application would be a real-time monitoring dashboard that displays event aggregates as they are received.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031104Z" creationid="xccui" creationdate="20190414T043802Z">
@@ -8411,6 +8419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T054107Z" creationid="xccui" creationdate="20190605T054107Z">
         <seg>事件时间语义能够针对无序事件提供一致、精确的结果；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Event-time windows compute deterministic results even when events arrive out of order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071120Z" creationid="xccui" creationdate="20190619T071120Z">
+        <seg>即便事件乱序到达，事件时间窗口也会计算出确定的结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22332,6 +22348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210738Z" creationid="esouser" creationdate="20190603T210738Z">
         <seg>The views expressed in this work are those of the authors, and do not represent the publisher’s views.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The window result will not depend on how fast the stream is read or processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071135Z" creationid="xccui" creationdate="20190619T071135Z">
+        <seg>窗口</seg>
       </tuv>
     </tu>
     <tu>
