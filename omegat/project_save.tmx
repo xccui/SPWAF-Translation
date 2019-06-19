@@ -6095,6 +6095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building a so-called fat JAR file is the preferred way to handle application dependen‐ cies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T042139Z" creationid="xccui" creationdate="20190619T042139Z">
+        <seg>我们推荐使用构建所谓胖JAR的方式来处理应用依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Built-in Window Assigners</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023153Z" creationid="xccui" creationdate="20190225T023153Z">
