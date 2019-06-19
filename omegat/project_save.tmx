@@ -10903,6 +10903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further, it includes methods for accessing partitioned state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033527Z" creationid="xccui" creationdate="20190619T033527Z">
+        <seg>另外它还涵盖了访问分区状态的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Furthermore, Flink can reset the state of an application to a previous savepoint, making it possible to evolve or rescale an application without losing its state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053639Z" creationid="xccui" creationdate="20190604T052208Z">
@@ -12459,6 +12467,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T203905Z" creationid="xccui" creationdate="20190609T203841Z">
         <seg>除此之外，RocksDB状态后端还支持增量生成检查点，这可以降低需要传输的数据量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, the method getRuntimeContext() provides access to the function’s Run timeContext.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033317Z" creationid="xccui" creationdate="20190619T033317Z">
+        <seg>此外，可以利用getRuntimeContext()方法访问函数的RuntimeContext。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19880,6 +19896,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The RuntimeContext can be used to retrieve information such as the function’s parallelism, its subtask index, and the name of the task that executes the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033451Z" creationid="xccui" creationdate="20190619T033451Z">
+        <seg>RuntimeContext可用于获取一些信息，例如函数的并行度，它所在的子任务编号以及执行函数的任务名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Scala DataStream API also has built-in support for lambda functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022408Z" creationid="xccui" creationdate="20190613T022402Z">
@@ -26493,6 +26517,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053814Z" creationid="xccui" creationdate="20190617T053801Z">
         <seg>它的用法如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033454Z" creationid="xccui" creationdate="20190619T033454Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
