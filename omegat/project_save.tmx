@@ -630,10 +630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// do some cleanup, e.g., close connections to external systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034545Z" creationid="xccui" creationdate="20190619T034545Z">
+        <seg>// 做一些清理工作，例如关闭和外部系统的连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// do some initialization</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034334Z" creationid="xccui" creationdate="20190619T034334Z">
         <seg>// 进行一些初始化工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// do some more processing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034522Z" creationid="xccui" creationdate="20190619T034459Z">
+        <seg>// 做一些额外处理工作</seg>
       </tuv>
     </tu>
     <tu>
@@ -26641,6 +26657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if(in % 2 == subTaskIndex) { out.collect((subTaskIndex, in))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034505Z" creationid="xccui" creationdate="20190619T034505Z">
+        <seg>if(in % 2 == subTaskIndex) { out.collect((subTaskIndex, in))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iii</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035452Z" creationid="xccui" creationdate="20190418T035452Z">
@@ -26989,6 +27013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045238Z" creationid="xccui" creationdate="20190504T045238Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def close(): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034524Z" creationid="xccui" creationdate="20190619T034524Z">
+        <seg>override def close(): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
