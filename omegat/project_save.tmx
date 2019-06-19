@@ -16015,6 +16015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Often, these include frequently used libraries, such as Apache Commons or Google’s Guava.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T040525Z" creationid="xccui" creationdate="20190619T040525Z">
+        <seg>这些依赖通常包括一些诸如Apache Commons或Google Guava等常用库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Often, this data was either unstruc&lt;t0/&gt;‐&lt;t1/&gt; tured, i.e., not strictly following a relational schema, or too voluminous to be cost-effectively stored in a relational database system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T210826Z" creationid="xccui" creationdate="20190228T210612Z">
