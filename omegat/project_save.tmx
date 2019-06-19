@@ -20546,8 +20546,8 @@
       <tuv lang="EN-US">
         <seg>The following example code shows how to use the methods of a RichFlat MapFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033912Z" creationid="xccui" creationdate="20190619T033912Z">
-        <seg>以下示例代码展示了如何使用RichFlatMapFunction中的方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034214Z" creationid="xccui" creationdate="20190619T033912Z">
+        <seg>示例5-3展示了如何使用RichFlatMapFunction中的方法。</seg>
       </tuv>
     </tu>
     <tu>
