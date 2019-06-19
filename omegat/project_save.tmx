@@ -21504,6 +21504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reason for this is to keep the number of default dependencies low.4 Most connec‐ tors and libraries rely on one or more libraries, which typically have several addi‐ tional transitive dependencies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035840Z" creationid="xccui" creationdate="20190619T035840Z">
+        <seg>之所以这么做是为了保持默认依赖的简洁性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rebalance() method partitions the input stream so that events are evenly distributed to successor tasks in a round-robin fashion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043412Z" creationid="xccui" creationdate="20190616T043105Z">
