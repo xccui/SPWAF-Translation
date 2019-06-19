@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// ingest sensor stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T072814Z" creationid="xccui" creationdate="20190619T072814Z">
+        <seg>// 读入传感器流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// keyBy two connected streams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050345Z" creationid="xccui" creationdate="20190615T050140Z">
@@ -16303,6 +16311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of course, you can still use processing-time windows and timers if you choose the EventTime time characteristic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T073009Z" creationid="xccui" creationdate="20190619T073009Z">
+        <seg>当然，即便选择EventTime时间特性，仍然可以使用处理时间窗口和定时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Often are features of these newcomers being adop&lt;t0/&gt;‐&lt;t1/&gt; ted by more stream processors of earlier generations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T014815Z" creationid="xccui" creationdate="20190319T055501Z">
@@ -18428,6 +18444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022755Z" creationid="xccui" creationdate="20190225T022755Z">
         <seg>设置并发度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting the time characteristic to EventTime enables timestamp and watermark handling, and as a result, event-time operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T072909Z" creationid="xccui" creationdate="20190619T072909Z">
+        <seg>将时间特性设置为EventTime后就可以对时间戳和水印进行处理，从而实现事件时间操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28645,6 +28669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042047Z" creationid="xccui" creationdate="20190612T042047Z">
         <seg>val sensorData: DataStream[SensorReading] = env</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorData: DataStream[SensorReading] = env.addSource(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T072817Z" creationid="xccui" creationdate="20190619T072817Z">
+        <seg>val sensorData: DataStream[SensorReading] = env.addSource(...)</seg>
       </tuv>
     </tu>
     <tu>
