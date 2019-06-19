@@ -15887,6 +15887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next, we will get to use Flink’s window API, which provides built-in implementations of the most common window types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T053031Z" creationid="xccui" creationdate="20190619T053031Z">
+        <seg>接下面我们会讲到Flink的窗口API，它针对几个最为常用的窗口类型都提供了内置实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next, we will guide you through the process of starting a local cluster and executing a first streaming application in order to give you a first impression of Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T054710Z" creationid="xccui" creationdate="20190328T054710Z">
@@ -26421,6 +26429,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123930Z" creationid="xccui" creationdate="20190605T123849Z">
         <seg>你会看到文件中写入了和下面类似的文本行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will also get an introduction to custom, user-defined window operations and core windowing constructs, such as assigners, triggers, and evictors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T053336Z" creationid="xccui" creationdate="20190619T053336Z">
+        <seg>此外你还将了解用户自定义窗口操作以及窗口中的核心结构，例如：分配器、触发器和移除器。</seg>
       </tuv>
     </tu>
     <tu>
