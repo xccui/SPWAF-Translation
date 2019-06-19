@@ -12335,6 +12335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Implementing Functions | 105</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045347Z" creationid="xccui" creationdate="20190619T045347Z">
+        <seg>实现函数 | 105</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implementing Operator List State with the ListCheckpointed Interface</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024556Z" creationid="xccui" creationdate="20190225T024556Z">
