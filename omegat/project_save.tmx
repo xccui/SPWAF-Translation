@@ -8367,6 +8367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 5-3 shows the methods of a RichFLatMapFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034206Z" creationid="xccui" creationdate="20190619T034206Z">
+        <seg>示例5-3，RichFlatMapFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 5-3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T031010Z" creationid="xccui" creationdate="20190618T031010Z">
