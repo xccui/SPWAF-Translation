@@ -6743,6 +6743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, most Flink applications do not only depend on Flink’s Data‐ Stream API dependency and the Java SDK but also on additional third-party and Flink-internal dependencies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035413Z" creationid="xccui" creationdate="20190619T035413Z">
+        <seg>因此大多数Flink应用不仅需要依赖Flink的DataStream API和Java SDK，还需要额外的第三方库和Flink内部依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, records of both inputs are processed based on the same event-time clock.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T030644Z" creationid="xccui" creationdate="20190607T030436Z">
@@ -14043,6 +14051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022940Z" creationid="xccui" creationdate="20190225T022940Z">
         <seg>导入外部和Flink依赖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Including External and Flink Dependencies | 107</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035424Z" creationid="xccui" creationdate="20190619T035424Z">
+        <seg>导入外部和Flink依赖 | 107</seg>
       </tuv>
     </tu>
     <tu>
