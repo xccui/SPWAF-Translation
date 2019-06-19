@@ -15215,6 +15215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many problems originate from incompatibili‐ ties among different versions of the same library that are pulled in from different connectors or directly from the user application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041008Z" creationid="xccui" creationdate="20190619T041008Z">
+        <seg>连接器或用户程序使用的类库一多就容易出现使用了同一库的多个版本，很多问题都是源于这些版本之间相互不兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Map</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T044721Z" creationid="xccui" creationdate="20190613T044721Z">
