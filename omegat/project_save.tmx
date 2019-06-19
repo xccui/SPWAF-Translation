@@ -17336,6 +17336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Processing- time windows trigger based on machine time and include whatever elements happen to have arrived at the operator until that point in time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065139Z" creationid="xccui" creationdate="20190619T065139Z">
+        <seg>处理时间窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processing-time can be applicable for applications with very low latency requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T042414Z" creationid="xccui" creationdate="20190328T042346Z">
@@ -17364,6 +17372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T030804Z" creationid="xccui" creationdate="20190606T030730Z">
         <seg>例如：处理时间窗口能够将延迟降至最低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ProcessingTime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064851Z" creationid="xccui" creationdate="20190619T064851Z">
+        <seg>ProcessingTime</seg>
       </tuv>
     </tu>
     <tu>
@@ -27737,6 +27753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>specifies that operators determine the current time of the data stream according</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065119Z" creationid="xccui" creationdate="20190619T065107Z">
+        <seg>表示算子根据处理机器的系统时钟决定数据流当前的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sponding input.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T043715Z" creationid="xccui" creationdate="20190615T043715Z">
@@ -27941,6 +27965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045900Z" creationid="xccui" creationdate="20190612T045805Z">
         <seg>来指定程序使用事件时间作为其时间语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to the system clock of the machine where they are being executed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065121Z" creationid="xccui" creationdate="20190619T065121Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
