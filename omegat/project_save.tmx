@@ -13775,6 +13775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter we introduced the basics of Flink’s DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043534Z" creationid="xccui" creationdate="20190619T043534Z">
+        <seg>本章我们介绍了Flink DataStream API的基础知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter you learned how to set up an environment to develop and debug Flink DataStream applications and how to generate a Maven project using Flink’s Maven archetype.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010845Z" creationid="xccui" creationdate="20190612T010845Z">
@@ -24684,6 +24692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T125656Z" creationid="xccui" creationdate="20190605T125312Z">
         <seg>我们讨论了开源流处理系统如何从二十世纪初逐步进化，成为当今许多企业用例的可行解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We examined the structure of Flink programs and learned how to combine data and partitioning trans‐ formations to build streaming applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044025Z" creationid="xccui" creationdate="20190619T044025Z">
+        <seg>我们研究了Flink程序的结构，学习了如何将数据和分区转换结合来构建流式应用。</seg>
       </tuv>
     </tu>
     <tu>
