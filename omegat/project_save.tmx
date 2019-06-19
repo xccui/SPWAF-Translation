@@ -24392,6 +24392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We also looked into supported data types and different ways to specify keys and user-defined functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044237Z" creationid="xccui" creationdate="20190619T044237Z">
+        <seg>我们还了解了Flink支持的数据类型以及用于指定键值和用户自定义函数的多种方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We also provide complete example applications implemented in Java and Scala in our GitHub repositories.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034647Z" creationid="xccui" creationdate="20190612T034647Z">
