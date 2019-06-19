@@ -7521,8 +7521,8 @@
       <tuv lang="EN-US">
         <seg>Dependencies included in the classpath of Flink processes by default are automatically excluded from the JAR file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043140Z" creationid="xccui" creationdate="20190619T043140Z">
-        <seg>默认情况下，Flink进程的classpath中所包含的依赖会被自动从JAR包中剔除。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043234Z" creationid="xccui" creationdate="20190619T043140Z">
+        <seg>默认情况下，JAR包中会自动排除那些Flink进程的classpath中所包含的依赖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21460,6 +21460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052803Z" creationid="xccui" creationdate="20190616T052730Z">
         <seg>环境的并行度（即所有算子的默认并行度）会根据应用启动时所处的上下文自动初始化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pom.xml file of a generated Maven project contains comments that explain how to add additional dependencies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043504Z" creationid="xccui" creationdate="20190619T043504Z">
+        <seg>生成的Maven项目中的pom.xml文件包含了教你如何添加额外依赖的注释。</seg>
       </tuv>
     </tu>
     <tu>
