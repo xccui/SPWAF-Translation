@@ -4582,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All other dependencies an application requires must be explicitly provided.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035725Z" creationid="xccui" creationdate="20190619T035725Z">
+        <seg>应用的其它依赖必须显式提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All records that are processed by a Flink event-time streaming application must be accompanied by a timestamp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T035343Z" creationid="xccui" creationdate="20190523T035328Z">
@@ -6171,6 +6179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045619Z" creationid="xccui" creationdate="20190615T045619Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, only the core API dependencies (DataStream and DataSet APIs) are loaded by a Flink cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035728Z" creationid="xccui" creationdate="20190619T035618Z">
+        <seg>默认情况下，Flink集群只会加载核心API依赖（DataStream和DataSet API），</seg>
       </tuv>
     </tu>
     <tu>
@@ -25149,6 +25165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T212916Z" creationid="xccui" creationdate="20190606T212913Z">
         <seg>当任务接收到一条水位线记录时会执行以下操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an application is executed, all of its dependencies must be available to the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035540Z" creationid="xccui" creationdate="20190619T035540Z">
+        <seg>应用在执行时，必须能够访问到所有依赖。</seg>
       </tuv>
     </tu>
     <tu>
