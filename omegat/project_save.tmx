@@ -6399,6 +6399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAPTER 6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045924Z" creationid="xccui" creationdate="20190619T045924Z">
+        <seg>第6章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025545Z" creationid="xccui" creationdate="20190225T025545Z">
