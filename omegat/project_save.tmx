@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// e.g., establish a connection to an external system</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034357Z" creationid="xccui" creationdate="20190619T034357Z">
+        <seg>// 例如和外部系统建立连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// execute application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044712Z" creationid="xccui" creationdate="20190612T042805Z">
