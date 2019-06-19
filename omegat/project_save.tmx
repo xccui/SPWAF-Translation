@@ -23320,6 +23320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thus, it is com‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045436Z" creationid="xccui" creationdate="20190619T045436Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus, the latency is bounded by the arrival time of the last event in each batch and naturally depends on the batch size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T200248Z" creationid="xccui" creationdate="20190401T193810Z">
