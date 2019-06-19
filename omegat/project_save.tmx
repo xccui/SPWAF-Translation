@@ -5655,6 +5655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you learned in “Time Semantics”, Flink’s time- based operators can be applied with different notions of time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T050236Z" creationid="xccui" creationdate="20190619T050204Z">
+        <seg>正如你在"时间语义"一节所学到的，Flink内部基于时间的算子可以在不同的时间概念下使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you might imagine, supporting stateful operators comes with a few implementa‐ tion challenges:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032848Z" creationid="xccui" creationdate="20190606T032848Z">
@@ -9739,6 +9747,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035700Z" creationid="xccui" creationdate="20190612T035700Z">
         <seg>首先来看一下传感器读取数据的数据类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, we will learn how to define time characteristics, timestamps, and watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T050417Z" creationid="xccui" creationdate="20190619T050417Z">
+        <seg>首先我们将学习如何定义时间特征、时间戳及水位线。</seg>
       </tuv>
     </tu>
     <tu>
