@@ -23626,8 +23626,8 @@
       <tuv lang="EN-US">
         <seg>To define time operations in a distributed stream processing application, it is impor‐ tant to understand the meaning of time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T054843Z" creationid="xccui" creationdate="20190619T054843Z">
-        <seg>为了在分布式流处理应用中定义时间操作，准确理解时间的含义非常重要。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T054852Z" creationid="xccui" creationdate="20190619T054843Z">
+        <seg>为了在分布式流处理应用中定义时间操作，准确理解时间的含义非常关键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25781,6 +25781,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T152836Z" creationid="xccui" creationdate="20190401T152347Z">
         <seg>当你进门的时候，可能已经有别的顾客在里面了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you specify a window to collect events in one-minute buckets, which events exactly will each bucket contain?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T055110Z" creationid="xccui" creationdate="20190619T055110Z">
+        <seg>当你指定一个窗口来收集每分钟的桶内事件时，每个存储桶中需要包含哪些事件？</seg>
       </tuv>
     </tu>
     <tu>
