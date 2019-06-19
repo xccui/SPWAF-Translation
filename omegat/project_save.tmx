@@ -4584,8 +4584,8 @@
       <tuv lang="EN-US">
         <seg>All other dependencies an application requires must be explicitly provided.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035725Z" creationid="xccui" creationdate="20190619T035725Z">
-        <seg>应用的其它依赖必须显式提供。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035737Z" creationid="xccui" creationdate="20190619T035725Z">
+        <seg>对于应用的其它依赖则必须显式提供。</seg>
       </tuv>
     </tu>
     <tu>
