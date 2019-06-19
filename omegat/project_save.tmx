@@ -19258,8 +19258,8 @@
       <tuv lang="EN-US">
         <seg>StreamExecutionEnvironment and it takes the following values:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064709Z" creationid="xccui" creationdate="20190619T055332Z">
-        <seg>时间特性是StreamExecutionEnvironment的属性，它包含下列值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064839Z" creationid="xccui" creationdate="20190619T055332Z">
+        <seg>时间特性是StreamExecutionEnvironment的属性，它支持以下值：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22148,6 +22148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T050910Z" creationid="xccui" creationdate="20190327T050627Z">
         <seg>第三代分布式流处理引擎（2015年）修复了结果对事件到来时间及顺序的依赖问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The time characteristic is a property of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064821Z" creationid="xccui" creationdate="20190619T064821Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
