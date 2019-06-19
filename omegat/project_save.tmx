@@ -14833,8 +14833,8 @@
       <tuv lang="EN-US">
         <seg>It is a hybrid of EventTime and ProcessingTime.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071529Z" creationid="xccui" creationdate="20190619T071529Z">
-        <seg>它其实是EventTime和ProcessingTime的混合体。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071542Z" creationid="xccui" creationdate="20190619T071529Z">
+        <seg>其实是EventTime和ProcessingTime的混合体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21268,6 +21268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031746Z" creationid="xccui" creationdate="20190606T031623Z">
         <seg>在使用批处理系统分析有限数据集的情况下，状态的重要性会越发凸显。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ingestion time of an event is the time it entered the stream processor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071759Z" creationid="xccui" creationdate="20190619T071759Z">
+        <seg>事件的摄入事件是它进入流处理引擎的事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27859,8 +27867,8 @@
       <tuv lang="EN-US">
         <seg>specifies the processing time of the source operator as an event time timestamp</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071451Z" creationid="xccui" creationdate="20190619T071451Z">
-        <seg>指定每个接收的记录都把在数据源算子的处理时间作为事件时间戳并且自动生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071539Z" creationid="xccui" creationdate="20190619T071451Z">
+        <seg>指定每个接收的记录都把在数据源算子的处理时间作为事件时间戳并且自动生成水位线，</seg>
       </tuv>
     </tu>
     <tu>
