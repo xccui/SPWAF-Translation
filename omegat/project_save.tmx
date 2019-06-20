@@ -5537,8 +5537,8 @@
       <tuv lang="EN-US">
         <seg>As discussed in “Event-Time Processing” on page 47, your application needs to pro‐ vide two important pieces of information to Flink in order to operate in event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T014933Z" creationid="xccui" creationdate="20190620T014933Z">
-        <seg>我们在第47页"事件时间处理"一节中讲到，为了在事件时间模式下工作，应用需要像Flink提供两项重要信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T014946Z" creationid="xccui" creationdate="20190620T014933Z">
+        <seg>我们在第47页"事件时间处理"一节中讲到，为了在事件时间模式下工作，应用需要向Flink提供两项重要信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8043,6 +8043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070339Z" creationid="xccui" creationdate="20190619T070339Z">
         <seg>每个事件时间都带有一个时间戳，而系统的逻辑时间是由水位线来定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each event must be associated with a timestamp that typically indicates when the event actually happened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T015417Z" creationid="xccui" creationdate="20190620T015417Z">
+        <seg>每个事件都需要关联一个时间戳，该时间戳通常用来表示事件的实际发生时间。</seg>
       </tuv>
     </tu>
     <tu>
