@@ -23256,6 +23256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This check is necessary to ensure event time continuously increases; otherwise no watermark is produced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050454Z" creationid="xccui" creationdate="20190620T050454Z">
+        <seg>这项检查对于保证事件时间单调增长十分必要，一旦失败将不会生成水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This checkpointing and recovery mechanism can provide exactly-once consistency for application state, given that all operators checkpoint and restore all of their states</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T043911Z" creationid="xccui" creationdate="20190609T040709Z">
@@ -27721,6 +27729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is forwarded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050306Z" creationid="xccui" creationdate="20190620T050306Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>its preceding operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T023212Z" creationid="xccui" creationdate="20190610T023212Z">
@@ -28475,8 +28491,8 @@
       <tuv lang="EN-US">
         <seg>timestamp larger than the timestamp of the previous watermark, the new watermark</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050302Z" creationid="xccui" creationdate="20190620T050302Z">
-        <seg>且它的时间戳大于上一个水位线的时间戳，则系统就会发出一个新的水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050324Z" creationid="xccui" creationdate="20190620T050302Z">
+        <seg>且它的时间戳大于上一个水位线的时间戳，则算子就会发出一个新的水位线。</seg>
       </tuv>
     </tu>
     <tu>
