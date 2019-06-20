@@ -14047,6 +14047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the preceding code, elements are allowed to be late up to 10 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053005Z" creationid="xccui" creationdate="20190620T053005Z">
+        <seg>以上代码中，元素最多允许延迟10秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the preceding example, you instruct the program to emit watermarks every 5 sec‐ onds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045838Z" creationid="xccui" creationdate="20190620T045838Z">
@@ -23576,6 +23584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means if the difference between an element’s event time and the maximum timestamp of all previous elements is greater than 10 seconds, the element might arrive for processing after its corresponding computation has completed and the result has been emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053515Z" creationid="xccui" creationdate="20190620T053515Z">
+        <seg>这意味着如果元素的事件时间和之前到达元素的最大时间戳相差超过10秒，那么当元素到达并开始处理时，它本应参与的计算可能已经完成，结果已经发出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that all events</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044724Z" creationid="xccui" creationdate="20190614T044724Z">
@@ -28105,6 +28121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new BoundedOutOfOrdernessTimestampExtractor[SensorReading]( Time.seconds(10))(e =&gt;.timestamp)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052900Z" creationid="xccui" creationdate="20190620T052900Z">
+        <seg>new BoundedOutOfOrdernessTimestampExtractor[SensorReading]( Time.seconds(10))(e =&gt;.timestamp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new Person("Alex", 42),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044923Z" creationid="xccui" creationdate="20190617T044923Z">
@@ -29181,6 +29205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053600Z" creationid="xccui" creationdate="20190615T053600Z">
         <seg>val one: DataStream[(Int, Long)] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val output = stream.assignTimestampsAndWatermarks(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052857Z" creationid="xccui" creationdate="20190620T052857Z">
+        <seg>val output = stream.assignTimestampsAndWatermarks(</seg>
       </tuv>
     </tu>
     <tu>
