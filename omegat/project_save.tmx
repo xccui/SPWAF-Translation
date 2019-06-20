@@ -3926,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new watermark is emitted if the method returns a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054517Z" creationid="xccui" creationdate="20190620T054517Z">
+        <seg>如果该方法返回一个非空、且大于之前值的水位线，算子就会将这个新水位线发出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A parallel count-based tumbling window of length 2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014208Z" creationid="xccui" creationdate="20190606T014058Z">
@@ -10521,8 +10529,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides the AssignerWithPunctuatedWatermarks interface for such cases, or when watermarks can be defined based on some other property of</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054023Z" creationid="xccui" creationdate="20190620T054023Z">
-        <seg>Flink为此类情况或可根据输入元素定义水位线的情况提供了AssignerWithPunctuatedWatermarks接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054051Z" creationid="xccui" creationdate="20190620T054023Z">
+        <seg>Flink为此类情况或可根据输入元素生成水位线的情况提供了AssignerWithPunctuatedWatermarks接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15067,6 +15075,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203412Z" creationid="xccui" creationdate="20190606T203412Z">
         <seg>它包含了3个算子，每个算子的任务并发度都为2且通过本地转发方式连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It defines the checkAndGetNextWatermark() method, which is called for each event right after extractTimestamp().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054250Z" creationid="xccui" creationdate="20190620T054250Z">
+        <seg>该接口中的checkAndGetNextWatermark()方法会在针对每个事件的extractTimestamp()方法后立即调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23648,6 +23664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This method can decide to gen‐ erate a new watermark or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054317Z" creationid="xccui" creationdate="20190620T054317Z">
+        <seg>它可以决定是否生成一个新的水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method receives a Par titioner object that implements the partitioning logic and the field or key posi‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050335Z" creationid="xccui" creationdate="20190616T050245Z">
@@ -28708,6 +28732,14 @@
         <seg>the data itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070251Z" creationid="xccui" creationdate="20190619T070251Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the input elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054026Z" creationid="xccui" creationdate="20190620T054026Z">
         <seg></seg>
       </tuv>
     </tu>
