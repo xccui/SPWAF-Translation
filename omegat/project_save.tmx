@@ -5535,6 +5535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As discussed in “Event-Time Processing” on page 47, your application needs to pro‐ vide two important pieces of information to Flink in order to operate in event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T014933Z" creationid="xccui" creationdate="20190620T014933Z">
+        <seg>我们在第47页"事件时间处理"一节中讲到，为了在事件时间模式下工作，应用需要像Flink提供两项重要信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As explained in “Com‐ ponents of a Flink Setup” on page 38, a Flink application is submitted to the JobMan‐ ager (master), which distributes execution tasks to one or more TaskManagers (workers).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051138Z" creationid="xccui" creationdate="20190611T051138Z">
@@ -23708,6 +23716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013239Z" creationid="xccui" creationdate="20190613T013033Z">
         <seg>基于时间的算子（例如窗口算子）以及其他一些特殊转换会在后面章节介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TimeCharacteristic.ProcessingTime.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T014054Z" creationid="xccui" creationdate="20190620T014054Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
