@@ -3574,6 +3574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A KeyedProcessFunction that emits a warning if the temperature of a sensor monotonically increases for 1 second in processing time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T055114Z" creationid="xccui" creationdate="20190620T055114Z">
+        <seg>KeyedProcessFunction，如果传感器温度在处理时间1秒内单调增加，则发出警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A KeyedStream can be processed using the map, flatMap, and filter transformations that you saw earlier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045801Z" creationid="xccui" creationdate="20190614T045801Z">
@@ -8875,6 +8883,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054737Z" creationid="xccui" creationdate="20190620T054737Z">
         <seg>示例6-4，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054957Z" creationid="xccui" creationdate="20190620T054957Z">
+        <seg>示例6-5，</seg>
       </tuv>
     </tu>
     <tu>
