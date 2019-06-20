@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// assign record timestamp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054920Z" creationid="xccui" creationdate="20190620T054920Z">
+        <seg>// 为记录分配时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// assign timestamps and generate watermarks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044653Z" creationid="xccui" creationdate="20190620T044653Z">
@@ -662,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// do not emit a watermark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054855Z" creationid="xccui" creationdate="20190620T054855Z">
+        <seg>// 不发出水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// do some cleanup, e.g., close connections to external systems</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034545Z" creationid="xccui" creationdate="20190619T034545Z">
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034357Z" creationid="xccui" creationdate="20190619T034357Z">
         <seg>// 例如和外部系统建立连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// emit watermark if reading is from sensor_1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054836Z" creationid="xccui" creationdate="20190620T054836Z">
+        <seg>// 如果读数来自sensor_1则发出水位线</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041529Z" creationid="xccui" creationdate="20190611T041529Z">
         <seg>根据导入向导的指示完成后续步骤，例如：选择要导入的Maven项目（应该只有一个），选择SDK，为项目命名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A punctuated watermark assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054747Z" creationid="xccui" creationdate="20190620T054747Z">
+        <seg>定点水位线分配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -8835,6 +8867,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054733Z" creationid="xccui" creationdate="20190620T054733Z">
         <seg>示例6-4展示的定点水位线生成器为从ID为"sensor_1"的传感器接收到的所有读数产生水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054737Z" creationid="xccui" creationdate="20190620T054737Z">
+        <seg>示例6-4，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27561,6 +27601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class PunctuatedAssigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054750Z" creationid="xccui" creationdate="20190620T054750Z">
+        <seg>class PunctuatedAssigner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061912Z" creationid="xccui" creationdate="20190617T061912Z">
@@ -27761,6 +27809,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extends AssignerWithPunctuatedWatermarks[SensorReading] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054753Z" creationid="xccui" creationdate="20190620T054753Z">
+        <seg>extends AssignerWithPunctuatedWatermarks[SensorReading] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extractedTS: Long): Watermark = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054810Z" creationid="xccui" creationdate="20190620T054810Z">
+        <seg>extractedTS: Long): Watermark = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fashion, i.e., the data input of a query is fully available and the query terminates after it returned the computed result.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T194449Z" creationid="xccui" creationdate="20190228T194449Z">
@@ -27861,6 +27925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050644Z" creationid="xccui" creationdate="20190616T050644Z">
         <seg>if (key &lt; 0) 0 else r.nextInt(numPartitions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (r.id == "sensor_1") {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054813Z" creationid="xccui" creationdate="20190620T054813Z">
+        <seg>if (r.id == "sensor_1") {</seg>
       </tuv>
     </tu>
     <tu>
@@ -28217,6 +28289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new Watermark(extractedTS - bound)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054840Z" creationid="xccui" creationdate="20190620T054840Z">
+        <seg>new Watermark(extractedTS - bound)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new Watermark(maxTs - bound)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051129Z" creationid="xccui" creationdate="20190620T051129Z">
@@ -28237,6 +28317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061521Z" creationid="xccui" creationdate="20190614T061521Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>null</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054858Z" creationid="xccui" creationdate="20190620T054858Z">
+        <seg>null</seg>
       </tuv>
     </tu>
     <tu>
@@ -28293,6 +28381,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045238Z" creationid="xccui" creationdate="20190504T045238Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def checkAndGetNextWatermark( r: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054807Z" creationid="xccui" creationdate="20190620T054807Z">
+        <seg>override def checkAndGetNextWatermark( r: SensorReading,</seg>
       </tuv>
     </tu>
     <tu>
@@ -29009,6 +29105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val bound: Long = 60 * 1000 // 1 min in ms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054805Z" creationid="xccui" creationdate="20190620T054805Z">
+        <seg>val bound: Long = 60 * 1000 // 1分钟的毫秒数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val byId: KeyedStream[SensorReading, String] = sensorData</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051748Z" creationid="xccui" creationdate="20190618T051748Z">
@@ -29701,6 +29805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042307Z" creationid="xccui" creationdate="20190612T042307Z">
         <seg>} )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} else {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054844Z" creationid="xccui" creationdate="20190620T054844Z">
+        <seg>} else {</seg>
       </tuv>
     </tu>
     <tu>
