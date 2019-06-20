@@ -23944,6 +23944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To ensure that event-time operations behave as expected, the assigner should be called before any event-time dependent transformation (e.g., before the first event- time window).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T032816Z" creationid="xccui" creationdate="20190620T032816Z">
+        <seg>为了保证事件时间操作能够正常工作，必须把分配器放在任何依赖事件时间的转换之前（例如，在第一个事件时间窗口之前）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To key the stream by sensor ID we can pass the field name id to the keyBy() func‐ tion:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042634Z" creationid="xccui" creationdate="20190618T042634Z">
@@ -26948,6 +26956,14 @@
         <seg>application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T032948Z" creationid="xccui" creationdate="20190418T032948Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>assigning timestamps if such operations do not induce a redistribution of elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031947Z" creationid="xccui" creationdate="20190620T031947Z">
         <seg></seg>
       </tuv>
     </tu>
