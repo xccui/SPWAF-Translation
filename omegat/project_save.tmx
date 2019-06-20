@@ -23832,6 +23832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Timestamp assigners behave like other transformation operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T032959Z" creationid="xccui" creationdate="20190620T032959Z">
+        <seg>时间戳分配器和工作原理和其他转换算子类似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timestamps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T155747Z" creationid="xccui" creationdate="20190225T021851Z">
