@@ -17160,6 +17160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overriding Source-Generated Timestamps and Watermarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T025549Z" creationid="xccui" creationdate="20190620T025549Z">
+        <seg>覆盖数据源生成的时间戳和水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O’Reilly Media, Inc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210837Z" creationid="esouser" creationdate="20190603T210837Z">
@@ -28324,6 +28332,14 @@
         <seg>up with the events happening now, it can continue as a real-time application using exactly the same program logic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T155347Z" creationid="xccui" creationdate="20190412T155347Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user-defined function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T025350Z" creationid="xccui" creationdate="20190620T025350Z">
         <seg></seg>
       </tuv>
     </tu>
