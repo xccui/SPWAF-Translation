@@ -8447,6 +8447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Event-time streams also need to carry watermarks from which operators infer the current event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T015531Z" creationid="xccui" creationdate="20190620T015531Z">
+        <seg>此外事件时间数据流还需要携带水位线，以供算子推断当前事件时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Event-time windows compute deterministic results even when events arrive out of order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071120Z" creationid="xccui" creationdate="20190619T071120Z">
@@ -23756,6 +23764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T155747Z" creationid="xccui" creationdate="20190225T021851Z">
         <seg>时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timestamps and watermarks are specified in milliseconds since the epoch of 1970-01-01T00:00:00Z.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T020306Z" creationid="xccui" creationdate="20190620T020306Z">
+        <seg>时间戳和水位线都是利用自1970-01-01 00:00:00以来的毫秒数指定。</seg>
       </tuv>
     </tu>
     <tu>
