@@ -11239,6 +11239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For such cases, Flink provides the BoundedOutOfOrder nessTimeStampExtractor, which takes the maximum expected lateness as an argu‐ ment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052854Z" creationid="xccui" creationdate="20190620T052854Z">
+        <seg>针对这种情况，Flink提供了BoundedOutOfOrdernessTimeStampExtractor，它接收一个表示最大预期延迟的参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For this example, your system needs Java 8 installed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T122651Z" creationid="xccui" creationdate="20190605T122651Z">
@@ -27828,6 +27836,14 @@
         <seg>ing: transactional processing and analytical processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T194515Z" creationid="esouser" creationdate="20190603T194515Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ingested elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052722Z" creationid="xccui" creationdate="20190620T052722Z">
         <seg></seg>
       </tuv>
     </tu>
