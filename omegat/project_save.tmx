@@ -24480,6 +24480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typically, the timestamp assigner is called right after the source function because most assigners make assumptions about the order of elements with respect to their timestamps when generating watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T030818Z" creationid="xccui" creationdate="20190620T030818Z">
+        <seg>通常情况下，应该在数据源函数后面立即调用时间戳分配器，因为大多数分配器在生成水位线的时候都会做出一些元素顺序相对时间戳的假设。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typically, there are multiple TaskManagers running in a Flink setup.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142319Z" creationid="xccui" creationdate="20190606T142319Z">
