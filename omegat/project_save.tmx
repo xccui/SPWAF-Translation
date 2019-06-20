@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// 1 min in ms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051052Z" creationid="xccui" creationdate="20190620T051052Z">
+        <seg>// 1分钟的毫秒数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
@@ -718,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// generated watermark with 1 min tolerance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051127Z" creationid="xccui" creationdate="20190620T051127Z">
+        <seg>// 生成具有1分钟容忍度的水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// get default parallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061553Z" creationid="xccui" creationdate="20190616T061553Z">
@@ -822,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// return record timestamp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051156Z" creationid="xccui" creationdate="20190620T051156Z">
+        <seg>// 返回记录的时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// second stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040744Z" creationid="xccui" creationdate="20190615T040744Z">
@@ -898,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061610Z" creationid="xccui" creationdate="20190616T061610Z">
         <seg>// 数据源以默认并行度运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// update maximum timestamp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051141Z" creationid="xccui" creationdate="20190620T051141Z">
+        <seg>// 更新最大时间戳</seg>
       </tuv>
     </tu>
     <tu>
@@ -20312,6 +20344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream API provides implementations for two common cases of timestamp assigners with periodic watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051417Z" creationid="xccui" creationdate="20190620T051417Z">
+        <seg>DataStream API内置了两个针对常见情况的周期性水位线时间戳分配器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API provides rich functions that expose more functionality than the regular functions discussed until now.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060242Z" creationid="xccui" creationdate="20190618T060242Z">
@@ -27385,6 +27425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class PeriodicAssigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051033Z" creationid="xccui" creationdate="20190620T051033Z">
+        <seg>class PeriodicAssigner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061912Z" creationid="xccui" creationdate="20190617T061912Z">
@@ -27573,6 +27621,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060228Z" creationid="xccui" creationdate="20190616T060228Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends AssignerWithPeriodicWatermarks[SensorReading] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051037Z" creationid="xccui" creationdate="20190620T051037Z">
+        <seg>extends AssignerWithPeriodicWatermarks[SensorReading] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -27897,6 +27953,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>maxTs = maxTs.max(r.timestamp)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051144Z" creationid="xccui" creationdate="20190620T051144Z">
+        <seg>maxTs = maxTs.max(r.timestamp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ments such as variable or function names, databases, data types, environment variables, statements, and keywords.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210805Z" creationid="esouser" creationdate="20190603T210805Z">
@@ -27993,6 +28057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new Watermark(maxTs - bound)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051129Z" creationid="xccui" creationdate="20190620T051129Z">
+        <seg>new Watermark(maxTs - bound)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>not change the type of the stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061521Z" creationid="xccui" creationdate="20190614T061521Z">
@@ -28065,6 +28137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def extractTimestamp( r: SensorReading, previousTS: Long): Long = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051133Z" creationid="xccui" creationdate="20190620T051133Z">
+        <seg>override def extractTimestamp( r: SensorReading, previousTS: Long): Long = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def filter(value: String): Boolean = { value.contains("flink")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054238Z" creationid="xccui" creationdate="20190618T054238Z">
@@ -28077,6 +28157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034402Z" creationid="xccui" creationdate="20190619T034402Z">
         <seg>override def flatMap(in: Int, out: Collector[(Int, Int)]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def getCurrentWatermark: Watermark = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051107Z" creationid="xccui" creationdate="20190620T051107Z">
+        <seg>override def getCurrentWatermark: Watermark = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -28253,6 +28341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044803Z" creationid="xccui" creationdate="20190617T044803Z">
         <seg>public class Person {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>r.timestamp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051158Z" creationid="xccui" creationdate="20190620T051158Z">
+        <seg>r.timestamp</seg>
       </tuv>
     </tu>
     <tu>
@@ -28725,6 +28821,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042225Z" creationid="xccui" creationdate="20190612T042225Z">
         <seg>val avgTemp: DataStream[SensorReading] = sensorData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val bound: Long = 60 * 1000</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051040Z" creationid="xccui" creationdate="20190620T051040Z">
+        <seg>val bound: Long = 60 * 1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -29253,6 +29357,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011820Z" creationid="xccui" creationdate="20190606T011820Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var maxTs: Long = Long.MinValue // the maximum observed timestamp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051105Z" creationid="xccui" creationdate="20190620T051105Z">
+        <seg>var maxTs: Long = Long.MinValue // 观察到的最大时间戳</seg>
       </tuv>
     </tu>
     <tu>
