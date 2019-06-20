@@ -12615,6 +12615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your input elements have timestamps that are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051515Z" creationid="xccui" creationdate="20190620T051433Z">
+        <seg>如果你输入元素的时间戳是单调增加的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Imagine that during Christmas holiday season, baristas have to draw a Santa Claus on the cup of each coffee they serve.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T205829Z" creationid="xccui" creationdate="20190402T205727Z">
@@ -23322,8 +23330,8 @@
       <tuv lang="EN-US">
         <seg>This check is necessary to ensure event time continuously increases; otherwise no watermark is produced.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050454Z" creationid="xccui" creationdate="20190620T050454Z">
-        <seg>这项检查对于保证事件时间单调增长十分必要，一旦失败将不会生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051451Z" creationid="xccui" creationdate="20190620T050454Z">
+        <seg>这项检查对于保证事件时间持续增加十分必要，一旦失败将不会生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23580,6 +23588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045558Z" creationid="xccui" creationdate="20190416T043634Z">
         <seg>该方法会将所有事件存在缓冲中，直到处理管道中所有任务都确认某个事件已经处理完毕才会将它丢弃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method uses the current timestamp to generate watermarks, since no earlier timestamps can appear.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051801Z" creationid="xccui" creationdate="20190620T051801Z">
+        <seg>由于时间戳，该方法使用当前时间戳生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28005,6 +28021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033155Z" creationid="xccui" creationdate="20190619T033155Z">
         <seg>因而它通常用于清理和释放资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>monotonically increasing, you can use the shortcut method assignAscending TimeStamps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051620Z" creationid="xccui" creationdate="20190620T051620Z">
+        <seg>你可以使用一个简便方法assignAscendingTimeStamps。</seg>
       </tuv>
     </tu>
     <tu>
