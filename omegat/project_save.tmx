@@ -3902,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A periodic watermark assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051030Z" creationid="xccui" creationdate="20190620T051030Z">
+        <seg>周期性水位线分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A physical dataflow plan for counting hashtags (nodes represent tasks)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233201Z" creationid="xccui" creationdate="20190605T233201Z">
@@ -8755,6 +8763,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050837Z" creationid="xccui" creationdate="20190620T050837Z">
         <seg>示例6-3展示了一个周期性水位线分配器，它通过跟踪至今所见最大的元素时间戳来生成水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051021Z" creationid="xccui" creationdate="20190620T051021Z">
+        <seg>示例6-3，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26101,6 +26117,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025434Z" creationid="xccui" creationdate="20190606T025434Z">
         <seg>当一个算子接收到时间为T的水位线，就可以认为不会再收到任何时间戳小于或等于T的事件了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When asked for a new watermark, the assigner returns a watermark with the maximum timestamp minus a 1-minute tolerance interval.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051015Z" creationid="xccui" creationdate="20190620T051015Z">
+        <seg>当收到新水位线请求时，该分配器会返回一个时间戳等于最大时间戳减去1分钟容忍间隔的水位线。</seg>
       </tuv>
     </tu>
     <tu>
