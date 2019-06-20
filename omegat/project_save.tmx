@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// generate watermarks every 5 seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045800Z" creationid="xccui" creationdate="20190620T045800Z">
+        <seg>// 每5秒生成一次水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// get default parallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061553Z" creationid="xccui" creationdate="20190616T061553Z">
@@ -13943,6 +13951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the preceding example, you instruct the program to emit watermarks every 5 sec‐ onds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045838Z" creationid="xccui" creationdate="20190620T045838Z">
+        <seg>在上方示例中，你指示程序每隔5秒发出一次水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the previous chapter, you saw how streaming applications have different opera&lt;t0/&gt;‐&lt;t1/&gt; tional requirements from traditional batch programs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T150245Z" creationid="xccui" creationdate="20190401T150006Z">
@@ -20984,6 +21000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045718Z" creationid="xccui" creationdate="20190620T045718Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default parallelism of an operator can be overridden by specifying it explicitly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060553Z" creationid="xccui" creationdate="20190616T060553Z">
@@ -27433,6 +27457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>env.getConfig.setAutoWatermarkInterval(5000)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045802Z" creationid="xccui" creationdate="20190620T045802Z">
+        <seg>env.getConfig.setAutoWatermarkInterval(5000)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>env.setParallelism(32)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060510Z" creationid="xccui" creationdate="20190616T060510Z">
@@ -27661,6 +27693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033635Z" creationid="xccui" creationdate="20190606T033635Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>interval is set to two hundred milliseconds, but it can be configured using the Execu tionConfig.setAutoWatermarkInterval() method:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045716Z" creationid="xccui" creationdate="20190620T045716Z">
+        <seg>默认的时间间隔为200毫秒，但可以利用ExecutionConfig.setAutoWatermarkInterval()方法来配置：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28669,6 +28709,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045734Z" creationid="xccui" creationdate="20190620T045734Z">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
       </tuv>
     </tu>
     <tu>
