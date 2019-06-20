@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.assignTimestampsAndWatermarks(new MyAssigner())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044656Z" creationid="xccui" creationdate="20190620T044656Z">
+        <seg>.assignTimestampsAndWatermarks(new MyAssigner())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.assignTimestampsAndWatermarks(new SensorTimeAssigner)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042218Z" creationid="xccui" creationdate="20190612T042218Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// assign timestamps and generate watermarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044653Z" creationid="xccui" creationdate="20190620T044653Z">
+        <seg>// 分配时间戳并生成水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// assign timestamps and watermarks (required for event time)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042213Z" creationid="xccui" creationdate="20190612T042213Z">
@@ -818,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040517Z" creationid="xccui" creationdate="20190617T040501Z">
         <seg>// 将第二个字段设为42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// set the event time characteristic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044631Z" creationid="xccui" creationdate="20190620T044631Z">
+        <seg>// 设置为事件时间特性</seg>
       </tuv>
     </tu>
     <tu>
@@ -13663,6 +13687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the example above, MyAssigner can either be of type AssignerWithPeriodicWater marks or AssignerWithPunctuatedWatermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044801Z" creationid="xccui" creationdate="20190620T044801Z">
+        <seg>在上面的例子中，MyAssigner既可以是AssignerWithPeriodicWatermarks，也可以是AssignerWithPunctuatedWatermarks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the example below, the stream is keyed by language and the result is a continuously updated list of words per language:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062219Z" creationid="xccui" creationdate="20190614T062107Z">
@@ -22856,6 +22888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These two interfaces extend the Time stampAssigner interface provided by the DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044932Z" creationid="xccui" creationdate="20190620T044932Z">
+        <seg>这两个接口都继承自DataStream API提供的TimestampAssigner接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They also support</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041632Z" creationid="xccui" creationdate="20190618T041617Z">
@@ -28845,6 +28885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050713Z" creationid="xccui" creationdate="20190613T050713Z">
         <seg>val readings: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val readings: DataStream[SensorReading] = env</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044638Z" creationid="xccui" creationdate="20190620T044638Z">
+        <seg>val readings: DataStream[SensorReading] = env</seg>
       </tuv>
     </tu>
     <tu>
