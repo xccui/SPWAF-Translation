@@ -21152,6 +21152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first interface defines assigners that emit watermarks periodically while the second injects watermarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045249Z" creationid="xccui" creationdate="20190620T045145Z">
+        <seg>前者定义的分配器会周期性地发出水位线，而后者会根据输入事件的属性来引入水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first thing a Flink application needs to do is set up its execution environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044646Z" creationid="xccui" creationdate="20190612T044646Z">
@@ -22890,8 +22898,8 @@
       <tuv lang="EN-US">
         <seg>These two interfaces extend the Time stampAssigner interface provided by the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044932Z" creationid="xccui" creationdate="20190620T044932Z">
-        <seg>这两个接口都继承自DataStream API提供的TimestampAssigner接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044959Z" creationid="xccui" creationdate="20190620T044932Z">
+        <seg>这两个接口都继承自DataStream API提供的TimestampAssigner接口，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27085,6 +27093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042827Z" creationid="xccui" creationdate="20190612T042827Z">
         <seg>avgTemp.print()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>based on a property of the input events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045149Z" creationid="xccui" creationdate="20190620T045149Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
