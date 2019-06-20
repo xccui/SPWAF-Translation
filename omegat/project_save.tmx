@@ -4342,6 +4342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A watermark tells operators that no more events with a timestamp less than or equal to the watermark are expected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T020532Z" creationid="xccui" creationdate="20190620T020532Z">
+        <seg>水位线告知算子不必再等那些时间戳小于或等于水位线的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A watermark with a timestamp T indi‐ cates that all subsequent records should have timestamps &gt; T.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205434Z" creationid="xccui" creationdate="20190606T205434Z">
