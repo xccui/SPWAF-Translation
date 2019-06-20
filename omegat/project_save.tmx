@@ -18640,6 +18640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since elements are typically ingested in parallel, any operation that causes Flink to redistribute elements across parallel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031159Z" creationid="xccui" creationdate="20190620T031159Z">
+        <seg>由于元素的读取过程通常都是并行的，一切引起Flink跨并行数据流分区进行重新分发的操作（例如改变并行度，keyBy()或显式重新分发）都会使元素的时间戳顺序产生混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since its beginning, Flink has a very active and continuously growing community of users and contributors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T220449Z" creationid="xccui" creationdate="20190225T220008Z">
