@@ -19160,6 +19160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So far we have discussed how to generate watermarks using a TimestampAssigner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T055235Z" creationid="xccui" creationdate="20190620T055210Z">
+        <seg>目前为止，我们已经讨论过如何使用TimestampAssigner生成水位线，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So far we have explained what timestamps and watermarks are and how they are internally handled by Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034622Z" creationid="xccui" creationdate="20190607T033537Z">
@@ -26021,6 +26029,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T142427Z" creationid="xccui" creationdate="20190411T152000Z">
         <seg>此时应用该怎么处理？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What we have not discussed yet is the effect that watermarks have on your streaming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T055305Z" creationid="xccui" creationdate="20190620T055232Z">
+        <seg>但并没有涉及水位线对于流式应用的影响。</seg>
       </tuv>
     </tu>
     <tu>
