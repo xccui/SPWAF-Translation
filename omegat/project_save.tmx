@@ -5729,8 +5729,8 @@
       <tuv lang="EN-US">
         <seg>Assigning timestamps and generating watermarks in a SourceFunction is discussed in “Source Functions, Timestamps, and Watermarks” on page 204.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T021059Z" creationid="xccui" creationdate="20190620T021059Z">
-        <seg>在SourceFunction中分配时间戳和生成水位线将在204页"源函数、时间戳和水位线"一节讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T021119Z" creationid="xccui" creationdate="20190620T021059Z">
+        <seg>在SourceFunction中分配时间戳和生成水位线将在204页"源函数、时间戳和水位线"一节讨论，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11619,6 +11619,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070614Z" creationid="xccui" creationdate="20190616T070438Z">
         <seg>下面的示例处理一条Long值组成的数据流，对每个元素加一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here we explain how to do this with a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T021444Z" creationid="xccui" creationdate="20190620T021444Z">
+        <seg>此处我们只介绍使用用户自定义函数的方法。</seg>
       </tuv>
     </tu>
     <tu>
