@@ -7759,6 +7759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the use case, it is possible to apply an initial filtering or transformation on the input stream before</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031942Z" creationid="xccui" creationdate="20190620T031942Z">
+        <seg>根据用例，如果某些初始化的过滤或其他转换操作不会引起元素的重新分发，那么可以考虑在分配时间戳之前将它们用于输入流上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the use case, the transferred data may need to be normalized, enriched with external data, or aggregated before it is ingested by the target data store.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042555Z" creationid="xccui" creationdate="20190605T041712Z">
@@ -14971,6 +14979,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050346Z" creationid="xccui" creationdate="20190618T050242Z">
         <seg>还能够以混合类型嵌套表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is best practice to assign timestamps and generate watermarks as close to the sour‐ ces as possible or even within the SourceFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031544Z" creationid="xccui" creationdate="20190620T031544Z">
+        <seg>最佳做法就是在尽可能靠近数据源的地方甚至在SourceFunction内部，分配时间戳和生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
