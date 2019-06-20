@@ -22832,6 +22832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are called on a stream of elements and produce a new stream of timestamped elements and water‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033231Z" creationid="xccui" creationdate="20190620T033231Z">
+        <seg>它们会作用于数据流的元素之上，生成一条带有时间戳和水位线的新数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are discussed further in “Declaring Keyed State at RuntimeCon‐ text” on page 154.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T223752Z" creationid="xccui" creationdate="20190607T223752Z">
@@ -23954,8 +23962,8 @@
       <tuv lang="EN-US">
         <seg>To ensure that event-time operations behave as expected, the assigner should be called before any event-time dependent transformation (e.g., before the first event- time window).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T032816Z" creationid="xccui" creationdate="20190620T032816Z">
-        <seg>为了保证事件时间操作能够正常工作，必须把分配器放在任何依赖事件时间的转换之前（例如，在第一个事件时间窗口之前）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033058Z" creationid="xccui" creationdate="20190620T032816Z">
+        <seg>为了保证事件时间操作能够正常工作，必须将分配器放在任何依赖事件时间的转换之前（例如，在第一个事件时间窗口之前）。</seg>
       </tuv>
     </tu>
     <tu>
