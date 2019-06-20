@@ -10519,6 +10519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides the AssignerWithPunctuatedWatermarks interface for such cases, or when watermarks can be defined based on some other property of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054023Z" creationid="xccui" creationdate="20190620T054023Z">
+        <seg>Flink为此类情况或可根据输入元素定义水位线的情况提供了AssignerWithPunctuatedWatermarks接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides two utility classes for Java and Scala with static methods to generate a TypeInformation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053425Z" creationid="xccui" creationdate="20190617T053425Z">
@@ -19148,6 +19156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065406Z" creationid="xccui" creationdate="20190615T065406Z">
         <seg>某些时候，我们有必要或希望能够在应用级别控制这些分区策略或者自定义分区器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes the input stream contains special tuples or markers that indicate the stream’s progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053858Z" creationid="xccui" creationdate="20190620T053858Z">
+        <seg>有时候输入流中会包含一些用于指示系统进度的特殊元组或标记。</seg>
       </tuv>
     </tu>
     <tu>
