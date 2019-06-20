@@ -5815,6 +5815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assigner with punctuated watermarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053715Z" creationid="xccui" creationdate="20190620T053715Z">
+        <seg>定点水位线分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assigning Timestamps and Generating Watermarks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T040510Z" creationid="esouser" creationdate="20190603T145731Z">
@@ -10387,6 +10395,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191729Z" creationid="xccui" creationdate="20190607T190646Z">
         <seg>Flink为每个键值都维护了一个状态实例，该实例总是会位于那个处理对应键值记录的算子任务上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink offers different strategies to handle such late events, and we discuss those later in “Handling Late Data” on page 148.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053636Z" creationid="xccui" creationdate="20190620T053636Z">
+        <seg>Flink为处理此类迟到事件提供了不同的策略，我们稍后会在148页"处理迟到数据"中对它们进行介绍。</seg>
       </tuv>
     </tu>
     <tu>
