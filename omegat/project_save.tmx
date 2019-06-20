@@ -25240,6 +25240,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Watermarks are used to balance latency and result completeness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T055329Z" creationid="xccui" creationdate="20190620T055329Z">
+        <seg>水位线用于平衡延迟和结果的完整性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Watermarks are used to derive the current event time at each task in an event-time application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205105Z" creationid="xccui" creationdate="20190606T205105Z">
