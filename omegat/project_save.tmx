@@ -14159,6 +14159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this example, after reading the stream, we first apply a filter transformation and then call the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044508Z" creationid="xccui" creationdate="20190620T044508Z">
+        <seg>在这个例子中，我们首先使用了一个过滤转换，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this mode, Flink applications are packaged into a JAR file and submitted by a client to a running service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143428Z" creationid="xccui" creationdate="20190606T143415Z">
@@ -20848,6 +20856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The code in Example 6-2 shows how to use a timestamp assigner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033319Z" creationid="xccui" creationdate="20190620T033319Z">
+        <seg>示例6-2中的代码展示了时间戳分配器的使用方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The completed checkpoint can be used to recover the appli‐ cation from a failure as described before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T194512Z" creationid="xccui" creationdate="20190609T194447Z">
@@ -23844,6 +23860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T032959Z" creationid="xccui" creationdate="20190620T032959Z">
         <seg>时间戳分配器和工作原理和其他转换算子类似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timestamp assigners do not change the data type of a DataStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033249Z" creationid="xccui" creationdate="20190620T033249Z">
+        <seg>时间戳分配器不会改变DataStream的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27629,6 +27653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042740Z" creationid="xccui" creationdate="20190615T041435Z">
         <seg>map1()和flatMap()用来处理第一个输入流的事件；map2()和flatMap2()用来处理第二个输入流的事件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>marks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033233Z" creationid="xccui" creationdate="20190620T033233Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
