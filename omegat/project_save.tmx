@@ -12127,6 +12127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a timestamp assigner is used, any existing timestamps and water‐ marks will be overwritten.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T025618Z" creationid="xccui" creationdate="20190620T025618Z">
+        <seg>一旦使用时间戳分配器，已有的时间戳和水位线都将被覆盖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any code samples or other technology this work contains or describes is subject to open source licenses or the intellectual property rights of others, it is your responsibility to ensure that your use thereof complies with such licenses and/or rights.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210742Z" creationid="esouser" creationdate="20190603T210742Z">
@@ -20156,6 +20164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060242Z" creationid="xccui" creationdate="20190618T060242Z">
         <seg>DataStream API提供了一类富函数，它和我们之前见到的普通函数相比可以对外提供更多功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DataStream API provides the TimestampAssigner interface to extract time‐ stamps from elements after they have been ingested into the streaming application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T025925Z" creationid="xccui" creationdate="20190620T025925Z">
+        <seg>DataStream API提供了TimestampAssigner接口，用于从已读入流式应用的元素中提取时间戳。</seg>
       </tuv>
     </tu>
     <tu>
