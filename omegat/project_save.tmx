@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.assignAscendingTimestamps(e =&gt; e.timestamp)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052008Z" creationid="xccui" creationdate="20190620T052008Z">
+        <seg>.assignAscendingTimestamps(e =&gt; e.timestamp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.assignTimestampsAndWatermarks(new MyAssigner())</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044656Z" creationid="xccui" creationdate="20190620T044656Z">
@@ -22016,6 +22024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The other common case of periodic watermark generation is when you know the maximum lateness that you will encounter in the input stream—the maximum differ‐ ence between an element’s timestamp and the largest timestamp of all perviously</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052720Z" creationid="xccui" creationdate="20190620T052720Z">
+        <seg>另一个周期性生成水位线的常见情况是，你知道输入流中的延迟（任意新到元素和已到时间戳最大的元素之间的时间差）上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The other operators have a parallelism of four.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T043456Z" creationid="xccui" creationdate="20190423T043437Z">
@@ -29337,6 +29353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val stream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051957Z" creationid="xccui" creationdate="20190620T051957Z">
+        <seg>val stream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val stringType: TypeInformation[String] = Types.STRING</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053818Z" creationid="xccui" creationdate="20190617T053818Z">
@@ -29373,6 +29397,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050041Z" creationid="xccui" creationdate="20190615T050041Z">
         <seg>val two: DataStream[(Int, String)] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val withTimestampsAndWatermarks = stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052001Z" creationid="xccui" creationdate="20190620T052001Z">
+        <seg>val withTimestampsAndWatermarks = stream</seg>
       </tuv>
     </tu>
     <tu>
