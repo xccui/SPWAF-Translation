@@ -5743,6 +5743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assigner with periodic watermarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045349Z" creationid="xccui" creationdate="20190620T045349Z">
+        <seg>周期性水位线分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assigning Timestamps and Generating Watermarks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T040510Z" creationid="esouser" creationdate="20190603T145731Z">
@@ -5755,6 +5763,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T021119Z" creationid="xccui" creationdate="20190620T021059Z">
         <seg>在SourceFunction中分配时间戳和生成水位线将在204页"源函数、时间戳和水位线"一节讨论，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assigning watermarks periodically means that we instruct the system to emit water‐ marks and advance the event time in fixed intervals of machine time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045615Z" creationid="xccui" creationdate="20190620T045615Z">
+        <seg>周期性分配水位线的含义是我们会指示系统以固定的机器时间间隔来发出水位线并推动事件时间前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25156,6 +25172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013255Z" creationid="xccui" creationdate="20190606T013255Z">
         <seg>我们通过指定长度和滑动间隔来定义滑动窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We describe both interfaces in detail next.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045315Z" creationid="xccui" creationdate="20190620T045315Z">
+        <seg>接下来我们详细讨论一下它们。</seg>
       </tuv>
     </tu>
     <tu>
