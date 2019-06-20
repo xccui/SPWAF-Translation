@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actually, every 5 seconds, Flink invokes the getCurrentWatermark() method of AssignerWithPeriodicWatermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045929Z" creationid="xccui" creationdate="20190620T045929Z">
+        <seg>实际上，Flink会每隔5秒调用一次AssignerWithPeriodicWatermarks中的getCurrentWatermark()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ad-hoc analysis of live data in consumer technology</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T045434Z" creationid="xccui" creationdate="20190605T045434Z">
@@ -12379,6 +12387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045413Z" creationid="xccui" creationdate="20190612T045413Z">
         <seg>如果是一个连接远程集群的提交客户端调用了该方法，则会返回一个远程执行环境；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the method returns a nonnull value with a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050009Z" creationid="xccui" creationdate="20190620T050009Z">
+        <seg>如果该方法的返回值非空，</seg>
       </tuv>
     </tu>
     <tu>
@@ -28453,6 +28469,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044856Z" creationid="xccui" creationdate="20190617T044856Z">
         <seg>this.name = name;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>timestamp larger than the timestamp of the previous watermark, the new watermark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050302Z" creationid="xccui" creationdate="20190620T050302Z">
+        <seg>且它的时间戳大于上一个水位线的时间戳，则系统就会发出一个新的水位线。</seg>
       </tuv>
     </tu>
     <tu>
