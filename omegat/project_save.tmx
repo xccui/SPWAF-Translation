@@ -12335,6 +12335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you can be quite cer‐ tain all relevant data is available when you perform a computation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T040233Z" creationid="xccui" creationdate="20190621T040233Z">
+        <seg>但这样的好处是在执行计算时你能确保可以使用全部相关数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you should also know how to create a new Flink project from scratch.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004140Z" creationid="xccui" creationdate="20190612T004101Z">
