@@ -12737,8 +12737,8 @@
       <tuv lang="EN-US">
         <seg>If you generate loose watermarks—where the watermarks are far behind the time‐ stamps of the processed records—you increase the latency of the produced results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033944Z" creationid="xccui" creationdate="20190621T033944Z">
-        <seg>如果生成的水位线过于宽松，即水位线远落后于已处理记录的时间戳，那么将导致产生结果的延迟增加。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034216Z" creationid="xccui" creationdate="20190621T033944Z">
+        <seg>如果生成的水位线过于宽松，即水位线远落后于已处理记录的时间戳，那么将导致产生结果的延迟增大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16075,6 +16075,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T200705Z" creationid="esouser" creationdate="20190603T200705Z">
         <seg>通过将多个微服务相互连接可以构建出更加复杂的应用，而微服务之间只通过标准化接口（如RESTful HTTP连接）进行通信。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover the state size typically increases because the application needs to buffer more data until it can perform a computation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034347Z" creationid="xccui" creationdate="20190621T034203Z">
+        <seg>此外，由于应用需要在计算之前缓冲更多的数据，所以通常会导致状态大小也随之增加。</seg>
       </tuv>
     </tu>
     <tu>
