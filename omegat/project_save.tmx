@@ -18568,6 +18568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RocksDB state backend with incremental checkpoints and storing the timers on the heap (default setting), they are checkpointed synchronously.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065821Z" creationid="xccui" creationdate="20190621T065821Z">
+        <seg>如果你在使用开启了增量检查点模式RocksDB状态后端且将定时器存在堆内（默认设置），定时器写入检查点的过程就是同步的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rolling aggregation transformations are applied on a KeyedStream and produce a DataStream of aggregates, such as sum, minimum, and maximum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052018Z" creationid="xccui" creationdate="20190614T052018Z">
