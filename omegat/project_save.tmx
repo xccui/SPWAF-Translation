@@ -24840,6 +24840,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use timers on a nonkeyed stream, you can create a keyed stream by</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062029Z" creationid="xccui" creationdate="20190621T062029Z">
+        <seg>为了在一条非键值分区的数据流上使用定时器，你可以通过在KeySelector中返回一个假的常数键值来创建一条键值分区数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Today, components of the Apache Hadoop ecosystem are integral parts in the IT infrastructures of many enterprises and companies.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190301T032150Z" creationid="xccui" creationdate="20190228T210817Z">
