@@ -22992,6 +22992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The timestamp argument gives the timestamp of the firing timer and the Collec</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054908Z" creationid="xccui" creationdate="20190621T054908Z">
+        <seg>timestamp参数给出了所触发计时器的时间戳，Collector可用来发出记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The timestamp associates a record with a specific point</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204839Z" creationid="xccui" creationdate="20190606T204839Z">
@@ -28707,8 +28715,8 @@
       <tuv lang="EN-US">
         <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT]) is a callback function that is invoked when a previously registered timer triggers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054245Z" creationid="xccui" creationdate="20190621T054245Z">
-        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT])是一个回调函数，会在之前注册的定时器触发时调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054311Z" creationid="xccui" creationdate="20190621T054245Z">
+        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT])是一个回调函数，会在之前注册的定时器触发时被调用。</seg>
       </tuv>
     </tu>
     <tu>
