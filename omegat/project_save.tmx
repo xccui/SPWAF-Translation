@@ -4606,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, a KeyedPro cessFunction[KEY, IN, OUT] provides the following two methods:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053335Z" creationid="xccui" creationdate="20190621T053335Z">
+        <seg>除此之外，KeyedProcessFunction[KEY, IN, OUT]还提供了以下两个方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, the stream processor needs to ensure internal state consistency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T044439Z" creationid="xccui" creationdate="20190416T044427Z">
@@ -4810,6 +4818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035737Z" creationid="xccui" creationdate="20190619T035725Z">
         <seg>对于应用的其它依赖则必须显式提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All process functions implement the RichFunction interface and hence offer open(), close(), and getRuntimeContext() methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053257Z" creationid="xccui" creationdate="20190621T053257Z">
+        <seg>所有处理函数都实现了RichFunction接口，因此可以提供open()、close()、getRunteimContext()等方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28877,6 +28893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T203458Z" creationid="xccui" creationdate="20190409T203458Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>processElement(v: IN, ctx: Context, out: Collector[OUT]) is called for each record of the stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053527Z" creationid="xccui" creationdate="20190621T053527Z">
+        <seg>processElement(v: IN, ctx: Context, out: Collector[OUT])会针对流中的每条记录都调用一次。</seg>
       </tuv>
     </tu>
     <tu>
