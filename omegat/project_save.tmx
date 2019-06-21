@@ -11135,6 +11135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, most operators for Flink’s SQL support are implemented using process functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T044544Z" creationid="xccui" creationdate="20190621T044544Z">
+        <seg>例如，大多数Flink SQL所支持的算子都是利用处理函数实现的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, once data has been emitted to a sink, it is hard to guarantee result correctness, since the sink might not provide transactions to revert results that have been previously written.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T050731Z" creationid="xccui" creationdate="20190415T050222Z">
@@ -17844,6 +17852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145830Z" creationid="xccui" creationdate="20190418T035908Z">
         <seg>处理函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process functions are com‐ monly used to build event-driven applications and to implement custom logic for which predefined windows and transformations might not be suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T044500Z" creationid="xccui" creationdate="20190621T044500Z">
+        <seg>处理函数常被用于构建事件驱动型应用或实现一些内置窗口及转换可能不太适合的自定义逻辑。</seg>
       </tuv>
     </tu>
     <tu>
