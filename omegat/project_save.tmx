@@ -5713,8 +5713,8 @@
       <tuv lang="EN-US">
         <seg>As indicated by name, these functions are applicable in</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T051948Z" creationid="xccui" creationdate="20190621T051948Z">
-        <seg>从名字就能看出，这些函数适用于不同的上下文</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T052024Z" creationid="xccui" creationdate="20190621T051948Z">
+        <seg>从名字就能看出，这些函数适用于不同的上下文环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12331,6 +12331,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T062139Z" creationid="xccui" creationdate="20190604T055430Z">
         <seg>但这对于现如今很多用例场景而言无法满足延迟的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, they have a very similar feature set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T052107Z" creationid="xccui" creationdate="20190621T052107Z">
+        <seg>但是它们的功能都很相似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26072,6 +26080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will continue dis‐ cussing these common features by looking in detail at the KeyedProcessFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T052436Z" creationid="xccui" creationdate="20190621T052436Z">
+        <seg>接下来我们会以KeyedProcessFunction为例来讨论这些通用的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will discuss the con&lt;t4/&gt;‐&lt;t5/&gt; figuration and setup of Flink clusters in detail in &lt;t6/&gt;Chapter 9&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T063849Z" creationid="xccui" creationdate="20190424T063840Z">
@@ -27933,6 +27949,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141142Z" creationid="xccui" creationdate="20190606T141058Z">
         <seg>我们对两类部署Flink应用的方式加以讨论，关注它们如何分配及执行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>different contexts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T052026Z" creationid="xccui" creationdate="20190621T052026Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
