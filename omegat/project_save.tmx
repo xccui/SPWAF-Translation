@@ -5142,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An operator based on event time uses watermarks to determine the completeness of its ingested records and the progress of its operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031058Z" creationid="xccui" creationdate="20190621T031058Z">
+        <seg>基于事件时间的算子使用水位线来判断输入记录的完整度以及自身的操作进度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An operator pipeline that complies with the requirements of task chaining</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203432Z" creationid="xccui" creationdate="20190606T203431Z">
