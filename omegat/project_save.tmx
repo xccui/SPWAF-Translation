@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// remember current timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071725Z" creationid="xccui" creationdate="20190621T071725Z">
+        <seg>// 记住当前的定时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// return record timestamp</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051156Z" creationid="xccui" creationdate="20190620T051156Z">
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060453Z" creationid="xccui" creationdate="20190616T060453Z">
         <seg>// 设置环境的并行度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// set processing time timer for now + 1 second</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071708Z" creationid="xccui" creationdate="20190621T071708Z">
+        <seg>// 以当前时间+1秒设置处理时间定时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071603Z" creationid="xccui" creationdate="20190621T071603Z">
         <seg>// 温度下降，删除当前定时器 ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp) currentTimer.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// temperature increased and we have not set a timer yet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071647Z" creationid="xccui" creationdate="20190621T071647Z">
+        <seg>// 温度升高并且还未设置定时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -28337,10 +28361,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ctx: KeyedProcessFunction[String, SensorReading, String]#OnTimerContext, out: Collector[String]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071739Z" creationid="xccui" creationdate="20190621T071739Z">
+        <seg>ctx: KeyedProcessFunction[String, SensorReading, String]#OnTimerContext, out: Collector[String]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>currentProcessingTime(): Long returns the current processing time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060006Z" creationid="xccui" creationdate="20190621T060006Z">
         <seg>currentProcessingTime(): Long返回当前的处理时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>currentTimer.update(timerTs)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071727Z" creationid="xccui" creationdate="20190621T071727Z">
+        <seg>currentTimer.update(timerTs)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29225,6 +29265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out.collect("Temperature of sensor '" + ctx.getCurrentKey + "' monotonically increased for 1 second.") currentTimer.clear()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071743Z" creationid="xccui" creationdate="20190621T071743Z">
+        <seg>out.collect("Temperature of sensor '" + ctx.getCurrentKey + "' monotonically increased for 1 second.") currentTimer.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def checkAndGetNextWatermark( r: SensorReading,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054807Z" creationid="xccui" creationdate="20190620T054807Z">
@@ -29301,6 +29349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020909Z" creationid="xccui" creationdate="20190613T020909Z">
         <seg>override def map(value: Int): Int = value + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def onTimer( ts: Long,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071736Z" creationid="xccui" creationdate="20190621T071736Z">
+        <seg>override def onTimer( ts: Long,</seg>
       </tuv>
     </tu>
     <tu>
@@ -30521,6 +30577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val timerTs = ctx.timerService().currentProcessingTime() + 1000 ctx.timerService().registerProcessingTimeTimer(timerTs)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071711Z" creationid="xccui" creationdate="20190621T071711Z">
+        <seg>val timerTs = ctx.timerService().currentProcessingTime() + 1000 ctx.timerService().registerProcessingTimeTimer(timerTs)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val tupleType: TypeInformation[(Int, Long)] = Types.TUPLE[(Int, Long)]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053851Z" creationid="xccui" creationdate="20190617T053851Z">
@@ -30741,6 +30805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042307Z" creationid="xccui" creationdate="20190612T042307Z">
         <seg>} )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} else if (r.temperature &gt; prevTemp &amp;&amp; curTimerTimestamp == 0) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071627Z" creationid="xccui" creationdate="20190621T071627Z">
+        <seg>} else if (r.temperature &gt; prevTemp &amp;&amp; curTimerTimestamp == 0) {</seg>
       </tuv>
     </tu>
     <tu>
