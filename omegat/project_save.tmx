@@ -18120,6 +18120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Processing-time timers fire immediately after the registering method returns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070456Z" creationid="xccui" creationdate="20190621T070456Z">
+        <seg>处理时间的定时器会在注册方法返回后立即触发，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processing-time windows introduce the lowest latency possi&lt;t6/&gt;‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T043855Z" creationid="xccui" creationdate="20190414T041008Z">
