@@ -8399,6 +8399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Estimates mean there is room for errors, in which case you might gen‐ erate watermarks that are inaccurate, resulting in late data or an unnecessary increase in the application’s latency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033508Z" creationid="xccui" creationdate="20190621T033508Z">
+        <seg>既然是估计，就会有误差，这意味着你可能会生成不准确的水位线，导致出现迟到数据或应用处理延迟的无谓增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaluation functions can be aggregations like sum or minimum or custom operations applied on the buck&lt;t14/&gt;‐&lt;t15/&gt; et’s collected elements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T050152Z" creationid="xccui" creationdate="20190406T045737Z">
@@ -13793,8 +13801,8 @@
       <tuv lang="EN-US">
         <seg>In practice, you need to make an educated guess and use heuristics to generate watermarks in your applica‐ tions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T032144Z" creationid="xccui" creationdate="20190621T031744Z">
-        <seg>实际操作时，你需要做出一些有依据的猜测并使用启发式的方法为你的应用生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T032313Z" creationid="xccui" creationdate="20190621T031744Z">
+        <seg>实际操作时，你需要做出一些有依据的猜测并使用启发式方法为你的应用生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
