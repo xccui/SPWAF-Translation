@@ -15351,6 +15351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It gives access to the timestamp and the key of the current record and to a TimerService.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054048Z" creationid="xccui" creationdate="20190621T054048Z">
+        <seg>通过它可以访问时间戳、当前记录的键值以及TimerService。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has a public constructor without any arguments—a default constructor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042929Z" creationid="xccui" creationdate="20190617T042929Z">
@@ -16291,6 +16299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053311Z" creationid="xccui" creationdate="20190605T053311Z">
         <seg>此外，结果仍然依赖于到来事件的时间和顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the Context can emit records to side outputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054138Z" creationid="xccui" creationdate="20190621T054138Z">
+        <seg>此外，Context还支持将结果发送到副输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20634,8 +20650,8 @@
       <tuv lang="EN-US">
         <seg>The Context object is what makes a process function special.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054010Z" creationid="xccui" creationdate="20190621T054010Z">
-        <seg>Context对象就是处理函数与众不同的原因。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054155Z" creationid="xccui" creationdate="20190621T054010Z">
+        <seg>Context对象是让处理函数与众不同的原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28685,6 +28701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065820Z" creationid="xccui" creationdate="20190615T065415Z">
         <seg>举例而言，如果我们知道DataStream的并行分区存在倾斜现象，那么可能就希望通过重新平衡数据来均匀分配后续算子的负载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT]) is a callback function that is invoked when a previously registered timer triggers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054245Z" creationid="xccui" creationdate="20190621T054245Z">
+        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT])是一个回调函数，会在之前注册的定时器触发时调用。</seg>
       </tuv>
     </tu>
     <tu>
