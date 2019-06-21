@@ -12559,6 +12559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no such timer exists, the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060716Z" creationid="xccui" creationdate="20190621T060716Z">
+        <seg>如果该定时器不存在，则方法不会有任何作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If one of the TaskManagers fails, the number of available slots drops to six.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205758Z" creationid="xccui" creationdate="20190428T205742Z">
@@ -22576,6 +22584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The processElement() and onTimer() methods are synchronized to prevent concurrent access and manipu‐ lation of state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T061008Z" creationid="xccui" creationdate="20190621T061008Z">
+        <seg>processElement()和onTimer()两方法是同步的，这样可以防止并发访问或操作状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The program in Example 5-1 converts the temperatures from Fahrenheit to Celsius and computes the average temperature every 5 seconds for each sensor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053332Z" creationid="xccui" creationdate="20190612T035758Z">
@@ -24508,6 +24524,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145847Z" creationid="esouser" creationdate="20190603T145847Z">
         <seg>时间服务和定时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timers on Nonkeyed Streams</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T061036Z" creationid="xccui" creationdate="20190621T061036Z">
+        <seg>在非键值流上设置定时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -26593,6 +26617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a timer fires, the onTimer() callback function is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060757Z" creationid="xccui" creationdate="20190621T060732Z">
+        <seg>定时器触发时会调用onTimer()回调函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an application is executed, all of its dependencies must be available to the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035540Z" creationid="xccui" creationdate="20190619T035540Z">
@@ -28075,8 +28107,8 @@
       <tuv lang="EN-US">
         <seg>deleteEventTimeTimer(timestamp: Long): Unit deletes an event-time timer that was previously registered for the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060658Z" creationid="xccui" creationdate="20190621T060658Z">
-        <seg>deleteEventTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的事件时间定时器。.</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060737Z" creationid="xccui" creationdate="20190621T060658Z">
+        <seg>deleteEventTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的事件时间定时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28628,6 +28660,14 @@
         <seg>merges black and gray events into a single output stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065114Z" creationid="xccui" creationdate="20190614T065114Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method has no effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060718Z" creationid="xccui" creationdate="20190621T060718Z">
         <seg></seg>
       </tuv>
     </tu>
