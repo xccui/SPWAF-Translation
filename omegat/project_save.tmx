@@ -8735,6 +8735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Event-time timers fire when the next watermark is processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070525Z" creationid="xccui" creationdate="20190621T070525Z">
+        <seg>事件时间定时器会在处理下一条水位线的时候触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Event-time windows compute deterministic results even when events arrive out of order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071120Z" creationid="xccui" creationdate="20190619T071120Z">
@@ -21816,6 +21824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following code shows how to apply a KeyedProcessFunction to a KeyedStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070648Z" creationid="xccui" creationdate="20190621T070648Z">
+        <seg>以下代码展示了如何将KeyedProcessFunction用在一个KeyedStream上面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following example code shows how to use the methods of a RichFlat MapFunction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034214Z" creationid="xccui" creationdate="20190619T033912Z">
@@ -21996,6 +22012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053136Z" creationid="xccui" creationdate="20190621T053136Z">
         <seg>该函数会针对流中的每条记录调用一次，并返回零个、一个或多个记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The function monitors the temperatures of sensors and emits a warning if the tem‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070743Z" creationid="xccui" creationdate="20190621T070743Z">
+        <seg>该函数对传感器温度进行监测，</seg>
       </tuv>
     </tu>
     <tu>
