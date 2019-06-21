@@ -12527,6 +12527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an application needs to recover from a failure, all processing-time timers that expired while the application was restarting will fire immediately when the application resumes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065443Z" creationid="xccui" creationdate="20190621T065349Z">
+        <seg>如果应用需要从故障中恢复，那么所有在应用重启过程中过期的处理时间定时器会在应用恢复后立即触发，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any code samples or other technology this work contains or describes is subject to open source licenses or the intellectual property rights of others, it is your responsibility to ensure that your use thereof complies with such licenses and/or rights.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210742Z" creationid="esouser" creationdate="20190603T210742Z">
@@ -23968,6 +23976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is also true for processing-time timers that are persisted in a savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065518Z" creationid="xccui" creationdate="20190621T065436Z">
+        <seg>存入保存点中的处理时间定时器也是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is batch processing regardless of whether the architecture is based on a data warehouse or components of the Hadoop ecosystem.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T043423Z" creationid="xccui" creationdate="20190605T043413Z">
@@ -24572,6 +24588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145847Z" creationid="esouser" creationdate="20190603T145847Z">
         <seg>时间服务和定时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timers are always asynchronously checkpointed, with one exception.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065600Z" creationid="xccui" creationdate="20190621T065600Z">
+        <seg>定时器总是会以异步方式存入检查点，但有一个例外。</seg>
       </tuv>
     </tu>
     <tu>
