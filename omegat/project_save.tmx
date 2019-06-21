@@ -20888,6 +20888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The KeyedProcessFunction is a very versatile function and can be applied to a Keyed Stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053015Z" creationid="xccui" creationdate="20190621T052943Z">
+        <seg>KeyedProcessFunction作用于KeyedStream之上，它的用法非常灵活。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Lambda architecture aimed to improve the high result latency of the original batch analytics architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T015919Z" creationid="xccui" creationdate="20190322T054026Z">
@@ -21812,6 +21820,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T062259Z" creationid="xccui" creationdate="20190613T061921Z">
         <seg>这个函数会作用于一个语句流上，将每个句子按照空格字符分割，然后把分割得到的每个单词作为一条独立的记录发出去：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The function is called for each record of the stream and returns zero, one, or more records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053136Z" creationid="xccui" creationdate="20190621T053136Z">
+        <seg>该函数会针对流中的每条记录调用一次，并返回零个、一个或多个记录。</seg>
       </tuv>
     </tu>
     <tu>
