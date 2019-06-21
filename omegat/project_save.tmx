@@ -12863,6 +12863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are using the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065824Z" creationid="xccui" creationdate="20190621T065824Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you click on that job you will see the data flow and live metrics about the opera&lt;t0/&gt;‐&lt;t1/&gt; tors of the running job similar to the screenshot in &lt;t2/&gt;Figure 1-9&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T042154Z" creationid="xccui" creationdate="20190329T041245Z">
@@ -14019,6 +14027,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053326Z" creationid="xccui" creationdate="20190617T053326Z">
         <seg>这些情况下，你就需要为特定数据类型生成TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that case, it is recom‐ mended to not use timers excessively, to avoid long checkpointing times.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070042Z" creationid="xccui" creationdate="20190621T070042Z">
+        <seg>在这种情况下，建议不要使用太多定时器，以避免检查点生成时间太久。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18570,8 +18586,8 @@
       <tuv lang="EN-US">
         <seg>RocksDB state backend with incremental checkpoints and storing the timers on the heap (default setting), they are checkpointed synchronously.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065821Z" creationid="xccui" creationdate="20190621T065821Z">
-        <seg>如果你在使用开启了增量检查点模式RocksDB状态后端且将定时器存在堆内（默认设置），定时器写入检查点的过程就是同步的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065932Z" creationid="xccui" creationdate="20190621T065821Z">
+        <seg>如果你在使用开启了增量检查点模式RocksDB状态后端，且将定时器存储在堆内（默认设置），定时器写入检查点的过程就会是同步的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24602,8 +24618,8 @@
       <tuv lang="EN-US">
         <seg>Timers are always asynchronously checkpointed, with one exception.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065600Z" creationid="xccui" creationdate="20190621T065600Z">
-        <seg>定时器总是会以异步方式存入检查点，但有一个例外。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065840Z" creationid="xccui" creationdate="20190621T065600Z">
+        <seg>定时器通常会以异步方式存入检查点，但有一个例外。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24628,6 +24644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T061036Z" creationid="xccui" creationdate="20190621T061036Z">
         <seg>在非键值流上设置定时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timers that are registered for a timestamp in the past are not silently dropped but processed as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070407Z" creationid="xccui" creationdate="20190621T070407Z">
+        <seg>以过去的时间戳注册的定时器不会被静默删除，而同样会被处理。</seg>
       </tuv>
     </tu>
     <tu>
