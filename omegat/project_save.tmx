@@ -16775,6 +16775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that this</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062507Z" creationid="xccui" creationdate="20190621T062507Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that to be able to efficiently combine the current state with an event and produce a single value, the aggregation function must be associative and commuta&lt;t0/&gt;‐&lt;t1/&gt; tive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035418Z" creationid="xccui" creationdate="20190406T035032Z">
@@ -30307,8 +30315,8 @@
       <tuv lang="EN-US">
         <seg>will move all data to a single task such that the operator would be</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062117Z" creationid="xccui" creationdate="20190621T062117Z">
-        <seg>注意，这样会使所有数据发到单个任务上，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062540Z" creationid="xccui" creationdate="20190621T062117Z">
+        <seg>注意，这样操作会使所有数据发到单个任务上，</seg>
       </tuv>
     </tu>
     <tu>
