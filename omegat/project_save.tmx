@@ -12551,6 +12551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no such timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060625Z" creationid="xccui" creationdate="20190621T060625Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If one of the TaskManagers fails, the number of available slots drops to six.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205758Z" creationid="xccui" creationdate="20190428T205742Z">
@@ -28065,6 +28073,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>deleteEventTimeTimer(timestamp: Long): Unit deletes an event-time timer that was previously registered for the current key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060658Z" creationid="xccui" creationdate="20190621T060658Z">
+        <seg>deleteEventTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的事件时间定时器。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>deleteProcessingTimeTimer(timestamp: Long): Unit deletes a processing- time timer that was previously registered for the current key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060504Z" creationid="xccui" creationdate="20190621T060504Z">
+        <seg>deleteProcessingTimeTimer(timestamp: Long): Unit针对当前键值删除一个已经注册的处理时间定时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deploying Flink applications and the way each distributes and executes tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141142Z" creationid="xccui" creationdate="20190606T141058Z">
@@ -28189,6 +28213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060229Z" creationid="xccui" creationdate="20190621T060229Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>exists, the method has no effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060623Z" creationid="xccui" creationdate="20190621T060540Z">
+        <seg>如果该定时器不存在，则方法不会有任何作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29341,6 +29373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050324Z" creationid="xccui" creationdate="20190620T050302Z">
         <seg>且它的时间戳大于上一个水位线的时间戳，则算子就会发出一个新的水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>timestamp that is equal to or larger than the timer’s timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060426Z" creationid="xccui" creationdate="20190621T060426Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
