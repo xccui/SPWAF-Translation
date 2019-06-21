@@ -6543,6 +6543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064253Z" creationid="xccui" creationdate="20190621T064253Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, connect() does not establish a relationship</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045619Z" creationid="xccui" creationdate="20190615T045619Z">
@@ -12439,6 +12447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you can configure the RocksDB state backend to also store the timers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065154Z" creationid="xccui" creationdate="20190621T065154Z">
+        <seg>同时你可以配置RocksDB状态后端来存定时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you should also know how to create a new Flink project from scratch.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004140Z" creationid="xccui" creationdate="20190612T004101Z">
@@ -15755,6 +15771,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191614Z" creationid="xccui" creationdate="20190607T185829Z">
         <seg>键值状态是按照算子输入记录所定义的键值来进行维护或访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KeyedProcessFunction holds the timestamps of all timers in a priority queue on the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064250Z" creationid="xccui" creationdate="20190621T064250Z">
+        <seg>默认情况下，KeyedProcessFunction会将全部定时器的时间戳放到堆中的一个优先队列里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28421,6 +28445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040428Z" creationid="xccui" creationdate="20190611T040428Z">
         <seg>git clone https://github.com/streaming-with-flink/examples-scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>heap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064256Z" creationid="xccui" creationdate="20190621T064256Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
