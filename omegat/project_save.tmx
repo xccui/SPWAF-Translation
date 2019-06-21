@@ -21112,6 +21112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The TimerService of the Context and OnTimerContext objects offers the following methods:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T055620Z" creationid="xccui" creationdate="20190621T055620Z">
+        <seg>Context和OnTimerContext对象中的TimerService提供了以下方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Window Join</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023309Z" creationid="xccui" creationdate="20190225T023309Z">
@@ -27997,6 +28005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
         <seg>你可以使用tail命令监控持续产生的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>currentProcessingTime(): Long returns the current processing time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060006Z" creationid="xccui" creationdate="20190621T060006Z">
+        <seg>currentProcessingTime(): Long返回当前的处理时间。</seg>
       </tuv>
     </tu>
     <tu>
