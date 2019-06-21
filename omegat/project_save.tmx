@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// apply ProcessFunction to monitor temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071114Z" creationid="xccui" creationdate="20190621T071114Z">
+        <seg>// 使用KeyedProcessFunction来监测温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// assign record timestamp</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054920Z" creationid="xccui" creationdate="20190620T054920Z">
@@ -810,6 +818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T072814Z" creationid="xccui" creationdate="20190619T072814Z">
         <seg>// 读入传感器流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// key by sensor id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070917Z" creationid="xccui" creationdate="20190621T070917Z">
+        <seg>// 以传感器id为键值分区</seg>
       </tuv>
     </tu>
     <tu>
@@ -29169,6 +29185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>perature of a sensor monotonically increases for a period of 1 second in processing time:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070859Z" creationid="xccui" creationdate="20190621T070845Z">
+        <seg>如果某个传感器的温度在1秒的处理时间内持续上升则发出警告：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>personTuple.f1 = 42;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T064531Z" creationid="xccui" creationdate="20190617T064531Z">
@@ -30349,6 +30373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050041Z" creationid="xccui" creationdate="20190615T050041Z">
         <seg>val two: DataStream[(Int, String)] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val warnings = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070901Z" creationid="xccui" creationdate="20190621T070901Z">
+        <seg>val warnings = readings</seg>
       </tuv>
     </tu>
     <tu>
