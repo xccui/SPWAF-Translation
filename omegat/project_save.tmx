@@ -25080,6 +25080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike batch applications, which are built around the premise that all data is avail‐ able, the latency/completeness tradeoff is a fundamental characteristic of stream pro‐ cessing applications, which process unbounded data as it arrives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T042217Z" creationid="xccui" creationdate="20190621T042217Z">
+        <seg>批处理应用构建的前提是所有数据都处于随时可用状态。而流处理应用需要处理随时到来的无限数据，因此延迟和完整性之间的取舍是它的一项基本特征。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Until the rise of Apache Hadoop, specialized analytical database systems and data warehouses were the predominant solutions for data analytics workloads.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T203754Z" creationid="xccui" creationdate="20190228T194848Z">
