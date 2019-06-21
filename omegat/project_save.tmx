@@ -12233,8 +12233,8 @@
       <tuv lang="EN-US">
         <seg>However, the reality is that we can never have perfect watermarks because that would mean we are always certain there are no delayed records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031325Z" creationid="xccui" creationdate="20190621T031325Z">
-        <seg>但现实情况是永远不会</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031658Z" creationid="xccui" creationdate="20190621T031325Z">
+        <seg>但现实中永远不会有完美的水位线，因为总会有迟到的记录存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18354,8 +18354,8 @@
       <tuv lang="EN-US">
         <seg>Round-Robin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043236Z" creationid="xccui" creationdate="20190615T071053Z">
-        <seg>轮询</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031352Z" creationid="xccui" creationdate="20190615T071053Z">
+        <seg>轮流</seg>
       </tuv>
     </tu>
     <tu>
@@ -22410,8 +22410,8 @@
       <tuv lang="EN-US">
         <seg>The rebalance() method partitions the input stream so that events are evenly distributed to successor tasks in a round-robin fashion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043412Z" creationid="xccui" creationdate="20190616T043105Z">
-        <seg>rebalance()方法会将输入流中的事件以轮询的方式均匀分配给后继任务，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031409Z" creationid="xccui" creationdate="20190616T043105Z">
+        <seg>rebalance()方法会将输入流中的事件以轮流方式均匀分配给后继任务，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22458,8 +22458,8 @@
       <tuv lang="EN-US">
         <seg>The rescale() method also distributes events in a round-robin fashion, but only to a subset of successor tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043552Z" creationid="xccui" creationdate="20190616T043552Z">
-        <seg>rescale()也会以轮询的方式对事件进行分发，但分发目标仅限于部分后继任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031526Z" creationid="xccui" creationdate="20190616T043552Z">
+        <seg>rescale()也会以轮流方式对事件进行分发，但分发目标仅限于部分后继任务。</seg>
       </tuv>
     </tu>
     <tu>
