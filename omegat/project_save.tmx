@@ -11023,6 +11023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a MapFunction does</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043236Z" creationid="xccui" creationdate="20190621T043236Z">
+        <seg>例如，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a time-window operator assigns records to windows according to their associated timestamp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040311Z" creationid="xccui" creationdate="20190523T040311Z">
@@ -19784,6 +19792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stream API transformations we have seen so far.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043218Z" creationid="xccui" creationdate="20190621T043218Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stream Processing Fundamentals</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T050207Z" creationid="xccui" creationdate="20190329T050207Z">
@@ -20580,6 +20596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044525Z" creationid="xccui" creationdate="20190614T043951Z">
         <seg>作为一种特殊的DataStream，DataStream API中的KeyedStream抽象可以从逻辑上将事件按照键值分配到多条独立的子流中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DataStream API provides a family of low-level transformations, the process functions, which can also access record timestamps and watermarks and register timers that trigger at a specific time in the future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043822Z" creationid="xccui" creationdate="20190621T043822Z">
+        <seg>DataStream API提供了一组相对低级的转换——处理函数。除了基本功能，它们还可以访问记录的时间戳和水位线，并注册一些在将来某个特定时间触发的定时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28501,6 +28525,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061521Z" creationid="xccui" creationdate="20190614T061521Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>not have access to timestamps or the current event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043253Z" creationid="xccui" creationdate="20190621T043253Z">
+        <seg>MapFunction无法访问时间戳或当前的事件时间。</seg>
       </tuv>
     </tu>
     <tu>
