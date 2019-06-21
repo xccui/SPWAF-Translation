@@ -11055,6 +11055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each key and timestamp, exactly one timer can be registered, which means each key can have multiple timers but only one for each timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064209Z" creationid="xccui" creationdate="20190621T064209Z">
+        <seg>对于每个键值和时间戳只能注册一个定时器。换言之，每个键值可以有多个定时器，但对应每个时间戳只能有一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For exam&lt;t0/&gt;‐&lt;t1/&gt; ple, the data of an order processing system can be analyzed to obtain sales growth over time, to identify reasons for delayed shipments, or to predict future sales in order to adjust the inventory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T182744Z" creationid="xccui" creationdate="20190228T182744Z">
