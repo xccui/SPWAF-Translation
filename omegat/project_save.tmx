@@ -23008,6 +23008,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The timer will fire when the processing time of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060222Z" creationid="xccui" creationdate="20190621T060222Z">
+        <seg>当执行机器的处理时间到达给定的时间戳时，该定时器就会触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The timer will fire when the watermark is updated to a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060423Z" creationid="xccui" creationdate="20190621T060423Z">
+        <seg>当更新候的水位线时间戳大于或等于定时器的时间戳时，它就会触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The timestamp argument gives the timestamp of the firing timer and the Collec</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054908Z" creationid="xccui" creationdate="20190621T054908Z">
@@ -28169,6 +28185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>executing machine reaches the provided timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060229Z" creationid="xccui" creationdate="20190621T060229Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>explicitly specified via the submission client.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060228Z" creationid="xccui" creationdate="20190616T060228Z">
@@ -29037,6 +29061,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051155Z" creationid="xccui" creationdate="20190615T051155Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>registerEventTimeTimer(timestamp: Long): Unit registers an event-time timer for the current key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060320Z" creationid="xccui" creationdate="20190621T060320Z">
+        <seg>registerEventTimeTimer(timestamp: Long): Unit针对当前键值注册一个事件时间定时器。</seg>
       </tuv>
     </tu>
     <tu>
