@@ -6265,8 +6265,8 @@
       <tuv lang="EN-US">
         <seg>Besides watermarks, Flink has many features to tweak the exact behavior of time-based oper‐ ations, such as process functions and window triggers, and offers different ways to handle late data, which are discussed in “Handling Late Data” on page 148.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T042913Z" creationid="xccui" creationdate="20190621T042913Z">
-        <seg>除了水位线，Flink还有很多功能可用于调整那些时间相关操作（例如：处理函数和窗口触发器）的具体行为。此外，它还提供了不同的方法来处理迟到</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043032Z" creationid="xccui" creationdate="20190621T042913Z">
+        <seg>除了水位线，Flink还有很多功能可用于调整那些时间相关操作（例如：处理函数和窗口触发器）的具体行为。此外，它还提供了不同的方法来处理迟到数据，相关内容会在148页"处理迟到数据"一节进行讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8455,6 +8455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though time information and watermarks are crucial to many streaming appli‐ cations, you might have noticed that we cannot access them through the basic Data‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043212Z" creationid="xccui" creationdate="20190621T043212Z">
+        <seg>虽然时间信息和水位线对于很多流式应用而言至关重要，但你可能已经注意到我们无法通过前面介绍的DataStream API转换来访问它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though when writing the book we intended for it to be read in chapter order, readers familiar with a chapter’s content might want to skip it and readers excited about writing Flink code right away might want to read the practical chapters first.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T191312Z" creationid="xccui" creationdate="20190225T162157Z">
@@ -10161,8 +10169,8 @@
       <tuv lang="EN-US">
         <seg>Flink  provides different ways to deal with late records, which are discussed in “Handling Late Data” on page 148.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205759Z" creationid="xccui" creationdate="20190606T205759Z">
-        <seg>为了处理迟到记录，Flink提供了不同的机制，我们将在148页"处理迟到记录"一节讨论它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T042933Z" creationid="xccui" creationdate="20190606T205759Z">
+        <seg>为了处理迟到记录，Flink提供了不同的机制，我们将在148页"处理迟到数据"一节讨论它们。</seg>
       </tuv>
     </tu>
     <tu>
