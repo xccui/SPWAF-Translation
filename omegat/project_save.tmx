@@ -16863,6 +16863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, if you generate very tight watermarks—watermarks that might be larger than the timestamps of some later records—time-based computations might be performed before all relevant data has arrived.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T040435Z" creationid="xccui" creationdate="20190621T040435Z">
+        <seg>反之，如果生成的水位线过于紧密，即水位线可能大于部分后来数据的时间戳，那么计算可能会在所有相关数据到齐之前就已触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, knowing about all accidents that have ever happened might not be so interesting in this case.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043532Z" creationid="xccui" creationdate="20190406T043454Z">
@@ -26837,6 +26845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T044455Z" creationid="xccui" creationdate="20190605T043748Z">
         <seg>虽然从过去视角来看，这种延迟可以接受，但当今的应用必须能够实时收集数据并迅速响应（例如调整手游中的某个可变条件或使用户在网购过程中获得个性化体验）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While this might yield incomplete or inaccurate results, the results are produced in a timely fashion with lower latency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T040711Z" creationid="xccui" creationdate="20190621T040711Z">
+        <seg>虽然这会导致结果不完整或不准确，但能够做到以较低延迟及时地生成结果。</seg>
       </tuv>
     </tu>
     <tu>
