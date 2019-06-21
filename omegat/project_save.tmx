@@ -29625,6 +29625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>using a KeySelector with a constant dummy key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062031Z" creationid="xccui" creationdate="20190621T062031Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>v</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040010Z" creationid="xccui" creationdate="20190418T040010Z">
@@ -30293,6 +30301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040424Z" creationid="xccui" creationdate="20190611T040424Z">
         <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>will move all data to a single task such that the operator would be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062117Z" creationid="xccui" creationdate="20190621T062117Z">
+        <seg>注意，这样会使所有数据发到单个任务上，</seg>
       </tuv>
     </tu>
     <tu>
