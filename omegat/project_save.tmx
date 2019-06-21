@@ -12735,6 +12735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you generate loose watermarks—where the watermarks are far behind the time‐ stamps of the processed records—you increase the latency of the produced results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033944Z" creationid="xccui" creationdate="20190621T033944Z">
+        <seg>如果生成的水位线过于宽松，即水位线远落后于已处理记录的时间戳，那么将导致产生结果的延迟增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you run the application in a local environ‐ ment—or example, from your IDE—on a machine with 8 cores, the source task will run with 8 tasks, the mapper with 16 tasks, and the sink with 2 tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062232Z" creationid="xccui" creationdate="20190616T062221Z">
@@ -27261,6 +27269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235353Z" creationid="xccui" creationdate="20190605T235258Z">
         <seg>为了降低延迟，可以雇佣更娴熟的咖啡师，他们制作咖啡会更快一些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may have been able to generate a result earlier but you had to wait for the water‐ mark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034128Z" creationid="xccui" creationdate="20190621T034128Z">
+        <seg>换言之，可能你早就能够生成结果，但必须等待水位线来触发。</seg>
       </tuv>
     </tu>
     <tu>
