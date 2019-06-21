@@ -16215,6 +16215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, process functions feature side outputs to emit records to multiple output streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043918Z" creationid="xccui" creationdate="20190621T043918Z">
+        <seg>此外，处理函数的副输出功能还允许将记录发送到多个输出流中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, results were still dependent on timing and order of arriving events, i.e., the results did not depend solely on the data but also on exter&lt;t2/&gt;‐&lt;t3/&gt; nal conditions such as the hardware utilization.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T050519Z" creationid="xccui" creationdate="20190327T050502Z">
