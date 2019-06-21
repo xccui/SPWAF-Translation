@@ -28193,6 +28193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>effectively executed with a parallelism of 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064006Z" creationid="xccui" creationdate="20190621T064006Z">
+        <seg>强制算子以并行度1来执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>enterprises across different industries such as (online) retail, social media, telecom‐ munication, gaming, and banking.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050311Z" creationid="xccui" creationdate="20190605T050311Z">
