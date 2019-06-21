@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* monotonically increases for 1 second (in processing time).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071249Z" creationid="xccui" creationdate="20190621T071249Z">
+        <seg>* 则发出警告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-DarchetypeArtifactId=flink-quickstart-scala</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004831Z" creationid="xccui" creationdate="20190612T004831Z">
@@ -334,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.process(new TempIncreaseAlertFunction)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071117Z" creationid="xccui" creationdate="20190621T071117Z">
+        <seg>.process(new TempIncreaseAlertFunction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.reduce((x, y) =&gt; (x._1, x._2 ::: y._2))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062241Z" creationid="xccui" creationdate="20190614T062241Z">
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064856Z" creationid="xccui" creationdate="20190614T064856Z">
         <seg>.union(tokyoStream, rioStream)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/** Emits a warning if the temperature of a sensor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071241Z" creationid="xccui" creationdate="20190621T071241Z">
+        <seg>/** 如果某传感器的温度在1秒（处理时间）内持续增加</seg>
       </tuv>
     </tu>
     <tu>
@@ -22140,6 +22164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052836Z" creationid="xccui" creationdate="20190612T052147Z">
         <seg>现在无须关心SensorTimeAssigner的实现细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The implementation of the TempIncreaseAlterFunction is shown in Example 6-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071207Z" creationid="xccui" creationdate="20190621T071207Z">
+        <seg>示例6-5给出了TempIncreaseAlterFunction的实现。</seg>
       </tuv>
     </tu>
     <tu>
