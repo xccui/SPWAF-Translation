@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// get previous temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071425Z" creationid="xccui" creationdate="20190621T071425Z">
+        <seg>// 获取前一个温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 5 second tumbling windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
@@ -966,6 +974,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// stores temperature of last sensor reading</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071510Z" creationid="xccui" creationdate="20190621T071334Z">
+        <seg>// 存储最近一次传感器温度读数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// stores timestamp of currently active timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071403Z" creationid="xccui" creationdate="20190621T071403Z">
+        <seg>// 存储当前活动定时器的时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// subtasks are 0-indexed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034418Z" creationid="xccui" creationdate="20190619T034418Z">
@@ -978,6 +1002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054727Z" creationid="xccui" creationdate="20190614T054550Z">
         <seg>// 滚动计算每个分区内元组第2个字段的总和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// temperature decreased; delete current timer ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp) currentTimer.clear()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071603Z" creationid="xccui" creationdate="20190621T071603Z">
+        <seg>// 温度下降，删除当前定时器 ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp) currentTimer.clear()</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061610Z" creationid="xccui" creationdate="20190616T061610Z">
         <seg>// 数据源以默认并行度运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// update last temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071505Z" creationid="xccui" creationdate="20190621T071505Z">
+        <seg>// 更新最近一次的温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -28233,6 +28273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class TempIncreaseAlertFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071337Z" creationid="xccui" creationdate="20190621T071337Z">
+        <seg>class TempIncreaseAlertFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061912Z" creationid="xccui" creationdate="20190617T061912Z">
@@ -28277,6 +28325,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
         <seg>你可以使用tail命令监控持续产生的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctx: KeyedProcessFunction[String, SensorReading, String]#Context, out: Collector[String]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071416Z" creationid="xccui" creationdate="20190621T071416Z">
+        <seg>ctx: KeyedProcessFunction[String, SensorReading, String]#Context, out: Collector[String]): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -28505,6 +28561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extends KeyedProcessFunction[String, SensorReading, String] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071301Z" creationid="xccui" creationdate="20190621T071301Z">
+        <seg>extends KeyedProcessFunction[String, SensorReading, String] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>extractedTS: Long): Watermark = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054810Z" creationid="xccui" creationdate="20190620T054810Z">
@@ -28629,6 +28693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050644Z" creationid="xccui" creationdate="20190616T050644Z">
         <seg>if (key &lt; 0) 0 else r.nextInt(numPartitions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (prevTemp == 0.0 || r.temperature &lt; prevTemp) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071522Z" creationid="xccui" creationdate="20190621T071522Z">
+        <seg>if (prevTemp == 0.0 || r.temperature &lt; prevTemp) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -28805,6 +28877,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051732Z" creationid="xccui" creationdate="20190618T051732Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lastTemp.update(r.temperature)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071516Z" creationid="xccui" creationdate="20190621T071516Z">
+        <seg>lastTemp.update(r.temperature)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lazy val currentTimer: ValueState[Long] = getRuntimeContext.getState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071405Z" creationid="xccui" creationdate="20190621T071405Z">
+        <seg>lazy val currentTimer: ValueState[Long] = getRuntimeContext.getState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lazy val lastTemp: ValueState[Double] = getRuntimeContext.getState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071341Z" creationid="xccui" creationdate="20190621T071341Z">
+        <seg>lazy val lastTemp: ValueState[Double] = getRuntimeContext.getState(</seg>
       </tuv>
     </tu>
     <tu>
@@ -28997,6 +29093,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054235Z" creationid="xccui" creationdate="20190618T054235Z">
         <seg>new RichFilterFunction[String] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[Double]("lastTemp", Types.of[Double]))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071345Z" creationid="xccui" creationdate="20190621T071345Z">
+        <seg>new ValueStateDescriptor[Double]("lastTemp", Types.of[Double]))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[Long]("timer", Types.of[Long]))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071409Z" creationid="xccui" creationdate="20190621T071409Z">
+        <seg>new ValueStateDescriptor[Long]("timer", Types.of[Long]))</seg>
       </tuv>
     </tu>
     <tu>
@@ -29205,6 +29317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
         <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def processElement( r: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071412Z" creationid="xccui" creationdate="20190621T071412Z">
+        <seg>override def processElement( r: SensorReading,</seg>
       </tuv>
     </tu>
     <tu>
@@ -29929,6 +30049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val curTimerTimestamp = currentTimer.value();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071518Z" creationid="xccui" creationdate="20190621T071518Z">
+        <seg>val curTimerTimestamp = currentTimer.value();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val defaultP = env.env.getParallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060244Z" creationid="xccui" creationdate="20190616T060244Z">
@@ -30205,6 +30333,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041128Z" creationid="xccui" creationdate="20190617T041128Z">
         <seg>val persons: DataStream[Person] = env.fromElements(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val prevTemp = lastTemp.value()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071431Z" creationid="xccui" creationdate="20190621T071431Z">
+        <seg>val prevTemp = lastTemp.value()</seg>
       </tuv>
     </tu>
     <tu>
