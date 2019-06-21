@@ -7399,6 +7399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently, Flink provides eight different process functions: ProcessFunction, Keyed ProcessFunction, CoProcessFunction, ProcessJoinFunction, BroadcastProcess Function, KeyedBroadcastProcessFunction, ProcessWindowFunction, and ProcessAllWindowFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T051333Z" creationid="xccui" creationdate="20190621T051333Z">
+        <seg>目前，Flink提供了8种不同的处理函数：ProcessFunction、KeyedProcessFunction、CoProcessFunction、ProcessJoinFunction、BroadcastProcessFunction、KeyedBroadcastProcessFunction、ProcessWindowFunction以及ProcessAllWindowFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050033Z" creationid="xccui" creationdate="20190616T050033Z">
