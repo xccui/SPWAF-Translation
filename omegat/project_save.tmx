@@ -5711,6 +5711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As indicated by name, these functions are applicable in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T051948Z" creationid="xccui" creationdate="20190621T051948Z">
+        <seg>从名字就能看出，这些函数适用于不同的上下文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As motivated in &lt;t2/&gt;Chapter 2&lt;t3/&gt;, a certain degree of timestamp out-of-orderness is given in basically all real-world use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040054Z" creationid="xccui" creationdate="20190523T040054Z">
