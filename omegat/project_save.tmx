@@ -6081,8 +6081,8 @@
       <tuv lang="EN-US">
         <seg>Based on the received watermarks, the operator computes a point in time up to which it expects to have received relevant input records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031242Z" creationid="xccui" creationdate="20190621T031242Z">
-        <seg>基于收到的水位线，算子会计算一个预期所有相关输入记录都已接收完毕的时间点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031819Z" creationid="xccui" creationdate="20190621T031242Z">
+        <seg>根据收到的水位线，算子会计算一个所有相关输入记录都已接收完毕的预期时间点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12233,8 +12233,8 @@
       <tuv lang="EN-US">
         <seg>However, the reality is that we can never have perfect watermarks because that would mean we are always certain there are no delayed records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031658Z" creationid="xccui" creationdate="20190621T031325Z">
-        <seg>但现实中永远不会有完美的水位线，因为总会有迟到的记录存在。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031843Z" creationid="xccui" creationdate="20190621T031325Z">
+        <seg>但现实中永远不会有完美的水位线，因为总会存在迟到的记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13787,6 +13787,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T193928Z" creationid="xccui" creationdate="20190409T193840Z">
         <seg>但在实际应用中，你可能会想将数据流划分为多条逻辑流并定义一些并行窗口（parallel window）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In practice, you need to make an educated guess and use heuristics to generate watermarks in your applica‐ tions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T032144Z" creationid="xccui" creationdate="20190621T031744Z">
+        <seg>实际操作时，你需要做出一些有依据的猜测并使用启发式的方法为你的应用生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
