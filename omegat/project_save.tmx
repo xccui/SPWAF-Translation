@@ -27249,6 +27249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to use whatever information you have about the sources, the network, and the partitions to estimate progress and an upper bound for the lateness of your input records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T032302Z" creationid="xccui" creationdate="20190621T032302Z">
+        <seg>你需要尽可能地了解有关数据源、网络以及分区等信息，以此来估计进度和输入记录的延迟上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should now be able to browse and inspect the code of the book exam‐ ples.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041822Z" creationid="xccui" creationdate="20190611T041759Z">
