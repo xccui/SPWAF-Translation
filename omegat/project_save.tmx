@@ -24576,6 +24576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Timers are checkpointed along with any other state of the function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065223Z" creationid="xccui" creationdate="20190621T065223Z">
+        <seg>这些定时器会和其他状态一起写入检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timers can only be registered on keyed streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T061215Z" creationid="xccui" creationdate="20190621T061215Z">
