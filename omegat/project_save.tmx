@@ -25304,6 +25304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Watermarks are a powerful way to control the behavior of an application with respect to time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T042448Z" creationid="xccui" creationdate="20190621T042448Z">
+        <seg>水位线是一种控制应用时间处理行为的强大方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Watermarks are essential for both event-time win‐ dows and operators handling out-of-order events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025515Z" creationid="xccui" creationdate="20190606T025515Z">
