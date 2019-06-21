@@ -20978,8 +20978,8 @@
       <tuv lang="EN-US">
         <seg>The OnTimerContext provides the same serv‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T055144Z" creationid="xccui" creationdate="20190621T055144Z">
-        <seg>OnTimerContext和processElement()方法中的Context对象提供的服务器相同，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T055416Z" creationid="xccui" creationdate="20190621T055144Z">
+        <seg>OnTimerContext能够提供和processElement()方法中的Context对象相同的服务，</seg>
       </tuv>
     </tu>
     <tu>
@@ -28269,6 +28269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210814Z" creationid="esouser" creationdate="20190603T210814Z">
         <seg>https://github.com/streaming-with-flink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ices as the Context object of the processElement() method and also returns the time domain (processing time or event time) of the firing trigger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T055535Z" creationid="xccui" creationdate="20190621T055201Z">
+        <seg>此外，它还会返回触发定时器的时间域（处理时间还是事件时间）。</seg>
       </tuv>
     </tu>
     <tu>
