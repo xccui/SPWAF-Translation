@@ -6263,6 +6263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides watermarks, Flink has many features to tweak the exact behavior of time-based oper‐ ations, such as process functions and window triggers, and offers different ways to handle late data, which are discussed in “Handling Late Data” on page 148.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T042913Z" creationid="xccui" creationdate="20190621T042913Z">
+        <seg>除了水位线，Flink还有很多功能可用于调整那些时间相关操作（例如：处理函数和窗口触发器）的具体行为。此外，它还提供了不同的方法来处理迟到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black squares are duplicated, and gray squares are filtered out.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054533Z" creationid="xccui" creationdate="20190613T054410Z">
