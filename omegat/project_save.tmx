@@ -23264,6 +23264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They control how long to wait for data to arrive before performing a computation, such as finalizing a window computation and emitting the result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T030937Z" creationid="xccui" creationdate="20190621T030937Z">
+        <seg>它们控制在执行某些计算（例如完成窗口计算并发出结果）前需要等待数据到达的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They follow the UNIX philoso&lt;t0/&gt;‐&lt;t1/&gt; phy of doing a single thing and doing it well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T171125Z" creationid="xccui" creationdate="20190227T233311Z">
@@ -25242,8 +25250,8 @@
       <tuv lang="EN-US">
         <seg>Watermarks are used to balance latency and result completeness.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T055329Z" creationid="xccui" creationdate="20190620T055329Z">
-        <seg>水位线用于平衡延迟和结果的完整性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T024055Z" creationid="xccui" creationdate="20190620T055329Z">
+        <seg>水位线可用于平衡延迟和结果的完整性。</seg>
       </tuv>
     </tu>
     <tu>
