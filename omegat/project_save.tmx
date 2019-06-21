@@ -20976,6 +20976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OnTimerContext provides the same serv‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T055144Z" creationid="xccui" creationdate="20190621T055144Z">
+        <seg>OnTimerContext和processElement()方法中的Context对象提供的服务器相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OutputSelector defines the select() method that is called for each input event and returns a java.lang.Itera ble[String].</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T060646Z" creationid="xccui" creationdate="20190615T054416Z">
@@ -29340,6 +29348,14 @@
         <seg>to the system clock of the machine where they are being executed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065121Z" creationid="xccui" creationdate="20190619T065121Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tor allows records to be emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054911Z" creationid="xccui" creationdate="20190621T054911Z">
         <seg></seg>
       </tuv>
     </tu>
