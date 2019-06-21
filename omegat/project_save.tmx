@@ -6079,6 +6079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on the received watermarks, the operator computes a point in time up to which it expects to have received relevant input records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031242Z" creationid="xccui" creationdate="20190621T031242Z">
+        <seg>基于收到的水位线，算子会计算一个预期所有相关输入记录都已接收完毕的时间点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022712Z" creationid="xccui" creationdate="20190225T022712Z">
@@ -12219,6 +12227,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T204519Z" creationid="esouser" creationdate="20190603T204255Z">
         <seg>但这些基础设施和传统数据仓库的架构还是基本相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the reality is that we can never have perfect watermarks because that would mean we are always certain there are no delayed records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031325Z" creationid="xccui" creationdate="20190621T031325Z">
+        <seg>但现实情况是永远不会</seg>
       </tuv>
     </tu>
     <tu>
