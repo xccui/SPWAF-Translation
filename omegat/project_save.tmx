@@ -20632,6 +20632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Context object is what makes a process function special.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054010Z" creationid="xccui" creationdate="20190621T054010Z">
+        <seg>Context对象就是处理函数与众不同的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataSet API for Batch Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152457Z" creationid="esouser" creationdate="20190603T152457Z">
