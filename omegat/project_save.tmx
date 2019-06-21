@@ -28017,6 +28017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>currentWatermark(): Long returns the timestamp of the current watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060023Z" creationid="xccui" creationdate="20190621T060023Z">
+        <seg>currentWatermark(): Long返回当前水位线的时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>data with other TaskManagers that run tasks of the same application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142702Z" creationid="xccui" creationdate="20190606T142702Z">
@@ -29029,6 +29037,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051155Z" creationid="xccui" creationdate="20190615T051155Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>registerProcessingTimeTimer(timestamp: Long): Unit registers a processing time timer for the current key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060056Z" creationid="xccui" creationdate="20190621T060056Z">
+        <seg>registerProcessingTimeTimer(timestamp: Long): Unit针对当前键值注册一个处理时间定时器。</seg>
       </tuv>
     </tu>
     <tu>
