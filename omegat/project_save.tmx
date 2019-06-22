@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window assigner produces a WindowedStream (or All WindowedStream if applied on a nonkeyed DataStream).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T035710Z" creationid="xccui" creationdate="20190622T035710Z">
+        <seg>窗口分配器会产生一个WindowedStream（如果用在非键值分区的DataStream上则是AllWindowedStream）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window assigner that determines how the elements of the input stream are grouped into windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T035445Z" creationid="xccui" creationdate="20190622T035445Z">
