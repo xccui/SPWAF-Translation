@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.keyBy(_.id, _._1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031732Z" creationid="xccui" creationdate="20190622T031732Z">
+        <seg>.keyBy(_.id, _._1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.keyBy(r =&gt; r.id)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051709Z" creationid="xccui" creationdate="20190614T051709Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022815Z" creationid="xccui" creationdate="20190622T022815Z">
         <seg>.process(new FreezingMonitor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.process(new ReadingFilter)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031750Z" creationid="xccui" creationdate="20190622T031750Z">
+        <seg>.process(new ReadingFilter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071114Z" creationid="xccui" creationdate="20190621T071114Z">
         <seg>// 使用KeyedProcessFunction来监测温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// apply filtering CoProcessFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031748Z" creationid="xccui" creationdate="20190622T031748Z">
+        <seg>// 应用过滤CoProcessFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -9359,6 +9383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 6-9.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031933Z" creationid="xccui" creationdate="20190622T031933Z">
+        <seg>示例图6-9，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -13315,6 +13347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235108Z" creationid="xccui" creationdate="20190605T235108Z">
         <seg>假设正值圣诞假期，咖啡师要在他们端出的每一杯咖啡上面画一个圣诞老人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation of a CoProcessFunction that dynamically filters a stream of sensor readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032022Z" creationid="xccui" creationdate="20190622T032022Z">
+        <seg>动态过滤传感器读数流的CoProcessFunction实现</seg>
       </tuv>
     </tu>
     <tu>
@@ -22552,6 +22592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The implementation of a ReadingFilter function that dynamically filters a stream of sensor readings based on a stream of filter switches is shown in Example 6-9.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031929Z" creationid="xccui" creationdate="20190622T031929Z">
+        <seg>示例6-9给出了ReadingFilter函数的实现，它基于过滤开关数据流对传感器读数流进行动态过滤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The implementation of the TempIncreaseAlterFunction is shown in Example 6-5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071207Z" creationid="xccui" creationdate="20190621T071207Z">
@@ -28613,6 +28661,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054750Z" creationid="xccui" creationdate="20190620T054750Z">
         <seg>class PunctuatedAssigner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>class ReadingFilter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032024Z" creationid="xccui" creationdate="20190622T032024Z">
+        <seg>class ReadingFilter</seg>
       </tuv>
     </tu>
     <tu>
