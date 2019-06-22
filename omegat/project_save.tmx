@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// check if we may forward the reading if (forwardingEnabled.value()) { out.collect(reading)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032301Z" creationid="xccui" creationdate="20190622T032301Z">
+        <seg>// 检查是否可以转发读数 if (forwardingEnabled.value()) { out.collect(reading)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// compute average temperature using a user-defined function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042729Z" creationid="xccui" creationdate="20190612T042729Z">
@@ -886,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// enable reading forwarding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032317Z" creationid="xccui" creationdate="20190622T032317Z">
+        <seg>// 开启读数转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// execute application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044712Z" creationid="xccui" creationdate="20190612T042805Z">
@@ -978,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
         <seg>// 将读数按5秒的滚动窗口分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// hold timestamp of currently active disable timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032225Z" creationid="xccui" creationdate="20190622T032225Z">
+        <seg>// 用于保存当前活动的停止计时器的时间戳</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set disable forward timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032334Z" creationid="xccui" creationdate="20190622T032334Z">
+        <seg>// 设置停止计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set parallelism of the environment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060453Z" creationid="xccui" creationdate="20190616T060453Z">
@@ -1194,6 +1226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054727Z" creationid="xccui" creationdate="20190614T054550Z">
         <seg>// 滚动计算每个分区内元组第2个字段的总和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// switch to enable forwarding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032055Z" creationid="xccui" creationdate="20190622T032055Z">
+        <seg>// 开启转发的开关</seg>
       </tuv>
     </tu>
     <tu>
@@ -28737,6 +28777,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ctx: CoProcessFunction[SensorReading, (String, Long), SensorReading]#Context, out: Collector[SensorReading]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032238Z" creationid="xccui" creationdate="20190622T032238Z">
+        <seg>ctx: CoProcessFunction[SensorReading, (String, Long), SensorReading]#Context, out: Collector[SensorReading]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ctx: KeyedProcessFunction[String, SensorReading, String]#Context, out: Collector[String]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071416Z" creationid="xccui" creationdate="20190621T071416Z">
@@ -28993,6 +29041,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extends CoProcessFunction[SensorReading, (String, Long), SensorReading] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032027Z" creationid="xccui" creationdate="20190622T032027Z">
+        <seg>extends CoProcessFunction[SensorReading, (String, Long), SensorReading] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>extends KeyedProcessFunction[String, SensorReading, String] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071301Z" creationid="xccui" creationdate="20190621T071301Z">
@@ -29053,6 +29109,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053814Z" creationid="xccui" creationdate="20190617T053801Z">
         <seg>它的用法如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forwardingEnabled.update(true)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032320Z" creationid="xccui" creationdate="20190622T032320Z">
+        <seg>forwardingEnabled.update(true)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29353,6 +29417,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lazy val disableTimer: ValueState[Long] = getRuntimeContext.getState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032228Z" creationid="xccui" creationdate="20190622T032228Z">
+        <seg>lazy val disableTimer: ValueState[Long] = getRuntimeContext.getState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lazy val forwardingEnabled: ValueState[Boolean] = getRuntimeContext.getState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032058Z" creationid="xccui" creationdate="20190622T032058Z">
+        <seg>lazy val forwardingEnabled: ValueState[Boolean] = getRuntimeContext.getState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lazy val freezingAlarmOutput: OutputTag[String] = new OutputTag[String]("freezing-alarms")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023931Z" creationid="xccui" creationdate="20190622T023931Z">
@@ -29565,6 +29645,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054235Z" creationid="xccui" creationdate="20190618T054235Z">
         <seg>new RichFilterFunction[String] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[Boolean]("filterSwitch", Types.of[Boolean]))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032102Z" creationid="xccui" creationdate="20190622T032102Z">
+        <seg>new ValueStateDescriptor[Boolean]("filterSwitch", Types.of[Boolean]))</seg>
       </tuv>
     </tu>
     <tu>
@@ -29821,6 +29909,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071412Z" creationid="xccui" creationdate="20190621T071412Z">
         <seg>override def processElement( r: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def processElement1( reading: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032232Z" creationid="xccui" creationdate="20190622T032232Z">
+        <seg>override def processElement1( reading: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def processElement2( switch: (String, Long),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032304Z" creationid="xccui" creationdate="20190622T032304Z">
+        <seg>override def processElement2( switch: (String, Long),</seg>
       </tuv>
     </tu>
     <tu>
