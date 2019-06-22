@@ -15287,6 +15287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we show you how to define window operators, present the built- in window types of the DataStream API, discuss the functions that can be applied on a window, and finally explain how to define custom windowing logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T034040Z" creationid="xccui" creationdate="20190622T034040Z">
+        <seg>本节我们将向你展示如何定义窗口算子，介绍DataStream API的内置窗口类型，讨论可用于窗口的函数并说明如何自定义窗口逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we will see how to use watermarks to configure event-time window behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025332Z" creationid="xccui" creationdate="20190606T025254Z">
@@ -27917,6 +27925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022718Z" creationid="xccui" creationdate="20190406T044746Z">
         <seg>窗口操作会持续创建一些称为桶（bucket）的有限事件集合，并允许我们基于这些有限集进行计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window operators can be applied on a keyed or a nonkeyed stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T034136Z" creationid="xccui" creationdate="20190622T034136Z">
+        <seg>窗口算子可用于键值分区或非键值分区的数据流上。</seg>
       </tuv>
     </tu>
     <tu>
