@@ -19480,6 +19480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similar to the ProcessFunction, both methods are called with a Context object that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030518Z" creationid="xccui" creationdate="20190622T030518Z">
+        <seg>和ProcessFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similar to watermarks, checkpoint barriers are broadcasted to all connected parallel tasks to ensure that each task receives a barrier from each of its input streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T160224Z" creationid="xccui" creationdate="20190609T160142Z">
