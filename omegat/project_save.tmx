@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.keyBy(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041334Z" creationid="xccui" creationdate="20190622T041334Z">
+        <seg>.keyBy(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.keyBy(0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062236Z" creationid="xccui" creationdate="20190614T062236Z">
@@ -462,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.reduce/aggregate/process(...) // specify the window function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041358Z" creationid="xccui" creationdate="20190622T041358Z">
+        <seg>.reduce/aggregate/process(...) // 指定窗口函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.returns(Types.POJO(Person.class));</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062253Z" creationid="xccui" creationdate="20190617T062253Z">
@@ -498,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064856Z" creationid="xccui" creationdate="20190614T064856Z">
         <seg>.union(tokyoStream, rioStream)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.window(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041337Z" creationid="xccui" creationdate="20190622T041337Z">
+        <seg>.window(...)</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +858,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044839Z" creationid="xccui" creationdate="20190617T044839Z">
         <seg>// 提供了默认构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// define a keyed window operator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041328Z" creationid="xccui" creationdate="20190622T041328Z">
+        <seg>// 定义键值分区窗口算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// define a nonkeyed window-all operator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041443Z" creationid="xccui" creationdate="20190622T041443Z">
+        <seg>// 定义一个非键值分区的全窗口算子</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044717Z" creationid="xccui" creationdate="20190612T041910Z">
         <seg>// 设置流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// specify the window assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041351Z" creationid="xccui" creationdate="20190622T041351Z">
+        <seg>// 指定窗口分配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -30381,6 +30429,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005738Z" creationid="xccui" creationdate="20190612T005738Z">
         <seg>src/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041331Z" creationid="xccui" creationdate="20190622T041331Z">
+        <seg>stream</seg>
       </tuv>
     </tu>
     <tu>
