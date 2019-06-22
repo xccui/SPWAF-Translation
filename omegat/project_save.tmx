@@ -4902,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window function that is applied on a WindowedStream (or AllWindowedStream)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T035910Z" creationid="xccui" creationdate="20190622T035910Z">
+        <seg>一个作用于WindowedStream（或AllWindowedStream）上用于处理分配到窗口中数据的窗口函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040532Z" creationid="xccui" creationdate="20190418T040532Z">
