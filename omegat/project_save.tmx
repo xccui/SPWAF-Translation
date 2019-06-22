@@ -21352,6 +21352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream API provides built-in methods for the most common window oper‐ ations as well as a very flexible windowing mechanism to define custom windowing logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033836Z" creationid="xccui" creationdate="20190622T033836Z">
+        <seg>DataStream API针对一些最常见窗口操作都提供了内置方法，此外还提供了一些非常灵活的窗口机制来自定义窗口逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API provides implementations for two common cases of timestamp assigners with periodic watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051417Z" creationid="xccui" creationdate="20190620T051417Z">
