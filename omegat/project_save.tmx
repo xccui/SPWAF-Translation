@@ -7943,6 +7943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom window operators are discussed in detail later in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T042043Z" creationid="xccui" creationdate="20190622T042043Z">
+        <seg>详细内容会在本节稍后讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customizing Window Operators</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023237Z" creationid="xccui" creationdate="20190225T023237Z">
