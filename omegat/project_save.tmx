@@ -25984,6 +25984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typi‐ cally, these intervals are defined using time-based logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033117Z" creationid="xccui" creationdate="20190622T033117Z">
+        <seg>通常情况下，这些区间都是使用时间逻辑定义的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UDFs are written by the application programmer and implement custom computation logic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T155205Z" creationid="xccui" creationdate="20190405T155205Z">
@@ -27893,6 +27901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022718Z" creationid="xccui" creationdate="20190406T044746Z">
         <seg>窗口操作会持续创建一些称为桶（bucket）的有限事件集合，并允许我们基于这些有限集进行计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window operators provide a way to group events in buckets of finite size and apply computations on the bounded contents of these buckets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033431Z" creationid="xccui" creationdate="20190622T033431Z">
+        <seg>窗口算子提供了一种基于有限大小的存储桶对事件进行分组，并对这些桶中的有限内容应用计算的方法。</seg>
       </tuv>
     </tu>
     <tu>
