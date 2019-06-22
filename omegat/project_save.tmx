@@ -4334,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A side output is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015023Z" creationid="xccui" creationdate="20190622T015023Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A similar effect appears for operators with two input streams whose watermarks sig‐ nificantly diverge.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T033052Z" creationid="xccui" creationdate="20190607T033031Z">
@@ -7447,6 +7455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Context object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015116Z" creationid="xccui" creationdate="20190622T015116Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Controlling Task Chaining</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030013Z" creationid="xccui" creationdate="20190225T030013Z">
@@ -9107,6 +9123,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054957Z" creationid="xccui" creationdate="20190620T054957Z">
         <seg>示例6-5，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-6 shows how to emit data from a ProcessFunction via DataStream of a side output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022628Z" creationid="xccui" creationdate="20190622T022628Z">
+        <seg>示例6-6展示了如何从ProcessFunction利用副输出的DataStream发送数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18160,6 +18184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process functions can emit a record to one or more side outputs via the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015113Z" creationid="xccui" creationdate="20190622T015113Z">
+        <seg>处理函数可以利用Context对象将记录发送至一个或多个副输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processing Streams in Parallel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143915Z" creationid="esouser" creationdate="20190603T143915Z">
@@ -19290,8 +19322,8 @@
       <tuv lang="EN-US">
         <seg>Side outputs are a feature of process functions to emit multiple streams from a function with possibly different types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T014308Z" creationid="xccui" creationdate="20190622T014308Z">
-        <seg>处理函数提供的副输出功能允许从同一函数发出多条数据流，且它们的类型可以不同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T014947Z" creationid="xccui" creationdate="20190622T014308Z">
+        <seg>而处理函数提供的副输出功能允许从同一函数发出多条数据流，且它们的类型可以不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28755,8 +28787,8 @@
       <tuv lang="EN-US">
         <seg>identified by an OutputTag[X] object, where X is the type of the resulting side output</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T014937Z" creationid="xccui" creationdate="20190622T014937Z">
-        <seg>副输出可以由一个OutputTag[X]对象标识，其中X是产生的副输出流的类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015021Z" creationid="xccui" creationdate="20190622T014937Z">
+        <seg>每个副输出都由一个OutputTag[X]对象标识，其中X是副输出结果流的类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29708,6 +29740,14 @@
         <seg>stream partitions, such as parallelism changes, keyBy(), or other explicit redistribu‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031345Z" creationid="xccui" creationdate="20190620T031345Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015026Z" creationid="xccui" creationdate="20190622T015026Z">
         <seg></seg>
       </tuv>
     </tu>
