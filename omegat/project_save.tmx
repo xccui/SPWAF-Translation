@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.process(new FreezingMonitor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022815Z" creationid="xccui" creationdate="20190622T022815Z">
+        <seg>.process(new FreezingMonitor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.process(new TempIncreaseAlertFunction)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071117Z" creationid="xccui" creationdate="20190621T071117Z">
@@ -886,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// monitor stream for readings with freezing temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022810Z" creationid="xccui" creationdate="20190622T022810Z">
+        <seg>// 监控冷冻温度数据流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// organize readings by sensor id</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042353Z" creationid="xccui" creationdate="20190612T042353Z">
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071725Z" creationid="xccui" creationdate="20190621T071725Z">
         <seg>// 记住当前的定时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// retrieve and print the freezing alarms side output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022908Z" creationid="xccui" creationdate="20190622T022908Z">
+        <seg>// 获取并打印冷冻报警副输出</seg>
       </tuv>
     </tu>
     <tu>
@@ -5750,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying a ProcessFunction that emits to a side output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022710Z" creationid="xccui" creationdate="20190622T022702Z">
+        <seg>利用ProcessFunction将数据发送至副输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>April 2019:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210727Z" creationid="esouser" creationdate="20190603T210727Z">
@@ -9131,6 +9163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022628Z" creationid="xccui" creationdate="20190622T022628Z">
         <seg>示例6-6展示了如何从ProcessFunction利用副输出的DataStream发送数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022633Z" creationid="xccui" creationdate="20190622T022633Z">
+        <seg>示例6-6，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30405,6 +30445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044907Z" creationid="xccui" creationdate="20190612T045612Z">
         <seg>val localEnv = StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val monitoredReadings: DataStream[SensorReading] = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022715Z" creationid="xccui" creationdate="20190622T022715Z">
+        <seg>val monitoredReadings: DataStream[SensorReading] = readings</seg>
       </tuv>
     </tu>
     <tu>
