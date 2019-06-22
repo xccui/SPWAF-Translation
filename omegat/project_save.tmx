@@ -19288,6 +19288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Side outputs are a feature of process functions to emit multiple streams from a function with possibly different types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T014308Z" creationid="xccui" creationdate="20190622T014308Z">
+        <seg>处理函数提供的副输出功能允许从同一函数发出多条数据流，且它们的类型可以不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similar to watermarks, checkpoint barriers are broadcasted to all connected parallel tasks to ensure that each task receives a barrier from each of its input streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T160224Z" creationid="xccui" creationdate="20190609T160142Z">
