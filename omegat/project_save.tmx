@@ -4904,8 +4904,8 @@
       <tuv lang="EN-US">
         <seg>A window function that is applied on a WindowedStream (or AllWindowedStream)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T035910Z" creationid="xccui" creationdate="20190622T035910Z">
-        <seg>一个作用于WindowedStream（或AllWindowedStream）上用于处理分配到窗口中数据的窗口函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T040059Z" creationid="xccui" creationdate="20190622T035910Z">
+        <seg>一个作用于WindowedStream（或AllWindowedStream）上用于处理分配到窗口中元素的窗口函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22408,6 +22408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following code shows how to specify a window assigner and a window function on a keyed or nonkeyed stream:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041304Z" creationid="xccui" creationdate="20190622T041304Z">
+        <seg>以下代码展示了如何在一个键值分区或非键值分区流上指定窗口分配器和窗口函数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following example code shows how to use the methods of a RichFlat MapFunction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034214Z" creationid="xccui" creationdate="20190619T033912Z">
@@ -28556,6 +28564,14 @@
         <seg>and deserialization methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055451Z" creationid="xccui" creationdate="20190618T055451Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and processes the elements that are assigned to a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T040102Z" creationid="xccui" creationdate="20190622T040102Z">
         <seg></seg>
       </tuv>
     </tu>
