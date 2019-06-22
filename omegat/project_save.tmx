@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* with a temperature below 32F.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023715Z" creationid="xccui" creationdate="20190622T023641Z">
+        <seg>* 向副输出发送冷冻警告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071254Z" creationid="xccui" creationdate="20190621T071254Z">
@@ -440,8 +448,8 @@
       <tuv lang="EN-US">
         <seg>/** Emits freezing alarms to a side output for readings</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023402Z" creationid="xccui" creationdate="20190622T023402Z">
-        <seg>/** 对于</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023624Z" creationid="xccui" creationdate="20190622T023402Z">
+        <seg>/** 对于温度低于32F的读数</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>// retrieve and print the freezing alarms side output</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022908Z" creationid="xccui" creationdate="20190622T022908Z">
-        <seg>// 获取并打印冷冻报警副输出</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023808Z" creationid="xccui" creationdate="20190622T022908Z">
+        <seg>// 获取并打印包含冷冻报警的副输出</seg>
       </tuv>
     </tu>
     <tu>
