@@ -28753,6 +28753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>identified by an OutputTag[X] object, where X is the type of the resulting side output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T014937Z" creationid="xccui" creationdate="20190622T014937Z">
+        <seg>副输出可以由一个OutputTag[X]对象标识，其中X是产生的副输出流的类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if (key &lt; 0) 0 else r.nextInt(numPartitions)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050644Z" creationid="xccui" creationdate="20190616T050644Z">
