@@ -11695,6 +11695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For low-level operations on two inputs, the DataStream API also provides the CoProcessFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024409Z" creationid="xccui" creationdate="20190622T024145Z">
+        <seg>针对有两个输入的低层操作，DataStream API还提供了CoProcessFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information about our books, courses, conferences, and news, see our web‐ site at http://www.oreilly.com.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210844Z" creationid="esouser" creationdate="20190603T210844Z">
@@ -29517,6 +29525,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071743Z" creationid="xccui" creationdate="20190621T071743Z">
         <seg>out.collect("Temperature of sensor '" + ctx.getCurrentKey + "' monotonically increased for 1 second.") currentTimer.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>out.collect(r)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024049Z" creationid="xccui" creationdate="20190622T024049Z">
+        <seg>out.collect(r)</seg>
       </tuv>
     </tu>
     <tu>
