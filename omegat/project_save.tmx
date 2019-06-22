@@ -27953,6 +27953,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window opera‐ tors on keyed windows are evaluated in parallel, and nonkeyed windows are processed in a single thread.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T035249Z" creationid="xccui" creationdate="20190622T035249Z">
+        <seg>用于键值分区窗口的窗口算子可以并行计算，而非键值分区窗口只能单线程处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window policies decide when new buckets are created, which events are assigned to which buckets, and when the con&lt;t10/&gt;‐&lt;t11/&gt; tents of a bucket get evaluated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022740Z" creationid="xccui" creationdate="20190406T045304Z">
