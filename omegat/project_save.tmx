@@ -94,6 +94,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>("sensor_2", 10 * 1000L), // forward sensor_2 for 10 seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031629Z" creationid="xccui" creationdate="20190622T031629Z">
+        <seg>("sensor_2", 10 * 1000L), // 将sensor_2转发10秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>("sensor_7", 60 * 1000L)) // forward sensor_7 for 1 minute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031639Z" creationid="xccui" creationdate="20190622T031639Z">
+        <seg>("sensor_7", 60 * 1000L)) // 将sensor_7转发1分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031643Z" creationid="xccui" creationdate="20190622T031643Z">
+        <seg>)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* monotonically increases for 1 second (in processing time).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071249Z" creationid="xccui" creationdate="20190621T071249Z">
@@ -246,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.connect(filterSwitches)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031704Z" creationid="xccui" creationdate="20190622T031704Z">
+        <seg>.connect(filterSwitches)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.connect(second.broadcast())</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051829Z" creationid="xccui" creationdate="20190615T051829Z">
@@ -282,6 +314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005229Z" creationid="xccui" creationdate="20190613T005229Z">
         <seg>.flatMap(id =&gt; id.split(" "))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.fromCollection(Seq(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031609Z" creationid="xccui" creationdate="20190622T031609Z">
+        <seg>.fromCollection(Seq(</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// connect readings and switches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031702Z" creationid="xccui" creationdate="20190622T031702Z">
+        <seg>// 接通读数和开关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// connect streams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040821Z" creationid="xccui" creationdate="20190615T040821Z">
@@ -938,6 +986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070917Z" creationid="xccui" creationdate="20190621T070917Z">
         <seg>// 以传感器id为键值分区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// key by sensor ids</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031728Z" creationid="xccui" creationdate="20190622T031728Z">
+        <seg>// 以传感器id为键值进行分区</seg>
       </tuv>
     </tu>
     <tu>
@@ -30497,6 +30553,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val filterSwitches: DataStream[(String, Long)] = env</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031604Z" creationid="xccui" creationdate="20190622T031604Z">
+        <seg>val filterSwitches: DataStream[(String, Long)] = env</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val filteredSensors = readings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053212Z" creationid="xccui" creationdate="20190613T053212Z">
@@ -30549,6 +30613,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054642Z" creationid="xccui" creationdate="20190618T054642Z">
         <seg>val flinkTweets = tweets.filter(new KeywordFilter("flink"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val forwardedReadings = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031647Z" creationid="xccui" creationdate="20190622T031647Z">
+        <seg>val forwardedReadings = readings</seg>
       </tuv>
     </tu>
     <tu>
