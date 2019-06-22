@@ -24216,6 +24216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They enable transfor‐ mations such as aggregations on bounded intervals of an unbounded stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033021Z" creationid="xccui" creationdate="20190622T033021Z">
+        <seg>它们可以在无限数据流上基于有界区间实现聚合等转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They follow the UNIX philoso&lt;t0/&gt;‐&lt;t1/&gt; phy of doing a single thing and doing it well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T171125Z" creationid="xccui" creationdate="20190227T233311Z">
@@ -27929,6 +27937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows are common operations in streaming applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032841Z" creationid="xccui" creationdate="20190622T032841Z">
+        <seg>窗口时流式应用中一类十分常见的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With a shuffle or broadcast connection, each sending task needs a buffer for each receiving task; the number of required buffers is quadratic to the number of tasks of the involved operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T201749Z" creationid="xccui" creationdate="20190606T201749Z">
@@ -29141,6 +29157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053814Z" creationid="xccui" creationdate="20190617T053801Z">
         <seg>它的用法如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forwardingEnabled.clear() disableTimer.clear()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032656Z" creationid="xccui" creationdate="20190622T032656Z">
+        <seg>forwardingEnabled.clear() disableTimer.clear()</seg>
       </tuv>
     </tu>
     <tu>
