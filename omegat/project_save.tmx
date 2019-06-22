@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#OnTimerContext, out: Collector[SensorReading]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032607Z" creationid="xccui" creationdate="20190622T032607Z">
+        <seg>#OnTimerContext, out: Collector[SensorReading]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$ ./bin/flink run \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040000Z" creationid="xccui" creationdate="20190329T040000Z">
@@ -1120,8 +1128,24 @@
       <tuv lang="EN-US">
         <seg>// remember current timer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071725Z" creationid="xccui" creationdate="20190621T071725Z">
-        <seg>// 记住当前的定时器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071725Z">
+        <seg>// 记住当前的计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// remove all state; forward switch will be false by default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032654Z" creationid="xccui" creationdate="20190622T032654Z">
+        <seg>// 移除所有状态，默认情况下转发开关关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// remove current timer and register new timer ctx.timerService().deleteEventTimeTimer(curTimerTimestamp) ctx.timerService().registerProcessingTimeTimer(timerTimestamp) disableTimer.update(timerTimestamp)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190622T032411Z">
+        <seg>// 移除当前计时器并注册一个新的 ctx.timerService().deleteEventTimeTimer(curTimerTimestamp) ctx.timerService().registerProcessingTimeTimer(timerTimestamp) disableTimer.update(timerTimestamp)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1192,8 @@
       <tuv lang="EN-US">
         <seg>// set processing time timer for now + 1 second</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071708Z" creationid="xccui" creationdate="20190621T071708Z">
-        <seg>// 以当前时间+1秒设置处理时间定时器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071708Z">
+        <seg>// 以当前时间+1秒设置处理时间计时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,8 +1232,8 @@
       <tuv lang="EN-US">
         <seg>// stores timestamp of currently active timer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071403Z" creationid="xccui" creationdate="20190621T071403Z">
-        <seg>// 存储当前活动定时器的时间戳</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071403Z">
+        <seg>// 存储当前活动计时器的时间戳</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,16 +1264,16 @@
       <tuv lang="EN-US">
         <seg>// temperature decreased; delete current timer ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp) currentTimer.clear()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071603Z" creationid="xccui" creationdate="20190621T071603Z">
-        <seg>// 温度下降，删除当前定时器 ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp) currentTimer.clear()</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071603Z">
+        <seg>// 温度下降，删除当前计时器 ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp) currentTimer.clear()</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>// temperature increased and we have not set a timer yet</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071647Z" creationid="xccui" creationdate="20190621T071647Z">
-        <seg>// 温度升高并且还未设置定时器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071647Z">
+        <seg>// 温度升高并且还未设置计时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -6201,8 +6225,8 @@
       <tuv lang="EN-US">
         <seg>As soon as one parti‐ tion does not advance its watermarks or becomes completely idle and does not ship any records or watermarks, the event-time clock of a task will not advance and the timers of the task will not trigger.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T032427Z" creationid="xccui" creationdate="20190607T032231Z">
-        <seg>只要有一个分区的水位线没有前进或分区完全空闲下来不再发送任何记录或水位线，任务的事件时间时钟就不会前进，继而导致定时器无法触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190607T032231Z">
+        <seg>只要有一个分区的水位线没有前进或分区完全空闲下来不再发送任何记录或水位线，任务的事件时间时钟就不会前进，继而导致计时器无法触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9113,8 +9137,8 @@
       <tuv lang="EN-US">
         <seg>Event-time timers fire when the next watermark is processed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070525Z" creationid="xccui" creationdate="20190621T070525Z">
-        <seg>事件时间定时器会在处理下一条水位线的时候触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T070525Z">
+        <seg>事件时间计时器会在处理下一条水位线的时候触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11489,8 +11513,8 @@
       <tuv lang="EN-US">
         <seg>For each expired timer, the task invokes a callback function that can perform a computation and emit records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T212956Z" creationid="xccui" creationdate="20190606T212941Z">
-        <seg>对于每个到期的定时器，调用回调函数，利用它来执行计算并发出记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T212941Z">
+        <seg>对于每个到期的计时器，调用回调函数，利用它来执行计算并发出记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11505,8 +11529,8 @@
       <tuv lang="EN-US">
         <seg>For each key and timestamp, exactly one timer can be registered, which means each key can have multiple timers but only one for each timestamp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064209Z" creationid="xccui" creationdate="20190621T064209Z">
-        <seg>对于每个键值和时间戳只能注册一个定时器。换言之，每个键值可以有多个定时器，但对应每个时间戳只能有一个。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T064209Z">
+        <seg>对于每个键值和时间戳只能注册一个计时器。换言之，每个键值可以有多个计时器，但对应每个时间戳只能有一个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11561,8 +11585,8 @@
       <tuv lang="EN-US">
         <seg>For example, a window operator registers a timer for every active window, which cleans up the window’s state when the event time passes the window’s ending time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T212901Z" creationid="xccui" creationdate="20190606T211126Z">
-        <seg>例如：窗口算子会为每个活动窗口注册一个定时器，它们会在事件时间超过窗口的结束时间时清理窗口状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T211126Z">
+        <seg>例如：窗口算子会为每个活动窗口注册一个计时器，它们会在事件时间超过窗口的结束时间时清理窗口状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12017,8 +12041,8 @@
       <tuv lang="EN-US">
         <seg>Functions cannot read or modify record time‐ stamps and watermarks, except for the process functions, which  can read the timestamp of a currently processed record, request the current event time of the operator, and register timers.3 None of the functions exposes an API to set the timestamps of emitted records, manipulate the event-time clock of a task, or emit watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T012935Z" creationid="xccui" creationdate="20190607T012544Z">
-        <seg>普通函数无法读写记录的时间戳或水位线，但一系列处理函数除外，它们可以读取当前正在处理记录的时间戳，请求获得当前算子的事件时间以及注册定时器。3所有函数都无法通过API来设置发出记录的时间戳，调整任务的事件时间时钟或发出水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190607T012544Z">
+        <seg>普通函数无法读写记录的时间戳或水位线，但一系列处理函数除外，它们可以读取当前正在处理记录的时间戳，请求获得当前算子的事件时间以及注册计时器。3所有函数都无法通过API来设置发出记录的时间戳，调整任务的事件时间时钟或发出水位线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12897,8 +12921,8 @@
       <tuv lang="EN-US">
         <seg>However, you can configure the RocksDB state backend to also store the timers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065154Z" creationid="xccui" creationdate="20190621T065154Z">
-        <seg>同时你可以配置RocksDB状态后端来存定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065154Z">
+        <seg>同时你可以配置RocksDB状态后端来存计时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12977,8 +13001,8 @@
       <tuv lang="EN-US">
         <seg>If an application needs to recover from a failure, all processing-time timers that expired while the application was restarting will fire immediately when the application resumes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065443Z" creationid="xccui" creationdate="20190621T065349Z">
-        <seg>如果应用需要从故障中恢复，那么所有在应用重启过程中过期的处理时间定时器会在应用恢复后立即触发，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065349Z">
+        <seg>如果应用需要从故障中恢复，那么所有在应用重启过程中过期的处理时间计时器会在应用恢复后立即触发，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13049,8 +13073,8 @@
       <tuv lang="EN-US">
         <seg>If no such timer exists, the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060716Z" creationid="xccui" creationdate="20190621T060716Z">
-        <seg>如果该定时器不存在，则方法不会有任何作用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060716Z">
+        <seg>如果该计时器不存在，则方法不会有任何作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13153,8 +13177,8 @@
       <tuv lang="EN-US">
         <seg>If the event-time clock advances, the task processes all triggered timers and finally broadcasts its new event time to all downstream tasks by emitting a corresponding watermark to all con‐ nected output partitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T025139Z" creationid="xccui" creationdate="20190607T025043Z">
-        <seg>如果事件时间时钟向前推动，任务会先处理因此而触发的所有定时器，最后才会把对应的水位线发往所有连接的输出分区，从而实现将事件时间广播到全部下游任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190607T025043Z">
+        <seg>如果事件时间时钟向前推动，任务会先处理因此而触发的所有计时器，最后才会把对应的水位线发往所有连接的输出分区，从而实现将事件时间广播到全部下游任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14489,8 +14513,8 @@
       <tuv lang="EN-US">
         <seg>In that case, it is recom‐ mended to not use timers excessively, to avoid long checkpointing times.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070042Z" creationid="xccui" creationdate="20190621T070042Z">
-        <seg>在这种情况下，建议不要使用太多定时器，以避免检查点生成时间太久。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T070042Z">
+        <seg>在这种情况下，建议不要使用太多计时器，以避免检查点生成时间太久。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16257,8 +16281,8 @@
       <tuv lang="EN-US">
         <seg>KeyedProcessFunction holds the timestamps of all timers in a priority queue on the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064250Z" creationid="xccui" creationdate="20190621T064250Z">
-        <seg>默认情况下，KeyedProcessFunction会将全部定时器的时间戳放到堆中的一个优先队列里。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T064250Z">
+        <seg>默认情况下，KeyedProcessFunction会将全部计时器的时间戳放到堆中的一个优先队列里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17409,8 +17433,8 @@
       <tuv lang="EN-US">
         <seg>Of course, you can still use processing-time windows and timers if you choose the EventTime time characteristic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T073009Z" creationid="xccui" creationdate="20190619T073009Z">
-        <seg>当然，即便选择EventTime时间特性，仍然可以使用处理时间窗口和定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190619T073009Z">
+        <seg>当然，即便选择EventTime时间特性，仍然可以使用处理时间窗口和计时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18602,8 +18626,8 @@
       <tuv lang="EN-US">
         <seg>Processing-time timers fire immediately after the registering method returns.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070456Z" creationid="xccui" creationdate="20190621T070456Z">
-        <seg>处理时间的定时器会在注册方法返回后立即触发，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T070456Z">
+        <seg>处理时间的计时器会在注册方法返回后立即触发，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19074,8 +19098,8 @@
       <tuv lang="EN-US">
         <seg>RocksDB state backend with incremental checkpoints and storing the timers on the heap (default setting), they are checkpointed synchronously.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065932Z" creationid="xccui" creationdate="20190621T065821Z">
-        <seg>如果你在使用开启了增量检查点模式RocksDB状态后端，且将定时器存储在堆内（默认设置），定时器写入检查点的过程就会是同步的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065821Z">
+        <seg>如果你在使用开启了增量检查点模式RocksDB状态后端，且将计时器存储在堆内（默认设置），计时器写入检查点的过程就会是同步的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20946,8 +20970,8 @@
       <tuv lang="EN-US">
         <seg>Tasks can register timers at the timer service to perform a computa‐ tion at a specific point in time in the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T210249Z" creationid="xccui" creationdate="20190606T210249Z">
-        <seg>这些定时器可由任务在时间服务内注册，并在将来的某个时间点执行计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T210249Z">
+        <seg>这些计时器可由任务在时间服务内注册，并在将来的某个时间点执行计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,8 +21002,8 @@
       <tuv lang="EN-US">
         <seg>Tasks have an internal time service that maintains timers and is activated when a water‐ mark is received.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T210238Z" creationid="xccui" creationdate="20190606T210238Z">
-        <seg>任务的内部时间服务（time service）会维护定时器（timer），并在接收到水位线时激活。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T210238Z">
+        <seg>任务的内部时间服务（time service）会维护计时器（timer），并在接收到水位线时激活。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21314,8 +21338,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides a family of low-level transformations, the process functions, which can also access record timestamps and watermarks and register timers that trigger at a specific time in the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043822Z" creationid="xccui" creationdate="20190621T043822Z">
-        <seg>DataStream API提供了一组相对低级的转换——处理函数。除了基本功能，它们还可以访问记录的时间戳和水位线，并注册一些在将来某个特定时间触发的定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T043822Z">
+        <seg>DataStream API提供了一组相对低级的转换——处理函数。除了基本功能，它们还可以访问记录的时间戳和水位线，并注册一些在将来某个特定时间触发的计时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23618,8 +23642,8 @@
       <tuv lang="EN-US">
         <seg>The task’s time service identifies all timers with a time smaller than the updated event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T212936Z" creationid="xccui" creationdate="20190606T212936Z">
-        <seg>任务的时间服务会找出所有触发时间小于更新后事件时间的定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T212936Z">
+        <seg>任务的时间服务会找出所有触发时间小于更新后事件时间的计时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23666,16 +23690,16 @@
       <tuv lang="EN-US">
         <seg>The timer will fire when the processing time of the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060222Z" creationid="xccui" creationdate="20190621T060222Z">
-        <seg>当执行机器的处理时间到达给定的时间戳时，该定时器就会触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060222Z">
+        <seg>当执行机器的处理时间到达给定的时间戳时，该计时器就会触发。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The timer will fire when the watermark is updated to a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060423Z" creationid="xccui" creationdate="20190621T060423Z">
-        <seg>当更新候的水位线时间戳大于或等于定时器的时间戳时，它就会触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060423Z">
+        <seg>当更新候的水位线时间戳大于或等于计时器的时间戳时，它就会触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23882,8 +23906,8 @@
       <tuv lang="EN-US">
         <seg>Then, we will cover the process functions, low-level transformations that provide access to timestamps and watermarks and can register timers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T052920Z" creationid="xccui" creationdate="20190619T052920Z">
-        <seg>随后我们会介绍处理函数，它对应的低层转换可以访问时间戳和水位线，还能注册定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190619T052920Z">
+        <seg>随后我们会介绍处理函数，它对应的低层转换可以访问时间戳和水位线，还能注册计时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24554,8 +24578,8 @@
       <tuv lang="EN-US">
         <seg>This is also true for processing-time timers that are persisted in a savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065518Z" creationid="xccui" creationdate="20190621T065436Z">
-        <seg>存入保存点中的处理时间定时器也是如此。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065436Z">
+        <seg>存入保存点中的处理时间计时器也是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25162,48 +25186,48 @@
       <tuv lang="EN-US">
         <seg>TimerService and Timers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145847Z" creationid="esouser" creationdate="20190603T145847Z">
-        <seg>时间服务和定时器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="esouser" creationdate="20190603T145847Z">
+        <seg>时间服务和计时器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Timers are always asynchronously checkpointed, with one exception.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065840Z" creationid="xccui" creationdate="20190621T065600Z">
-        <seg>定时器通常会以异步方式存入检查点，但有一个例外。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065600Z">
+        <seg>计时器通常会以异步方式存入检查点，但有一个例外。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Timers are checkpointed along with any other state of the function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T065223Z" creationid="xccui" creationdate="20190621T065223Z">
-        <seg>这些定时器会和其他状态一起写入检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065223Z">
+        <seg>这些计时器会和其他状态一起写入检查点。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Timers can only be registered on keyed streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T061215Z" creationid="xccui" creationdate="20190621T061215Z">
-        <seg>定时器只允许在按键值分区的数据流上注册。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T061215Z">
+        <seg>计时器只允许在按键值分区的数据流上注册。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Timers on Nonkeyed Streams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T061036Z" creationid="xccui" creationdate="20190621T061036Z">
-        <seg>在非键值流上设置定时器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T061036Z">
+        <seg>在非键值流上设置计时器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Timers that are registered for a timestamp in the past are not silently dropped but processed as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070407Z" creationid="xccui" creationdate="20190621T070407Z">
-        <seg>以过去的时间戳注册的定时器不会被静默删除，而同样会被处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T070407Z">
+        <seg>以过去的时间戳注册的计时器不会被静默删除，而同样会被处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25498,8 +25522,8 @@
       <tuv lang="EN-US">
         <seg>To use timers on a nonkeyed stream, you can create a keyed stream by</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062029Z" creationid="xccui" creationdate="20190621T062029Z">
-        <seg>为了在一条非键值分区的数据流上使用定时器，你可以通过在KeySelector中返回一个假的常数键值来创建一条键值分区数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T062029Z">
+        <seg>为了在一条非键值分区的数据流上使用计时器，你可以通过在KeySelector中返回一个假的常数键值来创建一条键值分区数据流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27299,8 +27323,8 @@
       <tuv lang="EN-US">
         <seg>When a timer fires, the onTimer() callback function is called.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060757Z" creationid="xccui" creationdate="20190621T060732Z">
-        <seg>定时器触发时会调用onTimer()回调函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060732Z">
+        <seg>计时器触发时会调用onTimer()回调函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28777,6 +28801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ctx: CoProcessFunction[SensorReading, (String, Long), SensorReading]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032604Z" creationid="xccui" creationdate="20190622T032604Z">
+        <seg>ctx: CoProcessFunction[SensorReading, (String, Long), SensorReading]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ctx: CoProcessFunction[SensorReading, (String, Long), SensorReading]#Context, out: Collector[SensorReading]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032238Z" creationid="xccui" creationdate="20190622T032238Z">
@@ -28859,16 +28891,16 @@
       <tuv lang="EN-US">
         <seg>deleteEventTimeTimer(timestamp: Long): Unit deletes an event-time timer that was previously registered for the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060737Z" creationid="xccui" creationdate="20190621T060658Z">
-        <seg>deleteEventTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的事件时间定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060658Z">
+        <seg>deleteEventTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的事件时间计时器。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>deleteProcessingTimeTimer(timestamp: Long): Unit deletes a processing- time timer that was previously registered for the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060702Z" creationid="xccui" creationdate="20190621T060504Z">
-        <seg>deleteProcessingTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的处理时间定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060504Z">
+        <seg>deleteProcessingTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的处理时间计时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29011,8 +29043,8 @@
       <tuv lang="EN-US">
         <seg>exists, the method has no effect.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060623Z" creationid="xccui" creationdate="20190621T060540Z">
-        <seg>如果该定时器不存在，则方法不会有任何作用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060540Z">
+        <seg>如果该计时器不存在，则方法不会有任何作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29163,8 +29195,8 @@
       <tuv lang="EN-US">
         <seg>gives access to the element or timer timestamp, a TimerService, and side outputs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031158Z" creationid="xccui" creationdate="20190622T031158Z">
-        <seg>在被调用时都会传入一个Context对象，可用于访问当前元素或定时器时间戳，TimerService，以及副输出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190622T031158Z">
+        <seg>在被调用时都会传入一个Context对象，可用于访问当前元素或计时器时间戳，TimerService，以及副输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29187,8 +29219,8 @@
       <tuv lang="EN-US">
         <seg>ices as the Context object of the processElement() method and also returns the time domain (processing time or event time) of the firing trigger.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T055535Z" creationid="xccui" creationdate="20190621T055201Z">
-        <seg>此外，它还会返回触发定时器的时间域（处理时间还是事件时间）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T055201Z">
+        <seg>此外，它还会返回触发计时器的时间域（处理时间还是事件时间）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29229,6 +29261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024017Z" creationid="xccui" creationdate="20190622T024017Z">
         <seg>if (r.temperature &lt; 32.0) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (timerTimestamp &gt; curTimerTimestamp) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032344Z" creationid="xccui" creationdate="20190622T032344Z">
+        <seg>if (timerTimestamp &gt; curTimerTimestamp) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -29755,8 +29795,8 @@
       <tuv lang="EN-US">
         <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT]) is a callback function that is invoked when a previously registered timer triggers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054311Z" creationid="xccui" creationdate="20190621T054245Z">
-        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT])是一个回调函数，会在之前注册的定时器触发时被调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T054245Z">
+        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT])是一个回调函数，会在之前注册的计时器触发时被调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30107,16 +30147,16 @@
       <tuv lang="EN-US">
         <seg>registerEventTimeTimer(timestamp: Long): Unit registers an event-time timer for the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060320Z" creationid="xccui" creationdate="20190621T060320Z">
-        <seg>registerEventTimeTimer(timestamp: Long): Unit针对当前键值注册一个事件时间定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060320Z">
+        <seg>registerEventTimeTimer(timestamp: Long): Unit针对当前键值注册一个事件时间计时器。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>registerProcessingTimeTimer(timestamp: Long): Unit registers a processing time timer for the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060056Z" creationid="xccui" creationdate="20190621T060056Z">
-        <seg>registerProcessingTimeTimer(timestamp: Long): Unit针对当前键值注册一个处理时间定时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060056Z">
+        <seg>registerProcessingTimeTimer(timestamp: Long): Unit针对当前键值注册一个处理时间计时器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30673,6 +30713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val curTimerTimestamp = disableTimer.value()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032340Z" creationid="xccui" creationdate="20190622T032340Z">
+        <seg>val curTimerTimestamp = disableTimer.value()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val defaultP = env.env.getParallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060244Z" creationid="xccui" creationdate="20190616T060244Z">
@@ -31157,6 +31205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053818Z" creationid="xccui" creationdate="20190617T053818Z">
         <seg>val stringType: TypeInformation[String] = Types.STRING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val timerTimestamp = ctx.timerService().currentProcessingTime() + switch._2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032337Z" creationid="xccui" creationdate="20190622T032337Z">
+        <seg>val timerTimestamp = ctx.timerService().currentProcessingTime() + switch._2</seg>
       </tuv>
     </tu>
     <tu>
