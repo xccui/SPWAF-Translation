@@ -19474,16 +19474,16 @@
       <tuv lang="EN-US">
         <seg>Similar to a CoFlatMapFunction, a CoProcessFunction offers a transformation method for each input, processElement1() and processElement2().</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030504Z" creationid="xccui" creationdate="20190622T030504Z">
-        <seg>和ComFlatMapFunction类似，CoProcessFunction也提供了作用于每个输入的转换方法——processFunction1()和processFunction2()。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030632Z" creationid="xccui" creationdate="20190622T030504Z">
+        <seg>和ComFlatMapFunction类似，CoProcessFunction也提供了一对作用于每个输入的转换方法——processFunction1()和processFunction2()。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Similar to the ProcessFunction, both methods are called with a Context object that</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030518Z" creationid="xccui" creationdate="20190622T030518Z">
-        <seg>和ProcessFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030809Z" creationid="xccui" creationdate="20190622T030518Z">
+        <seg>它们和ProcessFunction中的方法一样，</seg>
       </tuv>
     </tu>
     <tu>
@@ -28941,6 +28941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040428Z" creationid="xccui" creationdate="20190611T040428Z">
         <seg>git clone https://github.com/streaming-with-flink/examples-scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gives access to the element or timer timestamp, a TimerService, and side outputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031158Z" creationid="xccui" creationdate="20190622T031158Z">
+        <seg>在被调用时都会传入一个Context对象，可用于访问当前元素或定时器时间戳，TimerService，以及副输出。</seg>
       </tuv>
     </tu>
     <tu>
