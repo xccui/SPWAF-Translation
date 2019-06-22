@@ -19472,6 +19472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similar to a CoFlatMapFunction, a CoProcessFunction offers a transformation method for each input, processElement1() and processElement2().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030504Z" creationid="xccui" creationdate="20190622T030504Z">
+        <seg>和ComFlatMapFunction类似，CoProcessFunction也提供了作用于每个输入的转换方法——processFunction1()和processFunction2()。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similar to watermarks, checkpoint barriers are broadcasted to all connected parallel tasks to ensure that each task receives a barrier from each of its input streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T160224Z" creationid="xccui" creationdate="20190609T160142Z">
