@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.windowAll(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041446Z" creationid="xccui" creationdate="20190622T041446Z">
+        <seg>.windowAll(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/** Emits a warning if the temperature of a sensor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071241Z" creationid="xccui" creationdate="20190621T071241Z">
@@ -872,8 +880,8 @@
       <tuv lang="EN-US">
         <seg>// define a nonkeyed window-all operator</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041443Z" creationid="xccui" creationdate="20190622T041443Z">
-        <seg>// 定义一个非键值分区的全窗口算子</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041641Z" creationid="xccui" creationdate="20190622T041443Z">
+        <seg>// 定义一个非键值分区的全量窗口算子</seg>
       </tuv>
     </tu>
     <tu>
@@ -14935,6 +14943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the remainder of the chapter we focus on keyed windows only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041511Z" creationid="xccui" creationdate="20190622T041511Z">
+        <seg>在本章剩余部分，我们将只关注键值分区窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the rest of this book, we are going to see how Flink actually implements these concepts and how you can use its DataStream API to write applications that use all of the features we have introduced so far.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T041244Z" creationid="xccui" creationdate="20190606T041244Z">
@@ -17287,6 +17303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonkeyed windows (also called all-windows in the DataStream API) behave exactly the same, except that they collect all data and are not evaluated in parallel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041635Z" creationid="xccui" creationdate="20190622T041635Z">
+        <seg>非键值分区窗口（在DataStream API中也称为全量窗口）的行为与之完全相同，只是它们会收集全量数据且不支持并行计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not all stream processors are equally well-suited to run event-driven applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T052727Z" creationid="xccui" creationdate="20190604T052517Z">
@@ -17427,6 +17451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011859Z" creationid="xccui" creationdate="20190606T011827Z">
         <seg>注意，为了更有效地合并事件和当前状态、生成单个结果，聚合函数必须是可结合（associative）及可交换（commutative）的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that you can customize a window operator by providing a custom trigger or evictor and declaring strategies to deal with late elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041859Z" creationid="xccui" creationdate="20190622T041859Z">
+        <seg>你可以通过提供自定义触发器或移除器并声明迟到元素的处理策略来自定义窗口算子，</seg>
       </tuv>
     </tu>
     <tu>
