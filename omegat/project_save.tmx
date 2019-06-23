@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.timeWindow(Time.seconds(1))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053729Z" creationid="xccui" creationdate="20190623T053729Z">
+        <seg>.timeWindow(Time.seconds(1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.timeWindow(Time.seconds(5))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042713Z" creationid="xccui" creationdate="20190612T042713Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044717Z" creationid="xccui" creationdate="20190612T041910Z">
         <seg>// 设置流式执行环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// shortcut for window.(TumblingEventTimeWindows.of(size))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053727Z" creationid="xccui" creationdate="20190623T053727Z">
+        <seg>// window.(TumblingEventTimeWindows.of(size))的简写</seg>
       </tuv>
     </tu>
     <tu>
@@ -22796,6 +22812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210759Z" creationid="esouser" creationdate="20190603T210759Z">
         <seg>The following typographical conventions are used in this book:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fol‐ lowing code shows how to use this shortcut:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053713Z" creationid="xccui" creationdate="20190623T053713Z">
+        <seg>以下代码展示了如何使用这种简写：</seg>
       </tuv>
     </tu>
     <tu>
