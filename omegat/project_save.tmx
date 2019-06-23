@@ -4238,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A ReduceFunction accepts two values of the same type and combines them into a single value of the same type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T224729Z" creationid="xccui" creationdate="20190623T224729Z">
+        <seg>ReduceFunction接收两个同类型的值并将它们组合成一个类型相同的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A TaskManager can execute several tasks at the same time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T041158Z" creationid="xccui" creationdate="20190423T041158Z">
