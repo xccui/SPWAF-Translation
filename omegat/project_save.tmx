@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A session window assigner places elements into varying size windows defined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061311Z" creationid="xccui" creationdate="20190623T061311Z">
+        <seg>会话窗口分配器将元素置于由会话间隔决定的大小的可变窗口中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A side output is</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015023Z" creationid="xccui" creationdate="20190622T015023Z">
@@ -10683,6 +10691,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054747Z" creationid="xccui" creationdate="20190623T054747Z">
         <seg>图6-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 6-3 illustrates how elements are assigned to session windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061012Z" creationid="xccui" creationdate="20190623T061012Z">
+        <seg>图6-3说明了如何将元素分配到会话窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 6-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061016Z" creationid="xccui" creationdate="20190623T061016Z">
+        <seg>图6-3，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22460,6 +22484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052627Z" creationid="xccui" creationdate="20190613T052627Z">
         <seg>可以利用FilterFunction接口或lambda函数来实现定义布尔条件的函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The boundaries of session windows are defined by gaps of inactivity, time intervals in which no record is received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060946Z" creationid="xccui" creationdate="20190623T060946Z">
+        <seg>会话窗口的边界由非活动间隔，即没有收到记录的时间间隔来定义。</seg>
       </tuv>
     </tu>
     <tu>
