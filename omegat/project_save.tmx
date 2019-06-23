@@ -4886,6 +4886,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A tumbling window assigner places elements into fixed-size, nonoverlapping windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042229Z" creationid="xccui" creationdate="20190623T042229Z">
+        <seg>滚动窗口分配器将元素置于大小固定且互不重叠的窗口中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A tumbling window assigner places elements into nonoverlapping, fixed-size win‐ dows, as shown in Figure 6-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042155Z" creationid="xccui" creationdate="20190623T042155Z">
+        <seg>如图6-1所示，滚动窗口分配器将元素置于大小固定且相互不重叠的窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A union operation that merges two input streams into one</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064258Z" creationid="xccui" creationdate="20190614T064258Z">
@@ -10451,6 +10467,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045500Z" creationid="xccui" creationdate="20190616T045500Z">
         <seg>图5-7，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 6-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042158Z" creationid="xccui" creationdate="20190623T042158Z">
+        <seg>图6-1，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26036,6 +26060,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022909Z" creationid="xccui" creationdate="20190406T050614Z">
         <seg>滚动窗口（tumbling window）将事件分配到长度固定且互不重叠的桶中。在窗口边界通过后，所有事件会发送给计算函数处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tumbling windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041957Z" creationid="xccui" creationdate="20190623T041957Z">
+        <seg>滚动窗口</seg>
       </tuv>
     </tu>
     <tu>
