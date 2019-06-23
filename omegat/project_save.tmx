@@ -4902,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A tumbling window assigner receives one parameter, the window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042518Z" creationid="xccui" creationdate="20190623T042447Z">
+        <seg>滚动窗口分配器只接收一个参数，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A union operation that merges two input streams into one</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064258Z" creationid="xccui" creationdate="20190614T064258Z">
@@ -21672,6 +21680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Datastream API provides two assigners—TumblingEventTimeWindows and Tum blingProcessingTimeWindows—for tumbling event-time and processing-time win‐ dows, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042428Z" creationid="xccui" creationdate="20190623T042428Z">
+        <seg>DataStream API针对事件时间和处理时间的滚动窗口分别提供了对应的分配器——TumblingEventTimeWindows和TumblingProcessingTimeWindows。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dispatcher runs across job executions and provides a REST interface to sub‐ mit applications for execution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142824Z" creationid="xccui" creationdate="20190606T142757Z">
@@ -30589,6 +30605,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011815Z" creationid="xccui" creationdate="20190613T011815Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>size in time units; this can be specified using the of(Time size) method of the assigner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042542Z" creationid="xccui" creationdate="20190623T042501Z">
+        <seg>时间单位表示的窗口大小。</seg>
       </tuv>
     </tu>
     <tu>
