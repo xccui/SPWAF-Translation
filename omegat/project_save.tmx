@@ -25336,6 +25336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time-based window assigners assign an element based on its event-time timestamp or the current processing time to windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T033135Z" creationid="xccui" creationdate="20190623T033135Z">
+        <seg>基于时间的窗口分配器会根据元素的事件时间戳或当前处理时间将其分配到一个或多个窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time-related operators such as window operators and other specialized trans‐ formations are described in later chapters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013239Z" creationid="xccui" creationdate="20190613T013033Z">
