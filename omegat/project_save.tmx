@@ -12455,6 +12455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full window functions collect all elements of a window and iterate over the list of all collected elements when they are evaluated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211046Z" creationid="xccui" creationdate="20190623T211046Z">
+        <seg>全窗口函数，它会收集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Function Classes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022917Z" creationid="xccui" creationdate="20190225T022917Z">
@@ -19452,6 +19460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061233Z" creationid="xccui" creationdate="20190614T061233Z">
         <seg>Reduce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ReduceFunction and AggregateFunction are incremental aggregation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211000Z" creationid="xccui" creationdate="20190623T211000Z">
+        <seg>ReduceFunction和AggregateFunction就属于增量聚合函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30041,6 +30057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211002Z" creationid="xccui" creationdate="20190623T211002Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>gate, you lose the information about how your data varies over time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043721Z" creationid="xccui" creationdate="20190406T043721Z">
@@ -31068,6 +31092,14 @@
         <seg>repository to your local machine:1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040104Z" creationid="xccui" creationdate="20190611T040104Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210937Z" creationid="xccui" creationdate="20190623T210937Z">
         <seg></seg>
       </tuv>
     </tu>
