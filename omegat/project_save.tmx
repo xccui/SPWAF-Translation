@@ -20072,6 +20072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since they depend on the ingestion order, count-based windows are not deter‐ ministic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035800Z" creationid="xccui" creationdate="20190623T035800Z">
+        <seg>由于会依赖元素的到达顺序，基于数量的窗口具有不确定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since this state is never cleaned up, you should only apply a rolling aggregations operator on a stream with a bounded key domain.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061231Z" creationid="xccui" creationdate="20190614T061231Z">
@@ -22898,8 +22906,8 @@
       <tuv lang="EN-US">
         <seg>The ingestion time of an event is the time it entered the stream processor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071759Z" creationid="xccui" creationdate="20190619T071759Z">
-        <seg>事件的摄入事件是它进入流处理引擎的事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035807Z" creationid="xccui" creationdate="20190619T071759Z">
+        <seg>事件的摄入时间是它进入流处理引擎的事件。</seg>
       </tuv>
     </tu>
     <tu>
