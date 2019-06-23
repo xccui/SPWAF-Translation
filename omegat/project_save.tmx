@@ -15919,6 +15919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incremental aggregation functions are directly applied when an element is added to a window and hold and update a single value as window state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210654Z" creationid="xccui" creationdate="20190623T210654Z">
+        <seg>增量聚合函数，它的适用场景是窗口内以状态形式存储某个值且需要根据每个加入窗口的元素对该值进行更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T031120Z" creationid="xccui" creationdate="20190418T040551Z">
@@ -24680,6 +24688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are two types of functions that can be applied on a window:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210034Z" creationid="xccui" creationdate="20190623T210034Z">
+        <seg>可用于窗口的函数类型有两种：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are two types of state, operator state and keyed state, that are accessible from different scopes and discussed in the following sections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T060205Z" creationid="xccui" creationdate="20190607T023422Z">
@@ -28637,6 +28653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023138Z" creationid="xccui" creationdate="20190225T023138Z">
         <seg>窗口算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window functions define the computation that is performed on the elements of a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T205944Z" creationid="xccui" creationdate="20190623T205944Z">
+        <seg>窗口函数定义了针对窗口内每一个元素的计算逻辑。</seg>
       </tuv>
     </tu>
     <tu>
