@@ -4240,8 +4240,8 @@
       <tuv lang="EN-US">
         <seg>A ReduceFunction accepts two values of the same type and combines them into a single value of the same type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T224729Z" creationid="xccui" creationdate="20190623T224729Z">
-        <seg>ReduceFunction接收两个同类型的值并将它们组合成一个类型相同的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225024Z" creationid="xccui" creationdate="20190623T224729Z">
+        <seg>ReduceFunction接收两个同类型的值并将它们组合成一个类型不变的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28277,6 +28277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025434Z" creationid="xccui" creationdate="20190606T025434Z">
         <seg>当一个算子接收到时间为T的水位线，就可以认为不会再收到任何时间戳小于或等于T的事件了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When applied on a windowed stream, ReduceFunction incrementally aggregates the elements that are assigned to a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T224934Z" creationid="xccui" creationdate="20190623T224934Z">
+        <seg>当应用于窗口化数据流时，它会对分配给窗口的元素进行增量聚合。</seg>
       </tuv>
     </tu>
     <tu>
