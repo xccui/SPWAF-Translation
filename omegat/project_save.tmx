@@ -23008,6 +23008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following examples show how to group the sensor readings into session windows where each session is defined by a 15-minute period of inactivity:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061426Z" creationid="xccui" creationdate="20190623T061426Z">
+        <seg>以下示例展示了如何将传感器读数按照会话窗口进行分组，其中每个会话的非活动时间都设置为15分钟：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following expression accesses the field of a tuple nested in a POJO:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050556Z" creationid="xccui" creationdate="20190618T050556Z">
@@ -29309,6 +29317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210709Z" creationid="esouser" creationdate="20190603T210709Z">
         <seg>by Fabian Hueske and Vasiliki Kalavri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by a session gap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061314Z" creationid="xccui" creationdate="20190623T061314Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
