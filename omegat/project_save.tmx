@@ -7151,6 +7151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, tumbling windows are aligned to the epoch time, 1970-01-01-00:00:00.000.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053903Z" creationid="xccui" creationdate="20190623T053903Z">
+        <seg>默认情况下，滚动窗口会和纪元时间1970-01-01-00:00:00.000对齐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By injecting the barrier into its output stream, the source function defines the stream position on which the checkpoint is taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T154906Z" creationid="xccui" creationdate="20190609T154731Z">
@@ -11827,6 +11835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T211126Z">
         <seg>例如：窗口算子会为每个活动窗口注册一个计时器，它们会在事件时间超过窗口的结束时间时清理窗口状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, an assigner with a size of one hour will define windows at 00:00:00, 01:00:00, 02:00:00, and so on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054104Z" creationid="xccui" creationdate="20190623T054104Z">
+        <seg>例如，大小为1小时的分配器将会在00:00:00、01:00:00、02:00:00……时间定义窗口。</seg>
       </tuv>
     </tu>
     <tu>
