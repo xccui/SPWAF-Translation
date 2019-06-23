@@ -12457,16 +12457,16 @@
       <tuv lang="EN-US">
         <seg>Full window functions collect all elements of a window and iterate over the list of all collected elements when they are evaluated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211234Z" creationid="xccui" creationdate="20190623T211046Z">
-        <seg>全窗口函数，它会收集窗口内的所有元素，并在这些元素需要执行计算时对其进行遍历。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211513Z" creationid="xccui" creationdate="20190623T211046Z">
+        <seg>全量窗口函数，它会收集窗口内的所有元素，并在这些元素需要执行计算时对其进行遍历。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Full window functions usually require more space but allow for more complex logic than incremental aggrega‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211421Z" creationid="xccui" creationdate="20190623T211421Z">
-        <seg>虽然全窗口函数通常需要占用更多空间，但它和增量聚合函数相比，支持更复杂的逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211518Z" creationid="xccui" creationdate="20190623T211421Z">
+        <seg>虽然全量窗口函数通常需要占用更多空间，但它和增量聚合函数相比，支持更复杂的逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15747,6 +15747,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T040632Z" creationid="xccui" creationdate="20190529T040632Z">
         <seg>在本节中，我们讨论算子如何处理水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, we discuss the different types of functions that can be applied on a window to perform aggregations or arbitrary computations on the window’s con‐ tents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211733Z" creationid="xccui" creationdate="20190623T211733Z">
+        <seg>本节我们将讨论一些可应用于窗口上的不同函数，它们可以对窗口内容执行聚合或任意计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22300,6 +22308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210736Z" creationid="esouser" creationdate="20190603T210736Z">
         <seg>The O’Reilly logo is a registered trademark of O’Reilly Media, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ProcessWindowFunction is a full window function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211521Z" creationid="xccui" creationdate="20190623T211454Z">
+        <seg>ProcessWindowFunction就是一个全量窗口函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31405,6 +31421,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035709Z" creationid="xccui" creationdate="20190612T035709Z">
         <seg>timestamp: Long, temperature: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tion functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211423Z" creationid="xccui" creationdate="20190623T211423Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
