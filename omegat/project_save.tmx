@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.timeWindow(Time.hours(1), Time(minutes(15)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060213Z" creationid="xccui" creationdate="20190623T060213Z">
+        <seg>.timeWindow(Time.hours(1), Time(minutes(15)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.timeWindow(Time.seconds(1))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053729Z" creationid="xccui" creationdate="20190623T053729Z">
@@ -1390,10 +1398,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// shortcut for window.(SlidingEventTimeWindow.of(size, slide))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060210Z" creationid="xccui" creationdate="20190623T060210Z">
+        <seg>// window.(SlidingEventTimeWindow.of(size, slide))的简写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// shortcut for window.(TumblingEventTimeWindows.of(size))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053727Z" creationid="xccui" creationdate="20190623T053727Z">
         <seg>// window.(TumblingEventTimeWindows.of(size))的简写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// sliding windows assigner using a shortcut method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060157Z" creationid="xccui" creationdate="20190623T060157Z">
+        <seg>// 使用窗口分配器简写方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -4770,6 +4794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T035719Z" creationid="xccui" creationdate="20190423T035719Z">
         <seg>另一个和作业无关的映像负责部署TaskManager容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A session window assigner places elements into nonoverlapping windows of activity of varying size.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060814Z" creationid="xccui" creationdate="20190623T060814Z">
+        <seg>会话窗口将元素放入活动长度可变且不重叠的窗口中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19940,6 +19972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T193607Z" creationid="xccui" creationdate="20190409T193607Z">
         <seg>会话窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Session windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060219Z" creationid="xccui" creationdate="20190623T060219Z">
+        <seg>会话窗口</seg>
       </tuv>
     </tu>
     <tu>
