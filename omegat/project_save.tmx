@@ -7871,6 +7871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Count-Based Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035233Z" creationid="xccui" creationdate="20190623T035233Z">
+        <seg>基于数量的窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Count-based tumbling window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013112Z" creationid="xccui" creationdate="20190606T013111Z">
@@ -11409,8 +11417,8 @@
       <tuv lang="EN-US">
         <seg>Flink will never evaluate empty windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T033506Z" creationid="xccui" creationdate="20190623T033506Z">
-        <seg>Flink不会对空窗口执行计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035219Z" creationid="xccui" creationdate="20190623T033506Z">
+        <seg>Flink永远不会对空窗口执行计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13851,6 +13859,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T053253Z" creationid="xccui" creationdate="20190328T052954Z">
         <seg>除了上述特性，Flink还有十分易用的API，因此作为框架而言对开发者非常友好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to time-based windows, Flink also supports count- based windows—windows that group a fixed number of elements in the order in which they arrive at the window operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035632Z" creationid="xccui" creationdate="20190623T035632Z">
+        <seg>Flink除了支持基于时间的窗口，还支持基于数量的窗口。后者会按照元素到达窗口算子的顺序以固定数量对其进行分组。</seg>
       </tuv>
     </tu>
     <tu>
