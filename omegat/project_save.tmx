@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can spec‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054159Z" creationid="xccui" creationdate="20190623T054159Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although a program is executed in a single JVM, records are serialized for cross- thread communication and possibly state persistance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054835Z" creationid="xccui" creationdate="20190611T054835Z">
@@ -22728,6 +22736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following code shows win‐ dows with an offset of 15 minutes that start at 00:15:00, 01:15:00, 02:15:00, and so on:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054422Z" creationid="xccui" creationdate="20190623T054422Z">
+        <seg>以下代码展示了偏移量为15分钟的窗口，它们将从00:15:00、01:15:00、02:15:00……时间点开始：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following example code shows how to use the methods of a RichFlat MapFunction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034214Z" creationid="xccui" creationdate="20190619T033912Z">
@@ -29789,6 +29805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034505Z" creationid="xccui" creationdate="20190619T034505Z">
         <seg>if(in % 2 == subTaskIndex) { out.collect((subTaskIndex, in))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ify an offset as a second parameter in the assigner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054244Z" creationid="xccui" creationdate="20190623T054157Z">
+        <seg>或者你也可以通过第二个参数指定一个偏移量。</seg>
       </tuv>
     </tu>
     <tu>
