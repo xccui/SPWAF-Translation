@@ -19480,6 +19480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ReduceFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211922Z" creationid="xccui" creationdate="20190623T211922Z">
+        <seg>ReduceFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ReduceFunction and AggregateFunction are incremental aggregation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211000Z" creationid="xccui" creationdate="20190623T211000Z">
@@ -27244,6 +27252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034647Z" creationid="xccui" creationdate="20190612T034647Z">
         <seg>我们在Github仓库中同时提供了用Java和Scala实现的完整示例程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We also show how to jointly apply incremental aggregation and full window functions in a window operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211919Z" creationid="xccui" creationdate="20190623T211919Z">
+        <seg>此外我们还将展示如何在窗口算子上联合应用增量聚合及全量窗口函数。</seg>
       </tuv>
     </tu>
     <tu>
