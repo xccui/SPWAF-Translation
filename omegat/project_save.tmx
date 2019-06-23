@@ -17465,8 +17465,8 @@
       <tuv lang="EN-US">
         <seg>Note that you can customize a window operator by providing a custom trigger or evictor and declaring strategies to deal with late elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041859Z" creationid="xccui" creationdate="20190622T041859Z">
-        <seg>你可以通过提供自定义触发器或移除器并声明迟到元素的处理策略来自定义窗口算子，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T042128Z" creationid="xccui" creationdate="20190622T041859Z">
+        <seg>你可以通过提供自定义触发器或移除器以及声明迟到元素处理策略的方式来自定义窗口算子，</seg>
       </tuv>
     </tu>
     <tu>
