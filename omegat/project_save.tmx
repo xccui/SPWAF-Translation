@@ -5214,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All built-in window assigners provide a default trigger that triggers the evaluation of a window once the (processing or event) time passes the end of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T033331Z" creationid="xccui" creationdate="20190623T033331Z">
+        <seg>所有内置的窗口分配器都提供了一个默认的触发器，一旦（处理或事件）时间超过了窗口的结束时间就会触发窗口计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All events of the broadcasted stream are replicated and sent to all parallel operator instances of the subsequent processing function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052019Z" creationid="xccui" creationdate="20190615T051939Z">
@@ -16135,6 +16143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is important to note that a window is created when the first element is assigned to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T033439Z" creationid="xccui" creationdate="20190623T033439Z">
+        <seg>请注意，窗口只有在第一个元素分配给它的时候才会创建，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important to note that sometimes you can</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T050336Z" creationid="xccui" creationdate="20190416T050038Z">
@@ -25268,6 +25284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190224T174724Z" creationid="xccui" creationdate="20190224T174724Z">
         <seg>是时候撸起袖子着手开发Flink应用了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time windows have a start and an end timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T033207Z" creationid="xccui" creationdate="20190623T033207Z">
+        <seg>每个时间窗口都有一个开始时间戳和一个结束时间戳。</seg>
       </tuv>
     </tu>
     <tu>
