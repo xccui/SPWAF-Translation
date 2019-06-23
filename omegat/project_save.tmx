@@ -8999,6 +8999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each reading will be added to four win‐ dows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055727Z" creationid="xccui" creationdate="20190623T055727Z">
+        <seg>每个读数将被放入四个窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each sender task needs at least four network buffers to send data to each receiver task and each receiver task requires at least four buffers to receive data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044254Z" creationid="xccui" creationdate="20190504T044254Z">
@@ -21752,6 +21760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream API provides event-time and processing-time assigners, as well as shortcut methods, and a time interval offset can be set as the third parameter to the window assigner:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055947Z" creationid="xccui" creationdate="20190623T055947Z">
+        <seg>DataStream API提供了基于事件时间和处理时间的分配器以及相关的简写方法。你可以将时间间隔偏移设置为窗口分配器的第三个参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API provides implementations for two common cases of timestamp assigners with periodic watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051417Z" creationid="xccui" creationdate="20190620T051417Z">
@@ -22786,8 +22802,8 @@
       <tuv lang="EN-US">
         <seg>The following code shows how to group the sensor readings in sliding windows of 1 hour size with a 15-minute slide interval.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055634Z" creationid="xccui" creationdate="20190623T055634Z">
-        <seg>以下代码展示了如何将传感器读数按照大小为1小时、滑动间隔为15分钟的滑动窗口进行分组：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055645Z" creationid="xccui" creationdate="20190623T055634Z">
+        <seg>以下代码展示了如何将传感器读数按照大小为1小时、滑动间隔为15分钟的滑动窗口进行分组。</seg>
       </tuv>
     </tu>
     <tu>
