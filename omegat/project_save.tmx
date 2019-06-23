@@ -17063,6 +17063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, they can cause issues if they are used without a custom trigger that discards incomplete and stale windows at some point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041329Z" creationid="xccui" creationdate="20190623T041329Z">
+        <seg>此外，如果没有为其自定义触发器来丢弃某些时候出现的不完整或过期的窗口，还会导致一些问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, users of open source software request or contribute new features that are missing to support their use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190322T041404Z" creationid="xccui" creationdate="20190319T054608Z">
@@ -20074,8 +20082,8 @@
       <tuv lang="EN-US">
         <seg>Since they depend on the ingestion order, count-based windows are not deter‐ ministic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035800Z" creationid="xccui" creationdate="20190623T035800Z">
-        <seg>由于会依赖元素的到达顺序，基于数量的窗口具有不确定性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T040009Z" creationid="xccui" creationdate="20190623T035800Z">
+        <seg>由于要依赖元素的到达顺序，基于数量的窗口具有不确定性。</seg>
       </tuv>
     </tu>
     <tu>
