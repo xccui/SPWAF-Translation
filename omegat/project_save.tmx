@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.window(ProcessingTimeSessionWindows.withGap(Time.minutes(15)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061554Z" creationid="xccui" creationdate="20190623T061554Z">
+        <seg>.window(ProcessingTimeSessionWindows.withGap(Time.minutes(15)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.window(SlidingEventTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060110Z" creationid="xccui" creationdate="20190623T060110Z">
@@ -16143,6 +16151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, the SessionWindows assigner initially maps each incoming element into its</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062005Z" creationid="xccui" creationdate="20190623T062005Z">
+        <seg>事实上，SessionWindows分配器会将每个到来的元素映射到它自己的窗口中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, time-based DataStream operator tasks configure the time‐ stamps of emitted records to ensure they are properly aligned with the emitted watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T013338Z" creationid="xccui" creationdate="20190607T013124Z">
@@ -20436,6 +20452,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210342Z" creationid="xccui" creationdate="20190609T205625Z">
         <seg>检查点的目的是保证应用可以在出现故障的时候顺利重启，因此当应用被显式取消后，检查点也会随之删除4。但应用状态的一致性快照除了故障恢复外，还有很多其他用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the start and the end of a session window depend on the received elements, a window assigner cannot immediately assign all the elements to the correct window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061801Z" creationid="xccui" creationdate="20190623T061801Z">
+        <seg>由于会话窗口的起始和结束都取决于接收的元素，因此窗口分配器无法实时将所有元素分配到正确的窗口。</seg>
       </tuv>
     </tu>
     <tu>
