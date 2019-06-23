@@ -22344,6 +22344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ReduceFunction was introduced in “KeyedStream Transformations” on page 87 when discussing running aggregations on keyed streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T214033Z" creationid="xccui" creationdate="20190623T214033Z">
+        <seg>我们已经在第87页"基于KeyedStream的转换"一节讨论键值分区流上的运行聚合时介绍过ReduceFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Resour&lt;t4/&gt;‐&lt;t5/&gt; ceManager also takes care of terminating idle TaskManagers to free compute resources.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T051307Z" creationid="xccui" creationdate="20190418T051307Z">
