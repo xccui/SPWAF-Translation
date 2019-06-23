@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.window(TumblingEventTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054538Z" creationid="xccui" creationdate="20190623T054538Z">
+        <seg>.window(TumblingEventTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.window(TumblingEventTimeWindows.of(Time.seconds(1)))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T045125Z" creationid="xccui" creationdate="20190623T045125Z">
@@ -1086,18 +1094,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// group readings in 1 hour windows with 15 min offset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054519Z" creationid="xccui" creationdate="20190623T054519Z">
+        <seg>// 将读数按照大小1小时、偏移量15分钟的时间窗口分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 1s event-time windows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042926Z" creationid="xccui" creationdate="20190623T042926Z">
-        <seg>// 将读数按照1秒事件时间窗口进行分组</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054536Z" creationid="xccui" creationdate="20190623T042926Z">
+        <seg>// 将读数按照1秒事件时间窗口分组</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>// group readings in 1s processing-time windows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T045155Z" creationid="xccui" creationdate="20190623T045155Z">
-        <seg>// 将读数按照1秒处理时间窗口进行分组</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054528Z" creationid="xccui" creationdate="20190623T045155Z">
+        <seg>// 将读数按照1秒处理时间窗口分组</seg>
       </tuv>
     </tu>
     <tu>
@@ -20312,6 +20328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sliding windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054549Z" creationid="xccui" creationdate="20190623T054549Z">
+        <seg>滑动窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sliding windows assign events into overlapping buckets of fixed size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013132Z" creationid="xccui" creationdate="20190606T013132Z">
@@ -23876,6 +23900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013302Z" creationid="xccui" creationdate="20190606T013302Z">
         <seg>在图2-8中，基于数量的滑动窗口的长度为4个事件，滑动间隔为3个事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sliding window assigner assigns elements to fixed-sized windows that are shifted by a specified slide interval, as shown in Figure 6-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054743Z" creationid="xccui" creationdate="20190623T054743Z">
+        <seg>如图6-2所示，滑动窗口分配器将元素分配给大小固定且按指定滑动间隔移动的窗口。</seg>
       </tuv>
     </tu>
     <tu>
