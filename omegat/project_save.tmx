@@ -550,6 +550,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.window(SlidingEventTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060110Z" creationid="xccui" creationdate="20190623T060110Z">
+        <seg>.window(SlidingEventTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.window(SlidingProcessingTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060140Z" creationid="xccui" creationdate="20190623T060140Z">
+        <seg>.window(SlidingProcessingTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.window(TumblingEventTimeWindows.of(Time.hours(1), Time.minutes(15)))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054538Z" creationid="xccui" creationdate="20190623T054538Z">
@@ -886,6 +902,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create 1h event-time windows every 15 minutes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060053Z" creationid="xccui" creationdate="20190623T060053Z">
+        <seg>// 每隔15分钟创建1小时的事件时间窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create 1h processing-time windows every 15 minutes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060138Z" creationid="xccui" creationdate="20190623T060138Z">
+        <seg>// // 每隔15分钟创建1小时的处理时间窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create a DataStream[SensorReading] from a stream source</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042034Z" creationid="xccui" creationdate="20190612T042034Z">
@@ -1002,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032317Z" creationid="xccui" creationdate="20190622T032317Z">
         <seg>// 开启读数转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// event-time sliding windows assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055959Z" creationid="xccui" creationdate="20190623T055959Z">
+        <seg>// 事件时间滑动窗口分配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022926Z" creationid="xccui" creationdate="20190622T022926Z">
         <seg>// 打印主输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// processing-time sliding windows assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060124Z" creationid="xccui" creationdate="20190623T060124Z">
+        <seg>// 处理时间滑动窗口分配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -21762,8 +21810,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides event-time and processing-time assigners, as well as shortcut methods, and a time interval offset can be set as the third parameter to the window assigner:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055947Z" creationid="xccui" creationdate="20190623T055947Z">
-        <seg>DataStream API提供了基于事件时间和处理时间的分配器以及相关的简写方法。你可以将时间间隔偏移设置为窗口分配器的第三个参数：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060021Z" creationid="xccui" creationdate="20190623T055947Z">
+        <seg>DataStream API提供了针对事件时间和处理时间的分配器以及相关的简写方法。你可以将时间间隔偏移设为窗口分配器的第三个参数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31837,6 +31885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005237Z" creationid="xccui" creationdate="20190613T005237Z">
         <seg>val sentences: DataStream[String] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val slidingAvgTemp = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060024Z" creationid="xccui" creationdate="20190623T060024Z">
+        <seg>val slidingAvgTemp = sensorData</seg>
       </tuv>
     </tu>
     <tu>
