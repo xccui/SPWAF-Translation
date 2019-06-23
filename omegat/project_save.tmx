@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(TumblingEventTimeWindows.of(size)) or for window.(TumblingProcessing TimeWindows.of(size)) depending on the configured time characteristic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051459Z" creationid="xccui" creationdate="20190623T051459Z">
+        <seg>具体调用那个方法取决于配置的时间特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031643Z" creationid="xccui" creationdate="20190622T031643Z">
@@ -24338,8 +24346,8 @@
       <tuv lang="EN-US">
         <seg>There, we defined an event-time tumbling</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051346Z" creationid="xccui" creationdate="20190623T051346Z">
-        <seg>那里，我们使用timeWindow(size)方法来定义了一个事件时间滚动窗口，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051514Z" creationid="xccui" creationdate="20190623T051346Z">
+        <seg>那里，我们使用timeWindow(size)方法定义了一个事件时间滚动窗口，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31869,6 +31877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062540Z" creationid="xccui" creationdate="20190621T062117Z">
         <seg>注意，这样操作会使所有数据发到单个任务上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>window using the timeWindow(size) method, which is a shortcut for either window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053640Z" creationid="xccui" creationdate="20190623T051438Z">
+        <seg>该方法是对window.(TumblingEventTimeWindows.of(size))或window.(TumblingProcessing TimeWindows.of(size))的简写，</seg>
       </tuv>
     </tu>
     <tu>
