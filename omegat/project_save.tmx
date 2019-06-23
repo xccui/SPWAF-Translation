@@ -4904,8 +4904,8 @@
       <tuv lang="EN-US">
         <seg>A tumbling window assigner receives one parameter, the window</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042518Z" creationid="xccui" creationdate="20190623T042447Z">
-        <seg>滚动窗口分配器只接收一个参数，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042554Z" creationid="xccui" creationdate="20190623T042447Z">
+        <seg>滚动窗口分配器只接收一个参数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22632,6 +22632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following code shows how to define event-time and processing-time tumbling windows on a stream of sensor data measurements:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042900Z" creationid="xccui" creationdate="20190623T042900Z">
+        <seg>以下代码展示了如何在一个传感数据测量流上定义事件时间和处理时间滚动窗口：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following code shows how to specify a window assigner and a window function on a keyed or nonkeyed stream:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041304Z" creationid="xccui" creationdate="20190622T041304Z">
@@ -23964,6 +23972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T064821Z" creationid="xccui" creationdate="20190619T064821Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The time interval can be set in milliseconds, seconds, minutes, hours, or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042758Z" creationid="xccui" creationdate="20190623T042741Z">
+        <seg>时间间隔允许以毫秒、秒、分钟、小时或天数来表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29249,6 +29265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>days.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042801Z" creationid="xccui" creationdate="20190623T042801Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>def main(args: Array[String]) {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041920Z" creationid="xccui" creationdate="20190612T041920Z">
@@ -30611,8 +30635,8 @@
       <tuv lang="EN-US">
         <seg>size in time units; this can be specified using the of(Time size) method of the assigner.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042542Z" creationid="xccui" creationdate="20190623T042501Z">
-        <seg>时间单位表示的窗口大小。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042707Z" creationid="xccui" creationdate="20190623T042501Z">
+        <seg>以时间单元表示的窗口大小。它可以利用分配器的of(Time size)方法指定。</seg>
       </tuv>
     </tu>
     <tu>
