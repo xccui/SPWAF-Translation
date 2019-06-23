@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.process(new TemperatureAverager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T045129Z" creationid="xccui" creationdate="20190623T045129Z">
+        <seg>.process(new TemperatureAverager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.reduce((x, y) =&gt; (x._1, x._2 ::: y._2))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062241Z" creationid="xccui" creationdate="20190614T062241Z">
@@ -522,6 +530,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041337Z" creationid="xccui" creationdate="20190622T041337Z">
         <seg>.window(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.window(TumblingEventTimeWindows.of(Time.seconds(1)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T045125Z" creationid="xccui" creationdate="20190623T045125Z">
+        <seg>.window(TumblingEventTimeWindows.of(Time.seconds(1)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.window(TumblingProcessingTimeWindows.of(Time.seconds(1)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T050101Z" creationid="xccui" creationdate="20190623T050101Z">
+        <seg>.window(TumblingProcessingTimeWindows.of(Time.seconds(1)))</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042926Z" creationid="xccui" creationdate="20190623T042926Z">
         <seg>// 将读数按照1秒事件时间窗口进行分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// group readings in 1s processing-time windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T045155Z" creationid="xccui" creationdate="20190623T045155Z">
+        <seg>// 将读数按照1秒处理时间窗口进行分组</seg>
       </tuv>
     </tu>
     <tu>
