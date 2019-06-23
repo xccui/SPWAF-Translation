@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.process(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061520Z" creationid="xccui" creationdate="20190623T061520Z">
+        <seg>.process(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.process(new FreezingMonitor)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022815Z" creationid="xccui" creationdate="20190622T022815Z">
@@ -554,6 +562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041337Z" creationid="xccui" creationdate="20190622T041337Z">
         <seg>.window(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.window(EventTimeSessionWindows.withGap(Time.minutes(15)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061515Z" creationid="xccui" creationdate="20190623T061515Z">
+        <seg>.window(EventTimeSessionWindows.withGap(Time.minutes(15)))</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +966,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create event-time session windows with a 15 min gap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061512Z" creationid="xccui" creationdate="20190623T061512Z">
+        <seg>// 创建15分钟间隔的事件时间会话窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create processing-time session windows with a 15 min gap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061550Z" creationid="xccui" creationdate="20190623T061550Z">
+        <seg>// 创建15分钟间隔的处理时间会话窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// default constructor is present</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044839Z" creationid="xccui" creationdate="20190617T044839Z">
@@ -1042,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032317Z" creationid="xccui" creationdate="20190622T032317Z">
         <seg>// 开启读数转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// event-time session windows assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061436Z" creationid="xccui" creationdate="20190623T061436Z">
+        <seg>// 事件时间会话窗口分配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +1314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022926Z" creationid="xccui" creationdate="20190622T022926Z">
         <seg>// 打印主输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// processing-time session windows assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061532Z" creationid="xccui" creationdate="20190623T061532Z">
+        <seg>// 处理时间会话窗口分配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -31973,6 +32021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005237Z" creationid="xccui" creationdate="20190613T005237Z">
         <seg>val sentences: DataStream[String] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sessionWindows = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061438Z" creationid="xccui" creationdate="20190623T061438Z">
+        <seg>val sessionWindows = sensorData</seg>
       </tuv>
     </tu>
     <tu>
