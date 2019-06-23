@@ -58,3 +58,4 @@ checkpoint barrier	检查点分隔符
 stateful operator	状态化算子
 evictor	移除器
 Incremental aggregation function	增量聚合函数
+Full window function	全量窗口函数
