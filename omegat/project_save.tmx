@@ -11463,6 +11463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s built-in window assigners create windows of type TimeWindow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041448Z" creationid="xccui" creationdate="20190623T041416Z">
+        <seg>Flink内置窗口分配器所创建的窗口类型为TimeWindow。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s checkpointing algorithm produces consistent distributed checkpoints from streaming applications without stopping the whole application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T195749Z" creationid="xccui" creationdate="20190609T195709Z">
@@ -25168,6 +25176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This window type essentially represents a time interval between the two timestamps, where start is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041614Z" creationid="xccui" creationdate="20190623T041614Z">
+        <seg>该窗口类型实际上表示两个时间戳之间的时间间隔（左闭右开）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This works because broadcasting state ensures that all tasks have the same state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T061853Z" creationid="xccui" creationdate="20190608T061836Z">
@@ -29613,6 +29629,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204807Z" creationid="xccui" creationdate="20190606T204807Z">
         <seg>时间戳将记录和特定时间点进行关联，这些时间点通常是记录所表示事件的发生时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inclusive and end is exclusive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041615Z" creationid="xccui" creationdate="20190623T041615Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
