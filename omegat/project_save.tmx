@@ -16153,8 +16153,8 @@
       <tuv lang="EN-US">
         <seg>Instead, the SessionWindows assigner initially maps each incoming element into its</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062005Z" creationid="xccui" creationdate="20190623T062005Z">
-        <seg>事实上，SessionWindows分配器会将每个到来的元素映射到它自己的窗口中，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062146Z" creationid="xccui" creationdate="20190623T062005Z">
+        <seg>事实上，SessionWindows分配器会将每个到来的元素映射到一个它自己的窗口中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21316,6 +21316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064047Z" creationid="xccui" creationdate="20190614T064047Z">
         <seg>这样后续的转换操作就可以对所有输入流中的元素进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subsequently, it merges all windows with overlapping ranges.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062316Z" creationid="xccui" creationdate="20190623T062316Z">
+        <seg>随后分配器会合并所有范围存在重叠的窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30825,6 +30833,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>own window with the element’s timestamp as the start time and the session gap as the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062104Z" creationid="xccui" creationdate="20190623T062037Z">
+        <seg>该窗口的起始时间是元素的时间戳，大小为会话间隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>page 154.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033816Z" creationid="xccui" creationdate="20190619T033816Z">
@@ -32261,6 +32277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062540Z" creationid="xccui" creationdate="20190621T062117Z">
         <seg>注意，这样操作会使所有数据发到单个任务上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>window size.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062149Z" creationid="xccui" creationdate="20190623T062149Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
