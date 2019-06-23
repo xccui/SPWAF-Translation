@@ -24776,6 +24776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These functions are typically very space-efficient and eventually emit the aggregated value as a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210933Z" creationid="xccui" creationdate="20190623T210933Z">
+        <seg>此类函数函数通常会十分节省空间且最终将聚合值作为单个结果发送出去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These metrics are assembled into reports that help the management to assess the business’s overall health.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T203141Z" creationid="esouser" creationdate="20190603T203141Z">
