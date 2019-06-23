@@ -24336,6 +24336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There, we defined an event-time tumbling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051346Z" creationid="xccui" creationdate="20190623T051346Z">
+        <seg>那里，我们使用timeWindow(size)方法来定义了一个事件时间滚动窗口，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, all configuration values are preserved after the object is deserialized.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054924Z" creationid="xccui" creationdate="20190618T054924Z">
