@@ -13535,6 +13535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the slide is larger than the window size, some elements might not be assigned to any window and hence may be dropped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055401Z" creationid="xccui" creationdate="20190623T055207Z">
+        <seg>如果滑动间隔大于大于窗口大小，则一些元素可能不会分配给任何窗口，因此会被丢弃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the system continues to receive data at a higher rate than it can handle, buffers might become unavailable and data might get lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T202331Z" creationid="xccui" creationdate="20190402T201609Z">
@@ -28069,6 +28077,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T203350Z" creationid="xccui" creationdate="20190609T203350Z">
         <seg>在本地拷贝创建完成后，任务就可以继续它的常规处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the slide interval is smaller than the window size, the windows overlap and elements can be assigned to more than one window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055232Z" creationid="xccui" creationdate="20190623T055127Z">
+        <seg>如果滑动间隔小于窗口大小，则窗口会出现重叠，此时元素会被分配给多个窗口；</seg>
       </tuv>
     </tu>
     <tu>
