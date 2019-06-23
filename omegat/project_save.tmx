@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// group readings in 1s event-time windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042926Z" creationid="xccui" creationdate="20190623T042926Z">
+        <seg>// 将读数按照1秒事件时间窗口进行分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 5 second tumbling windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042710Z" creationid="xccui" creationdate="20190612T042607Z">
@@ -31077,6 +31085,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064852Z" creationid="xccui" creationdate="20190614T064852Z">
         <seg>val allCities: DataStream[SensorReading] = parisStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val avgTemp = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042905Z" creationid="xccui" creationdate="20190623T042905Z">
+        <seg>val avgTemp = sensorData</seg>
       </tuv>
     </tu>
     <tu>
