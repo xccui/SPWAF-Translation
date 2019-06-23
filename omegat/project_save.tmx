@@ -4750,6 +4750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A sliding window assigner places elements into fixed-size, possibly overlap‐ ping windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054822Z" creationid="xccui" creationdate="20190623T054822Z">
+        <seg>滑动窗口分配器将元素置于大小固定且可能重叠的窗口中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A so-called type extractor analyzes the generic types and return types of all functions to obtain the respective TypeInformation objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052355Z" creationid="xccui" creationdate="20190617T052355Z">
@@ -10583,6 +10591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 6-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054747Z" creationid="xccui" creationdate="20190623T054747Z">
+        <seg>图6-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -11723,6 +11739,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053757Z" creationid="xccui" creationdate="20190617T053555Z">
         <seg>Java中的这个辅助类是org.apache.flink.api.common.typeInfo.Types，它的用法如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a sliding window, you have to specify a window size and a slide interval that defines how frequently a new window is started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055016Z" creationid="xccui" creationdate="20190623T055016Z">
+        <seg>对于滑动窗口而言，你需要指定窗口大小以及用于定义新窗口开始频率的滑动间隔。</seg>
       </tuv>
     </tu>
     <tu>
