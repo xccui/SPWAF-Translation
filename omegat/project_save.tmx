@@ -14903,6 +14903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we show the different built-in window assigners of the DataStream API and how to use them to define window operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041952Z" creationid="xccui" creationdate="20190623T041952Z">
+        <seg>接下来我们将对DataStream API中的多种内置窗口分配器以及如何用它们来定义窗口算子进行介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we will guide you through the process of starting a local cluster and executing a streaming application to give you a first look at Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T122617Z" creationid="xccui" creationdate="20190605T122436Z">
@@ -16067,6 +16075,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162821Z" creationid="esouser" creationdate="20190603T162716Z">
         <seg>且支持在容错的前提下高效、大规模地运行此类应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It exposes methods to retrieve the window boundaries, to check whether windows intersect, and to merge overlapping windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041758Z" creationid="xccui" creationdate="20190623T041758Z">
+        <seg>它对外提供了获取窗口边界、检查窗口是否相交以及合并重叠窗口等方法。</seg>
       </tuv>
     </tu>
     <tu>
