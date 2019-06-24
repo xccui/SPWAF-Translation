@@ -17751,6 +17751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, the method has a Context parameter similar to other process methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011223Z" creationid="xccui" creationdate="20190624T011223Z">
+        <seg>此外，该方法和其他处理方法一样都有一个Context参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, the state of a window operator with an AggregateFunction also consists of a single value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003406Z" creationid="xccui" creationdate="20190624T003406Z">
@@ -22296,6 +22304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Context object of the ProcessWindowFunction gives access to the metadata of the window, the current pro‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011304Z" creationid="xccui" creationdate="20190624T011304Z">
+        <seg>ProcessWindowFunction的Context对象可以用于访问窗口的元数据、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataSet API for Batch Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152457Z" creationid="esouser" creationdate="20190603T152457Z">
@@ -24380,6 +24396,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T174938Z" creationid="xccui" creationdate="20190609T162722Z">
         <seg>这个等待所有分隔符到达的过程称为分隔符对齐，我们在图3-22中对它进行了阐述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The process() method is called with the key of the window, an Iterable to access the elements of the window, and a Collector to emit results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011149Z" creationid="xccui" creationdate="20190624T011149Z">
+        <seg>process()方法在调用时会传入窗口的键值、一个用于访问窗口内元素的Iterator以及一个用于发出结果的Collector。</seg>
       </tuv>
     </tu>
     <tu>
