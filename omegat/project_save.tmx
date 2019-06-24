@@ -5230,6 +5230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window only stores the current result of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225105Z" creationid="xccui" creationdate="20190623T225105Z">
+        <seg>窗口只需要存储当前聚合结果——</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040532Z" creationid="xccui" creationdate="20190418T040532Z">
@@ -28113,6 +28121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a new element is received, the ReduceFunction is called with the new element and the current value that is read from the window’s state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001105Z" creationid="xccui" creationdate="20190624T001105Z">
+        <seg>每当收到一个新元素，都会以该元素和从窗口状态取出的当前聚合值为参数调用ReduceFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a program is submitted for execution, all function objects are serialized using Java serialization and shipped to all parallel tasks of their corresponding operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055206Z" creationid="xccui" creationdate="20190618T054831Z">
@@ -28283,8 +28299,8 @@
       <tuv lang="EN-US">
         <seg>When applied on a windowed stream, ReduceFunction incrementally aggregates the elements that are assigned to a window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T224934Z" creationid="xccui" creationdate="20190623T224934Z">
-        <seg>当应用于窗口化数据流时，它会对分配给窗口的元素进行增量聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225051Z" creationid="xccui" creationdate="20190623T224934Z">
+        <seg>当应用于窗口化数据流时，ReduceFunction会对分配给窗口的元素进行增量聚合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31381,6 +31397,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045224Z" creationid="xccui" creationdate="20190613T045224Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the aggregation—a single value of the ReduceFunction’s input (and output) type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225146Z" creationid="xccui" creationdate="20190623T225146Z">
+        <seg>一个和ReduceFunction的输入及输出类型都相同的值。</seg>
       </tuv>
     </tu>
     <tu>
