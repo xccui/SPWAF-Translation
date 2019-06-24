@@ -726,6 +726,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Deletes any custom per-window state when the window is purged</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010617Z" creationid="xccui" creationdate="20190624T010617Z">
+        <seg>// 在窗口清除时删除自定义的窗口状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Evaluates the window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010513Z" creationid="xccui" creationdate="20190624T010513Z">
+        <seg>// 对窗口执行计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// IN1: the type of the first input stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042818Z" creationid="xccui" creationdate="20190615T042818Z">
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005549Z" creationid="xccui" creationdate="20190624T005549Z">
         <seg>// 累加器用于保存温度总和及事件数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// The context holding window metadata</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010711Z" creationid="xccui" creationdate="20190624T010711Z">
+        <seg>// 保存窗口元数据的上下文</seg>
       </tuv>
     </tu>
     <tu>
@@ -17055,6 +17079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KEY key, Context ctx, Iterable&lt;IN&gt; vals, Collector&lt;OUT&gt; out) throws Exception;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010520Z" creationid="xccui" creationdate="20190624T010520Z">
+        <seg>KEY key, Context ctx, Iterable&lt;IN&gt; vals, Collector&lt;OUT&gt; out) throws Exception;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Selectors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145630Z" creationid="esouser" creationdate="20190603T145630Z">
@@ -23372,6 +23404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041304Z" creationid="xccui" creationdate="20190622T041304Z">
         <seg>以下代码展示了如何在一个键值分区或非键值分区流上指定窗口分配器和窗口函数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following code shows the interface of the ProcessWindowFunction:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010446Z" creationid="xccui" creationdate="20190624T010446Z">
+        <seg>以下代码展示了ProcessWindowFunction接口：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30353,6 +30393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extends AbstractRichFunction {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010452Z" creationid="xccui" creationdate="20190624T010452Z">
+        <seg>extends AbstractRichFunction {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>extends AggregateFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005559Z" creationid="xccui" creationdate="20190624T005559Z">
@@ -31489,6 +31537,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>public abstract class ProcessWindowFunction&lt;IN, OUT, KEY, W extends Window&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010449Z" creationid="xccui" creationdate="20190624T010449Z">
+        <seg>public abstract class ProcessWindowFunction&lt;IN, OUT, KEY, W extends Window&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public class Person {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044803Z" creationid="xccui" creationdate="20190617T044803Z">
@@ -31501,6 +31557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003529Z" creationid="xccui" creationdate="20190624T003529Z">
         <seg>public interface AggregateFunction&lt;IN, ACC, OUT&gt; extends Function, Serializable {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public void clear(Context ctx) throws Exception {}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010622Z" creationid="xccui" creationdate="20190624T010622Z">
+        <seg>public void clear(Context ctx) throws Exception {}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32821,6 +32885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130320Z" creationid="xccui" creationdate="20190605T130320Z">
         <seg>viii | 目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void process(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010515Z" creationid="xccui" creationdate="20190624T010515Z">
+        <seg>void process(</seg>
       </tuv>
     </tu>
     <tu>
