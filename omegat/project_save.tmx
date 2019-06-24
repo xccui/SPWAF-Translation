@@ -5326,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACC merge(ACC a, ACC b);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004858Z" creationid="xccui" creationdate="20190624T004858Z">
+        <seg>ACC merge(ACC a, ACC b);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ability to run streaming applications 24/7 with very little downtime due to its highly available setup (no single point of failure), tight integration with Kuber‐ netes, YARN, and Apache Mesos, fast recovery from failures, and the ability to dynamically scale jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T121543Z" creationid="xccui" creationdate="20190605T121543Z">
@@ -9867,6 +9875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002248Z" creationid="xccui" creationdate="20190624T002248Z">
         <seg>示例6-10，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-11 shows how to use an AggregateFunction to compute the average tem‐ perature of sensor readings per window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005208Z" creationid="xccui" creationdate="20190624T005208Z">
+        <seg>示例6-11展示了如何使用AggregateFunction计算每个窗口内传感器读数的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14531,6 +14547,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T040244Z" creationid="xccui" creationdate="20190607T040224Z">
         <seg>和AssignerWithPeriodicWatermarks函数不同，这个函数不会强制你从每条记录中都提取一个时间戳（虽然这样也行）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast to the ReduceFunction, the intermediate data type and the output type do not depend on the input type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005140Z" creationid="xccui" creationdate="20190624T005140Z">
+        <seg>和ReduceFunction不同的是中间数据类型以及结果类型不再依赖输入类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23628,6 +23652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035807Z" creationid="xccui" creationdate="20190619T071759Z">
         <seg>事件的摄入时间是它进入流处理引擎的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The interface defines an input type, IN, an accumulator of type ACC, and a result type OUT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005027Z" creationid="xccui" creationdate="20190624T005027Z">
+        <seg>该接口定义了输入类型IN，累加器类型ACC以及结果类型OUT。</seg>
       </tuv>
     </tu>
     <tu>
