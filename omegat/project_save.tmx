@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// merge two accumulators and return the result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004856Z" creationid="xccui" creationdate="20190624T004856Z">
+        <seg>// 合并两个累加器并返回合并结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// monitor stream for readings with freezing temperatures</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022810Z" creationid="xccui" creationdate="20190622T022810Z">
@@ -18131,6 +18139,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T142729Z" creationid="xccui" creationdate="20190401T142257Z">
         <seg>现在你已经对dataflow编程的基础有所了解，接下来我们看一下这些概念如何应用于并行数据流处理中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OUT getResult(ACC accumulator);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004737Z" creationid="xccui" creationdate="20190624T004737Z">
+        <seg>OUT getResult(ACC accumulator);</seg>
       </tuv>
     </tu>
     <tu>
