@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Emits a record to the side output identified by the OutputTag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010948Z" creationid="xccui" creationdate="20190624T010948Z">
+        <seg>// 向OutputTag标识的副输出发送记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Evaluates the window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010513Z" creationid="xccui" creationdate="20190624T010513Z">
@@ -806,10 +814,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Returns the current event-time watermark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010748Z" creationid="xccui" creationdate="20190624T010748Z">
+        <seg>// 返回当前事件时间水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Returns the current processing time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010733Z" creationid="xccui" creationdate="20190624T010733Z">
+        <seg>// 返回当前处理时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Returns the metadata of the window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010721Z" creationid="xccui" creationdate="20190624T010721Z">
+        <seg>// 返回窗口的元数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Scala object that defines the DataStream program in the main() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
         <seg>// 在main()方法中定义DataStream程序的Scala对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// State accessor for per-key global state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010914Z" creationid="xccui" creationdate="20190624T010914Z">
+        <seg>// 用于每个键值全局状态的访问器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// State accessor for per-window state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010837Z" creationid="xccui" creationdate="20190624T010837Z">
+        <seg>// 用于每个窗口状态的访问器</seg>
       </tuv>
     </tu>
     <tu>
@@ -31537,10 +31585,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>public abstract &lt;X&gt; void output(OutputTag&lt;X&gt; outputTag, X value);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010951Z" creationid="xccui" creationdate="20190624T010951Z">
+        <seg>public abstract &lt;X&gt; void output(OutputTag&lt;X&gt; outputTag, X value);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract KeyedStateStore globalState();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010916Z" creationid="xccui" creationdate="20190624T010916Z">
+        <seg>public abstract KeyedStateStore globalState();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract KeyedStateStore windowState();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010840Z" creationid="xccui" creationdate="20190624T010840Z">
+        <seg>public abstract KeyedStateStore windowState();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract W window();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010724Z" creationid="xccui" creationdate="20190624T010724Z">
+        <seg>public abstract W window();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract class Context implements Serializable {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010714Z" creationid="xccui" creationdate="20190624T010714Z">
+        <seg>public abstract class Context implements Serializable {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public abstract class ProcessWindowFunction&lt;IN, OUT, KEY, W extends Window&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010449Z" creationid="xccui" creationdate="20190624T010449Z">
         <seg>public abstract class ProcessWindowFunction&lt;IN, OUT, KEY, W extends Window&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract long currentProcessingTime();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010735Z" creationid="xccui" creationdate="20190624T010735Z">
+        <seg>public abstract long currentProcessingTime();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract long currentWatermark();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010752Z" creationid="xccui" creationdate="20190624T010752Z">
+        <seg>public abstract long currentWatermark();</seg>
       </tuv>
     </tu>
     <tu>
