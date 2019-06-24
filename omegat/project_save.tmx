@@ -6502,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying an AggregateFunction on a WindowedStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005444Z" creationid="xccui" creationdate="20190624T005444Z">
+        <seg>在WindowedStream上应用AggregateFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>April 2019:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210727Z" creationid="esouser" creationdate="20190603T210727Z">
@@ -9883,6 +9891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005208Z" creationid="xccui" creationdate="20190624T005208Z">
         <seg>示例6-11展示了如何使用AggregateFunction计算每个窗口内传感器读数的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005411Z" creationid="xccui" creationdate="20190624T005411Z">
+        <seg>示例6-11，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22648,6 +22664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The accumulator maintains a running sum and count and the getResult() method computes the average value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005407Z" creationid="xccui" creationdate="20190624T005407Z">
+        <seg>其累加器负责维护不断变化的总和及数量，getResult()方法用来计算平均值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The advantages of applying ReduceFunction on a window are the constant and small state size per window and the simple function interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001857Z" creationid="xccui" creationdate="20190624T001857Z">
@@ -31933,6 +31957,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042225Z" creationid="xccui" creationdate="20190612T042225Z">
         <seg>val avgTemp: DataStream[SensorReading] = sensorData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val avgTempPerWindow: DataStream[(String, Double)] = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005450Z" creationid="xccui" creationdate="20190624T005450Z">
+        <seg>val avgTempPerWindow: DataStream[(String, Double)] = sensorData</seg>
       </tuv>
     </tu>
     <tu>
