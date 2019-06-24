@@ -11951,6 +11951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s Data‐ Stream API offers the ProcessWindowFunction to perform arbitrary computations on the contents of a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010127Z" creationid="xccui" creationdate="20190624T010127Z">
+        <seg>Flink的DataStream API提供的ProcessWindowFunction可以对窗口内容执行任意计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s Java tuples can have up to 25 fields, with each length is implemented as a separate class—Tuple1, Tuple2, up to Tuple25.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T015545Z" creationid="xccui" creationdate="20190616T071356Z">
@@ -12587,6 +12595,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204542Z" creationid="xccui" creationdate="20190523T034809Z">
         <seg>在面对这些高级应用时，充分理解Flink内部事件处理机制通常会有所帮助，有时也是必要的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For such applications,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010015Z" creationid="xccui" creationdate="20190624T010015Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13459,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053221Z" creationid="xccui" creationdate="20190617T052957Z">
         <seg>但有时候类型提取器会失灵，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, sometimes we need access to all elements of a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005942Z" creationid="xccui" creationdate="20190624T005942Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -30953,6 +30977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neither the ReduceFunction nor the AggregateFunction are suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010013Z" creationid="xccui" creationdate="20190624T010013Z">
+        <seg>对于此类应用，ReduceFunction和AggregateFunction都不合适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new BoundedOutOfOrdernessTimestampExtractor[SensorReading]( Time.seconds(10))(e =&gt;.timestamp)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052900Z" creationid="xccui" creationdate="20190620T052900Z">
@@ -32813,6 +32845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062149Z" creationid="xccui" creationdate="20190623T062149Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>window to perform more complex computations, such as computing the median of values in a window or the most frequently occurring value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005940Z" creationid="xccui" creationdate="20190624T005940Z">
+        <seg>但有些时候我们需要访问窗口内的所有元素来执行一些更加复杂的计算，例如计算窗口内数据的中值或出现频率最高的值。</seg>
       </tuv>
     </tu>
     <tu>
