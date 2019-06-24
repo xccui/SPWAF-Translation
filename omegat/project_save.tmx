@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another feature are per-window and per-key global states.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T012333Z" creationid="xccui" creationdate="20190624T012333Z">
+        <seg>另一项功能是每个窗口以及每个键值的全局状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another improvement was the dissolution of the latency-throughput trade-off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T134512Z" creationid="xccui" creationdate="20190327T134512Z">
@@ -24042,8 +24050,8 @@
       <tuv lang="EN-US">
         <seg>The metadata of the window typically contains information that can be used</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011756Z" creationid="xccui" creationdate="20190624T011756Z">
-        <seg>窗口的元数据通常包含了一些</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011915Z" creationid="xccui" creationdate="20190624T011756Z">
+        <seg>窗口的元数据通常包含了一些可用作窗口标识符的信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -29907,8 +29915,8 @@
       <tuv lang="EN-US">
         <seg>as an identifier for a window, such as the start and end timestamps in the case of a time window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011900Z" creationid="xccui" creationdate="20190624T011845Z">
-        <seg>可用作窗口标识符的信息，例如时间窗口中的开始和结束时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011918Z" creationid="xccui" creationdate="20190624T011845Z">
+        <seg>例如时间窗口中的开始和结束时间。</seg>
       </tuv>
     </tu>
     <tu>
