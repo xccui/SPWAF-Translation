@@ -30849,6 +30849,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>information between multiple windows on the same key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024913Z" creationid="xccui" creationdate="20190624T024913Z">
+        <seg>全局状态可用于在键值相同的多个窗口之间共享信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ing: transactional processing and analytical processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T194515Z" creationid="esouser" creationdate="20190603T194515Z">
@@ -31909,6 +31917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042707Z" creationid="xccui" creationdate="20190623T042501Z">
         <seg>以时间单元表示的窗口大小。它可以利用分配器的of(Time size)方法指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specific state before the window is purged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024801Z" creationid="xccui" creationdate="20190624T024801Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
