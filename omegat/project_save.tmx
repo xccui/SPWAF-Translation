@@ -19296,6 +19296,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Per-window state is useful to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T023819Z" creationid="xccui" creationdate="20190624T023819Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Performace Implications of Checkpointing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T155008Z" creationid="esouser" creationdate="20190603T144627Z">
