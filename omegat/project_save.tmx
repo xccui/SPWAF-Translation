@@ -728,8 +728,8 @@
       <tuv lang="EN-US">
         <seg>// Deletes any custom per-window state when the window is purged</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010617Z" creationid="xccui" creationdate="20190624T010617Z">
-        <seg>// 在窗口清除时删除自定义的窗口状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024244Z" creationid="xccui" creationdate="20190624T010617Z">
+        <seg>// 在窗口清除时删除自定义的单窗口状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +856,8 @@
       <tuv lang="EN-US">
         <seg>// State accessor for per-window state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010837Z" creationid="xccui" creationdate="20190624T010837Z">
-        <seg>// 用于每个窗口状态的访问器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024231Z" creationid="xccui" creationdate="20190624T010837Z">
+        <seg>// 用于单窗口状态的访问器</seg>
       </tuv>
     </tu>
     <tu>
@@ -30099,8 +30099,8 @@
       <tuv lang="EN-US">
         <seg>cessing time and watermark, state stores to manage per-window and per-key global</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011510Z" creationid="xccui" creationdate="20190624T011407Z">
-        <seg>当前处理时间和水位线，用于管理的每个窗口和每个键值全局状态的状态存储</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024305Z" creationid="xccui" creationdate="20190624T011407Z">
+        <seg>当前处理时间和水位线，用于管理单个窗口和每个键值全局状态的状态存储</seg>
       </tuv>
     </tu>
     <tu>
