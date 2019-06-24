@@ -22256,6 +22256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream API of Flink 1.7 features the WindowFunction interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010353Z" creationid="xccui" creationdate="20190624T010232Z">
+        <seg>Flink 1.7版本的DataStream API还提供了WindowFunction接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API provides a family of low-level transformations, the process functions, which can also access record timestamps and watermarks and register timers that trigger at a specific time in the future.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T043822Z">
@@ -29149,6 +29157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053825Z" creationid="xccui" creationdate="20190612T053825Z">
         <seg>有关窗口转换的详细内容会在122页"窗口算子"一节介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WindowFunction has been superseded by ProcessWindow Function and will not be discussed here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010332Z" creationid="xccui" creationdate="20190624T010332Z">
+        <seg>但该接口已经被ProcessWindowFunction取代，所以此处我们不再讨论。</seg>
       </tuv>
     </tu>
     <tu>
