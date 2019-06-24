@@ -12943,6 +12943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Global state can be used to share</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024915Z" creationid="xccui" creationdate="20190624T024915Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Global state refers to the keyed state that is not scoped to any window, while per-window state refers to the window instance that is currently being evaluated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024417Z" creationid="xccui" creationdate="20190624T012655Z">
