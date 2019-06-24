@@ -728,8 +728,8 @@
       <tuv lang="EN-US">
         <seg>// Deletes any custom per-window state when the window is purged</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024244Z" creationid="xccui" creationdate="20190624T010617Z">
-        <seg>// 在窗口清除时删除自定义的单窗口状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024334Z" creationid="xccui" creationdate="20190624T010617Z">
+        <seg>// 在窗口清除时删除自定义的单个窗口状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +856,8 @@
       <tuv lang="EN-US">
         <seg>// State accessor for per-window state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024231Z" creationid="xccui" creationdate="20190624T010837Z">
-        <seg>// 用于单窗口状态的访问器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024341Z" creationid="xccui" creationdate="20190624T010837Z">
+        <seg>// 用于单个窗口状态的访问器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,6 +4382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A ProcessWindowFunction that utilizes per- window state needs to implement its clear() method to clean up any window-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024757Z" creationid="xccui" creationdate="20190624T024757Z">
+        <seg>使用了单个窗口状态的ProcessWindowFunction需要实现clear()方法，在窗口清除前清理仅供当前窗口使用的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Quick Look at Flink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143155Z" creationid="esouser" creationdate="20190603T143155Z">
@@ -6256,8 +6264,8 @@
       <tuv lang="EN-US">
         <seg>Another feature are per-window and per-key global states.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T012333Z" creationid="xccui" creationdate="20190624T012333Z">
-        <seg>另一项功能是每个窗口以及每个键值的全局状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024317Z" creationid="xccui" creationdate="20190624T012333Z">
+        <seg>另一项功能是单个窗口以及每个键值的全局状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12937,8 +12945,8 @@
       <tuv lang="EN-US">
         <seg>Global state refers to the keyed state that is not scoped to any window, while per-window state refers to the window instance that is currently being evaluated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T012731Z" creationid="xccui" creationdate="20190624T012655Z">
-        <seg>其中每个窗口的状态指的是当前正在计算的窗口实例的状态，而全局状态指的是不属于任何一个窗口的键值状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024417Z" creationid="xccui" creationdate="20190624T012655Z">
+        <seg>其中单个窗口的状态指的是当前正在计算的窗口实例的状态，而全局状态指的是不属于任何一个窗口的键值状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31043,8 +31051,8 @@
       <tuv lang="EN-US">
         <seg>maintain information that should be shared between multiple invocations of the pro cess() method on the same window, which can happen due to configuring allowed lateness or using a custom trigger.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T023815Z" creationid="xccui" creationdate="20190624T023815Z">
-        <seg>每个窗口的状态用于维护同一窗口内多次调用process()方法所需共享的信息，这种多次调用可能是由于配置了允许数据迟到或使用了自定义触发器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024428Z" creationid="xccui" creationdate="20190624T023815Z">
+        <seg>单个窗口状态用于维护同一窗口内多次调用process()方法所需共享的信息，这种多次调用可能是由于配置了允许数据迟到或使用了自定义触发器。</seg>
       </tuv>
     </tu>
     <tu>
