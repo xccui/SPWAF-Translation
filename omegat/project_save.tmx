@@ -6398,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying a reduce lambda function on a WindowedStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002403Z" creationid="xccui" creationdate="20190624T002403Z">
+        <seg>在WindowedStream上应用reduce lambda函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>April 2019:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210727Z" creationid="esouser" creationdate="20190603T210727Z">
@@ -9755,6 +9763,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T072525Z" creationid="xccui" creationdate="20190619T072359Z">
         <seg>示例6-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-10 shows a reduce lambda function that computes the mininum tempera‐ ture per sensor every 15 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002241Z" creationid="xccui" creationdate="20190624T002241Z">
+        <seg>示例6-10展示的lambda函数会计算每15秒的最低温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002248Z" creationid="xccui" creationdate="20190624T002248Z">
+        <seg>示例6-10，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32045,6 +32069,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044907Z" creationid="xccui" creationdate="20190612T045612Z">
         <seg>val localEnv = StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val minTempPerWindow: DataStream[(String, Double)] = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002443Z" creationid="xccui" creationdate="20190624T002443Z">
+        <seg>val minTempPerWindow: DataStream[(String, Double)] = sensorData</seg>
       </tuv>
     </tu>
     <tu>
