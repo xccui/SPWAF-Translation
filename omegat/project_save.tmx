@@ -22480,6 +22480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The advantages of applying ReduceFunction on a window are the constant and small state size per window and the simple function interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001857Z" creationid="xccui" creationdate="20190624T001857Z">
+        <seg>在窗口上应用ReduceFunction的优点是只需为每个窗口维护一个常数级别的小状态，此外函数的接口也很简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The algorithm does not pause the complete application but decouples checkpointing from processing, so that some tasks continue processing while others persist their state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060010Z" creationid="xccui" creationdate="20190609T055752Z">
@@ -24642,8 +24650,8 @@
       <tuv lang="EN-US">
         <seg>The window’s state is</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001241Z" creationid="xccui" creationdate="20190624T001241Z">
-        <seg>随后会将窗口状态更新为ReduceFunction的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001324Z" creationid="xccui" creationdate="20190624T001324Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -31173,6 +31181,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060056Z">
         <seg>registerProcessingTimeTimer(timestamp: Long): Unit针对当前键值注册一个处理时间计时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>replaced by the ReduceFunction’s result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001322Z" creationid="xccui" creationdate="20190624T001322Z">
+        <seg>随后会用ReduceFunction的结果替换窗口状态。</seg>
       </tuv>
     </tu>
     <tu>
