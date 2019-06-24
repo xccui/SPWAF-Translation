@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// add an input element to the accumulator and return the accumulator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004439Z" creationid="xccui" creationdate="20190624T004439Z">
+        <seg>// 向累加器中添加一个输入元素并返回累加器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// alternative: connect two keyed streams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050418Z" creationid="xccui" creationdate="20190615T050418Z">
@@ -934,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// compute the result from the accumulator and return it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004735Z" creationid="xccui" creationdate="20190624T004735Z">
+        <seg>// 根据累加器计算并返回结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// connect readings and switches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031702Z" creationid="xccui" creationdate="20190622T031702Z">
@@ -1000,8 +1016,8 @@
       <tuv lang="EN-US">
         <seg>// create a new accumulator to start a new aggregate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004327Z" creationid="xccui" creationdate="20190624T004327Z">
-        <seg>// 创建一个累加器来启动聚合</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004409Z" creationid="xccui" creationdate="20190624T004327Z">
+        <seg>// 创建一个累加器来启动聚合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5282,6 +5298,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040532Z" creationid="xccui" creationdate="20190418T040532Z">
         <seg>A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ACC add(IN value, ACC accumulator);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004442Z" creationid="xccui" creationdate="20190624T004442Z">
+        <seg>ACC add(IN value, ACC accumulator);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ACC createAccumulator();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004329Z" creationid="xccui" creationdate="20190624T004329Z">
+        <seg>ACC createAccumulator();</seg>
       </tuv>
     </tu>
     <tu>
