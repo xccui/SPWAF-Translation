@@ -13351,6 +13351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, ProcessWindowFunction’s Context object also offers unique features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011712Z" creationid="xccui" creationdate="20190624T011712Z">
+        <seg>而ProcessWindowFunction的Context对象还提供了一些特有的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, UNIX-based setups enjoy the richest tooling support because this environment is preferred by most Flink developers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054143Z" creationid="xccui" creationdate="20190610T041004Z">
@@ -24032,6 +24040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The metadata of the window typically contains information that can be used</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011756Z" creationid="xccui" creationdate="20190624T011756Z">
+        <seg>窗口的元数据通常包含了一些</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The method distributes records randomly according to a uniform distribution to the parallel tasks of the following operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T071043Z" creationid="xccui" creationdate="20190615T071043Z">
@@ -29889,6 +29905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>as an identifier for a window, such as the start and end timestamps in the case of a time window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011900Z" creationid="xccui" creationdate="20190624T011845Z">
+        <seg>可用作窗口标识符的信息，例如时间窗口中的开始和结束时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>assignTimestampsAndWatermarks() method where we define the timestamp assigner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044558Z" creationid="xccui" creationdate="20190620T044558Z">
@@ -31820,6 +31844,14 @@
         <seg>shown in &lt;t0/&gt;Figure 3-5&lt;t1/&gt; fulfills the requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152232Z" creationid="esouser" creationdate="20190514T152232Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>side outputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011643Z" creationid="xccui" creationdate="20190624T011643Z">
         <seg></seg>
       </tuv>
     </tu>
