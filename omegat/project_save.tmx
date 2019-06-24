@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.aggregate(new AvgTempFunction)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005454Z" creationid="xccui" creationdate="20190624T005454Z">
+        <seg>.aggregate(new AvgTempFunction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.apply(new TemperatureAverager)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042735Z" creationid="xccui" creationdate="20190612T042735Z">
@@ -694,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// An AggregateFunction to compute the average tempeature per sensor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005524Z" creationid="xccui" creationdate="20190624T005518Z">
+        <seg>// 用于计算每个传感器平均温度的AggregateFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
@@ -802,6 +818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050329Z" creationid="xccui" creationdate="20190613T050329Z">
         <seg>// T：输入元素的类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// The accumulator holds the sum of temperatures and an event count.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005549Z" creationid="xccui" creationdate="20190624T005549Z">
+        <seg>// 累加器用于保存温度总和及事件数量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19320,6 +19344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ProcessWindowFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005621Z" creationid="xccui" creationdate="20190624T005621Z">
+        <seg>ProcessWindowFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processing Streams in Parallel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143915Z" creationid="esouser" creationdate="20190603T143915Z">
@@ -19684,6 +19716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211000Z" creationid="xccui" creationdate="20190623T211000Z">
         <seg>ReduceFunction和AggregateFunction就属于增量聚合函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ReduceFunction and AggregateFunction are incrementally applied on events that are assigned to a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005741Z" creationid="xccui" creationdate="20190624T005741Z">
+        <seg>ReduceFunction和AggregateFunction都是递增地应用于分配到窗口的事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29553,6 +29593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[(String, Double), (String, Double, Int), (String, Double)] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005603Z" creationid="xccui" creationdate="20190624T005603Z">
+        <seg>[(String, Double), (String, Double, Int), (String, Double)] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004818Z" creationid="xccui" creationdate="20190612T004818Z">
@@ -29853,6 +29901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061119Z" creationid="xccui" creationdate="20190617T061119Z">
         <seg>此外，某些情况下Flink选择的TypeInformation可能无法生成最高效的序列化和反序列化器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>class AvgTempFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005551Z" creationid="xccui" creationdate="20190624T005551Z">
+        <seg>class AvgTempFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -30253,6 +30309,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060228Z" creationid="xccui" creationdate="20190616T060228Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends AggregateFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005559Z" creationid="xccui" creationdate="20190624T005559Z">
+        <seg>extends AggregateFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -31073,6 +31137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def add(in: (String, Double), acc: (String, Double, Int)) = { (in._1, in._2 + acc._2, 1 + acc._3)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005610Z" creationid="xccui" creationdate="20190624T005610Z">
+        <seg>override def add(in: (String, Double), acc: (String, Double, Int)) = { (in._1, in._2 + acc._2, 1 + acc._3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def checkAndGetNextWatermark( r: SensorReading,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054807Z" creationid="xccui" creationdate="20190620T054807Z">
@@ -31085,6 +31157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034524Z" creationid="xccui" creationdate="20190619T034524Z">
         <seg>override def close(): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def createAccumulator() = { ("", 0.0, 0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005607Z" creationid="xccui" creationdate="20190624T005607Z">
+        <seg>override def createAccumulator() = { ("", 0.0, 0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31129,6 +31209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def getResult(acc: (String, Double, Int)) = { (acc._1, acc._2 / acc._3)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005613Z" creationid="xccui" creationdate="20190624T005613Z">
+        <seg>override def getResult(acc: (String, Double, Int)) = { (acc._1, acc._2 / acc._3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def map(r: SensorReading): String = r.id</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050726Z" creationid="xccui" creationdate="20190613T050726Z">
@@ -31149,6 +31237,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020909Z" creationid="xccui" creationdate="20190613T020909Z">
         <seg>override def map(value: Int): Int = value + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def merge(acc1: (String, Double, Int), acc2: (String, Double, Int)) = { (acc1._1, acc1._2 + acc2._2, acc1._3 + acc2._3)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005617Z" creationid="xccui" creationdate="20190624T005617Z">
+        <seg>override def merge(acc1: (String, Double, Int), acc2: (String, Double, Int)) = { (acc1._1, acc1._2 + acc2._2, acc1._3 + acc2._3)</seg>
       </tuv>
     </tu>
     <tu>
