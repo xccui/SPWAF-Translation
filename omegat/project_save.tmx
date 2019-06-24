@@ -12937,8 +12937,8 @@
       <tuv lang="EN-US">
         <seg>Global state refers to the keyed state that is not scoped to any window, while per-window state refers to the window instance that is currently being evaluated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T012655Z" creationid="xccui" creationdate="20190624T012655Z">
-        <seg>全局状态指的是不属于任何一个窗口的键值状态，而每个窗口的状态指的是当前正在计算的窗口实例的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T012731Z" creationid="xccui" creationdate="20190624T012655Z">
+        <seg>其中每个窗口的状态指的是当前正在计算的窗口实例的状态，而全局状态指的是不属于任何一个窗口的键值状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31029,6 +31029,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051801Z" creationid="xccui" creationdate="20190611T051412Z">
         <seg>通常情况下程序的main()方法会把dataflow组装好，然后在StreamExecutionEnvironment.execute()方法被调用时将其提交到远程的JobManager上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>maintain information that should be shared between multiple invocations of the pro cess() method on the same window, which can happen due to configuring allowed lateness or using a custom trigger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T023815Z" creationid="xccui" creationdate="20190624T023815Z">
+        <seg>每个窗口的状态用于维护同一窗口内多次调用process()方法所需共享的信息，这种多次调用可能是由于配置了允许数据迟到或使用了自定义触发器。</seg>
       </tuv>
     </tu>
     <tu>
