@@ -22306,8 +22306,8 @@
       <tuv lang="EN-US">
         <seg>The Context object of the ProcessWindowFunction gives access to the metadata of the window, the current pro‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011304Z" creationid="xccui" creationdate="20190624T011304Z">
-        <seg>ProcessWindowFunction的Context对象可以用于访问窗口的元数据、</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011411Z" creationid="xccui" creationdate="20190624T011304Z">
+        <seg>ProcessWindowFunction的Context对象可以用于访问窗口的元数据，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27648,6 +27648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We already discussed some of the features of the Context object when introducing the process functions, such as access to the current processing and event-time and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011641Z" creationid="xccui" creationdate="20190624T011641Z">
+        <seg>在介绍处理函数的时候，我们已经讨论过Context对象的一些功能，例如访问当前处理时间和事件时间，访问副输出等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We also assume per&lt;t2/&gt;‐&lt;t3/&gt; fect failure detectors and that no task will intentionally act maliciously; that is, all non-failed tasks follow the above steps.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T043852Z" creationid="xccui" creationdate="20190415T043600Z">
@@ -30041,6 +30049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cessing time and watermark, state stores to manage per-window and per-key global</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011510Z" creationid="xccui" creationdate="20190624T011407Z">
+        <seg>当前处理时间和水位线，用于管理的每个窗口和每个键值全局状态的状态存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cessor, a speed store, a batch store, and tools to ingest data for the batch processor and scheduling batch jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T032758Z" creationid="xccui" creationdate="20190327T032758Z">
@@ -31861,6 +31877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005738Z" creationid="xccui" creationdate="20190612T005738Z">
         <seg>src/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>states, and side outputs to emit records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011523Z" creationid="xccui" creationdate="20190624T011523Z">
+        <seg>以及用于发出数据的副输出。</seg>
       </tuv>
     </tu>
     <tu>
