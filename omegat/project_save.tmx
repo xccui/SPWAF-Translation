@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create a new accumulator to start a new aggregate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004327Z" creationid="xccui" creationdate="20190624T004327Z">
+        <seg>// 创建一个累加器来启动聚合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create a remote stream execution environment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045541Z" creationid="xccui" creationdate="20190612T045541Z">
@@ -23320,6 +23328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The follow‐ ing code shows the interface of the AggregateFunction:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003526Z" creationid="xccui" creationdate="20190624T003526Z">
+        <seg>以下代码展示了AggregateFunction的接口：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fol‐ lowing code shows how to use this shortcut:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053713Z" creationid="xccui" creationdate="20190623T053713Z">
@@ -28793,6 +28809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While the interface of the AggregateFunction is much more flexible, it is also more complex to implement compared to the interface of the ReduceFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003513Z" creationid="xccui" creationdate="20190624T003513Z">
+        <seg>虽然AggregateFunction和ReduceFunction相比接口更加灵活，但同时实现也更为复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While the publisher and the authors have used good faith efforts to ensure that the information and instructions contained in this work are accurate, the publisher and the authors disclaim all responsibility for errors or omissions, including without limitation responsibility for damages resulting from the use of or reliance on this work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210740Z" creationid="esouser" creationdate="20190603T210740Z">
@@ -31221,6 +31245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044803Z" creationid="xccui" creationdate="20190617T044803Z">
         <seg>public class Person {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public interface AggregateFunction&lt;IN, ACC, OUT&gt; extends Function, Serializable {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003529Z" creationid="xccui" creationdate="20190624T003529Z">
+        <seg>public interface AggregateFunction&lt;IN, ACC, OUT&gt; extends Function, Serializable {</seg>
       </tuv>
     </tu>
     <tu>
