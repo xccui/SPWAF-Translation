@@ -12935,6 +12935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Global state refers to the keyed state that is not scoped to any window, while per-window state refers to the window instance that is currently being evaluated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T012655Z" creationid="xccui" creationdate="20190624T012655Z">
+        <seg>全局状态指的是不属于任何一个窗口的键值状态，而每个窗口的状态指的是当前正在计算的窗口实例的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to the Apache Flink webpage &lt;t0/&gt;flink.apache.org&lt;t1/&gt; &lt;t2/&gt;and download the Hadoop-free binary distribution of Apache Flink 1.7.1 for Scala 2.12.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T024852Z" creationid="xccui" creationdate="20190329T024852Z">
