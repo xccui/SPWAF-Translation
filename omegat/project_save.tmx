@@ -13279,6 +13279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the applications for ReduceFunction are limited and usually restricted to simple aggregations since the input and output type must be the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002147Z" creationid="xccui" creationdate="20190624T002147Z">
+        <seg>然而ReduceFunction的应用场景存在一定局限，由于输入、输出类型必须一致，所以通常仅限于一些简单的聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the approach had a few notable drawbacks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T015901Z" creationid="xccui" creationdate="20190327T015901Z">
