@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.keyBy(_._1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002503Z" creationid="xccui" creationdate="20190624T002503Z">
+        <seg>.keyBy(_._1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.keyBy(_.id)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042408Z" creationid="xccui" creationdate="20190612T042408Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061721Z" creationid="xccui" creationdate="20190616T061721Z">
         <seg>.map(new MyMapper).setParallelism(defaultP * 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.map(r =&gt; (r.id, r.temperature))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002456Z" creationid="xccui" creationdate="20190624T002456Z">
+        <seg>.map(r =&gt; (r.id, r.temperature))</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.reduce((r1, r2) =&gt; (r1._1, r1._2.min(r2._2)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002511Z" creationid="xccui" creationdate="20190624T002511Z">
+        <seg>.reduce((r1, r2) =&gt; (r1._1, r1._2.min(r2._2)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.reduce((x, y) =&gt; (x._1, x._2 ::: y._2))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062241Z" creationid="xccui" creationdate="20190614T062241Z">
@@ -538,6 +562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053729Z" creationid="xccui" creationdate="20190623T053729Z">
         <seg>.timeWindow(Time.seconds(1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.timeWindow(Time.seconds(15))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002507Z" creationid="xccui" creationdate="20190624T002507Z">
+        <seg>.timeWindow(Time.seconds(15))</seg>
       </tuv>
     </tu>
     <tu>
@@ -5434,6 +5466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T024845Z" creationid="xccui" creationdate="20190317T024845Z">
         <seg>Flink 同样为执行数据管道提供了全部所需特性以及多种连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AggregateFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002621Z" creationid="xccui" creationdate="20190624T002621Z">
+        <seg>AggregateFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -17495,6 +17535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, the state of a window operator with an AggregateFunction also consists of a single value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003406Z" creationid="xccui" creationdate="20190624T003406Z">
+        <seg>此外，使用了AggregateFunction的窗口算子，其状态也只有一个值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, the stream processor can recover from failures with exactly-once state consistency guarantees and can adjust the compute resources of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T045057Z" creationid="xccui" creationdate="20190605T044916Z">
@@ -20332,6 +20380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T014947Z" creationid="xccui" creationdate="20190622T014308Z">
         <seg>而处理函数提供的副输出功能允许从同一函数发出多条数据流，且它们的类型可以不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similar to ReduceFunction, AggregateFunction is also incrementally applied to the elements that are applied to a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002618Z" creationid="xccui" creationdate="20190624T002618Z">
+        <seg>和ReduceFunction类似，AggregateFunction也会以递增方式应用于窗口内的元素。</seg>
       </tuv>
     </tu>
     <tu>
