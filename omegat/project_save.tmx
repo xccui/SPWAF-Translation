@@ -24640,6 +24640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The window’s state is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001241Z" creationid="xccui" creationdate="20190624T001241Z">
+        <seg>随后会将窗口状态更新为ReduceFunction的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The “Extract hashtags" and “Count" operators have two parallel operator tasks, each performing a computation on a subset of the input data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T021422Z" creationid="xccui" creationdate="20190401T003521Z">
