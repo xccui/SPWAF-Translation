@@ -5510,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window operator with a full window function (the circles in each window represent its collected raw input records)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T054032Z" creationid="xccui" creationdate="20190625T054003Z">
+        <seg>配置了全量窗口函数的窗口算子（每个窗口内的圆圈表示收集的原始输入记录）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window operator with an incremental aggregation function (the single cir‐ cle in each window represents its aggregated window state)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053641Z" creationid="xccui" creationdate="20190625T053641Z">
@@ -11239,6 +11247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 6-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053955Z" creationid="xccui" creationdate="20190625T053955Z">
+        <seg>图6-5，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 6-6.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030122Z" creationid="xccui" creationdate="20190625T030122Z">
@@ -11331,6 +11347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190312T212958Z" creationid="xccui" creationdate="20190312T212817Z">
         <seg>以事件日志作为应用的输入，不但完整可靠，而且还支持精准的数据重放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, if the operator has an incremental aggregation function and a full window function, the full window function is applied on the aggregated value and the result is emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T054251Z" creationid="xccui" creationdate="20190625T054251Z">
+        <seg>最后，如果算子同时拥有一个增量聚合函数和一个全量窗口函数，后者将作用于前者产生的聚合值上，之后便会发出结果。</seg>
       </tuv>
     </tu>
     <tu>
