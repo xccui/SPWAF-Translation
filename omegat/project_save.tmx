@@ -25328,6 +25328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The trigger defines (fires) when a window is considered ready for evaluation and when a window is purged and its contents are cleared.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053029Z" creationid="xccui" creationdate="20190625T053029Z">
+        <seg>触发器定义了窗口何时准备好执行计算（触发），何时需要清除自身及其内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The truth is, processing time can indeed be useful in some cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T030725Z" creationid="xccui" creationdate="20190606T030701Z">
