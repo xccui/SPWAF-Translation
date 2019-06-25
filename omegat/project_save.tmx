@@ -23320,6 +23320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The assigner determines to which windows the element needs to be routed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T051958Z" creationid="xccui" creationdate="20190625T051958Z">
+        <seg>该分配器决定了元素应该被放至哪（几）个窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The batch processor periodically processes the data in batch storage, writes the exact results into a batch table, and drops the corre‐ sponding inaccurate results from the speed table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052357Z" creationid="xccui" creationdate="20190605T052246Z">
