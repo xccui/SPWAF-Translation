@@ -16343,6 +16343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incremental aggregation and ProcessWindowFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034430Z" creationid="xccui" creationdate="20190625T034430Z">
+        <seg>增量聚合与ProcessWindowFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incremental aggregation functions are directly applied when an element is added to a window and hold and update a single value as window state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211052Z" creationid="xccui" creationdate="20190623T210654Z">
@@ -30549,6 +30557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064006Z" creationid="xccui" creationdate="20190621T064006Z">
         <seg>强制算子以并行度1来执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>elements are incrementally aggregated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034355Z" creationid="xccui" creationdate="20190625T034355Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
