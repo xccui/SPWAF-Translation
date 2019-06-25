@@ -21522,8 +21522,8 @@
       <tuv lang="EN-US">
         <seg>Special thanks go to our fellow Flink committers: Alan Gates, Aljoscha Krettek, Andra Lungu, ChengXiang Li, Chesnay Schepler, Chiwan Park, Daniel Warneke, Dawid Wysakowicz, Gary Yao, Greg Hogan, Gyula Fóra, Henry Saputra, Jamie Grier, Jark Wu, Jincheng Sun, Konstantinos Kloudas, Kostas Tzoumas, Kurt Young, Márton Balassi, Matthias J. Sax, Maximilian Michels, Nico Kruber, Paris Carbone, Robert</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T044619Z" creationid="xccui" creationdate="20190605T132711Z">
-        <seg>特别感谢Flink社区的committer们：Alan Gates、Aljoscha Krettek、Andra Lungu、ChengXiang Li（李呈祥）、Chesnay Schepler、Chiwan Park、 Daniel Warneke、Dawid Wysakowicz、Gary Yao、Greg Hogan、Gyula Fóra、Henry Saputra、Jamie Grier、Jark Wu（伍翀）、Jincheng Sun（孙金城）、 Konstantinos Kloudas、Kostas Tzoumas、Kurt Young（杨克特）、Márton Balassi、Matthias J. Sax、Maximilian Michels、Nico Kruber、Paris Carbone、Robert</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143900Z" creationid="xccui" creationdate="20190605T132711Z">
+        <seg>特别感谢Flink社区的Committer们：Alan Gates、Aljoscha Krettek、Andra Lungu、ChengXiang Li（李呈祥）、Chesnay Schepler、Chiwan Park、 Daniel Warneke、Dawid Wysakowicz、Gary Yao、Greg Hogan、Gyula Fóra、Henry Saputra、Jamie Grier、Jark Wu（伍翀）、Jincheng Sun（孙金城）、 Konstantinos Kloudas、Kostas Tzoumas、Kurt Young（杨克特）、Márton Balassi、Matthias J. Sax、Maximilian Michels、Nico Kruber、Paris Carbone、Robert</seg>
       </tuv>
     </tu>
     <tu>
@@ -28186,8 +28186,8 @@
       <tuv lang="EN-US">
         <seg>We are grateful to everyone who has contributed to Flink through code, documentation, reviews, bug reports, feature requests, mailing list discussions, trainings, conference talks, meetup organization, and other activities.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T043022Z" creationid="xccui" creationdate="20190605T131706Z">
-        <seg>感谢所有通过代码、文档、评论、bug报告、功能需求、邮件列表讨论、培训、会议演讲、聚会组织等一切活动为Flink做出过贡献的人。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143647Z" creationid="xccui" creationdate="20190605T131706Z">
+        <seg>感谢所有通过代码、文档、评论、Bug报告、功能需求、邮件列表讨论、培训、会议演讲、聚会组织等一切活动为Flink做出过贡献的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30379,8 +30379,8 @@
       <tuv lang="EN-US">
         <seg>application, fix bugs and repair previously emitted results, migrate an application to a different cluster, or perform A/B tests with different application versions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T211848Z" creationid="esouser" creationdate="20190603T211838Z">
-        <seg>该技术不但可用于失败恢复，还可用于应用更新、bug修复、结果修正、集群迁移或针对不同版本应用执行A/B测试。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143904Z" creationid="esouser" creationdate="20190603T211838Z">
+        <seg>该技术不但可用于失败恢复，还可用于应用更新、Bug修复、结果修正、集群迁移或针对不同版本应用执行A/B测试。</seg>
       </tuv>
     </tu>
     <tu>
