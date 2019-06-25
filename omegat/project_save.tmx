@@ -17489,8 +17489,8 @@
       <tuv lang="EN-US">
         <seg>Joint processing of two streams usually requires that events of both streams are deter‐ ministically routed based on some condition to be processed by the same parallel</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T044638Z" creationid="xccui" creationdate="20190615T044638Z">
-        <seg>联合处理两条流的情况常常需要两条流中的事件基于某些条件进行确定性路由，以便能够发往算子的同一并行实例上处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061911Z" creationid="xccui" creationdate="20190615T044638Z">
+        <seg>连接处理两条流的情况常常需要两条流中的事件基于某些条件进行确定性路由，以便能够发往算子的同一并行实例上处理。</seg>
       </tuv>
     </tu>
     <tu>
