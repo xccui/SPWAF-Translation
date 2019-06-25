@@ -7089,8 +7089,8 @@
       <tuv lang="EN-US">
         <seg>Asynchronously Accessing External Systems</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025331Z" creationid="xccui" creationdate="20190225T025331Z">
-        <seg>异步访问外界系统</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T060014Z" creationid="xccui" creationdate="20190225T025331Z">
+        <seg>异步访问外部系统</seg>
       </tuv>
     </tu>
     <tu>
