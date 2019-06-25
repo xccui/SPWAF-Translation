@@ -9455,6 +9455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elements that are assigned to a window will be immediately aggregated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035755Z" creationid="xccui" creationdate="20190625T035728Z">
+        <seg>对分配给窗口的元素立即执行聚合，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emitting to Side Outputs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023126Z" creationid="xccui" creationdate="20190225T023126Z">
@@ -22672,6 +22680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Iterable parameter of the ProcessWindowFunc tion.process() method will only provide a single value, the incrementally aggrega‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040022Z" creationid="xccui" creationdate="20190625T040022Z">
+        <seg>这样传递给ProcessWindowFunction.process()方法的Iterable参数内将只有一个值，即增量聚合的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The JAR file of a dependency can be added to the ./lib folder of a Flink setup.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041644Z" creationid="xccui" creationdate="20190619T041644Z">
@@ -30035,8 +30051,8 @@
       <tuv lang="EN-US">
         <seg>and when the trigger of the window fires, the aggregated result will be handed to ProcessWindowFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035656Z" creationid="xccui" creationdate="20190625T035656Z">
-        <seg>当窗口触发器触发时</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035851Z" creationid="xccui" creationdate="20190625T035656Z">
+        <seg>随后当窗口触发器触发时，再将聚合后的结果传给ProcessWindowFunction。</seg>
       </tuv>
     </tu>
     <tu>
