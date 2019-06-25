@@ -8993,8 +8993,8 @@
       <tuv lang="EN-US">
         <seg>Declaring Keyed State at RuntimeContext</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T150917Z" creationid="esouser" creationdate="20190603T150900Z">
-        <seg>在RuntimeContext中声明Keyed State</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055346Z" creationid="esouser" creationdate="20190603T150900Z">
+        <seg>在RuntimeContext中声明键值状态</seg>
       </tuv>
     </tu>
     <tu>
