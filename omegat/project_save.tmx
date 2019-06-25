@@ -7897,8 +7897,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 10 covers operation, monitoring, and maintenance of streaming applica‐ tions that run 24/7.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162607Z" creationid="esouser" creationdate="20190603T162607Z">
-        <seg>第10章涵盖了针对7*24小时运行的流处理任务的操作、监控和运维等内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062708Z" creationid="esouser" creationdate="20190603T162607Z">
+        <seg>第10章涵盖了针对7*24小时运行的流处理应用的操作、监控和运维等内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17081,8 +17081,8 @@
       <tuv lang="EN-US">
         <seg>It discusses Flink’s approach to end-to-end application consistency and how to implement custom connectors to ingest data from and emit data to external systems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162535Z" creationid="esouser" creationdate="20190603T162455Z">
-        <seg>其中会讨论Flink中端到端应用一致性的方案以及如何实现自定义连接器来读写外部系统。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062703Z" creationid="esouser" creationdate="20190603T162455Z">
+        <seg>其中会讨论Flink中解决端到端应用一致性的方案以及如何实现自定义连接器来读写外部系统。</seg>
       </tuv>
     </tu>
     <tu>
