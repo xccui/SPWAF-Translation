@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(r1: (String, Double, Double), r2: (String, Double, Double)) =&gt; { (r1._1, r1._2.min(r2._2), r1._3.max(r2._3))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043611Z" creationid="xccui" creationdate="20190625T043611Z">
+        <seg>(r1: (String, Double, Double), r2: (String, Double, Double)) =&gt; { (r1._1, r1._2.min(r2._2), r1._3.max(r2._3))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031643Z" creationid="xccui" creationdate="20190622T031643Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002456Z" creationid="xccui" creationdate="20190624T002456Z">
         <seg>.map(r =&gt; (r.id, r.temperature))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.map(r =&gt; (r.id, r.temperature, r.temperature))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043556Z" creationid="xccui" creationdate="20190625T043556Z">
+        <seg>.map(r =&gt; (r.id, r.temperature, r.temperature))</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// finalize result in ProcessWindowFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043634Z" creationid="xccui" creationdate="20190625T043634Z">
+        <seg>// 在ProcessWindowFunction中计算最终结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// first stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040749Z" creationid="xccui" creationdate="20190615T040720Z">
@@ -1426,6 +1450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045601Z" creationid="xccui" creationdate="20190612T045601Z">
         <seg>// JobManager的主机名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// incrementally compute min and max temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043609Z" creationid="xccui" creationdate="20190625T043609Z">
+        <seg>// 增量计算最低和最高温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -6931,6 +6963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053914Z" creationid="xccui" creationdate="20190621T053914Z">
         <seg>照例，在其中可以将结果记录传递给Collector发送出去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you can see in Example 6-13, the ReduceFunction and ProcessWindowFunction are both defined in the reduce() method call.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T044805Z" creationid="xccui" creationdate="20190625T044805Z">
+        <seg>可以看到，示例6-13在调用reduce()方法时既使用了ReduceFunction也使用了ProcessWindowFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31529,6 +31569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new AssignWindowEndProcessFunction()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043637Z" creationid="xccui" creationdate="20190625T043637Z">
+        <seg>new AssignWindowEndProcessFunction()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new BoundedOutOfOrdernessTimestampExtractor[SensorReading]( Time.seconds(10))(e =&gt;.timestamp)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052900Z" creationid="xccui" creationdate="20190620T052900Z">
@@ -33685,6 +33733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054242Z" creationid="xccui" creationdate="20190618T054242Z">
         <seg>})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>},</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043616Z" creationid="xccui" creationdate="20190625T043616Z">
+        <seg>},</seg>
       </tuv>
     </tu>
     <tu>
