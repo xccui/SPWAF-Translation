@@ -19866,8 +19866,8 @@
       <tuv lang="EN-US">
         <seg>Processing Streams in Parallel</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143915Z" creationid="esouser" creationdate="20190603T143915Z">
-        <seg>并行数据流处理</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T054741Z" creationid="esouser" creationdate="20190603T143915Z">
+        <seg>并行流处理</seg>
       </tuv>
     </tu>
     <tu>
