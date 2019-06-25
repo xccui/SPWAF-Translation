@@ -23618,8 +23618,8 @@
       <tuv lang="EN-US">
         <seg>The data that is stored in the various transactional database systems of a company can provide valuable insights about a company’s business operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T025652Z" creationid="esouser" creationdate="20190603T201131Z">
-        <seg>存储于公司多个事务型数据库系统中的数据，可以提供和公司业务运营相关的宝贵见解。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064421Z" creationid="esouser" creationdate="20190603T201131Z">
+        <seg>存储于不同事务型数据库系统中的数据，可以为公司提供业务运营相关的宝贵见解。</seg>
       </tuv>
     </tu>
     <tu>
