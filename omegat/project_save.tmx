@@ -11393,8 +11393,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we briefly discuss the evolution of open source stream processors and help you run a streaming application on a local Flink instance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063719Z" creationid="esouser" creationdate="20190603T163101Z">
-        <seg>最后，我们将简要回顾开源流处理引擎的衍变，并帮助你在本地Flink实例上运行一个流式应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063726Z" creationid="esouser" creationdate="20190603T163101Z">
+        <seg>最后，我们将简要回顾开源流处理引擎的衍变过程，并帮助你在本地Flink实例上运行一个流式应用。</seg>
       </tuv>
     </tu>
     <tu>
