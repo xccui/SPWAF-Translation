@@ -21994,8 +21994,8 @@
       <tuv lang="EN-US">
         <seg>Stream processing technology is becoming more and more popular with companies big and small because it provides superior solutions for many established use cases such as data analytics, ETL, and transactional applications, but also facilitates novel applications, software architectures, and business opportunities.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T045628Z" creationid="esouser" creationdate="20190603T162936Z">
-        <seg>流处理技术正受到越来越多大小公司的青睐，这是因为它不仅可以为很多现有场景提供更优的解决方案，而且可催生很多新颖的应用、软件架构以及商业机会。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063618Z" creationid="esouser" creationdate="20190603T162936Z">
+        <seg>流处理技术正受到越来越多大小公司的青睐，这是因为它不仅可以为很多现有场景提供更优的解决方案（例如数据分析、ETL以及事务性应用），而且可以催生很多新颖的应用、软件架构以及商业机会。</seg>
       </tuv>
     </tu>
     <tu>
