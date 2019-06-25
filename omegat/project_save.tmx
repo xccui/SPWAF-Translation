@@ -8681,8 +8681,8 @@
       <tuv lang="EN-US">
         <seg>Data Parallelism and Task Parallelism</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143848Z" creationid="esouser" creationdate="20190603T143838Z">
-        <seg>数据并发和任务并发</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T054700Z" creationid="esouser" creationdate="20190603T143838Z">
+        <seg>数据并行和任务并行</seg>
       </tuv>
     </tu>
     <tu>
