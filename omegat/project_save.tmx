@@ -13583,6 +13583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, as you start writing more advanced streaming applica‐ tions, you might find yourself needing to implement more complex windowing logic, such as windows that emit early results and update their results if late elements are encountered, or windows that start and end when specific records are received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T050956Z" creationid="xccui" creationdate="20190625T050956Z">
+        <seg>然而，当你着手写一些高级的流式应用时，可能会发现自己需要实现更为复杂的窗口逻辑，例如：窗口需要提前发出结果并在之后遇到迟到元素时对结果进行更新，或者窗口需要以特定记录作为开始或结束的边界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, counting how many times a specific event occurs in the input stream might return the wrong result under at-least-once guarantees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T042923Z" creationid="xccui" creationdate="20190416T042900Z">
