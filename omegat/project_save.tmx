@@ -9409,16 +9409,16 @@
       <tuv lang="EN-US">
         <seg>ETL processes can be quite complex and often require technically sophisticated solutions to meet performance requirements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T025827Z" creationid="xccui" creationdate="20190228T191045Z">
-        <seg>该流程可能会非常麻烦，需要复杂的技术方案来满足性能要求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064825Z" creationid="xccui" creationdate="20190228T191045Z">
+        <seg>该流程可能会非常麻烦，通常需要复杂的技术方案来满足性能要求。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>ETL processes need to run periodically to keep the data in the data warehouse synchronized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T025837Z" creationid="esouser" creationdate="20190603T202915Z">
-        <seg>ETL过程需要周期性地执行以确保数据仓库中数据能够同步。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064845Z" creationid="esouser" creationdate="20190603T202915Z">
+        <seg>为了却病数据仓库能够同步，ETL过程需要周期性地执行。</seg>
       </tuv>
     </tu>
     <tu>
