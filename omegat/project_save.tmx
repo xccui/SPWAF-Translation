@@ -6648,8 +6648,8 @@
       <tuv lang="EN-US">
         <seg>Applications are usually connected to external services or face human users and con‐ tinuously process incoming events such as orders, email, or clicks on a website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T195503Z" creationid="esouser" creationdate="20190603T195414Z">
-        <seg>它们通常会连接外部服务或真人用户，并持续处理诸如订单、邮件、网站点击等传入的数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064029Z" creationid="esouser" creationdate="20190603T195414Z">
+        <seg>这些应用通常会连接外部服务或真人用户，并持续处理诸如订单、邮件、网站点击等传入的数据。</seg>
       </tuv>
     </tu>
     <tu>
