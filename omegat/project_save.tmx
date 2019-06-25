@@ -14007,6 +14007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a win‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052117Z" creationid="xccui" creationdate="20190625T052117Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an application needs to recover from a failure, all processing-time timers that expired while the application was restarting will fire immediately when the application resumes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065349Z">
@@ -14267,6 +14275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T043111Z" creationid="xccui" creationdate="20190415T043111Z">
         <seg>如果故障发生在第一步，事件是否会丢失？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the window operator is configured with an incremental aggregation function, such as a ReduceFunction or AggregateFunction, the newly added element is immediately aggregated and the result is stored as the contents of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052346Z" creationid="xccui" creationdate="20190625T052346Z">
+        <seg>如果为窗口算子配置的是增量聚合函数（如ReduceFunction或AggregateFunction），新加入的元素会立即执行聚合，其结果会存为窗口内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30285,6 +30301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031947Z" creationid="xccui" creationdate="20190620T031947Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ator does not have an incremental aggregation function, the new element is appended to a ListState that holds all assigned elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052516Z" creationid="xccui" creationdate="20190625T052516Z">
+        <seg>如果窗口算子没有配置增量聚合函数，新加入的元素会附加到一个用于存储所有窗口分配元素的ListState上。</seg>
       </tuv>
     </tu>
     <tu>
