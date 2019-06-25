@@ -13695,6 +13695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the state of a window that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034348Z" creationid="xccui" creationdate="20190625T034215Z">
+        <seg>但和执行增量聚合的窗口相比，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the vision of the Flink community is to treat batch processing as a special case of stream processing, i.e., the processing of bounded streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T060757Z" creationid="xccui" creationdate="20190328T060625Z">
@@ -30325,6 +30333,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042849Z" creationid="xccui" creationdate="20190415T042849Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>collects all events can become significantly larger than the state of a window whose</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034336Z" creationid="xccui" creationdate="20190625T034336Z">
+        <seg>收集全部事件的窗口其状态要大得多。</seg>
       </tuv>
     </tu>
     <tu>
