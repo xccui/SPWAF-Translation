@@ -8001,8 +8001,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 6 discusses the time-based operators of the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T161611Z" creationid="esouser" creationdate="20190603T161540Z">
-        <seg>第6章主要讨论DataStream API中基于时间的算子，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061640Z" creationid="esouser" creationdate="20190603T161540Z">
+        <seg>第6章讨论DataStream API中基于时间的算子，</seg>
       </tuv>
     </tu>
     <tu>
