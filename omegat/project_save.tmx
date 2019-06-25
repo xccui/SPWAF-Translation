@@ -18977,8 +18977,8 @@
       <tuv lang="EN-US">
         <seg>Once the data has been imported into the data warehouse it can be queried and ana‐ lyzed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T203005Z" creationid="esouser" creationdate="20190603T203005Z">
-        <seg>一旦数据导入数据仓库，就能对它们做查询分析。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064853Z" creationid="esouser" creationdate="20190603T203005Z">
+        <seg>一旦数据导入数据仓库，我们就能对它们做查询分析。</seg>
       </tuv>
     </tu>
     <tu>
