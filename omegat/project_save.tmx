@@ -27386,8 +27386,8 @@
       <tuv lang="EN-US">
         <seg>Transactional Writes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T151955Z" creationid="esouser" creationdate="20190603T151955Z">
-        <seg>事务型写</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055932Z" creationid="esouser" creationdate="20190603T151955Z">
+        <seg>事务性写</seg>
       </tuv>
     </tu>
     <tu>
