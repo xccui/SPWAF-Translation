@@ -16689,8 +16689,8 @@
       <tuv lang="EN-US">
         <seg>Instead of inserting all data into a relational data‐ base system, significant amounts of data, such as log files, social media, or web click logs, are written into Hadoop’s distributed filesystem (HDFS), S3, or other bulk data‐ stores, like Apache HBase, which provide massive storage capacity at a small cost.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T203758Z" creationid="esouser" creationdate="20190603T203758Z">
-        <seg>海量日志文件、社交媒体、网页点击日志等数据已不再使用关系数据库系统存储，而是会写入Hadoop分布式文件系统（HDFS）或其他诸如Apache HBase的批量数据存储系统。这些系统以低廉的成本提供庞大的存储容量，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T065204Z" creationid="esouser" creationdate="20190603T203758Z">
+        <seg>海量日志文件、社交媒体、网页点击日志等数据已不再使用关系数据库系统存储，而是会写入Hadoop分布式文件系统（HDFS）、S3或其他诸如Apache HBase的批量数据存储系统。这些系统以低廉的成本提供庞大的存储容量，</seg>
       </tuv>
     </tu>
     <tu>
