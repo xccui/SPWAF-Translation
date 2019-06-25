@@ -6072,8 +6072,8 @@
       <tuv lang="EN-US">
         <seg>An ETL process extracts data from a transactional database, transforms it into a common representation that might include validation, value normalization, encoding, deduplication, and schema trans‐ formation, and finally loads it into the analytical database.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T202833Z" creationid="esouser" creationdate="20190603T202811Z">
-        <seg>ETL的基本流程是：从事务型数据库中提取数据，将其转换为通用表示形式（可能包含数据验证、数据归一化、编码、去重、格式转换等工作），最终写入到分析型数据库中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064753Z" creationid="esouser" creationdate="20190603T202811Z">
+        <seg>ETL的基本流程是：从事务型数据库中提取数据，将其转换为通用表示形式（可能包含数据验证、数据归一化、编码、去重、格式转换等工作），最终加载到分析型数据库中。</seg>
       </tuv>
     </tu>
     <tu>
