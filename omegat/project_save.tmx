@@ -14265,8 +14265,8 @@
       <tuv lang="EN-US">
         <seg>If you have incremental aggregation logic but also need access to window metadata, you can combine a ReduceFunction or AggregateFunction, which perform incre‐ mental aggregation, with a ProcessWindowFunction, which provides access to more</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035513Z" creationid="xccui" creationdate="20190625T035513Z">
-        <seg>如果是增量聚合逻辑但还需要访问窗口元数据，你可以将ReduceFunction或AggregateFunction和拥有更多功能的ProcessWindowFunction组合使用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035614Z" creationid="xccui" creationdate="20190625T035513Z">
+        <seg>如果是增量聚合逻辑但还需要访问窗口元数据，你可以将ReduceFunction或AggregateFunction和功能更多的ProcessWindowFunction组合使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30033,6 +30033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and when the trigger of the window fires, the aggregated result will be handed to ProcessWindowFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035656Z" creationid="xccui" creationdate="20190625T035656Z">
+        <seg>当窗口触发器触发时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>application is represented by the StreamExecutionEnvironment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044952Z" creationid="xccui" creationdate="20190612T044952Z">
@@ -30836,6 +30844,14 @@
         <seg>function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033454Z" creationid="xccui" creationdate="20190619T033454Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035616Z" creationid="xccui" creationdate="20190625T035616Z">
         <seg></seg>
       </tuv>
     </tu>
