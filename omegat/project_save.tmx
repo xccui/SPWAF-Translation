@@ -30233,6 +30233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class HighAndLowTempProcessFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031907Z" creationid="xccui" creationdate="20190625T031907Z">
+        <seg>class HighAndLowTempProcessFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class KeywordFilter(keyWord: String) extends FilterFunction[String] { override def filter(value: String): Boolean = { value.contains(keyWord)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054645Z" creationid="xccui" creationdate="20190618T054645Z">
@@ -30365,6 +30373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032238Z" creationid="xccui" creationdate="20190622T032238Z">
         <seg>ctx: CoProcessFunction[SensorReading, (String, Long), SensorReading]#Context, out: Collector[SensorReading]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctx: Context,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031921Z" creationid="xccui" creationdate="20190625T031921Z">
+        <seg>ctx: Context,</seg>
       </tuv>
     </tu>
     <tu>
@@ -30669,6 +30685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071301Z" creationid="xccui" creationdate="20190621T071301Z">
         <seg>extends KeyedProcessFunction[String, SensorReading, String] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends ProcessWindowFunction[SensorReading, MinMaxTemp, String, TimeWindow] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031913Z" creationid="xccui" creationdate="20190625T031913Z">
+        <seg>extends ProcessWindowFunction[SensorReading, MinMaxTemp, String, TimeWindow] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -31481,6 +31505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out: Collector[MinMaxTemp]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031927Z" creationid="xccui" creationdate="20190625T031927Z">
+        <seg>out: Collector[MinMaxTemp]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def add(in: (String, Double), acc: (String, Double, Int)) = { (in._1, in._2 + acc._2, 1 + acc._3)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005610Z" creationid="xccui" creationdate="20190624T005610Z">
@@ -31613,6 +31645,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
         <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def process( key: String,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031916Z" creationid="xccui" creationdate="20190625T031916Z">
+        <seg>override def process( key: String,</seg>
       </tuv>
     </tu>
     <tu>
@@ -31883,8 +31923,8 @@
       <tuv lang="EN-US">
         <seg>reading per window and emits them together with the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030902Z" creationid="xccui" creationdate="20190625T030902Z">
-        <seg>它会将读数连同窗口结束时间戳一起发出</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031901Z" creationid="xccui" creationdate="20190625T030902Z">
+        <seg>它会将读数连同窗口结束时间戳一起发出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33097,6 +33137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val temps = vals.map(_.temperature)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031930Z" creationid="xccui" creationdate="20190625T031930Z">
+        <seg>val temps = vals.map(_.temperature)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val timerTimestamp = ctx.timerService().currentProcessingTime() + switch._2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032337Z" creationid="xccui" creationdate="20190622T032337Z">
@@ -33153,6 +33201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val windowEnd = ctx.window.getEnd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031934Z" creationid="xccui" creationdate="20190625T031934Z">
+        <seg>val windowEnd = ctx.window.getEnd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val withTimestampsAndWatermarks = stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052001Z" creationid="xccui" creationdate="20190620T052001Z">
@@ -33165,6 +33221,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005233Z" creationid="xccui" creationdate="20190613T005233Z">
         <seg>val words: DataStream[String] = sentences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vals: Iterable[SensorReading],</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031924Z" creationid="xccui" creationdate="20190625T031924Z">
+        <seg>vals: Iterable[SensorReading],</seg>
       </tuv>
     </tu>
     <tu>
