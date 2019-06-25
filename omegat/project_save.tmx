@@ -29171,8 +29171,8 @@
       <tuv lang="EN-US">
         <seg>When an event is processed, an application reads its state or updates it by running transac‐ tions against the remote database system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T195529Z" creationid="esouser" creationdate="20190603T195529Z">
-        <seg>期间每处理一条事件，应用都会通过远程数据库系统的事务来读取或更新状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064048Z" creationid="esouser" creationdate="20190603T195529Z">
+        <seg>期间每处理一条事件，应用都会通过执行远程数据库系统的事务来读取或更新状态。</seg>
       </tuv>
     </tu>
     <tu>
