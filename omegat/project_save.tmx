@@ -14263,6 +14263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have incremental aggregation logic but also need access to window metadata, you can combine a ReduceFunction or AggregateFunction, which perform incre‐ mental aggregation, with a ProcessWindowFunction, which provides access to more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035513Z" creationid="xccui" creationdate="20190625T035513Z">
+        <seg>如果是增量聚合逻辑但还需要访问窗口元数据，你可以将ReduceFunction或AggregateFunction和拥有更多功能的ProcessWindowFunction组合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you run the application in a local environ‐ ment—or example, from your IDE—on a machine with 8 cores, the source task will run with 8 tasks, the mapper with 16 tasks, and the sink with 2 tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062232Z" creationid="xccui" creationdate="20190616T062221Z">
