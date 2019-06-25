@@ -30153,6 +30153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ature per sensor and the end timestamp of each window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043304Z" creationid="xccui" creationdate="20190625T043304Z">
+        <seg>每5秒发出每个传感器的最高和最低温度以及窗口的结束时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>avgTemp.print()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042827Z" creationid="xccui" creationdate="20190612T042827Z">
