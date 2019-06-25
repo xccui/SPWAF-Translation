@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window operator with an incremental aggregation and full window func‐ tion (the single circle in each window represents its aggregated window state)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T214226Z" creationid="xccui" creationdate="20190625T214226Z">
+        <seg>配置了增量聚合及全量窗口函数的窗口算子（每个窗口内的单个圆圈表示聚合后的窗口状态）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window operator with an incremental aggregation function (the single cir‐ cle in each window represents its aggregated window state)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053641Z" creationid="xccui" creationdate="20190625T053641Z">
