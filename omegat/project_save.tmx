@@ -19736,6 +19736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ProcessWindowFunction[(String, Double, Double), MinMaxTemp, String, TimeWindow] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045138Z" creationid="xccui" creationdate="20190625T045138Z">
+        <seg>ProcessWindowFunction[(String, Double, Double), MinMaxTemp, String, TimeWindow] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processing Streams in Parallel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T143915Z" creationid="esouser" creationdate="20190603T143915Z">
@@ -23434,8 +23442,8 @@
       <tuv lang="EN-US">
         <seg>The code in Examples 6-13 and 6-14 shows how to solve the same use case as the code in Example 6-12 with a combination of a ReduceFunction and a Pro cessWindowFunction, emitting every 5 seconds the minimun and maximum temper‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043225Z" creationid="xccui" creationdate="20190625T043225Z">
-        <seg>示例6-13和6-14中的代码展示了如何使用ReduceFunction和ProcessWindowFunction的组合来解决和示例6-12中相同的用例——</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045450Z" creationid="xccui" creationdate="20190625T043225Z">
+        <seg>示例6-13和6-14中的代码展示了如何使用ReduceFunction和ProcessWindowFunction的组合来应对示例6-12中相同的用例——</seg>
       </tuv>
     </tu>
     <tu>
@@ -29545,6 +29553,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window operators defined using Flink’s built-in window assigners can address many common use cases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045320Z" creationid="xccui" creationdate="20190625T045320Z">
+        <seg>使用Flink内置窗口分配器定义的窗口算子可以应对许多常见用例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window operators provide a way to group events in buckets of finite size and apply computations on the bounded contents of these buckets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033431Z" creationid="xccui" creationdate="20190622T033431Z">
@@ -30421,6 +30437,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061119Z" creationid="xccui" creationdate="20190617T061119Z">
         <seg>此外，某些情况下Flink选择的TypeInformation可能无法生成最高效的序列化和反序列化器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>class AssignWindowEndProcessFunction extends</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045134Z" creationid="xccui" creationdate="20190625T045134Z">
+        <seg>class AssignWindowEndProcessFunction extends</seg>
       </tuv>
     </tu>
     <tu>
@@ -31537,6 +31561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>minMaxIt: Iterable[(String, Double, Double)], out: Collector[MinMaxTemp]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045141Z" creationid="xccui" creationdate="20190625T045141Z">
+        <seg>minMaxIt: Iterable[(String, Double, Double)], out: Collector[MinMaxTemp]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>monitoredReadings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022911Z" creationid="xccui" creationdate="20190622T022911Z">
@@ -31773,6 +31805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071743Z" creationid="xccui" creationdate="20190621T071743Z">
         <seg>out.collect("Temperature of sensor '" + ctx.getCurrentKey + "' monotonically increased for 1 second.") currentTimer.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>out.collect(MinMaxTemp(key, minMax._2, minMax._3, windowEnd))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045147Z" creationid="xccui" creationdate="20190625T045147Z">
+        <seg>out.collect(MinMaxTemp(key, minMax._2, minMax._3, windowEnd))</seg>
       </tuv>
     </tu>
     <tu>
@@ -33149,6 +33189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044907Z" creationid="xccui" creationdate="20190612T045612Z">
         <seg>val localEnv = StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val minMax = minMaxIt.head</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045144Z" creationid="xccui" creationdate="20190625T045144Z">
+        <seg>val minMax = minMaxIt.head</seg>
       </tuv>
     </tu>
     <tu>
