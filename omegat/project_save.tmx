@@ -11457,8 +11457,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we will discuss how to join streams on time and strategies to handle late events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T053439Z" creationid="xccui" creationdate="20190619T053439Z">
-        <seg>最后我们会讨论如何基于时间对数据流进行联结以及处理延迟事件的策略。 </seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062000Z" creationid="xccui" creationdate="20190619T053439Z">
+        <seg>最后我们会讨论如何基于时间对数据流进行连接以及处理延迟事件的策略。 </seg>
       </tuv>
     </tu>
     <tu>
