@@ -19602,8 +19602,8 @@
       <tuv lang="EN-US">
         <seg>ProcessWindowFunction is a very powerful window function, but you need to use it with caution since it typically holds more data in state than incrementally aggregating</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034829Z" creationid="xccui" creationdate="20190625T034829Z">
-        <seg>ProcessWindowFunction是一个功能十分强大的窗口函数，但你在用它的时候需要小心，因为它和增量聚合的情况比起来通常需要在状态中保存更多数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034846Z" creationid="xccui" creationdate="20190625T034829Z">
+        <seg>ProcessWindowFunction是一个功能十分强大的窗口函数，但你在用它的时候需要小心，因为它和增量聚合函数比起来通常需要在状态中保存更多数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19788,6 +19788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025041Z" creationid="xccui" creationdate="20190225T025041Z">
         <seg>从外部系统查询状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quite often the logic that needs to be applied on a window can be expressed as an incremental aggregation, but it also needs access to window metadata or state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035301Z" creationid="xccui" creationdate="20190625T035301Z">
+        <seg>其实很多时候需要应用于窗口的逻辑都可以表示为增量聚合，只不过还需要访问窗口元数据或状态。</seg>
       </tuv>
     </tu>
     <tu>
