@@ -9585,8 +9585,8 @@
       <tuv lang="EN-US">
         <seg>Enabling Failure Recovery for Stateful Applications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024644Z" creationid="xccui" creationdate="20190225T024644Z">
-        <seg>在状态化应用中开启故障恢复</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055441Z" creationid="xccui" creationdate="20190225T024644Z">
+        <seg>为状态化应用开启故障恢复</seg>
       </tuv>
     </tu>
     <tu>
