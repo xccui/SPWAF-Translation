@@ -16705,8 +16705,8 @@
       <tuv lang="EN-US">
         <seg>Instead of running analytical queries directly on the transactional databases, the data is typically replicated to a data warehouse, a dedicated datastore for analytical query workloads.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T202625Z" creationid="esouser" creationdate="20190603T202102Z">
-        <seg>对于分析类查询，我们通常不会选用事务型数据库，而是会将数据复制到专门用来处理分析类查询负载的数据仓库。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064724Z" creationid="esouser" creationdate="20190603T202102Z">
+        <seg>对于分析类查询，我们通常不会直接在事务型数据库上执行，而是将数据复制到一个专门用来处理分析类查询工作的数据仓库。</seg>
       </tuv>
     </tu>
     <tu>
