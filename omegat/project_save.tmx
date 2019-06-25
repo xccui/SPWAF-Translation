@@ -14609,8 +14609,8 @@
       <tuv lang="EN-US">
         <seg>Import the Book’s Examples in an IDE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144859Z" creationid="esouser" creationdate="20190603T144859Z">
-        <seg>将书中示例导入IDE</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T054951Z" creationid="esouser" creationdate="20190603T144859Z">
+        <seg>在IDE中导入书中示例</seg>
       </tuv>
     </tu>
     <tu>
