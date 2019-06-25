@@ -5950,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along with the previously discussed window functions, these components work together in a window operator to group and process elements in windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T051506Z" creationid="xccui" creationdate="20190625T051506Z">
+        <seg>这些组件和之前讨论的窗口函数协同工作，一起实现对于元素的窗口化分组和处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also the internals of a stream processor that supports event-time are more involved than the internals of a system that purely operates in processing-time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T033738Z" creationid="xccui" creationdate="20190523T033738Z">
@@ -29013,6 +29021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T035802Z" creationid="xccui" creationdate="20190423T032325Z">
         <seg>当容器从映像启动后会自动加载ResourceManager和JobManager，并提交绑定的作业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an element arrives at a window operator, it is handed to the WindowAssigner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T051534Z" creationid="xccui" creationdate="20190625T051534Z">
+        <seg>当一个元素进入窗口算子时会被移交给WindowAssigner。</seg>
       </tuv>
     </tu>
     <tu>
