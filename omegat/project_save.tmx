@@ -22648,6 +22648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataStream API exposes interfaces and methods to define custom window oper‐ ators by allowing you to implement your own assigners, triggers, and evictors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T051229Z" creationid="xccui" creationdate="20190625T051229Z">
+        <seg>DataStream API对外暴露了自定义窗口算子的接口和方法，你可以实现自己的分配器、触发器以及移除器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API features the abstraction of a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044525Z" creationid="xccui" creationdate="20190614T043951Z">
