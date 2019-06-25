@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.aggregate(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040348Z" creationid="xccui" creationdate="20190625T040348Z">
+        <seg>.aggregate(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.aggregate(new AvgTempFunction)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005454Z" creationid="xccui" creationdate="20190624T005454Z">
@@ -518,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.reduce(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040338Z" creationid="xccui" creationdate="20190625T040338Z">
+        <seg>.reduce(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.reduce((r1, r2) =&gt; (r1._1, r1._2.min(r2._2)))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002511Z" creationid="xccui" creationdate="20190624T002511Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054503Z" creationid="xccui" creationdate="20190614T054503Z">
         <seg>.sum(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.timeWindow(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040334Z" creationid="xccui" creationdate="20190625T040334Z">
+        <seg>.timeWindow(...)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T122153Z" creationid="xccui" creationdate="20190605T122123Z">
         <seg>1 虽然Flink用于批处理的DataSet API及其算子都独立于对应的流处理部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 ListState and its performance characteristics are discussed in detail in Chapter 7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040517Z" creationid="xccui" creationdate="20190625T040517Z">
+        <seg>1 有关ListState以及它的性能特征会在第7章详细讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23320,6 +23352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The code in Examples 6-13 and 6-14 shows how to solve the same use case as the code in Example 6-12 with a combination of a ReduceFunction and a Pro cessWindowFunction, emitting every 5 seconds the minimun and maximum temper‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043225Z" creationid="xccui" creationdate="20190625T043225Z">
+        <seg>示例6-13和6-14中的代码展示了如何使用ReduceFunction和ProcessWindowFunction的组合来解决和示例6-12中相同的用例——</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The completed checkpoint can be used to recover the appli‐ cation from a failure as described before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T194512Z" creationid="xccui" creationdate="20190609T194447Z">
@@ -30873,6 +30913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>function: ProcessWindowFunction[IN, OUT, K, W])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040344Z" creationid="xccui" creationdate="20190625T040344Z">
+        <seg>function: ProcessWindowFunction[IN, OUT, K, W])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035616Z" creationid="xccui" creationdate="20190625T035616Z">
@@ -31057,6 +31105,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>incrAggregator: AggregateFunction[IN, ACC, V], windowFunction: ProcessWindowFunction[V, OUT, K, W])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040523Z" creationid="xccui" creationdate="20190625T040523Z">
+        <seg>incrAggregator: AggregateFunction[IN, ACC, V], windowFunction: ProcessWindowFunction[V, OUT, K, W])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incrAggregator: ReduceFunction[IN],</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040341Z" creationid="xccui" creationdate="20190625T040341Z">
+        <seg>incrAggregator: ReduceFunction[IN],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>increase the processing latency of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T195732Z" creationid="xccui" creationdate="20190609T195732Z">
@@ -31085,6 +31149,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052722Z" creationid="xccui" creationdate="20190620T052722Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>input</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040331Z" creationid="xccui" creationdate="20190625T040331Z">
+        <seg>input</seg>
       </tuv>
     </tu>
     <tu>
