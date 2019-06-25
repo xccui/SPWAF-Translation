@@ -12001,8 +12001,8 @@
       <tuv lang="EN-US">
         <seg>Flink powers large-scale, business-critical applications in many companies and enterprises across different industries and around the globe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162927Z" creationid="esouser" creationdate="20190603T162927Z">
-        <seg>全球各行各业很多公司和企业的大型核心业务应用都是基于Flink完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063351Z" creationid="esouser" creationdate="20190603T162927Z">
+        <seg>全球很多不同行业的公司和企业都在使用Flink支撑其大规模核心业务。</seg>
       </tuv>
     </tu>
     <tu>
