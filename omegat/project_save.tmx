@@ -6969,8 +6969,8 @@
       <tuv lang="EN-US">
         <seg>As you can see in Example 6-13, the ReduceFunction and ProcessWindowFunction are both defined in the reduce() method call.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T044805Z" creationid="xccui" creationdate="20190625T044805Z">
-        <seg>可以看到，示例6-13在调用reduce()方法时既使用了ReduceFunction也使用了ProcessWindowFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T044915Z" creationid="xccui" creationdate="20190625T044805Z">
+        <seg>可以看到，示例6-13在调用reduce()方法时既用到了ReduceFunction也用到了ProcessWindowFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10163,6 +10163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043448Z" creationid="xccui" creationdate="20190625T043448Z">
         <seg>示例6-13，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-14.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045020Z" creationid="xccui" creationdate="20190625T045020Z">
+        <seg>示例6-14，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14419,6 +14427,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032022Z" creationid="xccui" creationdate="20190622T032022Z">
         <seg>动态过滤传感器读数流的CoProcessFunction实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation of a ProcessWindowFunction that assigns the window end timestamp to an incrementally computed result</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045132Z" creationid="xccui" creationdate="20190625T045132Z">
+        <seg>用于将窗口结束时间戳分配到递增计算结果的ProcessWindowFunction实现：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21092,6 +21108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T152710Z" creationid="xccui" creationdate="20190608T152636Z">
         <seg>由于每个任务会把状态维护在本地，Flink要保证发生故障时状态不丢不错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the aggregation is performed by the ReduceFunction, the ProcessWindowFunction only needs to append the window end timestamp to the incrementally computed result as shown in Example 6-14.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045016Z" creationid="xccui" creationdate="20190625T045016Z">
+        <seg>由于聚合逻辑是由ReduceFunction执行的，ProcessWindowFunction只需要像示例6-14那样，将窗口的结束时间戳加到递增计算结果后面。</seg>
       </tuv>
     </tu>
     <tu>
