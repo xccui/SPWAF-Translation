@@ -16639,6 +16639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internally, a window that is evaluated by ProcessWindowFunction stores all assigned events in a ListState.1 By collecting all events and providing access to window meta‐ data and other features, ProcessWindowFunction can address many more use cases than ReduceFunction or AggregateFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034118Z" creationid="xccui" creationdate="20190625T034118Z">
+        <seg>在系统内部，由ProcessWindowFunction处理的窗口会将所有已分配的事件存储在ListState中。1通过将所有事件收集起来且提供对于窗口元数据及其他一些特性的访问和使用，ProcessWindowFunction的应用场景比ReduceFunction和AggregateFunction更加广泛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interval Join</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T150359Z" creationid="esouser" creationdate="20190603T150359Z">
@@ -31493,6 +31501,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071743Z" creationid="xccui" creationdate="20190621T071743Z">
         <seg>out.collect("Temperature of sensor '" + ctx.getCurrentKey + "' monotonically increased for 1 second.") currentTimer.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>out.collect(MinMaxTemp(key, temps.min, temps.max, windowEnd))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031941Z" creationid="xccui" creationdate="20190625T031941Z">
+        <seg>out.collect(MinMaxTemp(key, temps.min, temps.max, windowEnd))</seg>
       </tuv>
     </tu>
     <tu>
