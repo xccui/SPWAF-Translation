@@ -7977,8 +7977,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 4 explains how to set up an environment to develop and debug Flink applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T161023Z" creationid="esouser" creationdate="20190603T161023Z">
-        <seg>第4章介绍如何配置用于开发和调试Flink应用的环境。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061543Z" creationid="esouser" creationdate="20190603T161023Z">
+        <seg>第4章讲解如何配置用于开发和调试Flink应用的环境。</seg>
       </tuv>
     </tu>
     <tu>
