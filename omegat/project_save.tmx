@@ -9057,8 +9057,8 @@
       <tuv lang="EN-US">
         <seg>Defining the Maximum Parallelism of Keyed State Operators</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055654Z" creationid="xccui" creationdate="20190225T024714Z">
-        <seg>定义使用键值状态算子的最大并行度</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055734Z" creationid="xccui" creationdate="20190225T024714Z">
+        <seg>为使用键值状态的算子定义最大并行度</seg>
       </tuv>
     </tu>
     <tu>
