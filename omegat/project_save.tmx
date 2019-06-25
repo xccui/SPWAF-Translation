@@ -5528,8 +5528,8 @@
       <tuv lang="EN-US">
         <seg>A window operator with an incremental aggregation function (the single cir‐ cle in each window represents its aggregated window state)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053641Z" creationid="xccui" creationdate="20190625T053641Z">
-        <seg>配置了增量聚合函数的窗口算子（每个窗口内的一个圆圈表示聚合后的窗口状态）</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T214234Z" creationid="xccui" creationdate="20190625T053641Z">
+        <seg>配置了增量聚合函数的窗口算子（每个窗口内的单个圆圈表示聚合后的窗口状态）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23740,6 +23740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052035Z" creationid="xccui" creationdate="20190615T052015Z">
         <seg>而所有非广播流的事件只是会被简单地转发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The evictor is an optional component that can be injected before or after a Process WindowFunction is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T214328Z" creationid="xccui" creationdate="20190625T214328Z">
+        <seg>移除器是一个可选组件，允许在ProcessWindowFunction调用前后注入。</seg>
       </tuv>
     </tu>
     <tu>
