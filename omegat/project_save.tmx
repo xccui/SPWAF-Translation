@@ -14271,6 +14271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the operator only has a full window function, the function is applied on all ele‐ ments of the window and the result is emitted as shown in Figure 6-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053951Z" creationid="xccui" creationdate="20190625T053710Z">
+        <seg>如果算子只包含一个全量窗口函数，那么该函数将一次性作用于窗口内的所有元素上，之后便会发出结果。该情况如图6-5所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the sender and receiver tasks run in separate Task&lt;t0/&gt;‐&lt;t1/&gt; Manager processes, they communicate via the network stack of the operating system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T042532Z" creationid="xccui" creationdate="20190504T042532Z">
