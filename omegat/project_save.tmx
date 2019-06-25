@@ -29811,8 +29811,8 @@
       <tuv lang="EN-US">
         <seg>With this book, we hope to reach developers, engineers, and streaming enthusiasts around the world and grow the Flink community even larger.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062917Z" creationid="xccui" creationdate="20190605T132916Z">
-        <seg>通过本书，我们期待能够吸引世界各地的开发者、工程师以及流处理爱好者，进一步扩大Flink社区。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062952Z" creationid="xccui" creationdate="20190605T132916Z">
+        <seg>通过本书，我们期待能够吸引世界各地的开发者、工程师以及流处理爱好者加入，进一步扩大Flink社区。</seg>
       </tuv>
     </tu>
     <tu>
