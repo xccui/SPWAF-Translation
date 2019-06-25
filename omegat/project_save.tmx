@@ -9999,6 +9999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every time an element is added to a window, it is also passed to the trigger of the win‐ dow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052727Z" creationid="xccui" creationdate="20190625T052727Z">
+        <seg>每个元素在加入窗口后还会被传递至该窗口的触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything contained in a user func‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055230Z" creationid="xccui" creationdate="20190618T055230Z">
@@ -14283,6 +14291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052346Z" creationid="xccui" creationdate="20190625T052346Z">
         <seg>如果为窗口算子配置的是增量聚合函数（如ReduceFunction或AggregateFunction），新加入的元素会立即执行聚合，其结果会存为窗口内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the window oper‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052518Z" creationid="xccui" creationdate="20190625T052518Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
