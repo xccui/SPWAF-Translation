@@ -8433,8 +8433,8 @@
       <tuv lang="EN-US">
         <seg>Consider, for example, a streaming join opera‐ tion or a holistic aggregate, such as the median function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012013Z" creationid="xccui" creationdate="20190606T012013Z">
-        <seg>例如：流连接或是像求中位数的整体聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061900Z" creationid="xccui" creationdate="20190606T012013Z">
+        <seg>例如：流式连接或是像求中位数的整体聚合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26258,8 +26258,8 @@
       <tuv lang="EN-US">
         <seg>This includes window operators and time-based joins as well as process functions that provide the most flexibility when dealing with time in streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T042311Z" creationid="esouser" creationdate="20190603T161606Z">
-        <seg>其中包含窗口算子以及一系列基于时间的连接。此外还会涉及一系列处理函数，它们为流式应用中的时间处理提供了诸多便利。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061852Z" creationid="esouser" creationdate="20190603T161606Z">
+        <seg>其中包含窗口算子、一系列基于时间的连接。此外还会涉及一系列处理函数，它们为流式应用中的时间处理提供了诸多便利。</seg>
       </tuv>
     </tu>
     <tu>
