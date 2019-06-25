@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3872,8 +3872,8 @@
       <tuv lang="EN-US">
         <seg>72 | Chapter 4: Setting Up a Development Environment for Apache Flink</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040223Z" creationid="xccui" creationdate="20190611T040223Z">
-        <seg>72 | 第4章：设置Apaceh Flink开发环境</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T142736Z" creationid="xccui" creationdate="20190611T040223Z">
+        <seg>72 | 第4章：设置Apache Flink开发环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -3896,8 +3896,8 @@
       <tuv lang="EN-US">
         <seg>74 | Chapter 4: Setting Up a Development Environment for Apache Flink</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012857Z" creationid="xccui" creationdate="20190612T012857Z">
-        <seg>74 | 设置Apaceh Flink开发环境</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T142736Z" creationid="xccui" creationdate="20190612T012857Z">
+        <seg>74 | 设置Apache Flink开发环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -20962,8 +20962,8 @@
       <tuv lang="EN-US">
         <seg>Setting Up a Development Environment for</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T042846Z" creationid="xccui" creationdate="20190606T042846Z">
-        <seg>设置Apaceh Flink开发环境</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T142736Z" creationid="xccui" creationdate="20190606T042846Z">
+        <seg>设置Apache Flink开发环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,8 +20978,8 @@
       <tuv lang="EN-US">
         <seg>Setting Up a Development Environment for Apache Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144822Z" creationid="esouser" creationdate="20190603T144822Z">
-        <seg>设置Apaceh Flink开发环境</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T142736Z" creationid="esouser" creationdate="20190603T144822Z">
+        <seg>设置Apache Flink开发环境</seg>
       </tuv>
     </tu>
     <tu>
