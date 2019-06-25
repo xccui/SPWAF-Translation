@@ -30513,6 +30513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>end timestamp of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030912Z" creationid="xccui" creationdate="20190625T030912Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>enterprises across different industries such as (online) retail, social media, telecom‐ munication, gaming, and banking.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050311Z" creationid="xccui" creationdate="20190605T050311Z">
@@ -31869,6 +31877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051158Z" creationid="xccui" creationdate="20190620T051158Z">
         <seg>r.timestamp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reading per window and emits them together with the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030902Z" creationid="xccui" creationdate="20190625T030902Z">
+        <seg>它会将读数连同窗口结束时间戳一起发出</seg>
       </tuv>
     </tu>
     <tu>
