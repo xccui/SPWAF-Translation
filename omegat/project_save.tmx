@@ -25378,8 +25378,8 @@
       <tuv lang="EN-US">
         <seg>The traditional architecture that most businesses implement distinguishes two types of data process‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T051121Z" creationid="esouser" creationdate="20190603T194352Z">
-        <seg>绝大多数企业实现的传统架构都会将数据处理分为两类：事务型处理和分析型处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063923Z" creationid="esouser" creationdate="20190603T194352Z">
+        <seg>绝大多数企业所实现的传统架构都会将数据处理分为两类：事务型处理和分析型处理。</seg>
       </tuv>
     </tu>
     <tu>
