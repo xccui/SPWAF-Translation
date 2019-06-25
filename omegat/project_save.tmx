@@ -5390,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A trigger can decide based on assigned elements or registered timers (similar to a process function) to evaluate or purge the contents of its window at specific points in time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053247Z" creationid="xccui" creationdate="20190625T053247Z">
+        <seg>触发器可以根据已分配的元素或注册的计时器（类似处理函数）来决定在某些特定时刻执行计算或清除窗口中的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A tumbling window assigner places elements into fixed-size, nonoverlapping windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042229Z" creationid="xccui" creationdate="20190623T042229Z">
@@ -28732,6 +28740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T042821Z" creationid="xccui" creationdate="20190225T042455Z">
         <seg>你能从本书学到什么</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What happens when a trigger fires depends on the configured functions of the win‐ dow operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053324Z" creationid="xccui" creationdate="20190625T053324Z">
+        <seg>触发器成功触发后的行为取决于窗口算子所配置的函数。</seg>
       </tuv>
     </tu>
     <tu>
