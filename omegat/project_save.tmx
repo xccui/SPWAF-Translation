@@ -15447,6 +15447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the DataStream API this is done by providing a ProcessWindowFunction as a sec‐ ond parameter to the reduce() or aggregate() methods as shown in the following code:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040327Z" creationid="xccui" creationdate="20190625T040327Z">
+        <seg>如以下代码所示，在DataStream API中，实现该过程的途径是将ProcessWindowFunction作为reduce()或aggregate()方法的第二个参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the DataStream API, the execution environment of an</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044948Z" creationid="xccui" creationdate="20190612T044948Z">
@@ -32301,6 +32309,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235835Z" creationid="xccui" creationdate="20190605T235835Z">
         <seg>相反，状态化算子可能会维护之前接收的事件信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ted result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040025Z" creationid="xccui" creationdate="20190625T040025Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
