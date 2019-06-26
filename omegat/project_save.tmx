@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// rounding down by 30 seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044057Z" creationid="xccui" creationdate="20190626T044057Z">
+        <seg>// 30秒取余</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// second stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040744Z" creationid="xccui" creationdate="20190615T040744Z">
@@ -31301,6 +31309,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023936Z" creationid="xccui" creationdate="20190622T023936Z">
         <seg>ctx: ProcessFunction[SensorReading, SensorReading]#Context, out: Collector[SensorReading]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctx: WindowAssigner.WindowAssignerContext): java.util.List[TimeWindow] = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042723Z" creationid="xccui" creationdate="20190626T042723Z">
+        <seg>ctx: WindowAssigner.WindowAssignerContext): java.util.List[TimeWindow] = {</seg>
       </tuv>
     </tu>
     <tu>
