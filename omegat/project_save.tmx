@@ -18575,6 +18575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that an explicitly specified trigger overrides the existing trig‐ ger and does not complement it—the window will only be evalu‐ ated based on the trigger that was last defined.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T025707Z" creationid="xccui" creationdate="20190626T025707Z">
+        <seg>需要注意的是，显式指定的触发器会覆盖已有触发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that guaranteeing the consistency of an application’s state is not the same a guarantee‐ ing consistency of its output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034253Z" creationid="xccui" creationdate="20190606T034216Z">
@@ -31597,6 +31605,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045716Z" creationid="xccui" creationdate="20190620T045716Z">
         <seg>默认的时间间隔为200毫秒，但可以利用ExecutionConfig.setAutoWatermarkInterval()方法来配置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is defined.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T024915Z" creationid="xccui" creationdate="20190626T024915Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
