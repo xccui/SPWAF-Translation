@@ -9639,6 +9639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each win‐ dow object has an end timestamp that defines the point in time after which the window and its state can be deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T034136Z" creationid="xccui" creationdate="20190626T034136Z">
+        <seg>每个窗口对象都有一个结束时间戳，它定义了可以安全删除窗口及其状态的时间点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eager watermarks ensure low latency but provide lower confidence.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025637Z" creationid="xccui" creationdate="20190606T025637Z">
@@ -13387,6 +13395,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214735Z" creationid="xccui" creationdate="20190609T214705Z">
         <seg>因此一个典型的应用会包含多个状态，它们分布在不同TaskManager进程内的算子任务上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, a window object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033855Z" creationid="xccui" creationdate="20190626T033855Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -27108,6 +27124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T061215Z">
         <seg>计时器只允许在按键值分区的数据流上注册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timers of a trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T034200Z" creationid="xccui" creationdate="20190626T034200Z">
+        <seg>触发器中的计时器</seg>
       </tuv>
     </tu>
     <tu>
