@@ -17529,8 +17529,8 @@
       <tuv lang="EN-US">
         <seg>It is common that companies store the same data in multiple different systems to improve the performance of data accesses.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053952Z" creationid="xccui" creationdate="20190604T053931Z">
-        <seg>公司为了提高数据访问性能已然稀松平常。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T061210Z" creationid="xccui" creationdate="20190604T053931Z">
+        <seg>公司为了提高数据访问性能把相同数据存储到多个系统中已然稀松平常。</seg>
       </tuv>
     </tu>
     <tu>
