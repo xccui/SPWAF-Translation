@@ -28834,8 +28834,8 @@
       <tuv lang="EN-US">
         <seg>We describe the steps for a UNIX environment, but if you are running Windows, we recommend setting up a virtual machine with Linux, Cygwin (a Linux environment for Win‐ dows), or the Windows Subsystem for Linux, introduced with Windows 10.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T065216Z" creationid="xccui" creationdate="20190605T122711Z">
-        <seg>我们假设以下步骤都是针对UNIX环境，如果你用Windows，我们建议你配置一个Linux虚拟机，也可以安装Cygwin（一个Windows下的Linux环境）或配置WSL（ Windows Subsystem for Linux，Windows 10中新加的功能）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T065236Z" creationid="xccui" creationdate="20190605T122711Z">
+        <seg>我们假设以下步骤都是针对UNIX环境，如果你用Windows，我们建议你配置一个Linux虚拟机，也可以安装Cygwin（一个Windows下的Linux环境）或配置WSL（Windows Subsystem for Linux，Windows 10中新加的功能）。</seg>
       </tuv>
     </tu>
     <tu>
