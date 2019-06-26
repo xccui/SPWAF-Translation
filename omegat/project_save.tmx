@@ -6160,8 +6160,8 @@
       <tuv lang="EN-US">
         <seg>Also, the ProcessWindowFunction.clear() method is invoked to clean up all custom per-window state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184905Z" creationid="xccui" creationdate="20190626T184905Z">
-        <seg>同时，调用ProcessWindowFunction.clear()方法来清理全部自定义的单个窗口状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184923Z" creationid="xccui" creationdate="20190626T184905Z">
+        <seg>同时，调用ProcessWindowFunction.clear()方法来清理那些自定义的单个窗口状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10667,6 +10667,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184406Z" creationid="xccui" creationdate="20190626T184406Z">
         <seg>FIRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRE_AND_PURGE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184925Z" creationid="xccui" creationdate="20190626T184925Z">
+        <seg>FIRE_AND_PURGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRE_AND_PURGE: Evaluates the window first (FIRE) and subsequently removes all state and metadata (PURGE).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185109Z" creationid="xccui" creationdate="20190626T185109Z">
+        <seg>先进行窗口计算（FIRE），随后删除所有状态及元数据（PURGE）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24122,8 +24138,8 @@
       <tuv lang="EN-US">
         <seg>The content of the window is completely discarded and the window including all metadata is removed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184757Z" creationid="xccui" creationdate="20190626T184757Z">
-        <seg>完全清除窗口内容，并删除窗口及其元数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184909Z" creationid="xccui" creationdate="20190626T184757Z">
+        <seg>完全清除窗口内容，并删除窗口自身及其元数据。</seg>
       </tuv>
     </tu>
     <tu>
