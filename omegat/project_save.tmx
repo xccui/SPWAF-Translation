@@ -846,6 +846,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Deletes a processing-time timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192706Z" creationid="xccui" creationdate="20190626T192706Z">
+        <seg>// 删除一个处理时间计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Deletes an event-time timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192717Z" creationid="xccui" creationdate="20190626T192717Z">
+        <seg>// 删除一个事件时间计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Deletes any custom per-window state when the window is purged</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024334Z" creationid="xccui" creationdate="20190624T010617Z">
@@ -942,6 +958,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Registers a processing-time timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192628Z" creationid="xccui" creationdate="20190626T192628Z">
+        <seg>// 注册一个处理时间计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Registers an event-time timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192648Z" creationid="xccui" creationdate="20190626T192648Z">
+        <seg>// 注册一个事件时间计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Retrieves a state object that is scoped to the window and the key of the trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192915Z" creationid="xccui" creationdate="20190626T192915Z">
+        <seg>// 获取一个作用域为触发器键值和当前窗口的对象状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Returns a collection of windows to which the element is assigned</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041644Z" creationid="xccui" creationdate="20190626T041644Z">
@@ -970,6 +1010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010733Z" creationid="xccui" creationdate="20190624T010733Z">
         <seg>// 返回当前处理时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Returns the current watermark time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192614Z" creationid="xccui" creationdate="20190626T192605Z">
+        <seg>// 返回当前水位线时间</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +2002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061610Z" creationid="xccui" creationdate="20190616T061610Z">
         <seg>// 数据源以默认并行度运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// to register timer callbacks and deal with state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192549Z" creationid="xccui" creationdate="20190626T192549Z">
+        <seg>// 使其可以注册计时器回调并处理状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -32601,6 +32657,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>long getCurrentProcessingTime();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192555Z" creationid="xccui" creationdate="20190626T192555Z">
+        <seg>long getCurrentProcessingTime();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>long getCurrentWatermark();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192617Z" creationid="xccui" creationdate="20190626T192617Z">
+        <seg>long getCurrentWatermark();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>long timestamp, W window, TriggerContext ctx);</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190130Z" creationid="xccui" creationdate="20190626T190130Z">
@@ -33541,6 +33613,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003529Z" creationid="xccui" creationdate="20190624T003529Z">
         <seg>public interface AggregateFunction&lt;IN, ACC, OUT&gt; extends Function, Serializable {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public interface TriggerContext {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192552Z" creationid="xccui" creationdate="20190626T192552Z">
+        <seg>public interface TriggerContext {</seg>
       </tuv>
     </tu>
     <tu>
@@ -35025,10 +35105,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>void deleteEventTimeTimer(long time);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192721Z" creationid="xccui" creationdate="20190626T192721Z">
+        <seg>void deleteEventTimeTimer(long time);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void deleteProcessingTimeTimer(long time);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192708Z" creationid="xccui" creationdate="20190626T192708Z">
+        <seg>void deleteProcessingTimeTimer(long time);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>void process(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010515Z" creationid="xccui" creationdate="20190624T010515Z">
         <seg>void process(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void registerEventTimeTimer(long time);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192652Z" creationid="xccui" creationdate="20190626T192652Z">
+        <seg>void registerEventTimeTimer(long time);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void registerProcessingTimeTimer(long time);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192631Z" creationid="xccui" creationdate="20190626T192631Z">
+        <seg>void registerProcessingTimeTimer(long time);</seg>
       </tuv>
     </tu>
     <tu>
