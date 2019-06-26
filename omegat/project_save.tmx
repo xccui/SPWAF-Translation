@@ -8649,8 +8649,8 @@
       <tuv lang="EN-US">
         <seg>Components of a Flink Setup</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T214922Z" creationid="xccui" creationdate="20190225T021731Z">
-        <seg>Flink设置组件</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T215253Z" creationid="xccui" creationdate="20190225T021731Z">
+        <seg>搭建Flink所需组件</seg>
       </tuv>
     </tu>
     <tu>
