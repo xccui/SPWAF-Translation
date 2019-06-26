@@ -10713,8 +10713,8 @@
       <tuv lang="EN-US">
         <seg>Figure 1-5 shows a service architecture composed of event-driven streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T213938Z" creationid="esouser" creationdate="20190603T213855Z">
-        <seg>图1-5粗略展示了一个由事件驱动型应用组成的服务架构，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055536Z" creationid="esouser" creationdate="20190603T213855Z">
+        <seg>图1-5粗略展示了一个由事件驱动型应用组成的服务架构。</seg>
       </tuv>
     </tu>
     <tu>
