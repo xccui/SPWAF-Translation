@@ -13969,8 +13969,8 @@
       <tuv lang="EN-US">
         <seg>However, even with continuous ETL there will always be a delay until an event is processed by a query.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T043619Z" creationid="xccui" creationdate="20190605T043619Z">
-        <seg>但即便使用持续ETL，事件在被查询处理到之前总会有一定延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T061932Z" creationid="xccui" creationdate="20190605T043619Z">
+        <seg>但即便持续地进行ETL操作，事件在被查询处理到之前总会有一定延迟。</seg>
       </tuv>
     </tu>
     <tu>
