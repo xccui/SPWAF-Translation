@@ -6512,8 +6512,8 @@
       <tuv lang="EN-US">
         <seg>Anomaly detection (e.g., to detect attempts to intrude a computer network)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T213713Z" creationid="esouser" creationdate="20190603T213713Z">
-        <seg>异常检测（例如：计算机网络入侵检测）等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055449Z" creationid="esouser" creationdate="20190603T213713Z">
+        <seg>异常检测（例如：计算机网络入侵检测）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19978,8 +19978,8 @@
       <tuv lang="EN-US">
         <seg>Pattern detection or complex event processing (e.g., for fraud detection in credit card transactions)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T213728Z" creationid="esouser" creationdate="20190603T213624Z">
-        <seg>模式识别或复杂事件处理（例如：根据信用卡交易记录进行欺诈识别），</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055445Z" creationid="esouser" creationdate="20190603T213624Z">
+        <seg>模式识别或复杂事件处理（例如：根据信用卡交易记录进行欺诈识别）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20450,8 +20450,8 @@
       <tuv lang="EN-US">
         <seg>Real-time recommendations (e.g., for recommending products while customers browse a retailer’s website)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T213611Z" creationid="esouser" creationdate="20190603T213611Z">
-        <seg>实时推荐（例如：在客户浏览商家页面的同时进行产品推荐），</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055440Z" creationid="esouser" creationdate="20190603T213611Z">
+        <seg>实时推荐（例如：在客户浏览商家页面的同时进行产品推荐）。</seg>
       </tuv>
     </tu>
     <tu>
