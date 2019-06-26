@@ -6824,8 +6824,8 @@
       <tuv lang="EN-US">
         <seg>Applications can also be individually operated and scaled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T214115Z" creationid="esouser" creationdate="20190603T214115Z">
-        <seg>同时，全部应用都支持独立操作和扩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055758Z" creationid="esouser" creationdate="20190603T214115Z">
+        <seg>同时，全部应用都支持独立操作和扩缩容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23786,8 +23786,8 @@
       <tuv lang="EN-US">
         <seg>The applications in Figure 1-5 are connected by event logs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T214008Z" creationid="esouser" creationdate="20190603T213929Z">
-        <seg>其中的应用通过事件日志进行连接，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055745Z" creationid="esouser" creationdate="20190603T213929Z">
+        <seg>图1-5中不同应用之间通过事件日志进行连接，</seg>
       </tuv>
     </tu>
     <tu>
