@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// A context object that is given to Trigger methods to allow them</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192513Z" creationid="xccui" creationdate="20190626T192513Z">
+        <seg>// 用于触发器中方法的上下文对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// A context that gives access to the current processing time</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041941Z" creationid="xccui" creationdate="20190626T041941Z">
@@ -1050,6 +1058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010711Z" creationid="xccui" creationdate="20190624T010711Z">
         <seg>// 保存窗口元数据的上下文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// This method is called when a window is purged</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192344Z" creationid="xccui" creationdate="20190626T192330Z">
+        <seg>// 该方法会在清除窗口时调用</seg>
       </tuv>
     </tu>
     <tu>
@@ -33493,6 +33509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041943Z" creationid="xccui" creationdate="20190626T041943Z">
         <seg>public abstract static class WindowAssignerContext {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract void clear(W window, TriggerContext ctx);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192334Z" creationid="xccui" creationdate="20190626T192334Z">
+        <seg>public abstract void clear(W window, TriggerContext ctx);</seg>
       </tuv>
     </tu>
     <tu>
