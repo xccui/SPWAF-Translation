@@ -12983,6 +12983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you can implement triggering logic to fire when the window receives a certain number of elements, when an ele‐ ment with a specific value is added to the window, or after detecting a pattern on added elements like “two events of the same type within 5 seconds.” A custom trigger can also be used to compute and emit early results from an event-time window, before the watermark reaches the window’s end timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T183807Z" creationid="xccui" creationdate="20190626T183807Z">
+        <seg>举例而言，你可以在触发器中实现以下触发逻辑：窗口接收到一定数量的元素，含有某个特定值的元素加入窗口，或检测到添加的元素满足某种模式（如5秒内出现了两个相同类型的事件）。自定义触发器也可以用来在水位线到达窗口的结束时间戳以前，为事件时间窗口计算并发出早期结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example: “Stream Processing with Apache Flink by Fabian Hueske and Vasiliki Kalavri (O’Reilly).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210824Z" creationid="esouser" creationdate="20190603T210824Z">
@@ -13723,6 +13731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203739Z" creationid="xccui" creationdate="20190606T203739Z">
         <seg>因此函数之间的记录传输基本上不存在序列化及通信开销。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, they are as powerful as process functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T182328Z" creationid="xccui" creationdate="20190626T182328Z">
+        <seg>因此它其实和处理函数一样强大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27996,6 +28012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T181313Z" creationid="xccui" creationdate="20190626T181313Z">
         <seg>触发器用于定义何时对窗口进行计算并发出结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Triggers have access to time properties and timers, and can work with state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T182331Z" creationid="xccui" creationdate="20190626T182243Z">
+        <seg>触发器不仅能够访问时间属性和计时器，还可以使用状态，</seg>
       </tuv>
     </tu>
     <tu>
