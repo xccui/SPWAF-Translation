@@ -4760,8 +4760,8 @@
       <tuv lang="EN-US">
         <seg>A custom trigger may fire several times, computing new or updated results</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185623Z" creationid="xccui" creationdate="20190626T185623Z">
-        <seg>自定义触发器的多次触发机制可用来计算全新的结果或对已有结果进行更新，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185857Z" creationid="xccui" creationdate="20190626T185623Z">
+        <seg>自定义触发器可能会触发多次，你不但可以计算全新的结果或对已有结果进行更新，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32885,6 +32885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045238Z" creationid="xccui" creationdate="20190504T045238Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or purging a window without emitting a result if a certain condition is fulfilled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185710Z" creationid="xccui" creationdate="20190626T185710Z">
+        <seg>还能够在某个条件满足时只清除窗口而不发出结果。</seg>
       </tuv>
     </tu>
     <tu>
