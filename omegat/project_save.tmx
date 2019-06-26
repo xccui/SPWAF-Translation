@@ -23642,8 +23642,8 @@
       <tuv lang="EN-US">
         <seg>The Trigger interface features a call‐ back method that is invoked when windows are merged to merge state that is associ‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050313Z" creationid="xccui" creationdate="20190626T050313Z">
-        <seg>Trigger接口有一个回调方法，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050617Z" creationid="xccui" creationdate="20190626T050313Z">
+        <seg>Trigger接口有一个回调方法，会在对目标窗口的相关状态进行合并时被调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31020,6 +31020,14 @@
         <seg>assigning timestamps if such operations do not induce a redistribution of elements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031947Z" creationid="xccui" creationdate="20190620T031947Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ated with the windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050619Z" creationid="xccui" creationdate="20190626T050619Z">
         <seg></seg>
       </tuv>
     </tu>
