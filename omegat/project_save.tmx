@@ -17751,6 +17751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can remove elements from a window before or after the window function is evaluated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201531Z" creationid="xccui" creationdate="20190626T201531Z">
+        <seg>它可以用于在窗口执行计算前或后从窗口中删除元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It consists of 11 chapters that hopefully tell a coherent story.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152645Z" creationid="esouser" creationdate="20190603T152631Z">
@@ -23744,6 +23752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Evictor is an optional component in Flink’s windowing mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201345Z" creationid="xccui" creationdate="20190626T201345Z">
+        <seg>移除器是Flink窗口机制中的一个可选组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Evolution of Open Source Stream Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T014710Z" creationid="xccui" creationdate="20190225T014710Z">
@@ -24658,8 +24674,8 @@
       <tuv lang="EN-US">
         <seg>The evictor is an optional component that can be injected before or after a Process WindowFunction is called.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014623Z" creationid="xccui" creationdate="20190625T214328Z">
-        <seg>移除器作为一个可选组件，允许在ProcessWindowFunction调用前后注入。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201552Z" creationid="xccui" creationdate="20190625T214328Z">
+        <seg>移除器作为一个可选组件，允许在ProcessWindowFunction调用前或后注入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32853,6 +32869,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T195732Z" creationid="xccui" creationdate="20190609T195732Z">
         <seg>但它仍会增加应用处理延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incremental aggregation function is specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201556Z" creationid="xccui" creationdate="20190626T201556Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
