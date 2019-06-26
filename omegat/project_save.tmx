@@ -19377,8 +19377,8 @@
       <tuv lang="EN-US">
         <seg>One example for such an assigner is the EventTimeSessionWindows assigner we discussed before, which works by creating a new window for each arriving element and merging overlapping win‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045703Z" creationid="xccui" creationdate="20190626T045703Z">
-        <seg>一个例子就是我们之前讨论过的EventTimeSessionWindows分配器，它需要为每个到来的元素创建一个新的窗口</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045808Z" creationid="xccui" creationdate="20190626T045703Z">
+        <seg>一个例子就是我们之前讨论过的EventTimeSessionWindows分配器，它需要为每个到来的元素创建一个新的窗口并在之后合并那些重叠的窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23466,8 +23466,8 @@
       <tuv lang="EN-US">
         <seg>The MergingWindowAssigner is used for win‐ dow operators that need to merge existing windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045737Z" creationid="xccui" creationdate="20190626T045356Z">
-        <seg>MergingWindowAssigner可用于那些需要对已有窗口进行合并的窗口算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045834Z" creationid="xccui" creationdate="20190626T045356Z">
+        <seg>MergingWindowAssigner可用于需要对已有窗口进行合并的窗口算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23628,6 +23628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T055620Z" creationid="xccui" creationdate="20190621T055620Z">
         <seg>Context和OnTimerContext对象中的TimerService提供了以下方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Trigger interface features a call‐ back method that is invoked when windows are merged to merge state that is associ‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050313Z" creationid="xccui" creationdate="20190626T050313Z">
+        <seg>Trigger接口有一个回调方法，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29753,6 +29761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When merging windows, you need to ensure that the state of all merging windows and their triggers is also appropriately merged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045948Z" creationid="xccui" creationdate="20190626T045948Z">
+        <seg>在合并窗口时，需要保证所有目标窗口的状态以及它们的触发器也能够正确合并。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When none of the predefined partitioning strategies is suitable, you can define your own by using the partitionCustom() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050123Z" creationid="xccui" creationdate="20190616T050123Z">
@@ -31549,6 +31565,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052115Z" creationid="xccui" creationdate="20190625T052115Z">
         <seg>如何目标窗口不存在，则会创建它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dows afterward.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045849Z" creationid="xccui" creationdate="20190626T045849Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
