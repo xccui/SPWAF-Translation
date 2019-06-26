@@ -6208,8 +6208,8 @@
       <tuv lang="EN-US">
         <seg>An evictor can remove collected elements from the con‐ tents of a window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014450Z" creationid="xccui" creationdate="20190626T014450Z">
-        <seg>它可以用来从窗口中删除收集的元素。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014627Z" creationid="xccui" creationdate="20190626T014450Z">
+        <seg>它可以用来从窗口中删除已经收集的元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21176,6 +21176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since it has to iterate over all elements, it can only be used if no</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014717Z" creationid="xccui" creationdate="20190626T014717Z">
+        <seg>由于需要遍历所有元素，移除器只有在未指定增量聚合函数的时候才能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since its beginning, Flink has a very active and continuously growing community of users and contributors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T220449Z" creationid="xccui" creationdate="20190225T220008Z">
@@ -23754,8 +23762,8 @@
       <tuv lang="EN-US">
         <seg>The evictor is an optional component that can be injected before or after a Process WindowFunction is called.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T214328Z" creationid="xccui" creationdate="20190625T214328Z">
-        <seg>移除器是一个可选组件，允许在ProcessWindowFunction调用前后注入。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014623Z" creationid="xccui" creationdate="20190625T214328Z">
+        <seg>移除器作为一个可选组件，允许在ProcessWindowFunction调用前后注入。</seg>
       </tuv>
     </tu>
     <tu>
