@@ -15129,8 +15129,8 @@
       <tuv lang="EN-US">
         <seg>In addition to these features, Flink is a very developer-friendly framework due to its easy-to-use APIs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T064632Z" creationid="xccui" creationdate="20190328T052954Z">
-        <seg>除了上述特性，Flink提供了十分易用的API，因此对开发者而言是一个非常友好的框架。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T064857Z" creationid="xccui" creationdate="20190328T052954Z">
+        <seg>除了上述特性，Flink还提供了十分易用的API，因此对开发者而言是一个非常友好的框架。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24090,8 +24090,8 @@
       <tuv lang="EN-US">
         <seg>The embedded execution mode starts an application and the whole Flink system in a single JVM process, which can be used to run and debug Flink jobs within an IDE.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T122100Z" creationid="xccui" creationdate="20190605T121832Z">
-        <seg>嵌入式执行模式可将应用自身连同整个Flink系统在单个JVM进程内启动，方便从IDE里运行和调试Flink作业。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T064902Z" creationid="xccui" creationdate="20190605T121832Z">
+        <seg>它的嵌入式执行模式可将应用自身连同整个Flink系统在单个JVM进程内启动，方便从IDE里运行和调试Flink作业。</seg>
       </tuv>
     </tu>
     <tu>
