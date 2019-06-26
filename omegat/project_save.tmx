@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A trigger can define and use custom, per-window and per-key state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T034923Z" creationid="xccui" creationdate="20190626T034923Z">
+        <seg>触发器中可以定义和使用针对每个窗口、每个键值的自定义状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A trigger can register timers to be called back at certain points in time—for example, to evaluate a window or purge its contents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T034731Z" creationid="xccui" creationdate="20190626T034731Z">
@@ -8723,6 +8731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T042043Z" creationid="xccui" creationdate="20190622T042043Z">
         <seg>详细内容会在本节稍后讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom-defined state in a trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T034823Z" creationid="xccui" creationdate="20190626T034823Z">
+        <seg>触发器中的自定义状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -26724,6 +26740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235848Z" creationid="xccui" creationdate="20190605T235848Z">
         <seg>它们的状态会根据传入的事件更新，并用于未来事件的处理逻辑中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This state is completely controlled by the trigger and not maintained by the window operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035125Z" creationid="xccui" creationdate="20190626T035125Z">
+        <seg>该状态完全由触发器来控制，而非由窗口算子进行维护。</seg>
       </tuv>
     </tu>
     <tu>
