@@ -15473,8 +15473,8 @@
       <tuv lang="EN-US">
         <seg>In order to provide a concise window operator</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T015035Z" creationid="xccui" creationdate="20190626T015035Z">
-        <seg>为了提供简洁的窗口算子API，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T024653Z" creationid="xccui" creationdate="20190626T015035Z">
+        <seg>为了使窗口算子的API保持简洁，</seg>
       </tuv>
     </tu>
     <tu>
