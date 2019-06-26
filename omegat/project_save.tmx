@@ -19882,8 +19882,8 @@
       <tuv lang="EN-US">
         <seg>Over the years the collection and usage of data has grown consistently, and compa‐ nies have designed and built infrastructures to manage that data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T051012Z" creationid="esouser" creationdate="20190603T193927Z">
-        <seg>随着数据收集和使用量的不断增长，很多公司都设计并构建了各种基础架构来管理数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T051818Z" creationid="esouser" creationdate="20190603T193927Z">
+        <seg>随着数据采集和使用量的不断增长，很多公司都设计并构建了各种基础架构来管理数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22354,8 +22354,8 @@
       <tuv lang="EN-US">
         <seg>Stream processing technology is becoming more and more popular with companies big and small because it provides superior solutions for many established use cases such as data analytics, ETL, and transactional applications, but also facilitates novel applications, software architectures, and business opportunities.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063618Z" creationid="esouser" creationdate="20190603T162936Z">
-        <seg>流处理技术正受到越来越多大小公司的青睐，这是因为它不仅可以为很多现有场景提供更优的解决方案（例如数据分析、ETL以及事务性应用），而且可以催生很多新颖的应用、软件架构以及商业机会。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T051811Z" creationid="esouser" creationdate="20190603T162936Z">
+        <seg>流处理技术正受到越来越多不同规模公司的青睐，这是因为它不仅可以为很多现有场景提供更优的解决方案（例如数据分析、ETL以及事务性应用），而且可以催生很多新颖的应用、软件架构以及商业机会。</seg>
       </tuv>
     </tu>
     <tu>
