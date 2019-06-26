@@ -24264,6 +24264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following shows the WindowAssigner interface:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041550Z" creationid="xccui" creationdate="20190626T041550Z">
+        <seg>以下就是WindowAssigner接口：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following typographical conventions are used in this book:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210759Z" creationid="esouser" creationdate="20190603T210759Z">
