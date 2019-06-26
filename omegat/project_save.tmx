@@ -6024,8 +6024,8 @@
       <tuv lang="EN-US">
         <seg>All of these systems store data in different formats and data structures that provide the best performance for their specific access pattern.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053910Z" creationid="xccui" creationdate="20190604T053820Z">
-        <seg>为了再各自访问模式下都能达到最佳性能，上述系统会以不同格式或数据结构存储数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T060710Z" creationid="xccui" creationdate="20190604T053820Z">
+        <seg>为了在各自访问模式下都能达到最佳性能，上述系统会以不同格式或数据结构存储数据。</seg>
       </tuv>
     </tu>
     <tu>
