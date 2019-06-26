@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// The state to be merged must support merging</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193113Z" creationid="xccui" creationdate="20190626T193107Z">
+        <seg>// 目标状态自身需要支持合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// This method is called when a window is purged</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192344Z" creationid="xccui" creationdate="20190626T192330Z">
@@ -7355,6 +7363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T044915Z" creationid="xccui" creationdate="20190625T044805Z">
         <seg>可以看到，示例6-13在调用reduce()方法时既用到了ReduceFunction也用到了ProcessWindowFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you can see, the Trigger API can be used to implement sophisticated logic by pro‐ viding access to time and state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193725Z" creationid="xccui" creationdate="20190626T193725Z">
+        <seg>如你所见，Trigger API的时间和状态访问机制允许你用它来实现复杂逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35149,6 +35165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192708Z" creationid="xccui" creationdate="20190626T192708Z">
         <seg>void deleteProcessingTimeTimer(long time);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void mergePartitionedState(StateDescriptor&lt;S, ?&gt; stateDescriptor);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193115Z" creationid="xccui" creationdate="20190626T193115Z">
+        <seg>void mergePartitionedState(StateDescriptor&lt;S, ?&gt; stateDescriptor);</seg>
       </tuv>
     </tu>
     <tu>
