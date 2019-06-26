@@ -30409,6 +30409,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a WindowAssigner, a trigger decides when to evalute a window, and a window func‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T031548Z" creationid="xccui" creationdate="20190626T031548Z">
+        <seg>触发器决定何时对窗口执行计算，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a broadcasted stream and storing the broadcasted events in man‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053023Z" creationid="xccui" creationdate="20190615T053023Z">
@@ -33013,6 +33021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050340Z" creationid="xccui" creationdate="20190616T050340Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tion performs the actual window evaluation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T031606Z" creationid="xccui" creationdate="20190626T031606Z">
+        <seg>而实际的计算将由窗口函数</seg>
       </tuv>
     </tu>
     <tu>
