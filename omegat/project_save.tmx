@@ -14225,8 +14225,8 @@
       <tuv lang="EN-US">
         <seg>However, transactional data is often distributed across several discon‐ nected database systems and is more valuable when it can be jointly analyzed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064555Z" creationid="esouser" creationdate="20190603T201929Z">
-        <seg>但是，事务性数据通常存储于互不相连的数据库系统之中，如能将它们联合分析必然会创造更大价值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T065835Z" creationid="esouser" creationdate="20190603T201929Z">
+        <seg>但用于存储事务性数据的多个数据库系统通常都互不相连，如能将它们联合分析必然会创造更高的价值。</seg>
       </tuv>
     </tu>
     <tu>
