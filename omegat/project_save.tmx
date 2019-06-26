@@ -17425,8 +17425,8 @@
       <tuv lang="EN-US">
         <seg>It efficiently runs such applica‐ tions at large scale in a fault-tolerant manner.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162821Z" creationid="esouser" creationdate="20190603T162716Z">
-        <seg>且支持在容错的前提下高效、大规模地运行此类应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T051514Z" creationid="esouser" creationdate="20190603T162716Z">
+        <seg>并且支持在容错的前提下高效、大规模地运行此类应用。</seg>
       </tuv>
     </tu>
     <tu>
