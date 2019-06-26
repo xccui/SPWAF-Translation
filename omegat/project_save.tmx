@@ -10583,6 +10583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evictors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201305Z" creationid="xccui" creationdate="20190626T201305Z">
+        <seg>移除器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evolving Stateful Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024857Z" creationid="xccui" creationdate="20190225T024857Z">
