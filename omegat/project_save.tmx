@@ -26786,8 +26786,8 @@
       <tuv lang="EN-US">
         <seg>This is similar to the maintenance techniques database sys‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T044538Z" creationid="xccui" creationdate="20190605T044509Z">
-        <seg>这有点类似于数据库系统为了更新物化视图而采用的维护技术。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T062010Z" creationid="xccui" creationdate="20190605T044509Z">
+        <seg>这有点类似于数据库系统为了更新物化视图而采用的技术。</seg>
       </tuv>
     </tu>
     <tu>
