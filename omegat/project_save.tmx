@@ -8023,6 +8023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTINUE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184358Z" creationid="xccui" creationdate="20190626T184358Z">
+        <seg>CONTINUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025545Z" creationid="xccui" creationdate="20190225T025545Z">
@@ -10271,6 +10279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every time a trigger is called it produces a TriggerResult that determines what should happen to the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184327Z" creationid="xccui" creationdate="20190626T184327Z">
+        <seg>每次调用触发器都会生成一个TriggerResult，它用于决定窗口在接下来的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every time an element is added to a window, it is also passed to the trigger of the win‐ dow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052727Z" creationid="xccui" creationdate="20190625T052727Z">
@@ -10635,6 +10651,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123035Z" creationid="xccui" creationdate="20190605T123035Z">
         <seg>提取归档文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184406Z" creationid="xccui" creationdate="20190626T184406Z">
+        <seg>FIRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -14651,6 +14675,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T043111Z" creationid="xccui" creationdate="20190415T043111Z">
         <seg>如果故障发生在第一步，事件是否会丢失？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the window only has an incremetal aggregation function (ReduceFunction or AggregateFunction) the current aggregation result is emit‐ ted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184537Z" creationid="xccui" creationdate="20190626T184537Z">
+        <seg>如果窗口只包含一个增量聚合函数（ReduceFunction或AggregateFunction），则发出当前结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the window operator has a ProcessWindowFunction, the function is called and the result is emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184449Z" creationid="xccui" creationdate="20190626T184449Z">
+        <seg>如果窗口算子配置了ProcessWindowFunction，就会调用该函数并发出结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18779,6 +18819,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T040339Z" creationid="xccui" creationdate="20190606T040339Z">
         <seg>紧接着你学习了的并行处理无限流的需求，了解了延迟和吞吐对于流式应用的重要性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No action is taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184403Z" creationid="xccui" creationdate="20190626T184403Z">
+        <seg>什么都不做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28004,6 +28052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045238Z" creationid="xccui" creationdate="20190619T045238Z">
         <seg>转换操作 | 85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TriggerResult can take one of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184354Z" creationid="xccui" creationdate="20190626T184354Z">
+        <seg>TriggerResult允许是以下值之一：</seg>
       </tuv>
     </tu>
     <tu>
