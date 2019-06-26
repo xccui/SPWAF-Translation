@@ -728,8 +728,8 @@
       <tuv lang="EN-US">
         <seg>/** A custom window that groups events into 30-second tumbling windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042645Z" creationid="xccui" creationdate="20190626T042645Z">
-        <seg>/** 自定义窗口，用于将事件按照每30秒滚动窗口进行分组。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042719Z" creationid="xccui" creationdate="20190626T042645Z">
+        <seg>/** 将事件按照每30秒滚动窗口进行分组的自定义窗口。</seg>
       </tuv>
     </tu>
     <tu>
