@@ -6478,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An early firing trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200121Z" creationid="xccui" creationdate="20190626T200121Z">
+        <seg>可提前触发的触发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An element can be added to zero, one, or multiple windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041408Z" creationid="xccui" creationdate="20190626T041408Z">
@@ -10675,6 +10683,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195643Z" creationid="xccui" creationdate="20190626T195643Z">
         <seg>示例6-16展示的触发器会在到达窗口结束时间之前提前触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200014Z" creationid="xccui" creationdate="20190626T200014Z">
+        <seg>示例6-16，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26568,6 +26584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the trigger fires, at most, every second.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200010Z" creationid="xccui" creationdate="20190626T200010Z">
+        <seg>因此该触发器最多每秒触发一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, we strongly recommend manually assign‐ ing unique identifiers to operators and not relying on Flink’s default assignment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T030745Z" creationid="xccui" creationdate="20190610T030737Z">
@@ -30341,6 +30365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040129Z" creationid="xccui" creationdate="20190615T040129Z">
         <seg>当温度超过给定阈值且烟雾水平很高时，应用就会发出火灾警报。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the timer fires, a new timer is regis‐ tered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195937Z" creationid="xccui" creationdate="20190626T195937Z">
+        <seg>当一个计时器触发时又会注册一个新计时器。</seg>
       </tuv>
     </tu>
     <tu>
