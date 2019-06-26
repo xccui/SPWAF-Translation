@@ -6158,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, the ProcessWindowFunction.clear() method is invoked to clean up all custom per-window state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184905Z" creationid="xccui" creationdate="20190626T184905Z">
+        <seg>同时，调用ProcessWindowFunction.clear()方法来清理全部自定义的单个窗口状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, the internals of a stream processor that supports event time are more involved than the internals of a system that purely operates in processing time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204405Z" creationid="xccui" creationdate="20190606T204405Z">
@@ -14681,16 +14689,16 @@
       <tuv lang="EN-US">
         <seg>If the window only has an incremetal aggregation function (ReduceFunction or AggregateFunction) the current aggregation result is emit‐ ted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184537Z" creationid="xccui" creationdate="20190626T184537Z">
-        <seg>如果窗口只包含一个增量聚合函数（ReduceFunction或AggregateFunction），则发出当前结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184600Z" creationid="xccui" creationdate="20190626T184537Z">
+        <seg>如果窗口只包含一个增量聚合函数（ReduceFunction或AggregateFunction），则直接发出当前聚合结果。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If the window operator has a ProcessWindowFunction, the function is called and the result is emitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184449Z" creationid="xccui" creationdate="20190626T184449Z">
-        <seg>如果窗口算子配置了ProcessWindowFunction，就会调用该函数并发出结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184543Z" creationid="xccui" creationdate="20190626T184449Z">
+        <seg>如果窗口算子配置了ProcessWindowFunction，就会调用该函数并发出结果；</seg>
       </tuv>
     </tu>
     <tu>
@@ -20032,6 +20040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PURGE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184625Z" creationid="xccui" creationdate="20190626T184625Z">
+        <seg>PURGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parallelization gets complicated, since results depend on both the state and incoming events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032919Z" creationid="xccui" creationdate="20190606T032919Z">
@@ -24104,6 +24120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The content of the window is completely discarded and the window including all metadata is removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184757Z" creationid="xccui" creationdate="20190626T184757Z">
+        <seg>完全清除窗口内容，并删除窗口及其元数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The corre‐ sponding FlatMapFunction defines the flatMap() method, which may return zero, one, or more events as results by passing them to the Collector object:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061011Z" creationid="xccui" creationdate="20190613T055004Z">
@@ -25676,6 +25700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215327Z" creationid="xccui" creationdate="20190609T215249Z">
         <seg>保存点中拷贝的状态会按照一个算子标识符和一个状态名称进行组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state of the window is not changed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184622Z" creationid="xccui" creationdate="20190626T184622Z">
+        <seg>窗口状态不会发生任何变化。</seg>
       </tuv>
     </tu>
     <tu>
