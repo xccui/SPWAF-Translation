@@ -14591,6 +14591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a trigger is applied together with a MergingWindowAssigner, it needs to be able to handle the case when two windows are merged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194900Z" creationid="xccui" creationdate="20190626T194900Z">
+        <seg>如果某个触发器和MergingWindowAssigner一起使用，则需要处理两个窗口合并的情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a win‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052117Z" creationid="xccui" creationdate="20190625T052117Z">
@@ -17859,6 +17867,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T203141Z" creationid="xccui" creationdate="20190401T200707Z">
         <seg>但要注意，处理速率取决于数据到来速率，因此低吞吐不一定意味着性能差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not possible to clean up state in a timer callback method, since these methods are not called after a window is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194739Z" creationid="xccui" creationdate="20190626T194739Z">
+        <seg>由于在删除窗口后不会调用计时器回调方法，因此无法在其中清理状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31941,6 +31957,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060504Z">
         <seg>deleteProcessingTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的处理时间计时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194741Z" creationid="xccui" creationdate="20190626T194741Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
