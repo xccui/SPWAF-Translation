@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// clear trigger state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200942Z" creationid="xccui" creationdate="20190626T200942Z">
+        <seg>// 清除触发器状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// compute average temperature using a user-defined function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042729Z" creationid="xccui" creationdate="20190612T042729Z">
@@ -1566,10 +1574,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// final evaluation and purge window state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200753Z" creationid="xccui" creationdate="20190626T200736Z">
+        <seg>// 进行最终计算并清除窗口状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// finalize result in ProcessWindowFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043634Z" creationid="xccui" creationdate="20190625T043634Z">
         <seg>// 在ProcessWindowFunction中计算最终结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// fire trigger to evaluate window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200900Z" creationid="xccui" creationdate="20190626T200900Z">
+        <seg>// 触发进行窗口计算</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,6 +1874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200413Z" creationid="xccui" creationdate="20190626T200413Z">
         <seg>// 仅为第一个元素注册初始计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// register next early firing timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200822Z" creationid="xccui" creationdate="20190626T200822Z">
+        <seg>// 注册下一个用于提前触发的计时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -19351,6 +19383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the trigger uses custom state, which is cleaned up using the clear() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201046Z" creationid="xccui" creationdate="20190626T201046Z">
+        <seg>注意，该触发器用到了自定义状态并在clear()方法中对其进行了清理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that this</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062507Z" creationid="xccui" creationdate="20190621T062507Z">
@@ -28488,6 +28528,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TriggerResult.CONTINUE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200648Z" creationid="xccui" creationdate="20190626T200648Z">
+        <seg>TriggerResult.CONTINUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TriggerResult.FIRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200902Z" creationid="xccui" creationdate="20190626T200902Z">
+        <seg>TriggerResult.FIRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TriggerResult.FIRE_AND_PURGE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200740Z" creationid="xccui" creationdate="20190626T200740Z">
+        <seg>TriggerResult.FIRE_AND_PURGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Triggers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T213643Z" creationid="xccui" creationdate="20190625T213643Z">
@@ -29516,6 +29580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T125656Z" creationid="xccui" creationdate="20190605T125312Z">
         <seg>我们讨论了开源流处理系统如何从二十世纪初逐步进化，成为当今许多企业用例的可行解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We don't use processing time timers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200921Z" creationid="xccui" creationdate="20190626T200921Z">
+        <seg>我们使用处理时间计时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -32057,6 +32129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ctx: Trigger.TriggerContext): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200930Z" creationid="xccui" creationdate="20190626T200930Z">
+        <seg>ctx: Trigger.TriggerContext): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ctx: WindowAssigner.WindowAssignerContext): java.util.List[TimeWindow] = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042723Z" creationid="xccui" creationdate="20190626T042723Z">
@@ -32649,10 +32729,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (t &lt; window.getEnd) { ctx.registerEventTimeTimer(t)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200827Z" creationid="xccui" creationdate="20190626T200827Z">
+        <seg>if (t &lt; window.getEnd) { ctx.registerEventTimeTimer(t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if (timerTimestamp &gt; curTimerTimestamp) {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032344Z" creationid="xccui" creationdate="20190622T032344Z">
         <seg>if (timerTimestamp &gt; curTimerTimestamp) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (timestamp == window.getEnd) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200703Z" creationid="xccui" creationdate="20190626T200703Z">
+        <seg>if (timestamp == window.getEnd) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -33249,6 +33345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[Boolean]("firstSeen", classOf[Boolean])) firstSeen.clear()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200944Z" creationid="xccui" creationdate="20190626T200944Z">
+        <seg>new ValueStateDescriptor[Boolean]("firstSeen", classOf[Boolean])) firstSeen.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new ValueStateDescriptor[Double]("lastTemp", Types.of[Double]))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071345Z" creationid="xccui" creationdate="20190621T071345Z">
@@ -33449,6 +33553,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def clear( window: TimeWindow,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200926Z" creationid="xccui" creationdate="20190626T200926Z">
+        <seg>override def clear( window: TimeWindow,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def close(): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034524Z" creationid="xccui" creationdate="20190619T034524Z">
@@ -33573,6 +33685,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200230Z" creationid="xccui" creationdate="20190626T200230Z">
         <seg>override def onElement( r: SensorReading, timestamp: Long,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def onEventTime( timestamp: Long, window: TimeWindow,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200658Z" creationid="xccui" creationdate="20190626T200658Z">
+        <seg>override def onEventTime( timestamp: Long, window: TimeWindow,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def onProcessingTime( timestamp: Long,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200907Z" creationid="xccui" creationdate="20190626T200907Z">
+        <seg>override def onProcessingTime( timestamp: Long,</seg>
       </tuv>
     </tu>
     <tu>
@@ -35285,6 +35413,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053818Z" creationid="xccui" creationdate="20190617T053818Z">
         <seg>val stringType: TypeInformation[String] = Types.STRING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val t = ctx.getCurrentWatermark + (1000 - (ctx.getCurrentWatermark % 1000))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200824Z" creationid="xccui" creationdate="20190626T200824Z">
+        <seg>val t = ctx.getCurrentWatermark + (1000 - (ctx.getCurrentWatermark % 1000))</seg>
       </tuv>
     </tu>
     <tu>
