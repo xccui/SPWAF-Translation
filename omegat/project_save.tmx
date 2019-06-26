@@ -32657,6 +32657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>processing-time or event-time semantics depends on the value returned by the Win dowAssigner.isEventTime() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035751Z" creationid="xccui" creationdate="20190626T035751Z">
+        <seg>该时间是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public Person() {}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044844Z" creationid="xccui" creationdate="20190617T044844Z">
