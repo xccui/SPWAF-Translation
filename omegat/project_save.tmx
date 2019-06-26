@@ -5320,8 +5320,8 @@
       <tuv lang="EN-US">
         <seg>A stream processor that operates a data pipeline should also feature many source and sink connectors to read data from and write data to various storage sys‐ tems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042729Z" creationid="xccui" creationdate="20190605T042729Z">
-        <seg>执行数据管道的流处理引擎为了支持不同外部系统的数据读写，还需要提供多样化的数据源、汇连接器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T061644Z" creationid="xccui" creationdate="20190605T042729Z">
+        <seg>执行数据管道应用的流处理引擎为了支持不同外部系统的数据读写，还需要提供多样化的数据源、汇连接器。</seg>
       </tuv>
     </tu>
     <tu>
