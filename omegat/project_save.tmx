@@ -16929,8 +16929,8 @@
       <tuv lang="EN-US">
         <seg>Ingesting, transforming, and inserting data with low latency is another common use case for stateful stream processing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T014213Z" creationid="xccui" creationdate="20190317T013857Z">
-        <seg>状态化流处理应用的另一个日常用例就是以低延迟获取、转换并插入数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T061525Z" creationid="xccui" creationdate="20190317T013857Z">
+        <seg>状态化流处理应用的另一个日常用例是低延迟地获取、转换并插入数据。</seg>
       </tuv>
     </tu>
     <tu>
