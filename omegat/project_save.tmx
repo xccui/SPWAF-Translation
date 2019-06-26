@@ -8409,8 +8409,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 2 discusses the fundamental concepts and challenges of stream process‐ ing, independent of Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T160057Z" creationid="esouser" creationdate="20190603T155834Z">
-        <seg>第2章主要讨论流处理的基本概念和挑战，这些内容都是独立于Flink而存在。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T214315Z" creationid="esouser" creationdate="20190603T155834Z">
+        <seg>第2章主要讨论流处理的基本概念和挑战，这些内容均独立于Flink而存在。</seg>
       </tuv>
     </tu>
     <tu>
