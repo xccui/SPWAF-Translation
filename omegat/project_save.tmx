@@ -20368,6 +20368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ReduceFunction or AggregateFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033307Z" creationid="xccui" creationdate="20190626T033307Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to “Implementing Stateful Functions” on page 154, which discusses stateful functions in detail.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045701Z" creationid="xccui" creationdate="20190614T045650Z">
@@ -23380,6 +23388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023309Z" creationid="xccui" creationdate="20190225T023309Z">
         <seg>The Window Join</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The WindowAssigner returns zero, one, or multiple window objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033551Z" creationid="xccui" creationdate="20190626T033551Z">
+        <seg>WindowAssigner会返回零个、一个或多个窗口对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29853,6 +29869,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T030130Z" creationid="xccui" creationdate="20190626T030130Z">
         <seg>窗口的生命周期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033421Z" creationid="xccui" creationdate="20190626T033421Z">
+        <seg>窗口对象</seg>
       </tuv>
     </tu>
     <tu>
