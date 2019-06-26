@@ -28658,8 +28658,8 @@
       <tuv lang="EN-US">
         <seg>Tuning Checkpointing and Recovery</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030028Z" creationid="xccui" creationdate="20190225T030028Z">
-        <seg>Checkpointing调试和恢复</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T213134Z" creationid="xccui" creationdate="20190225T030028Z">
+        <seg>检查点调试和恢复</seg>
       </tuv>
     </tu>
     <tu>
