@@ -26008,6 +26008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These timers are maintained by the window operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T034804Z" creationid="xccui" creationdate="20190626T034804Z">
+        <seg>这些计时器由窗口算子负责维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These two interfaces extend the Time stampAssigner interface provided by the DataStream API.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044959Z" creationid="xccui" creationdate="20190620T044932Z">
