@@ -18065,8 +18065,8 @@
       <tuv lang="EN-US">
         <seg>Local state access provides very good performance compared to reading and writing queries against remote datastores.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T052249Z" creationid="xccui" creationdate="20190604T023347Z">
-        <seg>本地状态访问会提供比读写远程数据存储系统更好的性能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T060222Z" creationid="xccui" creationdate="20190604T023347Z">
+        <seg>访问本地状态的性能要比读写远程数据存储系统更好。</seg>
       </tuv>
     </tu>
     <tu>
