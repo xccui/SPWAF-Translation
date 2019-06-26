@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Clears any state that the trigger might hold for the given window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192245Z" creationid="xccui" creationdate="20190626T192245Z">
+        <seg>// 在触发器中清除那些为给定窗口保存的状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
@@ -33517,6 +33525,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010622Z" creationid="xccui" creationdate="20190624T010622Z">
         <seg>public void clear(Context ctx) throws Exception {}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public void onMerge(W window, OnMergeContext ctx);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190951Z" creationid="xccui" creationdate="20190626T190951Z">
+        <seg>public void onMerge(W window, OnMergeContext ctx);</seg>
       </tuv>
     </tu>
     <tu>
