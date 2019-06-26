@@ -23466,8 +23466,8 @@
       <tuv lang="EN-US">
         <seg>The MergingWindowAssigner is used for win‐ dow operators that need to merge existing windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045356Z" creationid="xccui" creationdate="20190626T045356Z">
-        <seg>MergingWindowAssigner可用于需要合并已有窗口的窗口算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045737Z" creationid="xccui" creationdate="20190626T045356Z">
+        <seg>MergingWindowAssigner可用于那些需要对已有窗口进行合并的窗口算子。</seg>
       </tuv>
     </tu>
     <tu>
