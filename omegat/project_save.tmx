@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window is created when the WindowAssigner assigns the first element to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032622Z" creationid="xccui" creationdate="20190626T032622Z">
+        <seg>窗口会在WindowAssigner首次对它分配元素时创建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window only stores the current result of</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225105Z" creationid="xccui" creationdate="20190623T225105Z">
@@ -8379,6 +8387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T053412Z" creationid="xccui" creationdate="20190609T050740Z">
         <seg>因此只有所有输入流都是来自于可重置的数据源，应用才支持精确一次的状态一致性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conse‐ quently, there is no window without at least one element.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032733Z" creationid="xccui" creationdate="20190626T032733Z">
+        <seg>因此，每个窗口至少会包含一个元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30437,6 +30453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052257Z" creationid="xccui" creationdate="20190613T052257Z">
         <seg>图5-2展示的filter操作仅保留了白色方块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a window—when it is created, what information it consists of, and when it is deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032507Z" creationid="xccui" creationdate="20190626T032507Z">
+        <seg>即它何时创建，包含了哪些信息以及何时删除。</seg>
       </tuv>
     </tu>
     <tu>
