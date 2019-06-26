@@ -16487,6 +16487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we discuss the lifecycle of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032353Z" creationid="xccui" creationdate="20190626T032353Z">
+        <seg>本节我们将讨论窗口的生命周期，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we discuss the types supported by Flink, how to create type informa‐ tion for a data type, and how to help Flink’s type system with hints if it cannot auto‐ matically infer the return type of a function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064849Z" creationid="xccui" creationdate="20190616T064849Z">
@@ -33027,8 +33035,8 @@
       <tuv lang="EN-US">
         <seg>tion performs the actual window evaluation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T031606Z" creationid="xccui" creationdate="20190626T031606Z">
-        <seg>而实际的计算将由窗口函数</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032323Z" creationid="xccui" creationdate="20190626T031606Z">
+        <seg>而实际的计算逻辑是由窗口函数决定。</seg>
       </tuv>
     </tu>
     <tu>
