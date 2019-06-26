@@ -5582,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>API, each WindowAssigner has a default trigger that is used unless an explicit trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T024913Z" creationid="xccui" creationdate="20190626T024913Z">
+        <seg>对于没有显式定义触发器的WindowAssigner都会有一个默认的触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ability to run streaming applications 24/7 with very little downtime due to its highly available setup (no single point of failure), tight integration with Kuber‐ netes, YARN, and Apache Mesos, fast recovery from failures, and the ability to dynamically scale jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143456Z" creationid="xccui" creationdate="20190605T121543Z">
