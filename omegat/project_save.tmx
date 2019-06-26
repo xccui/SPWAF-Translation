@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Continue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200637Z" creationid="xccui" creationdate="20190626T200637Z">
+        <seg>// 继续。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004735Z" creationid="xccui" creationdate="20190624T004735Z">
         <seg>// 根据累加器计算并返回结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// compute time for next early firing by rounding watermark to second</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200550Z" creationid="xccui" creationdate="20190626T200550Z">
+        <seg>// 将水位线上取整到秒来计算下一次触发时间</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200413Z" creationid="xccui" creationdate="20190626T200413Z">
         <seg>// 仅为第一个元素注册初始计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// register timer for the window end ctx.registerEventTimeTimer(window.getEnd) firstSeen.update(true)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200624Z" creationid="xccui" creationdate="20190626T200624Z">
+        <seg>// 为窗口结束时间注册计时器 ctx.registerEventTimeTimer(window.getEnd) firstSeen.update(true)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9715,6 +9739,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024707Z" creationid="xccui" creationdate="20190613T024707Z">
         <seg>分发转换会将流中的事件重新组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not evaluate per element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200646Z" creationid="xccui" creationdate="20190626T200646Z">
+        <seg>不会针对每个元素都计算</seg>
       </tuv>
     </tu>
     <tu>
@@ -32577,6 +32609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (!firstSeen.value()) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200415Z" creationid="xccui" creationdate="20190626T200415Z">
+        <seg>if (!firstSeen.value()) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if (key &lt; 0) 0 else r.nextInt(numPartitions)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050644Z" creationid="xccui" creationdate="20190616T050644Z">
@@ -35245,6 +35285,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053818Z" creationid="xccui" creationdate="20190617T053818Z">
         <seg>val stringType: TypeInformation[String] = Types.STRING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val t = ctx.getCurrentWatermark + (1000 - (ctx.getCurrentWatermark % 1000)) ctx.registerEventTimeTimer(t)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200552Z" creationid="xccui" creationdate="20190626T200552Z">
+        <seg>val t = ctx.getCurrentWatermark + (1000 - (ctx.getCurrentWatermark % 1000)) ctx.registerEventTimeTimer(t)</seg>
       </tuv>
     </tu>
     <tu>
