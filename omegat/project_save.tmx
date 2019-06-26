@@ -5488,8 +5488,8 @@
       <tuv lang="EN-US">
         <seg>A trigger can decide to fire based on progress in time- or data-specific conditions, such as element count or certain observed element values.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T181714Z" creationid="xccui" creationdate="20190626T181714Z">
-        <seg>它的触发因素可以是时间，也可以是某些特定的数据条件，例如元素数量或某些观测到的元素值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T181750Z" creationid="xccui" creationdate="20190626T181714Z">
+        <seg>它的触发因素可以是时间，也可以是某些特定的数据条件，如元素数量或某些观测到的元素值。</seg>
       </tuv>
     </tu>
     <tu>
