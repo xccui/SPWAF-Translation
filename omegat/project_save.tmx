@@ -25656,6 +25656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The window operator groups elements based on the returned objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033717Z" creationid="xccui" creationdate="20190626T033717Z">
+        <seg>窗口算子会根据返回的对象对元素进行分组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The window result will not depend on how fast the stream is read or processed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071159Z" creationid="xccui" creationdate="20190619T071135Z">
@@ -31525,6 +31533,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064256Z" creationid="xccui" creationdate="20190621T064256Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>holds the information used to distinguish windows from each other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033853Z" creationid="xccui" creationdate="20190626T033853Z">
+        <seg>因此窗口对象中保存着用于区分窗口的信息。</seg>
       </tuv>
     </tu>
     <tu>
