@@ -21394,8 +21394,8 @@
       <tuv lang="EN-US">
         <seg>Running Your First Flink Application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030140Z" creationid="esouser" creationdate="20190603T143056Z">
-        <seg>首次运行Flink应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T211803Z" creationid="esouser" creationdate="20190603T143056Z">
+        <seg>运行首个Flink应用</seg>
       </tuv>
     </tu>
     <tu>
