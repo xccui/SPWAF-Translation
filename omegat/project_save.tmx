@@ -4758,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A custom trigger may fire several times, computing new or updated results</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185623Z" creationid="xccui" creationdate="20190626T185623Z">
+        <seg>自定义触发器的多次触发机制可用来计算全新的结果或对已有结果进行更新，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A data source can ingest data from a TCP socket, a file, a Kafka topic, or a sensor data interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T152258Z" creationid="xccui" creationdate="20190405T152258Z">
@@ -25356,6 +25364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043504Z" creationid="xccui" creationdate="20190619T043504Z">
         <seg>生成的Maven项目中的pom.xml文件包含了教你如何添加额外依赖的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The possible TriggerResult values enable you to implement sophisticated window‐ ing logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185344Z" creationid="xccui" creationdate="20190626T185344Z">
+        <seg>多样化的TriggerResult返回值可以让你实现复杂的窗口逻辑。</seg>
       </tuv>
     </tu>
     <tu>
