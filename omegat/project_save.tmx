@@ -782,6 +782,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Called for every element that gets added to a window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185959Z" creationid="xccui" creationdate="20190626T185959Z">
+        <seg>// 每当有元素添加到窗口中时都会调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Called when a processing-time timer fires public abstract TriggerResult onProcessingTime( long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190106Z" creationid="xccui" creationdate="20190626T190106Z">
+        <seg>// 在处理时间计时器触发时调用 public abstract TriggerResult onProcessingTime( long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
@@ -22736,6 +22752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T element, long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190004Z" creationid="xccui" creationdate="20190626T190004Z">
+        <seg>T element, long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table API and SQL for Relational Analysis</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152519Z" creationid="esouser" creationdate="20190603T152515Z">
@@ -25116,6 +25140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195616Z" creationid="xccui" creationdate="20190606T195414Z">
         <seg>它的网络模块在传输记录前会将它们在缓冲区中收集起来，因此，记录并非逐个发送的，而是在缓冲区中以批次形式发送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next block of code shows the Trigger API:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185923Z" creationid="xccui" creationdate="20190626T185923Z">
+        <seg>以下代码块展示了Trigger的API：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28124,6 +28156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184354Z" creationid="xccui" creationdate="20190626T184354Z">
         <seg>TriggerResult允许是以下值之一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TriggerResult onElement(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190001Z" creationid="xccui" creationdate="20190626T190001Z">
+        <seg>TriggerResult onElement(</seg>
       </tuv>
     </tu>
     <tu>
@@ -33349,6 +33389,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010449Z" creationid="xccui" creationdate="20190624T010449Z">
         <seg>public abstract class ProcessWindowFunction&lt;IN, OUT, KEY, W extends Window&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract class Trigger&lt;T, W extends Window&gt; implements Serializable {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185925Z" creationid="xccui" creationdate="20190626T185925Z">
+        <seg>public abstract class Trigger&lt;T, W extends Window&gt; implements Serializable {</seg>
       </tuv>
     </tu>
     <tu>
