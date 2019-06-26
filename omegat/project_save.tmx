@@ -12943,6 +12943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the default triggers of the pre‐ viously discussed time windows fire when the processing time or the watermark exceed the timestamp of the window’s end boundary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T182151Z" creationid="xccui" creationdate="20190626T182151Z">
+        <seg>对之前讨论的时间窗口而言，其默认触发器会在处理时间或水位线超过了窗口结束边界的时间戳时触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the following Java class will be identified as a POJO by Flink:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044720Z" creationid="xccui" creationdate="20190617T044720Z">
