@@ -8193,8 +8193,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 8 presents Flink’s most commonly used source and sink connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162402Z" creationid="esouser" creationdate="20190603T162256Z">
-        <seg>第8章介绍Flink中最常用的数据源和数据汇连接器，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T051434Z" creationid="esouser" creationdate="20190603T162256Z">
+        <seg>第8章介绍Flink中最常用的数据源（Data Source）和数据汇（Data Sink）连接器，</seg>
       </tuv>
     </tu>
     <tu>
