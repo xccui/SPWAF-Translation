@@ -17655,6 +17655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should only be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045111Z" creationid="xccui" creationdate="20190626T045111Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It starts the same application with the same configuration on the same cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211715Z" creationid="xccui" creationdate="20190609T211715Z">
@@ -33765,6 +33773,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T155347Z" creationid="xccui" creationdate="20190412T155347Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>used with care.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045146Z" creationid="xccui" creationdate="20190626T045108Z">
+        <seg>因此使用时要格外小心。</seg>
       </tuv>
     </tu>
     <tu>
