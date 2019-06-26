@@ -20120,6 +20120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, the window operator will accu‐ mulate more and more state over time and your application will probably fail at some</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194322Z" creationid="xccui" creationdate="20190626T194322Z">
+        <seg>否则窗口算子的状态会越积越多，最终可能导致你的应用在某个时间出现故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our code exam‐ ples use Scala for conciseness, but the Java API is mostly analogous (exceptions or special cases will be pointed out).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034526Z" creationid="xccui" creationdate="20190612T034526Z">
