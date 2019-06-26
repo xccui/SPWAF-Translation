@@ -12113,8 +12113,8 @@
       <tuv lang="EN-US">
         <seg>Flink guarantees this by periodically writing a consistent checkpoint of the application state to a remote and durable storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154922Z" creationid="xccui" creationdate="20190305T032707Z">
-        <seg>为了实现该特性，Flink会定期将应用状态的一致性检查点写入远程持久化存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T054547Z" creationid="xccui" creationdate="20190305T032707Z">
+        <seg>为了实现该特性，Flink会定期将应用状态的一致性检查点（Checkpoint）写入远程持久化存储。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26098,8 +26098,8 @@
       <tuv lang="EN-US">
         <seg>There are several event log sys‐ tems available as open source software, Apache Kafka being the most popular, or as integrated services offered by cloud computing providers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T211354Z" creationid="esouser" creationdate="20190603T211119Z">
-        <seg>有不少事件日志系统都是开源软件，其中最流行的当属Apache Kafka；也有一些会作为云计算提供商的集成服务出现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055108Z" creationid="esouser" creationdate="20190603T211119Z">
+        <seg>有不少事件日志系统都是作为开源软件存在，其中最流行的当属Apache Kafka；也有部分会作为云计算提供商的集成服务出现。</seg>
       </tuv>
     </tu>
     <tu>
