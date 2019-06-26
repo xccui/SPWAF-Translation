@@ -31105,6 +31105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>different pieces of state as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032948Z" creationid="xccui" creationdate="20190626T032948Z">
+        <seg>窗口包含的不同状态如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>do not concern us right now.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052907Z" creationid="xccui" creationdate="20190612T052907Z">
