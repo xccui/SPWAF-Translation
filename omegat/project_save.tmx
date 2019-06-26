@@ -15879,6 +15879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to clean up all state when a window is deleted, the clear() method of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194446Z" creationid="xccui" creationdate="20190626T194350Z">
+        <seg>为了在删除窗口时彻底清理状态，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to do this efficiently, Flink requires detailed knowledge of the types of data the application processes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063647Z" creationid="xccui" creationdate="20190616T063647Z">
@@ -31273,6 +31281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a trigger needs to remove all custom per-window state and delete all processing-time and event-time timers using the TriggerContext object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194543Z" creationid="xccui" creationdate="20190626T194404Z">
+        <seg>触发器的clear()方法需要删除全部自定义的单个窗口状态并使用TriggerContext对象删除所有处理时间和事件时间计时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a window—when it is created, what information it consists of, and when it is deleted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032507Z" creationid="xccui" creationdate="20190626T032507Z">
@@ -33461,6 +33477,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050632Z" creationid="xccui" creationdate="20190618T050632Z">
         <seg>persons.keyBy("birthday._1") // 以嵌套元组的字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194324Z" creationid="xccui" creationdate="20190626T194324Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
