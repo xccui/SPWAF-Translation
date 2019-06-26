@@ -5584,8 +5584,8 @@
       <tuv lang="EN-US">
         <seg>API, each WindowAssigner has a default trigger that is used unless an explicit trigger</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T024913Z" creationid="xccui" creationdate="20190626T024913Z">
-        <seg>对于没有显式定义触发器的WindowAssigner都会有一个默认的触发器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T025712Z" creationid="xccui" creationdate="20190626T024913Z">
+        <seg>对于没有显式定义触发器的WindowAssigner都会提供一个默认的触发器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15847,6 +15847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following sections, we discuss the lifecycle of windows and introduce the inter‐ faces to define custom window assigners, triggers, and evictors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T030123Z" creationid="xccui" creationdate="20190626T030123Z">
+        <seg>下面几节我们将讨论窗口的生命周期并介绍用于自定义分配器、触发器以及移除器的接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following we present three classes of applications that are commonly implemented using stateful stream processing, 1) event-driven applications, 2) data pipeline applications, and 3) data analytics applications and give examples of real-world applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T153749Z" creationid="xccui" creationdate="20190305T153717Z">
@@ -18577,8 +18585,8 @@
       <tuv lang="EN-US">
         <seg>Note that an explicitly specified trigger overrides the existing trig‐ ger and does not complement it—the window will only be evalu‐ ated based on the trigger that was last defined.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T025707Z" creationid="xccui" creationdate="20190626T025707Z">
-        <seg>需要注意的是，显式指定的触发器会覆盖已有触发器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T025932Z" creationid="xccui" creationdate="20190626T025707Z">
+        <seg>需要注意的是，显式指定的触发器会覆盖已有的触发器而非对其进行补充，这意味着窗口仅会基于最新定义的触发器执行计算。</seg>
       </tuv>
     </tu>
     <tu>
