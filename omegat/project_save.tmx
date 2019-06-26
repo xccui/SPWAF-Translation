@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A trigger can decide to fire based on progress in time- or data-specific conditions, such as element count or certain observed element values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T181714Z" creationid="xccui" creationdate="20190626T181714Z">
+        <seg>它的触发因素可以是时间，也可以是某些特定的数据条件，例如元素数量或某些观测到的元素值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A trigger can define and use custom, per-window and per-key state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T034923Z" creationid="xccui" creationdate="20190626T034923Z">
@@ -27972,6 +27980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T213643Z" creationid="xccui" creationdate="20190625T213643Z">
         <seg>触发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Triggers define when a window is evaluated and its results are emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T181313Z" creationid="xccui" creationdate="20190626T181313Z">
+        <seg>触发器用于定义何时对窗口进行计算并发出结果。</seg>
       </tuv>
     </tu>
     <tu>
