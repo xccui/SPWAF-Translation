@@ -8497,8 +8497,8 @@
       <tuv lang="EN-US">
         <seg>Consequently, the GlobalWindows assigner requires a custom trigger and possibly an evictor to selectively</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044523Z" creationid="xccui" creationdate="20190626T044523Z">
-        <seg>因此，GlobalWindows分配器需要一个自定义的触发器以及一个可选的移除器来有选择地将元素从窗口状态中移除</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044706Z" creationid="xccui" creationdate="20190626T044523Z">
+        <seg>因此，GlobalWindows分配器需要一个自定义的触发器，可能还需要一个移除器来选择性地将元素从窗口状态中删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8507,6 +8507,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T032904Z" creationid="xccui" creationdate="20190607T032902Z">
         <seg>因此，如果一个任务没有从全部输入任务以常规间隔接收新的水位线，就会导致时间相关算子的处理延迟或状态大小激增。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conse‐ quently, GlobalWindows will never be completely cleaned up.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044816Z" creationid="xccui" creationdate="20190626T044806Z">
+        <seg>因此，它永远不会被彻底清除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24040,6 +24048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The end timestamp of GlobalWindows is Long.MAX_VALUE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044811Z" creationid="xccui" creationdate="20190626T044725Z">
+        <seg>GlobalWindows的结束时间戳是Long.MAX_VALUE，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The end-to- end consistency of the application depends on the integration of the chosen stream sinks with Flink’s checkpointing algorithm.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005721Z" creationid="xccui" creationdate="20190613T005721Z">
@@ -29649,6 +29665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When applied on a KeyedStream with an evolving key space, Global Windows will maintain some state for each key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045046Z" creationid="xccui" creationdate="20190626T045046Z">
+        <seg>当把GlobalWindows应用于一个键值空间不断变化的KeyedStream时，它会为每个键值维持一些状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When applied on a windowed stream, ReduceFunction incrementally aggregates the elements that are assigned to a window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225051Z" creationid="xccui" creationdate="20190623T224934Z">
@@ -33181,6 +33205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060056Z">
         <seg>registerProcessingTimeTimer(timestamp: Long): Unit针对当前键值注册一个处理时间计时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>remove elements from the window state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044708Z" creationid="xccui" creationdate="20190626T044708Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
