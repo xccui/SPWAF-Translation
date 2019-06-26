@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Extension of TriggerContext that is given to the Trigger.onMerge() method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193024Z" creationid="xccui" creationdate="20190626T193024Z">
+        <seg>// 用于Trigger.onMerge()方法的TriggerContext扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// IN1: the type of the first input stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042818Z" creationid="xccui" creationdate="20190615T042818Z">
@@ -922,6 +930,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051050Z" creationid="xccui" creationdate="20190618T051050Z">
         <seg>// KEY：键值类型 KeySelector[IN, KEY]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Merges per-window state of the trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193052Z" creationid="xccui" creationdate="20190626T193052Z">
+        <seg>// 合并触发器中的单个窗口状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>// Retrieves a state object that is scoped to the window and the key of the trigger</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192915Z" creationid="xccui" creationdate="20190626T192915Z">
-        <seg>// 获取一个作用域为触发器键值和当前窗口的对象状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192922Z" creationid="xccui" creationdate="20190626T192915Z">
+        <seg>// 获取一个作用域为触发器键值和当前窗口的状态对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035714Z" creationid="xccui" creationdate="20190418T035714Z">
         <seg>99</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;S extends State&gt; S getPartitionedState(StateDescriptor&lt;S, ?&gt; stateDescriptor);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192924Z" creationid="xccui" creationdate="20190626T192924Z">
+        <seg>&lt;S extends State&gt; S getPartitionedState(StateDescriptor&lt;S, ?&gt; stateDescriptor);</seg>
       </tuv>
     </tu>
     <tu>
@@ -33613,6 +33637,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003529Z" creationid="xccui" creationdate="20190624T003529Z">
         <seg>public interface AggregateFunction&lt;IN, ACC, OUT&gt; extends Function, Serializable {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public interface OnMergeContext extends TriggerContext {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193026Z" creationid="xccui" creationdate="20190626T193026Z">
+        <seg>public interface OnMergeContext extends TriggerContext {</seg>
       </tuv>
     </tu>
     <tu>
