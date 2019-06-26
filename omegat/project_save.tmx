@@ -22314,8 +22314,8 @@
       <tuv lang="EN-US">
         <seg>Stream Processing with Apache</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T163334Z" creationid="esouser" creationdate="20190603T142341Z">
-        <seg>基于Apache Flink的流式处理</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050752Z" creationid="esouser" creationdate="20190603T142341Z">
+        <seg>基于Apache Flink的流处理</seg>
       </tuv>
     </tu>
     <tu>
