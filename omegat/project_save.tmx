@@ -6879,6 +6879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As discussed before, elements are assigned to windows by</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T031512Z" creationid="xccui" creationdate="20190626T031512Z">
+        <seg>如前所述，元素会通过WindowAssigner分配给窗口，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As discussed in “A Quick Look at Flink” on page 12, the program generates read events for multiple thermal sensors, converts the temperature of the events from Fahrenheit to Celsius, and computes the average temperature of each sensor every second.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053343Z" creationid="xccui" creationdate="20190611T042330Z">
