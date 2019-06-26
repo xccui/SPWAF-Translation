@@ -12985,8 +12985,8 @@
       <tuv lang="EN-US">
         <seg>For example, you can implement triggering logic to fire when the window receives a certain number of elements, when an ele‐ ment with a specific value is added to the window, or after detecting a pattern on added elements like “two events of the same type within 5 seconds.” A custom trigger can also be used to compute and emit early results from an event-time window, before the watermark reaches the window’s end timestamp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T183807Z" creationid="xccui" creationdate="20190626T183807Z">
-        <seg>举例而言，你可以在触发器中实现以下触发逻辑：窗口接收到一定数量的元素，含有某个特定值的元素加入窗口，或检测到添加的元素满足某种模式（如5秒内出现了两个相同类型的事件）。自定义触发器也可以用来在水位线到达窗口的结束时间戳以前，为事件时间窗口计算并发出早期结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184024Z" creationid="xccui" creationdate="20190626T183807Z">
+        <seg>举例而言，你可以在触发器中实现以下触发逻辑：窗口接收到一定数量的元素，含有某个特定值的元素加入窗口，或检测到添加的元素满足某种模式（如5秒内出现了两个相同类型的事件）。自定义触发器还可以用来在水位线到达窗口的结束时间戳以前，为事件时间窗口计算并发出早期结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26786,8 +26786,8 @@
       <tuv lang="EN-US">
         <seg>This is a common strat‐ egy to produce (incomplete) low-latency results despite using a conservative water‐ marking strategy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T183949Z" creationid="xccui" creationdate="20190626T183949Z">
-        <seg>这是一个在保守的水位线策略下依然可以产生（不完整）的低延迟结果的方式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184214Z" creationid="xccui" creationdate="20190626T183949Z">
+        <seg>这是一个在保守的水位线策略下依然可以产生（非完整的）低延迟结果的常用方法。</seg>
       </tuv>
     </tu>
     <tu>
