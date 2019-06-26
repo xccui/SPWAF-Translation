@@ -29361,6 +29361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a window is deleted, the window operator automatically clears the window content and discards the window object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040254Z" creationid="xccui" creationdate="20190626T040254Z">
+        <seg>当窗口需要删除时，窗口算子会自动清除窗口内容并丢掉窗口对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an application is executed, all of its dependencies must be available to the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035540Z" creationid="xccui" creationdate="20190619T035540Z">
@@ -29709,6 +29717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T044432Z" creationid="xccui" creationdate="20190609T044221Z">
         <seg>数据源能否重置其输入流取决于它的具体实现以及所消费外部系统是否提供相关接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether this happens with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035851Z" creationid="xccui" creationdate="20190626T035851Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -32659,8 +32675,8 @@
       <tuv lang="EN-US">
         <seg>processing-time or event-time semantics depends on the value returned by the Win dowAssigner.isEventTime() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035751Z" creationid="xccui" creationdate="20190626T035751Z">
-        <seg>该时间是</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035849Z" creationid="xccui" creationdate="20190626T035751Z">
+        <seg>该时间是处理时间还是事件时间语义取决于WindowAssigner.isEventTime()方法的返回值。</seg>
       </tuv>
     </tu>
     <tu>
