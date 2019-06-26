@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// emitting the corresponding time window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044217Z" creationid="xccui" creationdate="20190626T044132Z">
+        <seg>// 传出相应的时间窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// enable reading forwarding</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032317Z" creationid="xccui" creationdate="20190622T032317Z">
@@ -8279,6 +8287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collections.singletonList(new TimeWindow(startTime, endTime))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044135Z" creationid="xccui" creationdate="20190626T044135Z">
+        <seg>Collections.singletonList(new TimeWindow(startTime, endTime))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combining events of two streams is a very common requirement in stream process‐ ing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T160725Z" creationid="xccui" creationdate="20190613T160725Z">
@@ -10147,6 +10163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070157Z" creationid="xccui" creationdate="20190619T070157Z">
         <seg>EventTime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EventTimeTrigger.create()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044159Z" creationid="xccui" creationdate="20190626T044159Z">
+        <seg>EventTimeTrigger.create()</seg>
       </tuv>
     </tu>
     <tu>
@@ -31521,6 +31545,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>env: environment.StreamExecutionEnvironment): Trigger[Object, TimeWindow] = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044154Z" creationid="xccui" creationdate="20190626T044154Z">
+        <seg>env: environment.StreamExecutionEnvironment): Trigger[Object, TimeWindow] = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>environment offers more configuration options, such as setting the program parallel‐ ism and enabling fault tolerance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050029Z" creationid="xccui" creationdate="20190612T045857Z">
@@ -32637,6 +32669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051107Z" creationid="xccui" creationdate="20190620T051107Z">
         <seg>override def getCurrentWatermark: Watermark = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def getDefaultTrigger(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044150Z" creationid="xccui" creationdate="20190626T044150Z">
+        <seg>override def getDefaultTrigger(</seg>
       </tuv>
     </tu>
     <tu>
@@ -33777,6 +33817,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val endTime = startTime + windowSize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044106Z" creationid="xccui" creationdate="20190626T044106Z">
+        <seg>val endTime = startTime + windowSize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
@@ -34269,6 +34317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064101Z" creationid="xccui" creationdate="20190615T064101Z">
         <seg>val splitted: SplitStream[(Int, String)] = inputStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val startTime = ts - (ts % windowSize)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044101Z" creationid="xccui" creationdate="20190626T044101Z">
+        <seg>val startTime = ts - (ts % windowSize)</seg>
       </tuv>
     </tu>
     <tu>
