@@ -8697,8 +8697,8 @@
       <tuv lang="EN-US">
         <seg>Configuring Checkpointing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035400Z" creationid="xccui" creationdate="20190225T030042Z">
-        <seg>配置checkpointing</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T213355Z" creationid="xccui" creationdate="20190225T030042Z">
+        <seg>配置检查点</seg>
       </tuv>
     </tu>
     <tu>
