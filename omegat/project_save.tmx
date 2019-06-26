@@ -870,6 +870,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Returns a collection of windows to which the element is assigned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041644Z" creationid="xccui" creationdate="20190626T041644Z">
+        <seg>// 返回元素分配的目标窗口集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Returns the TypeSerializer for the windows of this WindowAssigner public abstract TypeSerializer&lt;W&gt; getWindowSerializer( ExecutionConfig executionConfig);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041816Z" creationid="xccui" creationdate="20190626T041816Z">
+        <seg>// 返回WindowAssigner中窗口的TypeSerializer public abstract TypeSerializer&lt;W&gt; getWindowSerializer( ExecutionConfig executionConfig);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Returns the current event-time watermark</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010748Z" creationid="xccui" creationdate="20190624T010748Z">
@@ -882,6 +898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010733Z" creationid="xccui" creationdate="20190624T010733Z">
         <seg>// 返回当前处理时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Returns the default Trigger of the WindowAssigner public abstract Trigger&lt;T, W&gt; getDefaultTrigger( StreamExecutionEnvironment env);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041742Z" creationid="xccui" creationdate="20190626T041742Z">
+        <seg>// 返回WindowAssigner的默认触发器 public abstract Trigger&lt;T, W&gt; getDefaultTrigger( StreamExecutionEnvironment env);</seg>
       </tuv>
     </tu>
     <tu>
@@ -31777,6 +31801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>implements Serializable {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041558Z" creationid="xccui" creationdate="20190626T041558Z">
+        <seg>implements Serializable {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>import org.apache.flink.streaming.api.scala._</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054850Z" creationid="xccui" creationdate="20190617T054850Z">
@@ -32021,6 +32053,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040854Z" creationid="xccui" creationdate="20190626T040854Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>long timestamp, WindowAssignerContext context);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041651Z" creationid="xccui" creationdate="20190626T041651Z">
+        <seg>long timestamp, WindowAssignerContext context);</seg>
       </tuv>
     </tu>
     <tu>
@@ -32761,6 +32801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>public abstract Collection&lt;W&gt; assignWindows( T element,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041647Z" creationid="xccui" creationdate="20190626T041647Z">
+        <seg>public abstract Collection&lt;W&gt; assignWindows( T element,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public abstract KeyedStateStore globalState();</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010916Z" creationid="xccui" creationdate="20190624T010916Z">
@@ -32797,6 +32845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010449Z" creationid="xccui" creationdate="20190624T010449Z">
         <seg>public abstract class ProcessWindowFunction&lt;IN, OUT, KEY, W extends Window&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract class WindowAssigner&lt;T, W extends Window&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041554Z" creationid="xccui" creationdate="20190626T041554Z">
+        <seg>public abstract class WindowAssigner&lt;T, W extends Window&gt;</seg>
       </tuv>
     </tu>
     <tu>
