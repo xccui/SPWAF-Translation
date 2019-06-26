@@ -5510,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window consists of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033005Z" creationid="xccui" creationdate="20190626T033005Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window function that is applied on a WindowedStream (or AllWindowedStream)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T040059Z" creationid="xccui" creationdate="20190622T035910Z">
@@ -8393,8 +8401,8 @@
       <tuv lang="EN-US">
         <seg>Conse‐ quently, there is no window without at least one element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032733Z" creationid="xccui" creationdate="20190626T032733Z">
-        <seg>因此，每个窗口至少会包含一个元素。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032952Z" creationid="xccui" creationdate="20190626T032733Z">
+        <seg>因此，每个窗口至少会有一个元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25616,6 +25624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The window content holds the elements that have been assigned to the window or the result of the incremental aggregation in case the window operator has a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033304Z" creationid="xccui" creationdate="20190626T033304Z">
+        <seg>窗口内容包含了分配给窗口的元素或窗口算子配置了ReduceFunction或AggregateFunction时增量聚合得到的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The window definition looked a bit different in our first DataStream API example, “Operations on Data Streams” on page 22.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051241Z" creationid="xccui" creationdate="20190623T051241Z">
@@ -29813,6 +29829,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023138Z" creationid="xccui" creationdate="20190225T023138Z">
         <seg>窗口算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033002Z" creationid="xccui" creationdate="20190626T033002Z">
+        <seg>窗口内容</seg>
       </tuv>
     </tu>
     <tu>
