@@ -25696,6 +25696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The window operator deletes a window when the end time of the window, defined by the end timestamp of the window object, is reached.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035514Z" creationid="xccui" creationdate="20190626T035514Z">
+        <seg>窗口算子会在窗口结束时间（由窗口对象中的结束时间戳定义）到达时删除窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The window operator groups elements based on the returned objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033717Z" creationid="xccui" creationdate="20190626T033717Z">
@@ -26746,8 +26754,8 @@
       <tuv lang="EN-US">
         <seg>This state is completely controlled by the trigger and not maintained by the window operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035125Z" creationid="xccui" creationdate="20190626T035125Z">
-        <seg>该状态完全由触发器来控制，而非由窗口算子进行维护。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035220Z" creationid="xccui" creationdate="20190626T035125Z">
+        <seg>该状态并非由窗口算子进行维护，而是完全由触发器来控制。</seg>
       </tuv>
     </tu>
     <tu>
