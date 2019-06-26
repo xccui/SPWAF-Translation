@@ -25498,8 +25498,8 @@
       <tuv lang="EN-US">
         <seg>The second type are ad-hoc queries that aim to provide answers to specific questions and support business-critical decisions, for example a query to collect revenue numbers and spending on radio commercials to evaluate the effectiveness of a marketing cam‐ paign.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T065126Z" creationid="esouser" creationdate="20190603T203150Z">
-        <seg>第二类是即席查询，其主要目的是通过解答特定问题来辅助关键性的商业决策，例如：通过查询收集营收数字和电台广告中的投入，以评估市场营销的有效性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T052856Z" creationid="esouser" creationdate="20190603T203150Z">
+        <seg>第二类是即席查询，其主要目的是通过解答特定问题来辅助关键性的商业决策，例如：通过查询来收集营收数字和电台广告中的投入，以评估市场营销的有效性。</seg>
       </tuv>
     </tu>
     <tu>
