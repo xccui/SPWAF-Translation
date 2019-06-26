@@ -26784,6 +26784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a common strat‐ egy to produce (incomplete) low-latency results despite using a conservative water‐ marking strategy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T183949Z" creationid="xccui" creationdate="20190626T183949Z">
+        <seg>这是一个在保守的水位线策略下依然可以产生（不完整）的低延迟结果的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is also the reason it is not a good idea to override existing timestamps and watermarks in the middle of a streaming application, although this is possible with user-defined functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T041209Z" creationid="xccui" creationdate="20190607T041148Z">
