@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/** A custom window that groups events into 30-second tumbling windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042645Z" creationid="xccui" creationdate="20190626T042645Z">
+        <seg>/** 自定义窗口，用于将事件按照每30秒滚动窗口进行分组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/** Emits a warning if the temperature of a sensor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071241Z" creationid="xccui" creationdate="20190621T071241Z">
@@ -5554,6 +5562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030250Z" creationid="xccui" creationdate="20190225T030250Z">
         <seg>欢迎加入社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A window assigner for tumbling event-time windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042315Z" creationid="xccui" creationdate="20190626T042315Z">
+        <seg>用于滚动事件时间窗口的窗口分配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -10387,6 +10403,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045020Z" creationid="xccui" creationdate="20190625T045020Z">
         <seg>示例6-14，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042257Z" creationid="xccui" creationdate="20190626T042257Z">
+        <seg>示例6-15，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17209,8 +17233,8 @@
       <tuv lang="EN-US">
         <seg>It also needs to provide a default trigger</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042141Z" creationid="xccui" creationdate="20190626T042141Z">
-        <seg>它还需要一个默认触发器，用于未显式指定触发器的情况。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042147Z" creationid="xccui" creationdate="20190626T042141Z">
+        <seg>它还需要一个默认触发器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23828,6 +23852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T035214Z" creationid="xccui" creationdate="20190611T035214Z">
         <seg>本书的示例代码托管在GitHub上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The code in Example 6-15 creates a cus‐ tom assigner for 30-second tumbling event-time windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042251Z" creationid="xccui" creationdate="20190626T042251Z">
+        <seg>示例6-15中的代码为每30秒的滚动事件时间窗口创建了一个自定义分配器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33269,6 +33301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T051432Z" creationid="xccui" creationdate="20190608T051432Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>that is used if no explicit trigger is specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042149Z" creationid="xccui" creationdate="20190626T042149Z">
+        <seg>用于未显式指定触发器的情况。</seg>
       </tuv>
     </tu>
     <tu>
