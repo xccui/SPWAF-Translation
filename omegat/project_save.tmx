@@ -19199,6 +19199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that mergable triggers may only use state primitives that can be automatically merged—ListState, ReduceState, or Aggrega tingState.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195502Z" creationid="xccui" creationdate="20190626T195502Z">
+        <seg>注意，可合并的触发器只能使用那些可以自动合并的状态原语——ListState，ReduceState或AggregatingState。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that shipping records in buffers does imply that Flink’s pro‐ cessing model is based on microbatches.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195737Z" creationid="xccui" creationdate="20190606T195722Z">
@@ -30353,6 +30361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When triggers are merged, all descriptors of custom states must be provided to the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195340Z" creationid="xccui" creationdate="20190626T195318Z">
+        <seg>在合并触发器时，需要把所有自定义状态的描述符传给OnMergeContext对象的mergePartitionedState()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When using a rich function, you can implement two additional methods to the func‐ tion’s lifecycle:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060824Z" creationid="xccui" creationdate="20190618T060824Z">
@@ -32909,6 +32925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210805Z" creationid="esouser" creationdate="20190603T210805Z">
         <seg>ments such as variable or function names, databases, data types, environment variables, statements, and keywords.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mergePartitionedState() method of the OnMergeContext object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195325Z" creationid="xccui" creationdate="20190626T195325Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
