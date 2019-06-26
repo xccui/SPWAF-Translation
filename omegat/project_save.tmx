@@ -6206,6 +6206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An evictor can remove collected elements from the con‐ tents of a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014450Z" creationid="xccui" creationdate="20190626T014450Z">
+        <seg>它可以用来从窗口中删除收集的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example application would be a real-time monitoring dashboard that displays event aggregates as they are received.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031104Z" creationid="xccui" creationdate="20190414T043802Z">
