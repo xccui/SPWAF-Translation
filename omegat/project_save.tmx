@@ -22136,6 +22136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since we are using a simple nonmergable ValueState, the trigger is not mer‐ gable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201301Z" creationid="xccui" creationdate="20190626T201301Z">
+        <seg>由于我们使用了简单的不可合并状态ValueState，所以无法对触发器进行合并。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since you are running a streaming application, it will continue to run until you cancel it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T045509Z" creationid="xccui" creationdate="20190329T045426Z">
