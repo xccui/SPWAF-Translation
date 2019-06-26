@@ -5526,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window operator creates and typically also deletes windows while it processes incoming stream elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T031225Z" creationid="xccui" creationdate="20190626T031225Z">
+        <seg>窗口算子在处理到达的数据流元素时需要新建窗口，并且通常还需要将其删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window operator with a full window function (the circles in each window represent its collected raw input records)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T054032Z" creationid="xccui" creationdate="20190625T054003Z">
@@ -29781,6 +29789,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T205944Z" creationid="xccui" creationdate="20190623T205944Z">
         <seg>窗口函数定义了针对窗口内每一个元素的计算逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window lifecycle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T030130Z" creationid="xccui" creationdate="20190626T030130Z">
+        <seg>窗口的生命周期</seg>
       </tuv>
     </tu>
     <tu>
