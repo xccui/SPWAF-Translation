@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/** A trigger that fires early.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200135Z" creationid="xccui" creationdate="20190626T200135Z">
+        <seg>/** 可提前触发的触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/** Emits a warning if the temperature of a sensor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071241Z" creationid="xccui" creationdate="20190621T071241Z">
@@ -1558,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// firstSeen will be false if not set yet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200329Z" creationid="xccui" creationdate="20190626T200329Z">
+        <seg>// 如果之前没有设置过值firstSeen为false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// forward all readings to the regular output</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024045Z" creationid="xccui" creationdate="20190622T024045Z">
@@ -1810,6 +1826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061937Z" creationid="xccui" creationdate="20190617T061937Z">
         <seg>// 为输出数据类型提供TypeInformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// register initial timer only for first element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200413Z" creationid="xccui" creationdate="20190626T200413Z">
+        <seg>// 仅为第一个元素注册初始计时器</seg>
       </tuv>
     </tu>
     <tu>
@@ -26264,6 +26288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The trigger fires at most every second.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200209Z" creationid="xccui" creationdate="20190626T200209Z">
+        <seg>触发周期不小于一秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The trigger registers a timer when the first event is assigned to a window, 1 second ahead of the current watermark.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195833Z" creationid="xccui" creationdate="20190626T195833Z">
@@ -31825,6 +31857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class OneSecondIntervalTrigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200215Z" creationid="xccui" creationdate="20190626T200215Z">
+        <seg>class OneSecondIntervalTrigger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class PeriodicAssigner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051033Z" creationid="xccui" creationdate="20190620T051033Z">
@@ -31973,6 +32013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023936Z" creationid="xccui" creationdate="20190622T023936Z">
         <seg>ctx: ProcessFunction[SensorReading, SensorReading]#Context, out: Collector[SensorReading]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctx: Trigger.TriggerContext): TriggerResult = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200238Z" creationid="xccui" creationdate="20190626T200238Z">
+        <seg>ctx: Trigger.TriggerContext): TriggerResult = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -32325,6 +32373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031913Z" creationid="xccui" creationdate="20190625T031913Z">
         <seg>extends ProcessWindowFunction[SensorReading, MinMaxTemp, String, TimeWindow] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends Trigger[SensorReading, TimeWindow] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200227Z" creationid="xccui" creationdate="20190626T200227Z">
+        <seg>extends Trigger[SensorReading, TimeWindow] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -33145,6 +33201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[Boolean]("firstSeen", classOf[Boolean]))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200338Z" creationid="xccui" creationdate="20190626T200338Z">
+        <seg>new ValueStateDescriptor[Boolean]("firstSeen", classOf[Boolean]))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new ValueStateDescriptor[Double]("lastTemp", Types.of[Double]))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071345Z" creationid="xccui" creationdate="20190621T071345Z">
@@ -33461,6 +33525,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005617Z" creationid="xccui" creationdate="20190624T005617Z">
         <seg>override def merge(acc1: (String, Double, Int), acc2: (String, Double, Int)) = { (acc1._1, acc1._2 + acc2._2, acc1._3 + acc2._3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def onElement( r: SensorReading, timestamp: Long,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200230Z" creationid="xccui" creationdate="20190626T200230Z">
+        <seg>override def onElement( r: SensorReading, timestamp: Long,</seg>
       </tuv>
     </tu>
     <tu>
@@ -34705,6 +34777,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val firstSeen: ValueState[Boolean] = ctx.getPartitionedState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200332Z" creationid="xccui" creationdate="20190626T200332Z">
+        <seg>val firstSeen: ValueState[Boolean] = ctx.getPartitionedState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val flinkTweets = tweets.filter(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054233Z" creationid="xccui" creationdate="20190618T054233Z">
@@ -35437,6 +35517,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053640Z" creationid="xccui" creationdate="20190623T051438Z">
         <seg>该方法是对window.(TumblingEventTimeWindows.of(size))或window.(TumblingProcessing TimeWindows.of(size))的简写，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>window: TimeWindow,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200233Z" creationid="xccui" creationdate="20190626T200233Z">
+        <seg>window: TimeWindow,</seg>
       </tuv>
     </tu>
     <tu>
