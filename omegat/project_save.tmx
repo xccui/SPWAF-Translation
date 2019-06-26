@@ -6214,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An element can be added to zero, one, or multiple windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041408Z" creationid="xccui" creationdate="20190626T041408Z">
+        <seg>每个元素可以被加到零个、一个或多个窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An embedded execution mode starts Flink applications as a single JVM process which can be used to run and debug Flink jobs within an IDE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T053733Z" creationid="xccui" creationdate="20190328T053510Z">
@@ -23448,6 +23456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The WindowAssigner determines for each arriving element to which windows it is assigned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041002Z" creationid="xccui" creationdate="20190626T041002Z">
+        <seg>WindowAssigner用于决定将到来的元素分配给哪些窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The WindowAssigner returns zero, one, or multiple window objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033551Z" creationid="xccui" creationdate="20190626T033551Z">
@@ -29957,6 +29973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023138Z" creationid="xccui" creationdate="20190225T023138Z">
         <seg>窗口算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window assigners</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040902Z" creationid="xccui" creationdate="20190626T040902Z">
+        <seg>窗口分配器</seg>
       </tuv>
     </tu>
     <tu>
