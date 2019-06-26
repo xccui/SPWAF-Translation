@@ -31185,6 +31185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class ThirtySecondsWindows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042647Z" creationid="xccui" creationdate="20190626T042647Z">
+        <seg>class ThirtySecondsWindows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061912Z" creationid="xccui" creationdate="20190617T061912Z">
@@ -31605,6 +31613,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031913Z" creationid="xccui" creationdate="20190625T031913Z">
         <seg>extends ProcessWindowFunction[SensorReading, MinMaxTemp, String, TimeWindow] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends WindowAssigner[Object, TimeWindow] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042650Z" creationid="xccui" creationdate="20190626T042650Z">
+        <seg>extends WindowAssigner[Object, TimeWindow] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -32541,6 +32557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005610Z" creationid="xccui" creationdate="20190624T005610Z">
         <seg>override def add(in: (String, Double), acc: (String, Double, Int)) = { (in._1, in._2 + acc._2, 1 + acc._3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def assignWindows( o: Object,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042656Z" creationid="xccui" creationdate="20190626T042656Z">
+        <seg>override def assignWindows( o: Object,</seg>
       </tuv>
     </tu>
     <tu>
@@ -33529,6 +33553,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ts: Long,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042700Z" creationid="xccui" creationdate="20190626T042700Z">
+        <seg>ts: Long,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>type information to represent data types and generate specific serializers, deserializ‐ ers, and comparators for every data type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064111Z" creationid="xccui" creationdate="20190616T063841Z">
@@ -34309,6 +34341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031934Z" creationid="xccui" creationdate="20190625T031934Z">
         <seg>val windowEnd = ctx.window.getEnd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val windowSize: Long = 30 * 1000L</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042653Z" creationid="xccui" creationdate="20190626T042653Z">
+        <seg>val windowSize: Long = 30 * 1000L</seg>
       </tuv>
     </tu>
     <tu>
