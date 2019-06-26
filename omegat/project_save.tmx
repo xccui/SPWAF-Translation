@@ -15129,8 +15129,8 @@
       <tuv lang="EN-US">
         <seg>In addition to these features, Flink is a very developer-friendly framework due to its easy-to-use APIs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T053253Z" creationid="xccui" creationdate="20190328T052954Z">
-        <seg>除了上述特性，Flink还有十分易用的API，因此作为框架而言对开发者非常友好。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T064632Z" creationid="xccui" creationdate="20190328T052954Z">
+        <seg>除了上述特性，Flink提供了十分易用的API，因此对开发者而言是一个非常友好的框架。</seg>
       </tuv>
     </tu>
     <tu>
