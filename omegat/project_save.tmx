@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// A context that gives access to the current processing time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041941Z" creationid="xccui" creationdate="20190626T041941Z">
+        <seg>// 用于访问当前处理时间的上下文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// An AggregateFunction to compute the average tempeature per sensor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005524Z" creationid="xccui" creationdate="20190624T005518Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T061011Z" creationid="xccui" creationdate="20190615T061011Z">
         <seg>// IN：拆分流的元素类型 OutputSelector[IN]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Indicates whether this assigner creates event-time windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041916Z" creationid="xccui" creationdate="20190626T041916Z">
+        <seg>// 表明此分配器是否创建基于事件时间的窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152601Z" creationid="esouser" creationdate="20190603T152601Z">
         <seg>欢迎加入社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A WindowAssigner is typed to the type of the incoming elements and the type of the windows to which the elements are assigned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042056Z" creationid="xccui" creationdate="20190626T042056Z">
+        <seg>WindowAssigner的类型由到达元素的类型以及元素分配的目标窗口类型组成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17179,6 +17203,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T164237Z" creationid="xccui" creationdate="20190225T164237Z">
         <seg>此外还简要介绍了如何在本地Flink实例上运行你的第一个流处理应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also needs to provide a default trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042141Z" creationid="xccui" creationdate="20190626T042141Z">
+        <seg>它还需要一个默认触发器，用于未显式指定触发器的情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32833,6 +32865,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>public abstract boolean isEventTime();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041919Z" creationid="xccui" creationdate="20190626T041919Z">
+        <seg>public abstract boolean isEventTime();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public abstract class Context implements Serializable {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010714Z" creationid="xccui" creationdate="20190624T010714Z">
@@ -32869,6 +32909,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010752Z" creationid="xccui" creationdate="20190624T010752Z">
         <seg>public abstract long currentWatermark();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract long getCurrentProcessingTime();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041947Z" creationid="xccui" creationdate="20190626T041947Z">
+        <seg>public abstract long getCurrentProcessingTime();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public abstract static class WindowAssignerContext {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041943Z" creationid="xccui" creationdate="20190626T041943Z">
+        <seg>public abstract static class WindowAssignerContext {</seg>
       </tuv>
     </tu>
     <tu>
