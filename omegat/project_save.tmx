@@ -15103,6 +15103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to the WindowAssigner interface there is also the MergingWindowAssigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045234Z" creationid="xccui" creationdate="20190626T045234Z">
+        <seg>除了WindowAssigner接口外，还有一个继承自它的MergingWindowAssigner接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to the system properties discussed so far, such as failure tolerance, perfor&lt;t0/&gt;‐&lt;t1/&gt; mance, and result accuracy, stream processors also continuously added new opera&lt;t2/&gt;‐&lt;t3/&gt; tional features.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T140909Z" creationid="xccui" creationdate="20190327T135929Z">
@@ -19367,6 +19375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One example for such an assigner is the EventTimeSessionWindows assigner we discussed before, which works by creating a new window for each arriving element and merging overlapping win‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045703Z" creationid="xccui" creationdate="20190626T045703Z">
+        <seg>一个例子就是我们之前讨论过的EventTimeSessionWindows分配器，它需要为每个到来的元素创建一个新的窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of Flink’s most valued and unique features are savepoints.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210433Z" creationid="xccui" creationdate="20190609T210433Z">
@@ -23444,6 +23460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052743Z" creationid="xccui" creationdate="20190613T050021Z">
         <seg>MapFunction的两个类型分别为输入和输出事件类型，可以通过MapFunction接口来指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The MergingWindowAssigner is used for win‐ dow operators that need to merge existing windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045356Z" creationid="xccui" creationdate="20190626T045356Z">
+        <seg>MergingWindowAssigner可用于需要合并已有窗口的窗口算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32101,6 +32125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061952Z" creationid="xccui" creationdate="20190617T050559Z">
         <seg>例如：如果需要通过某个键值进行连接或分组，TypeInformation允许Flink对能否使用某字段作为键值进行语义检测。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>interface that extends WindowAssigner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045237Z" creationid="xccui" creationdate="20190626T045237Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
