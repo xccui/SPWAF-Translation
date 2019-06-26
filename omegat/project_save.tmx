@@ -18441,8 +18441,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, results were still dependent on timing and order of arriving events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T063612Z" creationid="xccui" creationdate="20190605T053311Z">
-        <seg>并且，其处理结果仍然依赖于事件到来的时间和顺序</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T063650Z" creationid="xccui" creationdate="20190605T053311Z">
+        <seg>并且，其处理结果仍依赖于事件到来的时间和顺序</seg>
       </tuv>
     </tu>
     <tu>
