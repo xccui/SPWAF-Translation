@@ -798,6 +798,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Called when an event-time timer fires</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190125Z" creationid="xccui" creationdate="20190626T190125Z">
+        <seg>// 在事件时间计时器触发时调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Called when several windows have been merged into one window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190218Z" creationid="xccui" creationdate="20190626T190218Z">
+        <seg>// 当多个窗口合并为一个窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
@@ -958,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Returns true if this trigger supports merging of trigger state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190151Z" creationid="xccui" creationdate="20190626T190151Z">
+        <seg>// 如果触发器支持合并触发器状态则返回true</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Scala object that defines the DataStream program in the main() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
@@ -1082,6 +1106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050418Z" creationid="xccui" creationdate="20190615T050418Z">
         <seg>// 或者是接通两个已经按键值分好区的数据流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// and the state of the triggers needs to be merged</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190949Z" creationid="xccui" creationdate="20190626T190949Z">
+        <seg>// 且需要合并触发器状态时调用</seg>
       </tuv>
     </tu>
     <tu>
@@ -32545,6 +32577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190130Z" creationid="xccui" creationdate="20190626T190130Z">
+        <seg>long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>long timestamp, WindowAssignerContext context);</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041651Z" creationid="xccui" creationdate="20190626T041651Z">
@@ -33361,6 +33401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>public abstract TriggerResult onEventTime(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190127Z" creationid="xccui" creationdate="20190626T190127Z">
+        <seg>public abstract TriggerResult onEventTime(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public abstract W window();</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010724Z" creationid="xccui" creationdate="20190624T010724Z">
@@ -33437,6 +33485,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041943Z" creationid="xccui" creationdate="20190626T041943Z">
         <seg>public abstract static class WindowAssignerContext {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public boolean canMerge();</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190153Z" creationid="xccui" creationdate="20190626T190153Z">
+        <seg>public boolean canMerge();</seg>
       </tuv>
     </tu>
     <tu>
