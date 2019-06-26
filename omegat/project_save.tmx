@@ -22226,8 +22226,8 @@
       <tuv lang="EN-US">
         <seg>Stateful stream processing is an application design pattern for processing unbounded streams of events and is applicable to many different use cases in the IT infrastructure of a company.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T204846Z" creationid="esouser" creationdate="20190603T204846Z">
-        <seg>作为一类面向无限事件流的应用设计模式，状态化流处理可用于公司IT基础设施中的很多用例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T052935Z" creationid="esouser" creationdate="20190603T204846Z">
+        <seg>作为一类面向无限事件流的应用设计模式，状态化流处理适用于公司IT基础设施中的很多用例。</seg>
       </tuv>
     </tu>
     <tu>
