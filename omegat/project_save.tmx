@@ -13423,6 +13423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, a trigger must clear all of its state in the Trigger.clear() method to prevent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040852Z" creationid="xccui" creationdate="20190626T040750Z">
+        <seg>所以说，为了避免状态泄露，触发器需要在Trigger.clear()方法中清除自身所有状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, a typical application consists of multiple states that are distributed across multiple operator tasks that can run on different TaskManager processes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214735Z" creationid="xccui" creationdate="20190609T214705Z">
@@ -31973,6 +31981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071341Z" creationid="xccui" creationdate="20190621T071341Z">
         <seg>lazy val lastTemp: ValueState[Double] = getRuntimeContext.getState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>leaking state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040854Z" creationid="xccui" creationdate="20190626T040854Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
