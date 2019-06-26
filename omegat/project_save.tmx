@@ -10791,6 +10791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 6-17 shows the Evictor interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201639Z" creationid="xccui" creationdate="20190626T201639Z">
+        <seg>示例6-17中展示了Evictor接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 6-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044608Z" creationid="xccui" creationdate="20190620T044608Z">
@@ -23754,8 +23762,8 @@
       <tuv lang="EN-US">
         <seg>The Evictor is an optional component in Flink’s windowing mechanism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201345Z" creationid="xccui" creationdate="20190626T201345Z">
-        <seg>移除器是Flink窗口机制中的一个可选组件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201644Z" creationid="xccui" creationdate="20190626T201345Z">
+        <seg>Evictor是Flink窗口机制中的一个可选组件。</seg>
       </tuv>
     </tu>
     <tu>
