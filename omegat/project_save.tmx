@@ -14567,6 +14567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195137Z" creationid="xccui" creationdate="20190626T195137Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a modified application is started from a savepoint, a state in the savepoint can only be mapped to the application if it contains an operator with a corresponding identi‐ fier and state name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T220244Z" creationid="xccui" creationdate="20190609T220228Z">
@@ -16699,6 +16707,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T211549Z" creationid="esouser" creationdate="20190603T211452Z">
         <seg>在该架构下，事件日志系统可以持久化输入事件并以确定顺序将其重放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, any custom states of the triggers also need to be merged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194925Z" creationid="xccui" creationdate="20190626T194925Z">
+        <seg>在该情况下所有触发器的自定义状态同样需要合并。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31385,6 +31401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and the onMerge() method needs to implement the logic to perform the merge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195055Z" creationid="xccui" creationdate="20190626T195023Z">
+        <seg>而相应地需要在onMerge()方法中实现合并逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and video from O’Reilly and 200+ other publishers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210833Z" creationid="esouser" creationdate="20190603T210833Z">
@@ -31549,6 +31573,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061314Z" creationid="xccui" creationdate="20190623T061314Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>canMerge() declares that a trigger supports merging</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194948Z" creationid="xccui" creationdate="20190626T194948Z">
+        <seg>canMerge()声明了某个触发器支持合并，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34301,6 +34333,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020901Z" creationid="xccui" creationdate="20190613T020901Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>trigger does not support merging it cannot be used in combination with a Merging WindowAssigner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195200Z" creationid="xccui" creationdate="20190626T195135Z">
+        <seg>如果一个触发器不支持合并，则无法与MergingWindowAssigner组合使用。</seg>
       </tuv>
     </tu>
     <tu>
