@@ -8495,6 +8495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, the GlobalWindows assigner requires a custom trigger and possibly an evictor to selectively</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044523Z" creationid="xccui" creationdate="20190626T044523Z">
+        <seg>因此，GlobalWindows分配器需要一个自定义的触发器以及一个可选的移除器来有选择地将元素从窗口状态中移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, the processing latencies and state size of time-based opera‐ tors can significantly increase if a task does not receive new watermarks from all input tasks at regular intervals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T032904Z" creationid="xccui" creationdate="20190607T032902Z">
@@ -17711,6 +17719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its default trigger is the NeverTrigger that, as the name suggests, never fires.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044404Z" creationid="xccui" creationdate="20190626T044404Z">
+        <seg>它默认的触发器是NeverTrigger，顾名思义，该触发器永远不会触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its goal is to introduce the funda&lt;t0/&gt;‐&lt;t1/&gt; mental concepts of stream processing and discuss the requirements of stream pro&lt;t2/&gt;‐&lt;t3/&gt; cessing frameworks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T053802Z" creationid="xccui" creationdate="20190329T053732Z">
@@ -23228,6 +23244,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043037Z" creationid="xccui" creationdate="20190619T043037Z">
         <seg>我们在第76页"创建Flink Maven项目"中介绍了利用Flink Maven模板生成Maven项目，其中就加入了生成包含全部所需依赖的胖JAR的配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GlobalWindows Assigner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044253Z" creationid="xccui" creationdate="20190626T044253Z">
+        <seg>GlobalWindows分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GlobalWindows assigner maps all elements to the same global window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044319Z" creationid="xccui" creationdate="20190626T044319Z">
+        <seg>GlobalWindows分配器会将所有元素映射到同一个全局窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31593,6 +31625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>executionConfig: ExecutionConfig): TypeSerializer[TimeWindow] = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044229Z" creationid="xccui" creationdate="20190626T044229Z">
+        <seg>executionConfig: ExecutionConfig): TypeSerializer[TimeWindow] = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>exists, the method has no effect.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060540Z">
@@ -32425,6 +32465,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new TimeWindow.Serializer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044232Z" creationid="xccui" creationdate="20190626T044232Z">
+        <seg>new TimeWindow.Serializer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new ValueStateDescriptor[Boolean]("filterSwitch", Types.of[Boolean]))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032102Z" creationid="xccui" creationdate="20190622T032102Z">
@@ -32693,6 +32741,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005613Z" creationid="xccui" creationdate="20190624T005613Z">
         <seg>override def getResult(acc: (String, Double, Int)) = { (acc._1, acc._2 / acc._3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def getWindowSerializer(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044223Z" creationid="xccui" creationdate="20190626T044223Z">
+        <seg>override def getWindowSerializer(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def isEventTime = true</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044236Z" creationid="xccui" creationdate="20190626T044236Z">
+        <seg>override def isEventTime = true</seg>
       </tuv>
     </tu>
     <tu>
