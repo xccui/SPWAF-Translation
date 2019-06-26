@@ -6824,8 +6824,8 @@
       <tuv lang="EN-US">
         <seg>Applications can also be individually operated and scaled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055758Z" creationid="esouser" creationdate="20190603T214115Z">
-        <seg>同时，全部应用都支持独立操作和扩缩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055838Z" creationid="esouser" creationdate="20190603T214115Z">
+        <seg>同时，所有应用都支持独立操作和扩缩容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10097,8 +10097,8 @@
       <tuv lang="EN-US">
         <seg>Event-driven applications offer several benefits compared to transactional applica‐ tions or microservices.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T214201Z" creationid="esouser" creationdate="20190603T214152Z">
-        <seg>和事务型应用和微服务架构相比，事件驱动型应用有很多优势。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055851Z" creationid="esouser" creationdate="20190603T214152Z">
+        <seg>与事务型应用和微服务架构相比，事件驱动型应用有很多优势。</seg>
       </tuv>
     </tu>
     <tu>
