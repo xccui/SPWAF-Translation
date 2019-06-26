@@ -26432,6 +26432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are two aspects of triggers that require special care: cleaning up state and merging triggers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193859Z" creationid="xccui" creationdate="20190626T193859Z">
+        <seg>但有两类触发器需要格外小心：状态清理触发器及合并触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are two types of functions that can be applied on a window:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210034Z" creationid="xccui" creationdate="20190623T210034Z">
@@ -30301,6 +30309,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060824Z" creationid="xccui" creationdate="20190618T060824Z">
         <seg>在使用富函数的时候，你可以针对函数生命周期实现两个额外的方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using per-window state in a trigger, you need to ensure that this state is prop‐ erly deleted when the window is deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194100Z" creationid="xccui" creationdate="20190626T194100Z">
+        <seg>当在触发器中使用了单个窗口状态时，你需要保证它们会随着窗口删除而正确删除。</seg>
       </tuv>
     </tu>
     <tu>
