@@ -18191,6 +18191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merging of windows is discussed in more detail in the next section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050333Z" creationid="xccui" creationdate="20190626T050333Z">
+        <seg>有关窗口合并的内容会在下一节详细讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metric System</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030134Z" creationid="xccui" creationdate="20190225T030134Z">
