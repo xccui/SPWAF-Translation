@@ -12865,8 +12865,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s Checkpointing Algorithm</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154858Z" creationid="xccui" creationdate="20190225T022209Z">
-        <seg>Flink的检查点算法</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T212839Z" creationid="xccui" creationdate="20190225T022209Z">
+        <seg>Flink检查点算法</seg>
       </tuv>
     </tu>
     <tu>
