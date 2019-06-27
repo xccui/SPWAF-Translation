@@ -29458,8 +29458,8 @@
       <tuv lang="EN-US">
         <seg>We describe the classes of applications as distinct patterns to emphasize the versatility of stateful stream processing, but most real-world applications share the properties of more than one class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055333Z" creationid="esouser" creationdate="20190603T212509Z">
-        <seg>为了突出状态化流处理的不同用途，我们假设了上述这些模式单一的应用类别，但大多数真实应用都会同时具有多种类别的特性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T033527Z" creationid="esouser" creationdate="20190603T212509Z">
+        <seg>为了突出状态化流处理的用途之多，我们将不同的应用类别区分地很明显，而事实上大多数真实应用都会同时具有多种类别的特性。</seg>
       </tuv>
     </tu>
     <tu>
