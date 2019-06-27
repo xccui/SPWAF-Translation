@@ -20810,8 +20810,8 @@
       <tuv lang="EN-US">
         <seg>Processing-time windows introduce the lowest latency possi‐ ble.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T030804Z" creationid="xccui" creationdate="20190606T030730Z">
-        <seg>例如：处理时间窗口能够将延迟降至最低。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T180444Z" creationid="xccui" creationdate="20190606T030730Z">
+        <seg>处理时间窗口能够将延迟降至最低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26418,8 +26418,8 @@
       <tuv lang="EN-US">
         <seg>The truth is, processing time can indeed be useful in some cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T030725Z" creationid="xccui" creationdate="20190606T030701Z">
-        <seg>事实上，处理时间有其特定的适用场景，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T180456Z" creationid="xccui" creationdate="20190606T030701Z">
+        <seg>事实上，处理时间的确有其特定的适用场景。</seg>
       </tuv>
     </tu>
     <tu>
