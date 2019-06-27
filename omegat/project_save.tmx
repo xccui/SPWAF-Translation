@@ -16681,8 +16681,8 @@
       <tuv lang="EN-US">
         <seg>In the mobile gaming example, it is practically impossi‐ ble to know how long a user might remain disconnected; they could be going through a tunnel, boarding a plane, or never playing again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T161933Z" creationid="xccui" creationdate="20190606T025740Z">
-        <seg>以手游场景为例，现实中根本无法得知用户会离线多久，他们可能正在过隧道，可能正在上飞机，也可能直接退坑不玩了。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T161937Z" creationid="xccui" creationdate="20190606T025740Z">
+        <seg>以手游场景为例，现实中根本无法得知用户会离线多久。他们可能正在过隧道，可能正在上飞机，也可能直接退坑不玩了。</seg>
       </tuv>
     </tu>
     <tu>
