@@ -18441,8 +18441,8 @@
       <tuv lang="EN-US">
         <seg>Let’s assume you want to compute</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014646Z" creationid="xccui" creationdate="20190606T014646Z">
-        <seg>假设你想持续计算结果，比如每分钟计算一次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T153428Z" creationid="xccui" creationdate="20190606T014646Z">
+        <seg>假如你想持续计算结果，比如每分钟计算一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30019,8 +30019,8 @@
       <tuv lang="EN-US">
         <seg>What would one minute really mean in the context of our streaming application?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014710Z" creationid="xccui" creationdate="20190606T014710Z">
-        <seg>那么一分钟在流式应用的环境下到底是什么含义？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T153519Z" creationid="xccui" creationdate="20190606T014710Z">
+        <seg>那么一分钟在流式应用环境中的含义到底是什么？</seg>
       </tuv>
     </tu>
     <tu>
