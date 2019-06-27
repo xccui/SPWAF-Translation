@@ -6848,8 +6848,8 @@
       <tuv lang="EN-US">
         <seg>Another improvement was the dissolu‐ tion of the latency/throughput tradeoff.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053531Z" creationid="xccui" creationdate="20190605T053453Z">
-        <seg>它的另一项改进是消除了延迟和吞吐的代价权衡。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T040500Z" creationid="xccui" creationdate="20190605T053453Z">
+        <seg>它的另一项改进是消除了延迟和吞吐间必要的代价权衡。</seg>
       </tuv>
     </tu>
     <tu>
