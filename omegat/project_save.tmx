@@ -19641,8 +19641,8 @@
       <tuv lang="EN-US">
         <seg>On the other hand, if watermarks are too relaxed, you have high confidence but you might unnecessarily increase processing latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025714Z" creationid="xccui" creationdate="20190606T025703Z">
-        <seg>反之，如果水位线过于宽松，虽然可信度得到了保证，但可能会无谓地增加处理延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T161536Z" creationid="xccui" creationdate="20190606T025703Z">
+        <seg>反之，如果水位线过于宽松，虽然可信度得以保证，但可能会无谓地增加处理延迟。</seg>
       </tuv>
     </tu>
     <tu>
