@@ -12975,6 +12975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s DataStream API features two built-in operators to join streams with a temporal condition: the interval join and the window join.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210453Z" creationid="xccui" creationdate="20190627T210453Z">
+        <seg>Flink的DataStream API中内置有两个算子可以根据时间条件对数据流进行Join：基于间隔的Join和基于窗口的Join。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s DataStream API is available for Java and Scala.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015102Z" creationid="xccui" creationdate="20190611T014730Z">
