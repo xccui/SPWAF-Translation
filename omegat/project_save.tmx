@@ -7433,8 +7433,8 @@
       <tuv lang="EN-US">
         <seg>As the name suggests, a dataflow program describes how data flows between opera‐ tions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224746Z" creationid="xccui" creationdate="20190605T224746Z">
-        <seg>顾名思义，Dataflow程序描述了数据如何在操作之间流动。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043133Z" creationid="xccui" creationdate="20190605T224746Z">
+        <seg>顾名思义，Dataflow程序描述了数据如何在不同操作之间流动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7825,8 +7825,8 @@
       <tuv lang="EN-US">
         <seg>Before we delve into the fundamentals of stream processing, let’s look at the back‐ ground on dataflow programming and the terminology we will use throughout this book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224735Z" creationid="xccui" creationdate="20190605T224735Z">
-        <seg>在深入研究流处理的基础知识之前，我们需要先介绍Dataflow编程的必要背景并建立起贯穿整书的术语体系。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043053Z" creationid="xccui" creationdate="20190605T224735Z">
+        <seg>在深入探索流处理的基础知识前，我们需要先介绍Dataflow编程的必要背景，并建立起贯穿整书的术语体系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29698,8 +29698,8 @@
       <tuv lang="EN-US">
         <seg>We hope that after reading this chapter, you will be able to evaluate the features of modern stream processing systems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224722Z" creationid="xccui" creationdate="20190605T224722Z">
-        <seg>希望阅读过后，你能对当下不同的流处理系统进行功能评估。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T042948Z" creationid="xccui" creationdate="20190605T224722Z">
+        <seg>希望阅读过后，你能对时下不同流处理系统的功能进行评估。</seg>
       </tuv>
     </tu>
     <tu>
