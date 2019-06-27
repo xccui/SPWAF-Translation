@@ -16817,8 +16817,8 @@
       <tuv lang="EN-US">
         <seg>In the worst case, you will locate the event more than once.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T042801Z" creationid="xccui" creationdate="20190416T042615Z">
-        <seg>即使在最坏情况下，也无非多几次定位到该事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193329Z" creationid="xccui" creationdate="20190416T042615Z">
+        <seg>它最坏的情况也无非就是多几次定位到目标事件。</seg>
       </tuv>
     </tu>
     <tu>
