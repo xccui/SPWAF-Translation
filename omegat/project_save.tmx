@@ -10663,6 +10663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evictors are often applied on a GlobalWindow for partial cleaning of the window— without purging the complete window state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T204119Z" creationid="xccui" creationdate="20190627T204119Z">
+        <seg>移除器常用于GlobalWindow，它只会清理部分窗口内容而不会完全清除整个窗口状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evictors iterate over a list of elements in a window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203535Z" creationid="xccui" creationdate="20190627T203535Z">
@@ -27042,8 +27050,8 @@
       <tuv lang="EN-US">
         <seg>They can only be applied if the window collects all added events and does not</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203825Z" creationid="xccui" creationdate="20190627T203825Z">
-        <seg>该操作的应用前提是窗口能够取得全部已加入的事件，且没有对窗口内容使用ReduceFunction或AggregateFunction进行增量聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203833Z" creationid="xccui" creationdate="20190627T203825Z">
+        <seg>该操作的应用前提是窗口能够取得全部已加入的事件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31737,6 +31745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aggregate the window content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203840Z" creationid="xccui" creationdate="20190627T203840Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>always add the following import statement to your Scala applica‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054830Z" creationid="xccui" creationdate="20190617T054830Z">
@@ -31813,6 +31829,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T032948Z" creationid="xccui" creationdate="20190418T032948Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>apply a ReduceFunction or AggregateFunction to incrementally</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203838Z" creationid="xccui" creationdate="20190627T203838Z">
+        <seg>且没有对窗口内容使用ReduceFunction或AggregateFunction进行增量聚合。</seg>
       </tuv>
     </tu>
     <tu>
