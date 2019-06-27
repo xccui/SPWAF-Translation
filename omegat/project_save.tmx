@@ -16329,8 +16329,8 @@
       <tuv lang="EN-US">
         <seg>In streaming systems you usually want to ensure that your system can handle the maximum expected rate of events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T205745Z" creationid="xccui" creationdate="20190401T203251Z">
-        <seg>在流处理系统中，你通常希望系统有能力应对事件到来的最大期望速率。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052415Z" creationid="xccui" creationdate="20190401T203251Z">
+        <seg>在流处理系统中，你通常希望系统有能力应对以最大期望速率到来的事件。</seg>
       </tuv>
     </tu>
     <tu>
