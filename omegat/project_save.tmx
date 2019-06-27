@@ -17529,8 +17529,8 @@
       <tuv lang="EN-US">
         <seg>Instead, it is crucial that the stream pro‐ cessing system provide some mechanism to deal with events that might arrive after the watermark.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T030441Z" creationid="xccui" creationdate="20190606T030316Z">
-        <seg>而流处理系统至关重要的一点是能提供一些机制来处理那些可能晚于水位线的落后事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T162223Z" creationid="xccui" creationdate="20190606T030316Z">
+        <seg>而流处理系统很关键的一点是能提供某些机制来处理那些可能晚于水位线的落后事件。</seg>
       </tuv>
     </tu>
     <tu>
