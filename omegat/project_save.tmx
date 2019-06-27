@@ -28114,8 +28114,8 @@
       <tuv lang="EN-US">
         <seg>Timestamps usually exist inside the event data before they enter the processing pipeline (e.g., the event creation time).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155854Z" creationid="xccui" creationdate="20190606T024140Z">
-        <seg>这些时间戳通常在事件数据进入流处理管道之前就存在（例如：事件的创建时间）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155915Z" creationid="xccui" creationdate="20190606T024140Z">
+        <seg>这些时间戳通常在事件数据进入流处理管道之前就存在（例如事件的创建时间）。</seg>
       </tuv>
     </tu>
     <tu>
