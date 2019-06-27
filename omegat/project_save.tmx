@@ -6880,8 +6880,8 @@
       <tuv lang="EN-US">
         <seg>Another way to achieve equivalent functionality is using record acknowledgments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034729Z" creationid="xccui" creationdate="20190606T034729Z">
-        <seg>另一个实现同样功能的途径是启用记录确认。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193821Z" creationid="xccui" creationdate="20190606T034729Z">
+        <seg>还有一个实现同样功能的途径是启用记录确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27490,8 +27490,8 @@
       <tuv lang="EN-US">
         <seg>This method stores every event in a buffer until its processing has been acknowledged by all tasks in the pipeline, at which point the event can be discarded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045558Z" creationid="xccui" creationdate="20190416T043634Z">
-        <seg>该方法会将所有事件存在缓冲中，直到处理管道中所有任务都确认某个事件已经处理完毕才会将它丢弃。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193901Z" creationid="xccui" creationdate="20190416T043634Z">
+        <seg>该方法会将所有事件存在缓冲区中，直到处理管道中所有任务都确认某个事件已经处理完毕才会将事件丢弃。</seg>
       </tuv>
     </tu>
     <tu>
