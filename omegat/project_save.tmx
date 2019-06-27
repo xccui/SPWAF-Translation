@@ -9737,8 +9737,8 @@
       <tuv lang="EN-US">
         <seg>Detailed and customizable collection of system and application metrics to iden‐ tify and react to problems ahead of time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T121703Z" creationid="xccui" creationdate="20190605T121631Z">
-        <seg>详细、可自由定制的系统及应用指标集合，用于提前定位和响应问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T040621Z" creationid="xccui" creationdate="20190605T121631Z">
+        <seg>提供了详细、可自由定制的系统及应用指标集合，用于提前定位和响应问题。</seg>
       </tuv>
     </tu>
     <tu>
