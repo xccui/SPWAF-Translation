@@ -23154,8 +23154,8 @@
       <tuv lang="EN-US">
         <seg>Take, for example, a rolling aggregation operator that outputs the current sum of all the events it has seen so far.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031517Z" creationid="xccui" creationdate="20190606T031517Z">
-        <seg>以某个滚动聚合算子为例，它会输出至今所有看到的事件之和。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181616Z" creationid="xccui" creationdate="20190606T031517Z">
+        <seg>以某个滚动聚合算子为例，假设它会输出至今为止所见到的全部事件之和。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25610,8 +25610,8 @@
       <tuv lang="EN-US">
         <seg>The operator keeps the current value of the sum as its internal state and updates it every time it receives a new event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T052510Z" creationid="xccui" creationdate="20190414T052338Z">
-        <seg>该算子将当前的累加值存为内部状态，并在每次收到新事件时更新它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181721Z" creationid="xccui" creationdate="20190414T052338Z">
+        <seg>该算子以内部状态形式存储当前的累加值，并会在每次收到新事件时对其进行更新。</seg>
       </tuv>
     </tu>
     <tu>
