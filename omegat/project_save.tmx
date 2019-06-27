@@ -15009,8 +15009,8 @@
       <tuv lang="EN-US">
         <seg>If the system continues to receive data at a higher rate than it can handle, buf‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234746Z" creationid="xccui" creationdate="20190605T234746Z">
-        <seg>如果系统持续以难以应对的高速率接收数据，缓冲区可能会用尽，继而可能导致数据丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053513Z" creationid="xccui" creationdate="20190605T234746Z">
+        <seg>如果系统持续以力不能及的高速率接收数据，缓冲区可能会用尽，继而可能导致数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18593,8 +18593,8 @@
       <tuv lang="EN-US">
         <seg>Many people show up at the same time and have to wait in line.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234727Z" creationid="xccui" creationdate="20190605T234727Z">
-        <seg>突然间涌入大量顾客，点单的人排起了长队。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053206Z" creationid="xccui" creationdate="20190605T234727Z">
+        <seg>店内突然间涌入大量顾客，点单的人排起了长队。</seg>
       </tuv>
     </tu>
     <tu>
