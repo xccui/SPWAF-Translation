@@ -9641,8 +9641,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the business logic, an event-driven application can trigger actions such as sending an alert or an email or write events to an outgoing event stream to be consumed by another event-driven application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T213520Z" creationid="esouser" creationdate="20190603T213520Z">
-        <seg>根据业务逻辑的不同，此类应用可能触发告警或发送电子邮件之类的操作，也支持将事件写入输出流以供其他同类应用消费使用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T033752Z" creationid="esouser" creationdate="20190603T213520Z">
+        <seg>根据业务逻辑的不同，此类应用可支持触发警报或发送电子邮件之类的操作，也可支持将事件写入输出流以供其他同类应用消费使用。</seg>
       </tuv>
     </tu>
     <tu>
