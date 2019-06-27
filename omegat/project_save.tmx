@@ -22274,8 +22274,8 @@
       <tuv lang="EN-US">
         <seg>So far, you have seen how stream processing addresses some of the limitations of tra‐ ditional batch processing and how it enables new applications and architectures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T062433Z" creationid="xccui" creationdate="20190605T224637Z">
-        <seg>至此，你不但已经见到过流式应用如何突破传统批处理的一些局限以及它如何支持新的应用和架构，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T195929Z" creationid="xccui" creationdate="20190605T224637Z">
+        <seg>至此，你不但已经见过流式应用是如何突破传统批处理的一些局限以及它如何支持新的应用和架构，</seg>
       </tuv>
     </tu>
     <tu>
