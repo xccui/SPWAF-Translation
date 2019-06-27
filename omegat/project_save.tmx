@@ -5008,8 +5008,8 @@
       <tuv lang="EN-US">
         <seg>A data source can ingest data from a TCP socket, a file, a Kafka topic, or a sensor data interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T152258Z" creationid="xccui" creationdate="20190405T152258Z">
-        <seg>数据源可以从TCP套接字、文件、某Kafka主题、传感数据接口接收数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060131Z" creationid="xccui" creationdate="20190405T152258Z">
+        <seg>数据源可以从TCP套接字、文件、Kafka主题或传感器数据接口中获取数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9265,8 +9265,8 @@
       <tuv lang="EN-US">
         <seg>Data egress is the operation of producing output in a form suitable for consumption by external sys‐ tems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T010152Z" creationid="xccui" creationdate="20190606T010152Z">
-        <seg>数据输出操作将数据以适合外部系统使用的格式输出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060157Z" creationid="xccui" creationdate="20190606T010152Z">
+        <seg>数据输出操作是将数据以适合外部系统使用的格式输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9329,8 +9329,8 @@
       <tuv lang="EN-US">
         <seg>Data ingestion is the operation of fetching raw data from exter‐ nal sources and converting it into a format suitable for processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T005219Z" creationid="xccui" creationdate="20190606T005219Z">
-        <seg>数据接入操作从外部数据源获取原始数据并将其转换成适合后续处理的格式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060212Z" creationid="xccui" creationdate="20190606T005219Z">
+        <seg>数据接入操作是从外部数据源获取原始数据并将其转换成适合后续处理的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20194,8 +20194,8 @@
       <tuv lang="EN-US">
         <seg>Operators that perform data egress are called data sinks and examples include files, databases, message queues, and monitoring interfaces.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T010159Z" creationid="xccui" creationdate="20190606T010159Z">
-        <seg>负责数据输出的算子称为数据汇（data sink），其写入的目标包括文件、数据库、消息队列、监控接口等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060316Z" creationid="xccui" creationdate="20190606T010159Z">
+        <seg>负责数据输出的算子称为数据汇（data sink），其写入的目标可以是文件、数据库、消息队列以及监控接口等。</seg>
       </tuv>
     </tu>
     <tu>
