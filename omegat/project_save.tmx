@@ -13873,8 +13873,8 @@
       <tuv lang="EN-US">
         <seg>Handling delayed events is only one of the challenges that you can overcome with event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T151803Z" creationid="xccui" creationdate="20190412T151554Z">
-        <seg>使用事件时间唯一要克服的挑战是如何处理延迟事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160156Z" creationid="xccui" creationdate="20190412T151554Z">
+        <seg>使用事件时间要克服的挑战之一是如何处理延迟事件。</seg>
       </tuv>
     </tu>
     <tu>
