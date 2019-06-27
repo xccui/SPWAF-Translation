@@ -10393,8 +10393,8 @@
       <tuv lang="EN-US">
         <seg>Event-driven applications offer several benefits compared to transactional applica‐ tions or microservices.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055851Z" creationid="esouser" creationdate="20190603T214152Z">
-        <seg>与事务型应用和微服务架构相比，事件驱动型应用有很多优势。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T034025Z" creationid="esouser" creationdate="20190603T214152Z">
+        <seg>与事务型应用和微服务架构相比，事件驱动型应用有很多优势：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18513,8 +18513,8 @@
       <tuv lang="EN-US">
         <seg>Local state access provides very good performance compared to reading and writing queries against remote datastores.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T060222Z" creationid="xccui" creationdate="20190604T023347Z">
-        <seg>访问本地状态的性能要比读写远程数据存储系统更好。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T034032Z" creationid="xccui" creationdate="20190604T023347Z">
+        <seg>访问本地状态的性能要比读写远程数据存储系统更好；</seg>
       </tuv>
     </tu>
     <tu>
@@ -21474,8 +21474,8 @@
       <tuv lang="EN-US">
         <seg>Scaling and fault tolerance are handled by the stream processor, and by leveraging an event log as the input source the complete input of an application is reliably stored and can be deterministi‐ cally replayed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T043949Z" creationid="xccui" creationdate="20190604T043856Z">
-        <seg>伸缩和容错交由流处理引擎完成，以事件日志作为应用的输入，不但完整可靠，而且还支持精准的数据重放。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T034218Z" creationid="xccui" creationdate="20190604T043856Z">
+        <seg>伸缩和容错交由流处理引擎完成；以事件日志作为应用的输入，不但完整可靠，而且还支持精准的数据重放。</seg>
       </tuv>
     </tu>
     <tu>
