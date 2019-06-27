@@ -16065,8 +16065,8 @@
       <tuv lang="EN-US">
         <seg>In order to ensure at-least-once result correctness, you need to have a way to replay events—either from the source or from some buffer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034854Z" creationid="xccui" creationdate="20190606T034644Z">
-        <seg>为了确保至少一次结果的正确，需要一些办法从源头或缓冲中重放事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193503Z" creationid="xccui" creationdate="20190606T034644Z">
+        <seg>为了确保至少一次结果的正确性，需要一些办法从源头或缓冲中重放事件。</seg>
       </tuv>
     </tu>
     <tu>
