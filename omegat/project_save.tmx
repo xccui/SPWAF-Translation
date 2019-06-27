@@ -32931,8 +32931,8 @@
       <tuv lang="EN-US">
         <seg>instance, when you join or group by some key, TypeInformation allows Flink to per‐ form the semantic check of whether the fields used as keys are valid.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061952Z" creationid="xccui" creationdate="20190617T050559Z">
-        <seg>例如：如果需要通过某个键值进行连接或分组，TypeInformation允许Flink对能否使用某字段作为键值进行语义检测。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151948Z" creationid="xccui" creationdate="20190617T050559Z">
+        <seg>例如：如果需要通过某个键值进行Join或分组，TypeInformation允许Flink对能否使用某字段作为键值进行语义检测。</seg>
       </tuv>
     </tu>
     <tu>
