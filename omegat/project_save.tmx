@@ -5000,8 +5000,8 @@
       <tuv lang="EN-US">
         <seg>A common requirement when working with streams is to connect or join the events of two streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205238Z" creationid="xccui" creationdate="20190627T204650Z">
-        <seg>操作数据流时的另一个常见需求是对两条数据流中的事件进行接通或Join。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210057Z" creationid="xccui" creationdate="20190627T204650Z">
+        <seg>操作数据流时的另一个常见需求是对两条数据流中的事件进行联结或Join。</seg>
       </tuv>
     </tu>
     <tu>
