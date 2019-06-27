@@ -13209,8 +13209,8 @@
       <tuv lang="EN-US">
         <seg>For example, determining whether a specific event occurs in the input stream can be correctly realized with at-least-once guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T042547Z" creationid="xccui" creationdate="20190416T042315Z">
-        <seg>例如：确定某个事件是否在输入流中出现过可以在至少一次保障下正确地实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193111Z" creationid="xccui" creationdate="20190416T042315Z">
+        <seg>例如：确定某个事件是否在输入流中出现过，就可以利用至少一次保障正确地实现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27666,8 +27666,8 @@
       <tuv lang="EN-US">
         <seg>This type of guarantee is called at-least-once, and it means that all events will be pro‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034604Z" creationid="xccui" creationdate="20190606T034604Z">
-        <seg>这类保障称为至少一次。它意味着所有事件最终都会处理，即便有些可能会处理多次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T192900Z" creationid="xccui" creationdate="20190606T034604Z">
+        <seg>这类保障称为至少一次。它意味着所有事件最终都会处理，虽然有些可能会处理多次。</seg>
       </tuv>
     </tu>
     <tu>
