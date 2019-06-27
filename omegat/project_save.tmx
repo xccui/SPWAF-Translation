@@ -19273,8 +19273,8 @@
       <tuv lang="EN-US">
         <seg>Not all stream processors are equally well-suited to run event-driven applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T060622Z" creationid="xccui" creationdate="20190604T052517Z">
-        <seg>并不是所有的流处理引擎都同样适合来运行事件驱动型应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T150915Z" creationid="xccui" creationdate="20190604T052517Z">
+        <seg>并不是所有的流处理引擎都同等适合来运行事件驱动型应用。</seg>
       </tuv>
     </tu>
     <tu>
