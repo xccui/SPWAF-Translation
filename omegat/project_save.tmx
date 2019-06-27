@@ -15809,8 +15809,8 @@
       <tuv lang="EN-US">
         <seg>In data streaming, latency is measured in units of time, such as milliseconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T154533Z" creationid="xccui" creationdate="20190401T154502Z">
-        <seg>在流处理中，延迟是以时间片（例如：毫秒）为单位计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050938Z" creationid="xccui" creationdate="20190401T154502Z">
+        <seg>在流处理中，延迟是以时间片（例如毫秒）为单位计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26058,8 +26058,8 @@
       <tuv lang="EN-US">
         <seg>The service latency is the time you spend in the coffee shop, from the moment you enter until you have your first sip of coffee.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233937Z" creationid="xccui" creationdate="20190605T233933Z">
-        <seg>所谓服务延迟就是在店内买咖啡的时间，即从你进门的一刻到抿到第一口咖啡的时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050924Z" creationid="xccui" creationdate="20190605T233933Z">
+        <seg>所谓服务延迟就是你在店内买咖啡的时间，即从你进门的一刻到抿到第一口咖啡的时间。</seg>
       </tuv>
     </tu>
     <tu>
