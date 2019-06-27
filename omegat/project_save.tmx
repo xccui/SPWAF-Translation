@@ -11983,6 +11983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 6-7 shows an interval join of two streams, A and B, that joins an event from A with an event from B if the timestamp of the B event is not less than one hour earlier and not more than 15 minutes later than the timestamp of the A event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T214113Z" creationid="xccui" creationdate="20190627T214113Z">
+        <seg>图6-7展示了两条流（A和B）上基于间隔的Join，如果B中事件的时间戳相较于A中事件的时间戳不早于1小时且不晚于15分钟，则会将两个事件Join起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
