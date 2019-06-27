@@ -14513,8 +14513,8 @@
       <tuv lang="EN-US">
         <seg>However, the infrastructure remains basically the same as a traditional data ware‐ house architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T204519Z" creationid="esouser" creationdate="20190603T204255Z">
-        <seg>但这些基础设施和传统数据仓库的架构还是基本相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T030105Z" creationid="esouser" creationdate="20190603T204255Z">
+        <seg>然而，这些基础设施仍然采用和传统数据仓库相同的架构。</seg>
       </tuv>
     </tu>
     <tu>
