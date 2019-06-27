@@ -13225,8 +13225,8 @@
       <tuv lang="EN-US">
         <seg>For example, if you are processing a stream of measurements from a set of sensors, you can use a parti‐ tioned operator state to maintain state for each sensor independently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183902Z" creationid="xccui" creationdate="20190606T032927Z">
-        <seg>举例而言，如果你要处理从一组传感器得到的测量值数据流，则可以用分区算子状态（partitioned operator state）来独立地维持每个传感器的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T184007Z" creationid="xccui" creationdate="20190606T032927Z">
+        <seg>举例而言，如果你要处理从一组传感器得到的测量值数据流，则可以用分区算子状态（partitioned operator state）来单独维护每个传感器的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20114,8 +20114,8 @@
       <tuv lang="EN-US">
         <seg>Operator state in streaming jobs is very valuable and should be guarded against fail‐ ures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033120Z" creationid="xccui" creationdate="20190606T033054Z">
-        <seg>流式作业中的算子状态十分重要，因此需要在故障时加以保护。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T184230Z" creationid="xccui" creationdate="20190606T033054Z">
+        <seg>在流式作业中，算子的状态十分重要，因此需要在故障时予以保护。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26282,8 +26282,8 @@
       <tuv lang="EN-US">
         <seg>The third and biggest challenge that comes with stateful operators is ensuring that state can be recovered and results will be correct even in the presence of fail‐ ures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032958Z" creationid="xccui" creationdate="20190606T032958Z">
-        <seg>最后一个也是最大的挑战在于，状态化算子需要保证状态可以恢复，即便出现故障也要确保结果正确。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T184111Z" creationid="xccui" creationdate="20190606T032958Z">
+        <seg>最后一个也是最大的挑战在于，状态化算子需要保证状态可以恢复，并且即使出现故障也要确保结果正确。</seg>
       </tuv>
     </tu>
     <tu>
