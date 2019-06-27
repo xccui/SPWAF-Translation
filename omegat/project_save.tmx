@@ -13241,8 +13241,8 @@
       <tuv lang="EN-US">
         <seg>For example, if you are the first customer showing up at the coffee shop right after it opened its doors in the morning, you will be served immediately.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052818Z" creationid="xccui" creationdate="20190605T234700Z">
-        <seg>这就如同你是早晨咖啡店开门后的第一个顾客，会立即享受服务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052839Z" creationid="xccui" creationdate="20190605T234700Z">
+        <seg>这就如同你是早晨咖啡店开门后的首位顾客，会立即享受服务。</seg>
       </tuv>
     </tu>
     <tu>
