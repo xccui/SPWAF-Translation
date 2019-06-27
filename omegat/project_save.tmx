@@ -17177,8 +17177,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we introduce time semantics and describe the different notions of time in streaming.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T210054Z" creationid="xccui" creationdate="20190409T205917Z">
-        <seg>本节我们将介绍时间语义并描述流式场景中不同的时间概念。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T152542Z" creationid="xccui" creationdate="20190409T205917Z">
+        <seg>本节我们将介绍流式场景中时间语义和不同的时间概念。</seg>
       </tuv>
     </tu>
     <tu>
