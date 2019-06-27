@@ -19913,8 +19913,8 @@
       <tuv lang="EN-US">
         <seg>Online gaming is a simple scenario showing how operator semantics should depend on the time when events actually happen and not the time when the application receives the events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190411T154124Z" creationid="xccui" creationdate="20190411T153601Z">
-        <seg>在线游戏这个简单场景展示了当事件实际发生时间和应用收到事件的时间存在差异时，算子语义该如何依赖时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155048Z" creationid="xccui" creationdate="20190411T153601Z">
+        <seg>在线游戏这个简单场景展示了算子语义应该依赖事件实际发生时间而非应用收到事件的时间。</seg>
       </tuv>
     </tu>
     <tu>
