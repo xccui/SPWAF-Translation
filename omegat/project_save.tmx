@@ -14433,8 +14433,8 @@
       <tuv lang="EN-US">
         <seg>However, once we reach a rate of incoming events such that the sys‐ tem resources are fully used, we will have to start buffering events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234718Z" creationid="xccui" creationdate="20190605T234718Z">
-        <seg>但现实中，一旦事件到达速率过高致使系统没有空闲资源，将被迫开始缓冲事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053028Z" creationid="xccui" creationdate="20190605T234718Z">
+        <seg>但现实中，一旦事件到达速率过高致使系统没有空闲资源，系统就会被迫开始缓冲事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14673,8 +14673,8 @@
       <tuv lang="EN-US">
         <seg>Ideally, you would like this latency to remain constant and independent of the rate of the incoming events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T210053Z" creationid="xccui" creationdate="20190401T205449Z">
-        <seg>理想情况下，你会希望延迟保持平稳，不受事件到来速率的影响；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052913Z" creationid="xccui" creationdate="20190401T205449Z">
+        <seg>理想情况下，你会希望延迟保持平稳，不受事件到来速率的影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16441,8 +16441,8 @@
       <tuv lang="EN-US">
         <seg>In the coffee shop example, you will probably see this happening right after lunch.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T211019Z" creationid="xccui" creationdate="20190401T210715Z">
-        <seg>咖啡店的例子中，很有可能在午餐时间刚过看到这种情况：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053151Z" creationid="xccui" creationdate="20190401T210715Z">
+        <seg>在咖啡店的例子中，你很有可能在午餐后见到这种情况：</seg>
       </tuv>
     </tu>
     <tu>
