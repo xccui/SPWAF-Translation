@@ -20962,8 +20962,8 @@
       <tuv lang="EN-US">
         <seg>Real-world systems, net‐ works, and communication channels are far from perfect, and streaming data can often be delayed or arrive out of order.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014307Z" creationid="xccui" creationdate="20190606T014251Z">
-        <seg>真实世界的系统、网络、通信信道往往充斥缺陷，因此流数据通常都会有所延迟或以乱序到达。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064149Z" creationid="xccui" creationdate="20190606T014251Z">
+        <seg>现实世界的系统、网络及通信信道往往充斥缺陷，因此流数据通常都会有所延迟或者以乱序到达。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27866,8 +27866,8 @@
       <tuv lang="EN-US">
         <seg>Time is perhaps the most important aspect of stream processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T200209Z" creationid="xccui" creationdate="20190409T200209Z">
-        <seg>时间可能是流处理中最重要的方面。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064032Z" creationid="xccui" creationdate="20190409T200209Z">
+        <seg>时间可能是流处理中最重要的一个方面。</seg>
       </tuv>
     </tu>
     <tu>
