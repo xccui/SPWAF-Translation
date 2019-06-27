@@ -20442,8 +20442,8 @@
       <tuv lang="EN-US">
         <seg>Parallelization gets complicated, since results depend on both the state and incoming events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183638Z" creationid="xccui" creationdate="20190606T032919Z">
-        <seg>由于结果需要同时依赖状态和到来的事件，所以状态并行化变得异常复杂。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183657Z" creationid="xccui" creationdate="20190606T032919Z">
+        <seg>由于结果需要同时依赖状态和到来的事件，所以状态并行化会变得异常复杂。</seg>
       </tuv>
     </tu>
     <tu>
