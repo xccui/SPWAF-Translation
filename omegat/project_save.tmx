@@ -5800,8 +5800,8 @@
       <tuv lang="EN-US">
         <seg>A watermark is a global progress metric that indicates the point in time when we are confident that no more delayed events will arrive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025336Z" creationid="xccui" creationdate="20190606T025336Z">
-        <seg>水位线是一个全局进度指标，表示我们确信再不会有延迟事件到来的某个时间点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160912Z" creationid="xccui" creationdate="20190606T025336Z">
+        <seg>水位线是一个全局进度指标，表示我们确信不会再有延迟事件到来的某个时间点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17201,8 +17201,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we will see how to use watermarks to configure event-time window behavior.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025332Z" creationid="xccui" creationdate="20190606T025254Z">
-        <seg>在本节中，我们来看一下如何利用水位线来设定事件时间窗口的行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160859Z" creationid="xccui" creationdate="20190606T025254Z">
+        <seg>在本节中，我们将了解如何利用水位线来设定事件时间窗口的行为。</seg>
       </tuv>
     </tu>
     <tu>
