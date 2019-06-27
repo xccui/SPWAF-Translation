@@ -7801,8 +7801,8 @@
       <tuv lang="EN-US">
         <seg>Before execution, these are translated into physical dataflow graphs of connected parallel tasks, each running some operator logic, consuming input streams and producing output streams for other tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033440Z" creationid="xccui" creationdate="20190606T033145Z">
-        <seg>在执行之前，它们需要被翻译为物理Dataflow图，其中包含很多相连的并行任务。每个任务都要运行一部分算子逻辑，消费输入流并为其他任务生成输出流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185357Z" creationid="xccui" creationdate="20190606T033145Z">
+        <seg>在实际执行前，它们需要被翻译成物理Dataflow图，其中会包含很多相连的并行任务。每个任务都要运行一部分算子逻辑，消费输入流并为其他任务生成输出流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28770,8 +28770,8 @@
       <tuv lang="EN-US">
         <seg>Typical real-world setups can easily have hundreds of such tasks running in parallel on many physical machines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T041708Z" creationid="xccui" creationdate="20190415T041636Z">
-        <seg>典型的现实设置可以轻松达到在很多物理机器上并行运行数以百计的任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185655Z" creationid="xccui" creationdate="20190415T041636Z">
+        <seg>不少实际系统设置都可以轻松做到在很多物理机器上并行运行数以百计的任务。</seg>
       </tuv>
     </tu>
     <tu>
