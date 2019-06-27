@@ -15489,8 +15489,8 @@
       <tuv lang="EN-US">
         <seg>In a real-world streaming application however, there will be at least one source and one sink apart from the stream processor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035106Z" creationid="xccui" creationdate="20190606T035056Z">
-        <seg>但在实际流处理应用中，除了流处理引擎也至少要有一个数据源和一个数据汇。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194630Z" creationid="xccui" creationdate="20190606T035056Z">
+        <seg>在实际流处理应用中，除了流处理引擎也至少还要有一个数据来源组件和一个数据终点组件。</seg>
       </tuv>
     </tu>
     <tu>
