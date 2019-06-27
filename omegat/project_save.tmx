@@ -18681,8 +18681,8 @@
       <tuv lang="EN-US">
         <seg>Microser‐ vices and all the required software and services are typically bundled and deployed in independent containers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T025508Z" creationid="esouser" creationdate="20190603T201022Z">
-        <seg>通常情况下，微服务连同必须的软件及服务会打包部署到独立的容器中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024114Z" creationid="esouser" creationdate="20190603T201022Z">
+        <seg>通常情况下，微服务会和所有必须的软件及服务一起打包部署到独立的容器中。</seg>
       </tuv>
     </tu>
     <tu>
