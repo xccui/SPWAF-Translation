@@ -18761,8 +18761,8 @@
       <tuv lang="EN-US">
         <seg>More complex applica‐ tions are built by connecting several microservices with each other that only commu‐ nicate over standardized interfaces such as RESTful HTTP connections.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T200705Z" creationid="esouser" creationdate="20190603T200705Z">
-        <seg>通过将多个微服务相互连接可以构建出更加复杂的应用，而微服务之间只通过标准化接口（如RESTful HTTP连接）进行通信。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151004Z" creationid="esouser" creationdate="20190603T200705Z">
+        <seg>通过将多个微服务相互连接可以构建出更加复杂的应用，而微服务之间只会通过标准化接口（如RESTful HTTP连接）进行通信。</seg>
       </tuv>
     </tu>
     <tu>
