@@ -27778,8 +27778,8 @@
       <tuv lang="EN-US">
         <seg>Throughput is measured in events or operations per time unit.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T200345Z" creationid="xccui" creationdate="20190401T200345Z">
-        <seg>吞吐以每个单位时间的事件或操作数来衡量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052333Z" creationid="xccui" creationdate="20190401T200345Z">
+        <seg>吞吐的衡量方式是计算每个单位时间的事件或操作数。</seg>
       </tuv>
     </tu>
     <tu>
