@@ -14225,8 +14225,8 @@
       <tuv lang="EN-US">
         <seg>How can you ensure that such failures are handled transparently so that your streaming job can continue to run?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185807Z" creationid="xccui" creationdate="20190415T041907Z">
-        <seg>如何确保可以透明地处理这些故障，让流式作业可以继续运行？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185857Z" creationid="xccui" creationdate="20190415T041907Z">
+        <seg>如何确保能够透明地处理这些故障，让流式作业得以继续运行？</seg>
       </tuv>
     </tu>
     <tu>
@@ -15921,8 +15921,8 @@
       <tuv lang="EN-US">
         <seg>In fact, you would like your stream processor to not only continue processing in the case of task failures, but also provide correctness guarantees about the result and operator state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033501Z" creationid="xccui" creationdate="20190606T033501Z">
-        <seg>事实上，你不仅需要流处理引擎在任务故障时可以继续运行，还需要它保证结果和算子状态的正确性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T190342Z" creationid="xccui" creationdate="20190606T033501Z">
+        <seg>事实上，你不仅需要流处理引擎在发生故障时可以继续运行，还需要它能保证结果和算子状态的正确性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15969,8 +15969,8 @@
       <tuv lang="EN-US">
         <seg>In long-running, streaming jobs, each of these tasks can fail at any time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185717Z" creationid="xccui" creationdate="20190415T041755Z">
-        <seg>对于长期运行的流式作业而言，每个任务都有可能随时出现故障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185813Z" creationid="xccui" creationdate="20190415T041755Z">
+        <seg>对于长期运行的流式作业而言，每个任务都随时有可能出现故障。</seg>
       </tuv>
     </tu>
     <tu>
