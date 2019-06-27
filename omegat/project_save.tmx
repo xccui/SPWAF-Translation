@@ -15255,6 +15255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot express your required join semantics using Flink’s built-in join opera‐ tors, you can implement custom join logic as a CoProcessFunction, BroadcastPro cessFunction, or KeyedBroadcastProcessFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210857Z" creationid="xccui" creationdate="20190627T210857Z">
+        <seg>如果Flink内置的Join算子无法表达所需的Join语义，那么你可以通过CoProcessFunction、BroadcastProcessFunction或KeyedBroadcastProcessFunction实现自定义的Join逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you click on that job you will see the data flow and live metrics about the opera&lt;t0/&gt;‐&lt;t1/&gt; tors of the running job similar to the screenshot in &lt;t2/&gt;Figure 1-9&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T042154Z" creationid="xccui" creationdate="20190329T041245Z">
@@ -17179,6 +17187,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070259Z" creationid="xccui" creationdate="20190615T070259Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, we describe both operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210559Z" creationid="xccui" creationdate="20190627T210559Z">
+        <seg>本节我们会对两个算子进行介绍。</seg>
       </tuv>
     </tu>
     <tu>
