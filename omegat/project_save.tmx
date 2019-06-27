@@ -8097,8 +8097,8 @@
       <tuv lang="EN-US">
         <seg>But there are much more time-critical applications whose semantics we need to guarantee.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155249Z" creationid="xccui" creationdate="20190411T154442Z">
-        <seg>但还有更多时间敏感应用，需要我们对其处理语义进行保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155411Z" creationid="xccui" creationdate="20190411T154442Z">
+        <seg>但其实还有更多时间敏感应用，需要我们对其处理语义进行保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15377,8 +15377,8 @@
       <tuv lang="EN-US">
         <seg>In Alice’s game example, the streaming application could operate with two different notions of time: processing time or event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T023542Z" creationid="xccui" creationdate="20190606T023542Z">
-        <seg>在爱丽丝游戏的例子中，流式应用可以使用两个不同概念的时间，即处理时间和事件时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155450Z" creationid="xccui" creationdate="20190606T023542Z">
+        <seg>在爱丽丝游戏的例子中，流式应用可以使用两个不同概念的时间，即处理时间（processing time）和事件时间（event time）。</seg>
       </tuv>
     </tu>
     <tu>
