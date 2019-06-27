@@ -19217,8 +19217,8 @@
       <tuv lang="EN-US">
         <seg>No matter if watermarks are user defined or automatically generated, tracking global progress in a distributed system might be problematic in the presence of straggler tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025748Z" creationid="xccui" creationdate="20190606T025748Z">
-        <seg>无论水位线是由用户定义还是自动生成，只要存在落后的任务，追踪分布式系统中的全局进度就可能出现问题，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T162042Z" creationid="xccui" creationdate="20190606T025748Z">
+        <seg>无论水位线是由用户定义还是自动生成，只要存在"拖后腿"的任务，追踪分布式系统中的全局进度就可能出现问题，</seg>
       </tuv>
     </tu>
     <tu>
