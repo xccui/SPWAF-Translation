@@ -31435,8 +31435,8 @@
       <tuv lang="EN-US">
         <seg>You can use broadcast state to connect a keyed and a broadcast stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052419Z" creationid="xccui" creationdate="20190615T052419Z">
-        <seg>你可以使用广播状态来接通一个按键值分好区流和一个广播流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210016Z" creationid="xccui" creationdate="20190615T052419Z">
+        <seg>你可以使用广播状态来联结一个按键值分好区流和一个广播流。</seg>
       </tuv>
     </tu>
     <tu>
