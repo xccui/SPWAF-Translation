@@ -776,8 +776,8 @@
       <tuv lang="EN-US">
         <seg>// A context object that is given to Evictor methods.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202124Z" creationid="xccui" creationdate="20190627T202124Z">
-        <seg>// 用于选择器方法的上下文对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202140Z" creationid="xccui" creationdate="20190627T202124Z">
+        <seg>// 用于移除器内方法的上下文对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Returns the current event time watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202209Z" creationid="xccui" creationdate="20190627T202209Z">
+        <seg>// 返回当前事件时间水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Returns the current event-time watermark</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010748Z" creationid="xccui" creationdate="20190624T010748Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010733Z" creationid="xccui" creationdate="20190624T010733Z">
         <seg>// 返回当前处理时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Returns the current processing time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202152Z" creationid="xccui" creationdate="20190627T202152Z">
+        <seg>// 返回当前处理时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32997,6 +33013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151948Z" creationid="xccui" creationdate="20190617T050559Z">
         <seg>例如：如果需要通过某个键值进行Join或分组，TypeInformation允许Flink对能否使用某字段作为键值进行语义检测。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>interface EvictorContext {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202127Z" creationid="xccui" creationdate="20190627T202127Z">
+        <seg>interface EvictorContext {</seg>
       </tuv>
     </tu>
     <tu>
