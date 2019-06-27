@@ -16745,8 +16745,8 @@
       <tuv lang="EN-US">
         <seg>In the rest of this book, we are going to see how Flink actually implements these concepts and how you can use its DataStream API to write applications that use all of the features we have introduced so far.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T041244Z" creationid="xccui" creationdate="20190606T041244Z">
-        <seg>在本书的其余部分，我们会介绍Flink是如何实现这些概念的，以及怎样利用它的DataStream API来编写那些涵盖目前所介绍的所有特性的应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T195509Z" creationid="xccui" creationdate="20190606T041244Z">
+        <seg>在本书的剩余部分，我们会介绍Flink是如何实现这些概念的，以及怎样利用它的DataStream API来编写一些涵盖了目前为止所讲特性的应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28930,8 +28930,8 @@
       <tuv lang="EN-US">
         <seg>Up to this point, we have considered streaming concepts independently of Apache Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T051903Z" creationid="xccui" creationdate="20190416T051823Z">
-        <seg>到目前为止，我们考虑的流处理相关概念都是独立于Apache Flink。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T195220Z" creationid="xccui" creationdate="20190416T051823Z">
+        <seg>到目前为止，我们考虑的流处理相关概念都还是独立于Apache Flink的。</seg>
       </tuv>
     </tu>
     <tu>
