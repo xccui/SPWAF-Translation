@@ -1376,8 +1376,8 @@
       <tuv lang="EN-US">
         <seg>// connect streams with broadcast</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051801Z" creationid="xccui" creationdate="20190615T051801Z">
-        <seg>// 利用广播接通数据流</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210009Z" creationid="xccui" creationdate="20190615T051801Z">
+        <seg>// 利用广播联结数据流</seg>
       </tuv>
     </tu>
     <tu>
