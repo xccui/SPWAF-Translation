@@ -7817,8 +7817,8 @@
       <tuv lang="EN-US">
         <seg>Before the rise of modern stream processors, a common approach to process unbounded data was to repeatedly schedule jobs over small batches of incoming events on a batch processing system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032032Z" creationid="xccui" creationdate="20190606T031812Z">
-        <seg>在当今流处理引擎出现之前，处理无限数据的通用办法是将到来事件分成小批次，不停地调度任务在批处理系统上运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182116Z" creationid="xccui" creationdate="20190606T031812Z">
+        <seg>在现代流处理引擎兴起之前，处理无限数据的通用办法是将到来事件分成小批次，然后不停地在批处理系统上调度并运行作业。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21922,8 +21922,8 @@
       <tuv lang="EN-US">
         <seg>Similarly, consider an operator that raises an alert when it detects a “high temperature” event followed by a “smoke” event within 10 minutes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T052817Z" creationid="xccui" creationdate="20190414T052537Z">
-        <seg>类似地，假设有一个算子，每次检测到"高温"事件且在随后10分钟内有"烟雾"事件都会报警。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181858Z" creationid="xccui" creationdate="20190414T052537Z">
+        <seg>类似地，假设还有一个算子，会在每次检测到"高温"事件且在随后10分钟内出现"烟雾"事件时报警。</seg>
       </tuv>
     </tu>
     <tu>
