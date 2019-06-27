@@ -31083,8 +31083,8 @@
       <tuv lang="EN-US">
         <seg>You also know a little bit about the evolution of the open source stream processing space and what a Flink streaming application looks like.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224647Z" creationid="xccui" creationdate="20190605T224647Z">
-        <seg>也对开源流处理领域的发展过程以及Flink流式应用有所了解。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T042317Z" creationid="xccui" creationdate="20190605T224647Z">
+        <seg>还了解了开源流处理领域的发展过程以及Flink流式应用的样子。</seg>
       </tuv>
     </tu>
     <tu>
