@@ -18825,8 +18825,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, in the case of a failure, a stateless operator can be simply restarted and continue processing from where it left off.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T040129Z" creationid="xccui" creationdate="20190405T040033Z">
-        <seg>此外，如果发生故障，无状态的算子可以很容易重启，从中断处继续工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T055150Z" creationid="xccui" creationdate="20190405T040033Z">
+        <seg>此外，如果发生故障，无状态的算子可以很容易地重启，并从中断处继续工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22690,8 +22690,8 @@
       <tuv lang="EN-US">
         <seg>Stateful stream processing applications are more challenging to parallelize and oper‐ ate in a fault-tolerant manner because state needs to be efficiently partitioned and reliably recovered in the case of failures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T005138Z" creationid="xccui" creationdate="20190606T005043Z">
-        <seg>状态化流处理应用在并行化和容错方面会更具挑战性，因为需要对状态进行高效划分并且在出错时需进行可靠的故障恢复。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T055329Z" creationid="xccui" creationdate="20190606T005043Z">
+        <seg>状态化流处理应用在并行化和容错方面会更具挑战性，因为它们需要对状态进行高效划分并且在出错时需进行可靠的故障恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22738,8 +22738,8 @@
       <tuv lang="EN-US">
         <seg>Stateless operations are easy to parallelize, since events can be processed independently of each other and of their arriving order.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T035959Z" creationid="xccui" creationdate="20190405T035840Z">
-        <seg>由于事件处理互不影响且与它们的到来时间无关，无状态的操作很容易并行化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T055130Z" creationid="xccui" creationdate="20190405T035840Z">
+        <seg>由于事件处理互不影响且与事件到来的时间无关，无状态的操作很容易并行化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34443,8 +34443,8 @@
       <tuv lang="EN-US">
         <seg>tain information about the events they have received before.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235835Z" creationid="xccui" creationdate="20190605T235835Z">
-        <seg>相反，状态化算子可能会维护之前接收的事件信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T055209Z" creationid="xccui" creationdate="20190605T235835Z">
+        <seg>相反，状态化算子可能需要维护之前接收的事件信息。</seg>
       </tuv>
     </tu>
     <tu>
