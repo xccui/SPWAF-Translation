@@ -6888,8 +6888,8 @@
       <tuv lang="EN-US">
         <seg>Another way to achieve the same result is to hire a second barista and exploit parallelism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235436Z" creationid="xccui" creationdate="20190605T235436Z">
-        <seg>另一个殊途同归的办法是再雇一个咖啡师，即利用并发解决问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054629Z" creationid="xccui" creationdate="20190605T235436Z">
+        <seg>另一个殊途同归的办法是再雇一个咖啡师，即利用并行解决问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7561,8 +7561,8 @@
       <tuv lang="EN-US">
         <seg>At high load, this change will also increase throughput, because more customers will be served in the same amount of time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235407Z" creationid="xccui" creationdate="20190605T235407Z">
-        <seg>这样在高峰时段，相同时间内可以服务的顾客数量多了，吞吐量也自然会提高。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054612Z" creationid="xccui" creationdate="20190605T235407Z">
+        <seg>这样在高峰时段，相同时间内可以服务的顾客数量多了，吞吐量自然也会提高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22282,8 +22282,8 @@
       <tuv lang="EN-US">
         <seg>So, can you get both low latency and high throughput or is this a hopeless endeavor?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235232Z" creationid="xccui" creationdate="20190605T235232Z">
-        <seg>既然这样，可以通过某种方式同时获得低延迟和高吞吐吗？还是说根本不切实际？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054529Z" creationid="xccui" creationdate="20190605T235232Z">
+        <seg>既然这样，可以通过某种方式同时获得低延迟和高吞吐吗？还是说这根本不切实际？</seg>
       </tuv>
     </tu>
     <tu>
@@ -25418,8 +25418,8 @@
       <tuv lang="EN-US">
         <seg>The main takeaway here is that lowering latency increases throughput.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235620Z" creationid="xccui" creationdate="20190605T235620Z">
-        <seg>这里的要点就是降低延迟实际上可以提高吞吐。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054722Z" creationid="xccui" creationdate="20190605T235620Z">
+        <seg>此处的要点就是：降低延迟实际上可以提高吞吐。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27458,8 +27458,8 @@
       <tuv lang="EN-US">
         <seg>This means the time needed to prepare a single beverage will increase, causing each person to spend more time in the coffees hop, thus lowering the overall throughput.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235158Z" creationid="xccui" creationdate="20190605T235136Z">
-        <seg>这意味着准备单杯咖啡的时间会延长，继而导致每位顾客在店里花费的时间增加，整体吞吐量下降。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054439Z" creationid="xccui" creationdate="20190605T235136Z">
+        <seg>这意味着准备单杯咖啡的时间会延长，继而导致每位顾客在店里花费的时间增加，此时整体吞吐量将会下降。</seg>
       </tuv>
     </tu>
     <tu>
