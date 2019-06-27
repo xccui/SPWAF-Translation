@@ -13225,8 +13225,8 @@
       <tuv lang="EN-US">
         <seg>For example, if you are processing a stream of measurements from a set of sensors, you can use a parti‐ tioned operator state to maintain state for each sensor independently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032927Z" creationid="xccui" creationdate="20190606T032927Z">
-        <seg>举例而言，如果你要处理从一组传感器得到的测量值数据流，则可以用分组算子状态（partitioned operator state）来独立地维持每个传感器的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183902Z" creationid="xccui" creationdate="20190606T032927Z">
+        <seg>举例而言，如果你要处理从一组传感器得到的测量值数据流，则可以用分区算子状态（partitioned operator state）来独立地维持每个传感器的状态。</seg>
       </tuv>
     </tu>
     <tu>
