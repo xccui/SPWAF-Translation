@@ -32579,8 +32579,8 @@
       <tuv lang="EN-US">
         <seg>first type are periodic report queries that compute business-relevant statistics such as revenue, user growth, or production output.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064928Z" creationid="esouser" creationdate="20190603T203039Z">
-        <seg>第一类是定期报告查询，用于计算业务相关的统计数据，如收入、用户增长、产出等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T025031Z" creationid="esouser" creationdate="20190603T203039Z">
+        <seg>第一类是定期报告查询，它可用于计算业务相关的统计数据，如收入、用户增长、产出等。</seg>
       </tuv>
     </tu>
     <tu>
