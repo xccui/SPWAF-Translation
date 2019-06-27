@@ -15857,8 +15857,8 @@
       <tuv lang="EN-US">
         <seg>In essence, watermarks provide a logical clock that informs the system about the current event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025413Z" creationid="xccui" creationdate="20190606T025413Z">
-        <seg>本质上，水位线提供了一个逻辑时钟，通知系统当前的事件时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T161005Z" creationid="xccui" creationdate="20190606T025413Z">
+        <seg>本质上，水位线提供了一个逻辑时钟，用来通知系统当前的事件时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19705,8 +19705,8 @@
       <tuv lang="EN-US">
         <seg>Once a watermark has been received, operators are signaled that all timestamps for a certain time interval have been observed and either trigger computation or order received events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T210017Z" creationid="xccui" creationdate="20190412T205922Z">
-        <seg>一旦收到某个水位线，就相当于算子接到信号：某个特定时间区间的的时间戳已经到齐，可以触发窗口计算或对接收的数据进行排序了。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T161323Z" creationid="xccui" creationdate="20190412T205922Z">
+        <seg>算子一旦收到某个水位线，就相当于接到信号：某个特定时间区间的时间戳已经到齐，可以触发窗口计算或对接收的数据进行排序了。</seg>
       </tuv>
     </tu>
     <tu>
