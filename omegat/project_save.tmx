@@ -29282,8 +29282,8 @@
       <tuv lang="EN-US">
         <seg>We also assume perfect failure detectors and that no task will intentionally act mali‐ ciously, meaning all nonfailed tasks follow the above steps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T190955Z" creationid="xccui" creationdate="20190606T033718Z">
-        <seg>我们还假设任何故障都会被检测到，没有任务故意捣乱。换言之，所有正常运行的任务都会遵循上面的步骤。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T200047Z" creationid="xccui" creationdate="20190606T033718Z">
+        <seg>我们还假设任何故障都会被检测到，没有任务故意捣乱。换言之，所有正常运行的任务都会遵循上面提到的步骤。</seg>
       </tuv>
     </tu>
     <tu>
