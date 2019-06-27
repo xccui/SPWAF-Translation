@@ -28514,8 +28514,8 @@
       <tuv lang="EN-US">
         <seg>Transformation operations are single-pass operations that process each event inde‐ pendently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T010742Z" creationid="xccui" creationdate="20190606T010742Z">
-        <seg>转换操作是一种"单向"操作，会独立处理每个事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060526Z" creationid="xccui" creationdate="20190606T010742Z">
+        <seg>转换操作是一类"单向"操作，它们会独立处理每个事件。</seg>
       </tuv>
     </tu>
     <tu>
