@@ -13289,8 +13289,8 @@
       <tuv lang="EN-US">
         <seg>For example, the data of an order processing system can be analyzed to obtain sales growth over time, to identify reasons for delayed shipments, or to predict future sales in order to adjust the inventory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064500Z" creationid="esouser" creationdate="20190603T201909Z">
-        <seg>例如：可以通过分析订单处理系统中的数据来获知销售增长率、分析运输延迟原因或预测销售量以调整库存。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024556Z" creationid="esouser" creationdate="20190603T201909Z">
+        <seg>例如：通过分析订单处理系统中的数据来获知销售增长率，通过分析运输延迟原因或预测销售量以调整库存。</seg>
       </tuv>
     </tu>
     <tu>
