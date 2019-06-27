@@ -17217,8 +17217,8 @@
       <tuv lang="EN-US">
         <seg>In this section, you are going to learn how to process infinite streams in parallel, using the dataflow programming paradigm.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233704Z" creationid="xccui" creationdate="20190605T233704Z">
-        <seg>本节你将学到如何利用Dataflow编程范式去并行处理无限数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T045834Z" creationid="xccui" creationdate="20190605T233704Z">
+        <seg>本节你将学到如何利用Dataflow编程范式并行处理无限数据流。</seg>
       </tuv>
     </tu>
     <tu>
