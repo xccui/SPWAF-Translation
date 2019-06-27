@@ -15985,8 +15985,8 @@
       <tuv lang="EN-US">
         <seg>In many real-world applications, the system does not have enough knowledge to per‐ fectly determine watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025733Z" creationid="xccui" creationdate="20190606T025733Z">
-        <seg>在很多现实应用中，系统必须知道足够多的信息才能完美地设置水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T161917Z" creationid="xccui" creationdate="20190606T025733Z">
+        <seg>在很多现实应用中，系统无法得知足够多的信息来完美地确定水位线。</seg>
       </tuv>
     </tu>
     <tu>
