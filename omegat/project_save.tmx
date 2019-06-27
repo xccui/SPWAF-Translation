@@ -31331,8 +31331,8 @@
       <tuv lang="EN-US">
         <seg>You have seen how rolling aggregations encode the history of the whole stream in an aggregate value and provide us with a low-latency result for every event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043002Z" creationid="xccui" creationdate="20190406T042607Z">
-        <seg>你已经了解滚动聚合是如何将整条历史流压缩为一个聚合值，以及如何针对每个事件在极低延迟内产生结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T062530Z" creationid="xccui" creationdate="20190406T042607Z">
+        <seg>你已经了解滚动聚合是如何将整条历史流压缩成一个聚合值，以及如何针对每个事件在极低延迟内产生结果。</seg>
       </tuv>
     </tu>
     <tu>
