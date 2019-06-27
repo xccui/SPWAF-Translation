@@ -10177,8 +10177,8 @@
       <tuv lang="EN-US">
         <seg>Essentially, it is the time interval between receiving an event and seeing the effect of processing this event in the output.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T152024Z" creationid="xccui" creationdate="20190401T151641Z">
-        <seg>本质上，它是从接收事件到在输出中观察到事件处理所带来的影响的时间间隔。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050738Z" creationid="xccui" creationdate="20190401T151641Z">
+        <seg>本质上，它是从接收事件到在输出中观察到事件处理效果的时间间隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19833,8 +19833,8 @@
       <tuv lang="EN-US">
         <seg>Once your coffee is ready, the barista calls your name and you can pick up your coffee from the counter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233910Z" creationid="xccui" creationdate="20190605T233910Z">
-        <seg>咖啡制作完成后，店员会叫你的名字，你来从吧台取走咖啡。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050857Z" creationid="xccui" creationdate="20190605T233910Z">
+        <seg>咖啡制作完成后，咖啡师会叫你的名字，你来从吧台取走咖啡。</seg>
       </tuv>
     </tu>
     <tu>
