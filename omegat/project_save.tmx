@@ -26946,8 +26946,8 @@
       <tuv lang="EN-US">
         <seg>They consume data from inputs, perform a computation on them, and produce data to outputs for further processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190331T223630Z" creationid="xccui" creationdate="20190331T215135Z">
-        <seg>它们从输入消费数据，进行计算，然后产生数据到输出以进行下一步处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043641Z" creationid="xccui" creationdate="20190331T215135Z">
+        <seg>它们从输入获取数据，对其进行计算，然后产生数据发往输出以供进一步处理。</seg>
       </tuv>
     </tu>
     <tu>
