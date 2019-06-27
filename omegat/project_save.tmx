@@ -19321,8 +19321,8 @@
       <tuv lang="EN-US">
         <seg>Note that guaranteeing the consistency of an application’s state is not the same a guarantee‐ ing consistency of its output.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034253Z" creationid="xccui" creationdate="20190606T034216Z">
-        <seg>但注意，保证应用状态的一致性和保证输出的一致性二者无法划等号。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191638Z" creationid="xccui" creationdate="20190606T034216Z">
+        <seg>请注意，保证应用状态的一致性和保证输出的一致性并不是一回事儿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19745,8 +19745,8 @@
       <tuv lang="EN-US">
         <seg>Once data has been emitted to a sink, it is difficult to guarantee result correctness, unless the sink system supports transactions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034308Z" creationid="xccui" creationdate="20190606T034308Z">
-        <seg>一旦数据从数据汇中写出，结果正确性将很难保障。原因在于，数据汇可能不提供事务来恢复之前写入的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191921Z" creationid="xccui" creationdate="20190606T034308Z">
+        <seg>一旦数据从数据汇中写出，除非目标系统支持事务，否则结果的正确性将难以保证。</seg>
       </tuv>
     </tu>
     <tu>
