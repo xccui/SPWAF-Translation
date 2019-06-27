@@ -6360,8 +6360,8 @@
       <tuv lang="EN-US">
         <seg>All the window types that you have seen so far need to buffer data before producing a result.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014527Z" creationid="xccui" creationdate="20190606T014514Z">
-        <seg>至今为止所有你看到的窗口类型都要在生成结果前缓冲数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064341Z" creationid="xccui" creationdate="20190606T014514Z">
+        <seg>至今为止你见到的所有窗口类型都要在生成结果前缓冲数据。</seg>
       </tuv>
     </tu>
     <tu>
