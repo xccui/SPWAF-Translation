@@ -13217,8 +13217,8 @@
       <tuv lang="EN-US">
         <seg>For example, if all users in a team pop 500 bubbles within one minute, they get a level-up.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014931Z" creationid="xccui" creationdate="20190411T145904Z">
-        <seg>（例如：如果团队所有成员在一分钟内消除了500个泡泡，他们就会提升一级）</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154431Z" creationid="xccui" creationdate="20190411T145904Z">
+        <seg>（例如：如果团队所有成员在一分钟内消除了500个泡泡，他们就会提升一级）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29002,8 +29002,8 @@
       <tuv lang="EN-US">
         <seg>Users are organized in teams and the application collects a team’s activity and provides rewards in the game, such as extra lives and level-ups, based on how fast the team’s members meet the game’s goals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154129Z" creationid="xccui" creationdate="20190411T144758Z">
-        <seg>该应用将用户组织成不同团队，并会收集每个团队的活动信息。这样就能基于团队成员完成游戏目标的速度，提供诸如额外生命或等级提升的游戏奖励。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154428Z" creationid="xccui" creationdate="20190411T144758Z">
+        <seg>该应用将用户组织成不同团队，并会收集每个团队的活动信息，这样就能基于团队成员完成游戏目标的速度，提供诸如额外生命或等级提升的游戏奖励</seg>
       </tuv>
     </tu>
     <tu>
