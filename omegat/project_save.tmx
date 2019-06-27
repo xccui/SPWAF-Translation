@@ -12209,8 +12209,8 @@
       <tuv lang="EN-US">
         <seg>First, you can parti‐ tion your input data and have tasks of the same operation execute on the data subsets in parallel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233238Z" creationid="xccui" creationdate="20190605T233227Z">
-        <seg>首先，你可以将输入数据分组，让同一操作的多个任务并发执行在不同数据子集上，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044627Z" creationid="xccui" creationdate="20190605T233227Z">
+        <seg>      首先，你可以将输入数据分组，让同一操作的多个任务并发执行在不同数据子集上，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27674,8 +27674,8 @@
       <tuv lang="EN-US">
         <seg>This type of parallelism is called data parallelism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233240Z" creationid="xccui" creationdate="20190401T030647Z">
-        <seg>这种并行称作数据并行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044632Z" creationid="xccui" creationdate="20190401T030647Z">
+        <seg>这种并行称为数据并行。</seg>
       </tuv>
     </tu>
     <tu>
