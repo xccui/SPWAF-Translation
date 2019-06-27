@@ -11985,8 +11985,8 @@
       <tuv lang="EN-US">
         <seg>Finally, processing-time windows offer a faithful rep‐ resentation of the streams themselves, which might be a desirable property for some use cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T180913Z" creationid="xccui" creationdate="20190606T031118Z">
-        <seg>最后，处理时间窗口能够表示数据流自身的真实情况，这可能是某些用例的理想属性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181009Z" creationid="xccui" creationdate="20190606T031118Z">
+        <seg>最后，处理时间窗口能够表示数据流自身的真实情况，这可能会在某些用例中派上用场。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13441,8 +13441,8 @@
       <tuv lang="EN-US">
         <seg>For instance, you might be interested in observing the stream and counting the number of events per second to detect outages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031301Z" creationid="xccui" creationdate="20190606T031132Z">
-        <seg>例如，你可能会有兴趣观察数据流的接入情况，通过计算每秒事件数来检测数据中断。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181051Z" creationid="xccui" creationdate="20190606T031132Z">
+        <seg>例如，你可能想观察数据流的接入情况，通过计算每秒事件数来检测数据中断。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33131,8 +33131,8 @@
       <tuv lang="EN-US">
         <seg>low latency but results depend on the speed of processing and are not deterministic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031232Z" creationid="xccui" creationdate="20190606T031232Z">
-        <seg>总之，虽然处理时间提供了很低的延迟，但它的结果依赖处理速度，具有不确定性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181105Z" creationid="xccui" creationdate="20190606T031232Z">
+        <seg>总而言之，虽然处理时间提供了很低的延迟，但它的结果依赖处理速度，具有不确定性。</seg>
       </tuv>
     </tu>
     <tu>
