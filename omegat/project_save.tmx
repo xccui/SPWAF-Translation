@@ -14025,8 +14025,8 @@
       <tuv lang="EN-US">
         <seg>Hence, no events are lost and the state is completely built up from scratch.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034118Z" creationid="xccui" creationdate="20190606T034000Z">
-        <seg>因此不会有事件丢失，状态也可以完全从最初开始构建。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191241Z" creationid="xccui" creationdate="20190606T034000Z">
+        <seg>不会有任何事件丢失，状态也可以完全从最初开始构建。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15465,8 +15465,8 @@
       <tuv lang="EN-US">
         <seg>In a batch processing scenario, all these questions are answered because a batch job can be simply restarted from the beginning.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033857Z" creationid="xccui" creationdate="20190606T033840Z">
-        <seg>在批处理场景下，上面提的都不是问题，因为批处理任务可以轻易"从头再来"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191246Z" creationid="xccui" creationdate="20190606T033840Z">
+        <seg>在批处理场景下，上面提到的都不算问题。由于批处理任务可以轻易"从头再来"，</seg>
       </tuv>
     </tu>
     <tu>
