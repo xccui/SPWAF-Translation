@@ -6808,8 +6808,8 @@
       <tuv lang="EN-US">
         <seg>Another case is when you need to periodically report results in real time, independently of their accuracy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031009Z" creationid="xccui" creationdate="20190606T031009Z">
-        <seg>另一种情况是，你需要周期性地实时报告结果，而不考虑其准确性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T180821Z" creationid="xccui" creationdate="20190606T031009Z">
+        <seg>另一种情况是，你需要周期性地实时报告结果而无论其准确性如何。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11985,8 +11985,8 @@
       <tuv lang="EN-US">
         <seg>Finally, processing-time windows offer a faithful rep‐ resentation of the streams themselves, which might be a desirable property for some use cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031118Z" creationid="xccui" creationdate="20190606T031118Z">
-        <seg>最后一点，处理时间窗口能够表示数据流自身的真实情况，这可能是某些用例的理想属性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T180913Z" creationid="xccui" creationdate="20190606T031118Z">
+        <seg>最后，处理时间窗口能够表示数据流自身的真实情况，这可能是某些用例的理想属性。</seg>
       </tuv>
     </tu>
     <tu>
