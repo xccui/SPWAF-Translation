@@ -17641,8 +17641,8 @@
       <tuv lang="EN-US">
         <seg>Interval Join</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T022626Z" creationid="esouser" creationdate="20190603T150359Z">
-        <seg>基于间隔的连接</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151640Z" creationid="esouser" creationdate="20190603T150359Z">
+        <seg>基于间隔的Join</seg>
       </tuv>
     </tu>
     <tu>
@@ -18249,8 +18249,8 @@
       <tuv lang="EN-US">
         <seg>Joining Streams on Time</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151619Z" creationid="xccui" creationdate="20190225T023252Z">
-        <seg>基于时间的双流连接</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151633Z" creationid="xccui" creationdate="20190225T023252Z">
+        <seg>基于时间的双流Join</seg>
       </tuv>
     </tu>
     <tu>
@@ -30875,8 +30875,8 @@
       <tuv lang="EN-US">
         <seg>Window Join</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T022724Z" creationid="esouser" creationdate="20190603T150722Z">
-        <seg>基于窗口的连接</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151644Z" creationid="esouser" creationdate="20190603T150722Z">
+        <seg>基于窗口的Join</seg>
       </tuv>
     </tu>
     <tu>
