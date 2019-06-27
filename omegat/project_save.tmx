@@ -14225,8 +14225,8 @@
       <tuv lang="EN-US">
         <seg>How can you ensure that such failures are handled transparently so that your streaming job can continue to run?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T041951Z" creationid="xccui" creationdate="20190415T041907Z">
-        <seg>如何保证可以透明地处理这些故障，让流式作业可以继续运行？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185807Z" creationid="xccui" creationdate="20190415T041907Z">
+        <seg>如何确保可以透明地处理这些故障，让流式作业可以继续运行？</seg>
       </tuv>
     </tu>
     <tu>
@@ -15969,8 +15969,8 @@
       <tuv lang="EN-US">
         <seg>In long-running, streaming jobs, each of these tasks can fail at any time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042040Z" creationid="xccui" creationdate="20190415T041755Z">
-        <seg>对于长期运行的流式作业而言，每个任务都随时可能出现故障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185717Z" creationid="xccui" creationdate="20190415T041755Z">
+        <seg>对于长期运行的流式作业而言，每个任务都有可能随时出现故障。</seg>
       </tuv>
     </tu>
     <tu>
