@@ -15881,8 +15881,8 @@
       <tuv lang="EN-US">
         <seg>In fact, it is difficult to find examples of finite, complete datasets that are generated all at once.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T204824Z" creationid="esouser" creationdate="20190603T204824Z">
-        <seg>事实上，很难从现实世界找到那种瞬间就生成完整数据集的例子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T030309Z" creationid="esouser" creationdate="20190603T204824Z">
+        <seg>事实上，现实世界中很难找到那种瞬间就生成完整数据集的例子。</seg>
       </tuv>
     </tu>
     <tu>
