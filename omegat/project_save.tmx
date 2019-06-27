@@ -10961,8 +10961,8 @@
       <tuv lang="EN-US">
         <seg>Extract the archive file:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123035Z" creationid="xccui" creationdate="20190605T123035Z">
-        <seg>提取归档文件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T040942Z" creationid="xccui" creationdate="20190605T123035Z">
+        <seg>解压文件：</seg>
       </tuv>
     </tu>
     <tu>
