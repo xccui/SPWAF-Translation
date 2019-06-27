@@ -13577,8 +13577,8 @@
       <tuv lang="EN-US">
         <seg>Fortunately, in many cases, you can partition the state by a key and manage the state of each partition independently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T033736Z" creationid="xccui" creationdate="20190415T033542Z">
-        <seg>幸运的是，在很多场景下可以把状态按照键值划分并独立管理每一部分。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183735Z" creationid="xccui" creationdate="20190415T033542Z">
+        <seg>幸运的是，在很多情况下可以把状态按照键值划分，并独立管理每一部分。</seg>
       </tuv>
     </tu>
     <tu>
