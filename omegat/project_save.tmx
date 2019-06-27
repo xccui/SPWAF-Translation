@@ -18057,8 +18057,8 @@
       <tuv lang="EN-US">
         <seg>It is required by any nontrivial computation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031430Z" creationid="xccui" creationdate="20190606T031411Z">
-        <seg>任何稍复杂点的计算都要用它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181230Z" creationid="xccui" creationdate="20190606T031411Z">
+        <seg>任何一个稍复杂的计算都要用它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22674,8 +22674,8 @@
       <tuv lang="EN-US">
         <seg>Stateful operators use both incoming events and internal state to compute their output.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031507Z" creationid="xccui" creationdate="20190606T031507Z">
-        <seg>状态化算子同时利用到来的事件和内部状态来计算输出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181422Z" creationid="xccui" creationdate="20190606T031507Z">
+        <seg>状态化算子同时使用传入的事件和内部状态来计算输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28242,8 +28242,8 @@
       <tuv lang="EN-US">
         <seg>To produce a result, a function accumulates state over a period of time or number of events (e.g., to compute an aggregation or detect a pattern).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031502Z" creationid="xccui" creationdate="20190606T031435Z">
-        <seg>为了生成结果，函数会在一段时间或基于一定个数的事件来累积状态（例如：计算聚合或检测某个模式）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181304Z" creationid="xccui" creationdate="20190606T031435Z">
+        <seg>为了生成结果，函数会在一段时间或基于一定个数的事件来累积状态（例如计算聚合或检测某个模式）。</seg>
       </tuv>
     </tu>
     <tu>
