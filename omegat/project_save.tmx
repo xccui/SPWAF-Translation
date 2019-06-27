@@ -8905,8 +8905,8 @@
       <tuv lang="EN-US">
         <seg>Consider the case where Alice starts pop‐ ping bubbles while her phone is connected to the network and sends events to the analysis application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T015023Z" creationid="xccui" creationdate="20190606T015023Z">
-        <seg>因此考虑如下情况：爱丽丝开始消泡泡的时候手机还能联网向分析应用发送事件，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154618Z" creationid="xccui" creationdate="20190606T015023Z">
+        <seg>因此考虑如下情况：爱丽丝开始消泡泡的时候手机还能联网向分析应用发送事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26562,8 +26562,8 @@
       <tuv lang="EN-US">
         <seg>Then suddenly the train enters a tunnel and her phone gets dis‐ connected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T015033Z" creationid="xccui" creationdate="20190606T015033Z">
-        <seg>突然，地铁开进隧道，手机断网了，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154622Z" creationid="xccui" creationdate="20190606T015033Z">
+        <seg>突然，地铁开进隧道，手机断网了。</seg>
       </tuv>
     </tu>
     <tu>
