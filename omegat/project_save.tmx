@@ -9993,8 +9993,8 @@
       <tuv lang="EN-US">
         <seg>Each component provides its own guarantees and the end-to-end guarantee of the complete pipeline would be the weakest of each of its components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035338Z" creationid="xccui" creationdate="20190416T045936Z">
-        <seg>在每个组件都提供自身的保障情况下，整个处理管道上端到端的保障会取决于保障最弱的那个组件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194657Z" creationid="xccui" creationdate="20190416T045936Z">
+        <seg>在每个组件都提供自身的保障情况下，整个处理管道上端到端的保障会受制于保障最弱的那个组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16889,8 +16889,8 @@
       <tuv lang="EN-US">
         <seg>In this case, you can achieve exactly-once semantics with at-least-once guar‐ antees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035403Z" creationid="xccui" creationdate="20190606T035403Z">
-        <seg>该情况下，你可以利用至少一次保障去实现精确一次的语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194838Z" creationid="xccui" creationdate="20190606T035403Z">
+        <seg>该情况下，你可以用至少一次保障来实现精确一次的语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16977,8 +16977,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, you learned the fundamentals of data stream processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T040503Z" creationid="xccui" creationdate="20190606T035408Z">
-        <seg>本章主要教给你数据流处理的基础知识。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194856Z" creationid="xccui" creationdate="20190606T035408Z">
+        <seg>本章主要教给你数据流处理相关的基础知识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18009,8 +18009,8 @@
       <tuv lang="EN-US">
         <seg>It is important to note that sometimes you can get stronger semantics with weaker guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035348Z" creationid="xccui" creationdate="20190606T035348Z">
-        <seg>注意，有时候可以通过弱保障实现强语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194759Z" creationid="xccui" creationdate="20190606T035348Z">
+        <seg>注意，有时候你可以通过弱保障来实现强语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19193,8 +19193,8 @@
       <tuv lang="EN-US">
         <seg>Next, you learned the requirements of pro‐ cessing infinite streams in parallel and saw the importance of latency and throughput for stream applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T040339Z" creationid="xccui" creationdate="20190606T040339Z">
-        <seg>紧接着你学习了的并行处理无限流的需求，了解了延迟和吞吐对于流式应用的重要性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194946Z" creationid="xccui" creationdate="20190606T040339Z">
+        <seg>接下来，你学习了的并行处理无限流的需求，了解了延迟和吞吐对于流式应用的重要性。</seg>
       </tuv>
     </tu>
     <tu>
