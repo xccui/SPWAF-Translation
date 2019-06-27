@@ -6168,8 +6168,8 @@
       <tuv lang="EN-US">
         <seg>Aggregation operations are stateful and combine the current state with the incoming event to produce an updated aggregate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011759Z" creationid="xccui" creationdate="20190606T011759Z">
-        <seg>这些聚合操作是状态化的，它们通过将新到来的事件合并到已有状态来生成更新后的聚合值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061239Z" creationid="xccui" creationdate="20190606T011759Z">
+        <seg>聚合操作都是状态化的，它们通过将新到来的事件合并到已有状态来生成更新后的聚合值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19433,8 +19433,8 @@
       <tuv lang="EN-US">
         <seg>Note that to be able to efficiently combine the current state with an event and produce a single value, the aggregation function must be associative and commuta‐ tive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011859Z" creationid="xccui" creationdate="20190606T011827Z">
-        <seg>注意，为了更有效地合并事件和当前状态、生成单个结果，聚合函数必须是可结合（associative）及可交换（commutative）的，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061404Z" creationid="xccui" creationdate="20190606T011827Z">
+        <seg>注意，为了更有效地合并事件和当前状态并生成单个结果，聚合函数必须是可结合（associative）及可交换（commutative）的，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20306,8 +20306,8 @@
       <tuv lang="EN-US">
         <seg>Otherwise, the operator would have to store the complete stream history.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035454Z" creationid="xccui" creationdate="20190406T035454Z">
-        <seg>否则算子就需要存储整个历史流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061442Z" creationid="xccui" creationdate="20190406T035454Z">
+        <seg>否则算子就需要存储整个流的历史记录。</seg>
       </tuv>
     </tu>
     <tu>
