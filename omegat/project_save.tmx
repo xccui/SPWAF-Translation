@@ -13377,8 +13377,8 @@
       <tuv lang="EN-US">
         <seg>For instance, if we are using a distributed processing engine, each operator might have several parallel tasks running on different physical machines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233104Z" creationid="xccui" creationdate="20190605T233104Z">
-        <seg>例如：当我们使用分布式处理引擎，每个算子可能会在不同物理机器上运行多个并行任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044323Z" creationid="xccui" creationdate="20190605T233104Z">
+        <seg>例如：当我们使用分布式处理引擎时，每个算子可能会在不同物理机器上运行多个并行任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16097,8 +16097,8 @@
       <tuv lang="EN-US">
         <seg>In order to execute a dataflow program, its logical graph is converted into a physical dataflow graph, which specifies in detail how the program is executed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233054Z" creationid="xccui" creationdate="20190605T233054Z">
-        <seg>为了执行Dataflow程序，需要将逻辑图转化为物理Dataflow图，从而可以指定程序执行的执行细节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044306Z" creationid="xccui" creationdate="20190605T233054Z">
+        <seg>为了执行Dataflow程序，需要将逻辑图转化为物理Dataflow图，后者指定了程序的执行细节。</seg>
       </tuv>
     </tu>
     <tu>
