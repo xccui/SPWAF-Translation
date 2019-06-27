@@ -5064,8 +5064,8 @@
       <tuv lang="EN-US">
         <seg>A failure can occur during any of these steps and the system has to clearly define its behavior in a failure scenario.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033607Z" creationid="xccui" creationdate="20190606T033607Z">
-        <seg>上述任何一个步骤都可能发生故障，系统必须在故障场景下明确定义其行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T190655Z" creationid="xccui" creationdate="20190606T033607Z">
+        <seg>上述任何一个步骤都可能发生故障，而系统必须在故障情况下明确定义其行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13073,8 +13073,8 @@
       <tuv lang="EN-US">
         <seg>For each event in the input stream, a task is a processing step that performs the fol‐ lowing steps: (1) receives the event, storing it in a local buffer; (2) possibly updates internal state; and (3) produces an output record.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T033550Z" creationid="xccui" creationdate="20190606T033527Z">
-        <seg>对于输入流中的每个事件，任务都需要执行以下步骤：（1）接收事件并将它们存在本地缓冲；（2）选择性地更新内部状态；（3）产生输出记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T190522Z" creationid="xccui" creationdate="20190606T033527Z">
+        <seg>对于输入流中的每个事件，任务都需要执行以下步骤：（1）接收事件并将它们存在本地缓冲区；（2）选择性地更新内部状态；（3）产生输出记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15921,8 +15921,8 @@
       <tuv lang="EN-US">
         <seg>In fact, you would like your stream processor to not only continue processing in the case of task failures, but also provide correctness guarantees about the result and operator state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T190342Z" creationid="xccui" creationdate="20190606T033501Z">
-        <seg>事实上，你不仅需要流处理引擎在发生故障时可以继续运行，还需要它能保证结果和算子状态的正确性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T190419Z" creationid="xccui" creationdate="20190606T033501Z">
+        <seg>事实上，你不仅需要流处理引擎在出现任务故障时可以继续运行，还需要它能保证结果和算子状态的正确性。</seg>
       </tuv>
     </tu>
     <tu>
