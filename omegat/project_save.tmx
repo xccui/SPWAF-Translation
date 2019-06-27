@@ -7673,8 +7673,8 @@
       <tuv lang="EN-US">
         <seg>At-most-once is the trivial case that guarantees processing of each event at most once.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034341Z" creationid="xccui" creationdate="20190606T034341Z">
-        <seg>至多一次也是最简单的情况，它保证每个事件至多被处理一次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T192042Z" creationid="xccui" creationdate="20190606T034341Z">
+        <seg>至多一次是一种最简单的情况，它保证每个事件至多被处理一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13889,8 +13889,8 @@
       <tuv lang="EN-US">
         <seg>Having no guarantees whatsoever sounds like a terrible idea, but it might be fine if you can live with approximate results and all you care about is providing the lowest latency possible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034507Z" creationid="xccui" creationdate="20190606T034436Z">
-        <seg>无论如何，没有保障听上去都不是个好主意。但如果你能接受近似结果并且只关心提供尽可能低的延迟，这种保障也什么问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T192745Z" creationid="xccui" creationdate="20190606T034436Z">
+        <seg>无论如何，没有保障听上去都像是个馊主意。但如果你能接受近似结果并且一门心思地关注怎样降低延迟，这种保障似乎也什么问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27642,8 +27642,8 @@
       <tuv lang="EN-US">
         <seg>This type of guarantee is also known as “no guar‐ antee” since even a system that drops every event can provide this guarantee.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034419Z" creationid="xccui" creationdate="20190606T034419Z">
-        <seg>这类保障也被称作"没有保障"，因为即便系统丢掉所有事件也能满足。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T192128Z" creationid="xccui" creationdate="20190606T034419Z">
+        <seg>这类保障也被称作"没有保障"，因为即便系统丢掉所有事件也能满足其条件。</seg>
       </tuv>
     </tu>
     <tu>
