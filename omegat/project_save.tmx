@@ -15777,8 +15777,8 @@
       <tuv lang="EN-US">
         <seg>In contrast, in continuously running streaming jobs, state is durable across events and we can expose it as a first-class citi‐ zen in the programming model.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032132Z" creationid="xccui" creationdate="20190606T032132Z">
-        <seg>反之，在持续运行的流式作业中，每次处理事件状态都是持久化的，我们完全可以将其作为编程模型中的一等公民。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182441Z" creationid="xccui" creationdate="20190606T032132Z">
+        <seg>反之，在持续运行的流式作业中，每次处理事件所用到的状态都是持久化的，我们完全可以将其作为编程模型中的一等公民。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19681,8 +19681,8 @@
       <tuv lang="EN-US">
         <seg>Once a job is scheduled for execution on the next batch, it cannot access the state of the previous job.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032116Z" creationid="xccui" creationdate="20190606T032116Z">
-        <seg>一旦作业调度到下个批次上执行，它将无法访问之前的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182213Z" creationid="xccui" creationdate="20190606T032116Z">
+        <seg>一旦某个作业被调度到下个批次上执行，它将无法访问之前的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30163,8 +30163,8 @@
       <tuv lang="EN-US">
         <seg>When a job finishes, the result is written to persistent storage, and all operator state is lost.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032106Z" creationid="xccui" creationdate="20190606T032106Z">
-        <seg>当一个作业结束，其结果就会写入持久化存储中，同时所有算子的状态将不复存在。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182140Z" creationid="xccui" creationdate="20190606T032106Z">
+        <seg>每当一个作业结束，其结果都会写入持久化存储中，同时所有算子的状态将不复存在。</seg>
       </tuv>
     </tu>
     <tu>
