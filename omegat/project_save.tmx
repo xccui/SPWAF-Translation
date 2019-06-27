@@ -18249,8 +18249,8 @@
       <tuv lang="EN-US">
         <seg>Joining Streams on Time</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T150353Z" creationid="xccui" creationdate="20190225T023252Z">
-        <seg>基于时间的数据流连接</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151619Z" creationid="xccui" creationdate="20190225T023252Z">
+        <seg>基于时间的双流连接</seg>
       </tuv>
     </tu>
     <tu>
