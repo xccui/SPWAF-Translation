@@ -20042,8 +20042,8 @@
       <tuv lang="EN-US">
         <seg>Operations based on event time are predictable and their results are deterministic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T024302Z" creationid="xccui" creationdate="20190606T024302Z">
-        <seg>基于事件时间的操作是可预测的，它们的结果非常确定。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160026Z" creationid="xccui" creationdate="20190606T024302Z">
+        <seg>基于事件时间的操作是可预测的，其结果非常确定。</seg>
       </tuv>
     </tu>
     <tu>
