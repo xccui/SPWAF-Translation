@@ -9937,8 +9937,8 @@
       <tuv lang="EN-US">
         <seg>ETL processes need to run periodically to keep the data in the data warehouse synchronized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064845Z" creationid="esouser" creationdate="20190603T202915Z">
-        <seg>为了却病数据仓库能够同步，ETL过程需要周期性地执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024717Z" creationid="esouser" creationdate="20190603T202915Z">
+        <seg>为了确保数据仓库能够同步，ETL过程需要周期性地执行。</seg>
       </tuv>
     </tu>
     <tu>
