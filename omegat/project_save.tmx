@@ -33593,6 +33593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>of elements in the window (size), the window object, and an EvictorContext that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202748Z" creationid="xccui" creationdate="20190627T202748Z">
+        <seg>窗口内的元素数量、窗口对象以及一个用于访问当前处理时间和水位线的EvictorContext。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of the parallel partitions of a DataStream is skewed, we might want to rebalance the data to evenly distribute the computation load of subsequent operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065820Z" creationid="xccui" creationdate="20190615T065415Z">
