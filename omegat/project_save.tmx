@@ -16321,8 +16321,8 @@
       <tuv lang="EN-US">
         <seg>In principle, state can be stored and accessed in many different places including pro‐ gram variables, local files, or embedded or external databases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T031156Z" creationid="esouser" creationdate="20190603T205858Z">
-        <seg>原则上，可将需要访问的状态存储在很多不同位置，例如：程序变量、本地文件、嵌入式或外部数据库等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T031244Z" creationid="esouser" creationdate="20190603T205858Z">
+        <seg>原则上，可将需要访问的状态存储在多种位置，例如：程序变量、本地文件、嵌入式或外部数据库等。</seg>
       </tuv>
     </tu>
     <tu>
