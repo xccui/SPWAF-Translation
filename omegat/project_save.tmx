@@ -23810,8 +23810,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides the connect transformation to support such use cases.1 The DataStream.connect() method receives a DataStream and returns a Connected Streams object, which represents the two connected streams:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040600Z" creationid="xccui" creationdate="20190615T040600Z">
-        <seg>DataStream API提供的connect转换可以用来完成该用例。1 DataStream.connect()方法接收一个DataStream并返回一个ConnectedStream对象，该对象表示两个互相接通的流：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205930Z" creationid="xccui" creationdate="20190615T040600Z">
+        <seg>DataStream API提供的connect转换可以用来完成该用例。1 DataStream.connect()方法接收一个DataStream并返回一个ConnectedStream对象，该对象表示两个联结起来的流：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29154,8 +29154,8 @@
       <tuv lang="EN-US">
         <seg>Using Connected Broadcast State</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T204954Z" creationid="xccui" creationdate="20190225T024605Z">
-        <seg>使用接通的广播状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205903Z" creationid="xccui" creationdate="20190225T024605Z">
+        <seg>使用联结的广播状态</seg>
       </tuv>
     </tu>
     <tu>
