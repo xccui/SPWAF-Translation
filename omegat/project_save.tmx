@@ -23370,8 +23370,8 @@
       <tuv lang="EN-US">
         <seg>That is, how long do we have to wait before we can be certain that we have received all events that happened before a certain point of time?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T161705Z" creationid="xccui" creationdate="20190412T161649Z">
-        <seg>即我们需要等多久才能确定已经收到了所有发生在某个特定时间点之前的事件？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160704Z" creationid="xccui" creationdate="20190412T161649Z">
+        <seg>换言之，我们需要等多久才能确定已经收到了所有发生在某个特定时间点之前的事件？</seg>
       </tuv>
     </tu>
     <tu>
