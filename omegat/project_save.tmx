@@ -9297,8 +9297,8 @@
       <tuv lang="EN-US">
         <seg>Data exchange strategies define how data items are assigned to tasks in a physical dataflow graph.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233334Z" creationid="xccui" creationdate="20190401T034226Z">
-        <seg>数据交换策略定义数据项如何分配给物理Dataflow图中的不同任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044914Z" creationid="xccui" creationdate="20190401T034226Z">
+        <seg>数据交换策略定义了如何将数据项分配给物理Dataflow图中的不同任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14153,8 +14153,8 @@
       <tuv lang="EN-US">
         <seg>Here, we briefly review some common data exchange strate‐ gies, as shown in Figure 2-3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233351Z" creationid="xccui" creationdate="20190605T233351Z">
-        <seg>下面我们结合图2-3来简单回顾一下常见的数据交换策略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T045024Z" creationid="xccui" creationdate="20190605T233351Z">
+        <seg>接下来，我们结合图2-3来简单回顾一下常见的数据交换策略。</seg>
       </tuv>
     </tu>
     <tu>
