@@ -8015,6 +8015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both methods are called with an Iterable that serves all elements that were added to the window, the number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202634Z" creationid="xccui" creationdate="20190627T202634Z">
+        <seg>它们的参数都是一个面向窗口内已有元素的遍历器、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Broadcast state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184737Z" creationid="xccui" creationdate="20190607T184737Z">
@@ -24748,6 +24756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052035Z" creationid="xccui" creationdate="20190615T052015Z">
         <seg>而所有非广播流的事件只是会被简单地转发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The evictBefore() and evictAfter() methods are called before and after a window function is applied on the content of a window, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202255Z" creationid="xccui" creationdate="20190627T202249Z">
+        <seg>evictBefore()和evictAfter()方法分别会在窗口函数应用于窗口内容之前和之后调用。</seg>
       </tuv>
     </tu>
     <tu>
