@@ -16065,8 +16065,8 @@
       <tuv lang="EN-US">
         <seg>In order to ensure at-least-once result correctness, you need to have a way to replay events—either from the source or from some buffer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193503Z" creationid="xccui" creationdate="20190606T034644Z">
-        <seg>为了确保至少一次结果的正确性，需要一些办法从源头或缓冲中重放事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193640Z" creationid="xccui" creationdate="20190606T034644Z">
+        <seg>为了确保至少一次结果语义的正确性，需要想办法从源头或缓冲区中重放事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20514,8 +20514,8 @@
       <tuv lang="EN-US">
         <seg>Persistent event logs write all events to durable storage, so that they can be replayed if a task fails.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T043348Z" creationid="xccui" creationdate="20190416T043348Z">
-        <seg>持久化事件日志会将所有事件写入永久存储，因此在任务故障时可以重放它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T193704Z" creationid="xccui" creationdate="20190416T043348Z">
+        <seg>持久化事件日志会将所有事件写入永久存储，这样在任务故障时就可以重放它们。</seg>
       </tuv>
     </tu>
     <tu>
