@@ -5144,8 +5144,8 @@
       <tuv lang="EN-US">
         <seg>A logical dataflow graph to continuously count hashtags (nodes represent operators and edges denote data dependencies)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044024Z" creationid="xccui" creationdate="20190605T224959Z">
-        <seg>一个持续统计主题标签数目的Dataflow逻辑图（其中节点表示算子，边表示数据依赖）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044414Z" creationid="xccui" creationdate="20190605T224959Z">
+        <seg>一个持续统计主题标签数目的Dataflow逻辑图（其中顶点表示算子，边表示数据依赖）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9481,8 +9481,8 @@
       <tuv lang="EN-US">
         <seg>Dataflow programs are commonly represented as directed graphs, where nodes are called operators and represent computations and edges represent data dependen‐ cies.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043410Z" creationid="xccui" creationdate="20190605T224809Z">
-        <seg>Dataflow程序通常会以有向图进行表示。图中节点称为算子，表示计算；而边表示数据间的依赖关系。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044422Z" creationid="xccui" creationdate="20190605T224809Z">
+        <seg>Dataflow程序通常会以有向图进行表示。图中顶点称为算子，表示计算；而边表示数据间的依赖关系。</seg>
       </tuv>
     </tu>
     <tu>
