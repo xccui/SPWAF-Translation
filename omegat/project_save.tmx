@@ -15505,8 +15505,8 @@
       <tuv lang="EN-US">
         <seg>In a true stream‐ ing model, events can be processed as soon as they arrive in the system and latency more closely reflects the actual work that has to be performed on each event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T051932Z" creationid="xccui" creationdate="20190605T234331Z">
-        <seg>在真正的流模型中，事件一到达系统就可以进行处理，延迟会更真实地反映出每个事件都要经历的实际执行工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052022Z" creationid="xccui" creationdate="20190605T234331Z">
+        <seg>在真正的流模型中，事件一到达系统就可以进行处理，延迟会更加真实地反映出每个事件都要经历的实际处理工作。</seg>
       </tuv>
     </tu>
     <tu>
