@@ -22066,8 +22066,8 @@
       <tuv lang="EN-US">
         <seg>Since streaming appli‐ cations run continuously and the input is potentially unbounded, there is no notion of total execution time in data stream processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050504Z" creationid="xccui" creationdate="20190605T233740Z">
-        <seg>但由于流式应用会一直执行且输入可能是无限的，所以在数据流处理中没有总执行时间的说法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050547Z" creationid="xccui" creationdate="20190605T233740Z">
+        <seg>但由于流式应用会持续执行且输入可能是无限的，所以在数据流处理中没有总执行时间的概念。</seg>
       </tuv>
     </tu>
     <tu>
