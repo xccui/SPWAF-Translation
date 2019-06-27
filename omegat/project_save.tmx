@@ -28626,8 +28626,8 @@
       <tuv lang="EN-US">
         <seg>True stream processing does not intro‐ duce such artificial delays and thus can achieve really low latencies.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234321Z" creationid="xccui" creationdate="20190605T234321Z">
-        <seg>真正的流处理不会引入人为推迟等要素，因此才能实现极低的延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T051857Z" creationid="xccui" creationdate="20190605T234321Z">
+        <seg>真正的流处理不会引入人为延迟等要素，只有这样才能将延迟将至极低。</seg>
       </tuv>
     </tu>
     <tu>
