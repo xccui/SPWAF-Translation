@@ -17841,8 +17841,8 @@
       <tuv lang="EN-US">
         <seg>It also supports connecting a keyed and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053154Z" creationid="xccui" creationdate="20190615T053018Z">
-        <seg>它不仅支持接通一个按键值分好区的流和一个广播流，还能将广播后的事件存到一个托管状态中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210037Z" creationid="xccui" creationdate="20190615T053018Z">
+        <seg>它不仅支持联结一个按键值分好区的流和一个广播流，还能将广播后的事件存到一个托管状态中。</seg>
       </tuv>
     </tu>
     <tu>
