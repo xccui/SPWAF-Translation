@@ -9353,8 +9353,8 @@
       <tuv lang="EN-US">
         <seg>Data parallelism is use‐ ful because it allows for processing large volumes of data and spreading the computa‐ tion load across several computing nodes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233252Z" creationid="xccui" creationdate="20190605T233252Z">
-        <seg>数据并行非常有用，因为它支持处理大规模数据，能够将计算负载分配到多个节点上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044756Z" creationid="xccui" creationdate="20190605T233252Z">
+        <seg>数据并行非常有用，因为它能够将计算负载分配到多个节点上从而允许处理大规模的数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27682,8 +27682,8 @@
       <tuv lang="EN-US">
         <seg>This type of parallelism is called task parallelism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233311Z" creationid="xccui" creationdate="20190605T233305Z">
-        <seg>这种并行称为数据并行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044813Z" creationid="xccui" creationdate="20190605T233305Z">
+        <seg>这种并行称为任务并行。</seg>
       </tuv>
     </tu>
     <tu>
