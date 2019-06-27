@@ -15385,8 +15385,8 @@
       <tuv lang="EN-US">
         <seg>In Chapter 1, you learned that streaming applications have different operational requirements than traditional batch programs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233723Z" creationid="xccui" creationdate="20190605T233716Z">
-        <seg>在第一章，你已经了解了流式应用在操作需求方面和传统批处理程序有所不同，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050127Z" creationid="xccui" creationdate="20190605T233716Z">
+        <seg>在第一章，你已经了解到流式应用和传统批处理程序在操作需求方面有所差异，</seg>
       </tuv>
     </tu>
     <tu>
@@ -21162,8 +21162,8 @@
       <tuv lang="EN-US">
         <seg>Requirements also differ when it comes to evaluating performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T150306Z" creationid="xccui" creationdate="20190401T150306Z">
-        <seg>而这些不同还体现在性能评测方面。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050156Z" creationid="xccui" creationdate="20190401T150306Z">
+        <seg>而这些差异还体现在性能评测方面。</seg>
       </tuv>
     </tu>
     <tu>
