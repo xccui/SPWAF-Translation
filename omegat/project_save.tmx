@@ -1248,8 +1248,8 @@
       <tuv lang="EN-US">
         <seg>// alternative: connect two keyed streams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050418Z" creationid="xccui" creationdate="20190615T050418Z">
-        <seg>// 或者是接通两个已经按键值分好区的数据流</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205951Z" creationid="xccui" creationdate="20190615T050418Z">
+        <seg>// 或者是联结两个已经按键值分好区的数据流</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,8 +1784,8 @@
       <tuv lang="EN-US">
         <seg>// keyBy two connected streams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050345Z" creationid="xccui" creationdate="20190615T050140Z">
-        <seg>// 对两个接通后的数据流按键值分区</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205947Z" creationid="xccui" creationdate="20190615T050140Z">
+        <seg>// 对两个联结后的数据流按键值分区</seg>
       </tuv>
     </tu>
     <tu>
