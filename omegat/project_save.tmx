@@ -30067,8 +30067,8 @@
       <tuv lang="EN-US">
         <seg>What’s more, when combined with replayable streams, the determinism of timestamps gives you the ability to fast forward the past.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025045Z" creationid="xccui" creationdate="20190606T025045Z">
-        <seg>而且结合可重放的数据流，时间戳的确定性允许你对历史数据"快进"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160545Z" creationid="xccui" creationdate="20190606T025045Z">
+        <seg>而且结合可重放的数据流，时间戳所带来的确定性允许你对历史数据"快进"。</seg>
       </tuv>
     </tu>
     <tu>
