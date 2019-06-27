@@ -30395,8 +30395,8 @@
       <tuv lang="EN-US">
         <seg>When dealing with a potentially unbounded stream of continuously arriving events, time becomes a central aspect of applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T210942Z" creationid="xccui" creationdate="20190409T210522Z">
-        <seg>当处理一个由持续到来事件所组成的潜在无穷数据流，时间就成为了应用中的核心要素。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T153413Z" creationid="xccui" creationdate="20190409T210522Z">
+        <seg>当处理一个持续到达且可能无穷的事件流时，时间便成了应用中最为核心的要素。</seg>
       </tuv>
     </tu>
     <tu>
