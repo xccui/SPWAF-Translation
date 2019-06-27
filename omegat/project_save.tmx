@@ -23418,8 +23418,8 @@
       <tuv lang="EN-US">
         <seg>That is, you are primarily concerned with determining the peak throughput—the perfor‐ mance limit when your system is at its maximum load.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234550Z" creationid="xccui" creationdate="20190605T234550Z">
-        <seg>换言之，首要关注点是确定峰值吞吐，即系统满负载时的性能上限。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052457Z" creationid="xccui" creationdate="20190605T234550Z">
+        <seg>换言之，首要的关注点是确定峰值吞吐，即系统满负载时的性能上限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28146,8 +28146,8 @@
       <tuv lang="EN-US">
         <seg>To better understand the con‐ cept of peak throughput, let’s consider a stream processing application that does not receive any incoming data and thus does not consume any system resources.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234637Z" creationid="xccui" creationdate="20190605T234611Z">
-        <seg>为了更好地理解峰值吞吐的概念，我们先假设某个流处理应用没有在接收到来的数据，无需占用任何系统资源。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052628Z" creationid="xccui" creationdate="20190605T234611Z">
+        <seg>为了更好地理解峰值吞吐的概念，我们先假设某个流处理应用没有在接收任何数据，也因此无需占用任何系统资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30507,8 +30507,8 @@
       <tuv lang="EN-US">
         <seg>When the first event comes in, it will be immediately processed with the minimum latency possible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234653Z" creationid="xccui" creationdate="20190605T234653Z">
-        <seg>当第一个事件到来，系统会立刻以尽可能低的延迟进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052653Z" creationid="xccui" creationdate="20190605T234653Z">
+        <seg>当首个事件进入时，系统会立刻以尽可能低的延迟进行处理。</seg>
       </tuv>
     </tu>
     <tu>
