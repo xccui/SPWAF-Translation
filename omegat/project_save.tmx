@@ -9257,8 +9257,8 @@
       <tuv lang="EN-US">
         <seg>Data arriv‐ ing at the lambda architecture is ingested by the stream processor and also written to</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051911Z" creationid="xccui" creationdate="20190605T051850Z">
-        <seg>该架构中到来的数据会同时发往流处理引擎和写入批量存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T035717Z" creationid="xccui" creationdate="20190605T051850Z">
+        <seg>在该架构中，到来的数据会同时发往流处理引擎和写入批量存储。</seg>
       </tuv>
     </tu>
     <tu>
