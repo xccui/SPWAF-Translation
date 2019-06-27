@@ -18017,8 +18017,8 @@
       <tuv lang="EN-US">
         <seg>It is important to note that the rate of processing depends on the rate of arrival; low throughput does not necessarily indicate bad performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T203141Z" creationid="xccui" creationdate="20190401T200707Z">
-        <seg>但要注意，处理速率取决于数据到来速率，因此低吞吐不一定意味着性能差。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052344Z" creationid="xccui" creationdate="20190401T200707Z">
+        <seg>但要注意，处理速率取决于数据到来速率，因此吞吐底不一定意味着性能差。</seg>
       </tuv>
     </tu>
     <tu>
