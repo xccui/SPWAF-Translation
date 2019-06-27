@@ -25464,6 +25464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The join interval is symmetric, i.e., an event from B joins with all events from A that are no more than 15 minutes earlier and at most one hour later than the B event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T214134Z" creationid="xccui" creationdate="20190627T214134Z">
+        <seg>基于间隔的Join本身具有对称性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The key and value of the map can be of arbitrary type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T221809Z" creationid="xccui" creationdate="20190607T221757Z">
