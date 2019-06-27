@@ -9057,8 +9057,8 @@
       <tuv lang="EN-US">
         <seg>Count-based tumbling windows define how many events are collected before triggering evaluation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T023227Z" creationid="xccui" creationdate="20190406T051102Z">
-        <seg>基于数量的（count-based）滚动窗口定义在触发计算前需要集齐多少条事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063415Z" creationid="xccui" creationdate="20190406T051102Z">
+        <seg>基于数量的（count-based）滚动窗口定义了在触发计算前需要集齐多少条事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21722,8 +21722,8 @@
       <tuv lang="EN-US">
         <seg>Session windows are useful in common real-world scenarios where neither tum‐ bling nor sliding windows can be applied.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013529Z" creationid="xccui" creationdate="20190606T013410Z">
-        <seg>会话窗口在一些既不适合用滚动窗口也不适合用滑动窗口的现实场景中非常有用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063724Z" creationid="xccui" creationdate="20190606T013410Z">
+        <seg>会话窗口（session window）在一些常见的真实场景中非常有用，这些场景既不适合用滚动窗口也不适合用滑动窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22242,8 +22242,8 @@
       <tuv lang="EN-US">
         <seg>Sliding windows assign events into overlapping buckets of fixed size.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013132Z" creationid="xccui" creationdate="20190606T013132Z">
-        <seg>滑动窗口（sliding window）将事件分配到大小固定且相互重叠的桶中，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063526Z" creationid="xccui" creationdate="20190606T013132Z">
+        <seg>滑动窗口（sliding window）将事件分配到大小固定且（允许）相互重叠的桶中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27898,8 +27898,8 @@
       <tuv lang="EN-US">
         <seg>Time- based tumbling windows define a time interval during which events are buffered in the bucket.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013049Z" creationid="xccui" creationdate="20190606T013049Z">
-        <seg>基于时间的（time-based）滚动窗口定义在桶中缓冲数据的时间间隔。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063432Z" creationid="xccui" creationdate="20190606T013049Z">
+        <seg>基于时间的（time-based）滚动窗口定义了在桶中缓冲数据的时间间隔。</seg>
       </tuv>
     </tu>
     <tu>
