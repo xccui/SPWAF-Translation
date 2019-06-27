@@ -30051,8 +30051,8 @@
       <tuv lang="EN-US">
         <seg>What’s more, streaming applica‐ tions that process events as they are produced should also be able to process historical events in the same way, thus enabling offline analytics or even time travel analyses.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014506Z" creationid="xccui" creationdate="20190606T014415Z">
-        <seg>此外，处理实时事件的流处理应用还应以相同的方式处理历史事件，这样才能支持离线分析，甚至那些比较不同历史区间数据的分析。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064258Z" creationid="xccui" creationdate="20190606T014415Z">
+        <seg>此外，处理实时事件的流处理应用还应以相同的方式处理历史事件，这样才能支持离线分析，甚至那些比较不同历史区间数据的分析（time travel analyse）。</seg>
       </tuv>
     </tu>
     <tu>
