@@ -1368,8 +1368,8 @@
       <tuv lang="EN-US">
         <seg>// connect streams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040821Z" creationid="xccui" creationdate="20190615T040821Z">
-        <seg>// 将两条流接通</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T204851Z" creationid="xccui" creationdate="20190615T040821Z">
+        <seg>// 将两条流合并</seg>
       </tuv>
     </tu>
     <tu>
