@@ -22186,8 +22186,8 @@
       <tuv lang="EN-US">
         <seg>Since you do not take into consideration late events and out-of-order events, a window simply needs to buffer up events and immediately trigger computation once the specified time length is reached.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T030906Z" creationid="xccui" creationdate="20190414T041209Z">
-        <seg>由于无需考虑延迟或乱序事件，窗口只需简单地缓冲事件，然后在达到特定时间后立即触发窗口计算即可。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T180546Z" creationid="xccui" creationdate="20190414T041209Z">
+        <seg>由于无需考虑迟到或乱序的事件，窗口只需简单地缓冲事件，然后在达到特定时间后立即触发窗口计算即可。</seg>
       </tuv>
     </tu>
     <tu>
