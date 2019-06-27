@@ -5144,8 +5144,8 @@
       <tuv lang="EN-US">
         <seg>A logical dataflow graph to continuously count hashtags (nodes represent operators and edges denote data dependencies)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T224959Z" creationid="xccui" creationdate="20190605T224959Z">
-        <seg>一个持续计算主题标签数量的Dataflow逻辑图（顶点表示算子，边表示数据依赖）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043952Z" creationid="xccui" creationdate="20190605T224959Z">
+        <seg>一个持续统计主题标签数目的Dataflow逻辑图（顶点表示算子，边表示数据依赖）。</seg>
       </tuv>
     </tu>
     <tu>
