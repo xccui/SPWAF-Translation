@@ -24514,8 +24514,8 @@
       <tuv lang="EN-US">
         <seg>The broadcast state is discussed in detail in “Using Connected Broadcast State” on page 160.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053630Z" creationid="xccui" creationdate="20190615T053447Z">
-        <seg>我们会在第160页"使用接通的广播状态"一节详细讨论该功能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210044Z" creationid="xccui" creationdate="20190615T053447Z">
+        <seg>我们会在第160页"使用联结的广播状态"一节详细讨论该功能。</seg>
       </tuv>
     </tu>
     <tu>
