@@ -8929,8 +8929,8 @@
       <tuv lang="EN-US">
         <seg>Consider, for example, a streaming join opera‐ tion or a holistic aggregate, such as the median function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061859Z" creationid="xccui" creationdate="20190606T012013Z">
-        <seg>例如：流式连接或者像是求中位数的整体聚合（holistic aggregate）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151824Z" creationid="xccui" creationdate="20190606T012013Z">
+        <seg>例如：流式Join或者像是求中位数的整体聚合（holistic aggregate）。</seg>
       </tuv>
     </tu>
     <tu>
