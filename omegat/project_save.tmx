@@ -23026,8 +23026,8 @@
       <tuv lang="EN-US">
         <seg>Such a summary can be a count, a sum, a sample of the events seen so far, a window buffer, or a custom data structure that preserves some property of interest to the running application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183136Z" creationid="xccui" creationdate="20190606T032633Z">
-        <seg>这种摘要可能是一个数量值，一个累加值，一个至今为止全部事件的抽样，一个窗口缓冲或者是一个保留了运行应用某些有价值属性的自定义数据结构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183219Z" creationid="xccui" creationdate="20190606T032633Z">
+        <seg>这种摘要可能是一个数量值，一个累加值，一个对至今为止全部事件的抽样，一个窗口缓冲或是一个保留了运行应用某些有价值属性的自定义数据结构。</seg>
       </tuv>
     </tu>
     <tu>
