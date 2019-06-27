@@ -15009,8 +15009,8 @@
       <tuv lang="EN-US">
         <seg>If the system continues to receive data at a higher rate than it can handle, buf‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053513Z" creationid="xccui" creationdate="20190605T234746Z">
-        <seg>如果系统持续以力不能及的高速率接收数据，缓冲区可能会用尽，继而可能导致数据丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053602Z" creationid="xccui" creationdate="20190605T234746Z">
+        <seg>如果系统持续以力不能及的高速率接收数据，那么缓冲区可能会用尽，继而可能导致数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27570,8 +27570,8 @@
       <tuv lang="EN-US">
         <seg>This situation is commonly known as backpressure and there are different strategies to deal with it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234857Z" creationid="xccui" creationdate="20190605T234829Z">
-        <seg>这种情形通常被称为背压（backpressure），它可以通过多种策略来处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053732Z" creationid="xccui" creationdate="20190605T234829Z">
+        <seg>这种情形通常被称为背压（backpressure），我们有多种可选策略来处理它。</seg>
       </tuv>
     </tu>
     <tu>
