@@ -22074,8 +22074,8 @@
       <tuv lang="EN-US">
         <seg>Since streaming operators process potentially unbounded data, caution should be taken to not allow internal state to grow indefinitely.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T054811Z" creationid="xccui" creationdate="20190414T054737Z">
-        <seg>由于流式算子处理的都是潜在无限的数据，因此必须小心避免内部状态无限增长。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182956Z" creationid="xccui" creationdate="20190414T054737Z">
+        <seg>由于流式算子处理的都是潜在无穷无尽的数据，因此必须小心避免内部状态无限增长。</seg>
       </tuv>
     </tu>
     <tu>
