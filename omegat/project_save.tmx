@@ -1360,8 +1360,8 @@
       <tuv lang="EN-US">
         <seg>// connect readings and switches</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031702Z" creationid="xccui" creationdate="20190622T031702Z">
-        <seg>// 接通读数和开关</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210051Z" creationid="xccui" creationdate="20190622T031702Z">
+        <seg>// 联结读数和开关</seg>
       </tuv>
     </tu>
     <tu>
