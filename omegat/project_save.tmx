@@ -7913,8 +7913,8 @@
       <tuv lang="EN-US">
         <seg>Bob and Alice play the same game but have different mobile pro‐ viders.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T024443Z" creationid="xccui" creationdate="20190606T024443Z">
-        <seg>鲍勃和爱丽丝虽然玩的游戏相同，但他们的移动网络供应商不同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160457Z" creationid="xccui" creationdate="20190606T024443Z">
+        <seg>虽然玩的游戏相同，但鲍勃和爱丽丝的移动网络供应商不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8833,8 +8833,8 @@
       <tuv lang="EN-US">
         <seg>Consider Bob, another player of the online mobile game, who happens to be on the same train as Alice.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152139Z" creationid="xccui" creationdate="20190412T152139Z">
-        <seg>考虑另一位在线手游玩家鲍勃，他恰好和爱丽丝在同一趟地铁上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160443Z" creationid="xccui" creationdate="20190412T152139Z">
+        <seg>假设有另一位名叫鲍勃的玩家也在玩那个在线手游，他恰好和爱丽丝在同一趟地铁上。</seg>
       </tuv>
     </tu>
     <tu>
