@@ -13889,8 +13889,8 @@
       <tuv lang="EN-US">
         <seg>Having no guarantees whatsoever sounds like a terrible idea, but it might be fine if you can live with approximate results and all you care about is providing the lowest latency possible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T192745Z" creationid="xccui" creationdate="20190606T034436Z">
-        <seg>无论如何，没有保障听上去都像是个馊主意。但如果你能接受近似结果并且一门心思地关注怎样降低延迟，这种保障似乎也什么问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T192756Z" creationid="xccui" creationdate="20190606T034436Z">
+        <seg>无论如何，没有保障听上去都像是个馊主意。但如果你能接受近似结果并且一门心思地关注怎样降低延迟，这种保障似乎也可以接受。</seg>
       </tuv>
     </tu>
     <tu>
