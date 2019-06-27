@@ -18681,8 +18681,8 @@
       <tuv lang="EN-US">
         <seg>Many applications ingest multiple streams that need to be jointly processed or split a stream in order to apply different logic to different substreams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063301Z" creationid="xccui" creationdate="20190614T063301Z">
-        <seg>很多应用需要将多条输入流联结起来处理，或将一条流分割成多条子流以便应用不同的逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205623Z" creationid="xccui" creationdate="20190614T063301Z">
+        <seg>很多应用需要将多条输入流联合起来处理，或将一条流分割成多条子流以便应用不同的逻辑。</seg>
       </tuv>
     </tu>
     <tu>
