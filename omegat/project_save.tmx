@@ -20442,8 +20442,8 @@
       <tuv lang="EN-US">
         <seg>Parallelization gets complicated, since results depend on both the state and incoming events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032919Z" creationid="xccui" creationdate="20190606T032919Z">
-        <seg>由于结果需要同时依赖状态和到来的事件，状态并行化变得异常复杂。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183638Z" creationid="xccui" creationdate="20190606T032919Z">
+        <seg>由于结果需要同时依赖状态和到来的事件，所以状态并行化变得异常复杂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23026,8 +23026,8 @@
       <tuv lang="EN-US">
         <seg>Such a summary can be a count, a sum, a sample of the events seen so far, a window buffer, or a custom data structure that preserves some property of interest to the running application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183219Z" creationid="xccui" creationdate="20190606T032633Z">
-        <seg>这种摘要可能是一个数量值，一个累加值，一个对至今为止全部事件的抽样，一个窗口缓冲或是一个保留了运行应用某些有价值属性的自定义数据结构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183345Z" creationid="xccui" creationdate="20190606T032633Z">
+        <seg>这种摘要可能是一个数量值，一个累加值，一个对至今为止全部事件的抽样，一个窗口缓冲或是一个保留了应用运行过程中某些有价值信息的自定义数据结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26186,8 +26186,8 @@
       <tuv lang="EN-US">
         <seg>The system needs to efficiently manage the state and make sure it is protected from concurrent updates.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032909Z" creationid="xccui" creationdate="20190606T032909Z">
-        <seg>系统需要高效地管理状态并保证它们在面对并发更新时不会出错。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183450Z" creationid="xccui" creationdate="20190606T032909Z">
+        <seg>系统需要高效地管理状态并保证它们不受并发更新的影响。</seg>
       </tuv>
     </tu>
     <tu>
