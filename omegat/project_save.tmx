@@ -19489,8 +19489,8 @@
       <tuv lang="EN-US">
         <seg>Now that you are familiar with the basics of dataflow programming, it’s time to see how these concepts apply to processing data streams in parallel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233635Z" creationid="xccui" creationdate="20190605T233630Z">
-        <seg>现在你已经对Dataflow编程的基础有所了解，接下来我们看一下这些概念如何应用于并行数据流处理中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T045530Z" creationid="xccui" creationdate="20190605T233630Z">
+        <seg>现在你已经对Dataflow编程的基础有所了解，接下来我们看一下如何将这些概念应用到并行数据流处理中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25306,8 +25306,8 @@
       <tuv lang="EN-US">
         <seg>The key-based strategy partitions data by a key attribute and guarantees that data items having the same key will be processed by the same task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233508Z" creationid="xccui" creationdate="20190605T233508Z">
-        <seg>基于键值的策略（key-based strategy）根据某一键值属性将数据分成多份，并保证键值相同的数据项会交由同一任务处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T045240Z" creationid="xccui" creationdate="20190605T233508Z">
+        <seg>基于键值的策略（key-based strategy）根据某一键值属性对数据分区，并保证键值相同的数据项会交由同一任务处理。</seg>
       </tuv>
     </tu>
     <tu>
