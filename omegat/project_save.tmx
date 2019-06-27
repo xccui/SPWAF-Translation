@@ -8937,8 +8937,8 @@
       <tuv lang="EN-US">
         <seg>Considering that streaming applications might run for several days, months, or even years, you need to make sure that state can be reliably recovered under failures and that your system can guarantee accurate results even if things break.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014557Z" creationid="xccui" creationdate="20190606T014534Z">
-        <seg>考虑到流式应用可能需要整日、甚至长年累月地运行，因此必须保证出错时状态能进行可靠的恢复，即使发生故障系统也能提供准确的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064633Z" creationid="xccui" creationdate="20190606T014534Z">
+        <seg>考虑到流式应用可能需要整日、甚至长年累月地运行，因此必须保证出错时其状态能进行可靠的恢复，并且即使系统发生故障系统也能提供准确的结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15865,8 +15865,8 @@
       <tuv lang="EN-US">
         <seg>In fact, if you want to compute anything interesting in a streaming application, even a simple count, you need to maintain state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T204338Z" creationid="xccui" creationdate="20190409T204144Z">
-        <seg>实际上，如果你想在流式应用中计算任何有点意思的结果（即便是简单的计数），都需要维护状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064507Z" creationid="xccui" creationdate="20190409T204144Z">
+        <seg>实际上，如果你想在流式应用中计算任何有意思的东西（即便是简单的计数），都需要维护状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16769,8 +16769,8 @@
       <tuv lang="EN-US">
         <seg>In the rest of this chapter, we are going to look deeper into the concepts of time and state guarantees under failures in data stream process‐ ing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T014614Z" creationid="xccui" creationdate="20190606T014614Z">
-        <seg>在本章剩余部分，我们将深入研究流处理发生故障时的时间和状态保障相关概念。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064752Z" creationid="xccui" creationdate="20190606T014614Z">
+        <seg>在本章剩余部分，我们将深入研究流处理中的时间以及在发生故障时和状态保障相关概念。</seg>
       </tuv>
     </tu>
     <tu>
