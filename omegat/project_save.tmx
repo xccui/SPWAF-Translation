@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// A context object that is given to Evictor methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202124Z" creationid="xccui" creationdate="20190627T202124Z">
+        <seg>// 用于选择器方法的上下文对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// A context object that is given to Trigger methods to allow them</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192513Z" creationid="xccui" creationdate="20190626T192513Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042855Z" creationid="xccui" creationdate="20190615T042855Z">
         <seg>// OUT：输出元素的类型 CoMapFunction[IN1, IN2, OUT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Optionally evicts elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201836Z" creationid="xccui" creationdate="20190627T201836Z">
+        <seg>// 选择性地移除元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,6 +8327,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Called after windowing function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201923Z" creationid="xccui" creationdate="20190627T201923Z">
+        <seg>在窗口函数之后调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Called before windowing function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201901Z" creationid="xccui" creationdate="20190627T201901Z">
+        <seg>在窗口函数之前调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Case class fields are accessed by name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040708Z" creationid="xccui" creationdate="20190617T040708Z">
@@ -10579,6 +10611,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055230Z" creationid="xccui" creationdate="20190618T055230Z">
         <seg>用户函数中的全部内容都必须是可序列化的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EvictorContext evictorContext);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201910Z" creationid="xccui" creationdate="20190627T201910Z">
+        <seg>EvictorContext evictorContext);</seg>
       </tuv>
     </tu>
     <tu>
@@ -29112,6 +29152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>W window,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201906Z" creationid="xccui" creationdate="20190627T201906Z">
+        <seg>W window,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait for all in-flight data to be completely processed, meaning all tasks have pro‐ cessed all their input data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223921Z" creationid="xccui" creationdate="20190608T223647Z">
@@ -35685,6 +35733,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192708Z" creationid="xccui" creationdate="20190626T192708Z">
         <seg>void deleteProcessingTimeTimer(long time);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void evictAfter( Iterable&lt;TimestampedValue&lt;T&gt;&gt; elements, int size,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201926Z" creationid="xccui" creationdate="20190627T201926Z">
+        <seg>void evictAfter( Iterable&lt;TimestampedValue&lt;T&gt;&gt; elements, int size,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void evictBefore( Iterable&lt;TimestampedValue&lt;T&gt;&gt; elements, int size,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201903Z" creationid="xccui" creationdate="20190627T201903Z">
+        <seg>void evictBefore( Iterable&lt;TimestampedValue&lt;T&gt;&gt; elements, int size,</seg>
       </tuv>
     </tu>
     <tu>
