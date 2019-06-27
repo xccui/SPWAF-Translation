@@ -8017,8 +8017,8 @@
       <tuv lang="EN-US">
         <seg>Both methods are called with an Iterable that serves all elements that were added to the window, the number</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202947Z" creationid="xccui" creationdate="20190627T202634Z">
-        <seg>它们的参数都是一个针对窗口内已有元素的Iterable、</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203311Z" creationid="xccui" creationdate="20190627T202634Z">
+        <seg>它们的参数都是一个针对窗口内已有元素的Iterable对象、</seg>
       </tuv>
     </tu>
     <tu>
@@ -24762,8 +24762,8 @@
       <tuv lang="EN-US">
         <seg>The evictBefore() and evictAfter() methods are called before and after a window function is applied on the content of a window, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202255Z" creationid="xccui" creationdate="20190627T202249Z">
-        <seg>evictBefore()和evictAfter()方法分别会在窗口函数应用于窗口内容之前和之后调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203253Z" creationid="xccui" creationdate="20190627T202249Z">
+        <seg>evictBefore()和evictAfter()方法分别会在窗口函数作用于窗口内容之前和之后调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32709,6 +32709,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032320Z" creationid="xccui" creationdate="20190622T032320Z">
         <seg>forwardingEnabled.update(true)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>from a window by calling the remove() method on the Iterator that can be obtained from the Iterable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203426Z" creationid="xccui" creationdate="20190627T203426Z">
+        <seg>从Iterable中可以取得Iterator对象，调用后者的remove()方法就能删除元素。</seg>
       </tuv>
     </tu>
     <tu>
