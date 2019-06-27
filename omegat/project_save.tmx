@@ -24554,8 +24554,8 @@
       <tuv lang="EN-US">
         <seg>The data that is stored in the various transactional database systems of a company can provide valuable insights about a company’s business operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024241Z" creationid="esouser" creationdate="20190603T201131Z">
-        <seg>存储于不同事务型数据库系统中的数据，可以为公司提供业务运营相关的见解参考。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024400Z" creationid="esouser" creationdate="20190603T201131Z">
+        <seg>存储于不同事务型数据库系统中的数据，可以为公司提供业务运营相关的分析见解。</seg>
       </tuv>
     </tu>
     <tu>
