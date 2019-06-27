@@ -14489,8 +14489,8 @@
       <tuv lang="EN-US">
         <seg>However, the growing adoption of stream processing technology in the recent past has been driven to a large extent by the availability of mature open source stream processors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050242Z" creationid="xccui" creationdate="20190605T050109Z">
-        <seg>然而近期流处理技术的普及在很大程度上还要归功于开源界很多成熟的流处理引擎。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T035506Z" creationid="xccui" creationdate="20190605T050109Z">
+        <seg>然而近期流处理技术的普及在很大程度上还要归功于很多开源界成熟的流处理引擎。</seg>
       </tuv>
     </tu>
     <tu>
