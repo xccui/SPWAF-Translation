@@ -8929,8 +8929,8 @@
       <tuv lang="EN-US">
         <seg>Consider, for example, a streaming join opera‐ tion or a holistic aggregate, such as the median function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061812Z" creationid="xccui" creationdate="20190606T012013Z">
-        <seg>例如：流式连接或是像求中位数的整体聚合（holistic aggregate）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061859Z" creationid="xccui" creationdate="20190606T012013Z">
+        <seg>例如：流式连接或者像是求中位数的整体聚合（holistic aggregate）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16081,8 +16081,8 @@
       <tuv lang="EN-US">
         <seg>In order to evaluate such operations efficiently on unbounded streams, you need to limit the amount of data these operations maintain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012044Z" creationid="xccui" creationdate="20190606T012044Z">
-        <seg>为了在无限数据流上高效地执行这些操作，必须限制操作所维持的数据量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061921Z" creationid="xccui" creationdate="20190606T012044Z">
+        <seg>为了在无限数据流上高效地执行这些操作，必须对操作所维持的数据量加以限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17161,8 +17161,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss window operations, which pro‐ vide this service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012126Z" creationid="xccui" creationdate="20190606T012050Z">
-        <seg>在本章中，我们以窗口操作为例讨论这个服务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061927Z" creationid="xccui" creationdate="20190606T012050Z">
+        <seg>在本节中，我们以窗口操作为例讨论这个服务。</seg>
       </tuv>
     </tu>
     <tu>
