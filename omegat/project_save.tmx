@@ -9937,8 +9937,8 @@
       <tuv lang="EN-US">
         <seg>ETL processes need to run periodically to keep the data in the data warehouse synchronized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024717Z" creationid="esouser" creationdate="20190603T202915Z">
-        <seg>为了确保数据仓库能够同步，ETL过程需要周期性地执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024853Z" creationid="esouser" creationdate="20190603T202915Z">
+        <seg>为了保持数据仓库中的数据同步，ETL过程需要周期性地执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28858,8 +28858,8 @@
       <tuv lang="EN-US">
         <seg>Typically, there are two classes of queries executed on a data warehouse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T193921Z" creationid="xccui" creationdate="20190228T192320Z">
-        <seg>通常可将数据仓库中的查询分为两类：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T024914Z" creationid="xccui" creationdate="20190228T192320Z">
+        <seg>通常数据仓库中的查询可以分为两类：</seg>
       </tuv>
     </tu>
     <tu>
