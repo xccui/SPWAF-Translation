@@ -5656,8 +5656,8 @@
       <tuv lang="EN-US">
         <seg>A streaming operator with a function that turns each incoming event into a darker event</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011709Z" creationid="xccui" creationdate="20190606T011608Z">
-        <seg>带有函数的流式算子会将每个到来的事件变黑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060814Z" creationid="xccui" creationdate="20190606T011608Z">
+        <seg>带有函数的流式算子会将每个到来事件的颜色变深</seg>
       </tuv>
     </tu>
     <tu>
@@ -13649,8 +13649,8 @@
       <tuv lang="EN-US">
         <seg>Functions are written by the application programmer and implement custom computation logic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011521Z" creationid="xccui" creationdate="20190606T011456Z">
-        <seg>函数由应用开发人员编写，可以实现某些自定义的计算逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060723Z" creationid="xccui" creationdate="20190606T011456Z">
+        <seg>函数由应用开发人员编写，可用来实现某些自定义的计算逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26386,8 +26386,8 @@
       <tuv lang="EN-US">
         <seg>The transformation logic can be either integrated in the operator or provided by a user-defined function, as shown in Figure 2-4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011507Z" creationid="xccui" creationdate="20190606T011328Z">
-        <seg>如图2-4所示，具体转换逻辑可以是算子内置的，也可以由用户自定义函数提供。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060613Z" creationid="xccui" creationdate="20190606T011328Z">
+        <seg>如图2-4所示，转换逻辑可以是算子内置的，也可以由用户自定义函数提供。</seg>
       </tuv>
     </tu>
     <tu>
