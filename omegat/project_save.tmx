@@ -7385,8 +7385,8 @@
       <tuv lang="EN-US">
         <seg>As shown in Figure 2-12, in Alice’s case, a processing-time window would continue counting time when her phone gets discon‐ nected, thus not accounting for her game activity during that time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T023852Z" creationid="xccui" creationdate="20190606T023852Z">
-        <seg>如图2-12所示，在爱丽丝的例子中，处理时间窗口在她手机离线后会继续计时，因此不会把她在那段时间的活动考虑在内。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155718Z" creationid="xccui" creationdate="20190606T023852Z">
+        <seg>如图2-12所示，在爱丽丝的例子中，处理时间窗口在她手机离线后会继续计时，因此不会把她离线那段时间的活动考虑在内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10297,8 +10297,8 @@
       <tuv lang="EN-US">
         <seg>Event time is based on a timestamp that is attached to the events of the stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T024136Z" creationid="xccui" creationdate="20190606T023937Z">
-        <seg>它以附加在流中事件的时间戳为依据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155814Z" creationid="xccui" creationdate="20190606T023937Z">
+        <seg>它以附加在数据流中事件的时间戳为依据。</seg>
       </tuv>
     </tu>
     <tu>
