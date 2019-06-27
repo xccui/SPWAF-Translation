@@ -24402,8 +24402,8 @@
       <tuv lang="EN-US">
         <seg>The broadcast strategy sends every data item to all parallel tasks of an operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233431Z" creationid="xccui" creationdate="20190605T233431Z">
-        <seg>广播策略（broadcast strategy）会把数据项发往下游算子的全部并发任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T045141Z" creationid="xccui" creationdate="20190605T233431Z">
+        <seg>广播策略（broadcast strategy）会把数据项发往下游算子的全部并行任务。</seg>
       </tuv>
     </tu>
     <tu>
