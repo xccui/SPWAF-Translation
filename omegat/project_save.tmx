@@ -14337,8 +14337,8 @@
       <tuv lang="EN-US">
         <seg>However, during busy times, customers will have to wait in line and latency will increase.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T205348Z" creationid="xccui" creationdate="20190402T205216Z">
-        <seg>但在高峰时段，顾客必须要排队，此时延迟将增加。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054122Z" creationid="xccui" creationdate="20190402T205216Z">
+        <seg>然而，在高峰时段，顾客必须要排队，此时延迟将增加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14777,8 +14777,8 @@
       <tuv lang="EN-US">
         <seg>If events take a long time to travel in the data processing pipeline, we cannot easily ensure high throughput.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235008Z" creationid="xccui" creationdate="20190605T234945Z">
-        <seg>如果事件在数据处理管道中的传输时间太久，将难以确保高吞吐；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053856Z" creationid="xccui" creationdate="20190605T234945Z">
+        <seg>如果事件在数据处理管道中传输时间太久，我们将难以确保高吞吐；</seg>
       </tuv>
     </tu>
     <tu>
@@ -18473,8 +18473,8 @@
       <tuv lang="EN-US">
         <seg>Let’s revisit the coffee shop example to clarify how latency and throughput affect each other.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235018Z" creationid="xccui" creationdate="20190605T235018Z">
-        <seg>我们再通过咖啡店的示例来解释一下延迟和吞吐如何相互影响。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053948Z" creationid="xccui" creationdate="20190605T235018Z">
+        <seg>我们再通过咖啡店的例子来解释一下延迟和吞吐如何相互影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23442,8 +23442,8 @@
       <tuv lang="EN-US">
         <seg>That is, you will get the fastest service if you are the only customer in the coffee shop.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210230Z" creationid="xccui" creationdate="20190402T204424Z">
-        <seg>确切地说，如果咖啡店只有你一名顾客，你将得到最快的服务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054048Z" creationid="xccui" creationdate="20190402T204424Z">
+        <seg>也就是说，如果咖啡店只有你一名顾客，你将获得最快的服务。</seg>
       </tuv>
     </tu>
     <tu>
