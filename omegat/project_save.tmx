@@ -15537,8 +15537,8 @@
       <tuv lang="EN-US">
         <seg>In addition to the system properties discussed so far, such as failure tolerance, perfor‐ mance, and result accuracy, stream processors have also continuously added new operational features such as highly available setups, tight integration with resource managers, such as YARN or Kubernetes, and the ability to dynamically scale stream‐ ing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T064257Z" creationid="xccui" creationdate="20190605T053708Z">
-        <seg>除了已经讨论过的如：容错、性能、结果精确性等系统属性，流处理引擎还在不断添加新的运营功能，例如：高可用设置，和资源管理器（如YARN、Kubernetes）的紧密整合以及支持流式应用动态扩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T040509Z" creationid="xccui" creationdate="20190605T053708Z">
+        <seg>除了已经讨论过的容错、性能、结果精确性等系统属性，流处理引擎还在不断添加新的运营功能，例如：高可用设置，和资源管理器（如YARN、Kubernetes）的紧密整合以及支持流式应用动态扩容。</seg>
       </tuv>
     </tu>
     <tu>
