@@ -7689,8 +7689,8 @@
       <tuv lang="EN-US">
         <seg>Average values hide the true distribution of processing delays and might make it hard to detect problems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T155538Z" creationid="xccui" creationdate="20190401T155435Z">
-        <seg>平均值会掩盖处理延迟的真实分布，继而导致难以发现问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T051114Z" creationid="xccui" creationdate="20190401T155435Z">
+        <seg>平均值会掩盖处理延迟的真实分布，从而导致难以发现问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14889,8 +14889,8 @@
       <tuv lang="EN-US">
         <seg>If the barista runs out of milk right before preparing your cappuccino, you will have to</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234059Z" creationid="xccui" creationdate="20190605T234059Z">
-        <seg>如果咖啡师在给你准备卡布奇诺（译者注：一种需要牛奶和奶泡的咖啡）前刚好把牛奶用光了，则你必须等他从补给室再拿一些出来。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T051209Z" creationid="xccui" creationdate="20190605T234059Z">
+        <seg>如果咖啡师在给你准备卡布奇诺（译者注：一种需要牛奶和奶泡的咖啡）前刚好把牛奶用光了，那么你必须等他从供应间再拿一些出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15809,8 +15809,8 @@
       <tuv lang="EN-US">
         <seg>In data streaming, latency is measured in units of time, such as milliseconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050938Z" creationid="xccui" creationdate="20190401T154502Z">
-        <seg>在流处理中，延迟是以时间片（例如毫秒）为单位计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T051003Z" creationid="xccui" creationdate="20190401T154502Z">
+        <seg>在流处理中，延迟是以时间片（例如毫秒）为单位测量的。</seg>
       </tuv>
     </tu>
     <tu>
