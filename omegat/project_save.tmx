@@ -30579,8 +30579,8 @@
       <tuv lang="EN-US">
         <seg>When the window border is passed, all the events are sent to an evaluation func‐ tion for processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013021Z" creationid="xccui" creationdate="20190606T013021Z">
-        <seg>在窗口边界通过后，所有事件会发送给计算函数处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063350Z" creationid="xccui" creationdate="20190606T013021Z">
+        <seg>在窗口边界通过后，所有事件会发送给计算函数进行处理。</seg>
       </tuv>
     </tu>
     <tu>
