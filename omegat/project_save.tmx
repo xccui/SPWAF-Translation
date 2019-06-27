@@ -9457,8 +9457,8 @@
       <tuv lang="EN-US">
         <seg>Dataflow graphs like the one in Figure 2-1 are called logical because they convey a high-level view of the computation logic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233042Z" creationid="xccui" creationdate="20190605T233042Z">
-        <seg>像是图2-1之类的Dataflow图被称作逻辑图，因为它们描述了高层视角下的计算逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044138Z" creationid="xccui" creationdate="20190605T233042Z">
+        <seg>类似图2-1的Dataflow图被称作逻辑图，因为它们表达了高层视角下的计算逻辑。</seg>
       </tuv>
     </tu>
     <tu>
