@@ -5376,8 +5376,8 @@
       <tuv lang="EN-US">
         <seg>A rolling aggregation is an aggregation, such as sum, minimum, and maximum, that is continuously updated for each input event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035610Z" creationid="xccui" creationdate="20190406T034203Z">
-        <seg>滚动聚合（例如：求和、求最小值、求最大值）会根据每个到来的事件持续更新。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061147Z" creationid="xccui" creationdate="20190406T034203Z">
+        <seg>滚动聚合（例如求和、求最小值和求最大值）会根据每个到来的事件持续更新结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20162,8 +20162,8 @@
       <tuv lang="EN-US">
         <seg>Operators can accept multiple inputs and produce multiple output streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011643Z" creationid="xccui" creationdate="20190405T155812Z">
-        <seg>算子可以同时接收多个输入流或产生多条输出流，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060919Z" creationid="xccui" creationdate="20190405T155812Z">
+        <seg>算子既可以同时接收多个输入流或产生多条输出流，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26922,8 +26922,8 @@
       <tuv lang="EN-US">
         <seg>They can also modify the structure of the dataflow graph by either splitting a stream into multi‐ ple streams or merging streams into a single flow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011745Z" creationid="xccui" creationdate="20190606T011745Z">
-        <seg>也可以通过单流分割或合并多条流来改变dataflow图的结构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060929Z" creationid="xccui" creationdate="20190606T011745Z">
+        <seg>也可以通过单流分割或合并多条流来改变Dataflow图的结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29562,8 +29562,8 @@
       <tuv lang="EN-US">
         <seg>We discuss the semantics of all operators available in Flink in Chapter 5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011752Z" creationid="xccui" creationdate="20190606T011752Z">
-        <seg>我们将在第5章讨论Flink中各算子的语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061013Z" creationid="xccui" creationdate="20190606T011752Z">
+        <seg>我们将在第5章讨论Flink中每个算子的语义。</seg>
       </tuv>
     </tu>
     <tu>
