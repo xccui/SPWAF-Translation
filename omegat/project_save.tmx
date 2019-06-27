@@ -33243,8 +33243,8 @@
       <tuv lang="EN-US">
         <seg>microservices are strictly decoupled from each other and only communicate over well-defined interfaces, each microservice can be implemented with a different tech‐ nology stack including a programming language, libraries, and datastores.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064320Z" creationid="esouser" creationdate="20190603T200753Z">
-        <seg>由于微服务彼此间严格解耦且仅通过定义良好的接口通信，因此在实现微服务时可以选用不同的技术栈，包括编程语言、类库和数据存储等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T023410Z" creationid="esouser" creationdate="20190603T200753Z">
+        <seg>由于微服务彼此间严格解耦且仅通过定义良好的接口通信，所以在实现微服务时可以选用不同的技术栈，包括编程语言、类库和数据存储等。</seg>
       </tuv>
     </tu>
     <tu>
