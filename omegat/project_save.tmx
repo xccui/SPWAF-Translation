@@ -8065,8 +8065,8 @@
       <tuv lang="EN-US">
         <seg>But first, let’s define the term data stream: a data stream is a potentially unbounded sequence of events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233637Z" creationid="xccui" creationdate="20190605T233637Z">
-        <seg>在此之前先要给出数据流的定义：数据流是一个可能无限的事件序列。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T045638Z" creationid="xccui" creationdate="20190605T233637Z">
+        <seg>在此之前我们先给出数据流的定义：数据流是一个可能无限的事件序列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10521,8 +10521,8 @@
       <tuv lang="EN-US">
         <seg>Events in a data stream can represent monitoring data, sensor measurements, credit card transactions, weather station observations, online user interactions, web searches, etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T143258Z" creationid="xccui" creationdate="20190401T143030Z">
-        <seg>数据流中的事件可以表示监控数据、传感器测量值、信用卡交易、气象站观测数据、在线用户交互、网络搜索等等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T045805Z" creationid="xccui" creationdate="20190401T143030Z">
+        <seg>数据流中的事件可以表示监控数据、传感器测量值、信用卡交易、气象站观测数据、在线用户交互以及网络搜索等。</seg>
       </tuv>
     </tu>
     <tu>
