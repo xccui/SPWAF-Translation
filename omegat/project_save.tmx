@@ -14025,8 +14025,8 @@
       <tuv lang="EN-US">
         <seg>Hence, no events are lost and the state is completely built up from scratch.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191241Z" creationid="xccui" creationdate="20190606T034000Z">
-        <seg>不会有任何事件丢失，状态也可以完全从最初开始构建。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191304Z" creationid="xccui" creationdate="20190606T034000Z">
+        <seg>所以不会有任何事件丢失，状态也可以完全从最初开始构建。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23402,8 +23402,8 @@
       <tuv lang="EN-US">
         <seg>That is, we are concerned with what the application code sees as state value after recovering from a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T045230Z" creationid="xccui" creationdate="20190415T045129Z">
-        <seg>换言之，我们关注故障恢复后应用代码能够看到的状态值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191604Z" creationid="xccui" creationdate="20190415T045129Z">
+        <seg>也就是说，我们关注故障恢复后应用代码能够看到的状态值。</seg>
       </tuv>
     </tu>
     <tu>
