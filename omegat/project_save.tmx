@@ -23386,8 +23386,8 @@
       <tuv lang="EN-US">
         <seg>That is, the processing of an event does not depend on any events seen in the past and no history is kept.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T035827Z" creationid="xccui" creationdate="20190405T035802Z">
-        <seg>即处理每一个事件都无需依赖先前看到的事件，不保存历史数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T055045Z" creationid="xccui" creationdate="20190405T035802Z">
+        <seg>即处理事件时无需依赖过去看到的事件，也不保存历史数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26818,8 +26818,8 @@
       <tuv lang="EN-US">
         <seg>These operators can be combined into dataflow processing graphs to implement the logic of streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235756Z" creationid="xccui" creationdate="20190402T212738Z">
-        <seg>这些算子可以组合生成Dataflow处理图，从而实现流式应用的基本逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054922Z" creationid="xccui" creationdate="20190402T212738Z">
+        <seg>这些算子可以组合生成Dataflow处理图，从而实现流式应用所需的逻辑。</seg>
       </tuv>
     </tu>
     <tu>
