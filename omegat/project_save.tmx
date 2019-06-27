@@ -10151,6 +10151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elements are removed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203429Z" creationid="xccui" creationdate="20190627T203429Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elements that are assigned to a window will be immediately aggregated</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035755Z" creationid="xccui" creationdate="20190625T035728Z">
@@ -10651,6 +10659,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201305Z" creationid="xccui" creationdate="20190626T201305Z">
         <seg>移除器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evictors iterate over a list of elements in a window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203535Z" creationid="xccui" creationdate="20190627T203535Z">
+        <seg>移除器会遍历窗口中的元素列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20648,6 +20664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preaggregation and Evictors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203511Z" creationid="xccui" creationdate="20190627T203511Z">
+        <seg>预聚合与移除器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T040256Z" creationid="xccui" creationdate="20190225T040256Z">
@@ -27012,6 +27036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060929Z" creationid="xccui" creationdate="20190606T011745Z">
         <seg>也可以通过单流分割或合并多条流来改变Dataflow图的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can only be applied if the window collects all added events and does not</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203825Z" creationid="xccui" creationdate="20190627T203825Z">
+        <seg>该操作的应用前提是窗口能够取得全部已加入的事件，且没有对窗口内容使用ReduceFunction或AggregateFunction进行增量聚合。</seg>
       </tuv>
     </tu>
     <tu>
