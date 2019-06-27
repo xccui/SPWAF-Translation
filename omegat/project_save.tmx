@@ -8017,8 +8017,8 @@
       <tuv lang="EN-US">
         <seg>Both methods are called with an Iterable that serves all elements that were added to the window, the number</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202634Z" creationid="xccui" creationdate="20190627T202634Z">
-        <seg>它们的参数都是一个面向窗口内已有元素的遍历器、</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202947Z" creationid="xccui" creationdate="20190627T202634Z">
+        <seg>它们的参数都是一个针对窗口内已有元素的Iterable、</seg>
       </tuv>
     </tu>
     <tu>
@@ -34061,6 +34061,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T035849Z" creationid="xccui" creationdate="20190626T035751Z">
         <seg>该时间是处理时间还是事件时间语义取决于WindowAssigner.isEventTime()方法的返回值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>provides access to the current processing time and watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202838Z" creationid="xccui" creationdate="20190627T202838Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
