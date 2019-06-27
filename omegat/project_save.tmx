@@ -12425,8 +12425,8 @@
       <tuv lang="EN-US">
         <seg>Flink features dedicated operators for time-based stream joins, which are discussed in Chapter 6.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061920Z" creationid="xccui" creationdate="20190615T044956Z">
-        <seg>Flink对基于时间的流式连接设有专用算子，相关内容会在第6章讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151910Z" creationid="xccui" creationdate="20190615T044956Z">
+        <seg>Flink对基于时间的流式Join设有专用算子，相关内容会在第6章讨论。</seg>
       </tuv>
     </tu>
     <tu>
