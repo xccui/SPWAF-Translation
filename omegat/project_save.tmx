@@ -7601,8 +7601,8 @@
       <tuv lang="EN-US">
         <seg>At this point, it should be clear that latency and throughput are not independent met‐ rics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234939Z" creationid="xccui" creationdate="20190605T234918Z">
-        <seg>至此你应该已经明白，延迟和吞吐并非相互独立的指标。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053804Z" creationid="xccui" creationdate="20190605T234918Z">
+        <seg>至此你应该已经清楚，延迟和吞吐并非相互独立的指标。</seg>
       </tuv>
     </tu>
     <tu>
