@@ -27354,8 +27354,8 @@
       <tuv lang="EN-US">
         <seg>This is batch processing regardless of whether the architecture is based on a data warehouse or components of the Hadoop ecosystem.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T043423Z" creationid="xccui" creationdate="20190605T043413Z">
-        <seg>无论架构是基于数据仓库还是Hadoop生态系统组件，都属于批处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T035223Z" creationid="xccui" creationdate="20190605T043413Z">
+        <seg>无论它们的架构是基于数据仓库还是Hadoop生态系统组件，这都属于批处理。</seg>
       </tuv>
     </tu>
     <tu>
