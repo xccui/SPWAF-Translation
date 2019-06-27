@@ -12033,8 +12033,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we learned why state is important in streaming applications and how to guard it against failures and guarantee correct results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T041236Z" creationid="xccui" creationdate="20190606T040520Z">
-        <seg>最后我们了解了状态对流式应用的重要性，以及如何应对故障并保证结果正确。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T195048Z" creationid="xccui" creationdate="20190606T040520Z">
+        <seg>最后我们了解了状态对流式应用的重要性，以及如何应对故障并确保结果正确。</seg>
       </tuv>
     </tu>
     <tu>
