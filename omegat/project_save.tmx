@@ -8929,8 +8929,8 @@
       <tuv lang="EN-US">
         <seg>Consider, for example, a streaming join opera‐ tion or a holistic aggregate, such as the median function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061900Z" creationid="xccui" creationdate="20190606T012013Z">
-        <seg>例如：流式连接或是像求中位数的整体聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061812Z" creationid="xccui" creationdate="20190606T012013Z">
+        <seg>例如：流式连接或是像求中位数的整体聚合（holistic aggregate）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14449,8 +14449,8 @@
       <tuv lang="EN-US">
         <seg>However, some operations must collect and buffer records to compute their result.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T041813Z" creationid="xccui" creationdate="20190406T040646Z">
-        <seg>但有些操作必须收集并缓冲数据才能计算结果，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061737Z" creationid="xccui" creationdate="20190406T040646Z">
+        <seg>然而，有些操作必须收集并缓冲记录才能计算结果，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25602,8 +25602,8 @@
       <tuv lang="EN-US">
         <seg>The operator keeps the current minimum value and accordingly updates it for each incoming event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011920Z" creationid="xccui" creationdate="20190606T011920Z">
-        <seg>其算子会维护当前的最小值，并根据每个到来的事件同步更新这个值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061545Z" creationid="xccui" creationdate="20190606T011920Z">
+        <seg>其算子会维护当前的最小值，并根据每个到来的事件去更新这个值。</seg>
       </tuv>
     </tu>
     <tu>
