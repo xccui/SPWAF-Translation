@@ -10625,8 +10625,8 @@
       <tuv lang="EN-US">
         <seg>Exactly-once means that not only will there be no event loss, but also updates on the internal state will be applied exactly once for each event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034815Z" creationid="xccui" creationdate="20190606T034808Z">
-        <seg>它意味着不但没有事件丢失，而且每个事件对于内部状态的更新都只有一次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194128Z" creationid="xccui" creationdate="20190606T034808Z">
+        <seg>它表示不但没有事件丢失，而且每个事件对于内部状态的更新都只有一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17481,8 +17481,8 @@
       <tuv lang="EN-US">
         <seg>Instead, Flink uses a lightweight snapshotting mechanism to achieve exactly-once result guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154934Z" creationid="xccui" creationdate="20190416T045008Z">
-        <seg>而Flink用的是轻量级检查点机制来实现精确一次结果保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194239Z" creationid="xccui" creationdate="20190416T045008Z">
+        <seg>Flink采用了轻量级检查点机制来实现精确一次结果保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29506,8 +29506,8 @@
       <tuv lang="EN-US">
         <seg>We discuss Flink’s fault-tolerance algorithm in “Checkpoints, Save‐ points, and State Recovery” on page 58.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035001Z" creationid="xccui" creationdate="20190606T035001Z">
-        <seg>我们会在第58页讨论Flink的容错算法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194306Z" creationid="xccui" creationdate="20190606T035001Z">
+        <seg>我们会在第58页"检查点、保存点和状态恢复"一节讨论Flink的容错算法。</seg>
       </tuv>
     </tu>
     <tu>
