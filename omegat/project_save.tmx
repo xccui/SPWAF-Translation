@@ -25440,6 +25440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The interval join joins events from two streams that have a common key and that have timestamps not more than specified intervals apart from each other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T211758Z" creationid="xccui" creationdate="20190627T211758Z">
+        <seg>基于间隔的Join会对两条流中拥有相同键值以及彼此之间时间戳不超过某一指定间隔的事件进行Join。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The introductory example actually uses a simple KeySelector function in the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051741Z" creationid="xccui" creationdate="20190618T051634Z">
