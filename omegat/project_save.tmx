@@ -5296,8 +5296,8 @@
       <tuv lang="EN-US">
         <seg>A processing-time window includes all events that happen to have arrived at the window operator within a time period, as meas‐ ured by the wall clock of its machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T023838Z" creationid="xccui" creationdate="20190606T023838Z">
-        <seg>基于处理时间的窗口包含了那些恰好在一段时间内到达窗口算子的事件，这里的时间段是按照机器时间测量的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155618Z" creationid="xccui" creationdate="20190606T023838Z">
+        <seg>基于处理时间的窗口会包含那些恰好在一段时间内到达窗口算子的事件，这里的时间段是按照机器时间测量的。</seg>
       </tuv>
     </tu>
     <tu>
