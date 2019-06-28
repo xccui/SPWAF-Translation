@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// this is a late reading =&gt; redirect it to the side output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155935Z" creationid="xingcan" creationdate="20190628T155935Z">
+        <seg>// 将迟到读数重定向到副输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// to register timer callbacks and deal with state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192549Z" creationid="xccui" creationdate="20190626T192549Z">
@@ -32961,6 +32969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ctx.output(lateReadingsOut, r)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155937Z" creationid="xingcan" creationdate="20190628T155937Z">
+        <seg>ctx.output(lateReadingsOut, r)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ctx: CoProcessFunction[SensorReading, (String, Long), SensorReading]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032604Z" creationid="xccui" creationdate="20190622T032604Z">
@@ -36877,6 +36893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054844Z" creationid="xccui" creationdate="20190620T054844Z">
         <seg>} else {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} else { out.collect(r)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155940Z" creationid="xingcan" creationdate="20190628T155940Z">
+        <seg>} else { out.collect(r)</seg>
       </tuv>
     </tu>
     <tu>
