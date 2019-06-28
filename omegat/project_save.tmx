@@ -17991,6 +17991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of dropping or redirecting late events, another strategy is to recompute an incomplete result and emit an update.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160522Z" creationid="xingcan" creationdate="20190628T160522Z">
+        <seg>除了将迟到事件丢弃或重定向外，另一种策略是对不完整的结果进行重新计算并发出更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of inserting all data into a relational database system, significant amounts of data, such as, log files, social media, or web click logs, are written into Hadoop’s distributed file system (HDFS) or other bulk data stores, like Apache HBase, which provide massive storage capacity at small cost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190301T032702Z" creationid="xccui" creationdate="20190301T030218Z">
@@ -18979,6 +18987,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T052128Z" creationid="xccui" creationdate="20190328T052128Z">
         <seg>最后要强调的一点，Flink同时也是一个成熟的批处理引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Late events arrive at an operator after a computation to which they should have con‐ tributed was completed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160255Z" creationid="xingcan" creationdate="20190628T160255Z">
+        <seg>迟到事件到达算子后，它们本应参与贡献的计算可能已经执行完毕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27492,6 +27508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T064100Z" creationid="xccui" creationdate="20190617T063903Z">
         <seg>因此，没必要为键和值再单独定义数据类型，这样省去了很多样板代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the operator emits a result that is incomplete or inaccurate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160353Z" creationid="xingcan" creationdate="20190628T160353Z">
+        <seg>这表示算子之前发出的结果可能是不完整或不准确的。</seg>
       </tuv>
     </tu>
     <tu>
