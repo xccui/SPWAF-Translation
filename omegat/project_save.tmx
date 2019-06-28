@@ -7527,6 +7527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the name suggests, the window join is based on Flink’s windowing mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T034142Z" creationid="xccui" creationdate="20190628T034142Z">
+        <seg>顾名思义，基于窗口的Join需要用到Flink中的窗口机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As usual, result records are emitted by passing them to the Collector.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053914Z" creationid="xccui" creationdate="20190621T053914Z">
@@ -10211,6 +10219,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203429Z" creationid="xccui" creationdate="20190627T203429Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elements of both input streams are assigned to common windows and joined (or cogrouped) when a window is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T034504Z" creationid="xccui" creationdate="20190628T034504Z">
+        <seg>其原理是将两条输入流中的元素分配到公共窗口中并在窗口完成时进行Join（或Cogroup）。</seg>
       </tuv>
     </tu>
     <tu>
