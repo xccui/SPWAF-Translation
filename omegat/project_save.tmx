@@ -18263,6 +18263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to specify a custom trigger and evictor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053227Z" creationid="xccui" creationdate="20190628T053227Z">
+        <seg>同时你也可以自定义触发器或移除器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is best practice to assign timestamps and generate watermarks as close to the sour‐ ces as possible or even within the SourceFunction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031544Z" creationid="xccui" creationdate="20190620T031544Z">
@@ -22452,6 +22460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045016Z" creationid="xccui" creationdate="20190625T045016Z">
         <seg>由于聚合逻辑是由ReduceFunction执行的，ProcessWindowFunction只需要像示例6-14那样，将窗口的结束时间戳加到递增计算结果后面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the events of both streams are mapped into the same windows, triggers and evictors behave exactly as in regular window operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053412Z" creationid="xccui" creationdate="20190628T053412Z">
+        <seg>由于两条流中的事件会被映射到相同的窗口中，因此该过程中的触发器和移除器与常规窗口算子中的完全相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32291,8 +32307,8 @@
       <tuv lang="EN-US">
         <seg>called for each combination of elements from the first and the second input—the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053142Z" creationid="xccui" creationdate="20190628T052848Z">
-        <seg>会遍历两个输入中元素的每种组合（叉乘积）调用JoinFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053148Z" creationid="xccui" creationdate="20190628T052848Z">
+        <seg>会遍历两个输入中元素的每种组合（叉乘积）去调用JoinFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32589,6 +32605,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
         <seg>你可以使用tail命令监控持续产生的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cross-product.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053144Z" creationid="xccui" creationdate="20190628T053144Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
