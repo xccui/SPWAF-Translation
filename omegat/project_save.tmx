@@ -13951,6 +13951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From there, the late events can be processed or emitted using a regular sink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154541Z" creationid="xingcan" creationdate="20190628T154541Z">
+        <seg>这样可以对它们进行后续处理或利用常规的数据汇函数将其写出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full window functions collect all elements of a window and iterate over the list of all collected elements when they are evaluated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211513Z" creationid="xccui" creationdate="20190623T211046Z">
