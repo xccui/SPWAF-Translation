@@ -32291,8 +32291,8 @@
       <tuv lang="EN-US">
         <seg>called for each combination of elements from the first and the second input—the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052848Z" creationid="xccui" creationdate="20190628T052848Z">
-        <seg>会以两个输入中元素的每种组合来调用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053142Z" creationid="xccui" creationdate="20190628T052848Z">
+        <seg>会遍历两个输入中元素的每种组合（叉乘积）调用JoinFunction。</seg>
       </tuv>
     </tu>
     <tu>
