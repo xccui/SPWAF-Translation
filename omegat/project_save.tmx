@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.apply(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040149Z" creationid="xccui" creationdate="20190628T040149Z">
+        <seg>.apply(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.apply(new TemperatureAverager)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042735Z" creationid="xccui" creationdate="20190612T042735Z">
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041337Z" creationid="xccui" creationdate="20190622T041337Z">
         <seg>.window(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.window(...) // specify the WindowAssigner [.trigger(...)] // optional: specify a Trigger [.evictor(...)] // optional: specify an Evictor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040210Z" creationid="xccui" creationdate="20190628T040145Z">
+        <seg>.window(...) // 指定WindowAssigner [.trigger(...)] // 选择性地指定Trigger [.evictor(...)] // 选择性地指定Evictor</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060157Z" creationid="xccui" creationdate="20190623T060157Z">
         <seg>// 使用窗口分配器简写方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// specify the JoinFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040220Z" creationid="xccui" creationdate="20190628T040220Z">
+        <seg>// 指定JoinFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -8079,6 +8103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both input streams are keyed on their key attributes and the common window assigner maps events of both streams to common windows, meaning a window stores</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052614Z" creationid="xccui" creationdate="20190628T052614Z">
+        <seg>两条的输入流都会根据各自的键值属性进行分区，公共窗口分配器会将二者的事件映射到公共窗口（同时存储了两条流中数据的窗口）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both kinds of queries are executed by a data warehouse in a batch processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T194232Z" creationid="xccui" creationdate="20190228T194049Z">
@@ -12099,6 +12131,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025129Z" creationid="xccui" creationdate="20190628T025129Z">
         <seg>图6-7，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 6-8 shows how the window join of the DataStream API works.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040250Z" creationid="xccui" creationdate="20190628T040250Z">
+        <seg>图6-8展示了DataStream API中基于窗口的Join是如何工作的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 6-8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040255Z" creationid="xccui" creationdate="20190628T040255Z">
+        <seg>图6-8，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20324,6 +20372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T031045Z" creationid="xccui" creationdate="20190225T025708Z">
         <seg>控制Flink和流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation of a window join</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040307Z" creationid="xccui" creationdate="20190628T040307Z">
+        <seg>基于窗口的Join操作</seg>
       </tuv>
     </tu>
     <tu>
