@@ -8855,6 +8855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computation results can be updated based on late events and updates have to be emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153102Z" creationid="xingcan" creationdate="20190628T153009Z">
+        <seg>可以根据迟到事件更新并发出计算结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compute the average temperature every 5 seconds for a stream of sensors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041632Z" creationid="xccui" creationdate="20190612T041632Z">
@@ -16791,6 +16799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the context of an event- time window operator, an event is late if it arrives at the operator and the window assigner maps it to a window that has already been computed because the operator’s watermark passed the end timestamp of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152848Z" creationid="xingcan" creationdate="20190628T152848Z">
+        <seg>在事件时间窗口算子的环境下，如果事件到达算子时，窗口分配器为其分配的窗口已经因为算子水位线超过了它的结束时间而计算完毕，那么该事件就被认为是迟到的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the context of stream processing, one disadvantage of buffering is that it adds latency because records are collected in a buffer instead of being immediately shipped.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202650Z" creationid="esouser" creationdate="20190513T210715Z">
@@ -18747,6 +18763,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T052128Z" creationid="xccui" creationdate="20190328T052128Z">
         <seg>最后要强调的一点，Flink同时也是一个成熟的批处理引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Late events can be redirected into a separate stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152958Z" creationid="xingcan" creationdate="20190628T152958Z">
+        <seg>可以将迟到事件重定向到单独的数据流中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Late events can be simply dropped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153015Z" creationid="xingcan" creationdate="20190628T152931Z">
+        <seg>可以简单地将其丢弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24084,6 +24116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033836Z" creationid="xccui" creationdate="20190622T033836Z">
         <seg>DataStream API针对一些最常见窗口操作都提供了内置方法，此外还提供了一些非常灵活的窗口机制来自定义窗口逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DataStream API provides different options for how to handle late events:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152913Z" creationid="xingcan" creationdate="20190628T152913Z">
+        <seg>DataStream API提供了不同的选项来应对迟到事件：</seg>
       </tuv>
     </tu>
     <tu>
