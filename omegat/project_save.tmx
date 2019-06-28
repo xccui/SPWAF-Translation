@@ -6990,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An operator that supports recomputing and updating of emitted results needs to pre‐ serve all state required for the computation after the first result was emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T162344Z" creationid="xingcan" creationdate="20190628T162344Z">
+        <seg>支持重新计算和对已发出结果进行更新的算子需要保留那些用于再次计算结果的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An opera‐ tor that is applied on a connected and keyed stream has access to keyed state.3</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051502Z" creationid="xccui" creationdate="20190615T051502Z">
