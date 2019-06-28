@@ -25672,6 +25672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lower and upper bounds can be arbitrarily chosen as long as the lower bound is smaller than the upper bound; you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T030705Z" creationid="xccui" creationdate="20190628T030705Z">
+        <seg>在满足下界值小于上界值的前提下，你可以任意对它们赋值；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main take-away here is that lowering latency actually increases throughput.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T211801Z" creationid="xccui" creationdate="20190402T211645Z">
