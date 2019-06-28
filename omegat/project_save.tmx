@@ -13639,6 +13639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, assume you join two streams with a join operator that is configured with 1-hour tumbling window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T055055Z" creationid="xccui" creationdate="20190628T055055Z">
+        <seg>例如，假设你为执行Join操作的算子配置了1小时的滚动窗口，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, event logs like Apache Kafka can provide records from a previous offset of the stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T044504Z" creationid="xccui" creationdate="20190609T044407Z">
