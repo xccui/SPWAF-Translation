@@ -13751,6 +13751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the second input, all records with timestamps larger than the current watermark + the lower bound are buffered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031643Z" creationid="xccui" creationdate="20190628T031643Z">
+        <seg>对第二个输入而言，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For this example, your system needs Java 8 installed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T122651Z" creationid="xccui" creationdate="20190605T122651Z">
