@@ -60,3 +60,4 @@ evictor	移除器
 Incremental aggregation function	增量聚合函数
 Full window function	全量窗口函数
 per-window state	单个窗口状态
+side output	副输出
