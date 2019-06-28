@@ -18799,6 +18799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Late events can also be redirected into another DataStream using the side-output fea‐ ture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154339Z" creationid="xingcan" creationdate="20190628T154212Z">
+        <seg>我们还可以利用副输出将迟到事件重定向到另一个DataStream，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Late events can be redirected into a separate stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152958Z" creationid="xingcan" creationdate="20190628T152958Z">
