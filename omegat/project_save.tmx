@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.equalTo(...)   // specify key attributes for input2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040016Z" creationid="xccui" creationdate="20190628T040016Z">
+        <seg>.equalTo(...)   // 为input2指定键值属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.filter( r =&gt; r.temperature &gt;= 25 )</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053216Z" creationid="xccui" creationdate="20190613T053216Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064856Z" creationid="xccui" creationdate="20190614T064856Z">
         <seg>.union(tokyoStream, rioStream)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.where(...)  // specify key attributes for input1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040006Z" creationid="xccui" creationdate="20190628T040006Z">
+        <seg>.where(...)  // 为input1指定键值属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -33333,6 +33349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025831Z" creationid="xccui" creationdate="20190628T025831Z">
         <seg>input1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>input1.join(input2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T035951Z" creationid="xccui" creationdate="20190628T035951Z">
+        <seg>input1.join(input2)</seg>
       </tuv>
     </tu>
     <tu>
