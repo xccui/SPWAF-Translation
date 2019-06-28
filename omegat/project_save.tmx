@@ -10023,6 +10023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dropping late events is the default behavior for event-time window operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153632Z" creationid="xingcan" creationdate="20190628T153548Z">
+        <seg>这也是事件时间窗口的默认行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the append-only property of the log, events are always published to all consumers in exactly the same order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T060020Z" creationid="xccui" creationdate="20190305T054916Z">
@@ -14243,6 +14251,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015629Z" creationid="xccui" creationdate="20190611T014959Z">
         <seg>因此在写DataStream 应用之前需要安装Java JDK 8或更高版本，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, a late arriving ele‐ ment will not create a new window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153654Z" creationid="xingcan" creationdate="20190628T153654Z">
+        <seg>因此，迟到的元素不会创建新的窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25084,6 +25100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142935Z" creationid="xccui" creationdate="20190606T142935Z">
         <seg>Dispatcher同时还会启动一个web仪表盘，用来提供有关作业执行的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The easiest way to handle late events is to simply discard them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153552Z" creationid="xingcan" creationdate="20190628T153520Z">
+        <seg>处理迟到事件最简单的方式就是直接将其丢弃，</seg>
       </tuv>
     </tu>
     <tu>
