@@ -16959,6 +16959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we discuss these options in detail and show how they are applied for process functions and window operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153228Z" creationid="xingcan" creationdate="20190628T153228Z">
+        <seg>下面我们将详细讨论这些选项，看一看它们如何用于处理函数和窗口算子中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we explain how this algorithm works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060033Z" creationid="xccui" creationdate="20190609T060033Z">
