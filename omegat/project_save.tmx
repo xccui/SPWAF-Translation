@@ -15223,6 +15223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How‐ ever, since it is typically not possible for an operator to retain all state forever, it needs to purge state at some point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T162447Z" creationid="xingcan" creationdate="20190628T162447Z">
+        <seg>然而通常算子无法永久保留所有状态，最终还是需要在某个时间点将其清除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How‐ ever, too many colocated tasks can also overload a TaskManager and result in bad performance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144821Z" creationid="xccui" creationdate="20190606T144803Z">
@@ -20491,6 +20499,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T200648Z" creationid="xccui" creationdate="20190606T200629Z">
         <seg>一旦发送端任务完成，所有数据会经由一个到接收端的临时TCP连接，批量发出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the state for a certain result has been purged, the result cannot be updated anymore and late events can only be dropped or redirected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T162637Z" creationid="xingcan" creationdate="20190628T162637Z">
+        <seg>一旦清除了针对特定结果的状态，这些结果就再也无法更新，而迟到事件也只能被丢弃或重定向。</seg>
       </tuv>
     </tu>
     <tu>
