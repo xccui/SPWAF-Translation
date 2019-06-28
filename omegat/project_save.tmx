@@ -6742,6 +6742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An interval join needs to buffer records from one or both inputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031036Z" creationid="xccui" creationdate="20190628T031036Z">
+        <seg>基于间隔的Join需要同时对双流的记录进行缓冲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An on-going effort of the Flink community is to evolve Flink towards a system with a unified batch and streaming API and runtime.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T061543Z" creationid="xccui" creationdate="20190328T061256Z">
@@ -13731,6 +13739,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052854Z" creationid="xccui" creationdate="20190620T052854Z">
         <seg>针对这种情况，Flink提供了BoundedOutOfOrdernessTimeStampExtractor，它接收一个表示最大预期延迟的参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the first input, all records with timestamps larger than the current watermark—the upper bound— are buffered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031631Z" creationid="xccui" creationdate="20190628T031631Z">
+        <seg>对于第一个输入而言，所有时间戳大于当前水位线减去间隔上界的数据都会被缓冲起来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25674,8 +25690,8 @@
       <tuv lang="EN-US">
         <seg>The lower and upper bounds can be arbitrarily chosen as long as the lower bound is smaller than the upper bound; you</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T030705Z" creationid="xccui" creationdate="20190628T030705Z">
-        <seg>在满足下界值小于上界值的前提下，你可以任意对它们赋值；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T030743Z" creationid="xccui" creationdate="20190628T030705Z">
+        <seg>在满足下界值小于上界值的前提下，你可以任意对它们赋值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32125,6 +32141,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061314Z" creationid="xccui" creationdate="20190623T061314Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>can join all A events with all B events that have timestamps between one and two hours more than the A event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031015Z" creationid="xccui" creationdate="20190628T031015Z">
+        <seg>例如：允许出现B中事件的时间戳相较A中事件的时间戳早1到2个小时这样的条件。</seg>
       </tuv>
     </tu>
     <tu>
