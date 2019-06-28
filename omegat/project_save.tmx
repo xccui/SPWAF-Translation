@@ -15815,6 +15815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to joining two streams, it is also possible to cogroup two streams on a window by starting the operator definition with coGroup() instead of join().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053610Z" creationid="xccui" creationdate="20190628T053610Z">
+        <seg>除了对窗口中的两条流进行Join，还可以对它们进行Cogroup。只需将算子定义中的join()改为coGroup()即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to record timestamps, a Flink event-time application must also provide watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040914Z" creationid="xccui" creationdate="20190523T040914Z">
@@ -26180,6 +26188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043236Z" creationid="xccui" creationdate="20190611T043225Z">
         <seg>输出以几行日志语句开始，它们记录了并行算子所经过的一些状态，例如：SCHEDULING、DEPLOYING和RUNNING。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The overall logic is the same, but instead of calling a JoinFunction for every pair of events from both inputs, a CoGroupFunction is called once per window with iterators over the elements from both inputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053655Z" creationid="xccui" creationdate="20190628T053655Z">
+        <seg>Join</seg>
       </tuv>
     </tu>
     <tu>
