@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.allowedLateness(Time.seconds(5))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165249Z" creationid="xingcan" creationdate="20190628T165249Z">
+        <seg>.allowedLateness(Time.seconds(5))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.apply(...)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040149Z" creationid="xccui" creationdate="20190628T040149Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T045129Z" creationid="xccui" creationdate="20190623T045129Z">
         <seg>.process(new TemperatureAverager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.process(new UpdatingWindowCountFunction)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165340Z" creationid="xingcan" creationdate="20190628T165340Z">
+        <seg>.process(new UpdatingWindowCountFunction)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// count readings and update results if late readings arrive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165338Z" creationid="xingcan" creationdate="20190628T165338Z">
+        <seg>// 如果迟到读数达到，则重新计数并更新结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// count readings per window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155050Z" creationid="xingcan" creationdate="20190628T155050Z">
@@ -2010,6 +2034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022926Z" creationid="xccui" creationdate="20190622T022926Z">
         <seg>// 打印主输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// process late readings for 5 additional seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165246Z" creationid="xingcan" creationdate="20190628T165246Z">
+        <seg>// 额外处理5秒的迟到读数</seg>
       </tuv>
     </tu>
     <tu>
@@ -9923,6 +9955,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154911Z" creationid="xingcan" creationdate="20190628T154911Z">
         <seg>在窗口算子中为迟到事件定义副输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining a window operator with an allowed lateness of 5 seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165202Z" creationid="xingcan" creationdate="20190628T165202Z">
+        <seg>定义延迟容忍度为5秒的窗口算子</seg>
       </tuv>
     </tu>
     <tu>
@@ -36021,6 +36061,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154933Z" creationid="xingcan" creationdate="20190628T154933Z">
         <seg>val countPer10Secs: DataStream[(String, Long, Int)] = readings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val countPer10Secs: DataStream[(String, Long, Int, String)] = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165206Z" creationid="xingcan" creationdate="20190628T165206Z">
+        <seg>val countPer10Secs: DataStream[(String, Long, Int, String)] = readings</seg>
       </tuv>
     </tu>
     <tu>
