@@ -15095,6 +15095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there are a few issues that need to be taken into account in order to be able to recompute and update results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160700Z" creationid="xingcan" creationdate="20190628T160640Z">
+        <seg>如果想重新计算和更新结果，就必需考虑几个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there are a few things to consider when debugging a Flink application in an IDE:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053805Z" creationid="xccui" creationdate="20190611T053805Z">
@@ -18993,8 +19001,8 @@
       <tuv lang="EN-US">
         <seg>Late events arrive at an operator after a computation to which they should have con‐ tributed was completed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160255Z" creationid="xingcan" creationdate="20190628T160255Z">
-        <seg>迟到事件到达算子后，它们本应参与贡献的计算可能已经执行完毕。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160649Z" creationid="xingcan" creationdate="20190628T160255Z">
+        <seg>迟到事件抵达算子后，它们本应参与贡献的计算可能已经执行完毕。</seg>
       </tuv>
     </tu>
     <tu>
