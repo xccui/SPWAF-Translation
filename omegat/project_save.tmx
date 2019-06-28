@@ -7431,6 +7431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As discussed, watermarks can be used to balance result completeness and result latency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T144503Z" creationid="xingcan" creationdate="20190628T144503Z">
+        <seg>如前所述，水位线可用来平衡结果的完整性和延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As explained in “Com‐ ponents of a Flink Setup” on page 38, a Flink application is submitted to the JobMan‐ ager (master), which distributes execution tasks to one or more TaskManagers (workers).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051138Z" creationid="xccui" creationdate="20190611T051138Z">
