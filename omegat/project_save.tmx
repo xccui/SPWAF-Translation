@@ -18439,6 +18439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be noted that joining windowed streams can have unex‐ pected semantics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T054846Z" creationid="xccui" creationdate="20190628T054846Z">
+        <seg>注意，对划分窗口后的数据流进行Join可能会产生始料未及的语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should only be</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045111Z" creationid="xccui" creationdate="20190626T045111Z">
