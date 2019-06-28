@@ -6638,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allowed lateness can be specified using the allowedLateness() method as Example 6-22 demonstrates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165139Z" creationid="xingcan" creationdate="20190628T165139Z">
+        <seg>如示例6-22所示，我们可以使用allowedLateness()方法指定延迟容忍度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along with the previously discussed window functions, these components work together in a window operator to group and process elements in windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T051506Z" creationid="xccui" creationdate="20190625T051506Z">
@@ -11283,6 +11291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155521Z" creationid="xingcan" creationdate="20190628T155521Z">
         <seg>示例6-21，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-22.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165144Z" creationid="xingcan" creationdate="20190628T165144Z">
+        <seg>示例6-22，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31493,6 +31509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012858Z" creationid="xccui" creationdate="20190606T012803Z">
         <seg>当触发条件满足时，桶内数据会发送给一个计算函数（evaluation function），由它来对桶中的元素应用计算逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the watermark passes the window’s end timestamp plus the lateness interval, the window is finally deleted and all subsequent late elements are discarded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165028Z" creationid="xingcan" creationdate="20190628T165028Z">
+        <seg>当水位线超过了窗口结束时间加延迟容忍度间隔，窗口才会被最终删除，此后所有的迟到元素都将直接丢弃。</seg>
       </tuv>
     </tu>
     <tu>
