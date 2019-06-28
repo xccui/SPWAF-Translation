@@ -15817,8 +15817,8 @@
       <tuv lang="EN-US">
         <seg>In addition to joining two streams, it is also possible to cogroup two streams on a window by starting the operator definition with coGroup() instead of join().</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053610Z" creationid="xccui" creationdate="20190628T053610Z">
-        <seg>除了对窗口中的两条流进行Join，还可以对它们进行Cogroup。只需将算子定义中的join()改为coGroup()即可。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053729Z" creationid="xccui" creationdate="20190628T053610Z">
+        <seg>除了对窗口中的两条流进行Join，还可以对它们进行Cogroup。只需将算子定义开始位置的join()改为coGroup()即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26194,8 +26194,8 @@
       <tuv lang="EN-US">
         <seg>The overall logic is the same, but instead of calling a JoinFunction for every pair of events from both inputs, a CoGroupFunction is called once per window with iterators over the elements from both inputs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053655Z" creationid="xccui" creationdate="20190628T053655Z">
-        <seg>Join</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T054429Z" creationid="xccui" creationdate="20190628T053655Z">
+        <seg>Join和Cogroup的总体逻辑相同，二者的唯一区别是：Join会为两个输入中的每个事件对调用JoinFunction；而Gogroup中用到的GoGroupFunction会以两个输入的元素遍历器为参数，只在每个窗口中调用一次。</seg>
       </tuv>
     </tu>
     <tu>
