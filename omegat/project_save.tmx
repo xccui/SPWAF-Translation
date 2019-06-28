@@ -14063,6 +14063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For some use cases it might also be necessary to distinguish between the first result and an update due to a late event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164011Z" creationid="xingcan" creationdate="20190628T164011Z">
+        <seg>对大多数用例而言，可能还要对第一次的结果和由于迟到事件产生的更新结果加以区分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For such advanced applications, a good understanding of Flink’s internal time handling is often helpful and sometimes required.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204542Z" creationid="xccui" creationdate="20190523T034809Z">
@@ -27340,6 +27348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051241Z" creationid="xccui" creationdate="20190623T051241Z">
         <seg>在第22页"数据流上的操作"一节，我们第一个DataStream API示例中定义窗口的方式看上去有些不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The window operator API provides a method to explicitly declare that you expect late elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164103Z" creationid="xingcan" creationdate="20190628T164103Z">
+        <seg>窗口算子API提供了一个方法，可用来显式声明支持迟到的元素。</seg>
       </tuv>
     </tu>
     <tu>
