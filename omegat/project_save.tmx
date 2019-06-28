@@ -8105,8 +8105,8 @@
       <tuv lang="EN-US">
         <seg>Both input streams are keyed on their key attributes and the common window assigner maps events of both streams to common windows, meaning a window stores</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052614Z" creationid="xccui" creationdate="20190628T052614Z">
-        <seg>两条的输入流都会根据各自的键值属性进行分区，公共窗口分配器会将二者的事件映射到公共窗口（同时存储了两条流中数据的窗口）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052627Z" creationid="xccui" creationdate="20190628T052614Z">
+        <seg>两条的输入流都会根据各自的键值属性进行分区，公共窗口分配器会将二者的事件映射到公共窗口（其中同时存储了两条流中数据）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31001,6 +31001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the timer of a window fires, the JoinFunction is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052644Z" creationid="xccui" creationdate="20190628T052644Z">
+        <seg>当窗口的计时器触发时，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the train exits the tunnel, she comes back online, and pending events are sent to the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154758Z" creationid="xccui" creationdate="20190411T151545Z">
@@ -32277,6 +32285,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061314Z" creationid="xccui" creationdate="20190623T061314Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>called for each combination of elements from the first and the second input—the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052848Z" creationid="xccui" creationdate="20190628T052848Z">
+        <seg>会以两个输入中元素的每种组合来调用</seg>
       </tuv>
     </tu>
     <tu>
@@ -35060,6 +35076,14 @@
         <seg>the data itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070251Z" creationid="xccui" creationdate="20190619T070251Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the events of both inputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052629Z" creationid="xccui" creationdate="20190628T052629Z">
         <seg></seg>
       </tuv>
     </tu>
