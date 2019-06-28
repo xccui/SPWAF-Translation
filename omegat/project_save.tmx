@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.between(&lt;lower-bound&gt;, &lt;upper-bound&gt;) // bounds with respect to input1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025903Z" creationid="xccui" creationdate="20190628T025903Z">
+        <seg>.between(&lt;lower-bound&gt;, &lt;upper-bound&gt;) // 相对于input1的上下界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.connect(filterSwitches)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031704Z" creationid="xccui" creationdate="20190622T031704Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061520Z" creationid="xccui" creationdate="20190623T061520Z">
         <seg>.process(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.process(ProcessJoinFunction) // process pairs of matched events</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025916Z" creationid="xccui" creationdate="20190628T025916Z">
+        <seg>.process(ProcessJoinFunction) // 处理匹配的事件对</seg>
       </tuv>
     </tu>
     <tu>
@@ -20624,6 +20640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pairs of joined events are passed into a ProcessJoinFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025950Z" creationid="xccui" creationdate="20190628T025950Z">
+        <seg>Join成功的事件对会发送给ProcessJoinFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parallelization gets complicated, since results depend on both the state and incoming events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183657Z" creationid="xccui" creationdate="20190606T032919Z">
@@ -25636,6 +25660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053100Z" creationid="xccui" creationdate="20190612T052904Z">
         <seg>应用的逻辑是通过一系列转换来定义的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lower and upper bounds are defined as negative and positive time intervals, for example, as between(Time.hour(-1), Time.minute(15)).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T030211Z" creationid="xccui" creationdate="20190628T030211Z">
+        <seg>下界和上界分别由负时间间隔和正时间间隔来定义，例如between(Time.hour(-1), Time.minute(15))。</seg>
       </tuv>
     </tu>
     <tu>
