@@ -29392,6 +29392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless you opt for a very conservative watermark strategy that guarantees that all relevant records will be included at the cost of high latency, your application will most likely have to handle late elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T145930Z" creationid="xingcan" creationdate="20190628T145930Z">
+        <seg>除非你选择一种非常保守的水位线生成策略，以高延迟为代价确保涵盖全部相关记录，否则你的应用将很有可能需要处理迟到记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless you specify a parallelism, a program is executed by as many threads as the number of CPU threads of your development machine.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053929Z" creationid="xccui" creationdate="20190611T053929Z">
