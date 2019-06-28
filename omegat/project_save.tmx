@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.process(new LateReadingsFilter)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155624Z" creationid="xingcan" creationdate="20190628T155624Z">
+        <seg>.process(new LateReadingsFilter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.process(new ReadingFilter)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031750Z" creationid="xccui" creationdate="20190622T031750Z">
@@ -4942,6 +4950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A ProcessFunction that filters out late sensor readings and redirects them to a side output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155618Z" creationid="xingcan" creationdate="20190628T155618Z">
+        <seg>用于过滤出迟到的传感器读数并将其重定向到副输出的ProcessFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A ProcessWindowFunction that computes the lowest and highest temperature</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030825Z" creationid="xccui" creationdate="20190625T030825Z">
@@ -5426,6 +5442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153933Z" creationid="xingcan" creationdate="20190628T153844Z">
         <seg>处理函数可以通过比较事件时间戳和当前水位线的方式轻松过滤掉迟到事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A process function can identify late events by comparing event timestamps with the current watermark and emitting them using the regular side-output API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155410Z" creationid="xingcan" creationdate="20190628T155348Z">
+        <seg>处理函数可以通过比较事件时间戳和当前水位线来识别迟到事件，并使用常规的副输出API将其发出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11179,6 +11203,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154842Z" creationid="xingcan" creationdate="20190628T154842Z">
         <seg>示例6-20，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-21 shows a ProcessFunction that filters out late sensor readings from its</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155512Z" creationid="xingcan" creationdate="20190628T155512Z">
+        <seg>示例6-21展示了ProcessFunction如何从输入中过滤出迟到的传感器读数，并将其重定位到副输出流中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-21.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155521Z" creationid="xingcan" creationdate="20190628T155521Z">
+        <seg>示例6-21，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33689,6 +33729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>input and redirects them to a side-output stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155514Z" creationid="xingcan" creationdate="20190628T155514Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>input1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025831Z" creationid="xccui" creationdate="20190628T025831Z">
@@ -35813,6 +35861,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031604Z" creationid="xccui" creationdate="20190622T031604Z">
         <seg>val filterSwitches: DataStream[(String, Long)] = env</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val filteredReadings: DataStream[SensorReading] = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155621Z" creationid="xingcan" creationdate="20190628T155621Z">
+        <seg>val filteredReadings: DataStream[SensorReading] = readings</seg>
       </tuv>
     </tu>
     <tu>
