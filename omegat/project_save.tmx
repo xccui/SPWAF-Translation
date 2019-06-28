@@ -6702,6 +6702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An interval join joining two streams A and B</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025304Z" creationid="xccui" creationdate="20190628T025154Z">
+        <seg>流A和流B上基于间隔的Join</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An on-going effort of the Flink community is to evolve Flink towards a system with a unified batch and streaming API and runtime.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T061543Z" creationid="xccui" creationdate="20190328T061256Z">
@@ -11987,6 +11995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T214113Z" creationid="xccui" creationdate="20190627T214113Z">
         <seg>图6-7展示了两条流（A和B）上基于间隔的Join，如果B中事件的时间戳相较于A中事件的时间戳不早于1小时且不晚于15分钟，则会将两个事件Join起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 6-7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025129Z" creationid="xccui" creationdate="20190628T025129Z">
+        <seg>图6-7，</seg>
       </tuv>
     </tu>
     <tu>
