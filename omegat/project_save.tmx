@@ -5366,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A process function can easily filter out late events by comparing their timestamps with the current watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153933Z" creationid="xingcan" creationdate="20190628T153844Z">
+        <seg>处理函数可以通过比较事件时间戳和当前水位线的方式轻松过滤掉迟到事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A processing slot can execute one slice of an application—one parallel task of each operator of the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144414Z" creationid="xccui" creationdate="20190606T144414Z">
@@ -14257,8 +14265,8 @@
       <tuv lang="EN-US">
         <seg>Hence, a late arriving ele‐ ment will not create a new window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153654Z" creationid="xingcan" creationdate="20190628T153654Z">
-        <seg>因此，迟到的元素不会创建新的窗口。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153917Z" creationid="xingcan" creationdate="20190628T153654Z">
+        <seg>因此，迟到元素将不会创建新的窗口。</seg>
       </tuv>
     </tu>
     <tu>
