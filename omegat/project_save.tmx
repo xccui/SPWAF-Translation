@@ -13745,16 +13745,16 @@
       <tuv lang="EN-US">
         <seg>For the first input, all records with timestamps larger than the current watermark—the upper bound— are buffered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031631Z" creationid="xccui" creationdate="20190628T031631Z">
-        <seg>对于第一个输入而言，所有时间戳大于当前水位线减去间隔上界的数据都会被缓冲起来。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031701Z" creationid="xccui" creationdate="20190628T031631Z">
+        <seg>对第一个输入而言，所有时间戳大于当前水位线减去间隔上界的数据都会被缓冲起来；</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>For the second input, all records with timestamps larger than the current watermark + the lower bound are buffered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031643Z" creationid="xccui" creationdate="20190628T031643Z">
-        <seg>对第二个输入而言，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031913Z" creationid="xccui" creationdate="20190628T031643Z">
+        <seg>对第二个输入而言，所有时间戳大于当前水位线加上间隔下界的数据都会被缓冲起来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19531,6 +19531,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T025932Z" creationid="xccui" creationdate="20190626T025707Z">
         <seg>需要注意的是，显式指定的触发器会覆盖已有的触发器而非对其进行补充，这意味着窗口仅会基于最新定义的触发器执行计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that both bounds may be negative.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031942Z" creationid="xccui" creationdate="20190628T031942Z">
+        <seg>注意，两侧边界值都有可能为负。</seg>
       </tuv>
     </tu>
     <tu>
