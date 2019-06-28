@@ -6160,8 +6160,8 @@
       <tuv lang="EN-US">
         <seg>A window operator with allowed lateness will not delete a window and its state after the watermark passes the window’s end timestamp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164438Z" creationid="xingcan" creationdate="20190628T164432Z">
-        <seg>配置了该属性的窗口算子在水位线超过了窗口的结束时间戳之后不会立即删除窗口，</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164620Z" creationid="xingcan" creationdate="20190628T164432Z">
+        <seg>配置了该属性的窗口算子在水位线超过窗口的结束时间戳之后不会立即删除窗口，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18227,6 +18227,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062146Z" creationid="xccui" creationdate="20190623T062005Z">
         <seg>事实上，SessionWindows分配器会将每个到来的元素映射到一个它自己的窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, the operator continues to maintain the complete window for the allowed lateness period.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164709Z" creationid="xingcan" creationdate="20190628T164559Z">
+        <seg>而是会将窗口继续保留该延迟容忍度的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31061,6 +31069,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182140Z" creationid="xccui" creationdate="20190606T032106Z">
         <seg>每当一个作业结束，其结果都会写入持久化存储中，同时所有算子的状态将不复存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a late element arrives within the allowed lateness period it is handled like an on-time element and handed to the trigger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164831Z" creationid="xingcan" creationdate="20190628T164831Z">
+        <seg>在这段额外时间内到达的迟到元素会像按时到达的元素一样交给触发器处理。</seg>
       </tuv>
     </tu>
     <tu>
