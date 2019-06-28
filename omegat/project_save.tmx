@@ -5248,8 +5248,8 @@
       <tuv lang="EN-US">
         <seg>A late element is an element that arrives at an operator when a computation to which it would need to contribute has already been performed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T151903Z" creationid="xingcan" creationdate="20190628T151903Z">
-        <seg>所谓迟到指的是元素到达算子，后它本应参与贡献的计算已经执行完毕。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152220Z" creationid="xingcan" creationdate="20190628T151903Z">
+        <seg>所谓迟到指的是元素到达算子后，它本应参与贡献的计算已经执行完毕。</seg>
       </tuv>
     </tu>
     <tu>
