@@ -16095,6 +16095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to keeping state around, the downstream operators or external systems that follow an operator, which updates previously emitted results, need to be able to handle these updates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T163101Z" creationid="xingcan" creationdate="20190628T163101Z">
+        <seg>除了在算子中保持状态，受结果更新影响下游算子或外部系统还得能够处理这些更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to record timestamps, a Flink event-time application must also provide watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040914Z" creationid="xccui" creationdate="20190523T040914Z">
