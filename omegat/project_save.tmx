@@ -6158,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window operator with allowed lateness will not delete a window and its state after the watermark passes the window’s end timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164438Z" creationid="xingcan" creationdate="20190628T164432Z">
+        <seg>配置了该属性的窗口算子在水位线超过了窗口的结束时间戳之后不会立即删除窗口，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window operator with an incremental aggregation and full window func‐ tion (the single circle in each window represents its aggregated window state)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T214226Z" creationid="xccui" creationdate="20190625T214226Z">
@@ -31493,6 +31501,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060824Z" creationid="xccui" creationdate="20190618T060824Z">
         <seg>在使用富函数的时候，你可以针对函数生命周期实现两个额外的方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using event-time windows, you can specify an additional time period called allowed lateness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164252Z" creationid="xingcan" creationdate="20190628T164252Z">
+        <seg>在使用事件时间窗口时，你可以指定一个名为延迟容忍度（allowed lateness）的额外时间段。</seg>
       </tuv>
     </tu>
     <tu>
