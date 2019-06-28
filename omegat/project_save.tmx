@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.getSideOutput(new OutputTag[SensorReading]("late-readings"))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155129Z" creationid="xingcan" creationdate="20190628T155129Z">
+        <seg>.getSideOutput(new OutputTag[SensorReading]("late-readings"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.getSideOutput(new OutputTag[String]("freezing-alarms"))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022914Z" creationid="xccui" creationdate="20190622T022914Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025916Z" creationid="xccui" creationdate="20190628T025916Z">
         <seg>.process(ProcessJoinFunction) // 处理匹配的事件对</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.process(new CountFunction())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155052Z" creationid="xingcan" creationdate="20190628T155052Z">
+        <seg>.process(new CountFunction())</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// count readings per window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155050Z" creationid="xingcan" creationdate="20190628T155050Z">
+        <seg>// 计算每个窗口内的读数个数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create 1h event-time windows every 15 minutes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060053Z" creationid="xccui" creationdate="20190623T060053Z">
@@ -2034,6 +2058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023910Z" creationid="xccui" creationdate="20190622T022908Z">
         <seg>// 获取并打印包含冷冻警报的副输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// retrieve the late events from the side output as a stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155122Z" creationid="xingcan" creationdate="20190628T155122Z">
+        <seg>// 从副输出中获取迟到事件的数据流</seg>
       </tuv>
     </tu>
     <tu>
@@ -35973,6 +36005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064109Z" creationid="xccui" creationdate="20190615T064109Z">
         <seg>val large: DataStream[(Int, String)] = splitted.select("large")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val lateStream: DataStream[SensorReading] = countPer10Secs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155125Z" creationid="xingcan" creationdate="20190628T155125Z">
+        <seg>val lateStream: DataStream[SensorReading] = countPer10Secs</seg>
       </tuv>
     </tu>
     <tu>
