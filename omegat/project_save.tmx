@@ -25464,6 +25464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The interval join currently only supports event time and operates with INNER JOIN</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025409Z" creationid="xccui" creationdate="20190628T025409Z">
+        <seg>基于间隔的Join目前只支持事件时间以及INNER JOIN语义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The interval join joins events from two streams that have a common key and that have timestamps not more than specified intervals apart from each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T211758Z" creationid="xccui" creationdate="20190627T211758Z">
@@ -34533,6 +34541,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043417Z" creationid="xccui" creationdate="20190616T043417Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>semantics (events that have no matching event will not be forwarded).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025655Z" creationid="xccui" creationdate="20190628T025655Z">
+        <seg>（不会发出未匹配成功的事件）。</seg>
       </tuv>
     </tu>
     <tu>
