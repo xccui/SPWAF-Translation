@@ -6678,6 +6678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An element of the first input will not be joined with an element of the second input even if they are just 1 second apart from each other but assigned to two different windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T055552Z" creationid="xccui" creationdate="20190628T055552Z">
+        <seg>那么一旦来自两个输入的元素没有被划分到同一窗口，它们就无法Join在一起，即便二者彼此仅相差1秒钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An embedded execution mode starts Flink applications as a single JVM process which can be used to run and debug Flink jobs within an IDE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T053733Z" creationid="xccui" creationdate="20190328T053510Z">
