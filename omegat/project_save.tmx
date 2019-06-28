@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.sideOutputLateData(new OutputTag[SensorReading]("late-readings"))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154958Z" creationid="xingcan" creationdate="20190628T154958Z">
+        <seg>.sideOutputLateData(new OutputTag[SensorReading]("late-readings"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.split(t =&gt; if (t._1 &gt; 1000) Seq("large") else Seq("small"))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064105Z" creationid="xccui" creationdate="20190615T064105Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053729Z" creationid="xccui" creationdate="20190623T053729Z">
         <seg>.timeWindow(Time.seconds(1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.timeWindow(Time.seconds(10))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154936Z" creationid="xingcan" creationdate="20190628T154936Z">
+        <seg>.timeWindow(Time.seconds(10))</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024013Z" creationid="xccui" creationdate="20190622T024013Z">
         <seg>// 如果温度低于32F则发出冷冻警报</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// emit late readings to a side output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154955Z" creationid="xingcan" creationdate="20190628T154955Z">
+        <seg>// 将迟到读数发至副输出</seg>
       </tuv>
     </tu>
     <tu>
@@ -9767,6 +9791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defining a window operator with a side output for late events</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154911Z" creationid="xingcan" creationdate="20190628T154911Z">
+        <seg>在窗口算子中为迟到事件定义副输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defining keys and referencing fields</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022905Z" creationid="xccui" creationdate="20190225T022905Z">
@@ -9851,6 +9883,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T033752Z" creationid="esouser" creationdate="20190603T213520Z">
         <seg>根据业务逻辑的不同，此类应用可支持触发警报或发送电子邮件之类的操作，也可支持将事件写入输出流以供其他同类应用消费使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the business requirements, late data can later be integrated into the results of the streaming application with a periodic backfill process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154732Z" creationid="xingcan" creationdate="20190628T154732Z">
+        <seg>根据业务需求，迟到数据可通过定期回填过程（backfill process）集成到流式应用的结果中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11091,6 +11131,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044608Z" creationid="xccui" creationdate="20190620T044608Z">
         <seg>示例6-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-20 shows how to specify a window operator with a side output for late events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154837Z" creationid="xingcan" creationdate="20190628T154837Z">
+        <seg>示例6-20展示了如何在窗口算子中为迟到事件指定副输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 6-20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154842Z" creationid="xingcan" creationdate="20190628T154842Z">
+        <seg>示例6-20，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13953,8 +14009,8 @@
       <tuv lang="EN-US">
         <seg>From there, the late events can be processed or emitted using a regular sink</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154541Z" creationid="xingcan" creationdate="20190628T154541Z">
-        <seg>这样可以对它们进行后续处理或利用常规的数据汇函数将其写出。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154751Z" creationid="xingcan" creationdate="20190628T154541Z">
+        <seg>这样就可以对它们进行后续处理或利用常规的数据汇函数将其写出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18809,8 +18865,8 @@
       <tuv lang="EN-US">
         <seg>Late events can also be redirected into another DataStream using the side-output fea‐ ture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154339Z" creationid="xingcan" creationdate="20190628T154212Z">
-        <seg>我们还可以利用副输出将迟到事件重定向到另一个DataStream，</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154745Z" creationid="xingcan" creationdate="20190628T154212Z">
+        <seg>我们还能利用副输出将迟到事件重定向到另一个DataStream，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35649,6 +35705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val countPer10Secs: DataStream[(String, Long, Int)] = readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154933Z" creationid="xingcan" creationdate="20190628T154933Z">
+        <seg>val countPer10Secs: DataStream[(String, Long, Int)] = readings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val curTimerTimestamp = currentTimer.value();</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071518Z" creationid="xccui" creationdate="20190621T071518Z">
@@ -36029,6 +36093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050713Z" creationid="xccui" creationdate="20190613T050713Z">
         <seg>val readings: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val readings: DataStream[SensorReading] = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154914Z" creationid="xingcan" creationdate="20190628T154914Z">
+        <seg>val readings: DataStream[SensorReading] = ???</seg>
       </tuv>
     </tu>
     <tu>
