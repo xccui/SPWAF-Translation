@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* re-directs them to a side output */</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155826Z" creationid="xingcan" creationdate="20190628T155754Z">
+        <seg>* 并将其重定向到副输出的ProcessFunction */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* with a temperature below 32F.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023903Z" creationid="xccui" creationdate="20190622T023641Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031609Z" creationid="xccui" creationdate="20190622T031609Z">
         <seg>.fromCollection(Seq(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.getSideOutput(new  OutputTag[SensorReading]("late-readings"))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155646Z" creationid="xingcan" creationdate="20190628T155646Z">
+        <seg>.getSideOutput(new  OutputTag[SensorReading]("late-readings"))</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030655Z" creationid="xccui" creationdate="20190625T030655Z">
         <seg>/**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/** A ProcessFunction that filters out late sensor readings and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155735Z" creationid="xingcan" creationdate="20190628T155735Z">
+        <seg>/** 用于过滤出迟到的传感器读数</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,6 +1450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200942Z" creationid="xccui" creationdate="20190626T200942Z">
         <seg>// 清除触发器状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// compare record timestamp with current watermark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155905Z" creationid="xingcan" creationdate="20190628T155905Z">
+        <seg>// 比较记录时间戳和当前水位线</seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023910Z" creationid="xccui" creationdate="20190622T022908Z">
         <seg>// 获取并打印包含冷冻警报的副输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// retrieve late readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155640Z" creationid="xingcan" creationdate="20190628T155640Z">
+        <seg>// 获取迟到读数</seg>
       </tuv>
     </tu>
     <tu>
@@ -32769,6 +32809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class LateReadingsFilter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155830Z" creationid="xingcan" creationdate="20190628T155830Z">
+        <seg>class LateReadingsFilter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class MyFlatMap extends RichFlatMapFunction[Int, (Int, Int)] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034245Z" creationid="xccui" creationdate="20190619T034245Z">
@@ -33321,6 +33369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extends ProcessFunction[SensorReading, SensorReading] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155850Z" creationid="xingcan" creationdate="20190628T155850Z">
+        <seg>extends ProcessFunction[SensorReading, SensorReading] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>extends ProcessWindowFunction[SensorReading, MinMaxTemp, String, TimeWindow] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031913Z" creationid="xccui" creationdate="20190625T031913Z">
@@ -33573,6 +33629,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024017Z" creationid="xccui" creationdate="20190622T024017Z">
         <seg>if (r.temperature &lt; 32.0) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (r.timestamp &lt; ctx.timerService().currentWatermark()) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155909Z" creationid="xingcan" creationdate="20190628T155909Z">
+        <seg>if (r.timestamp &lt; ctx.timerService().currentWatermark()) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -35033,6 +35097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>r: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155839Z" creationid="xingcan" creationdate="20190628T155839Z">
+        <seg>r: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>reading per window and emits them together with the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031901Z" creationid="xccui" creationdate="20190625T030902Z">
@@ -36061,6 +36133,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064109Z" creationid="xccui" creationdate="20190615T064109Z">
         <seg>val large: DataStream[(Int, String)] = splitted.select("large")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val lateReadings: DataStream[SensorReading] = filteredReadings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155643Z" creationid="xingcan" creationdate="20190628T155643Z">
+        <seg>val lateReadings: DataStream[SensorReading] = filteredReadings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val lateReadingsOut = new OutputTag[SensorReading]("late-readings") override def processElement(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155835Z" creationid="xingcan" creationdate="20190628T155835Z">
+        <seg>val lateReadingsOut = new OutputTag[SensorReading]("late-readings") override def processElement(</seg>
       </tuv>
     </tu>
     <tu>
