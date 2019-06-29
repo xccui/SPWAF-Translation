@@ -17663,6 +17663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter you learned how to implement streaming applications that operate on time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041419Z" creationid="xccui" creationdate="20190629T041419Z">
+        <seg>在本章中，你学到了如何实现对时间进行操作的流式应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter you learned how to set up an environment to develop and debug Flink DataStream applications and how to generate a Maven project using Flink’s Maven archetype.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010845Z" creationid="xccui" creationdate="20190612T010845Z">
