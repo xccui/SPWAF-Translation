@@ -14647,6 +14647,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handling Late Data | 149</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042128Z" creationid="xccui" creationdate="20190629T042128Z">
+        <seg>处理迟到数据 | 149</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handling Late Data | 151</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042139Z" creationid="xccui" creationdate="20190629T042139Z">
+        <seg>处理迟到数据 | 151</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling delayed events is only one of the challenges that you can overcome with event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160251Z" creationid="xccui" creationdate="20190412T151554Z">
