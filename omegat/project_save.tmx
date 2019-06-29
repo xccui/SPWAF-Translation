@@ -8807,6 +8807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAPTER 7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042404Z" creationid="xccui" creationdate="20190629T042404Z">
+        <seg>第7章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTINUE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184358Z" creationid="xccui" creationdate="20190626T184358Z">
@@ -23696,6 +23704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042412Z" creationid="xccui" creationdate="20190629T042412Z">
+        <seg>状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stateful Operators and Applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023527Z" creationid="xccui" creationdate="20190225T023519Z">
@@ -23716,6 +23732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130813Z" creationid="xccui" creationdate="20190605T130813Z">
         <seg>状态化流处理 | 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stateful operators and user functions are common building blocks of stream process‐ ing applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042647Z" creationid="xccui" creationdate="20190629T042647Z">
+        <seg>状态化算子和用户函数是流处理应用中的常见组成部分。</seg>
       </tuv>
     </tu>
     <tu>
