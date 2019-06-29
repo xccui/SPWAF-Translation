@@ -18367,6 +18367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, you can implement the necessary logic using the building blocks of record timestamps, watermarks, and timers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041248Z" creationid="xccui" creationdate="20190629T041248Z">
+        <seg>虽说如此，你仍可以利用记录时间戳、水位线和定时器等功能来实现必要的迟到数据处理逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Integration with Hadoop Components</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025502Z" creationid="xccui" creationdate="20190225T025502Z">
