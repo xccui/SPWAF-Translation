@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* first results and updates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T033955Z" creationid="xccui" creationdate="20190629T033913Z">
+        <seg>* 会区分首次结果和后续更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* monotonically increases for 1 second (in processing time).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071249Z" creationid="xccui" creationdate="20190621T071249Z">
@@ -1544,8 +1552,8 @@
       <tuv lang="EN-US">
         <seg>// count readings and update results if late readings arrive</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165338Z" creationid="xingcan" creationdate="20190628T165338Z">
-        <seg>// 如果迟到读数达到，则重新计数并更新结果</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034051Z" creationid="xingcan" creationdate="20190628T165338Z">
+        <seg>// 如果遇到迟到读数，则重新计数并更新结果</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155050Z" creationid="xingcan" creationdate="20190628T155050Z">
         <seg>// 计算每个窗口内的读数个数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// count the number of readings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034117Z" creationid="xccui" creationdate="20190629T034024Z">
+        <seg>// 计算读数 个数</seg>
       </tuv>
     </tu>
     <tu>
@@ -22512,6 +22528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SensorReading, (String, Long, Int, String), String, TimeWindow] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T033945Z" creationid="xccui" creationdate="20190629T033945Z">
+        <seg>SensorReading, (String, Long, Int, String), String, TimeWindow] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Session &lt;t0/&gt;windows are useful in a common real-world scenario where neither&lt;t1/&gt; &lt;t2/&gt;tumbling nor sliding windows can be applied.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T024942Z" creationid="xccui" creationdate="20190407T024730Z">
@@ -33097,6 +33121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class UpdatingWindowCountFunction extends ProcessWindowFunction[</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T033939Z" creationid="xccui" creationdate="20190629T033939Z">
+        <seg>class UpdatingWindowCountFunction extends ProcessWindowFunction[</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>clearly define its behavior in a failure scenario.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042849Z" creationid="xccui" creationdate="20190415T042849Z">
@@ -33397,6 +33429,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034355Z" creationid="xccui" creationdate="20190625T034355Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>elements: Iterable[SensorReading],</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034006Z" creationid="xccui" creationdate="20190629T034006Z">
+        <seg>elements: Iterable[SensorReading],</seg>
       </tuv>
     </tu>
     <tu>
@@ -34697,6 +34737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out: Collector[(String, Long, Int, String)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034010Z" creationid="xccui" creationdate="20190629T034010Z">
+        <seg>out: Collector[(String, Long, Int, String)]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out: Collector[MinMaxTemp]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031927Z" creationid="xccui" creationdate="20190625T031927Z">
@@ -34901,6 +34949,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
         <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def process( id: String,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034002Z" creationid="xccui" creationdate="20190629T034002Z">
+        <seg>override def process( id: String,</seg>
       </tuv>
     </tu>
     <tu>
