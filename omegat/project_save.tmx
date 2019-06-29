@@ -22930,8 +22930,8 @@
       <tuv lang="EN-US">
         <seg>Since state manage‐ ment is always custom and manually done in process functions, Flink does not pro‐ vide a built-in API to support late data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T035942Z" creationid="xccui" creationdate="20190629T035942Z">
-        <seg>由于处理函数中的状态管理都是以自定义的方式手工完成</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041037Z" creationid="xccui" creationdate="20190629T035942Z">
+        <seg>但由于处理函数内部的状态管理都是通过手工自定义来完成的，所以Flink没有在其中内置和迟到数据处理相关的API。</seg>
       </tuv>
     </tu>
     <tu>
