@@ -1568,8 +1568,8 @@
       <tuv lang="EN-US">
         <seg>// count the number of readings</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034117Z" creationid="xccui" creationdate="20190629T034024Z">
-        <seg>// 计算读数 个数</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034415Z" creationid="xccui" creationdate="20190629T034024Z">
+        <seg>// 计算读数个数</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041351Z" creationid="xccui" creationdate="20190622T041351Z">
         <seg>// 指定窗口分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// state to check if this is the first evaluation of the window or not</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034320Z" creationid="xccui" creationdate="20190629T034320Z">
+        <seg>// 该状态用于标识是否是第一次对窗口进行计算</seg>
       </tuv>
     </tu>
     <tu>
@@ -33849,6 +33857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (!isUpdate.value()) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034338Z" creationid="xccui" creationdate="20190629T034338Z">
+        <seg>if (!isUpdate.value()) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if (key &lt; 0) 0 else r.nextInt(numPartitions)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050644Z" creationid="xccui" creationdate="20190616T050644Z">
@@ -34557,6 +34573,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200944Z" creationid="xccui" creationdate="20190626T200944Z">
         <seg>new ValueStateDescriptor[Boolean]("firstSeen", classOf[Boolean])) firstSeen.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[Boolean]("isUpdate", Types.of[Boolean]))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034335Z" creationid="xccui" creationdate="20190629T034335Z">
+        <seg>new ValueStateDescriptor[Boolean]("isUpdate", Types.of[Boolean]))</seg>
       </tuv>
     </tu>
     <tu>
@@ -36113,6 +36137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val cnt = elements.count(_ =&gt; true)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034120Z" creationid="xccui" creationdate="20190629T034120Z">
+        <seg>val cnt = elements.count(_ =&gt; true)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val connected: ConnectedStreams[Int, String] = first.connect(second)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040824Z" creationid="xccui" creationdate="20190615T040824Z">
@@ -36333,6 +36365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062232Z" creationid="xccui" creationdate="20190614T062232Z">
         <seg>val inputStream: DataStream[(String, List[String])] = env.fromElements( ("en", List("tea")), ("fr", List("vin")), ("en", List("cake")))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val isUpdate = ctx.windowState.getState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034323Z" creationid="xccui" creationdate="20190629T034323Z">
+        <seg>val isUpdate = ctx.windowState.getState(</seg>
       </tuv>
     </tu>
     <tu>
