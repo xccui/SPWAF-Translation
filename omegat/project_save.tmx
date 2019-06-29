@@ -21530,8 +21530,8 @@
       <tuv lang="EN-US">
         <seg>Process functions can also be implemented to support late data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034857Z" creationid="xccui" creationdate="20190629T034857Z">
-        <seg>我们同样可以在处理函数中实现针对迟到数据的处理逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T040440Z" creationid="xccui" creationdate="20190629T034857Z">
+        <seg>我们同样可以在处理函数中应对数据迟到的情况，</seg>
       </tuv>
     </tu>
     <tu>
