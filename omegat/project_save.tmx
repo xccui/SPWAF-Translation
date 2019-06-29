@@ -30344,6 +30344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We also discussed the semantics of watermarks, how to trade off result com‐ pleteness and result latency, and strategies for handling late events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041816Z" creationid="xccui" creationdate="20190629T041816Z">
+        <seg>我们还讨论了水位线的语义，如何在结果的完成性和延迟之间进行取舍，以及应对迟到事件的相关策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We also looked into supported data types and different ways to specify keys and user-defined functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044237Z" creationid="xccui" creationdate="20190619T044237Z">
@@ -30700,6 +30708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025327Z" creationid="xccui" creationdate="20190613T025327Z">
         <seg>我们将结合代码示例对它们的语义进行解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We explained how to configure the time characteristics of a streaming applica‐ tion and how to assign timestamps and watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041548Z" creationid="xccui" creationdate="20190629T041449Z">
+        <seg>我们解释了如何为流式应用配置时间特征以及如何分配时间戳和水位线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32445,6 +32461,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T050049Z" creationid="xccui" creationdate="20190328T062213Z">
         <seg>恭喜你首次成功安装启动了Flink本地集群并运行了你第一个Flink DataStream程序！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You learned about time-based operators, including Flink’s process functions, built-in windows, and custom win‐ dows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041643Z" creationid="xccui" creationdate="20190629T041533Z">
+        <seg>你对Flink中基于时间的算子（包括处理函数、内置窗口以及自定义窗口等）已经有所了解。</seg>
       </tuv>
     </tu>
     <tu>
