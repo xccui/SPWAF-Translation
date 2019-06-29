@@ -2798,10 +2798,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>130 | Chapter 6: Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042016Z" creationid="xccui" creationdate="20190629T042016Z">
+        <seg>130 | 第6章：基于时间和窗口的算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>131</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035859Z" creationid="xccui" creationdate="20190418T035859Z">
         <seg>131</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>132 | Chapter 6: Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042020Z" creationid="xccui" creationdate="20190629T042020Z">
+        <seg>132 | 第6章：基于时间和窗口的算子</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>140 | Chapter 6: Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042025Z" creationid="xccui" creationdate="20190629T042025Z">
+        <seg>140 | 第6章：基于时间和窗口的算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>141</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035925Z" creationid="xccui" creationdate="20190418T035925Z">
@@ -2866,6 +2890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035928Z" creationid="xccui" creationdate="20190418T035928Z">
         <seg>142</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>142 | Chapter 6: Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042030Z" creationid="xccui" creationdate="20190629T042030Z">
+        <seg>142 | 第6章：基于时间和窗口的算子</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>146 | Chapter 6: Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042033Z" creationid="xccui" creationdate="20190629T042033Z">
+        <seg>146 | 第6章：基于时间和窗口的算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>148</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210748Z" creationid="esouser" creationdate="20190603T210748Z">
@@ -2934,10 +2974,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>150 | Chapter 6: Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042039Z" creationid="xccui" creationdate="20190629T042039Z">
+        <seg>150 | 第6章：基于时间和窗口的算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>152</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T150824Z" creationid="esouser" creationdate="20190603T150824Z">
         <seg>152</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>152 | Chapter 6: Time-Based and Window Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042046Z" creationid="xccui" creationdate="20190629T042046Z">
+        <seg>152 | 第6章：基于时间和窗口的算子</seg>
       </tuv>
     </tu>
     <tu>
@@ -32053,6 +32109,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042004Z" creationid="xccui" creationdate="20190629T042004Z">
         <seg>窗口算子 | 123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window Operators | 131</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042053Z" creationid="xccui" creationdate="20190629T042053Z">
+        <seg>窗口算子 | 131</seg>
       </tuv>
     </tu>
     <tu>
