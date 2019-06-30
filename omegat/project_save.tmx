@@ -10137,8 +10137,8 @@
       <tuv lang="EN-US">
         <seg>Data that resides in such storage systems can be queried with and processed by a SQL-on-Hadoop engine, for example Apache Hive, Apache Drill, or Apache Impala.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T204141Z" creationid="esouser" creationdate="20190603T203856Z">
-        <seg>而它们中的数据也可以通过很多基于Hadoop的SQL引擎（如：Apache Hive、Apache Drill、Apache Impala）进行查询和处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T072705Z" creationid="esouser" creationdate="20190603T203856Z">
+        <seg>而它们中的数据也可以通过很多基于Hadoop的SQL引擎（如Apache Hive、Apache Drill或Apache Impala）进行查询和处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15625,8 +15625,8 @@
       <tuv lang="EN-US">
         <seg>However, the infrastructure remains basically the same as a traditional data ware‐ house architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T030105Z" creationid="esouser" creationdate="20190603T204255Z">
-        <seg>然而，这些基础设施仍然采用和传统数据仓库相同的架构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T072853Z" creationid="esouser" creationdate="20190603T204255Z">
+        <seg>然而，这些基础设施所用的架构仍然和传统数据仓库基本相同。</seg>
       </tuv>
     </tu>
     <tu>
