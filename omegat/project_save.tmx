@@ -7608,8 +7608,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink checks all these boxes and is a very good choice to run this class of applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053737Z" creationid="xccui" creationdate="20190604T053710Z">
-        <seg>Apache Flink 能够同时涵盖上述全部特性，是运行该类应用的一个非常好的选择。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074800Z" creationid="xccui" creationdate="20190604T053710Z">
+        <seg>Apache Flink能够同时涵盖上述全部特性，是运行该类应用的一个非常好的选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20305,8 +20305,8 @@
       <tuv lang="EN-US">
         <seg>More‐ over, exactly-once state consistency and the ability to scale an application are funda‐ mental requirements for event-driven applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074709Z" creationid="xccui" creationdate="20190604T053625Z">
-        <seg>此外，作为基本需求，系统要提供精确一次（exactly-once）的状态一致性保障和针对应用的伸缩性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074758Z" creationid="xccui" creationdate="20190604T053625Z">
+        <seg>此外，作为基本需求，系统要提供精确一次（exactly-once）的状态一致性保障和针对应用的可伸缩性。</seg>
       </tuv>
     </tu>
     <tu>
