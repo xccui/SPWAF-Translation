@@ -25736,6 +25736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The choice also affects the performance of a function because each state backend provides its own implementations for these primitives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T041207Z" creationid="xccui" creationdate="20190630T041207Z">
+        <seg>同时，由于每个状态后端都为这些原语提供了自己的实现，该选择还会影响函数的性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The choice of the right state primitive depends on how the function interacts with the state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040955Z" creationid="xccui" creationdate="20190630T040955Z">
@@ -26300,6 +26308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041550Z" creationid="xccui" creationdate="20190626T041550Z">
         <seg>以下就是WindowAssigner接口：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following state primitives are supported by Flink:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T041221Z" creationid="xccui" creationdate="20190630T041221Z">
+        <seg>Flink目前支持以下状态原语：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30516,6 +30532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T215622Z" creationid="xccui" creationdate="20190607T192625Z">
         <seg>单值状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ValueState[T] holds a single value of type T. The value can be read using Value State.value() and updated with ValueState.update(value: T).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T041507Z" creationid="xccui" creationdate="20190630T041507Z">
+        <seg>ValueState[T]用于保存类型为T的单个值。我们可以利用State.value()来读取该值并通过ValueState.update(value: T)来更新它。</seg>
       </tuv>
     </tu>
     <tu>
