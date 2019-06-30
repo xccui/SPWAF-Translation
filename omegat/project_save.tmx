@@ -13455,6 +13455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides multiple interfaces to define stateful functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035109Z" creationid="xccui" creationdate="20190630T035109Z">
+        <seg>Flink为定义状态化函数提供了多种接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides state backends that manage keyed state as objects stored in in-memory data structures on the JVM heap.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T052639Z" creationid="xccui" creationdate="20190608T052050Z">
@@ -18123,6 +18131,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154954Z" creationid="xccui" creationdate="20190608T153948Z">
         <seg>本节我们会介绍Flink的检查点以及故障恢复机制，看一下它们如何提供精确一次的状态一致性保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, we show how functions with keyed and operator state are implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035207Z" creationid="xccui" creationdate="20190630T035207Z">
+        <seg>本节我们将展示如何实现带有键值状态和算子状态的函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30116,6 +30132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T062058Z" creationid="xccui" creationdate="20190317T060355Z">
         <seg>通常情况下，流式应用会把它们的结果保存在某种支持高效更新的外部数据存储中，例如：数据库或键值存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, the state handle object is created in the open() method of RichFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035356Z" creationid="xccui" creationdate="20190630T035356Z">
+        <seg>通常情况下，状态句柄对象是在RichFunction的open()方法中创建的。</seg>
       </tuv>
     </tu>
     <tu>
