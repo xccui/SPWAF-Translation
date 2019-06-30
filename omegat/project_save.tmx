@@ -1432,8 +1432,8 @@
       <tuv lang="EN-US">
         <seg>// apply a stateful FlatMapFunction on the keyed stream which</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062402Z" creationid="xccui" creationdate="20190630T062142Z">
-        <seg>//在键值分区数据流上应用一个状态化的FlatMapFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064858Z" creationid="xccui" creationdate="20190630T062142Z">
+        <seg>// 在键值分区数据流上应用一个状态化的FlatMapFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -29832,6 +29832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create a state object, we have to register a StateDescriptor with Flink’s runtime via the RuntimeContext, which is exposed by RichFunction (see “Implementing Functions” on page 105 for a discussion of the RichFunction interface).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064840Z" creationid="xccui" creationdate="20190630T064840Z">
+        <seg>为了创建一个状态对象，我们需要利用RuntimeContext在Flink运行时中注册一个StateDescriptor。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a window operator, you need to specify two window components:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T035330Z" creationid="xccui" creationdate="20190622T035330Z">
@@ -36765,6 +36773,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044901Z" creationid="xccui" creationdate="20190617T044901Z">
         <seg>this.age = age;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this.lastTempState.update(reading.temperature)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064715Z" creationid="xccui" creationdate="20190630T064715Z">
+        <seg>this.lastTempState.update(reading.temperature)</seg>
       </tuv>
     </tu>
     <tu>
