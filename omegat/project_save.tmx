@@ -16351,6 +16351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to built-in operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032021Z" creationid="xccui" creationdate="20190630T032021Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to joining two streams, it is also possible to cogroup two streams on a window by starting the operator definition with coGroup() instead of join().</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053729Z" creationid="xccui" creationdate="20190628T053610Z">
@@ -23796,6 +23804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T034141Z" creationid="xccui" creationdate="20190305T034141Z">
         <seg>状态化流处理应用通常会从事件日志中读取事件记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stateful stream processing has implications on many aspects of a stream processor such as failure recovery and memory management as well as the maintenance of streaming applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032323Z" creationid="xccui" creationdate="20190630T032323Z">
+        <seg>状态化流处理会在很多方面对流处理引擎产生影响，例如故障恢复、内存管理以及流式应用的维护等。</seg>
       </tuv>
     </tu>
     <tu>
