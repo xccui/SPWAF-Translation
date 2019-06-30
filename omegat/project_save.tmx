@@ -32849,6 +32849,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a ProcessWindowFunction or the result of applying a ReduceFunction, a Process Function memorizes scheduled timers, and some sink functions maintain state about transactions to provide exactly-once functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T031718Z" creationid="xccui" creationdate="20190630T031718Z">
+        <seg>举例而言：窗口算子会为ProcessWindowFunction收集输入记录或保存ReduceFunction所产生的结果；ProcessFunction需要记住设定的计时器；一些数据汇函数为了提供精确一次语义需要维护事务相关状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a WindowAssigner, a trigger decides when to evalute a window, and a window func‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T031548Z" creationid="xccui" creationdate="20190626T031548Z">
