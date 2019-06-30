@@ -34993,6 +34993,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>method will replace existing values with the given list of values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055530Z" creationid="xccui" creationdate="20190630T055530Z">
+        <seg>该方法将使用给定列表的值替换已有值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>microservices are strictly decoupled from each other and only communicate over well-defined interfaces, each microservice can be implemented with a different tech‐ nology stack including a programming language, libraries, and datastores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T023410Z" creationid="esouser" creationdate="20190603T200753Z">
