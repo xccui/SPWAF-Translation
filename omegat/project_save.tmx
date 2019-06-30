@@ -11695,6 +11695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-1 shows how to apply a FlatMapFunction with a keyed ValueState on a stream of sensor measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061537Z" creationid="xccui" creationdate="20190630T061537Z">
+        <seg>示例7-1展示了如何在一条传感数据测量流上应用一个带有键值化ValueState的FlatMapFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -26068,6 +26076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T032903Z" creationid="xccui" creationdate="20190322T051608Z">
         <seg>在精确结果写入批处理表后，"提速表"中对应的非精确结果就可以删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The example application emits an alert event if the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061742Z" creationid="xccui" creationdate="20190630T061742Z">
+        <seg>该示例应用会在传感器测量的温度比上一个测量值高出一定阈值时发出警报。</seg>
       </tuv>
     </tu>
     <tu>
