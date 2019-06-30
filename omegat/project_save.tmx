@@ -14887,6 +14887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, keyed state is very similar to a distributed key-value map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040014Z" creationid="xccui" creationdate="20190630T035948Z">
+        <seg>因此，键值状态看上去就像一个分布式键值映射（distributed key-value map）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, no events are lost and the state is completely built up from scratch.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191304Z" creationid="xccui" creationdate="20190606T034000Z">
