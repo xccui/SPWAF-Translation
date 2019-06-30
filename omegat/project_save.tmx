@@ -8911,6 +8911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 10 gives guidance on how to operate stateful applications—taking and restoring from application savepoints, rescaling applications, and performing application upgrades.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033104Z" creationid="xccui" creationdate="20190630T033104Z">
+        <seg>第10章指导你如何操纵状态化应用，具体包括</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 10 will discuss how the DataStream API allows to control the assignment and grouping of tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T210039Z" creationid="xccui" creationdate="20190428T210014Z">
