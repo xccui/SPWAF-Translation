@@ -19631,6 +19631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ListState[T] holds a list of elements of type T. New elements can be appended to the list by calling ListState.add(value: T) or ListState.addAll(values: java.util.List[T]).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T053549Z" creationid="xccui" creationdate="20190630T053549Z">
+        <seg>ListState[T]用于保存类型为T的元素列表。我们可以调用ListState.add(value: T)或ListState.addAll(values: java.util.List[T])将新元素附加到列表中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local state access provides very good performance compared to reading and writing queries against remote datastores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T034032Z" creationid="xccui" creationdate="20190604T023347Z">
