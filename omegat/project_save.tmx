@@ -28650,8 +28650,8 @@
       <tuv lang="EN-US">
         <seg>They communicate via event logs instead of REST calls and hold application data as local state instead of writing it to and reading it from an external datastore, such as a relational database or key-value store.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T213828Z" creationid="esouser" creationdate="20190603T213740Z">
-        <seg>微服务通过REST调用进行通信，利用事务型数据库或键值存储等外部系统存储数据；而事件驱动型应用利用事件日志进行通信，而其数据会以本地状态形式存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073910Z" creationid="esouser" creationdate="20190603T213740Z">
+        <seg>微服务通过REST调用进行通信，利用事务型数据库或键值存储等外部系统存储数据；而事件驱动型应用利用事件日志进行通信，其数据则会以本地状态形式存储。</seg>
       </tuv>
     </tu>
     <tu>
