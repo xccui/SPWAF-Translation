@@ -8913,8 +8913,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 10 gives guidance on how to operate stateful applications—taking and restoring from application savepoints, rescaling applications, and performing application upgrades.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033104Z" creationid="xccui" creationdate="20190630T033104Z">
-        <seg>第10章指导你如何操纵状态化应用，具体包括</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033447Z" creationid="xccui" creationdate="20190630T033104Z">
+        <seg>第10章指导你如何操纵状态化应用，具体包括创建和恢复应用保存点，对应用进行扩缩容以及应用升级等内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28420,6 +28420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053502Z" creationid="xccui" creationdate="20190625T053502Z">
         <seg>该情况如图6-4所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter focuses on the implementation of stateful user-defined functions and discusses the performance and robustness of stateful applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033720Z" creationid="xccui" creationdate="20190630T033720Z">
+        <seg>本章重点介绍如何实现有状态的UDF并讨论状态化应用的性能及健壮性。</seg>
       </tuv>
     </tu>
     <tu>
