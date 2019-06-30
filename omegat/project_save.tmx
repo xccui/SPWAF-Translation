@@ -23496,6 +23496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifically, we explain how to define and interact with different types of state in user-defined func‐ tions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033819Z" creationid="xccui" creationdate="20190630T033819Z">
+        <seg>具体而言，我们将介绍如何在用户自定义函数中定义不同的状态类型并与之交互。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifying Unique Operator Identifiers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024703Z" creationid="xccui" creationdate="20190225T024703Z">
