@@ -13847,6 +13847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each distinct value of the key attribute, Flink maintains one state instance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035553Z" creationid="xccui" creationdate="20190630T035553Z">
+        <seg>对于每一个键值，Flink都会维护一个状态实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each event in the input stream, a task is a processing step that performs the fol‐ lowing steps: (1) receives the event, storing it in a local buffer; (2) possibly updates internal state; and (3) produces an output record.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T190522Z" creationid="xccui" creationdate="20190606T033527Z">
@@ -24624,6 +24632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That means each parallel instance of the function is responsible for a subrange of the key domain and maintains the corresponding state instances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035827Z" creationid="xccui" creationdate="20190630T035827Z">
+        <seg>这意味着每个函数的并行实例都会负责键值域的一部分并维护相应的状态实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s it!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041710Z" creationid="xccui" creationdate="20190611T041710Z">
@@ -26564,6 +26580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051446Z" creationid="xccui" creationdate="20190614T051446Z">
         <seg>keyBy()方法接收一个用来指定分区键值（可以是多个）的参数，返回一个KeyedStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The keyed state instances of a function are distributed across all parallel tasks of the function’s operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035709Z" creationid="xccui" creationdate="20190630T035709Z">
+        <seg>函数的键值状态实例会分布在函数算子的所有并行任务上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30308,6 +30332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210803Z" creationid="esouser" creationdate="20190603T210803Z">
         <seg>Used for program listings, as well as within paragraphs to refer to program ele‐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User functions can employ keyed state to store and access state in the context of a key attribute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035526Z" creationid="xccui" creationdate="20190630T035526Z">
+        <seg>用户函数可以使用键值状态来存储和访问当前键值上下文中的状态。</seg>
       </tuv>
     </tu>
     <tu>
