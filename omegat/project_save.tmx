@@ -26080,6 +26080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The data types handled by the state are specified as Class or TypeInformation objects (see “Types” on page 97 for a discussion of Flink’s type handling).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T070936Z" creationid="xccui" creationdate="20190630T070936Z">
+        <seg>状态处理的数据类型可以通过Class或TypeInformation对象指定（有关Flink类型处理的讨论请参见第97页的"类型"一节）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data written to the batch storage is periodically processed by a batch processor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T045024Z" creationid="xccui" creationdate="20190322T045655Z">
@@ -36700,6 +36708,14 @@
         <seg>text in which the method is invoked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045223Z" creationid="xccui" creationdate="20190612T045223Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>than one state object by registering multiple state descriptors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T070214Z" creationid="xccui" creationdate="20190630T070214Z">
         <seg></seg>
       </tuv>
     </tu>
