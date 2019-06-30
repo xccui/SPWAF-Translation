@@ -25592,6 +25592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The StateDe scriptor is specific to the state primitive and includes the name of the state and the data types of the state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065447Z" creationid="xccui" creationdate="20190630T065447Z">
+        <seg>每个状态原语都有自己特定的StateDescriptor，它其中包含了状态名称和类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The StreamExecutionEnvironment provides methods to create stream sources that ingest data streams into the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051229Z" creationid="xccui" creationdate="20190612T051229Z">
@@ -29834,8 +29842,8 @@
       <tuv lang="EN-US">
         <seg>To create a state object, we have to register a StateDescriptor with Flink’s runtime via the RuntimeContext, which is exposed by RichFunction (see “Implementing Functions” on page 105 for a discussion of the RichFunction interface).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064840Z" creationid="xccui" creationdate="20190630T064840Z">
-        <seg>为了创建一个状态对象，我们需要利用RuntimeContext在Flink运行时中注册一个StateDescriptor。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065152Z" creationid="xccui" creationdate="20190630T064840Z">
+        <seg>为了创建一个状态对象，我们需要利用RichFunction（有关该接口的内容请参照105页"实现函数"）中的RuntimeContext在Flink运行时中注册一个StateDescriptor。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32299,8 +32307,8 @@
       <tuv lang="EN-US">
         <seg>When the processing method of a function with keyed input is called, Flink’s runtime auto‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T063147Z" creationid="xccui" creationdate="20190630T062841Z">
-        <seg>对于一个作用在键值分区输入上的函数而言，Flink运行时逻辑会在调用它的处理方法时，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064956Z" creationid="xccui" creationdate="20190630T062841Z">
+        <seg>对于一个作用在键值分区输入上的函数而言，Flink运行时会在调用它的处理方法时，</seg>
       </tuv>
     </tu>
     <tu>
