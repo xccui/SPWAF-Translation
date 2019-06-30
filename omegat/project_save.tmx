@@ -11759,6 +11759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-2 shows the implementation of a FlatMapFunction with a keyed Value State that checks whether the measured temperature changed more than a config‐ ured threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064132Z" creationid="xccui" creationdate="20190630T064132Z">
+        <seg>示例7-2展示了如何实现带有键值分区ValueState的FlatMapFunction，该函数用来检测温度测量值的变化是否超过配置的阈值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -28260,6 +28268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051514Z" creationid="xccui" creationdate="20190623T051346Z">
         <seg>那里，我们使用timeWindow(size)方法定义了一个事件时间滚动窗口，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, a function can only access the state that belongs to the record it currently processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T063851Z" creationid="xccui" creationdate="20190630T063851Z">
+        <seg>这样，函数每次只能访问属于当前处理记录的状态。</seg>
       </tuv>
     </tu>
     <tu>
