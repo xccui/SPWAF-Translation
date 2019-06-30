@@ -7728,8 +7728,8 @@
       <tuv lang="EN-US">
         <seg>Applying a FlatMapFunction with a keyed ValueState</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062017Z" creationid="xccui" creationdate="20190630T062017Z">
-        <seg>应用一个带有键值化ValueState的FlatMapFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062303Z" creationid="xccui" creationdate="20190630T062017Z">
+        <seg>应用一个带有键值分区ValueState的FlatMapFunction</seg>
       </tuv>
     </tu>
     <tu>
