@@ -30138,8 +30138,8 @@
       <tuv lang="EN-US">
         <seg>Typically, the state handle object is created in the open() method of RichFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035356Z" creationid="xccui" creationdate="20190630T035356Z">
-        <seg>通常情况下，状态句柄对象是在RichFunction的open()方法中创建的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035426Z" creationid="xccui" creationdate="20190630T035356Z">
+        <seg>通常情况下，状态句柄对象会在RichFunction的open()方法中创建。</seg>
       </tuv>
     </tu>
     <tu>
