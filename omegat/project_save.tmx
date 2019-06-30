@@ -26306,8 +26306,8 @@
       <tuv lang="EN-US">
         <seg>The expressiveness of the API and the quality of state handling and event-time support determine the business logic that can be implemented and exe‐ cuted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053602Z" creationid="xccui" creationdate="20190604T052839Z">
-        <seg>API的表达能力以及对状态处理和事件时间的支持水平等诸多因素决定了可以实现和执行的业务逻辑类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074408Z" creationid="xccui" creationdate="20190604T052839Z">
+        <seg>API的表达能力以及对状态处理和事件时间的支持水平等诸多因素决定了可以实现和执行的业务逻辑。</seg>
       </tuv>
     </tu>
     <tu>
