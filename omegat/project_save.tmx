@@ -23386,8 +23386,8 @@
       <tuv lang="EN-US">
         <seg>Since Flink is a distributed system, the local state needs to be protected against failures to avoid data loss in case of application or machine failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073149Z" creationid="esouser" creationdate="20190603T210018Z">
-        <seg>由于采用的是分布式架构，Flink需要对本地状态予以保护，以防因应用或机器故障导致数据丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073210Z" creationid="esouser" creationdate="20190603T210018Z">
+        <seg>由于采用的是分布式架构，Flink需要对本地状态予以保护，以避免因应用或机器故障导致数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
