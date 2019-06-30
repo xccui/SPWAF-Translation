@@ -5174,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A KeyedStream is partitioned on the specified key and remembers the key definition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040446Z" creationid="xccui" creationdate="20190630T040446Z">
+        <seg>KeyedStream会根据指定键值进行分区并会记住键值的定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A ProcessFunction that emits records to a side output</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023338Z" creationid="xccui" creationdate="20190622T023338Z">
@@ -7186,6 +7194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152418Z" creationid="esouser" creationdate="20190514T152418Z">
         <seg>满足任务链接需求的算子流水线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An operator that is applied on a KeyedStream is applied in the context</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040707Z" creationid="xccui" creationdate="20190630T040707Z">
+        <seg>用在KeyedStream上的算子会作用于它的键值定义上下文中。</seg>
       </tuv>
     </tu>
     <tu>
