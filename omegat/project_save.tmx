@@ -26104,6 +26104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The descriptors for ReducingState and AggregatingState also need a ReduceFunction or AggregateFunction object to aggregate the added</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065617Z" creationid="xccui" creationdate="20190630T065617Z">
+        <seg>ReducingState和AggregatingState的描述符（descriptor）还需要接收一个ReduceFunction或AggregateFunction对象来对加入的值进行聚合操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dis&lt;t6/&gt;‐&lt;t7/&gt; patcher also runs a web dashboard to provide information about job executions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T024218Z" creationid="xccui" creationdate="20190423T024218Z">
