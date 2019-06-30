@@ -26080,6 +26080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The data type must be specified because</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071033Z" creationid="xccui" creationdate="20190630T071033Z">
+        <seg>由于Flink需要为状态创建合适的序列化器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data types handled by the state are specified as Class or TypeInformation objects (see “Types” on page 97 for a discussion of Flink’s type handling).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T070936Z" creationid="xccui" creationdate="20190630T070936Z">
