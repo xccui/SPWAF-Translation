@@ -26082,8 +26082,8 @@
       <tuv lang="EN-US">
         <seg>The data type must be specified because</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071033Z" creationid="xccui" creationdate="20190630T071033Z">
-        <seg>由于Flink需要为状态创建合适的序列化器，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071400Z" creationid="xccui" creationdate="20190630T071033Z">
+        <seg>由于Flink需要为状态创建合适的序列化器，因此数据类型指定是强制的。</seg>
       </tuv>
     </tu>
     <tu>
