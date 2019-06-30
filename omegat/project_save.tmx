@@ -18223,6 +18223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “State Management”, we explained that functions can have two types of state, keyed state and operator state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035002Z" creationid="xccui" creationdate="20190630T035002Z">
+        <seg>在"状态管理"一节，我们提到了函数允许有两种类型的状态——键值状态和算子状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Time Semantics” on page 27, we highlighted the importance of time semantics for stream processing applications and explained the differences between processing time and event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204156Z" creationid="xccui" creationdate="20190606T204144Z">
