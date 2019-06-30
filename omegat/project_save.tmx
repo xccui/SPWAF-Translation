@@ -23498,8 +23498,8 @@
       <tuv lang="EN-US">
         <seg>Specifically, we explain how to define and interact with different types of state in user-defined func‐ tions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033819Z" creationid="xccui" creationdate="20190630T033819Z">
-        <seg>具体而言，我们将介绍如何在用户自定义函数中定义不同的状态类型并与之交互。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033930Z" creationid="xccui" creationdate="20190630T033819Z">
+        <seg>具体而言，我们将解释如何在用户自定义函数中定义不同类型的状态并与之交互。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28434,8 +28434,8 @@
       <tuv lang="EN-US">
         <seg>This chapter focuses on the implementation of stateful user-defined functions and discusses the performance and robustness of stateful applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033720Z" creationid="xccui" creationdate="20190630T033720Z">
-        <seg>本章重点介绍如何实现有状态的UDF并讨论状态化应用的性能及健壮性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033901Z" creationid="xccui" creationdate="20190630T033720Z">
+        <seg>本章重点介绍如何实现有状态的用户自定义函数并对状态化应用的性能及健壮性加以讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30580,6 +30580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154419Z" creationid="xccui" creationdate="20190608T154131Z">
         <seg>此外我们还会讨论Flink所独有的保存点机制，它就像一把瑞士军刀，解决了运行流式应用中的诸多挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We also discuss performance aspects and how to control the size of function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T034111Z" creationid="xccui" creationdate="20190630T034111Z">
+        <seg>此外，还将讨论性能方面的问题以及如何控制函数状态的大小。</seg>
       </tuv>
     </tu>
     <tu>
