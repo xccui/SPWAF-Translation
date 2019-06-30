@@ -28794,8 +28794,8 @@
       <tuv lang="EN-US">
         <seg>This aspect depends on the APIs of the stream processor, what kinds of state primitives it provides, and the quality of its support for event-time processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T034550Z" creationid="xccui" creationdate="20190604T053132Z">
-        <seg>这方面具体依赖于流处理引擎的API、提供的状态原语以及对事件时间处理的支持程度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074509Z" creationid="xccui" creationdate="20190604T053132Z">
+        <seg>这方面要取决于流处理引擎的API、提供的状态原语以及对事件时间处理的支持程度。</seg>
       </tuv>
     </tu>
     <tu>
