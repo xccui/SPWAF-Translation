@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create state descriptor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064304Z" creationid="xccui" creationdate="20190630T064304Z">
+        <seg>// 创建状态描述符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// default constructor is present</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044839Z" creationid="xccui" creationdate="20190617T044839Z">
@@ -2046,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// obtain the state handle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064324Z" creationid="xccui" creationdate="20190630T064324Z">
+        <seg>// 获取状态句柄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// optional: specify the evictor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014922Z" creationid="xccui" creationdate="20190626T014922Z">
@@ -2418,6 +2434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061610Z" creationid="xccui" creationdate="20190616T061610Z">
         <seg>// 数据源以默认并行度运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// the state handle object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064308Z" creationid="xccui" creationdate="20190630T064223Z">
+        <seg>// 状态句柄对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -11767,6 +11791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064135Z" creationid="xccui" creationdate="20190630T064135Z">
+        <seg>示例7-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -16339,6 +16371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025229Z" creationid="xccui" creationdate="20190225T025229Z">
         <seg>实现自定义源函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementing a FlatMapFunction with a keyed ValueState</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064202Z" creationid="xccui" creationdate="20190630T064202Z">
+        <seg>实现带有键值分区ValueState的FlatMapFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -33873,6 +33913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class TemperatureAlertFunction(val threshold: Double)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064204Z" creationid="xccui" creationdate="20190630T064204Z">
+        <seg>class TemperatureAlertFunction(val threshold: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class ThirtySecondsWindows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042647Z" creationid="xccui" creationdate="20190626T042647Z">
@@ -34397,6 +34445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031913Z" creationid="xccui" creationdate="20190625T031913Z">
         <seg>extends ProcessWindowFunction[SensorReading, MinMaxTemp, String, TimeWindow] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends RichFlatMapFunction[SensorReading, (String, Double, Double)] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064210Z" creationid="xccui" creationdate="20190630T064210Z">
+        <seg>extends RichFlatMapFunction[SensorReading, (String, Double, Double)] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -35369,6 +35425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[Double]("lastTemp", classOf[Double])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064315Z" creationid="xccui" creationdate="20190630T064315Z">
+        <seg>new ValueStateDescriptor[Double]("lastTemp", classOf[Double])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new ValueStateDescriptor[Long]("timer", Types.of[Long]))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071409Z" creationid="xccui" creationdate="20190621T071409Z">
@@ -35761,6 +35825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def open(parameters: Configuration): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064229Z" creationid="xccui" creationdate="20190630T064229Z">
+        <seg>override def open(parameters: Configuration): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def partition(key: Int, numPartitions: Int): Int = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050641Z" creationid="xccui" creationdate="20190616T050641Z">
@@ -35925,6 +35997,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070257Z" creationid="xccui" creationdate="20190615T070257Z">
         <seg>本节我们会介绍DataStream中用于控制分区策略或自定义分区策略的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>private var lastTempState: ValueState[Double] = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064226Z" creationid="xccui" creationdate="20190630T064226Z">
+        <seg>private var lastTempState: ValueState[Double] = _</seg>
       </tuv>
     </tu>
     <tu>
@@ -37277,6 +37357,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064109Z" creationid="xccui" creationdate="20190615T064109Z">
         <seg>val large: DataStream[(Int, String)] = splitted.select("large")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val lastTempDescriptor =</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064311Z" creationid="xccui" creationdate="20190630T064311Z">
+        <seg>val lastTempDescriptor =</seg>
       </tuv>
     </tu>
     <tu>
