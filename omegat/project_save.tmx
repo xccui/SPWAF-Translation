@@ -5326,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A call to this</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055532Z" creationid="xccui" creationdate="20190630T055532Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A checkpoint barrier carries a checkpoint ID to identify the checkpoint it belongs to  and logically splits a stream into two parts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060953Z" creationid="xccui" creationdate="20190609T060708Z">
@@ -19105,8 +19113,8 @@
       <tuv lang="EN-US">
         <seg>It is not pos‐ sible to remove individual elements from ListState, but the list can be updated by calling ListState.update(values: java.util.List[T]).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055432Z" creationid="xccui" creationdate="20190630T054329Z">
-        <seg>虽然ListState不支持单个元素的删除，但你可以调用ListState.update(values: java.util.List[T])来更新整个列表。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055537Z" creationid="xccui" creationdate="20190630T054329Z">
+        <seg>虽然ListState不支持单个元素的删除，但你可以调用ListState.update(values: java.util.List[T])来更新整个列表，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19771,6 +19779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020939Z" creationid="xccui" creationdate="20190613T020742Z">
         <seg>函数可以被定义为实现了某个特定转换接口的类，例如下面的MapFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MapState[K, V] holds a map of keys and values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055646Z" creationid="xccui" creationdate="20190630T055646Z">
+        <seg>MapState[K, V]用于保存一组键到值的映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27540,6 +27556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184622Z" creationid="xccui" creationdate="20190626T184622Z">
         <seg>窗口状态不会发生任何变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state primitive offers many of the methods of a regular Java Map such as get(key: K), put(key: K, value:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055837Z" creationid="xccui" creationdate="20190630T055837Z">
+        <seg>该状态原语提供了很多常规Java Map的方法，例如get(key: K)、put(key: K, value: V)、contains(key: K)、remove(key: K)</seg>
       </tuv>
     </tu>
     <tu>
