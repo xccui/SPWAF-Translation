@@ -26082,8 +26082,8 @@
       <tuv lang="EN-US">
         <seg>The example application emits an alert event if the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061742Z" creationid="xccui" creationdate="20190630T061742Z">
-        <seg>该示例应用会在传感器测量的温度比上一个测量值高出一定阈值时发出警报。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061850Z" creationid="xccui" creationdate="20190630T061742Z">
+        <seg>该示例应用会在传感器测量的温度比上一个测量值变化超出一定阈值时发出警报。</seg>
       </tuv>
     </tu>
     <tu>
