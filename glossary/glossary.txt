@@ -63,3 +63,4 @@ per-window state	单个窗口状态
 side output	副输出
 allowed lateness	延迟容忍度
 state handle	状态句柄
+keyed	键值分区
