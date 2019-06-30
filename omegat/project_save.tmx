@@ -19633,8 +19633,8 @@
       <tuv lang="EN-US">
         <seg>ListState[T] holds a list of elements of type T. New elements can be appended to the list by calling ListState.add(value: T) or ListState.addAll(values: java.util.List[T]).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T053549Z" creationid="xccui" creationdate="20190630T053549Z">
-        <seg>ListState[T]用于保存类型为T的元素列表。我们可以调用ListState.add(value: T)或ListState.addAll(values: java.util.List[T])将新元素附加到列表中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T053613Z" creationid="xccui" creationdate="20190630T053549Z">
+        <seg>ListState[T]用于保存类型为T的元素列表。我们可以调用ListState.add(value: T)或ListState.addAll(values: java.util.List[T])将新元素附加到列表中,</seg>
       </tuv>
     </tu>
     <tu>
@@ -27516,6 +27516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215327Z" creationid="xccui" creationdate="20190609T215249Z">
         <seg>保存点中拷贝的状态会按照一个算子标识符和一个状态名称进行组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state elements can be accessed by calling List State.get(), which returns an Iterable[T] over all state elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T053907Z" creationid="xccui" creationdate="20190630T053907Z">
+        <seg>还可以调用ListState.get()访问状态元素（它会返回一个所有元素上的Iterable[T]对象）。</seg>
       </tuv>
     </tu>
     <tu>
