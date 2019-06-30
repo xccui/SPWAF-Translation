@@ -6630,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AggregatingState[I, O] behaves similar to ReducingState.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060850Z" creationid="xccui" creationdate="20190630T060752Z">
+        <seg>AggregatingState[I, O]和ReducingState行为类似，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aggregation operations are stateful and combine the current state with the incoming event to produce an updated aggregate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061239Z" creationid="xccui" creationdate="20190606T011759Z">
@@ -15339,6 +15347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T031937Z" creationid="xccui" creationdate="20190607T031937Z">
         <seg>但这依赖于一个事实——所有分区都会持续提供自增的水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it uses the more general AggregateFunction to aggregate values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061036Z" creationid="xccui" creationdate="20190630T060806Z">
+        <seg>但它使用了更加一般化的AggregateFunction来聚合内部的值。</seg>
       </tuv>
     </tu>
     <tu>
