@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.flatMap(new TemperatureAlertFunction(1.7))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062430Z" creationid="xccui" creationdate="20190630T062430Z">
+        <seg>.flatMap(new TemperatureAlertFunction(1.7))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.fromCollection(Seq(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031609Z" creationid="xccui" creationdate="20190622T031609Z">
@@ -1424,8 +1432,8 @@
       <tuv lang="EN-US">
         <seg>// apply a stateful FlatMapFunction on the keyed stream which</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062142Z" creationid="xccui" creationdate="20190630T062142Z">
-        <seg>//在键值分区FlatMapFunction on the keyed stream which</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062402Z" creationid="xccui" creationdate="20190630T062142Z">
+        <seg>//在键值分区数据流上应用一个状态化的FlatMapFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155905Z" creationid="xingcan" creationdate="20190628T155905Z">
         <seg>// 比较记录时间戳和当前水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// compares the temperature readings and raises alerts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062424Z" creationid="xccui" creationdate="20190630T062424Z">
+        <seg>// 来比较读数并发出警报</seg>
       </tuv>
     </tu>
     <tu>
@@ -5546,6 +5562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053826Z" creationid="xccui" creationdate="20190618T053826Z">
         <seg>因此可以通过实现接口或继承抽象类的方式实现函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A function with keyed state must be applied on a KeyedStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062503Z" creationid="xccui" creationdate="20190630T062503Z">
+        <seg>使用键值分区状态的函数必须作用在KeyedStream上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36805,6 +36829,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040010Z" creationid="xccui" creationdate="20190418T040010Z">
         <seg>v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val alerts: DataStream[(String, Double, Double)] = keyedData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062427Z" creationid="xccui" creationdate="20190630T062427Z">
+        <seg>val alerts: DataStream[(String, Double, Double)] = keyedData</seg>
       </tuv>
     </tu>
     <tu>
