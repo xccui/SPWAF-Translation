@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// apply a stateful FlatMapFunction on the keyed stream which</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062142Z" creationid="xccui" creationdate="20190630T062142Z">
+        <seg>//在键值分区FlatMapFunction on the keyed stream which</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// apply filtering CoProcessFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031748Z" creationid="xccui" creationdate="20190622T031748Z">
@@ -2050,6 +2058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030641Z" creationid="xccui" creationdate="20190625T030641Z">
         <seg>// 每5秒输出最低温和最高温读数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// partition and key the stream on the sensor ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062056Z" creationid="xccui" creationdate="20190630T062056Z">
+        <seg>// 根据传感器ID进行键值分区</seg>
       </tuv>
     </tu>
     <tu>
@@ -7710,6 +7726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying a FlatMapFunction with a keyed ValueState</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062017Z" creationid="xccui" creationdate="20190630T062017Z">
+        <seg>应用一个带有键值化ValueState的FlatMapFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying a ProcessFunction that emits to a side output</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022710Z" creationid="xccui" creationdate="20190622T022702Z">
@@ -11697,8 +11721,16 @@
       <tuv lang="EN-US">
         <seg>Example 7-1 shows how to apply a FlatMapFunction with a keyed ValueState on a stream of sensor measurements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061537Z" creationid="xccui" creationdate="20190630T061537Z">
-        <seg>示例7-1展示了如何在一条传感数据测量流上应用一个带有键值化ValueState的FlatMapFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062254Z" creationid="xccui" creationdate="20190630T061537Z">
+        <seg>示例7-1展示了如何在一条传感数据测量流上应用一个带有键值分区ValueState的FlatMapFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061957Z" creationid="xccui" creationdate="20190630T061957Z">
+        <seg>示例7-1，</seg>
       </tuv>
     </tu>
     <tu>
@@ -37145,6 +37177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val keyedData: KeyedStream[SensorReading, String] = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062059Z" creationid="xccui" creationdate="20190630T062059Z">
+        <seg>val keyedData: KeyedStream[SensorReading, String] = sensorData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val keyedSensors = sensorStream.keyBy("id")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042640Z" creationid="xccui" creationdate="20190618T042640Z">
@@ -37397,6 +37437,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051745Z" creationid="xccui" creationdate="20190618T051745Z">
         <seg>val sensorData: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorData: DataStream[SensorReading] = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062019Z" creationid="xccui" creationdate="20190630T062019Z">
+        <seg>val sensorData: DataStream[SensorReading] = ???</seg>
       </tuv>
     </tu>
     <tu>
