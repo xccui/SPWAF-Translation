@@ -22320,6 +22320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ReducingState[T] offers the same methods as ListState[T] (except for addAll() and update()), but instead of appending values to a list, Reducing State.add(value: T) immediately aggregates value using a ReduceFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060310Z" creationid="xccui" creationdate="20190630T060310Z">
+        <seg>ReducingState[T]提供了和ListState[T]相同的方法（除了addAll()和update()），但它的State.add(value: T)方法会立即返回一个使用ReduceFunction聚合后的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to “Implementing Stateful Functions” on page 154, which discusses stateful functions in detail.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045701Z" creationid="xccui" creationdate="20190614T045650Z">
@@ -27562,8 +27570,8 @@
       <tuv lang="EN-US">
         <seg>The state primitive offers many of the methods of a regular Java Map such as get(key: K), put(key: K, value:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055837Z" creationid="xccui" creationdate="20190630T055837Z">
-        <seg>该状态原语提供了很多常规Java Map的方法，例如get(key: K)、put(key: K, value: V)、contains(key: K)、remove(key: K)</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060032Z" creationid="xccui" creationdate="20190630T055837Z">
+        <seg>该状态原语提供了很多常规Java Map中的方法，例如get(key: K)，put(key: K, value: V)，contains(key: K)，remove(key: K)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30572,6 +30580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051407Z" creationid="xccui" creationdate="20190611T051407Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>V), contains(key: K), remove(key: K), and iterators over the contained entries, keys, and values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060004Z" creationid="xccui" creationdate="20190630T060004Z">
+        <seg>以及用于遍历所含条目（entry）、键和值的遍历器。</seg>
       </tuv>
     </tu>
     <tu>
