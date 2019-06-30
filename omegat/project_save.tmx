@@ -35105,6 +35105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>matically puts all keyed state objects of the function into the context of the key of the record that is passed by the function call.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T063103Z" creationid="xccui" creationdate="20190630T063103Z">
+        <seg>Flink运行时逻辑会将函数中的全部键值分区状态对象放入当前处理记录的键值上下文中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>max()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T053408Z" creationid="xccui" creationdate="20190614T053408Z">
