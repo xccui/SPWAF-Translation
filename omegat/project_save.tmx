@@ -7038,6 +7038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, it is also possible to explicitly</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071607Z" creationid="xccui" creationdate="20190630T071607Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can spec‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054159Z" creationid="xccui" creationdate="20190623T054159Z">
@@ -13539,6 +13547,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191729Z" creationid="xccui" creationdate="20190607T190646Z">
         <seg>Flink为每个键值都维护了一个状态实例，该实例总是会位于那个处理对应键值记录的算子任务上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink needs to create a suitable serializer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071403Z" creationid="xccui" creationdate="20190630T071403Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -36565,6 +36581,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071539Z" creationid="xccui" creationdate="20190619T071451Z">
         <seg>指定每个接收的记录都把在数据源算子的处理时间作为事件时间戳并且自动生成水位线，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specify a TypeSerializer to control how state is written into a state backend, check‐ point, and savepoint.2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071605Z" creationid="xccui" creationdate="20190630T071605Z">
+        <seg>或者，你也可以显式指定一个TypeSerializer来控制状态如何写入状态后端、检查点及保存点。2</seg>
       </tuv>
     </tu>
     <tu>
