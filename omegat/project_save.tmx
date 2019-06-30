@@ -16735,6 +16735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In fact, most nontrivial operations need to memorize records or par‐ tial results because data is streamed and arrives over time.1 Many of Flink’s built-in DataStream operators, sources, and sinks are stateful and buffer records or maintain partial results or metadata.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T030651Z" creationid="xccui" creationdate="20190630T030651Z">
+        <seg>事实上，大部分稍复杂点的操作都需要对记录本身或中间结果进行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In fact, that is what you achieve by exploiting parallelism in a stream processing pipeline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T212158Z" creationid="xccui" creationdate="20190402T212052Z">
@@ -23738,8 +23746,8 @@
       <tuv lang="EN-US">
         <seg>Stateful operators and user functions are common building blocks of stream process‐ ing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T042647Z" creationid="xccui" creationdate="20190629T042647Z">
-        <seg>状态化算子和用户函数是流处理应用中的常见组成部分。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T030106Z" creationid="xccui" creationdate="20190629T042647Z">
+        <seg>状态化算子及有状态的用户函数是流处理应用中的常见组成部分。</seg>
       </tuv>
     </tu>
     <tu>
