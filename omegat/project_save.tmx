@@ -26658,8 +26658,8 @@
       <tuv lang="EN-US">
         <seg>The iterator returned by get() returns an Iterable with a single entry, which is</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060432Z" creationid="xccui" creationdate="20190630T060432Z">
-        <seg>get()方法返回的Iterable对象只有一个条目，即聚合后的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060712Z" creationid="xccui" creationdate="20190630T060432Z">
+        <seg>其get()方法返回的Iterable对象只有一个条目，即聚合后的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36428,6 +36428,14 @@
         <seg>the input elements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054026Z" creationid="xccui" creationdate="20190620T054026Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the reduced value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060434Z" creationid="xccui" creationdate="20190630T060434Z">
         <seg></seg>
       </tuv>
     </tu>
