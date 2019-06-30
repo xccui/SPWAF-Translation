@@ -26080,6 +26080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The example application emits an alert event if the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061945Z" creationid="xccui" creationdate="20190630T061945Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The execu&lt;t5/&gt;‐&lt;t6/&gt; tion of tasks and the concept of slots is discussed in more detail in a later section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062139Z" creationid="xccui" creationdate="20190418T052505Z">
