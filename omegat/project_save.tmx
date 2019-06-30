@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// check if we need to emit an alert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064446Z" creationid="xccui" creationdate="20190630T064446Z">
+        <seg>// 检查是否需要发出警报</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// clear trigger state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200942Z" creationid="xccui" creationdate="20190626T200942Z">
@@ -1806,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// fetch the last temperature from state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064415Z" creationid="xccui" creationdate="20190630T064415Z">
+        <seg>// 从状态中获取上一次的温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// filter for persons of age &gt; 18</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041250Z" creationid="xccui" creationdate="20190616T071056Z">
@@ -2056,8 +2072,8 @@
       <tuv lang="EN-US">
         <seg>// obtain the state handle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064324Z" creationid="xccui" creationdate="20190630T064324Z">
-        <seg>// 获取状态句柄</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064429Z" creationid="xccui" creationdate="20190630T064324Z">
+        <seg>// 获得状态句柄</seg>
       </tuv>
     </tu>
     <tu>
@@ -2398,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// temperature changed by more than the threshold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064508Z" creationid="xccui" creationdate="20190630T064508Z">
+        <seg>// 温度变化超过阈值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// temperature decreased; delete current timer ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp) currentTimer.clear()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071603Z">
@@ -2466,6 +2490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071505Z" creationid="xccui" creationdate="20190621T071505Z">
         <seg>// 更新最近一次的温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// update lastTemp state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064711Z" creationid="xccui" creationdate="20190630T064711Z">
+        <seg>// 更新lastTemp状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -34729,6 +34761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (tempDiff &gt; threshold) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064454Z" creationid="xccui" creationdate="20190630T064454Z">
+        <seg>if (tempDiff &gt; threshold) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if (timerTimestamp &gt; curTimerTimestamp) {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032344Z" creationid="xccui" creationdate="20190622T032344Z">
@@ -35037,6 +35077,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071516Z" creationid="xccui" creationdate="20190621T071516Z">
         <seg>lastTemp.update(r.temperature)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lastTempState = getRuntimeContext.getState[Double](lastTempDescriptor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064327Z" creationid="xccui" creationdate="20190630T064327Z">
+        <seg>lastTempState = getRuntimeContext.getState[Double](lastTempDescriptor)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35593,6 +35641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out.collect((reading.id, reading.temperature, tempDiff))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064511Z" creationid="xccui" creationdate="20190630T064511Z">
+        <seg>out.collect((reading.id, reading.temperature, tempDiff))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out.collect(MinMaxTemp(key, minMax._2, minMax._3, windowEnd))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045147Z" creationid="xccui" creationdate="20190625T045147Z">
@@ -35613,6 +35669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024049Z" creationid="xccui" creationdate="20190622T024049Z">
         <seg>out.collect(r)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>out: Collector[(String, Double, Double)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064334Z" creationid="xccui" creationdate="20190630T064334Z">
+        <seg>out: Collector[(String, Double, Double)]): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -35693,6 +35757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054238Z" creationid="xccui" creationdate="20190618T054238Z">
         <seg>override def filter(value: String): Boolean = { value.contains("flink")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def flatMap( reading: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064331Z" creationid="xccui" creationdate="20190630T064331Z">
+        <seg>override def flatMap( reading: SensorReading,</seg>
       </tuv>
     </tu>
     <tu>
@@ -37361,6 +37433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val lastTemp = lastTempState.value()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064433Z" creationid="xccui" creationdate="20190630T064433Z">
+        <seg>val lastTemp = lastTempState.value()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val lastTempDescriptor =</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064311Z" creationid="xccui" creationdate="20190630T064311Z">
@@ -37725,6 +37805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200552Z" creationid="xccui" creationdate="20190626T200552Z">
         <seg>val t = ctx.getCurrentWatermark + (1000 - (ctx.getCurrentWatermark % 1000)) ctx.registerEventTimeTimer(t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val tempDiff = (reading.temperature - lastTemp).abs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064449Z" creationid="xccui" creationdate="20190630T064449Z">
+        <seg>val tempDiff = (reading.temperature - lastTemp).abs</seg>
       </tuv>
     </tu>
     <tu>
