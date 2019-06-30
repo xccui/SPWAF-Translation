@@ -28530,8 +28530,8 @@
       <tuv lang="EN-US">
         <seg>These systems are typically designed with separate tiers for data processing (the application itself) and data storage (a transactional database system) as shown in Figure 1-1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063951Z" creationid="esouser" creationdate="20190603T195128Z">
-        <seg>如图1-1所示，这些应用系统通常都会设置独立的数据处理层（应用程序自身）和数据存储层（事务型数据库系统）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071853Z" creationid="esouser" creationdate="20190603T195128Z">
+        <seg>如图1-1所示，这些应用系统通常都会设置独立的数据处理层（应用程序本身）和数据存储层（事务型数据库系统）。</seg>
       </tuv>
     </tu>
     <tu>
