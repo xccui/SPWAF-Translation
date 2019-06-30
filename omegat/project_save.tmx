@@ -5568,8 +5568,8 @@
       <tuv lang="EN-US">
         <seg>A function with keyed state must be applied on a KeyedStream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062503Z" creationid="xccui" creationdate="20190630T062503Z">
-        <seg>使用键值分区状态的函数必须作用在KeyedStream上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062552Z" creationid="xccui" creationdate="20190630T062503Z">
+        <seg>使用键值分区状态的函数必须作用在KeyedStream上，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31392,6 +31392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We need to specify the key by calling keyBy() on the input stream before we apply the function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062633Z" creationid="xccui" creationdate="20190630T062633Z">
+        <seg>即在应用函数之前需要在输入流上调用keyBy()方法来指定键值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We now look at these parts in detail.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044534Z" creationid="xccui" creationdate="20190612T044457Z">
@@ -32189,6 +32197,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T203350Z" creationid="xccui" creationdate="20190609T203350Z">
         <seg>在本地拷贝创建完成后，任务就可以继续它的常规处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the processing method of a function with keyed input is called, Flink’s runtime auto‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062841Z" creationid="xccui" creationdate="20190630T062841Z">
+        <seg>对于一个作用在键值分区输入上的函数而言，当它的处理方法被调用时，</seg>
       </tuv>
     </tu>
     <tu>
