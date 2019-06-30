@@ -5990,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A state primitive defines the struc‐ ture of the state for an individual key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040912Z" creationid="xccui" creationdate="20190630T040912Z">
+        <seg>状态原语定义了单个键值下的状态结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A stateful stream processing task</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T054231Z" creationid="xccui" creationdate="20190607T054231Z">
@@ -7200,8 +7208,8 @@
       <tuv lang="EN-US">
         <seg>An operator that is applied on a KeyedStream is applied in the context</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040707Z" creationid="xccui" creationdate="20190630T040707Z">
-        <seg>用在KeyedStream上的算子会作用于它的键值定义上下文中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040812Z" creationid="xccui" creationdate="20190630T040707Z">
+        <seg>用在KeyedStream上的算子会同时拥有它的键值定义上下文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13491,6 +13499,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035109Z" creationid="xccui" creationdate="20190630T035109Z">
         <seg>Flink为定义状态化函数提供了多种接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides multiple primitives for keyed state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040825Z" creationid="xccui" creationdate="20190630T040825Z">
+        <seg>Flink为键值状态提供了很多原语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25720,6 +25736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The choice of the right state primitive depends on how the function interacts with the state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040955Z" creationid="xccui" creationdate="20190630T040955Z">
+        <seg>状态原语的选择取决于函数同状态的交互方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The close() method is a finalization method for the function and it is called once per task after the last call of the transformation method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033120Z" creationid="xccui" creationdate="20190619T033120Z">
@@ -35181,6 +35205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202748Z" creationid="xccui" creationdate="20190627T202748Z">
         <seg>窗口内的元素数量、窗口对象以及一个用于访问当前处理时间和水位线的EvictorContext。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of its key definition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040710Z" creationid="xccui" creationdate="20190630T040710Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
