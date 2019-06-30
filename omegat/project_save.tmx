@@ -28504,6 +28504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This differs from batch processing where user-defined functions, such as GroupReduceFunction, are called when all data to be processed has been collected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T034350Z" creationid="xccui" creationdate="20190630T034350Z">
+        <seg>这和批处理情况不同。在批处理中，只有在全部所需处理的数据都收集完后才会调用用户自定义函数（如GroupReduceFunction）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This element signifies a general note.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210810Z" creationid="esouser" creationdate="20190603T210810Z">
