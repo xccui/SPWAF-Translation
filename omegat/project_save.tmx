@@ -19103,6 +19103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not pos‐ sible to remove individual elements from ListState, but the list can be updated by calling ListState.update(values: java.util.List[T]).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T054329Z" creationid="xccui" creationdate="20190630T054329Z">
+        <seg>虽然无法从ListState</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is required by any non-trivial computa&lt;t0/&gt;‐&lt;t1/&gt; tion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T051626Z" creationid="xccui" creationdate="20190414T050639Z">
