@@ -9039,6 +9039,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 9 explains how to set up and configure Flink to reliably process stateful applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032855Z" creationid="xccui" creationdate="20190630T032457Z">
+        <seg>第9章介绍了如何设置Flink使其能够可靠地处理状态化应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapters 2 and 3 discussed the foundations of stateful stream processing and related details of Flink’s architecture, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032617Z" creationid="xccui" creationdate="20190630T032445Z">
+        <seg>第2、3两章分别讨论了状态化流处理的基础以及Flink架构的相关细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapters 4 to 8 is where you get our hands dirty and start developing Flink applica&lt;t0/&gt;‐&lt;t1/&gt; tions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T191540Z" creationid="xccui" creationdate="20190225T165503Z">
@@ -23810,8 +23826,8 @@
       <tuv lang="EN-US">
         <seg>Stateful stream processing has implications on many aspects of a stream processor such as failure recovery and memory management as well as the maintenance of streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032323Z" creationid="xccui" creationdate="20190630T032323Z">
-        <seg>状态化流处理会在很多方面对流处理引擎产生影响，例如故障恢复、内存管理以及流式应用的维护等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032544Z" creationid="xccui" creationdate="20190630T032323Z">
+        <seg>状态化流处理会在故障恢复、内存管理以及流式应用的维护等很多方面对流处理引擎产生影响。</seg>
       </tuv>
     </tu>
     <tu>
