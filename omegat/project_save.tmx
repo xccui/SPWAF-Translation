@@ -8001,8 +8001,8 @@
       <tuv lang="EN-US">
         <seg>As previously stated, stateful stream processing is a versatile and flexible design archi‐ tecture that can be used for many different use cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073610Z" creationid="esouser" creationdate="20190603T211912Z">
-        <seg>综上所述，状态化流处理是一类用途广泛、灵活多变的设计模式，可用来解决很多不同的用例问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073635Z" creationid="esouser" creationdate="20190603T211912Z">
+        <seg>综上所述，状态化流处理是一类用途广泛、灵活多变的设计模式，它可用来解决很多不同的用例问题。</seg>
       </tuv>
     </tu>
     <tu>
