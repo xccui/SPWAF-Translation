@@ -5150,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Keyed Stream is constructed by calling the DataStream.keyBy() method that defines a key on a stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040405Z" creationid="xccui" creationdate="20190630T040405Z">
+        <seg>你可以通过在一条数据流上调用定义键值的DataStream.keyBy()方法来构造一个KeyedStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A KeyedProcessFunction that emits a warning if the temperature of a sensor monotonically increases for 1 second in processing time</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T055114Z" creationid="xccui" creationdate="20190620T055114Z">
@@ -9547,6 +9555,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210807Z" creationid="esouser" creationdate="20190603T210807Z">
         <seg>Constant width italic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consult “State Management” on page 53 for more details on keyed state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040059Z" creationid="xccui" creationdate="20190630T040059Z">
+        <seg>有关键值状态的详细信息请参照第53页"状态管理"一节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19323,6 +19339,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030457Z" creationid="xccui" creationdate="20190418T035556Z">
         <seg>键值状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyed state can only be used by functions that are applied on a KeyedStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040154Z" creationid="xccui" creationdate="20190630T040154Z">
+        <seg>键值状态只能用于作用在KeyedStream上面的函数。</seg>
       </tuv>
     </tu>
     <tu>
