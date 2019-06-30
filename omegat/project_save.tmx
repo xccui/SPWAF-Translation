@@ -26080,14 +26080,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The example application emits an alert event if the</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061850Z" creationid="xccui" creationdate="20190630T061742Z">
-        <seg>该示例应用会在传感器测量的温度比上一个测量值变化超出一定阈值时发出警报。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The execu&lt;t5/&gt;‐&lt;t6/&gt; tion of tasks and the concept of slots is discussed in more detail in a later section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062139Z" creationid="xccui" creationdate="20190418T052505Z">
@@ -36397,6 +36389,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040025Z" creationid="xccui" creationdate="20190625T040025Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>temperature measured by a sensor changes by more than a threshold since the last measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061940Z" creationid="xccui" creationdate="20190630T061940Z">
+        <seg>该示例应用会在传感器测量的温度和前一个测量值相比变化超出一定阈值时发出警报。</seg>
       </tuv>
     </tu>
     <tu>
