@@ -26106,8 +26106,8 @@
       <tuv lang="EN-US">
         <seg>The descriptors for ReducingState and AggregatingState also need a ReduceFunction or AggregateFunction object to aggregate the added</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065617Z" creationid="xccui" creationdate="20190630T065617Z">
-        <seg>ReducingState和AggregatingState的描述符（descriptor）还需要接收一个ReduceFunction或AggregateFunction对象来对加入的值进行聚合操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065722Z" creationid="xccui" creationdate="20190630T065617Z">
+        <seg>ReducingState和AggregatingState的描述符（descriptor）还需要接收一个ReduceFunction或AggregateFunction对象，以此来对加入的值进行聚合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27764,6 +27764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T053907Z" creationid="xccui" creationdate="20190630T053907Z">
         <seg>还可以调用ListState.get()访问状态元素（它会返回一个所有元素上的Iterable[T]对象）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state name is scoped to the operator so that a function can have more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T070107Z" creationid="xccui" creationdate="20190630T070107Z">
+        <seg>状态名称的作用域是整个算子，因此你可以通过在函数中注册多个状态描述符的方式得到多个状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37964,6 +37972,14 @@
         <seg>value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011820Z" creationid="xccui" creationdate="20190606T011820Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065725Z" creationid="xccui" creationdate="20190630T065725Z">
         <seg></seg>
       </tuv>
     </tu>
