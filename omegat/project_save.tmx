@@ -19105,8 +19105,8 @@
       <tuv lang="EN-US">
         <seg>It is not pos‐ sible to remove individual elements from ListState, but the list can be updated by calling ListState.update(values: java.util.List[T]).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T054329Z" creationid="xccui" creationdate="20190630T054329Z">
-        <seg>虽然无法从ListState</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055432Z" creationid="xccui" creationdate="20190630T054329Z">
+        <seg>虽然ListState不支持单个元素的删除，但你可以调用ListState.update(values: java.util.List[T])来更新整个列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19641,8 +19641,8 @@
       <tuv lang="EN-US">
         <seg>ListState[T] holds a list of elements of type T. New elements can be appended to the list by calling ListState.add(value: T) or ListState.addAll(values: java.util.List[T]).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T053613Z" creationid="xccui" creationdate="20190630T053549Z">
-        <seg>ListState[T]用于保存类型为T的元素列表。我们可以调用ListState.add(value: T)或ListState.addAll(values: java.util.List[T])将新元素附加到列表中,</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T054342Z" creationid="xccui" creationdate="20190630T053549Z">
+        <seg>ListState[T]用于保存类型为T的元素列表。你可以调用ListState.add(value: T)或ListState.addAll(values: java.util.List[T])将新元素附加到列表中,</seg>
       </tuv>
     </tu>
     <tu>
@@ -30562,8 +30562,8 @@
       <tuv lang="EN-US">
         <seg>ValueState[T] holds a single value of type T. The value can be read using Value State.value() and updated with ValueState.update(value: T).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T041507Z" creationid="xccui" creationdate="20190630T041507Z">
-        <seg>ValueState[T]用于保存类型为T的单个值。我们可以利用State.value()来读取该值并通过ValueState.update(value: T)来更新它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T054334Z" creationid="xccui" creationdate="20190630T041507Z">
+        <seg>ValueState[T]用于保存类型为T的单个值。你可以利用State.value()来读取该值并通过ValueState.update(value: T)来更新它。</seg>
       </tuv>
     </tu>
     <tu>
