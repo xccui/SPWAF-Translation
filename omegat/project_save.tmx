@@ -7576,8 +7576,8 @@
       <tuv lang="EN-US">
         <seg>Any application that processes a stream of events and does not just perform trivial record-at-a-time transformations needs to be stateful, with the ability to store and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T030941Z" creationid="esouser" creationdate="20190603T205538Z">
-        <seg>任何一个处理事件流的应用，如果要支持跨多条记录的转换操作，都必须是状态化的，即需要存储和访问中间结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073044Z" creationid="esouser" creationdate="20190603T205538Z">
+        <seg>任何一个处理事件流的应用，如果要支持跨多条记录的转换操作，都必须是状态化的，即能够存储和访问中间结果。</seg>
       </tuv>
     </tu>
     <tu>
