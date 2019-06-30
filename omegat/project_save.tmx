@@ -14103,6 +14103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, a window operator collects input records for</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T031720Z" creationid="xccui" creationdate="20190630T031720Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, assume you join two streams with a join operator that is configured with 1-hour tumbling window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T055055Z" creationid="xccui" creationdate="20190628T055055Z">
@@ -32965,6 +32973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T040102Z" creationid="xccui" creationdate="20190622T040102Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and provided sources and sinks, Flink’s DataStream API exposes interfaces to register, maintain, and access state in user-defined functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032018Z" creationid="xccui" creationdate="20190630T032018Z">
+        <seg>除了内置算子和提供的数据源及数据汇之外，Flink DataStream API也在用户自定义函数里暴露了状态的注册、维护及访问接口。</seg>
       </tuv>
     </tu>
     <tu>
