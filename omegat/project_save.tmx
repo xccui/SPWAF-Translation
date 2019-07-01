@@ -28402,8 +28402,8 @@
       <tuv lang="EN-US">
         <seg>The stream processor computes approximated results in near real time and writes them into a speed table.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052213Z" creationid="xccui" creationdate="20190605T052213Z">
-        <seg>流处理引擎会近实时地计算出近似结果，随后将其写入"提速表"中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193242Z" creationid="xccui" creationdate="20190605T052213Z">
+        <seg>流处理引擎会近实时地计算出近似结果，并将其写入"提速表"中。</seg>
       </tuv>
     </tu>
     <tu>
