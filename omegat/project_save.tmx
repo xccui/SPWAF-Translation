@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.flatMapWithState[(String, Double, Double), Double] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023019Z" creationid="xccui" creationdate="20190701T023019Z">
+        <seg>.flatMapWithState[(String, Double, Double), Double] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.fromCollection(Seq(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031609Z" creationid="xccui" creationdate="20190622T031609Z">
@@ -2058,6 +2066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022810Z" creationid="xccui" creationdate="20190622T022810Z">
         <seg>// 监控冷冻温度数据流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// no previous temperature defined; just update the last temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023135Z" creationid="xccui" creationdate="20190701T023135Z">
+        <seg>// 之前的温度还未定义，只需更新前一个温度值</seg>
       </tuv>
     </tu>
     <tu>
@@ -33877,6 +33893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050002Z" creationid="xccui" creationdate="20190616T045949Z">
         <seg>因为将所有事件发往同一任务可能会影响程序性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>case (in: SensorReading, None) =&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023022Z" creationid="xccui" creationdate="20190701T023022Z">
+        <seg>case (in: SensorReading, None) =&gt;</seg>
       </tuv>
     </tu>
     <tu>
