@@ -118,6 +118,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(List((r.id, r.temperature, tempDiff)), Some(r.temperature))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023256Z" creationid="xccui" creationdate="20190701T023256Z">
+        <seg>(List((r.id, r.temperature, tempDiff)), Some(r.temperature))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(List.empty, Some(in.temperature))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023138Z" creationid="xccui" creationdate="20190701T023138Z">
+        <seg>(List.empty, Some(in.temperature))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(List.empty, Some(r.temperature))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023336Z" creationid="xccui" creationdate="20190701T023336Z">
+        <seg>(List.empty, Some(r.temperature))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(TumblingEventTimeWindows.of(size)) or for window.(TumblingProcessing TimeWindows.of(size)) depending on the configured time characteristic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051459Z" creationid="xccui" creationdate="20190623T051459Z">
@@ -1526,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// compare temperature difference with threshold val tempDiff = (r.temperature - lastTemp.get).abs if (tempDiff &gt; 1.7) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023227Z" creationid="xccui" creationdate="20190701T023227Z">
+        <seg>// 比较温度差和阈值 val tempDiff = (r.temperature - lastTemp.get).abs if (tempDiff &gt; 1.7) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// compares the temperature readings and raises alerts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062424Z" creationid="xccui" creationdate="20190630T062424Z">
@@ -2490,6 +2522,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155935Z" creationid="xingcan" creationdate="20190628T155935Z">
         <seg>// 将迟到读数重定向到副输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// threshold exceeded; emit an alert and update the last temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023316Z" creationid="xccui" creationdate="20190701T023253Z">
+        <seg>// 超出阈值，发出警报并更新前一个温度值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// threshold not exceeded; just update the last temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023334Z" creationid="xccui" creationdate="20190701T023310Z">
+        <seg>// 没有超出阈值，仅更新前一个温度值</seg>
       </tuv>
     </tu>
     <tu>
@@ -27768,6 +27816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The serialization format of state is an important aspect when updating an application and is discussed later in this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023627Z" creationid="xccui" creationdate="20190701T023627Z">
+        <seg>状态的序列化格式是在更新应用时需要重点考虑的一个方面，我们将在本章稍后对此进行讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The service can be a Flink Dispatcher, a Flink JobManager, or YARN’s ResourceManager.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T025600Z" creationid="xccui" creationdate="20190423T025547Z">
@@ -33901,6 +33957,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023022Z" creationid="xccui" creationdate="20190701T023022Z">
         <seg>case (in: SensorReading, None) =&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>case (r: SensorReading, lastTemp: Some[Double]) =&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023141Z" creationid="xccui" creationdate="20190701T023141Z">
+        <seg>case (r: SensorReading, lastTemp: Some[Double]) =&gt;</seg>
       </tuv>
     </tu>
     <tu>
