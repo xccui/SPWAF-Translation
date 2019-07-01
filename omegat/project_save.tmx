@@ -30746,8 +30746,8 @@
       <tuv lang="EN-US">
         <seg>Traditional analytics pipelines consist of several individual components such as an ETL process, a storage system, and in the case of a Hadoop-based environment, a data processor and scheduler to trigger jobs or queries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T044756Z" creationid="xccui" creationdate="20190605T044756Z">
-        <seg>传统分析流水线包含了很多独立组件，例如：ETL进程、存储系统等。即便是基于Hadoop的环境，也需要有数据处理器和用来触发作业或查询的调度器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155638Z" creationid="xccui" creationdate="20190605T044756Z">
+        <seg>传统分析流水线包含了很多独立组件，例如ETL进程、存储系统等。即便是基于Hadoop的环境，也需要有数据处理器和用来触发作业或查询的调度器。</seg>
       </tuv>
     </tu>
     <tu>
