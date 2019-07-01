@@ -12047,6 +12047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062303Z" creationid="xccui" creationdate="20190701T062303Z">
+        <seg>示例7-5，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -17427,6 +17435,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T041926Z" creationid="xccui" creationdate="20190416T041813Z">
         <seg>对大多数现实应用而言，最低要求是不丢失事件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to achieve better state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062306Z" creationid="xccui" creationdate="20190701T062306Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -34827,8 +34843,8 @@
       <tuv lang="EN-US">
         <seg>distribution behavior when the HighTempCounter function is rescaled, we can imple‐ ment the snapshotState() method so that it splits its count into multiple partial counts as shown in Example 7-5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062256Z" creationid="xccui" creationdate="20190701T062256Z">
-        <seg>如示例7-5所示，为了让状态在HighTempCounter函数扩缩容时分布地更好，我们可以在snapshotState()方法中将计数值分成多个子部分。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062416Z" creationid="xccui" creationdate="20190701T062256Z">
+        <seg>为了让状态在HighTempCounter函数扩缩容时分布地更好，我们可以像示例7-5中那样，在实现snapshotState()方法时将计数值分成多个子部分。</seg>
       </tuv>
     </tu>
     <tu>
