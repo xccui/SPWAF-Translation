@@ -8745,8 +8745,8 @@
       <tuv lang="EN-US">
         <seg>Besides the much shorter time needed for an event to be incorporated into an analyt‐ ics result, there is another, less obvious, advantage of streaming analytics applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T044746Z" creationid="xccui" creationdate="20190605T044658Z">
-        <seg>除了将事件整合到分析结果的用时更短，流式分析应用还有另一个不太显眼的优势。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155621Z" creationid="xccui" creationdate="20190605T044658Z">
+        <seg>除了将事件整合到分析结果的用时更短，流式分析应用还有另一个不太明显的优势。</seg>
       </tuv>
     </tu>
     <tu>
