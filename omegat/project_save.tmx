@@ -33699,8 +33699,8 @@
       <tuv lang="EN-US">
         <seg>You can do this by selecting the job in the web dashboard and clicking the Cancel button at the top of the page.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T124419Z" creationid="xccui" creationdate="20190605T124408Z">
-        <seg>取消的方式是在Web仪表盘中选定作业，然后点击页面上方的Cancel按钮。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201525Z" creationid="xccui" creationdate="20190605T124408Z">
+        <seg>取消的方式是在Web UI中选定作业，然后点击页面上方的Cancel按钮。</seg>
       </tuv>
     </tu>
     <tu>
