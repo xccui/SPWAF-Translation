@@ -18855,6 +18855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, functions implement operator state as regular member variables and interact with the state backend via callback functions of the ListCheckpointed interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040529Z" creationid="xccui" creationdate="20190701T040529Z">
+        <seg>而需要将算子状态实现为成员变量并通过接口提供的回调函数和状态后端进行交互。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, it focuses on its core function - distributed data stream processing - and leverages existing cluster infra&lt;t0/&gt;‐&lt;t1/&gt; structure and services.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T031834Z" creationid="xccui" creationdate="20190418T031709Z">
@@ -25620,6 +25628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190322T043711Z" creationid="xccui" creationdate="20190322T043711Z">
         <seg>Lambda架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ListCheckpointed interface does not work with state handles like Val ueState or ListState, which are registered at the state backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040235Z" creationid="xccui" creationdate="20190701T040223Z">
+        <seg>该接口不像ValueState或ListState状态句柄那样直接在状态后端注册，</seg>
       </tuv>
     </tu>
     <tu>
