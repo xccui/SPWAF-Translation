@@ -21736,6 +21736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option is not defined if the state has not been initialized yet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T034548Z" creationid="xccui" creationdate="20190701T034548Z">
+        <seg>如果状态尚未初始化则Option为None。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optionally output the result to one or more data sinks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044352Z" creationid="xccui" creationdate="20190612T044352Z">
@@ -26458,8 +26466,8 @@
       <tuv lang="EN-US">
         <seg>The first field of the tuple holds the input record to flatMap, and the second field holds an Option of the retrieved state for the key of the processed record.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T034040Z" creationid="xccui" creationdate="20190701T034040Z">
-        <seg>参数元组的第一个字段是flatMap的输入记录，第二个字段是一个Option对象，其中保存了针对当前记录键值的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T034047Z" creationid="xccui" creationdate="20190701T034040Z">
+        <seg>参数元组的第一个字段是flatMap的输入记录；第二个字段是一个Option对象，其中保存了针对当前记录键值的状态。</seg>
       </tuv>
     </tu>
     <tu>
