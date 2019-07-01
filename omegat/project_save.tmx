@@ -11951,6 +11951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-4 shows how to implement the ListCheckpointed interface for a function that counts temperature measurements that exceed a threshold per partition, for each</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052212Z" creationid="xccui" creationdate="20190701T052212Z">
+        <seg>示例7-4展示了如何利用ListCheckpointed接口实现一个函数，其作用是在每个函数并行实例内，计算该分区数据超过某一阈值的温度值数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -27360,6 +27368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The method is called with a list of state objects and has to restore the state of the operator based on these objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T051344Z" creationid="xccui" creationdate="20190701T051344Z">
+        <seg>该方法接收一个状态对象列表，并需要基于这些对象恢复算子状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most trivial way would be to simply restart the job, but then we would have to replay all data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T044142Z" creationid="xccui" creationdate="20190415T044114Z">
@@ -34893,6 +34909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054810Z" creationid="xccui" creationdate="20190620T054810Z">
         <seg>extractedTS: Long): Watermark = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T051249Z" creationid="xccui" creationdate="20190701T051249Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
