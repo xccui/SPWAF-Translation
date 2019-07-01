@@ -35513,6 +35513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if you need to ensure a function’s operator state can be evolved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063328Z" creationid="xccui" creationdate="20190701T063328Z">
+        <seg>如果想确保函数的算子状态日后可以升级，请选用CheckpointedFunction接口替代ListCheckpointed接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if(in % 2 == subTaskIndex) { out.collect((subTaskIndex, in))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034505Z" creationid="xccui" creationdate="20190619T034505Z">
