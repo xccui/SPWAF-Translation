@@ -33195,8 +33195,8 @@
       <tuv lang="EN-US">
         <seg>While previous stream processors only pro‐ vide either high throughput or low latency, systems of the third generation are able to serve both ends of the spectrum.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T194539Z" creationid="xccui" creationdate="20190605T053538Z">
-        <seg>前几代的流处理引擎只能在高吞吐和低延迟之中二选其一，而第三代的系统可以兼顾两者，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T194617Z" creationid="xccui" creationdate="20190605T053538Z">
+        <seg>前几代的流处理引擎只能在高吞吐和低延迟之间二选其一，而第三代的系统可以兼顾两者，</seg>
       </tuv>
     </tu>
     <tu>
