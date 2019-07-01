@@ -22026,8 +22026,8 @@
       <tuv lang="EN-US">
         <seg>Other features include support to upgrade application code or migrate a job to a different cluster or a new version of the stream processor without losing the current state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053924Z" creationid="xccui" creationdate="20190605T053913Z">
-        <seg>还有一些特性包括：支持应用代码升级，在不丢失当前状态的前提下将作业迁移至一个新的集群或新版本的流处理引擎等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195037Z" creationid="xccui" creationdate="20190605T053913Z">
+        <seg>此外还有一些新的特性，例如：支持应用代码升级，在不丢失当前状态的前提下将作业迁移至一个新的集群或新版本的流处理引擎等。</seg>
       </tuv>
     </tu>
     <tu>
