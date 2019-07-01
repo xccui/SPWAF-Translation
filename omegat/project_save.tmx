@@ -30570,8 +30570,8 @@
       <tuv lang="EN-US">
         <seg>Typically, the state handle object is created in the open() method of RichFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035426Z" creationid="xccui" creationdate="20190630T035356Z">
-        <seg>通常情况下，状态句柄对象会在RichFunction的open()方法中创建。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T020330Z" creationid="xccui" creationdate="20190630T035356Z">
+        <seg>通常情况下，状态句柄对象会在RichFunction的open()方法中创建，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35661,6 +35661,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T000316Z" creationid="xccui" creationdate="20190401T000316Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>open() is called before any processing methods, such as flatMap() in the case of a FlatMapFunction, are called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T020445Z" creationid="xccui" creationdate="20190701T020327Z">
+        <seg>该方法会在任一处理方法（例如FlatMapFunction中的flatMap()）之前调用。</seg>
       </tuv>
     </tu>
     <tu>
