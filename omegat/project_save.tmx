@@ -26968,6 +26968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The function in the above example counts per parallel instance how many tempera‐ ture measurements exceeded a configured threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T053354Z" creationid="xccui" creationdate="20190701T053354Z">
+        <seg>上述例子中的函数会统计每个并行实例中超过阈值的温度值数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The function interface defines the transformation method that needs to be imple‐ mented by the user, such as the map() method in the example above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T021057Z" creationid="xccui" creationdate="20190613T020932Z">
@@ -26996,6 +27004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070743Z" creationid="xccui" creationdate="20190621T070743Z">
         <seg>该函数对传感器温度进行监测，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The function uses operator state and has a single state variable for each parallel operator instance that is checkpointed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T053909Z" creationid="xccui" creationdate="20190701T053909Z">
+        <seg>它其中用到了算子状态，该状态会为每个并行算子实例保存一个状态变量并通过ListCheckpointed接口定义的方法创建检查点和进行恢复。</seg>
       </tuv>
     </tu>
     <tu>
