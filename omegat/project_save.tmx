@@ -19657,8 +19657,8 @@
       <tuv lang="EN-US">
         <seg>It provides accurate stream processing with high throughput and low latency at scale.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T041932Z" creationid="xccui" creationdate="20190328T041119Z">
-        <seg>它支持精确的流处理，能同时满足各种规模下高吞吐和低延迟的需求，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195227Z" creationid="xccui" creationdate="20190328T041119Z">
+        <seg>它支持精确的流处理，能同时满足各种规模下对高吞吐和低延迟的要求，</seg>
       </tuv>
     </tu>
     <tu>
