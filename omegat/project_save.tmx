@@ -9945,8 +9945,8 @@
       <tuv lang="EN-US">
         <seg>Consumers of the log incorporate the updates into the affected data stores.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T041345Z" creationid="xccui" creationdate="20190605T040435Z">
-        <seg>日志的消费者会将这些更新整合到相关数据存储系统中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154237Z" creationid="xccui" creationdate="20190605T040435Z">
+        <seg>日志的消费方会将这些更新整合到相关数据存储系统中。</seg>
       </tuv>
     </tu>
     <tu>
