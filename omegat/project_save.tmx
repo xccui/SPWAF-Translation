@@ -19687,6 +19687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It remembers the rules in an operator state in order to apply them to all events of the event stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203350Z" creationid="xccui" creationdate="20190701T203350Z">
+        <seg>它会将规则存为算子状态然后将它们应用到事件流中的全部事件上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It requests processing slots from the ResourceManager to continue executing the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190503T192045Z" creationid="xccui" creationdate="20190503T192045Z">
