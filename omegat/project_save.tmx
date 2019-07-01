@@ -26800,6 +26800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The function also returns a Tuple2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T034935Z" creationid="xccui" creationdate="20190701T034935Z">
+        <seg>该函数同样会返回一个Tuple2对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The function can be specified with a class that implements the ReduceFunction inter‐ face.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061729Z" creationid="xccui" creationdate="20190614T061729Z">
