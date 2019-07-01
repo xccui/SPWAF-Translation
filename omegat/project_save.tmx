@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.getIndexOfThisSubtask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052356Z" creationid="xccui" creationdate="20190701T052356Z">
+        <seg>.getIndexOfThisSubtask</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.getSideOutput(new  OutputTag[SensorReading]("late-readings"))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155646Z" creationid="xingcan" creationdate="20190628T155646Z">
@@ -1806,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// emit update with subtask index and counter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052656Z" creationid="xccui" creationdate="20190701T052656Z">
+        <seg>// 发出由子任务编号和数目组成的更新元组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// emit watermark if reading is from sensor_1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054836Z" creationid="xccui" creationdate="20190620T054836Z">
@@ -2030,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// increment counter if threshold is exceeded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052519Z" creationid="xccui" creationdate="20190701T052519Z">
+        <seg>// 如果超过阈值计数器加一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// incrementally compute min and max temperature</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043609Z" creationid="xccui" creationdate="20190625T043609Z">
@@ -2082,6 +2106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205947Z" creationid="xccui" creationdate="20190615T050140Z">
         <seg>// 对两个联结后的数据流按键值分区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// local count variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052543Z" creationid="xccui" creationdate="20190701T052412Z">
+        <seg>// 本地计数器变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -35113,6 +35145,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>highTempCnt += 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052533Z" creationid="xccui" creationdate="20190701T052533Z">
+        <seg>highTempCnt += 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>holds the information used to distinguish windows from each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033853Z" creationid="xccui" creationdate="20190626T033853Z">
@@ -35157,6 +35197,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034338Z" creationid="xccui" creationdate="20190629T034338Z">
         <seg>if (!isUpdate.value()) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (in.temperature &gt; threshold) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052459Z" creationid="xccui" creationdate="20190701T052459Z">
+        <seg>if (in.temperature &gt; threshold) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -36129,6 +36177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out: Collector[(Int, Long)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052446Z" creationid="xccui" creationdate="20190701T052446Z">
+        <seg>out: Collector[(Int, Long)]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out: Collector[(String, Double, Double)]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064334Z" creationid="xccui" creationdate="20190630T064334Z">
@@ -36213,6 +36269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054238Z" creationid="xccui" creationdate="20190618T054238Z">
         <seg>override def filter(value: String): Boolean = { value.contains("flink")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def flatMap( in: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052443Z" creationid="xccui" creationdate="20190701T052443Z">
+        <seg>override def flatMap( in: SensorReading,</seg>
       </tuv>
     </tu>
     <tu>
@@ -36533,6 +36597,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070257Z" creationid="xccui" creationdate="20190615T070257Z">
         <seg>本节我们会介绍DataStream中用于控制分区策略或自定义分区策略的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>private lazy val subtaskIdx = getRuntimeContext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052352Z" creationid="xccui" creationdate="20190701T052352Z">
+        <seg>private lazy val subtaskIdx = getRuntimeContext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>private var highTempCnt = 0L</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052439Z" creationid="xccui" creationdate="20190701T052439Z">
+        <seg>private var highTempCnt = 0L</seg>
       </tuv>
     </tu>
     <tu>
