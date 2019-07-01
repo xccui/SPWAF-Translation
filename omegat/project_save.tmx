@@ -15145,8 +15145,8 @@
       <tuv lang="EN-US">
         <seg>Go to the Apache Flink webpage and download the Hadoop-free binary distribu‐ tion of Apache Flink 1.7.1 for Scala 2.12.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123020Z" creationid="xccui" creationdate="20190605T123020Z">
-        <seg>从Apache Flink官网flink.apache.org下载支持Scala 2.12的Apache Flink 1.7.1无Hadoop二进制发行版。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201150Z" creationid="xccui" creationdate="20190605T123020Z">
+        <seg>从Apache Flink官网flink.apache.org下载支持Scala 2.12的Apache Flink 1.7.1 Hadoop-free二进制发行版。</seg>
       </tuv>
     </tu>
     <tu>
