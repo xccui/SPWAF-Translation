@@ -30706,8 +30706,8 @@
       <tuv lang="EN-US">
         <seg>Today’s IT architectures include many different datastores, such as relational and special-purpose database systems, event logs, distributed filesystems, in-memory caches, and search indexes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074840Z" creationid="xccui" creationdate="20190604T053748Z">
-        <seg>如今的IT架构通常会涵盖多种不同的数据存储，例如：关系型或专用数据库系统、事件日志系统、分布式文件系统、内存缓存、搜索索引等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T153510Z" creationid="xccui" creationdate="20190604T053748Z">
+        <seg>如今的IT架构通常会包含多种不同的数据存储，例如：关系型或专用数据库系统、事件日志系统、分布式文件系统、内存缓存及搜索索引等。</seg>
       </tuv>
     </tu>
     <tu>
