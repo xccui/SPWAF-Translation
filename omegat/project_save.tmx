@@ -6870,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All events that are pro‐ cessed in the same parallel task of an operator have access to the same state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035437Z" creationid="xccui" creationdate="20190701T035437Z">
+        <seg>同一算子的并行任务中所处理的事件都可以访问相同的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All fields are public or accessible through getters and setters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T043446Z" creationid="xccui" creationdate="20190617T043446Z">
@@ -21588,6 +21596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T184230Z" creationid="xccui" creationdate="20190606T033054Z">
         <seg>在流式作业中，算子的状态十分重要，因此需要在故障时予以保护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operator state is managed per parallel instance of an operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035251Z" creationid="xccui" creationdate="20190701T035251Z">
+        <seg>算子的每个并行实例都会维护自己的算子状态。</seg>
       </tuv>
     </tu>
     <tu>
