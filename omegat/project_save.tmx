@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(List.fill(mod)(new java.lang.Long(div + 1)) ++</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062849Z" creationid="xccui" creationdate="20190701T062849Z">
+        <seg>(List.fill(mod)(new java.lang.Long(div + 1)) ++</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(TumblingEventTimeWindows.of(size)) or for window.(TumblingProcessing TimeWindows.of(size)) depending on the configured time characteristic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051459Z" creationid="xccui" creationdate="20190623T051459Z">
@@ -2354,6 +2362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155122Z" creationid="xingcan" creationdate="20190628T155122Z">
         <seg>// 从副输出中获取迟到事件的数据流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// return count as ten parts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062844Z" creationid="xccui" creationdate="20190701T062844Z">
+        <seg>// 将计数值作为10个子部分返回</seg>
       </tuv>
     </tu>
     <tu>
@@ -20127,6 +20143,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List.fill(10 - mod)(new java.lang.Long(div))).asJava</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062853Z" creationid="xccui" creationdate="20190701T062853Z">
+        <seg>List.fill(10 - mod)(new java.lang.Long(div))).asJava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ListCheckpointed Interface Uses Java Serialization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062935Z" creationid="xccui" creationdate="20190701T062935Z">
+        <seg>ListCheckpointed接口用到了Java序列化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ListState[T] holds a list of elements of type T. New elements can be appended to the list by calling ListState.add(value: T) or ListState.addAll(values: java.util.List[T]).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T054342Z" creationid="xccui" creationdate="20190630T053549Z">
@@ -25836,6 +25868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040235Z" creationid="xccui" creationdate="20190701T040223Z">
         <seg>该接口不像ValueState或ListState状态句柄那样直接在状态后端注册，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ListCheckpointed interface uses Java serialization to serialize and deserialize the list of state objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063049Z" creationid="xccui" creationdate="20190701T063049Z">
+        <seg>ListCheckpointed接口使用Java序列化机制来对状态对象进行序列化和反序列化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38041,6 +38081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val div = highTempCnt / 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062728Z" creationid="xccui" creationdate="20190701T062728Z">
+        <seg>val div = highTempCnt / 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val endTime = startTime + windowSize</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044106Z" creationid="xccui" creationdate="20190626T044106Z">
@@ -38365,6 +38413,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002443Z" creationid="xccui" creationdate="20190624T002443Z">
         <seg>val minTempPerWindow: DataStream[(String, Double)] = sensorData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val mod = (highTempCnt % 10).toInt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062731Z" creationid="xccui" creationdate="20190701T062731Z">
+        <seg>val mod = (highTempCnt % 10).toInt</seg>
       </tuv>
     </tu>
     <tu>
