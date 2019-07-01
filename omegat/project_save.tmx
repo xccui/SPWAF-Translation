@@ -29704,6 +29704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This requires splitting or merging of state objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T055247Z" creationid="xccui" creationdate="20190701T055247Z">
+        <seg>这就需要拆分或合并状态对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This setting offers very low latency because processing tasks do not have to wait for watermarks to advance the event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070153Z" creationid="xccui" creationdate="20190619T070153Z">
@@ -36157,6 +36165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040710Z" creationid="xccui" creationdate="20190630T040710Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of state is custom for every stateful function, this cannot be automatically done for arbitrary types of state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060035Z" creationid="xccui" creationdate="20190701T060035Z">
+        <seg>由于每个函数都有自己的状态拆分及合并逻辑，所以这些逻辑无法针对任意状态类型都自动完成。</seg>
       </tuv>
     </tu>
     <tu>
