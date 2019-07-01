@@ -9447,6 +9447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CheckpointedFunction instead of the ListCheckpointed interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063643Z" creationid="xccui" creationdate="20190701T063643Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checkpointing and State Backends</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154914Z" creationid="xccui" creationdate="20190225T025624Z">
@@ -16619,6 +16627,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054351Z" creationid="xccui" creationdate="20190605T235108Z">
         <seg>假设现在正值圣诞假期，咖啡师要在他们完成的每杯咖啡的杯子上画一个圣诞老人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063640Z" creationid="xccui" creationdate="20190701T063640Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -35523,8 +35539,8 @@
       <tuv lang="EN-US">
         <seg>if you need to ensure a function’s operator state can be evolved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063328Z" creationid="xccui" creationdate="20190701T063328Z">
-        <seg>如果想确保函数的算子状态日后可以升级，请选用CheckpointedFunction接口替代ListCheckpointed接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063701Z" creationid="xccui" creationdate="20190701T063328Z">
+        <seg>如果想确保函数的算子状态日后可以升级，请使用CheckpointedFunction接口替代ListCheckpointed接口。</seg>
       </tuv>
     </tu>
     <tu>
