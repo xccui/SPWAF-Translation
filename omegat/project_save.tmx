@@ -20153,8 +20153,8 @@
       <tuv lang="EN-US">
         <seg>ListCheckpointed Interface Uses Java Serialization</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062935Z" creationid="xccui" creationdate="20190701T062935Z">
-        <seg>ListCheckpointed接口用到了Java序列化</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063556Z" creationid="xccui" creationdate="20190701T062935Z">
+        <seg>ListCheckpointed接口使用了Java序列化机制</seg>
       </tuv>
     </tu>
     <tu>
@@ -29416,6 +29416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be a problem if you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063507Z" creationid="xccui" creationdate="20190701T063507Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be explained by looking at the steps of a naive algorithm that takes a consistent checkpoint of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223326Z" creationid="xccui" creationdate="20190608T223205Z">
@@ -36133,6 +36141,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T064647Z" creationid="xccui" creationdate="20190613T064647Z">
         <seg>mvn clean package -Pbuild-jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>need to update your application because Java serialization does not allow for migrating or configuring a custom serializer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063638Z" creationid="xccui" creationdate="20190701T063504Z">
+        <seg>由于该序列化机制不支持目标迁移或配置自定义序列化器，所以可能会在你需要升级应用时导致问题。</seg>
       </tuv>
     </tu>
     <tu>
