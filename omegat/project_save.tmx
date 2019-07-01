@@ -23186,8 +23186,8 @@
       <tuv lang="EN-US">
         <seg>Run the example on your local cluster by specifying the application’s entry class and JAR file:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123600Z" creationid="xccui" creationdate="20190605T123600Z">
-        <seg>通过指定应用的入口类和JAR文件，在你的本地集群上运行示例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201345Z" creationid="xccui" creationdate="20190605T123600Z">
+        <seg>通过指定应用的入口类和JAR文件，在你本地集群上运行示例。</seg>
       </tuv>
     </tu>
     <tu>
