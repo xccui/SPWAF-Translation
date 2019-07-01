@@ -23330,8 +23330,8 @@
       <tuv lang="EN-US">
         <seg>Screenshot of Apache Flink’s web dashboard showing the overview</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T065605Z" creationid="xccui" creationdate="20190605T123350Z">
-        <seg>Apache Flink Web仪表盘概览页面截图</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201430Z" creationid="xccui" creationdate="20190605T123350Z">
+        <seg>Apache Flink Web UI概览页面截图</seg>
       </tuv>
     </tu>
     <tu>
