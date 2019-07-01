@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// restores the state of the function from the provided list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045521Z" creationid="xccui" creationdate="20190701T045521Z">
+        <seg>// 根据提供的列表恢复函数状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// retrieve and print the freezing alarms side output</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023910Z" creationid="xccui" creationdate="20190622T022908Z">
@@ -27992,6 +28000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The snapshotState() method is invoked when Flink triggers a checkpoint of the stateful function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045645Z" creationid="xccui" creationdate="20190701T045645Z">
+        <seg>snapshotState()方法会在Flink触发有状态函数的检查点时调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source task stores the current offset of its input stream as  state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T031659Z" creationid="xccui" creationdate="20190609T030952Z">
@@ -36761,6 +36777,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>restoreState(java.util.List[T] state): Unit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045523Z" creationid="xccui" creationdate="20190701T045523Z">
+        <seg>restoreState(java.util.List[T] state): Unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>result.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210937Z" creationid="xccui" creationdate="20190623T210937Z">
@@ -36837,6 +36861,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042707Z" creationid="xccui" creationdate="20190623T042501Z">
         <seg>以时间单元表示的窗口大小。它可以利用分配器的of(Time size)方法指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>snapshotState(checkpointId: Long, timestamp: Long): java.util.List[T]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045509Z" creationid="xccui" creationdate="20190701T045509Z">
+        <seg>snapshotState(checkpointId: Long, timestamp: Long): java.util.List[T]</seg>
       </tuv>
     </tu>
     <tu>
