@@ -26784,6 +26784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The handle does not hold the state itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021003Z" creationid="xccui" creationdate="20190701T021003Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The idle mechanism of sources can be used to address the problem of not advancing watermarks as discussed earlier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034838Z" creationid="xccui" creationdate="20190607T034838Z">
@@ -27804,6 +27812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T020745Z" creationid="xccui" creationdate="20190701T020612Z">
         <seg>状态句柄对象（示例7-2中的lastTempState）一般会声明为函数类的常规成员变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state handle object only provides access to the state, which is stored an maintained in the state backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T020958Z" creationid="xccui" creationdate="20190701T020932Z">
+        <seg>它只提供用于访问状态的接口而不会存储状态本身，具体保存工作需要由状态后端（state backend）来完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31981,6 +31997,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T063446Z" creationid="xccui" creationdate="20190609T063201Z">
         <seg>当一个数据源任务收到消息后，会暂停发出记录，利用状态后端触发生成本地状态的检查点，随后把该检查点分隔符连同检查点编号广播至所有传出的数据流分区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a function registers a StateDescriptor, Flink checks if the state backend has data for the function and a state with the given name and type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021106Z" creationid="xccui" creationdate="20190701T021106Z">
+        <seg>当函数注册StateDescriptor时</seg>
       </tuv>
     </tu>
     <tu>
