@@ -20087,6 +20087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Looking at the example, you might wonder why operator state is handled as a list of state objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T054512Z" creationid="xccui" creationdate="20190701T054512Z">
+        <seg>看完上述例子，你可能会奇怪为什么要讲算子状态作为状态对象列表来处理？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low latency is a key characteristic of stream processing and it enables what we call &lt;t2/&gt;real-time&lt;t3/&gt; applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T192514Z" creationid="xccui" creationdate="20190401T191707Z">
