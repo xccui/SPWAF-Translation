@@ -11681,8 +11681,8 @@
       <tuv lang="EN-US">
         <seg>Exactly-once state consistency guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T054402Z" creationid="xccui" creationdate="20190605T054206Z">
-        <seg>提供精确一次的状态一致性保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195336Z" creationid="xccui" creationdate="20190605T054206Z">
+        <seg>提供精确一次（exactly-once）的状态一致性保障。</seg>
       </tuv>
     </tu>
     <tu>
