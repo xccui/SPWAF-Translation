@@ -5678,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A function can work with operator list state by implementing the ListCheckpointed interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040044Z" creationid="xccui" creationdate="20190701T040044Z">
+        <seg>若要在函数中使用算子列表状态，需要实现ListCheckpointed接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A function is implemented by implementing the interface or extending the abstract class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053826Z" creationid="xccui" creationdate="20190618T053826Z">
@@ -18609,8 +18617,8 @@
       <tuv lang="EN-US">
         <seg>In “State Management” on page 53, we discussed that Flink supports three types of operator state: list state, list union state, and broadcast state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035832Z" creationid="xccui" creationdate="20190701T035832Z">
-        <seg>在53页"状态管理"一节，我们讨论了Flink支持的三种算子状态：列表状态、联合列表状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035936Z" creationid="xccui" creationdate="20190701T035832Z">
+        <seg>在53页"状态管理"一节，我们讨论了Flink支持的三种算子状态：列表状态、联合列表状态以及广播状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30850,8 +30858,8 @@
       <tuv lang="EN-US">
         <seg>Union list state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184319Z" creationid="xccui" creationdate="20190607T184319Z">
-        <seg>联合列表状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035905Z" creationid="xccui" creationdate="20190607T184319Z">
+        <seg>联合列表状态（union list state）</seg>
       </tuv>
     </tu>
     <tu>
