@@ -6872,8 +6872,8 @@
       <tuv lang="EN-US">
         <seg>All events that are pro‐ cessed in the same parallel task of an operator have access to the same state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035437Z" creationid="xccui" creationdate="20190701T035437Z">
-        <seg>同一算子的并行任务中所处理的事件都可以访问相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035609Z" creationid="xccui" creationdate="20190701T035437Z">
+        <seg>因此同一算子并行任务中所处理的事件都可以访问相同的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18607,6 +18607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “State Management” on page 53, we discussed that Flink supports three types of operator state: list state, list union state, and broadcast state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035832Z" creationid="xccui" creationdate="20190701T035832Z">
+        <seg>在53页"状态管理"一节，我们讨论了Flink支持的三种算子状态：列表状态、联合列表状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “State Management”, we explained that functions can have two types of state, keyed state and operator state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035002Z" creationid="xccui" creationdate="20190630T035002Z">
@@ -21602,8 +21610,8 @@
       <tuv lang="EN-US">
         <seg>Operator state is managed per parallel instance of an operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035251Z" creationid="xccui" creationdate="20190701T035251Z">
-        <seg>算子的每个并行实例都会维护自己的算子状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035653Z" creationid="xccui" creationdate="20190701T035251Z">
+        <seg>算子状态的维护是按照每个算子并行实例来分配的。</seg>
       </tuv>
     </tu>
     <tu>
