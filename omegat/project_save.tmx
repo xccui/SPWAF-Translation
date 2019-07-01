@@ -15753,8 +15753,8 @@
       <tuv lang="EN-US">
         <seg>However, it has a few notable drawbacks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052922Z" creationid="xccui" creationdate="20190605T052900Z">
-        <seg>但存在很多不足。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193935Z" creationid="xccui" creationdate="20190605T052900Z">
+        <seg>然而自身却有很多明显的缺点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27818,8 +27818,8 @@
       <tuv lang="EN-US">
         <seg>The original goals of this architecture were to improve the high result latency of the original batch analytics architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052848Z" creationid="xccui" creationdate="20190605T052749Z">
-        <seg>它最初的目标是改善原始批量分析架构中结果的高延迟问题，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193729Z" creationid="xccui" creationdate="20190605T052749Z">
+        <seg>它的最初目标是改善原始批量分析架构中结果的高延迟问题，</seg>
       </tuv>
     </tu>
     <tu>
