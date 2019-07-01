@@ -27506,8 +27506,8 @@
       <tuv lang="EN-US">
         <seg>The live updated results of a streaming analytics application can be used to power dashboard applications as shown in Figure 1-6.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T062130Z" creationid="xccui" creationdate="20190605T044552Z">
-        <seg>如图1-6所示，流式分析应用的实时更新结果可以支撑仪表盘应用的展示。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155543Z" creationid="xccui" creationdate="20190605T044552Z">
+        <seg>如图1-6所示，流式分析应用实时更新的结果可用于支撑仪表盘应用的展示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31146,8 +31146,8 @@
       <tuv lang="EN-US">
         <seg>Typically, streaming applications store their result in an external data store that supports efficient updates, such as a database or key-value store.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T062058Z" creationid="xccui" creationdate="20190317T060355Z">
-        <seg>通常情况下，流式应用会把它们的结果保存在某种支持高效更新的外部数据存储中，例如：数据库或键值存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155507Z" creationid="xccui" creationdate="20190317T060355Z">
+        <seg>通常情况下，流式应用会把它们的结果保存在某种支持高效更新的外部数据存储中，例如数据库或键值存储。</seg>
       </tuv>
     </tu>
     <tu>
