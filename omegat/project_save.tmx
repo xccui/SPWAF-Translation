@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// restore state by adding all longs of the list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052858Z" creationid="xccui" creationdate="20190701T052858Z">
+        <seg>// 将状态恢复为列表中的全部long值之和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// restores the state of the function from the provided list</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045521Z" creationid="xccui" creationdate="20190701T045521Z">
@@ -2450,6 +2458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060157Z" creationid="xccui" creationdate="20190623T060157Z">
         <seg>// 使用窗口分配器简写方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// snapshot state as list with a single count</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T053234Z" creationid="xccui" creationdate="20190701T053234Z">
+        <seg>// 将一个包含单个数目值的列表作为状态快照</seg>
       </tuv>
     </tu>
     <tu>
@@ -35025,6 +35041,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>for (cnt &lt;- state.asScala) { highTempCnt += cnt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052902Z" creationid="xccui" creationdate="20190701T052902Z">
+        <seg>for (cnt &lt;- state.asScala) { highTempCnt += cnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>for ascending timestamps:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051915Z" creationid="xccui" creationdate="20190620T051915Z">
@@ -36153,6 +36177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out.collect((subtaskIdx, highTempCnt))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052700Z" creationid="xccui" creationdate="20190701T052700Z">
+        <seg>out.collect((subtaskIdx, highTempCnt))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out.collect(MinMaxTemp(key, minMax._2, minMax._3, windowEnd))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045147Z" creationid="xccui" creationdate="20190625T045147Z">
@@ -36469,6 +36501,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032304Z" creationid="xccui" creationdate="20190622T032304Z">
         <seg>override def processElement2( switch: (String, Long),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def restoreState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052705Z" creationid="xccui" creationdate="20190701T052705Z">
+        <seg>override def restoreState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def snapshotState( chkpntId: Long,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052938Z" creationid="xccui" creationdate="20190701T052938Z">
+        <seg>override def snapshotState( chkpntId: Long,</seg>
       </tuv>
     </tu>
     <tu>
@@ -37113,6 +37161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>state: util.List[java.lang.Long]): Unit = { highTempCnt = 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052709Z" creationid="xccui" creationdate="20190701T052709Z">
+        <seg>state: util.List[java.lang.Long]): Unit = { highTempCnt = 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>states, and side outputs to emit records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011523Z" creationid="xccui" creationdate="20190624T011523Z">
@@ -37525,6 +37581,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T144509Z" creationid="xccui" creationdate="20190305T061121Z">
         <seg>这缘于于它可以持久化输入事件并以确定顺序将其重放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ts: Long): java.util.List[java.lang.Long] = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052942Z" creationid="xccui" creationdate="20190701T052942Z">
+        <seg>ts: Long): java.util.List[java.lang.Long] = {</seg>
       </tuv>
     </tu>
     <tu>
