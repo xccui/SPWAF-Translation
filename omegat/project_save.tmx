@@ -13281,8 +13281,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we took a look at Apache Flink and the extensive features it offers and showed how to install a local Flink setup and run a first stream processing application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T041158Z" creationid="xccui" creationdate="20190605T125759Z">
-        <seg>最后我们简单了解了Apache Flink以及它提供的诸多特性，并展示了如何在本地安装设置Flink并运行第一个流处理应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T202148Z" creationid="xccui" creationdate="20190605T125759Z">
+        <seg>最后我们简单了解了Apache Flink以及它提供的诸多特性，还展示了如何在本地安装设置Flink并运行第一个流处理应用。</seg>
       </tuv>
     </tu>
     <tu>
