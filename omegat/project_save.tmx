@@ -35177,6 +35177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>function is restored, the parts of the state are distributed among all parallel instances of the function and handed to the restoreState() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061204Z" creationid="xccui" creationdate="20190701T061204Z">
+        <seg>在函数进行状态恢复时，Flink会将状态的各个部分分配到函数的所有并行实例上，并将每个实例上的状态传递给restoreState()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033454Z" creationid="xccui" creationdate="20190619T033454Z">
@@ -35899,8 +35907,8 @@
       <tuv lang="EN-US">
         <seg>method assembles the operator state from possibly multiple parts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060517Z" creationid="xccui" creationdate="20190701T060517Z">
-        <seg>同样restoreState()方法也可以利用多个部分组装算子状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060711Z" creationid="xccui" creationdate="20190701T060517Z">
+        <seg>而restoreState()方法也可以利用（一个或）多个部分对算子状态进行组装。</seg>
       </tuv>
     </tu>
     <tu>
