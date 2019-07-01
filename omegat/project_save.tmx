@@ -8887,6 +8887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broadcast state can be combined with a regular DataStream or KeyedStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203704Z" creationid="xccui" creationdate="20190701T203650Z">
+        <seg>它可以和常规的DataStream或KeyedStream结合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Broadcast state is an improved version of the broadcast()- connect() transformation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052518Z" creationid="xccui" creationdate="20190615T052518Z">
@@ -16881,8 +16889,8 @@
       <tuv lang="EN-US">
         <seg>In Flink, such a state is called a broadcast state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203626Z" creationid="xccui" creationdate="20190701T203626Z">
-        <seg>在Flink中，这种状态称为广播状态（broadcast state）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203707Z" creationid="xccui" creationdate="20190701T203626Z">
+        <seg>在Flink中，这种状态称为广播状态（broadcast state），</seg>
       </tuv>
     </tu>
     <tu>
