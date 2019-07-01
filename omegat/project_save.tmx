@@ -20951,6 +20951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the ListCheckpointed interface is implemented in Java and expects a java.util.List instead of a Scala native list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T054346Z" creationid="xccui" creationdate="20190701T054346Z">
+        <seg>请注意，ListCheckpointed接口是用Java实现的，所以它内部使用的是java.util.List而非Scala原生列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the application and the savepoint must be compatible—the application must be able to load the state of the savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212525Z" creationid="xccui" creationdate="20190609T212448Z">
@@ -33973,6 +33981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032018Z" creationid="xccui" creationdate="20190630T032018Z">
         <seg>除了内置算子和提供的数据源及数据汇之外，Flink DataStream API也在用户自定义函数里暴露了状态的注册、维护及访问接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and restored using the methods of the ListCheckpointed interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T053912Z" creationid="xccui" creationdate="20190701T053912Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
