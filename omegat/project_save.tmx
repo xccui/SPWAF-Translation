@@ -24746,8 +24746,8 @@
       <tuv lang="EN-US">
         <seg>Stream processors like Flink also support event-time pro‐ cessing to produce correct and deterministic results and the ability to process large amounts of data in little time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155849Z" creationid="xccui" creationdate="20190605T045138Z">
-        <seg>诸如Flink之类的流处理引擎还需要支持事件时间处理，从而可以生成精准、确定的结果并具备在短时间内处理大量数据的能力。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155904Z" creationid="xccui" creationdate="20190605T045138Z">
+        <seg>诸如Flink之类的流处理引擎还需要支持事件时间处理，从而可以生成精准、确定的结果，并具备在短时间内处理大量数据的能力。</seg>
       </tuv>
     </tu>
     <tu>
