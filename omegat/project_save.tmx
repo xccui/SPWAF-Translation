@@ -18993,8 +18993,8 @@
       <tuv lang="EN-US">
         <seg>Instead of waiting to be periodically triggered, a streaming analytics application con‐ tinuously ingests streams of events and updates its result by incorporating the latest events with low latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T043902Z" creationid="xccui" creationdate="20190605T043757Z">
-        <seg>流式分析应用不再需要等待周期性地触发。相反，它会一直获取事件流，以极低的延迟整合最新事件，从而可以不断更新结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155248Z" creationid="xccui" creationdate="20190605T043757Z">
+        <seg>流式分析应用不再需要等待周期性地触发。相反，它会持续获取事件流，以极低的延迟整合最新事件，从而可以不断更新结果。</seg>
       </tuv>
     </tu>
     <tu>
