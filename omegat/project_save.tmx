@@ -2038,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// index of the subtask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052350Z" creationid="xccui" creationdate="20190701T052350Z">
+        <seg>// 子任务的编号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// ingest sensor readings with a SensorSource SourceFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042138Z" creationid="xccui" creationdate="20190612T042134Z">
@@ -5402,6 +5410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225024Z" creationid="xccui" creationdate="20190623T224729Z">
         <seg>ReduceFunction接收两个同类型的值并将它们组合成一个类型不变的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A RichFlatMapFunction with operator list state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052313Z" creationid="xccui" creationdate="20190701T052313Z">
+        <seg>使用了算子列表状态的RichFlatMapFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -11955,6 +11971,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052212Z" creationid="xccui" creationdate="20190701T052212Z">
         <seg>示例7-4展示了如何利用ListCheckpointed接口实现一个函数，其作用是在每个函数并行实例内，计算该分区数据超过某一阈值的温度值数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052219Z" creationid="xccui" creationdate="20190701T052219Z">
+        <seg>实例7-4，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34265,6 +34289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class HighTempCounter(val threshold: Double)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052316Z" creationid="xccui" creationdate="20190701T052316Z">
+        <seg>class HighTempCounter(val threshold: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class KeywordFilter(keyWord: String) extends FilterFunction[String] { override def filter(value: String): Boolean = { value.contains(keyWord)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054645Z" creationid="xccui" creationdate="20190618T054645Z">
@@ -34877,6 +34909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031913Z" creationid="xccui" creationdate="20190625T031913Z">
         <seg>extends ProcessWindowFunction[SensorReading, MinMaxTemp, String, TimeWindow] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends RichFlatMapFunction[SensorReading, (Int, Long)]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052319Z" creationid="xccui" creationdate="20190701T052319Z">
+        <seg>extends RichFlatMapFunction[SensorReading, (Int, Long)]</seg>
       </tuv>
     </tu>
     <tu>
@@ -36388,6 +36428,14 @@
         <seg>page 154.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033816Z" creationid="xccui" creationdate="20190619T033816Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>parallel instance of the function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052214Z" creationid="xccui" creationdate="20190701T052214Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -38613,6 +38661,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030535Z" creationid="xccui" creationdate="20190625T030535Z">
         <seg>其中包含了窗口的开始、结束时间以及窗口内的最低、最高温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with ListCheckpointed[java.lang.Long] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052323Z" creationid="xccui" creationdate="20190701T052323Z">
+        <seg>with ListCheckpointed[java.lang.Long] {</seg>
       </tuv>
     </tu>
     <tu>
