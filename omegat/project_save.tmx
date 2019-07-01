@@ -10689,8 +10689,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the use case, the transferred data may need to be normalized, enriched with external data, or aggregated before it is ingested by the target data store.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042555Z" creationid="xccui" creationdate="20190605T041712Z">
-        <seg>根据用例的不同，转存的数据可能需要归一化，利用外部输入丰富数据或在写入目标存储之前进行聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154401Z" creationid="xccui" creationdate="20190605T041712Z">
+        <seg>根据用例的不同，转存的数据可能需要归一化，利用外部输入丰富数据或在写入目标存储之前进行数据聚合。</seg>
       </tuv>
     </tu>
     <tu>
