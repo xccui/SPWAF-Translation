@@ -5630,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A common requirement in streaming applications is to distribute the same informa‐ tion to all parallel instances of a function and maintain it as recoverable state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T202835Z" creationid="xccui" creationdate="20190701T202835Z">
+        <seg>流式应用的一个常见需求是要将相同信息发送到函数的全部并行实例上，并将它们作为可恢复的状态进行维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A common requirement of many applications is to process groups of events that share a certain property together.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044428Z" creationid="xccui" creationdate="20190614T043547Z">
