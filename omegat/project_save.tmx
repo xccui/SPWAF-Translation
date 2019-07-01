@@ -13345,8 +13345,8 @@
       <tuv lang="EN-US">
         <seg>First of all, it requires two semantically equivalent implementations of the application logic for two separate processing systems with different APIs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052927Z" creationid="xccui" creationdate="20190605T052927Z">
-        <seg>首先，该架构需要在拥有不同API的两套独立处理系统之上实现两次语义相同的应用逻辑；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193959Z" creationid="xccui" creationdate="20190605T052927Z">
+        <seg>首先，该架构需要在拥有不同API的两套独立处理系统之上实现两套语义相同的应用逻辑；</seg>
       </tuv>
     </tu>
     <tu>
