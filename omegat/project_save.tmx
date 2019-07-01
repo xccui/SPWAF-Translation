@@ -36873,6 +36873,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the stateful function is restarted to recover from a failure or when an application is started from a savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021637Z" creationid="xccui" creationdate="20190701T021555Z">
+        <seg>该情况可能出现在有状态函数进行故障恢复或应用从保存点开始执行的场景下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>them in “Defining Keys and Referencing Fields” on page 102.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051537Z" creationid="xccui" creationdate="20190614T051537Z">
