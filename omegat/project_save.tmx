@@ -2486,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// split count into ten partial counts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062725Z" creationid="xccui" creationdate="20190701T062725Z">
+        <seg>// 将计数值分成10个子部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// state to check if this is the first evaluation of the window or not</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034320Z" creationid="xccui" creationdate="20190629T034320Z">
@@ -24204,6 +24212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054002Z" creationid="xccui" creationdate="20190615T053736Z">
         <seg>split转换是union转换的逆操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Split operator list state for better distribution during rescaling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062645Z" creationid="xccui" creationdate="20190701T062645Z">
+        <seg>将算子列表状态拆分，从而在扩缩容时实现更佳的分布</seg>
       </tuv>
     </tu>
     <tu>
