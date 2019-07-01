@@ -23314,8 +23314,8 @@
       <tuv lang="EN-US">
         <seg>Screenshot of Apache Flink’s web dashboard showing a running job</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123752Z" creationid="xccui" creationdate="20190605T123752Z">
-        <seg>展示运行作业的Apache Flink Web仪表盘截图</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201519Z" creationid="xccui" creationdate="20190605T123752Z">
+        <seg>展示运行作业的Apache Flink Web UI截图</seg>
       </tuv>
     </tu>
     <tu>
