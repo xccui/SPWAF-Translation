@@ -10921,8 +10921,8 @@
       <tuv lang="EN-US">
         <seg>ETL jobs periodically import data into a datastore and the data is processed by ad-hoc or scheduled queries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042806Z" creationid="xccui" creationdate="20190605T042806Z">
-        <seg>ELT作业周期性地把数据导入数据存储系统，并通过即席或计划查询处理数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154640Z" creationid="xccui" creationdate="20190605T042806Z">
+        <seg>ELT作业会周期性地把数据导入数据存储系统，并通过即席或计划查询处理数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18897,8 +18897,8 @@
       <tuv lang="EN-US">
         <seg>Ingesting, transforming, and inserting data with low latency is another common use case for stateful stream processing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T061525Z" creationid="xccui" creationdate="20190317T013857Z">
-        <seg>状态化流处理应用的另一个日常用例是低延迟地获取、转换并插入数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154504Z" creationid="xccui" creationdate="20190317T013857Z">
+        <seg>状态化流处理应用的另一个日常用例是以低延迟的方式获取、转换并插入数据，</seg>
       </tuv>
     </tu>
     <tu>
@@ -28210,8 +28210,8 @@
       <tuv lang="EN-US">
         <seg>The second type are ad-hoc queries that aim to provide answers to specific questions and support business-critical decisions, for example a query to collect revenue numbers and spending on radio commercials to evaluate the effectiveness of a marketing cam‐ paign.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T072603Z" creationid="esouser" creationdate="20190603T203150Z">
-        <seg>第二类是即席查询。其主要目的是通过解答特定问题来辅助关键性的商业决策，例如：通过查询来整合营收数字和电台广告中的投入，以评估市场营销的有效性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154650Z" creationid="esouser" creationdate="20190603T203150Z">
+        <seg>第二类是即席查询（ad-hoc query）。其主要目的是通过解答特定问题来辅助关键性的商业决策，例如：通过查询来整合营收数字和电台广告中的投入，以评估市场营销的有效性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29946,8 +29946,8 @@
       <tuv lang="EN-US">
         <seg>This type of application is called a data pipeline.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042644Z" creationid="xccui" creationdate="20190605T042611Z">
-        <seg>我们将此类应用称为数据管道，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154547Z" creationid="xccui" creationdate="20190605T042611Z">
+        <seg>我们将此类应用称为数据管道。</seg>
       </tuv>
     </tu>
     <tu>
