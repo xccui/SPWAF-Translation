@@ -28346,8 +28346,8 @@
       <tuv lang="EN-US">
         <seg>The state handle object (lastTempState in Example 7-2) is a regular member variable of the function class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T020745Z" creationid="xccui" creationdate="20190701T020612Z">
-        <seg>状态句柄对象（示例7-2中的lastTempState）一般会声明为函数类的常规成员变量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063849Z" creationid="xccui" creationdate="20190701T020612Z">
+        <seg>我们一般会将状态句柄对象（示例7-2中的lastTempState）声明为函数类的常规成员变量。</seg>
       </tuv>
     </tu>
     <tu>
