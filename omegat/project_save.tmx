@@ -27344,6 +27344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The method has to return</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T050302Z" creationid="xccui" creationdate="20190701T050302Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The method has two parameters, checkpointId, which is a unique, monotonically increasing identifier for checkpoints, and timestamp, which is the wall-clock time when the master initiated the checkpoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T050200Z" creationid="xccui" creationdate="20190701T050128Z">
@@ -27868,6 +27876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030241Z" creationid="xccui" creationdate="20190225T030241Z">
         <seg>Flink生态的其他组成部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The restoreState() method is always invoked when the state of a function needs to be initialized—when the job is started (from a savepoint or not) or in the case of a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T051246Z" creationid="xccui" creationdate="20190701T051246Z">
+        <seg>restoreState()方法会在初始化函数状态时调用，该过程可能发生在作业启动（无论是否从保存点）或故障恢复的情况下。</seg>
       </tuv>
     </tu>
     <tu>
