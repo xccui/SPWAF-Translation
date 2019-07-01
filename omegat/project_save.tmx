@@ -14241,8 +14241,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s relational APIs, SQL and the LINQ-style Table API, are not discussed in this book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T064340Z" creationid="xccui" creationdate="20190328T044231Z">
-        <seg>而Flink的关系型API：SQL及LINQ风格的Table API，并没有在书中过多涉及。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195721Z" creationid="xccui" creationdate="20190328T044231Z">
+        <seg>而Flink的关系型API——SQL及LINQ风格的Table API，并没有在书中过多涉及。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29394,8 +29394,8 @@
       <tuv lang="EN-US">
         <seg>This book covers the DataStream API and process functions, which provide primitives for common stream processing operations, such as windowing and asynchronous operations, and interfaces to precisely control state and time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195507Z" creationid="xccui" creationdate="20190605T060812Z">
-        <seg>本书涵盖了DataStream API和处理函数（process function）的相关内容，它们提供了通用的流处理操作原语（如：窗口划分、异步操作）以及精确控制时间和状态的接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195629Z" creationid="xccui" creationdate="20190605T060812Z">
+        <seg>本书涵盖了DataStream API和处理函数（process function）的相关内容，它们提供了通用的流处理操作原语（如窗口划分和异步操作）以及精确控制时间和状态的接口。</seg>
       </tuv>
     </tu>
     <tu>
