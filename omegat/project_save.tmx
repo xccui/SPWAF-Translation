@@ -26456,6 +26456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first field is a list of the flatMap results, and the second field is the new value of the state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035014Z" creationid="xccui" creationdate="20190701T035014Z">
+        <seg>其中第一个字段是flatMap的结果列表，第二个字段是新的状态值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first field of the SensorReading is a sensorId, the second field is the time‐ stamp in milliseconds since 1970-01-01-00:00:00.000, and the third field is an average temperature computed over 5 seconds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T124114Z" creationid="xccui" creationdate="20190605T123948Z">
