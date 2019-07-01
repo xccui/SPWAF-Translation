@@ -19977,8 +19977,8 @@
       <tuv lang="EN-US">
         <seg>Last but not least, Flink is also a full-fledged batch processor.1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T121820Z" creationid="xccui" creationdate="20190605T121712Z">
-        <seg>最后要强调的一点，Flink同时也是一个成熟的批处理引擎。1</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195932Z" creationid="xccui" creationdate="20190605T121712Z">
+        <seg>最后要强调的一点：Flink同时也是一个成熟的批处理引擎。1</seg>
       </tuv>
     </tu>
     <tu>
