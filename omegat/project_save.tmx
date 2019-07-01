@@ -35513,6 +35513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>increased the parallelism of this operator, some of the new subtasks would be initial‐ ized with an empty state, and start counting from zero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061840Z" creationid="xccui" creationdate="20190701T061840Z">
+        <seg>如果我们增加算子的并行度，那么部分新的子任务就只能得到空的状态，从而需要从零开始计数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>incremental aggregation function is specified.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201556Z" creationid="xccui" creationdate="20190626T201556Z">
