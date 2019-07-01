@@ -27722,8 +27722,8 @@
       <tuv lang="EN-US">
         <seg>The observation that data processing systems (at this point in time) could either provide fast or accurate results led to the design of the so-called lambda architecture, which is depicted in Figure 1-7.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051812Z" creationid="xccui" creationdate="20190605T051725Z">
-        <seg>以当时的眼光看待流处理系统，计算快速和结果准确二者不可兼得，因此才有了所谓的Lambda架构，详见图1-7。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193153Z" creationid="xccui" creationdate="20190605T051725Z">
+        <seg>以当时的眼光看待流处理系统，计算快速和结果准确二者不可兼得，因此才有了所谓的Lambda架构，见图1-7。</seg>
       </tuv>
     </tu>
     <tu>
