@@ -18921,8 +18921,8 @@
       <tuv lang="EN-US">
         <seg>Inspect the web dashboard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T042050Z" creationid="xccui" creationdate="20190329T040028Z">
-        <seg>检查一下Web仪表盘，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201421Z" creationid="xccui" creationdate="20190329T040028Z">
+        <seg>检查一下Web UI，</seg>
       </tuv>
     </tu>
     <tu>
