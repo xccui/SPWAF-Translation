@@ -26786,8 +26786,8 @@
       <tuv lang="EN-US">
         <seg>The first generation of distributed open source stream processors (2011) focused on event processing with millisecond latencies and provided guarantees against loss of events in the case of failures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050830Z" creationid="xccui" creationdate="20190605T050830Z">
-        <seg>第一代开源分布式流处理引擎（2011年）专注于以毫秒级延迟处理数据并保证系统出错时事件不会丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T192923Z" creationid="xccui" creationdate="20190605T050830Z">
+        <seg>第一代开源分布式流处理引擎（2011年）专注于以毫秒级延迟处理数据并保证系统故障时事件不会丢失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32330,8 +32330,8 @@
       <tuv lang="EN-US">
         <seg>We will take a brief look into the past to see where open source stream pro‐ cessing came from and where it is today.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050803Z" creationid="xccui" creationdate="20190605T050803Z">
-        <seg>我们将通过简要地历史回顾来探索一下开源流处理技术的前世今生。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T192839Z" creationid="xccui" creationdate="20190605T050803Z">
+        <seg>在此，我们将通过简要的历史回顾来探索一下开源流处理技术的前世今生。</seg>
       </tuv>
     </tu>
     <tu>
