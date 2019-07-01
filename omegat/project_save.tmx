@@ -16127,6 +16127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the state backend does not contain state for the given descriptor, the state that is linked to the handle is initialized as empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T022350Z" creationid="xccui" creationdate="20190701T022350Z">
+        <seg>如果状态后端没包含给定描述符的对应状态，那么就会以空值来初始化句柄链接的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the system continues to receive data at a higher rate than it can handle, buffers might become unavailable and data might get lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T202331Z" creationid="xccui" creationdate="20190402T201609Z">
@@ -16795,6 +16803,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234259Z" creationid="xccui" creationdate="20190605T234259Z">
         <seg>在批处理中，你先要批量收集事件，然后才能处理它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In both cases, Flink links the newly registered state handle object to the existing state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021819Z" creationid="xccui" creationdate="20190701T021819Z">
+        <seg>无论哪种情况，Flink都会将新注册的状态句柄对象链接到已有状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29256,6 +29272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This might happen if</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021644Z" creationid="xccui" creationdate="20190701T021644Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This mode is used to execute a Flink program within an IDE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052637Z" creationid="xccui" creationdate="20190611T052637Z">
@@ -36875,8 +36899,8 @@
       <tuv lang="EN-US">
         <seg>the stateful function is restarted to recover from a failure or when an application is started from a savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021637Z" creationid="xccui" creationdate="20190701T021555Z">
-        <seg>该情况可能出现在有状态函数进行故障恢复或应用从保存点开始执行的场景下。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021731Z" creationid="xccui" creationdate="20190701T021555Z">
+        <seg>这有可能在有状态函数进行故障恢复或应用从保存点开始执行的情况下出现。</seg>
       </tuv>
     </tu>
     <tu>
