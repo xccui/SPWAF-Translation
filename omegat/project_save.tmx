@@ -8111,6 +8111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As discussed in “Scaling Stateful Operators” on page 56, the list struc‐ ture supports changing the parallelism of functions with operator state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T054835Z" creationid="xccui" creationdate="20190701T054835Z">
+        <seg>其实这个问题的答案已经在第56页"状态化算子扩缩容"中提到了——列表结构支持对使用了算子状态的函数修改并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As discussed, watermarks can be used to balance result completeness and result latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T144503Z" creationid="xingcan" creationdate="20190628T144503Z">
