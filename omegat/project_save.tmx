@@ -35561,6 +35561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>java.util.Collections.singletonList(highTempCnt)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T053238Z" creationid="xccui" creationdate="20190701T053238Z">
+        <seg>java.util.Collections.singletonList(highTempCnt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>join is defined as shown in Example 6-18.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025803Z" creationid="xccui" creationdate="20190628T025803Z">
