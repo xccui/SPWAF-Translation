@@ -26512,6 +26512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The flatMapWithState() method expects a function that accepts a Tuple2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T032420Z" creationid="xccui" creationdate="20190701T032420Z">
+        <seg>调用flatMapWithState()方法时需要提供一个参数为Tuple2的函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The folder contains a file flink-scala-project-0.1.jar, which is the JAR file of your Flink application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010603Z" creationid="xccui" creationdate="20190612T010603Z">
