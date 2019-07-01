@@ -28176,6 +28176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The snapshot State() method splits the operator state into multiple parts and the restoreState()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060605Z" creationid="xccui" creationdate="20190701T060430Z">
+        <seg>snapshotState()方法能够将算子状态分为多个部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The snapshotState() method is invoked when Flink triggers a checkpoint of the stateful function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045645Z" creationid="xccui" creationdate="20190701T045645Z">
@@ -35885,6 +35893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065114Z" creationid="xccui" creationdate="20190614T065114Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method assembles the operator state from possibly multiple parts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060517Z" creationid="xccui" creationdate="20190701T060517Z">
+        <seg>同样restoreState()方法也可以利用多个部分组装算子状态。</seg>
       </tuv>
     </tu>
     <tu>
