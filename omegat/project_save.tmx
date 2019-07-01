@@ -27458,8 +27458,8 @@
       <tuv lang="EN-US">
         <seg>The lambda architecture augments the traditional periodic batch processing architec‐ ture with a speed layer that is powered by a low-latency stream processor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T051842Z" creationid="xccui" creationdate="20190605T051842Z">
-        <seg>Lambda架构在传统周期性批处理架构的基础上添加了一个由低延迟流处理引擎所驱动的"提速层"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193331Z" creationid="xccui" creationdate="20190605T051842Z">
+        <seg>Lambda架构在传统周期性批处理架构的基础上添加了一个由低延迟流处理引擎所驱动的"提速层"（speed layer）。</seg>
       </tuv>
     </tu>
     <tu>
