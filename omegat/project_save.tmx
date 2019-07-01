@@ -27066,8 +27066,8 @@
       <tuv lang="EN-US">
         <seg>The fol‐ lowing steps show you how to start a local Flink cluster and submit an application for execution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123110Z" creationid="xccui" creationdate="20190605T123013Z">
-        <seg>以下步骤会教你如何启动本地Flink集群并提交应用到上面执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201033Z" creationid="xccui" creationdate="20190605T123013Z">
+        <seg>启动本地Flink集群并提交应用到上面执行的步骤如下：</seg>
       </tuv>
     </tu>
     <tu>
