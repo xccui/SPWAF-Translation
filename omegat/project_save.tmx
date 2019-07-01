@@ -16481,8 +16481,8 @@
       <tuv lang="EN-US">
         <seg>Implementing Operator List State with the ListCheckpointed Interface</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055403Z" creationid="xccui" creationdate="20190225T024556Z">
-        <seg>通过ListCheckpointed接口实现算子列表状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035123Z" creationid="xccui" creationdate="20190225T024556Z">
+        <seg>通过ListCheckpointed接口实现算子列表状态（Operator List State）</seg>
       </tuv>
     </tu>
     <tu>
