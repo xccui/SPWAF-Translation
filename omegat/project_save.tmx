@@ -16879,6 +16879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Flink, such a state is called a broadcast state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203626Z" creationid="xccui" creationdate="20190701T203626Z">
+        <seg>在Flink中，这种状态称为广播状态（broadcast state）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Flink, watermarks are implemented as special records holding a timestamp as a Long value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205301Z" creationid="xccui" creationdate="20190606T205232Z">
@@ -23828,6 +23836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065540Z" creationid="xccui" creationdate="20190616T065540Z">
         <seg>由于Kryo是一个通用序列化器，因此通常效率不高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since each parallel instance of the function must hold all rules in its operator state, the rules stream needs to be broadcasted to ensure each instance of the function receives all rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203601Z" creationid="xccui" creationdate="20190701T203601Z">
+        <seg>由于函数的所有并行实例都需要在算子状态中保存全部规则，所以规则流需要以广播形式发送，以便每个实例都能收到全部规则。</seg>
       </tuv>
     </tu>
     <tu>
