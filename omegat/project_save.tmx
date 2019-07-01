@@ -20385,8 +20385,8 @@
       <tuv lang="EN-US">
         <seg>Millisecond latencies while processing millions of events per second.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T055845Z" creationid="xccui" creationdate="20190605T055840Z">
-        <seg>每秒处理数百万条事件的同时保持毫秒级延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195359Z" creationid="xccui" creationdate="20190605T055840Z">
+        <seg>在每秒处理数百万条事件的同时保持毫秒级延迟。</seg>
       </tuv>
     </tu>
     <tu>
