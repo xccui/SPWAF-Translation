@@ -26578,8 +26578,8 @@
       <tuv lang="EN-US">
         <seg>The dispatcher also runs a web dashboard to provide information about job executions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201535Z" creationid="xccui" creationdate="20190606T142935Z">
-        <seg>Dispatcher同时还会启动一个web UI，用来提供有关作业执行的信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201540Z" creationid="xccui" creationdate="20190606T142935Z">
+        <seg>Dispatcher同时还会启动一个Web UI，用来提供有关作业执行的信息。</seg>
       </tuv>
     </tu>
     <tu>
