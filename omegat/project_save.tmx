@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T202926Z" creationid="xccui" creationdate="20190701T202926Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An ETL process extracts data from a transactional database, transforms it into a common representation that might include validation, value normalization, encoding, deduplication, and schema trans‐ formation, and finally loads it into the analytical database.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064753Z" creationid="esouser" creationdate="20190603T202811Z">
@@ -27176,6 +27184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The function that applies the rules ingests two input streams, the event stream and the rules stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203028Z" creationid="xccui" creationdate="20190701T203028Z">
+        <seg>规则应用函数需要同时接收这两条输入流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The function uses operator state and has a single state variable for each parallel operator instance that is checkpointed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T053909Z" creationid="xccui" creationdate="20190701T053909Z">
@@ -35085,6 +35101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050540Z" creationid="xccui" creationdate="20190614T050540Z">
         <seg>这样一来有着相同键值的事件一定会在后续算子的同一个任务上处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>example is a stream of rules and a stream of events on which the rules are applied.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T202923Z" creationid="xccui" creationdate="20190701T202923Z">
+        <seg>一个典型的例子是有一条规则流和一条需要应用这些规则的事件流。</seg>
       </tuv>
     </tu>
     <tu>
