@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// returns a snapshot the state of the function as a list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045506Z" creationid="xccui" creationdate="20190701T045506Z">
+        <seg>// 以列表形式返回一个函数状态的快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// rounding down by 30 seconds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044057Z" creationid="xccui" creationdate="20190626T044057Z">
@@ -27068,6 +27076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005027Z" creationid="xccui" creationdate="20190624T005027Z">
         <seg>该接口定义了输入类型IN，累加器类型ACC以及结果类型OUT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The interface pro‐ vides two methods:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040549Z" creationid="xccui" creationdate="20190701T040549Z">
+        <seg>ListCheckpointed接口提供了两个方法：</seg>
       </tuv>
     </tu>
     <tu>
