@@ -9079,6 +9079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By providing a list of state objects, functions with operator state can implement this logic using the snapshotState() and restoreState() methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060350Z" creationid="xccui" creationdate="20190701T060050Z">
+        <seg>而通过提供状态对象列表，有状态函数就能使用snapshotState()和restoreState()方法来实现自动化逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By relying on event time, we can guarantee result correctness even in cases of out-of- order data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025039Z" creationid="xccui" creationdate="20190606T024500Z">
@@ -23840,6 +23848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the logic for splitting and merging</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060037Z" creationid="xccui" creationdate="20190701T060037Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the maximum operator parallelism is four, the application requires at least four available processing slots to be executed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T043551Z" creationid="xccui" creationdate="20190423T043528Z">
@@ -36171,8 +36187,8 @@
       <tuv lang="EN-US">
         <seg>of state is custom for every stateful function, this cannot be automatically done for arbitrary types of state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060035Z" creationid="xccui" creationdate="20190701T060035Z">
-        <seg>由于每个函数都有自己的状态拆分及合并逻辑，所以这些逻辑无法针对任意状态类型都自动完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060122Z" creationid="xccui" creationdate="20190701T060035Z">
+        <seg>由于每个函数都有自己的状态拆分及合并逻辑，所以这两个过程无法针对任意状态类型都自动完成。</seg>
       </tuv>
     </tu>
     <tu>
