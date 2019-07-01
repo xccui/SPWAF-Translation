@@ -16745,8 +16745,8 @@
       <tuv lang="EN-US">
         <seg>Improving on the first generation, the next generation of distributed open source stream processors (2013) provided better failure guarantees and ensured that in case of a failure each input record affects the result exactly once.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053230Z" creationid="xccui" creationdate="20190605T053117Z">
-        <seg>和第一代开源分布式流处理引擎相比，第二代引擎（2013年）提供了更加完善的故障处理机制，即便出现故障，也能保证每条记录仅参与一次结果运算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T194051Z" creationid="xccui" creationdate="20190605T053117Z">
+        <seg>和第一代开源分布式流处理引擎相比，第二代引擎（2013年）提供了更加完善的故障处理机制——即便出现故障，也能保证每条记录仅参与一次结果运算。</seg>
       </tuv>
     </tu>
     <tu>
