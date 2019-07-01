@@ -29394,8 +29394,8 @@
       <tuv lang="EN-US">
         <seg>This book covers the DataStream API and process functions, which provide primitives for common stream processing operations, such as windowing and asynchronous operations, and interfaces to precisely control state and time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T064118Z" creationid="xccui" creationdate="20190605T060812Z">
-        <seg>本书涵盖了DataStream API和处理函数的相关内容，它们提供了通用的流处理操作原语（如：窗口划分、异步操作）以及精确控制时间和状态的接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195507Z" creationid="xccui" creationdate="20190605T060812Z">
+        <seg>本书涵盖了DataStream API和处理函数（process function）的相关内容，它们提供了通用的流处理操作原语（如：窗口划分、异步操作）以及精确控制时间和状态的接口。</seg>
       </tuv>
     </tu>
     <tu>
