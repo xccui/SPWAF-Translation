@@ -11839,6 +11839,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-3 shows how to implement the previous example with the shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T022755Z" creationid="xccui" creationdate="20190701T022755Z">
+        <seg>示例7-3展示了如何利用简写来实现上一个示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T022801Z" creationid="xccui" creationdate="20190701T022801Z">
+        <seg>示例7-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
@@ -22852,6 +22868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144644Z" creationid="xccui" creationdate="20190418T035333Z">
         <seg>保存点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scala DataStream API shortcut for a FlatMap with a keyed ValueState</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023016Z" creationid="xccui" creationdate="20190701T023016Z">
+        <seg>利用Scala DataStream API简写只有一个键值分区ValueState的FlatMap。</seg>
       </tuv>
     </tu>
     <tu>
