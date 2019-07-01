@@ -26456,6 +26456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first field of the tuple holds the input record to flatMap, and the second field holds an Option of the retrieved state for the key of the processed record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T034040Z" creationid="xccui" creationdate="20190701T034040Z">
+        <seg>参数元组的第一个字段是flatMap的输入记录，第二个字段是一个Option对象，其中保存了针对当前记录键值的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first generation of distributed open source stream processors (2011) focused on event processing with millisecond latencies and provided guarantees against loss of events in the case of failures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T050830Z" creationid="xccui" creationdate="20190605T050830Z">
