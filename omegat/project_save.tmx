@@ -16431,6 +16431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If we</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061843Z" creationid="xccui" creationdate="20190701T061843Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If we only consider how much data we receive within one minute, our results will vary and depend on the speed of the network connection or the speed of the processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T143249Z" creationid="xccui" creationdate="20190412T142831Z">
@@ -34813,6 +34821,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032948Z" creationid="xccui" creationdate="20190626T032948Z">
         <seg>窗口包含的不同状态如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>distribution behavior when the HighTempCounter function is rescaled, we can imple‐ ment the snapshotState() method so that it splits its count into multiple partial counts as shown in Example 7-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062256Z" creationid="xccui" creationdate="20190701T062256Z">
+        <seg>如示例7-5所示，为了让状态在HighTempCounter函数扩缩容时分布地更好，我们可以在snapshotState()方法中将计数值分成多个子部分。</seg>
       </tuv>
     </tu>
     <tu>
