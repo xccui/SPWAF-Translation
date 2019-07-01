@@ -16407,6 +16407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are more parallel subtasks than state objects, some subtasks are started with no state, and the restoreState() method is called with an empty list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061347Z" creationid="xccui" creationdate="20190701T061347Z">
+        <seg>如果并行子任务的数量多于状态对象，那么有些子任务在启动时就会获取不到状态，此时传入restoreState()方法的就会是一个空列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this is not possible, for example because the application runs in a stand-alone cluster, the JobManager is not able to restart the application until enough slots become available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T210324Z" creationid="xccui" creationdate="20190428T210135Z">
@@ -20107,6 +20115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190312T212225Z" creationid="xccui" creationdate="20190308T074008Z">
         <seg>只需要访问本地状态。和查询远程数据存储系统相比，读写本地内存或磁盘性能会更好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looking again at the HighTempCounter function in Example 7-4, we see that each par‐ allel instance of the operator exposes its state as a list with a single entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061533Z" creationid="xccui" creationdate="20190701T061533Z">
+        <seg>回顾一下示例7-4中的HighTempCounter函数，每个算子并行实例所提供的状态列表都只包含了一个项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32837,6 +32853,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055232Z" creationid="xccui" creationdate="20190623T055127Z">
         <seg>如果滑动间隔小于窗口大小，则窗口会出现重叠，此时元素会被分配给多个窗口；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the state of a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061208Z" creationid="xccui" creationdate="20190701T061208Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
