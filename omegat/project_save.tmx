@@ -25416,6 +25416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Streaming applications are supposed to run continuously and must recover from fail‐ ures, such as failing machines or processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203549Z" creationid="xccui" creationdate="20190702T203549Z">
+        <seg>连续运行的流式应用需要具备从故障（例如机器或进程故障）中恢复的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Streaming applications are typically designed to run 24/7.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143458Z" creationid="xccui" creationdate="20190424T064357Z">
@@ -30536,6 +30544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This needs to be taken into</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203026Z" creationid="xccui" creationdate="20190702T203026Z">
+        <seg>你在实现接口时需要考虑到这点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This partitioning strategy must be used with</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045954Z" creationid="xccui" creationdate="20190616T045912Z">
@@ -34884,6 +34900,14 @@
         <seg>access intermediate data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T205838Z" creationid="esouser" creationdate="20190603T205838Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>account when implementing the interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203051Z" creationid="xccui" creationdate="20190702T203051Z">
         <seg></seg>
       </tuv>
     </tu>
