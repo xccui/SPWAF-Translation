@@ -28032,6 +28032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The method is called with a FunctionInitializationContext object that provides access to an Operator StateStore and a KeyedStateStore object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064526Z" creationid="xccui" creationdate="20190702T064526Z">
+        <seg>该方法在调用时会传入一个FunctionInitializationContext对象，我们可以利用它访问Operator StateStore及KeyedStateStore对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The method is called with a list of state objects and has to restore the state of the operator based on these objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T051344Z" creationid="xccui" creationdate="20190701T051344Z">
@@ -30028,6 +30036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213217Z" creationid="xccui" creationdate="20190609T213202Z">
         <seg>这样可以为更高优先级的应用腾出集群资源，或者在输入数据不连续的情况下及时释放资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This happens when an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064346Z" creationid="xccui" creationdate="20190702T064346Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
