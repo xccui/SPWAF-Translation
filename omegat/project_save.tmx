@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// check if we have a threshold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042721Z" creationid="xccui" creationdate="20190702T042721Z">
+        <seg>// 检查阈值是否已经存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// check if we may forward the reading if (forwardingEnabled.value()) { out.collect(reading)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032301Z" creationid="xccui" creationdate="20190622T032301Z">
@@ -1640,8 +1648,8 @@
       <tuv lang="EN-US">
         <seg>// configure a new threshold for the sensor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042607Z" creationid="xccui" creationdate="20190702T042607Z">
-        <seg>// 为传感器配置新的阈值</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042639Z" creationid="xccui" creationdate="20190702T042607Z">
+        <seg>// 为指定传感器配置新的阈值</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// get read-only broadcast state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042705Z" creationid="xccui" creationdate="20190702T042705Z">
+        <seg>// 获取只读广播状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 1 hour windows with 15 min offset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054519Z" creationid="xccui" creationdate="20190623T054519Z">
@@ -2400,8 +2416,8 @@
       <tuv lang="EN-US">
         <seg>// remove threshold for the sensor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042618Z" creationid="xccui" creationdate="20190702T042618Z">
-        <seg>// 删除传感器阈值</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042634Z" creationid="xccui" creationdate="20190702T042618Z">
+        <seg>// 删除该传感器的阈值</seg>
       </tuv>
     </tu>
     <tu>
@@ -37113,6 +37129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def processElement( reading: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042650Z" creationid="xccui" creationdate="20190702T042650Z">
+        <seg>override def processElement( reading: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def processElement1( reading: SensorReading,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032232Z" creationid="xccui" creationdate="20190622T032232Z">
@@ -37549,6 +37573,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155839Z" creationid="xingcan" creationdate="20190628T155839Z">
         <seg>r: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>readOnlyCtx: KeyedBroadcastProcessFunction [String, SensorReading, ThresholdUpdate, (String, Double, Double)]#ReadOnlyContext,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042654Z" creationid="xccui" creationdate="20190702T042654Z">
+        <seg>readOnlyCtx: KeyedBroadcastProcessFunction [String, SensorReading, ThresholdUpdate, (String, Double, Double)]#ReadOnlyContext,</seg>
       </tuv>
     </tu>
     <tu>
@@ -38053,6 +38085,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044856Z" creationid="xccui" creationdate="20190617T044856Z">
         <seg>this.name = name;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thresholds.put(update.id, update.threshold)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042642Z" creationid="xccui" creationdate="20190702T042642Z">
+        <seg>thresholds.put(update.id, update.threshold)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thresholds.remove(update.id)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042645Z" creationid="xccui" creationdate="20190702T042645Z">
+        <seg>thresholds.remove(update.id)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39173,6 +39221,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042554Z" creationid="xccui" creationdate="20190702T042554Z">
         <seg>val thresholds = ctx.getBroadcastState(thresholdStateDescriptor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val thresholds = readOnlyCtx.getBroadcastState(thresholdStateDescriptor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042707Z" creationid="xccui" creationdate="20190702T042707Z">
+        <seg>val thresholds = readOnlyCtx.getBroadcastState(thresholdStateDescriptor)</seg>
       </tuv>
     </tu>
     <tu>
