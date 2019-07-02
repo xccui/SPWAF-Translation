@@ -10785,8 +10785,8 @@
       <tuv lang="EN-US">
         <seg>Depending on whether the other stream is keyed or not, a KeyedBroadcastProcessFunction or BroadcastPro cessFunction can be applied.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041041Z" creationid="xccui" creationdate="20190702T041041Z">
-        <seg>根据另一条流是否是按照键值过区的，该函数可能是KeyedBroadcastProcessFunction或BroadcastProcessFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041206Z" creationid="xccui" creationdate="20190702T041041Z">
+        <seg>根据另一条流是否已经按键值分区，该函数可能是KeyedBroadcastProcessFunction或BroadcastProcessFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12203,6 +12203,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024131Z" creationid="xccui" creationdate="20190702T024131Z">
         <seg>示例7-6，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-7 shows the implementation of a KeyedBroadcastProcessFunction that supports the dynamic configuration of sensor thresholds at runtime.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041312Z" creationid="xccui" creationdate="20190702T041312Z">
+        <seg>示例7-7展示了一个KeyedBroadcastProcessFunction的实现，它支持在运行时动态配置传感器阈值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041315Z" creationid="xccui" creationdate="20190702T041315Z">
+        <seg>示例7-7，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16827,6 +16843,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064202Z" creationid="xccui" creationdate="20190630T064202Z">
         <seg>实现带有键值分区ValueState的FlatMapFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementing a KeyedBroadcastProcessFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041324Z" creationid="xccui" creationdate="20190702T041324Z">
+        <seg>实现KeyedBroadcastProcessFunction</seg>
       </tuv>
     </tu>
     <tu>
