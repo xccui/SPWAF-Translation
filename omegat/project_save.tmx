@@ -21047,6 +21047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More‐ over, in combination with the CheckpointListener interface, the snapshotState() method can be used to consistently write data to external datastores by synchronizing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071818Z" creationid="xccui" creationdate="20190702T071818Z">
+        <seg>此外，该方法还可以与CheckpointListener接口结合使用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More‐ over, the data often needs to be transformed into a common format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T072352Z" creationid="esouser" creationdate="20190603T202046Z">
@@ -23780,6 +23788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025635Z" creationid="xccui" creationdate="20190225T025635Z">
         <seg>安全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 3 for details on how operator list union state is distributed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071938Z" creationid="xccui" creationdate="20190702T071938Z">
+        <seg>有关算子列表状态在实例上进行分配的详细信息请参阅第3章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28516,6 +28532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010104Z" creationid="xccui" creationdate="20190612T010104Z">
         <seg>项目所包含的两个骨架文件，BatchJob.scala和StreamingJob.scala，可以作为你程序的起点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of the snapshotState()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071540Z" creationid="xccui" creationdate="20190702T071540Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -36715,8 +36739,8 @@
       <tuv lang="EN-US">
         <seg>method is to ensure all state objects are updated before the checkpoint is done.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071538Z" creationid="xccui" creationdate="20190702T071538Z">
-        <seg>snapshotState()方法的目的是全包检查点开始之前所有状态对象都已更新完毕。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071731Z" creationid="xccui" creationdate="20190702T071538Z">
+        <seg>snapshotState()方法的目的是确保检查点开始之前所有状态对象都已更新完毕。</seg>
       </tuv>
     </tu>
     <tu>
