@@ -15215,6 +15215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For some operators it can be important to know whether a checkpoint completed or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T171255Z" creationid="xccui" creationdate="20190702T171255Z">
+        <seg>对一些算子而言，了解检查点的完成情况尤为重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For some storage systems, Flink provides sink functions that feature exactly-once output, for example, by committing emitted records on checkpoint completion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T054217Z" creationid="xccui" creationdate="20190609T053939Z">
