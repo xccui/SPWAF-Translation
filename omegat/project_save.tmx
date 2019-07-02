@@ -11143,6 +11143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to its checkpointing mechanism, Flink can achieve very good performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163923Z" creationid="xccui" creationdate="20190702T163923Z">
+        <seg>得益于该检查点机制，Flink的性能会非常高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the append-only property of the log, events are always published to all consumers in exactly the same order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T060020Z" creationid="xccui" creationdate="20190305T054916Z">
@@ -16043,6 +16051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190301T040639Z" creationid="xccui" creationdate="20190301T034022Z">
         <seg>虽说如此，但对Hadoop生态中的存储系统和执行引擎而言，其基础工作模式仍和传统数据仓库的架构保持一致，即周期性地将数据提取加载到数据存储系统，随后以批处理的方式执行定期或ad-hoc查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, another implication is that the state of an application is never in a consis‐ tent state except for the logical points in time when a checkpoint is taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T164144Z" creationid="xccui" creationdate="20190702T164144Z">
+        <seg>然而这也意味着应用程序的状态永远无法做到强一致，</seg>
       </tuv>
     </tu>
     <tu>
