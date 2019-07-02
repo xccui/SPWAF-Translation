@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create keyed state descriptor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041828Z" creationid="xccui" creationdate="20190702T041828Z">
+        <seg>// 创建键值分区状态描述符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create processing-time session windows with a 15 min gap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061550Z" creationid="xccui" creationdate="20190623T061550Z">
