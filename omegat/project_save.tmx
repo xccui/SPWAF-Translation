@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"thresholds", classOf[String], classOf[Double])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041352Z" creationid="xccui" creationdate="20190702T041352Z">
+        <seg>"thresholds", classOf[String], classOf[Double])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#OnTimerContext, out: Collector[SensorReading]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032607Z" creationid="xccui" creationdate="20190622T032607Z">
@@ -2626,6 +2634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041348Z" creationid="xccui" creationdate="20190702T041348Z">
         <seg>// 广播状态的描述符 private lazy val thresholdStateDescriptor = new MapStateDescriptor[String, Double](</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// the keyed state handle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041407Z" creationid="xccui" creationdate="20190702T041407Z">
+        <seg>// 键值状态句柄</seg>
       </tuv>
     </tu>
     <tu>
