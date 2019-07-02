@@ -2686,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// temperature increased by more than the threshold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042813Z" creationid="xccui" creationdate="20190702T042813Z">
+        <seg>// 温度增加超过阈值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// the descriptor of the broadcast state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024323Z" creationid="xccui" creationdate="20190702T024323Z">
@@ -35857,10 +35865,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (tempDiff &gt; sensorThreshold) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042750Z" creationid="xccui" creationdate="20190702T042750Z">
+        <seg>if (tempDiff &gt; sensorThreshold) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if (tempDiff &gt; threshold) {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064454Z" creationid="xccui" creationdate="20190630T064454Z">
         <seg>if (tempDiff &gt; threshold) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (thresholds.contains(reading.id)) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042743Z" creationid="xccui" creationdate="20190702T042743Z">
+        <seg>if (thresholds.contains(reading.id)) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -39125,6 +39149,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042637Z" creationid="xccui" creationdate="20190618T042637Z">
         <seg>val sensorStream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorThreshold: Double = thresholds.get(reading.id)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042746Z" creationid="xccui" creationdate="20190702T042746Z">
+        <seg>val sensorThreshold: Double = thresholds.get(reading.id)</seg>
       </tuv>
     </tu>
     <tu>
