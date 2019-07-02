@@ -34737,6 +34737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>broadcast input does not specify a key, the state backend cannot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054032Z" creationid="xccui" creationdate="20190702T054032Z">
+        <seg>因为广播输入没有指定键值，状态后端无法访问键值分区的状态值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>broadcasted stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024120Z" creationid="xccui" creationdate="20190702T024120Z">
