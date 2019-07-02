@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// initialize keyed state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162956Z" creationid="xccui" creationdate="20190702T162956Z">
+        <seg>// 初始化键值分区状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// key by sensor id</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070917Z" creationid="xccui" creationdate="20190621T070917Z">
@@ -37445,6 +37453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044223Z" creationid="xccui" creationdate="20190626T044223Z">
         <seg>override def getWindowSerializer(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def initializeState(initContext: FunctionInitializationContext): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162946Z" creationid="xccui" creationdate="20190702T162946Z">
+        <seg>override def initializeState(initContext: FunctionInitializationContext): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
