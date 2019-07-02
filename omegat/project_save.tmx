@@ -17287,6 +17287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, both context objects also provide access to the event-time timestamp, the current watermark, the current processing time, and the side outputs, similar to the context objects of other process functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053527Z" creationid="xccui" creationdate="20190702T053527Z">
+        <seg>此外，和其他处理函数的上下文对象类似，这两个上下文对象也支持访问状态时间戳、当前水位线、当前处理时间以及副输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, program&lt;t0/&gt;‐&lt;t1/&gt; ming APIs evolved from rather low-level operator interfaces to high-level APIs with more built-in primitives.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T035008Z" creationid="xccui" creationdate="20190327T034928Z">
