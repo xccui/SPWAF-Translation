@@ -16703,6 +16703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the task is restarted due to a failure or from a save‐ point, the state will be initialized from the saved data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T065621Z" creationid="xccui" creationdate="20190702T065621Z">
+        <seg>如果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the window only has an incremetal aggregation function (ReduceFunction or AggregateFunction) the current aggregation result is emit‐ ted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184600Z" creationid="xccui" creationdate="20190626T184537Z">
@@ -38491,8 +38499,8 @@
       <tuv lang="EN-US">
         <seg>to initialize the state by checking if the state backend holds state for the function reg‐ istered under the given name.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T065448Z" creationid="xccui" creationdate="20190702T065114Z">
-        <seg>状态存储会通过检查状态后端是否存在以给定名称在函数中注册的状态来尝试对状态进行初始化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T070144Z" creationid="xccui" creationdate="20190702T065114Z">
+        <seg>状态存储首先会利用给定名称检查状态后端中是否存在一个为当前函数注册过的同名状态，并尝试用它对状态进行初始化。</seg>
       </tuv>
     </tu>
     <tu>
