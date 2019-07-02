@@ -27744,6 +27744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The initializeState() method is called when a par‐ allel instance of CheckpointedFunction is created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064300Z" creationid="xccui" creationdate="20190702T064300Z">
+        <seg>initializeState()方法会在创建CheckpointedFunction的并行实例时调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The interface defines an input type, IN, an accumulator of type ACC, and a result type OUT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005027Z" creationid="xccui" creationdate="20190624T005027Z">
@@ -36317,6 +36325,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050306Z" creationid="xccui" creationdate="20190620T050306Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is started or when a task is restarted due to a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064344Z" creationid="xccui" creationdate="20190702T064344Z">
+        <seg>它的触发时机是应用启动或由于故障而重启任务。</seg>
       </tuv>
     </tu>
     <tu>
