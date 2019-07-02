@@ -15231,6 +15231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FunctionSnapshotCon text gives access to the unique identifier of the checkpoint and the timestamp when the JobManager initiates the checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071501Z" creationid="xccui" creationdate="20190702T071501Z">
+        <seg>从FunctionSnapshotContext中，我们可以得到检查点的唯一标识以及JobManager初始化检查点时的时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions Must Be Java Serializable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055059Z" creationid="xccui" creationdate="20190618T055059Z">
@@ -36701,6 +36709,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060718Z" creationid="xccui" creationdate="20190621T060718Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method is to ensure all state objects are updated before the checkpoint is done.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071538Z" creationid="xccui" creationdate="20190702T071538Z">
+        <seg>snapshotState()方法的目的是全包检查点开始之前所有状态对象都已更新完毕。</seg>
       </tuv>
     </tu>
     <tu>
