@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// configure a new threshold for the sensor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042607Z" creationid="xccui" creationdate="20190702T042607Z">
+        <seg>// 为传感器配置新的阈值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// connect keyed sensor stream and broadcasted rules stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024501Z" creationid="xccui" creationdate="20190702T024501Z">
@@ -2026,6 +2034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051127Z" creationid="xccui" creationdate="20190620T051127Z">
         <seg>// 生成具有1分钟容忍度的水位线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// get broadcasted state handle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042551Z" creationid="xccui" creationdate="20190702T042551Z">
+        <seg>// 获取广播状态句柄</seg>
       </tuv>
     </tu>
     <tu>
@@ -34289,6 +34305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[String, SensorReading, ThresholdUpdate, (String, Double, Double)]#Context, out: Collector[(String, Double, Double)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042536Z" creationid="xccui" creationdate="20190702T042536Z">
+        <seg>[String, SensorReading, ThresholdUpdate, (String, Double, Double)]#Context, out: Collector[(String, Double, Double)]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004818Z" creationid="xccui" creationdate="20190612T004818Z">
@@ -35037,6 +35061,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031921Z" creationid="xccui" creationdate="20190625T031921Z">
         <seg>ctx: Context,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctx: KeyedBroadcastProcessFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042531Z" creationid="xccui" creationdate="20190702T042531Z">
+        <seg>ctx: KeyedBroadcastProcessFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -35813,6 +35845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200703Z" creationid="xccui" creationdate="20190626T200703Z">
         <seg>if (timestamp == window.getEnd) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (update.threshold != 0.0d) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042556Z" creationid="xccui" creationdate="20190702T042556Z">
+        <seg>if (update.threshold != 0.0d) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -37045,6 +37085,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031916Z" creationid="xccui" creationdate="20190625T031916Z">
         <seg>override def process( key: String,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def processBroadcastElement( update: ThresholdUpdate,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042524Z" creationid="xccui" creationdate="20190702T042524Z">
+        <seg>override def processBroadcastElement( update: ThresholdUpdate,</seg>
       </tuv>
     </tu>
     <tu>
@@ -38721,6 +38769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val lastTempDescriptor = new ValueStateDescriptor[Double]( "lastTemp", classOf[Double])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042520Z" creationid="xccui" creationdate="20190702T042520Z">
+        <seg>val lastTempDescriptor = new ValueStateDescriptor[Double]( "lastTemp", classOf[Double])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val lateReadings: DataStream[SensorReading] = filteredReadings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155643Z" creationid="xingcan" creationdate="20190628T155643Z">
@@ -39101,6 +39157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031930Z" creationid="xccui" creationdate="20190625T031930Z">
         <seg>val temps = vals.map(_.temperature)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val thresholds = ctx.getBroadcastState(thresholdStateDescriptor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042554Z" creationid="xccui" creationdate="20190702T042554Z">
+        <seg>val thresholds = ctx.getBroadcastState(thresholdStateDescriptor)</seg>
       </tuv>
     </tu>
     <tu>
