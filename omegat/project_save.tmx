@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// get threshold for sensor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042738Z" creationid="xccui" creationdate="20190702T042738Z">
+        <seg>// 获取指定传感器的阈值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// group readings in 1 hour windows with 15 min offset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054519Z" creationid="xccui" creationdate="20190623T054519Z">
