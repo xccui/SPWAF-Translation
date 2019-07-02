@@ -22490,8 +22490,8 @@
       <tuv lang="EN-US">
         <seg>Operators that need to be notified about completed check‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202152Z" creationid="xccui" creationdate="20190702T202152Z">
-        <seg>需要对检查点创建成功进行感知的算子可以实现CheckpointListener接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202324Z" creationid="xccui" creationdate="20190702T202152Z">
+        <seg>需要感知检查点创建成功的算子可以实现CheckpointListener接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30312,6 +30312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This interface provides the notifyCheckpointComplete(long chkpntId) method, which might be called when the JobManager registers a checkpoint as completed—when all operators successfully</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202645Z" creationid="xccui" creationdate="20190702T202645Z">
+        <seg>该接口提供的notifyCheckpointComplete(long chkpntId)方法，会在JobManager将检查点注册为完成时，即所有算子都成功将其状态写入远程存储后，被调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a common strat‐ egy to produce (incomplete) low-latency results despite using a conservative water‐ marking strategy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184214Z" creationid="xccui" creationdate="20190626T183949Z">
@@ -37852,6 +37860,14 @@
         <seg>point.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194324Z" creationid="xccui" creationdate="20190626T194324Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>points can implement the CheckpointListener interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202327Z" creationid="xccui" creationdate="20190702T202327Z">
         <seg></seg>
       </tuv>
     </tu>
