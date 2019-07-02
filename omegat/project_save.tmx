@@ -8951,6 +8951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BroadcastStream must be put as an argument in the connect() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040905Z" creationid="xccui" creationdate="20190702T040905Z">
+        <seg>BroadcastStream必须以参数形式传给connect()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buffering is a mandatory technique to fully utilize the bandwidth of network connections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T210224Z" creationid="esouser" creationdate="20190513T210224Z">
@@ -10771,6 +10779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154401Z" creationid="xccui" creationdate="20190605T041712Z">
         <seg>根据用例的不同，转存的数据可能需要归一化，利用外部输入丰富数据或在写入目标存储之前进行数据聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on whether the other stream is keyed or not, a KeyedBroadcastProcessFunction or BroadcastPro cessFunction can be applied.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041041Z" creationid="xccui" creationdate="20190702T041041Z">
+        <seg>根据另一条流是否是按照键值过区的，该函数可能是KeyedBroadcastProcessFunction或BroadcastProcessFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33725,6 +33741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T042338Z" creationid="xccui" creationdate="20190605T224647Z">
         <seg>还了解了开源流处理领域的发展过程以及Flink流式应用的模样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You apply a function on the connected streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040931Z" creationid="xccui" creationdate="20190702T040931Z">
+        <seg>在联结后的数据流上应用一个函数。</seg>
       </tuv>
     </tu>
     <tu>
