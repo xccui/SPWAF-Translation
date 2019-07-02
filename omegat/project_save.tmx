@@ -9049,8 +9049,8 @@
       <tuv lang="EN-US">
         <seg>BroadcastProcessFunction and KeyedBroadcastProcessFunction differ from a regular CoProcessFunction because the element processing methods are not sym‐ metric.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T045716Z" creationid="xccui" creationdate="20190702T045716Z">
-        <seg>BroadcastProcessFunction和KeyedBroadcastProcessFunction与常规CoProcessFunction不同，它们的元素处理方法不是对称的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T045838Z" creationid="xccui" creationdate="20190702T045716Z">
+        <seg>BroadcastProcessFunction和KeyedBroadcastProcessFunction与常规CoProcessFunction不同，它们针对两条流内元素的处理方法是非对称的。</seg>
       </tuv>
     </tu>
     <tu>
