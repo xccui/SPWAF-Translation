@@ -2558,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set checkpointing interval to 10 seconds (10000 milliseconds)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204847Z" creationid="xccui" creationdate="20190702T204847Z">
+        <seg>// 将检查点的生成周期设置为10秒（10000毫秒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set disable forward timer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032334Z" creationid="xccui" creationdate="20190622T032334Z">
@@ -27096,6 +27104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The checkpointing interval is an important parameter that affects the overhead of the checkpointing mechanism during regular processing and the time it takes to recover from a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T205252Z" creationid="xccui" creationdate="20190702T205252Z">
+        <seg>检查点间隔是影响常规处理期间检查点机制的开销以及故障恢复所需时间的一个重要参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The choice also affects the performance of a function because each state backend provides its own implementations for these primitives.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T041207Z" creationid="xccui" creationdate="20190630T041207Z">
@@ -35917,6 +35933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051430Z" creationid="xccui" creationdate="20190612T051430Z">
         <seg>env.addSource(new SensorSource)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.enableCheckpointing(10000L)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204850Z" creationid="xccui" creationdate="20190702T204850Z">
+        <seg>env.enableCheckpointing(10000L)</seg>
       </tuv>
     </tu>
     <tu>
