@@ -32792,6 +32792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We discuss these options in more detail in “Tuning Checkpointing and Recovery” on page 263.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T211306Z" creationid="xccui" creationdate="20190702T211306Z">
+        <seg>我们会在第263页"调节检查点和恢复"一节详细讨论这些选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We discuss this difference later in this chapter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184754Z" creationid="xccui" creationdate="20190607T184716Z">
