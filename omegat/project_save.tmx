@@ -33929,6 +33929,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You create a BroadcastStream by calling DataStream.broadcast() and provid‐ ing one or more MapStateDescriptor objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040524Z" creationid="xccui" creationdate="20190702T040524Z">
+        <seg>调用DataStream.broadcast()方法创建一个BroadcastStream并提供一个以上MapStateDescriptor对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not need to contact us for permission unless you’re reproducing a significant portion of the code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210817Z" creationid="esouser" creationdate="20190603T210817Z">
