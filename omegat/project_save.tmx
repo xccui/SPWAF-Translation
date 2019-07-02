@@ -9047,6 +9047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BroadcastProcessFunction and KeyedBroadcastProcessFunction differ from a regular CoProcessFunction because the element processing methods are not sym‐ metric.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T045716Z" creationid="xccui" creationdate="20190702T045716Z">
+        <seg>BroadcastProcessFunction和KeyedBroadcastProcessFunction与常规CoProcessFunction不同，它们的元素处理方法不是对称的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BroadcastStream must be put as an argument in the connect() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040905Z" creationid="xccui" creationdate="20190702T040905Z">
