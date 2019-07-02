@@ -14143,6 +14143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink features savepoints to maintain applications and their states.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212746Z" creationid="xccui" creationdate="20190702T212746Z">
+        <seg>Flink利用保存点机制来对应用及其状态进行维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink for a while without ever needing to worry about TypeInformation for your data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052704Z" creationid="xccui" creationdate="20190617T052631Z">
@@ -29788,6 +29796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054924Z" creationid="xccui" creationdate="20190618T054924Z">
         <seg>这样在对象反序列化后，全部配置值都可以保留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, it is important that application state can be migrated to a new version of the application or be redistributed to more or fewer operator tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212646Z" creationid="xccui" creationdate="20190702T212646Z">
+        <seg>所以说，能够将应用状态迁移到一个新版本的应用或重新分配到不同数量的算子任务上就变得十分重要。</seg>
       </tuv>
     </tu>
     <tu>
