@@ -19433,8 +19433,8 @@
       <tuv lang="EN-US">
         <seg>Instead, the context of the KeyedBroadcastProcessFunction.processBroad castElement() method provides a method applyToKeyed State(StateDescriptor,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054435Z" creationid="xccui" creationdate="20190702T054435Z">
-        <seg>相反，KeyedBroadcastProcessFunction.processBroadcastElement()方法的上下文提供了一个applyToKeyed State(StateDescriptor， KeyedStateFunction)方法，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054747Z" creationid="xccui" creationdate="20190702T054435Z">
+        <seg>作为替代，该方法的上下文提供了一个applyToKeyedState(StateDescriptor, KeyedStateFunction)方法，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20241,8 +20241,16 @@
       <tuv lang="EN-US">
         <seg>KeyedStateFunction to the value of each key in the keyed state ref‐ erenced by the StateDescriptor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054650Z" creationid="xccui" creationdate="20190702T054650Z">
-        <seg>它可以将KeyedStateFunction应用于StateDescriptor所引用的键值分区状态里面每个键值所对应的状态值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055151Z" creationid="xccui" creationdate="20190702T054650Z">
+        <seg>可以对StateDescriptor所引用的键值分区状态内每个键值所对应的状态值应用KeyedStateFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KeyedStateFunction)  to   apply  a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054819Z" creationid="xccui" creationdate="20190702T054819Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -21497,8 +21505,8 @@
       <tuv lang="EN-US">
         <seg>Note that you should not access keyed state from the processBroadcastEle ment() method of KeyedBroadcastProcessFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054303Z" creationid="xccui" creationdate="20190702T053934Z">
-        <seg>注意，由于广播输入一侧没有指定键值，状态后端就无法访问键值分区的状态值，所以你不能从KeyedBroadcastProcessFunction的processBroadcastElement()方法中访问键值分区状态，强行这么做会使状态后端抛出异常。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054919Z" creationid="xccui" creationdate="20190702T053934Z">
+        <seg>注意，由于广播输入一侧没有指定键值，状态后端无法访问键值分区的状态值，所以你不能从KeyedBroadcastProcessFunction的processBroadcastElement()方法中访问键值分区状态，强行这么做会使状态后端抛出异常。</seg>
       </tuv>
     </tu>
     <tu>
