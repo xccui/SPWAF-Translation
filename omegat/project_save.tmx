@@ -8983,6 +8983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both context objects offer a method getBroad castState(MapStateDescriptor) that provides access to a broadcast state handle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051303Z" creationid="xccui" creationdate="20190702T051303Z">
+        <seg>虽然两个上下文对象都提供了getBroadcastState(MapStateDescriptor)方法来获得广播状态句柄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both functions are typed on the types of the first and second input stream and on the type of the output stream and define two methods—one for each input.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041643Z" creationid="xccui" creationdate="20190615T041305Z">
@@ -16091,6 +16099,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T015901Z" creationid="xccui" creationdate="20190327T015901Z">
         <seg>但它有很多不足之处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the broadcast state handle that is returned in the processElement()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051348Z" creationid="xccui" creationdate="20190702T051348Z">
+        <seg>但processElement()方法返回的句柄对广播状态</seg>
       </tuv>
     </tu>
     <tu>
