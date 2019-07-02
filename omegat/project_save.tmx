@@ -16105,8 +16105,8 @@
       <tuv lang="EN-US">
         <seg>However, the broadcast state handle that is returned in the processElement()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051348Z" creationid="xccui" creationdate="20190702T051348Z">
-        <seg>但processElement()方法返回的句柄对广播状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051404Z" creationid="xccui" creationdate="20190702T051348Z">
+        <seg>但processElement()方法返回的句柄对广播状态是只读的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29944,6 +29944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a safety mechanism</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051548Z" creationid="xccui" creationdate="20190702T051548Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is also the reason it is not a good idea to override existing timestamps and watermarks in the middle of a streaming application, although this is possible with user-defined functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T041209Z" creationid="xccui" creationdate="20190607T041148Z">
@@ -36481,6 +36489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>method provides read-only access to the broadcast state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051407Z" creationid="xccui" creationdate="20190702T051407Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>method will replace existing values with the given list of values.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055530Z" creationid="xccui" creationdate="20190630T055530Z">
@@ -38261,6 +38277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071459Z" creationid="xccui" creationdate="20190619T071459Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to ensure the broadcast state holds the same information in all parallel instances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053159Z" creationid="xccui" creationdate="20190702T051544Z">
+        <seg>这其实是一种安全机制，用于确保所有并行实例中广播状态所保存的信息完全相同。</seg>
       </tuv>
     </tu>
     <tu>
