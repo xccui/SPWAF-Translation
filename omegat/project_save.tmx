@@ -34625,6 +34625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and is the only interface that gives access to operator list union state—the operator state that is fully replicated in the case of a recovery or savepoint restart.3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063515Z" creationid="xccui" creationdate="20190702T063515Z">
+        <seg>并且是唯一可以访问算子联合列表状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and processes the elements that are assigned to a window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T040102Z" creationid="xccui" creationdate="20190622T040102Z">
