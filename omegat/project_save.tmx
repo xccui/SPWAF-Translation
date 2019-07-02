@@ -12113,8 +12113,8 @@
       <tuv lang="EN-US">
         <seg>Example 7-6 shows how to implement a tem‐ perature alert application with thresholds that can be dynamically configured via a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T204421Z" creationid="xccui" creationdate="20190701T204421Z">
-        <seg>示例7-6</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024117Z" creationid="xccui" creationdate="20190701T204421Z">
+        <seg>示例7-6展示了如何实现用广播流动态配置阈值的温度报警应用。</seg>
       </tuv>
     </tu>
     <tu>
