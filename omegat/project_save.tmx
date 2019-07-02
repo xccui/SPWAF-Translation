@@ -16527,6 +16527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the application is not started from a checkpoint or savepoint, the state will be initially empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071046Z" creationid="xccui" creationdate="20190702T071046Z">
+        <seg>如果应用不是从检查点或保存点启动，那状态就会初始化为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the application runs in a local execution environment the parallelism is set to match the number of CPU cores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052859Z" creationid="xccui" creationdate="20190616T052859Z">
@@ -16705,8 +16713,8 @@
       <tuv lang="EN-US">
         <seg>If the task is restarted due to a failure or from a save‐ point, the state will be initialized from the saved data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071019Z" creationid="xccui" creationdate="20190702T065621Z">
-        <seg>如果是重启任务（无论由于故障还是从保存点恢复）的情况，那么Flink就会用保存的数据初始化状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071058Z" creationid="xccui" creationdate="20190702T065621Z">
+        <seg>如果是重启任务（无论由于故障还是从保存点恢复）的情况，那Flink就会用保存的数据初始化状态；</seg>
       </tuv>
     </tu>
     <tu>
@@ -28748,6 +28756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060605Z" creationid="xccui" creationdate="20190701T060430Z">
         <seg>snapshotState()方法能够将算子状态分为多个部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The snapshotState() method is called immediately before a checkpoint is taken and receives a FunctionSnapshotContext object as the parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071327Z" creationid="xccui" creationdate="20190702T071327Z">
+        <seg>snapshotState()方法会在生成检查点之前调用，它需要接收一个FunctionSnapshotContext对象作为参数。</seg>
       </tuv>
     </tu>
     <tu>
