@@ -14367,6 +14367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides more tuning knobs to configure the checkpointing behavior, such as the choice of consistency guarantees (exactly-once or at-least-once), the number of concurrent checkpoints, and a timeout to cancel long-running checkpoints, as well as several state backend–specific options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T211038Z" creationid="xccui" creationdate="20190702T211038Z">
+        <seg>Flink还为检查点行为提供了一些其它可供调节的配置选项，例如：一致性保障（精确一次或至少一次）的选择，检查点的并行数量以及用来取消长时间运行的检查点的超时时间，此外还有多个和状态后端相关的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides multiple interfaces to define stateful functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035109Z" creationid="xccui" creationdate="20190630T035109Z">
