@@ -9975,6 +9975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, you should either ensure the value of the broadcast state does not depend on the order in which the broadcasted mes‐ sages are received or ensure the parallelism of the broadcasting operator is set to 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055655Z" creationid="xccui" creationdate="20190702T055655Z">
+        <seg>因此你需要确保广播状态的值不依赖于收到广播消息的顺序，或者将上游广播算子的并行度设置为1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conse‐ quently, GlobalWindows will never be completely cleaned up.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044816Z" creationid="xccui" creationdate="20190626T044806Z">
@@ -28196,6 +28204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203507Z" creationid="xccui" creationdate="20190606T203341Z">
         <seg>图3-5中算子所组成的流水线就满足上述需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The order in which the broadcasted events arrive at the different parallel tasks of the broadcast state operator might differ if the operator that emits the broadcasted messages runs with a parallel‐ ism larger than 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055428Z" creationid="xccui" creationdate="20190702T055428Z">
+        <seg>如果发出广播消息的算子并行度大于1，那么广播事件到达广播状态算子不同并行任务的顺序可能会不同。</seg>
       </tuv>
     </tu>
     <tu>
