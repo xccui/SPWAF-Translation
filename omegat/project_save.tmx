@@ -18127,6 +18127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to provide fault tolerance for an application, the JobManager initiates checkpoints at regular intervals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204550Z" creationid="xccui" creationdate="20190702T204550Z">
+        <seg>为了支持应用容错，JobManager会以固定间隔开始创建检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to satisfy the requirements for task chaining, two or more operators must be configured with the same parallelism and be connected by local forward channels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152052Z" creationid="esouser" creationdate="20190514T152010Z">
