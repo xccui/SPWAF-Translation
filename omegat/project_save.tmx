@@ -9751,6 +9751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checkpoints are implemented based on barriers that flow with the data and therefore avoid global synchronization across all operators of an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163830Z" creationid="xccui" creationdate="20190702T163830Z">
+        <seg>检查点是基于和数据一起流动的分隔符来实现的，因此可以避免在应用所有算子间的全局同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checkpoints are periodically taken and automatically discarded according to a configurable policy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T205603Z" creationid="xccui" creationdate="20190609T205454Z">
@@ -14575,6 +14583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s design aims to reduce synchronization points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163613Z" creationid="xccui" creationdate="20190702T163613Z">
+        <seg>Flink的设计旨在减少同步点的数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s high-availability mode is based on &lt;t0/&gt;Apache ZooKeeper&lt;t1/&gt;, a system for distributed services that require coordination and consensus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190502T045126Z" creationid="xccui" creationdate="20190502T045126Z">
@@ -15283,6 +15299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T030257Z" creationid="xccui" creationdate="20190423T025356Z">
         <seg>框架模式：在本模式下，Flink应用会打包成一个JAR文件并通过客户端提交到运行的服务上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frequent synchronization is a major reason for performance limitations in dis‐ tributed systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163542Z" creationid="xccui" creationdate="20190702T163542Z">
+        <seg>频繁的同步是分布式系统产生性能问题的主要原因。</seg>
       </tuv>
     </tu>
     <tu>
