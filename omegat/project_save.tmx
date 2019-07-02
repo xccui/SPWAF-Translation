@@ -2208,8 +2208,8 @@
       <tuv lang="EN-US">
         <seg>// initialize local variable with state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163338Z" creationid="xccui" creationdate="20190702T163338Z">
-        <seg>// 利用状态初始化本地的变量</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163420Z" creationid="xccui" creationdate="20190702T163338Z">
+        <seg>// 利用算子状态初始化本地的变量</seg>
       </tuv>
     </tu>
     <tu>
