@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// the descriptor of the broadcast state private lazy val thresholdStateDescriptor = new MapStateDescriptor[String, Double](</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041348Z" creationid="xccui" creationdate="20190702T041348Z">
+        <seg>// 广播状态的描述符 private lazy val thresholdStateDescriptor = new MapStateDescriptor[String, Double](</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// the map parallelism is set to double the default parallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061644Z" creationid="xccui" creationdate="20190616T061644Z">
@@ -34233,6 +34241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[String, SensorReading, ThresholdUpdate, (String, Double, Double)] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041333Z" creationid="xccui" creationdate="20190702T041333Z">
+        <seg>[String, SensorReading, ThresholdUpdate, (String, Double, Double)] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004818Z" creationid="xccui" creationdate="20190612T004818Z">
@@ -34869,6 +34885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061912Z" creationid="xccui" creationdate="20190617T061912Z">
         <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>class UpdatableTemperatureAlertFunction() extends KeyedBroadcastProcessFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041330Z" creationid="xccui" creationdate="20190702T041330Z">
+        <seg>class UpdatableTemperatureAlertFunction() extends KeyedBroadcastProcessFunction</seg>
       </tuv>
     </tu>
     <tu>
