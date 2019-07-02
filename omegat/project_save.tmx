@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.connect(broadcastThresholds)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024509Z" creationid="xccui" creationdate="20190702T024509Z">
+        <seg>.connect(broadcastThresholds)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.connect(filterSwitches)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031704Z" creationid="xccui" creationdate="20190622T031704Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T045129Z" creationid="xccui" creationdate="20190623T045129Z">
         <seg>.process(new TemperatureAverager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.process(new UpdatableTemperatureAlertFunction())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024512Z" creationid="xccui" creationdate="20190702T024512Z">
+        <seg>.process(new UpdatableTemperatureAlertFunction())</seg>
       </tuv>
     </tu>
     <tu>
@@ -5826,6 +5842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053826Z" creationid="xccui" creationdate="20190618T053826Z">
         <seg>因此可以通过实现接口或继承抽象类的方式实现函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A function with broadcast state is applied on two streams in three steps:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040401Z" creationid="xccui" creationdate="20190702T040401Z">
+        <seg>使用了广播状态的函数为了应用于两条数据流上需要经过三个步骤：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38101,6 +38125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062427Z" creationid="xccui" creationdate="20190630T062427Z">
         <seg>val alerts: DataStream[(String, Double, Double)] = keyedData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val alerts: DataStream[(String, Double, Double)] = keyedSensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024505Z" creationid="xccui" creationdate="20190702T024505Z">
+        <seg>val alerts: DataStream[(String, Double, Double)] = keyedSensorData</seg>
       </tuv>
     </tu>
     <tu>
