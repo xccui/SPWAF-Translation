@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// emit new counters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162604Z" creationid="xccui" creationdate="20190702T162604Z">
+        <seg>// 发出新的计数器值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// emit update with subtask index and counter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052656Z" creationid="xccui" creationdate="20190701T052656Z">
@@ -2824,8 +2832,8 @@
       <tuv lang="EN-US">
         <seg>// update local operator high temp counter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162458Z" creationid="xccui" creationdate="20190702T162458Z">
-        <seg>// 更新本地的算子实例高温计数器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162537Z" creationid="xccui" creationdate="20190702T162458Z">
+        <seg>// 更新本地算子实例的高温计数器</seg>
       </tuv>
     </tu>
     <tu>
@@ -37233,6 +37241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out.collect((v.id, keyHighTempCnt, opHighTempCnt))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162607Z" creationid="xccui" creationdate="20190702T162607Z">
+        <seg>out.collect((v.id, keyHighTempCnt, opHighTempCnt))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out.collect(MinMaxTemp(key, minMax._2, minMax._3, windowEnd))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045147Z" creationid="xccui" creationdate="20190625T045147Z">
@@ -39173,6 +39189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034323Z" creationid="xccui" creationdate="20190629T034323Z">
         <seg>val isUpdate = ctx.windowState.getState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val keyHighTempCnt = keyedCntState.value() + 1 keyedCntState.update(keyHighTempCnt)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162539Z" creationid="xccui" creationdate="20190702T162539Z">
+        <seg>val keyHighTempCnt = keyedCntState.value() + 1 keyedCntState.update(keyHighTempCnt)</seg>
       </tuv>
     </tu>
     <tu>
