@@ -9055,6 +9055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BroadcastProcessFunc tion does not expose a timer service to register timers and consequently does not offer an onTimer() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053727Z" creationid="xccui" creationdate="20190702T053727Z">
+        <seg>BroadcastProcessFunction没有提供用于注册计时器的时间服务，因此也就没有onTimer()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BroadcastProcessFunction and KeyedBroadcastProcessFunction differ from a regular CoProcessFunction because the element processing methods are not sym‐ metric.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T045838Z" creationid="xccui" creationdate="20190702T045716Z">
@@ -21471,6 +21479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that you should not access keyed state from the processBroadcastEle ment() method of KeyedBroadcastProcessFunction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053934Z" creationid="xccui" creationdate="20190702T053934Z">
+        <seg>注意，你不能从KeyedBroadcastProcessFunction的processBroadcastElement()方法中访问键值分区状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: you can also build the JAR file yourself by following the steps on the repo&lt;t0/&gt;‐&lt;t1/&gt; sitory’s README file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T035840Z" creationid="xccui" creationdate="20190329T035802Z">
@@ -25740,6 +25756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T021648Z" creationid="xccui" creationdate="20190225T021648Z">
         <seg>Apache Flink架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The BroadcastProcessFunction and KeyedBroadcastProcess Function differ from each other as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053632Z" creationid="xccui" creationdate="20190702T053632Z">
+        <seg>BroadcastProcessFunction和KeyedBroadcastProcessFunction本身也有所不同。</seg>
       </tuv>
     </tu>
     <tu>
