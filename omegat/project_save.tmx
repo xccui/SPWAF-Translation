@@ -2640,8 +2640,8 @@
       <tuv lang="EN-US">
         <seg>// the keyed state handle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041407Z" creationid="xccui" creationdate="20190702T041407Z">
-        <seg>// 键值状态句柄</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190702T041407Z">
+        <seg>// 键值分区状态句柄</seg>
       </tuv>
     </tu>
     <tu>
@@ -5720,8 +5720,8 @@
       <tuv lang="EN-US">
         <seg>A common use case for timers is to clear keyed state after some period of inactivity for a key or to implement custom time-based windowing logic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T061800Z" creationid="xccui" creationdate="20190621T061800Z">
-        <seg>它的常见用途是在某些键值不再使用后清除键值状态或实现一些基于时间的自定义窗口逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190621T061800Z">
+        <seg>它的常见用途是在某些键值不再使用后清除键值分区状态或实现一些基于时间的自定义窗口逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7224,8 +7224,8 @@
       <tuv lang="EN-US">
         <seg>All transformations in this section produce a DataStream whereas keyBy() results in a KeyedStream, on which transformation with access to keyed state can be applied.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070620Z" creationid="xccui" creationdate="20190615T070620Z">
-        <seg>所有本节介绍的转换都会生成一个DataStream，而keyBy()会生成一个KeyedStream。基于后者可以应用那些能够访问键值状态的转换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190615T070620Z">
+        <seg>所有本节介绍的转换都会生成一个DataStream，而keyBy()会生成一个KeyedStream。基于后者可以应用那些能够访问键值分区状态的转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7632,8 +7632,8 @@
       <tuv lang="EN-US">
         <seg>An opera‐ tor that is applied on a connected and keyed stream has access to keyed state.3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051502Z" creationid="xccui" creationdate="20190615T051502Z">
-        <seg>应用于已经按照键值分区且已连通数据流上的算子可以访问键值状态。3</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190615T051502Z">
+        <seg>应用于已经按照键值分区且已连通数据流上的算子可以访问键值分区状态。3</seg>
       </tuv>
     </tu>
     <tu>
@@ -10049,8 +10049,8 @@
       <tuv lang="EN-US">
         <seg>Consult “State Management” on page 53 for more details on keyed state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040059Z" creationid="xccui" creationdate="20190630T040059Z">
-        <seg>有关键值状态的详细信息请参照第53页"状态管理"一节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T040059Z">
+        <seg>有关键值分区状态的详细信息请参照第53页"状态管理"一节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10585,8 +10585,8 @@
       <tuv lang="EN-US">
         <seg>Declaring Keyed State at RuntimeContext</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055346Z" creationid="esouser" creationdate="20190603T150900Z">
-        <seg>在RuntimeContext中声明键值状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="esouser" creationdate="20190603T150900Z">
+        <seg>在RuntimeContext中声明键值分区状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -10665,8 +10665,8 @@
       <tuv lang="EN-US">
         <seg>Defining the Maximum Parallelism of Keyed State Operators</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T055734Z" creationid="xccui" creationdate="20190225T024714Z">
-        <seg>为使用键值状态的算子定义最大并行度</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190225T024714Z">
+        <seg>为使用键值分区状态的算子定义最大并行度</seg>
       </tuv>
     </tu>
     <tu>
@@ -11673,8 +11673,8 @@
       <tuv lang="EN-US">
         <seg>Events with different keys can be processed by the same task, but the keyed state of a task’s function is always accessed in the scope of the current event’s key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050816Z" creationid="xccui" creationdate="20190614T050816Z">
-        <seg>虽然键值不同的事件也可能会在同一个任务上处理，但任务函数所能访问的键值状态始终会被约束在当前事件键值的范围内。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190614T050816Z">
+        <seg>虽然键值不同的事件也可能会在同一个任务上处理，但任务函数所能访问的键值分区状态始终会被约束在当前事件键值的范围内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12705,8 +12705,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3-12 shows how tasks interact with keyed state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191856Z" creationid="xccui" creationdate="20190607T191856Z">
-        <seg>图3-12展示了任务和键值状态的交互过程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T191856Z">
+        <seg>图3-12展示了任务和键值分区状态的交互过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12721,8 +12721,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3-13 shows how keyed state is repartitioned in key groups.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T060134Z" creationid="xccui" creationdate="20190608T060134Z">
-        <seg>图3-13展示了键值状态通过键值组进行重新分区的过程</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190608T060134Z">
+        <seg>图3-13展示了键值分区状态通过键值组进行重新分区的过程</seg>
       </tuv>
     </tu>
     <tu>
@@ -13433,8 +13433,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we show how to configure keyed state as queryable and how to access it from an external application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T034640Z" creationid="xccui" creationdate="20190630T034640Z">
-        <seg>最后，我们将展示怎样将键值状态设置为可查询式的以及如何从外部应用中访问它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T034640Z">
+        <seg>最后，我们将展示怎样将键值分区状态设置为可查询式的以及如何从外部应用中访问它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14057,8 +14057,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides different primitives for keyed state that determine the type of the value stored for each key in this distributed key-value map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T192522Z" creationid="xccui" creationdate="20190607T192242Z">
-        <seg>Flink为键值状态提供了不同原语，它们的区别就在于分布式键值映射中每个键对应存储值的类型不同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T192242Z">
+        <seg>Flink为键值分区状态提供了不同原语，它们的区别就在于分布式键值映射中每个键对应存储值的类型不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14097,16 +14097,16 @@
       <tuv lang="EN-US">
         <seg>Flink provides multiple primitives for keyed state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040825Z" creationid="xccui" creationdate="20190630T040825Z">
-        <seg>Flink为键值状态提供了很多原语。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T040825Z">
+        <seg>Flink为键值分区状态提供了很多原语。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Flink provides state backends that manage keyed state as objects stored in in-memory data structures on the JVM heap.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T052639Z" creationid="xccui" creationdate="20190608T052050Z">
-        <seg>Flink提供的一类状态后端会把键值状态作为对象，以内存数据结构的形式存在JVM堆里面；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190608T052050Z">
+        <seg>Flink提供的一类状态后端会把键值分区状态作为对象，以内存数据结构的形式存在JVM堆里面；</seg>
       </tuv>
     </tu>
     <tu>
@@ -14937,8 +14937,8 @@
       <tuv lang="EN-US">
         <seg>For local state management, a state backend stores all keyed states and ensures that all accesses are correctly scoped to the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T051829Z" creationid="xccui" creationdate="20190608T051526Z">
-        <seg>对于本地状态管理，状态后端会存储所有键值状态并保证能将状态访问范围正确地限制在当前键值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190608T051526Z">
+        <seg>对于本地状态管理，状态后端会存储所有键值分区状态并保证能将状态访问范围正确地限制在当前键值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15289,8 +15289,8 @@
       <tuv lang="EN-US">
         <seg>Global state refers to the keyed state that is not scoped to any window, while per-window state refers to the window instance that is currently being evaluated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024417Z" creationid="xccui" creationdate="20190624T012655Z">
-        <seg>其中单个窗口的状态指的是当前正在计算的窗口实例的状态，而全局状态指的是不属于任何一个窗口的键值状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190624T012655Z">
+        <seg>其中单个窗口的状态指的是当前正在计算的窗口实例的状态，而全局状态指的是不属于任何一个窗口的键值分区状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15529,8 +15529,8 @@
       <tuv lang="EN-US">
         <seg>Hence, keyed state is very similar to a distributed key-value map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040014Z" creationid="xccui" creationdate="20190630T035948Z">
-        <seg>因此，键值状态看上去就像一个分布式键值映射（distributed key-value map）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035948Z">
+        <seg>因此，键值分区状态看上去就像一个分布式键值映射（distributed key-value map）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18881,8 +18881,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we show how functions with keyed and operator state are implemented.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035207Z" creationid="xccui" creationdate="20190630T035207Z">
-        <seg>本节我们将展示如何实现带有键值状态和算子状态的函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035207Z">
+        <seg>本节我们将展示如何实现带有键值分区状态和算子状态的函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18993,8 +18993,8 @@
       <tuv lang="EN-US">
         <seg>In “State Management”, we explained that functions can have two types of state, keyed state and operator state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035002Z" creationid="xccui" creationdate="20190630T035002Z">
-        <seg>在"状态管理"一节，我们提到了函数允许有两种类型的状态——键值状态和算子状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035002Z">
+        <seg>在"状态管理"一节，我们提到了函数允许有两种类型的状态——键值分区状态和算子状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20081,24 +20081,24 @@
       <tuv lang="EN-US">
         <seg>Keyed State</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030457Z" creationid="xccui" creationdate="20190418T035556Z">
-        <seg>键值状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041649Z" creationid="xccui" creationdate="20190418T035556Z">
+        <seg>键值分区状态（Keyed State）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Keyed state can only be used by functions that are applied on a KeyedStream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040154Z" creationid="xccui" creationdate="20190630T040154Z">
-        <seg>键值状态只能用于作用在KeyedStream上面的函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T040154Z">
+        <seg>键值分区状态只能用于作用在KeyedStream上面的函数。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Keyed state is maintained and accessed with respect to a key defined in the records of an operator’s input stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191614Z" creationid="xccui" creationdate="20190607T185829Z">
-        <seg>键值状态是按照算子输入记录所定义的键值来进行维护或访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T185829Z">
+        <seg>键值分区状态是按照算子输入记录所定义的键值来进行维护或访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21793,8 +21793,8 @@
       <tuv lang="EN-US">
         <seg>One operator (OP-1) has a single operator state (OS-1) and another operator (OP-2) has two keyed states (KS-1 and KS-2).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214916Z" creationid="xccui" creationdate="20190609T214916Z">
-        <seg>其中一个算子（OP-1）有一个算子状态（OS-1），另一个算子（OP-2）有两个键值状态（KS-1和KS-2）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190609T214916Z">
+        <seg>其中一个算子（OP-1）有一个算子状态（OS-1），另一个算子（OP-2）有两个键值分区状态（KS-1和KS-2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22130,8 +22130,8 @@
       <tuv lang="EN-US">
         <seg>Operators with keyed state are scaled by repartitioning keys to fewer or more tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T055204Z" creationid="xccui" creationdate="20190608T055151Z">
-        <seg>带有键值状态的算子在扩缩容时会根据新的任务数量对键值重新分区。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190608T055151Z">
+        <seg>带有键值分区状态的算子在扩缩容时会根据新的任务数量对键值重新分区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23434,8 +23434,8 @@
       <tuv lang="EN-US">
         <seg>Scaling an operator with keyed state out and in</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T060226Z" creationid="xccui" creationdate="20190608T060217Z">
-        <seg>算子扩缩容时键值状态的调整</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190608T060217Z">
+        <seg>算子扩缩容时键值分区状态的调整</seg>
       </tuv>
     </tu>
     <tu>
@@ -23578,8 +23578,8 @@
       <tuv lang="EN-US">
         <seg>See Chapter 8 for details on keyed state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052230Z" creationid="xccui" creationdate="20190615T052230Z">
-        <seg>有关键值状态的详细信息请参阅第8章。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190615T052230Z">
+        <seg>有关键值分区状态的详细信息请参阅第8章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25394,8 +25394,8 @@
       <tuv lang="EN-US">
         <seg>Tasks with keyed state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191928Z" creationid="xccui" creationdate="20190607T191928Z">
-        <seg>带有键值状态的任务</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T191928Z">
+        <seg>带有键值分区状态的任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -27642,8 +27642,8 @@
       <tuv lang="EN-US">
         <seg>The keyed state instances of a function are distributed across all parallel tasks of the function’s operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035709Z" creationid="xccui" creationdate="20190630T035709Z">
-        <seg>函数的键值状态实例会分布在函数算子的所有并行任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035709Z">
+        <seg>函数的键值分区状态实例会分布在函数算子的所有并行任务上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29130,8 +29130,8 @@
       <tuv lang="EN-US">
         <seg>There are two types of state, operator state and keyed state, that are accessible from different scopes and discussed in the following sections.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T060205Z" creationid="xccui" creationdate="20190607T023422Z">
-        <seg>根据作用域的不同，状态可以分为两类：算子状态和键值状态，我们会在接下来的几节介绍它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T023422Z">
+        <seg>根据作用域的不同，状态可以分为两类：算子状态和键值分区状态，我们会在接下来的几节介绍它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29362,8 +29362,8 @@
       <tuv lang="EN-US">
         <seg>They are discussed further in “Declaring Keyed State at RuntimeCon‐ text” on page 154.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T223752Z" creationid="xccui" creationdate="20190607T223752Z">
-        <seg>更多相关内容请见154页"在RuntimeContext中声明键值状态"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T223752Z">
+        <seg>更多相关内容请见154页"在RuntimeContext中声明键值分区状态"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31530,8 +31530,8 @@
       <tuv lang="EN-US">
         <seg>User functions can employ keyed state to store and access state in the context of a key attribute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035526Z" creationid="xccui" creationdate="20190630T035526Z">
-        <seg>用户函数可以使用键值状态来存储和访问当前键值上下文中的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035526Z">
+        <seg>用户函数可以使用键值分区状态来存储和访问当前键值上下文中的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32442,8 +32442,8 @@
       <tuv lang="EN-US">
         <seg>We will briefly discuss the most common keyed state primitives.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T192620Z" creationid="xccui" creationdate="20190607T192620Z">
-        <seg>我们接下来简要讨论一下键值状态最常用的几个原语。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T192620Z">
+        <seg>我们接下来简要讨论一下键值分区状态最常用的几个原语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33979,8 +33979,8 @@
       <tuv lang="EN-US">
         <seg>You can think of keyed state as a key-value map that is partitioned (or sharded) on  the key across all parallel tasks of an operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T192142Z" creationid="xccui" creationdate="20190607T192001Z">
-        <seg>你可以把键值状态想象成一个在算子所有并行任务上进行分区（或分片）的键值映射。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T192001Z">
+        <seg>你可以把键值分区状态想象成一个在算子所有并行任务上进行分区（或分片）的键值映射。</seg>
       </tuv>
     </tu>
     <tu>
