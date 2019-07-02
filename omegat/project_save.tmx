@@ -8711,6 +8711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the same time, long-running applications need to be maintained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212353Z" creationid="xccui" creationdate="20190702T212353Z">
+        <seg>同时，我们也需要对长时间运行的应用进行一些维护，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, the result completeness might suffer because relevant records might not be included in the result and would be considered as late records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T040404Z" creationid="xccui" creationdate="20190529T040337Z">
@@ -9227,6 +9235,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044411Z" creationid="xccui" creationdate="20190504T044411Z">
         <seg>需要发往同一个TaskManager的缓冲区数据会复用同一个网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bugs need to be fixed, functionality adjusted, added, or removed, or the parallelism of the operator needs to be adjusted to account for higher or lower data rates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212532Z" creationid="xccui" creationdate="20190702T212532Z">
+        <seg>例如，修复Bug，添加、删除或调整功能，或者针对不同的数据到来速率调整算子的并行度。</seg>
       </tuv>
     </tu>
     <tu>
