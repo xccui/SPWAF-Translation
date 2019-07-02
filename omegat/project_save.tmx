@@ -19431,6 +19431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, the context of the KeyedBroadcastProcessFunction.processBroad castElement() method provides a method applyToKeyed State(StateDescriptor,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054435Z" creationid="xccui" creationdate="20190702T054435Z">
+        <seg>相反，KeyedBroadcastProcessFunction.processBroadcastElement()方法的上下文提供了一个applyToKeyed State(StateDescriptor， KeyedStateFunction)方法，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, the operator continues to maintain the complete window for the allowed lateness period.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T164709Z" creationid="xingcan" creationdate="20190628T164559Z">
@@ -21481,8 +21489,8 @@
       <tuv lang="EN-US">
         <seg>Note that you should not access keyed state from the processBroadcastEle ment() method of KeyedBroadcastProcessFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053934Z" creationid="xccui" creationdate="20190702T053934Z">
-        <seg>注意，你不能从KeyedBroadcastProcessFunction的processBroadcastElement()方法中访问键值分区状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054303Z" creationid="xccui" creationdate="20190702T053934Z">
+        <seg>注意，由于广播输入一侧没有指定键值，状态后端就无法访问键值分区的状态值，所以你不能从KeyedBroadcastProcessFunction的processBroadcastElement()方法中访问键值分区状态，强行这么做会使状态后端抛出异常。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24068,6 +24076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025233Z" creationid="xccui" creationdate="20190613T025145Z">
         <seg>常见的基本函数示例有：简单的值转换，记录拆分或过滤等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since  the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054220Z" creationid="xccui" creationdate="20190702T054220Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -34497,6 +34513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>access a keyed value and will throw an exception.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054227Z" creationid="xccui" creationdate="20190702T054227Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>access intermediate data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T205838Z" creationid="esouser" creationdate="20190603T205838Z">
@@ -34739,8 +34763,8 @@
       <tuv lang="EN-US">
         <seg>broadcast input does not specify a key, the state backend cannot</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054032Z" creationid="xccui" creationdate="20190702T054032Z">
-        <seg>因为广播输入没有指定键值，状态后端无法访问键值分区的状态值，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054224Z" creationid="xccui" creationdate="20190702T054224Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
