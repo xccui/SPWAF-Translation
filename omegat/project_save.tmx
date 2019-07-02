@@ -25824,6 +25824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CheckpointedFunction interface defines two methods, initializeState() and snapshotState(), which work similar to the methods of the ListCheckpointed interface for operator list state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063959Z" creationid="xccui" creationdate="20190702T063959Z">
+        <seg>CheckpointedFunction接口定义了两个方法——initializeState()和snapshotState()，它们的工作模式和算子列表状态中ListCheckpointed接口的方法类似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CheckpointedFunction interface is the lowest-level interface to specify stateful functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055816Z" creationid="xccui" creationdate="20190702T055816Z">
@@ -34627,8 +34635,8 @@
       <tuv lang="EN-US">
         <seg>and is the only interface that gives access to operator list union state—the operator state that is fully replicated in the case of a recovery or savepoint restart.3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063515Z" creationid="xccui" creationdate="20190702T063515Z">
-        <seg>并且是唯一可以访问算子联合列表状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063827Z" creationid="xccui" creationdate="20190702T063515Z">
+        <seg>并且是唯一可以访问算子联合列表状态（在进行恢复或从保存点启动的情况下需要被完整复制的算子状态）的接口。</seg>
       </tuv>
     </tu>
     <tu>
