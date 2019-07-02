@@ -8369,8 +8369,8 @@
       <tuv lang="EN-US">
         <seg>As discussed in “Checkpoints, Savepoints, and State Recovery” on page 58, a check‐ point is only successful if all operator tasks successfully checkpointed their states to the checkpoint storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T201740Z" creationid="xccui" creationdate="20190702T201740Z">
-        <seg>正如第58页"检查点、保存点及状态恢复"中所述，只有在所有算子任务都成功将其状态写入检查点存储后，整体的检查点才算创建成功。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T201859Z" creationid="xccui" creationdate="20190702T201740Z">
+        <seg>正如第58页"检查点、保存点及状态恢复"中所述，在所有算子任务都成功将其状态写入检查点存储后，整体的检查点才算创建成功。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15831,6 +15831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, only the JobManager can determine whether a check‐ point is successful or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T201942Z" creationid="xccui" creationdate="20190702T201832Z">
+        <seg>因此，只有JobManager才能对此作出判断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, simply relying on watermarks might not always be a good idea.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025830Z" creationid="xccui" creationdate="20190414T031243Z">
@@ -22476,6 +22484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T005820Z" creationid="xccui" creationdate="20190606T005820Z">
         <seg>实现数据接入操作逻辑的算子称为数据源（data source）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operators that need to be notified about completed check‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202152Z" creationid="xccui" creationdate="20190702T202152Z">
+        <seg>需要对检查点创建成功进行感知的算子可以实现CheckpointListener接口。</seg>
       </tuv>
     </tu>
     <tu>
