@@ -16295,6 +16295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it requires that all stateful operators of the initial version of an application specify two parameters to ensure the application can be properly maintained in the future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T214012Z" creationid="xccui" creationdate="20190702T214012Z">
+        <seg>但该机制需要应用初始版本的状态化算子指定两个参数才能在日后正常工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it uses the more general AggregateFunction to aggregate values.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061036Z" creationid="xccui" creationdate="20190630T060806Z">
