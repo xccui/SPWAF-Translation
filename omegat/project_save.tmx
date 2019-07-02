@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.broadcast(broadcastStateDescriptor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024340Z" creationid="xccui" creationdate="20190702T024340Z">
+        <seg>.broadcast(broadcastStateDescriptor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.connect(filterSwitches)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031704Z" creationid="xccui" creationdate="20190622T031704Z">
@@ -1606,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// connect keyed sensor stream and broadcasted rules stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024501Z" creationid="xccui" creationdate="20190702T024501Z">
+        <seg>// 联结键值分区传感数据流和广播的规则流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// connect readings and switches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210051Z" creationid="xccui" creationdate="20190622T031702Z">
@@ -2578,6 +2594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071647Z">
         <seg>// 温度升高并且还未设置计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// the descriptor of the broadcast state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024323Z" creationid="xccui" creationdate="20190702T024323Z">
+        <seg>// 广播状态的描述符</seg>
       </tuv>
     </tu>
     <tu>
@@ -9727,6 +9751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting a broadcast stream and keyed event stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024304Z" creationid="xccui" creationdate="20190702T024304Z">
+        <seg>联结广播流和键值分区事件流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting a stateful streaming application running on Flink and an event log is interesting for multiple reasons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073449Z" creationid="xccui" creationdate="20190305T060607Z">
@@ -12115,6 +12147,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024117Z" creationid="xccui" creationdate="20190701T204421Z">
         <seg>示例7-6展示了如何实现用广播流动态配置阈值的温度报警应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024131Z" creationid="xccui" creationdate="20190702T024131Z">
+        <seg>示例7-6，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34409,6 +34449,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>broadcasted stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024120Z" creationid="xccui" creationdate="20190702T024120Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>buffer channels and serialization</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204046Z" creationid="xccui" creationdate="20190606T204046Z">
@@ -36265,6 +36313,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new MapStateDescriptor[String, Double]( "thresholds", classOf[String], classOf[Double])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024332Z" creationid="xccui" creationdate="20190702T024332Z">
+        <seg>new MapStateDescriptor[String, Double]( "thresholds", classOf[String], classOf[Double])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new Person("Alex", 42),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044923Z" creationid="xccui" creationdate="20190617T044923Z">
@@ -38105,6 +38161,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val broadcastStateDescriptor =</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024327Z" creationid="xccui" creationdate="20190702T024327Z">
+        <seg>val broadcastStateDescriptor =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val broadcastThresholds: BroadcastStream[ThresholdUpdate] = thresholds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024336Z" creationid="xccui" creationdate="20190702T024336Z">
+        <seg>val broadcastThresholds: BroadcastStream[ThresholdUpdate] = thresholds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val byId: KeyedStream[SensorReading, String] = sensorData</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051748Z" creationid="xccui" creationdate="20190618T051748Z">
@@ -38429,6 +38501,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062059Z" creationid="xccui" creationdate="20190630T062059Z">
         <seg>val keyedData: KeyedStream[SensorReading, String] = sensorData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val keyedSensorData: KeyedStream[SensorReading, String] = sensorData.keyBy(_.id)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024311Z" creationid="xccui" creationdate="20190702T024311Z">
+        <seg>val keyedSensorData: KeyedStream[SensorReading, String] = sensorData.keyBy(_.id)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38853,6 +38933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031930Z" creationid="xccui" creationdate="20190625T031930Z">
         <seg>val temps = vals.map(_.temperature)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val thresholds: DataStream[ThresholdUpdate] = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024307Z" creationid="xccui" creationdate="20190702T024307Z">
+        <seg>val thresholds: DataStream[ThresholdUpdate] = ???</seg>
       </tuv>
     </tu>
     <tu>
