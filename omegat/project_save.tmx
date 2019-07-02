@@ -11311,6 +11311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each state is registered with a name that must be unique for the function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T065034Z" creationid="xccui" creationdate="20190702T065034Z">
+        <seg>每个状态在注册时都要提供一个在函数内唯一的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each task will process a subset of the operator’s input stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051313Z" creationid="xccui" creationdate="20190616T051313Z">
@@ -28824,6 +28832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The state stores are responsible for regis‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064841Z" creationid="xccui" creationdate="20190702T064841Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The steps of this naive algorithm would be:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223351Z" creationid="xccui" creationdate="20190608T223351Z">
@@ -33021,6 +33037,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021434Z" creationid="xccui" creationdate="20190701T021106Z">
         <seg>当函数注册StateDescriptor时，Flink会检查状态后端是否包含了函数的数据以及与给定名称、类型相同的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a function registers state, the state store tries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T065110Z" creationid="xccui" creationdate="20190702T065047Z">
+        <seg>在函数进行状态注册时，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38195,8 +38219,8 @@
       <tuv lang="EN-US">
         <seg>tering function state with Flink’s runtime and returning the state objects, such as ValueState, ListState, or BroadcastState.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064825Z" creationid="xccui" creationdate="20190702T064742Z">
-        <seg>这两个状态存储（state store）对象可以使用Flink运行时来注册函数状态并返回状态对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064920Z" creationid="xccui" creationdate="20190702T064742Z">
+        <seg>这两个状态存储（state store）对象能够使用Flink运行时来注册函数状态并返回状态对象（例如ValueState、ListState或BroadcastState）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38461,6 +38485,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053159Z" creationid="xccui" creationdate="20190702T051544Z">
         <seg>这其实是一种安全机制，用于确保所有并行实例中广播状态所保存的信息完全相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to initialize the state by checking if the state backend holds state for the function reg‐ istered under the given name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T065448Z" creationid="xccui" creationdate="20190702T065114Z">
+        <seg>状态存储会通过检查状态后端是否存在以给定名称在函数中注册的状态来尝试对状态进行初始化。</seg>
       </tuv>
     </tu>
     <tu>
