@@ -8198,6 +8198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applications need to explicitly enable the periodic checkpointing mechanism via the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204732Z" creationid="xccui" creationdate="20190702T204629Z">
+        <seg>应用需要像示例7-9中那样，显式地在StreamExecutionEnvironment中启用周期性检查点机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145100Z" creationid="esouser" creationdate="20190603T145053Z">
@@ -11487,6 +11495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enabling checkpointing for an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204806Z" creationid="xccui" creationdate="20190702T204806Z">
+        <seg>为应用开启检查点功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End- to-end guarantees refer to result correctness across the whole data processing pipe‐ line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035307Z" creationid="xccui" creationdate="20190606T035307Z">
@@ -12483,6 +12499,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041753Z" creationid="xccui" creationdate="20190702T041753Z">
         <seg>示例7-8，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-9.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204740Z" creationid="xccui" creationdate="20190702T204740Z">
+        <seg>示例7-9，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25412,6 +25436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065200Z" creationid="xccui" creationdate="20190619T055332Z">
         <seg>时间特性是StreamExecutionEnvironment的属性，它可以接收以下值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StreamExecutionEnvironment as shown in Example 7-9.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204734Z" creationid="xccui" creationdate="20190702T204734Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
