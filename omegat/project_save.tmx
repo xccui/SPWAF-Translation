@@ -9079,6 +9079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broadcasted Events Might Not Arrive in Deterministic Order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055306Z" creationid="xccui" creationdate="20190702T055306Z">
+        <seg>广播事件的到达顺序可能不固定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buffering is a mandatory technique to fully utilize the bandwidth of network connections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T210224Z" creationid="esouser" creationdate="20190513T210224Z">
