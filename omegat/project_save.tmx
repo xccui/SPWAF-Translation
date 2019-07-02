@@ -2398,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// remove threshold for the sensor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042618Z" creationid="xccui" creationdate="20190702T042618Z">
+        <seg>// 删除传感器阈值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// restore state by adding all longs of the list</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052858Z" creationid="xccui" creationdate="20190701T052858Z">
