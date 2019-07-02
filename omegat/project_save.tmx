@@ -21049,8 +21049,8 @@
       <tuv lang="EN-US">
         <seg>More‐ over, in combination with the CheckpointListener interface, the snapshotState() method can be used to consistently write data to external datastores by synchronizing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T072253Z" creationid="xccui" creationdate="20190702T071818Z">
-        <seg>此外，该方法还可以协同CheckpointListener接口，以和Flink检查点同步的方式持续将数据写入外部数据存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T072314Z" creationid="xccui" creationdate="20190702T071818Z">
+        <seg>此外，该方法还可以协同CheckpointListener接口，以和Flink检查点同步的方式持续地将数据写入外部数据存储。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39925,6 +39925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030535Z" creationid="xccui" creationdate="20190625T030535Z">
         <seg>其中包含了窗口的开始、结束时间以及窗口内的最低、最高温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with Flink’s checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T072256Z" creationid="xccui" creationdate="20190702T072256Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
