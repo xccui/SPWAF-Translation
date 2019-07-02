@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// obtain the keyed state handle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041843Z" creationid="xccui" creationdate="20190702T041843Z">
+        <seg>// 获取键值分区状态句柄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// obtain the state handle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064429Z" creationid="xccui" creationdate="20190630T064324Z">
