@@ -20143,6 +20143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is pos‐ sible that a task misses the notification.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202947Z" creationid="xccui" creationdate="20190702T202947Z">
+        <seg>所以说任务可能会错过一些通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is required by any non-trivial computa&lt;t0/&gt;‐&lt;t1/&gt; tion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T051626Z" creationid="xccui" creationdate="20190414T050639Z">
@@ -21531,6 +21539,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T042016Z" creationid="xccui" creationdate="20190504T042016Z">
         <seg>但注意，从缓冲区中传输记录并不意味着Flink的处理模型是基于微批次的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that Flink does not guarantee that the notifyCheckpointCom plete() method is called for each completed checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202900Z" creationid="xccui" creationdate="20190702T202900Z">
+        <seg>注意，Flink不保证对每个完成的检查点都会调用notifyCheckpointComplete()方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30314,8 +30330,8 @@
       <tuv lang="EN-US">
         <seg>This interface provides the notifyCheckpointComplete(long chkpntId) method, which might be called when the JobManager registers a checkpoint as completed—when all operators successfully</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202645Z" creationid="xccui" creationdate="20190702T202645Z">
-        <seg>该接口提供的notifyCheckpointComplete(long chkpntId)方法，会在JobManager将检查点注册为完成时，即所有算子都成功将其状态写入远程存储后，被调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202702Z" creationid="xccui" creationdate="20190702T202645Z">
+        <seg>该接口提供的notifyCheckpointComplete(long chkpntId)方法，会在JobManager将检查点注册为完成时，即所有算子都成功将其状态复制到远程存储后，被调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35509,6 +35525,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
         <seg>你可以使用tail命令监控持续产生的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>copied their state to the remote storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202707Z" creationid="xccui" creationdate="20190702T202707Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
