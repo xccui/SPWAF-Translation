@@ -27912,6 +27912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The methods, processElement() and processBroadcastElement(), are called with different context objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T045919Z" creationid="xccui" creationdate="20190702T045919Z">
+        <seg>processElement()和processBroadcastElement()两个方法在调用时会传入不同的上下文对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most trivial way would be to simply restart the job, but then we would have to replay all data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T044142Z" creationid="xccui" creationdate="20190415T044114Z">
