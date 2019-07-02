@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// check if temperature is high</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162300Z" creationid="xccui" creationdate="20190702T162300Z">
+        <seg>//检查温度是否过高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// check if we have a threshold</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042721Z" creationid="xccui" creationdate="20190702T042721Z">
@@ -2790,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// update keyed high temp counter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162525Z" creationid="xccui" creationdate="20190702T162525Z">
+        <seg>// 更新键值分区的高温计数器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// update last temperature</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071505Z" creationid="xccui" creationdate="20190621T071505Z">
@@ -2802,6 +2818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064711Z" creationid="xccui" creationdate="20190630T064711Z">
         <seg>// 更新lastTemp状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// update local operator high temp counter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162458Z" creationid="xccui" creationdate="20190702T162458Z">
+        <seg>// 更新本地的算子实例高温计数器</seg>
       </tuv>
     </tu>
     <tu>
@@ -36225,6 +36249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (v.temperature &gt; threshold) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162303Z" creationid="xccui" creationdate="20190702T162303Z">
+        <seg>if (v.temperature &gt; threshold) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if you need to ensure a function’s operator state can be evolved.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063804Z" creationid="xccui" creationdate="20190701T063328Z">
@@ -37129,6 +37161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>opHighTempCnt += 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162503Z" creationid="xccui" creationdate="20190702T162503Z">
+        <seg>opHighTempCnt += 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>open() is called before any processing methods, such as flatMap() in the case of a FlatMapFunction, are called.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T020455Z" creationid="xccui" creationdate="20190701T020327Z">
@@ -37241,6 +37281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>out: Collector[(String, Long, Long)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162245Z" creationid="xccui" creationdate="20190702T162245Z">
+        <seg>out: Collector[(String, Long, Long)]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out: Collector[MinMaxTemp]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031927Z" creationid="xccui" creationdate="20190625T031927Z">
@@ -37325,6 +37373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064331Z" creationid="xccui" creationdate="20190630T064331Z">
         <seg>override def flatMap( reading: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def flatMap( v: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162241Z" creationid="xccui" creationdate="20190702T162241Z">
+        <seg>override def flatMap( v: SensorReading,</seg>
       </tuv>
     </tu>
     <tu>
@@ -39769,10 +39825,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>var keyedCntState: ValueState[Long] = _ var opCntState: ListState[Long] = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162238Z" creationid="xccui" creationdate="20190702T162238Z">
+        <seg>var keyedCntState: ValueState[Long] = _ var opCntState: ListState[Long] = _</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>var maxTs: Long = Long.MinValue // the maximum observed timestamp</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051105Z" creationid="xccui" creationdate="20190620T051105Z">
         <seg>var maxTs: Long = Long.MinValue // 观察到的最大时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var opHighTempCnt: Long = 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162235Z" creationid="xccui" creationdate="20190702T162235Z">
+        <seg>var opHighTempCnt: Long = 0</seg>
       </tuv>
     </tu>
     <tu>
