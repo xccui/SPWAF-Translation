@@ -29152,6 +29152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The state of an application that was running for several weeks can be expensive or even impossible to recompute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T211747Z" creationid="xccui" creationdate="20190702T211747Z">
+        <seg>在应用运行一段时间后，其状态就会变得成本昂贵，甚至无法重新计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The state of the window is not changed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184622Z" creationid="xccui" creationdate="20190626T184622Z">
