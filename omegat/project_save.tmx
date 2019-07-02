@@ -6438,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A shorter checkpointing interval causes higher overhead during regu‐ lar processing but can enable faster recovery because less data needs to be reproc‐ essed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T205930Z" creationid="xccui" creationdate="20190702T205930Z">
+        <seg>较短的间隔会为常规处理带来较大的开销，但由于恢复时要重新处理的数据量较小，所以恢复速度会更快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A side output is</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015023Z" creationid="xccui" creationdate="20190622T015023Z">
