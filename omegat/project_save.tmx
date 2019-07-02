@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// initialize operator state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163216Z" creationid="xccui" creationdate="20190702T163216Z">
+        <seg>// 初始化算子状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// key by sensor id</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070917Z" creationid="xccui" creationdate="20190621T070917Z">
