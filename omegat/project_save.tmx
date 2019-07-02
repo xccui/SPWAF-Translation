@@ -5848,8 +5848,8 @@
       <tuv lang="EN-US">
         <seg>A function with broadcast state is applied on two streams in three steps:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040401Z" creationid="xccui" creationdate="20190702T040401Z">
-        <seg>使用了广播状态的函数为了应用于两条数据流上需要经过三个步骤：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040831Z" creationid="xccui" creationdate="20190702T040401Z">
+        <seg>为了在两条数据流上应用带有广播状态的函数需要经过三个步骤：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11075,6 +11075,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194657Z" creationid="xccui" creationdate="20190416T045936Z">
         <seg>在每个组件都提供自身的保障情况下，整个处理管道上端到端的保障会受制于保障最弱的那个组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each descriptor defines a separate broadcast state of the function that is later applied on the BroadcastStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040738Z" creationid="xccui" creationdate="20190702T040738Z">
+        <seg>每个描述符都会为将来用于BroadcastStream的函数定义一个单独的广播状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33925,6 +33933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210016Z" creationid="xccui" creationdate="20190615T052419Z">
         <seg>你可以使用广播状态来联结一个按键值分好区流和一个广播流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You connect the BroadcastStream with a DataStream or KeyedStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040613Z" creationid="xccui" creationdate="20190702T040613Z">
+        <seg>将BroadcastStream和一个DataStream或KeyedStream联结起来。</seg>
       </tuv>
     </tu>
     <tu>
