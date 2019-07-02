@@ -19985,8 +19985,8 @@
       <tuv lang="EN-US">
         <seg>It provides hooks to register and maintain keyed state and operator state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T060057Z" creationid="xccui" creationdate="20190702T060057Z">
-        <seg>它为键值分区状态和算子状态的注册及维护分别提供了相应的钩子函数（hook）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063401Z" creationid="xccui" creationdate="20190702T060057Z">
+        <seg>它为键值分区状态和算子状态分别提供了用于注册及维护的钩子函数（hook），</seg>
       </tuv>
     </tu>
     <tu>
