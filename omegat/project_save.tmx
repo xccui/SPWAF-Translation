@@ -20239,6 +20239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KeyedStateFunction to the value of each key in the keyed state ref‐ erenced by the StateDescriptor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054650Z" creationid="xccui" creationdate="20190702T054650Z">
+        <seg>它可以将KeyedStateFunction应用于StateDescriptor所引用的键值分区状态里面每个键值所对应的状态值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KeyedStream Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022735Z" creationid="xccui" creationdate="20190225T022735Z">
