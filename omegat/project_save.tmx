@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// local variable for the operator high temperature cnt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162232Z" creationid="xccui" creationdate="20190702T162232Z">
+        <seg>// 在本地用于存储算子实例高温数目的变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// main() defines and executes the DataStream program</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041854Z" creationid="xccui" creationdate="20190612T041854Z">
@@ -5930,6 +5938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040044Z" creationid="xccui" creationdate="20190701T040044Z">
         <seg>若要在函数中使用算子列表状态，需要实现ListCheckpointed接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A function implementing the CheckpointedFunction interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T154746Z" creationid="xccui" creationdate="20190702T154746Z">
+        <seg>实现了CheckpointedFunction接口的函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -35801,6 +35817,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extends FlatMapFunction[SensorReading, (String, Long, Long)] with CheckpointedFunction {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T154751Z" creationid="xccui" creationdate="20190702T154751Z">
+        <seg>extends FlatMapFunction[SensorReading, (String, Long, Long)] with CheckpointedFunction {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>extends KeyedProcessFunction[String, SensorReading, String] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071301Z" creationid="xccui" creationdate="20190621T071301Z">
@@ -36653,6 +36677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024428Z" creationid="xccui" creationdate="20190624T023815Z">
         <seg>单个窗口状态用于维护同一窗口内多次调用process()方法所需共享的信息，这种多次调用可能是由于配置了允许数据迟到或使用了自定义触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>many sensor readings exceed a specified threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T154652Z" creationid="xccui" creationdate="20190702T154652Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
