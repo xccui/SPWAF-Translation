@@ -33386,8 +33386,8 @@
       <tuv lang="EN-US">
         <seg>We will discuss the configuration of highly available Flink setups later in “Highly Available Setups”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195315Z" creationid="xccui" creationdate="20190606T195259Z">
-        <seg>我们稍后会在"高可用性配置"一节讨论Flink高可用相关配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074314Z" creationid="xccui" creationdate="20190606T195259Z">
+        <seg>我们稍后会在"高可用性设置"一节讨论Flink高可用相关配置。</seg>
       </tuv>
     </tu>
     <tu>
