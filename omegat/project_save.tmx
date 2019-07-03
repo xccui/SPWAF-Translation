@@ -28064,6 +28064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The iden‐ tifiers are written into a savepoint as metadata with the actual state data of an opera‐ tor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015428Z" creationid="xccui" creationdate="20190703T015428Z">
+        <seg>该标识会作为元数据和算子的实际状态一起写入保存点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The idle mechanism of sources can be used to address the problem of not advancing watermarks as discussed earlier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034838Z" creationid="xccui" creationdate="20190607T034838Z">
@@ -33653,6 +33661,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215608Z" creationid="xccui" creationdate="20190609T215601Z">
         <seg>当应用从保存点启动时，Flink会将保存点的数据分发到对应算子的任务上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an application is started from a savepoint, the identifiers are used to map a state in the savepoint to the corresponding operator of the started application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T022449Z" creationid="xccui" creationdate="20190703T022449Z">
+        <seg>当应用从保存点启动时，标识符用于将保存点中的状态映射到目标应用对应的算子。</seg>
       </tuv>
     </tu>
     <tu>
