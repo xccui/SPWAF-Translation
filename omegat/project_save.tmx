@@ -26738,8 +26738,8 @@
       <tuv lang="EN-US">
         <seg>The Job‐ Manager spans the JobGraph into an ExecutionGraph and assigns the tasks to the four available slots.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144640Z" creationid="xccui" creationdate="20190606T144553Z">
-        <seg>JobManager将JobGraph展开成ExecutionGraph并把任务分配到4个空闲槽。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071211Z" creationid="xccui" creationdate="20190606T144553Z">
+        <seg>JobManager将JobGraph"展开成"ExecutionGraph并把任务分配到4个空闲槽。</seg>
       </tuv>
     </tu>
     <tu>
