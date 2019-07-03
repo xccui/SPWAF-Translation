@@ -9625,8 +9625,8 @@
       <tuv lang="EN-US">
         <seg>Chained task execution with fused functions in a single thread and data passing via method calls</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203847Z" creationid="xccui" creationdate="20190606T203806Z">
-        <seg>在融合多个函数的链接任务执行过程中，数据通过方法调用传输</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200618Z" creationid="xccui" creationdate="20190606T203806Z">
+        <seg>在融合多个函数的链接任务执行过程中，数据通过方法调用进行传输</seg>
       </tuv>
     </tu>
     <tu>
@@ -28106,8 +28106,8 @@
       <tuv lang="EN-US">
         <seg>The functions of the operators are fused into a single task that is executed by a single thread.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203638Z" creationid="xccui" creationdate="20190606T203546Z">
-        <seg>多个算子的函数被揉到同一个任务中，在一个线程里执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200451Z" creationid="xccui" creationdate="20190606T203546Z">
+        <seg>多个算子的函数被"揉"到同一个任务中，通过一个线程来执行。</seg>
       </tuv>
     </tu>
     <tu>
