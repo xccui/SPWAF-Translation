@@ -14225,8 +14225,8 @@
       <tuv lang="EN-US">
         <seg>Flink guarantees this by periodically writing a consistent checkpoint of the application state to a remote and durable storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T054547Z" creationid="xccui" creationdate="20190305T032707Z">
-        <seg>为了实现该特性，Flink会定期将应用状态的一致性检查点（Checkpoint）写入远程持久化存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073626Z" creationid="xccui" creationdate="20190305T032707Z">
+        <seg>为了实现该特性，Flink会定期将应用状态的一致性检查点（checkpoint）写入远程持久化存储。</seg>
       </tuv>
     </tu>
     <tu>
