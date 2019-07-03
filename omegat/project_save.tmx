@@ -28418,8 +28418,8 @@
       <tuv lang="EN-US">
         <seg>The metadata of the window typically contains information that can be used</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011915Z" creationid="xccui" creationdate="20190624T011756Z">
-        <seg>窗口的元数据通常包含了一些可用作窗口标识符的信息</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023211Z" creationid="xccui" creationdate="20190624T011756Z">
+        <seg>窗口的元数据通常包含了一些可用作窗口标识的信息</seg>
       </tuv>
     </tu>
     <tu>
