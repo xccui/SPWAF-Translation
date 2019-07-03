@@ -22247,6 +22247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you change operator identifiers or the maximum parallelism, you cannot start an application from a savepoint but have to start it from scratch without any state initialization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015126Z" creationid="xccui" creationdate="20190703T015126Z">
+        <seg>一旦你修改了算子标识符或最大并行度则无法从保存点启动应用，只能选择抛弃状态从头开始运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once your coffee is ready, the barista calls your name and you can pick up your coffee from the bench.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T153941Z" creationid="xccui" creationdate="20190401T152947Z">
@@ -29578,8 +29586,8 @@
       <tuv lang="EN-US">
         <seg>The unique identifier and maximum parallelism of operators are baked into a savepoint and cannot be changed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T014147Z" creationid="xccui" creationdate="20190703T013858Z">
-        <seg>算子的唯一标识符和最大并行度会被固化到保存点中，无法更改。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T014727Z" creationid="xccui" creationdate="20190703T013858Z">
+        <seg>算子的唯一标识符和最大并行度会被固化到保存点中，不可更改。</seg>
       </tuv>
     </tu>
     <tu>
