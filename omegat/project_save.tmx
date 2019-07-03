@@ -30554,8 +30554,8 @@
       <tuv lang="EN-US">
         <seg>This deployment mode is common for microservices architectures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144242Z" creationid="xccui" creationdate="20190606T144242Z">
-        <seg>该部署模式常用于微服务架构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063605Z" creationid="xccui" creationdate="20190606T144242Z">
+        <seg>后一种模式常用于微服务架构。</seg>
       </tuv>
     </tu>
     <tu>
