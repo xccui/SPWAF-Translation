@@ -9457,8 +9457,8 @@
       <tuv lang="EN-US">
         <seg>By leveraging thread parallelism inside a TaskManager and deploying several TaskMan‐ ager processes per host, Flink offers a lot of flexibility to trade off performance and resource isolation when deploying applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T145045Z" creationid="xccui" creationdate="20190606T145021Z">
-        <seg>通过在TaskManager内部采用线程并行以及在每个主机上部署多个TaskManager进程，Flink为部署应用时性能和资源隔离的取舍提供了极大的自由度，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071601Z" creationid="xccui" creationdate="20190606T145021Z">
+        <seg>借助在TaskManager内部采用线程并行以及在每个主机上部署多个TaskManager进程，Flink为部署应用时性能和资源隔离的取舍提供了极大的自由度，</seg>
       </tuv>
     </tu>
     <tu>
