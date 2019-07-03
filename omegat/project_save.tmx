@@ -8945,8 +8945,8 @@
       <tuv lang="EN-US">
         <seg>Batch applications can—in addition to pipelined communication—exchange data by collecting outgoing data at the sender.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T192844Z" creationid="xccui" creationdate="20190606T200625Z">
-        <seg>批处理应用除了流水线式通信之外，还可以在发送端将全部需要发出的数据收集齐。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193021Z" creationid="xccui" creationdate="20190606T200625Z">
+        <seg>批处理应用除了流水线式通信之外，还可以在发送端收集需要发出的数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22313,8 +22313,8 @@
       <tuv lang="EN-US">
         <seg>Once the sender task completes, the data is sent as a batch over a temporary TCP connection to the receiver.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T200648Z" creationid="xccui" creationdate="20190606T200629Z">
-        <seg>一旦发送端任务完成，所有数据会经由一个到接收端的临时TCP连接，批量发出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193024Z" creationid="xccui" creationdate="20190606T200629Z">
+        <seg>一旦发送端任务完成，所有数据会经由一个到接收端的临时TCP连接批量发出。</seg>
       </tuv>
     </tu>
     <tu>
