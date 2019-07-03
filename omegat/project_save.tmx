@@ -9385,8 +9385,8 @@
       <tuv lang="EN-US">
         <seg>By configuring only a single slot per TaskManager, you can isolate applications across TaskManagers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T145000Z" creationid="xccui" creationdate="20190606T144935Z">
-        <seg>通过将每个TaskManager配置成只有一个处理槽，可以控制应用在TaskManager级别进行隔离，即每个TaskManager只运行单个应用的任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071521Z" creationid="xccui" creationdate="20190606T144935Z">
+        <seg>通过将每个TaskManager配置成只有一个处理槽，可以限制应用在TaskManager级别进行隔离，即每个TaskManager只运行单个应用的任务。</seg>
       </tuv>
     </tu>
     <tu>
