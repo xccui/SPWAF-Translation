@@ -32242,8 +32242,8 @@
       <tuv lang="EN-US">
         <seg>Typically, there are multiple TaskManagers running in a Flink setup.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142319Z" creationid="xccui" creationdate="20190606T142319Z">
-        <seg>通常在Flink设置过程中要启动多个TaskManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061024Z" creationid="xccui" creationdate="20190606T142319Z">
+        <seg>通常在Flink搭建过程中要启动多个TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
