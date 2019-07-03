@@ -28530,8 +28530,8 @@
       <tuv lang="EN-US">
         <seg>The mechanism is similar to the buffering techniques used in networking or disk I/O protocols.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195625Z" creationid="xccui" creationdate="20190606T195538Z">
-        <seg>它的机制和网络以及磁盘I/O协议中的缓冲技术很像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T191311Z" creationid="xccui" creationdate="20190606T195538Z">
+        <seg>它的机制类似于网络以及磁盘I/O协议中的缓冲技术。</seg>
       </tuv>
     </tu>
     <tu>
