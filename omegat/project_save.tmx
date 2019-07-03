@@ -10495,6 +10495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently, Flink offers three state backends, the MemoryStateBackend, the FsState Backend, and the RocksDBStateBackend:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221736Z" creationid="xccui" creationdate="20190703T221736Z">
+        <seg>目前Flink提供了三种状态后端：MemoryStateBackend，FsStateBackend以及RocksDBStateBackend：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Currently, Flink provides eight different process functions: ProcessFunction, Keyed ProcessFunction, CoProcessFunction, ProcessJoinFunction, BroadcastProcess Function, KeyedBroadcastProcessFunction, ProcessWindowFunction, and ProcessAllWindowFunction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T051333Z" creationid="xccui" creationdate="20190621T051333Z">
@@ -11507,6 +11515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044254Z" creationid="xccui" creationdate="20190504T044254Z">
         <seg>每个发送端任务至少需要4个网络缓冲区来向任一接收端任务发送数据；同理每个接收端任务也需要至少4个缓冲区来接收数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each state backend provides imple‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221558Z" creationid="xccui" creationdate="20190703T221558Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -14947,6 +14963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T013802Z" creationid="xccui" creationdate="20190314T073857Z">
         <seg>例如：标准化，与其他数据连接或丰富数据，预聚合等一系列在ETL过程中的常见变换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, MapState is backed by a Java HashMap object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221941Z" creationid="xccui" creationdate="20190703T221941Z">
+        <seg>例如，MapState的后端其实是Java HashMap对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21103,10 +21127,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MapState.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221602Z" creationid="xccui" creationdate="20190703T221602Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MapState[K, V] holds a map of keys and values.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055646Z" creationid="xccui" creationdate="20190630T055646Z">
         <seg>MapState[K, V]用于保存一组键到值的映射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MemoryStateBackend stores state as regular objects on the heap of the TaskMan‐ ager JVM process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221848Z" creationid="xccui" creationdate="20190703T221848Z">
+        <seg>MemoryStateBackend将状态以常规对象的方式存储在TaskManager JVM进程的堆里。</seg>
       </tuv>
     </tu>
     <tu>
