@@ -26546,8 +26546,8 @@
       <tuv lang="EN-US">
         <seg>The Dispatcher runs across job executions and provides a REST interface to sub‐ mit applications for execution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142824Z" creationid="xccui" creationdate="20190606T142757Z">
-        <seg>Dispatcher会跨多个作业运行，它提供了一个REST接口用以提交需要执行的应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061537Z" creationid="xccui" creationdate="20190606T142757Z">
+        <seg>Dispatcher会跨多个作业运行，它提供了一个REST接口来让我们提交需要执行的应用。</seg>
       </tuv>
     </tu>
     <tu>
