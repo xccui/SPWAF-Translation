@@ -19473,8 +19473,8 @@
       <tuv lang="EN-US">
         <seg>In “Controlling Task Chaining” on page 261, we show how to disable task chaining for an application and how to control the chaining behavior of individual operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204112Z" creationid="xccui" creationdate="20190606T204112Z">
-        <seg>在第261页的"控制任务链接"一节，我们会展示如何对某一应用内禁用任务链接以及如何单独控制每个算子的链接行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T202250Z" creationid="xccui" creationdate="20190606T204112Z">
+        <seg>在第261页的"控制任务链接"一节，我们会展示如何针对某一应用禁用任务链接以及如何单独控制单个算子的链接行为。</seg>
       </tuv>
     </tu>
     <tu>
