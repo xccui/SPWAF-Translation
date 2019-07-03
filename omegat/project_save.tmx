@@ -36075,8 +36075,8 @@
       <tuv lang="EN-US">
         <seg>data with other TaskManagers that run tasks of the same application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142702Z" creationid="xccui" creationdate="20190606T142702Z">
-        <seg>执行期间，运行同一应用不同任务的TaskManager之间会产生数据交换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061343Z" creationid="xccui" creationdate="20190606T142702Z">
+        <seg>在执行期间，运行同一应用不同任务的TaskManager之间会产生数据交换。</seg>
       </tuv>
     </tu>
     <tu>
