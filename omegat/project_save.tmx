@@ -11385,8 +11385,8 @@
       <tuv lang="EN-US">
         <seg>Each TaskManager provides a certain number of slots.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142532Z" creationid="xccui" creationdate="20190418T051523Z">
-        <seg>每个TaskManager提供一定数量的处理槽，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061037Z" creationid="xccui" creationdate="20190418T051523Z">
+        <seg>每个TaskManager提供一定数量的处理槽。</seg>
       </tuv>
     </tu>
     <tu>
