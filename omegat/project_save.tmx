@@ -17705,8 +17705,8 @@
       <tuv lang="EN-US">
         <seg>In addition, the JobManager writes a pointer to the storage location into ZooKeeper’s datastore.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T194254Z" creationid="xccui" creationdate="20190606T150105Z">
-        <seg>此外，JobManager还会将存储位置的指针（译者注：目录地址）写入ZooKeeper的数据存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073055Z" creationid="xccui" creationdate="20190606T150105Z">
+        <seg>此外，JobManager还会将存储位置的目录地址写入ZooKeeper的数据存储。</seg>
       </tuv>
     </tu>
     <tu>
