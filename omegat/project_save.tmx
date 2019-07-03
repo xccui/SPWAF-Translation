@@ -15913,8 +15913,8 @@
       <tuv lang="EN-US">
         <seg>Hence, it can be useful to run standby JobManagers and TaskManagers that can take over the work of failed processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074204Z" creationid="xccui" creationdate="20190606T195220Z">
-        <seg>因此有必要运行一些后备JobManager及TaskManager来接管故障进程的工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074220Z" creationid="xccui" creationdate="20190606T195220Z">
+        <seg>因此我们有必要运行一些后备JobManager及TaskManager来接管故障进程的工作。</seg>
       </tuv>
     </tu>
     <tu>
