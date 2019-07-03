@@ -14601,8 +14601,8 @@
       <tuv lang="EN-US">
         <seg>Flink uses ZooKeeper for leader election and as a highly available and durable datastore.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T150042Z" creationid="xccui" creationdate="20190606T150002Z">
-        <seg>它在Flink中主要用于"领导"选举以及高可用性数据持久化存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072949Z" creationid="xccui" creationdate="20190606T150002Z">
+        <seg>它在Flink中主要用于"领导"选举以及持久且高可用的数据存储。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33979,8 +33979,8 @@
       <tuv lang="EN-US">
         <seg>When operating in high- availability mode, the JobManager writes the JobGraph and all required metadata,  such as the application’s JAR file, into a remote persistent storage system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T150048Z" creationid="xccui" creationdate="20190606T150048Z">
-        <seg>JobManager在高可用模式下工作时，会将JobGraph以及所有所需的元数据（例如应用的JAR文件）写入到一个远程持久化存储系统中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073026Z" creationid="xccui" creationdate="20190606T150048Z">
+        <seg>JobManager在高可用模式下工作时，会将JobGraph以及所有所需的元数据（例如应用的JAR文件）写入一个远程持久化存储系统中。</seg>
       </tuv>
     </tu>
     <tu>
