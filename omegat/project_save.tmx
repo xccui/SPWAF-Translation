@@ -19305,8 +19305,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss aspects that need to be taken into account to ensure robust execution behavior and consistent performance of long- running applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T212335Z" creationid="xccui" creationdate="20190703T211557Z">
-        <seg>本节我们将重点讨论几个方面，它们会对长期运行应用的健壮执行及一致性能带来保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T212348Z" creationid="xccui" creationdate="20190703T211557Z">
+        <seg>本节我们将重点讨论几个方面，它们会对长期运行应用的健壮执行及一致性能提供保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19507,6 +19507,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064512Z" creationid="xccui" creationdate="20190615T064512Z">
         <seg>在119页"发送至副输出"一节，我们会介绍针对处理函数的副输出功能，它可以从函数中发出多条类型不同的数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In “State Backends” on page 55, we explained that Flink maintains application state in a state backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T213538Z" creationid="xccui" creationdate="20190703T213538Z">
+        <seg>在第55页"状态后端"一节，我们介绍了Flink使用状态后端来维护应用状态。</seg>
       </tuv>
     </tu>
     <tu>
