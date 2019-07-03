@@ -21473,8 +21473,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, this approach can suffer from garbage collec‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222830Z" creationid="xccui" creationdate="20190703T222830Z">
-        <seg>此外，该方法可能由于堆中过多的</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T223438Z" creationid="xccui" creationdate="20190703T222830Z">
+        <seg>此外，该方法可能由于堆中保存了过多长寿命的对象而引发垃圾回收停顿（garbage collection pause）问题。</seg>
       </tuv>
     </tu>
     <tu>
