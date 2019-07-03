@@ -9697,8 +9697,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 2 discussed important concepts of distributed stream processing, such as parallelization, time, and state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T135925Z" creationid="xccui" creationdate="20190606T135925Z">
-        <seg>第2章主要讨论了分布式流处理中的一些重要概念，例如：并行、时间、状态等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T042610Z" creationid="xccui" creationdate="20190606T135925Z">
+        <seg>我们在第2章主要讨论了分布式流处理中的一些重要概念，例如：并行、时间和状态等。</seg>
       </tuv>
     </tu>
     <tu>
