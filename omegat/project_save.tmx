@@ -28418,8 +28418,8 @@
       <tuv lang="EN-US">
         <seg>The metadata of the window typically contains information that can be used</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023211Z" creationid="xccui" creationdate="20190624T011756Z">
-        <seg>窗口的元数据通常包含了一些可用作窗口标识的信息</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023219Z" creationid="xccui" creationdate="20190624T011756Z">
+        <seg>窗口的元数据通常包含了一些可用作窗口标识的信息，</seg>
       </tuv>
     </tu>
     <tu>
@@ -28442,8 +28442,8 @@
       <tuv lang="EN-US">
         <seg>The method has two parameters, checkpointId, which is a unique, monotonically increasing identifier for checkpoints, and timestamp, which is the wall-clock time when the master initiated the checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T050200Z" creationid="xccui" creationdate="20190701T050128Z">
-        <seg>它接收两个参数：checkpointId是一个针对检查点的唯一且单调递增的标识符，timestamp是JobManager开始创建检查点的机器时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023229Z" creationid="xccui" creationdate="20190701T050128Z">
+        <seg>它接收两个参数：checkpointId是一个针对检查点的唯一且单调递增的标识，timestamp是JobManager开始创建检查点的机器时间。</seg>
       </tuv>
     </tu>
     <tu>
