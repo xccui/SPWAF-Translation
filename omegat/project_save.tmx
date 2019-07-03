@@ -21471,6 +21471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, this approach can suffer from garbage collec‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222830Z" creationid="xccui" creationdate="20190703T222830Z">
+        <seg>此外，该方法可能由于堆中过多的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, users of open source software request or contribute new features that are missing to support their use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190322T041404Z" creationid="xccui" creationdate="20190319T054608Z">
@@ -35437,6 +35445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054830Z" creationid="xccui" creationdate="20190617T054830Z">
         <seg>请确保将以下导入语句添加到你的Scala应用中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an OutOfMemoryError.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222743Z" creationid="xccui" creationdate="20190703T222743Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
