@@ -15881,8 +15881,8 @@
       <tuv lang="EN-US">
         <seg>Hence, all data that is required to recover from a JobManager failure is stored in the remote storage and ZooKeeper holds pointers to the storage locations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T194220Z" creationid="xccui" creationdate="20190606T194220Z">
-        <seg>因此所有用于JobManager故障恢复的数据都在远程存储上面，而ZooKeeper持有指向这些存储位置的指针。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073351Z" creationid="xccui" creationdate="20190606T194220Z">
+        <seg>因此所有用于JobManager故障恢复的数据都在远程存储上面，而ZooKeeper持有这些存储位置的路径。</seg>
       </tuv>
     </tu>
     <tu>
