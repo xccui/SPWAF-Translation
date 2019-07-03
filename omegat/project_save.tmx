@@ -21825,8 +21825,8 @@
       <tuv lang="EN-US">
         <seg>Note that shipping records in buffers does imply that Flink’s pro‐ cessing model is based on microbatches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074526Z" creationid="xccui" creationdate="20190606T195722Z">
-        <seg>请注意，将记录放入缓冲区并不意味着Flink的处理模型就是基于微批次的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074935Z" creationid="xccui" creationdate="20190606T195722Z">
+        <seg>请注意，将记录放入缓冲区意味着Flink的处理模型是基于微批次的。</seg>
       </tuv>
     </tu>
     <tu>
