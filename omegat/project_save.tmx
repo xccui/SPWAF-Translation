@@ -8945,8 +8945,8 @@
       <tuv lang="EN-US">
         <seg>Batch applications can—in addition to pipelined communication—exchange data by collecting outgoing data at the sender.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T200625Z" creationid="xccui" creationdate="20190606T200625Z">
-        <seg>批处理应用除了流水线式通信，还可以在发送端收集全部需要发出的数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T192844Z" creationid="xccui" creationdate="20190606T200625Z">
+        <seg>批处理应用除了流水线式通信之外，还可以在发送端将全部需要发出的数据收集齐。</seg>
       </tuv>
     </tu>
     <tu>
