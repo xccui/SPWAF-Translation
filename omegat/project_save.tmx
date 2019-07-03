@@ -28106,8 +28106,8 @@
       <tuv lang="EN-US">
         <seg>The functions of the operators are fused into a single task that is executed by a single thread.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200451Z" creationid="xccui" creationdate="20190606T203546Z">
-        <seg>多个算子的函数被"揉"到同一个任务中，通过一个线程来执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200744Z" creationid="xccui" creationdate="20190606T203546Z">
+        <seg>多个算子的函数被"揉"到同一个任务中，在同一个线程内执行。</seg>
       </tuv>
     </tu>
     <tu>
