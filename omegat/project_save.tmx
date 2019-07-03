@@ -28786,8 +28786,8 @@
       <tuv lang="EN-US">
         <seg>The operator pipeline shown in Figure 3-5 fulfills these requirements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203507Z" creationid="xccui" creationdate="20190606T203341Z">
-        <seg>图3-5中算子所组成的流水线就满足上述需求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200313Z" creationid="xccui" creationdate="20190606T203341Z">
+        <seg>图3-5中算子所组成的流水线就满足上述条件。</seg>
       </tuv>
     </tu>
     <tu>
