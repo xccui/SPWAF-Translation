@@ -14145,8 +14145,8 @@
       <tuv lang="EN-US">
         <seg>Flink features savepoints to maintain applications and their states.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212746Z" creationid="xccui" creationdate="20190702T212746Z">
-        <seg>Flink利用保存点机制来对应用及其状态进行维护。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T214017Z" creationid="xccui" creationdate="20190702T212746Z">
+        <seg>Flink利用保存点机制来对应用及其状态进行维护，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16297,8 +16297,8 @@
       <tuv lang="EN-US">
         <seg>However, it requires that all stateful operators of the initial version of an application specify two parameters to ensure the application can be properly maintained in the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T214012Z" creationid="xccui" creationdate="20190702T214012Z">
-        <seg>但该机制需要应用初始版本的状态化算子指定两个参数才能在日后正常工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T012247Z" creationid="xccui" creationdate="20190702T214012Z">
+        <seg>但它需要初始版本应用的全部状态化算子都指定好两个参数，才能在将来正常工作。</seg>
       </tuv>
     </tu>
     <tu>
