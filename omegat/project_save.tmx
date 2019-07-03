@@ -5616,8 +5616,8 @@
       <tuv lang="EN-US">
         <seg>A Flink setup consists of four different components that work together to execute streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141214Z" creationid="xccui" creationdate="20190606T141214Z">
-        <seg>Flink的设置包含4个不同组件，它们相互协作，共同执行流式应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T055536Z" creationid="xccui" creationdate="20190606T141214Z">
+        <seg>Flink的搭建需要四个不同组件，它们相互协作、共同执行流式应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13753,8 +13753,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we explain how Flink’s highly available mode works.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141208Z" creationid="xccui" creationdate="20190606T141208Z">
-        <seg>最后，我们会解释Flink高可用模式的工作原理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T045240Z" creationid="xccui" creationdate="20190606T141208Z">
+        <seg>最后，我们将解释Flink高可用模式的工作原理。</seg>
       </tuv>
     </tu>
     <tu>
