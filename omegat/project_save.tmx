@@ -18617,8 +18617,8 @@
       <tuv lang="EN-US">
         <seg>In the context of stream processing, one disadvantage of buffering is that it adds latency because records are collected in a buffer instead of being immediately shipped.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202650Z" creationid="esouser" creationdate="20190513T210715Z">
-        <seg>在流处理环境下，缓冲的一个明显缺点是会增加延迟，因为记录首先要在缓冲中收集而不会立即发送。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194650Z" creationid="esouser" creationdate="20190513T210715Z">
+        <seg>在流处理环境下，缓冲的一个明显缺点是会增加延迟，因为记录首先要收集到缓冲区中而不会立即发送。</seg>
       </tuv>
     </tu>
     <tu>
