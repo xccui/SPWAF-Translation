@@ -9385,8 +9385,8 @@
       <tuv lang="EN-US">
         <seg>By configuring only a single slot per TaskManager, you can isolate applications across TaskManagers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071521Z" creationid="xccui" creationdate="20190606T144935Z">
-        <seg>通过将每个TaskManager配置成只有一个处理槽，可以限制应用在TaskManager级别进行隔离，即每个TaskManager只运行单个应用的任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071718Z" creationid="xccui" creationdate="20190606T144935Z">
+        <seg>如果将每个TaskManager配置成只有一个处理槽，则可以限制应用在TaskManager级别进行隔离，即每个TaskManager只运行单个应用的任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9457,8 +9457,8 @@
       <tuv lang="EN-US">
         <seg>By leveraging thread parallelism inside a TaskManager and deploying several TaskMan‐ ager processes per host, Flink offers a lot of flexibility to trade off performance and resource isolation when deploying applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071646Z" creationid="xccui" creationdate="20190606T145021Z">
-        <seg>借助在TaskManager内部采用线程并行以及在每个主机上部署多个TaskManager进程，Flink为部署应用时性能和资源隔离的取舍提供了极大的自由度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071701Z" creationid="xccui" creationdate="20190606T145021Z">
+        <seg>通过在TaskManager内部采用线程并行以及在每个主机上部署多个TaskManager进程，Flink为部署应用时性能和资源隔离的取舍提供了极大的自由度。</seg>
       </tuv>
     </tu>
     <tu>
