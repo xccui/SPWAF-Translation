@@ -26714,8 +26714,8 @@
       <tuv lang="EN-US">
         <seg>The JobManager requests the necessary resources (TaskManager slots) to execute the tasks from the ResourceManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T061959Z" creationid="xccui" creationdate="20190418T034828Z">
-        <seg>JobManager从ResourceManager申请执行任务的必要资源（TaskManager处理槽）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060138Z" creationid="xccui" creationdate="20190418T034828Z">
+        <seg>JobManager从ResourceManager申请执行任务的必要资源（TaskManager处理槽（slot））。</seg>
       </tuv>
     </tu>
     <tu>
