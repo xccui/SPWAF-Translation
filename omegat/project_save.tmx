@@ -15833,8 +15833,8 @@
       <tuv lang="EN-US">
         <seg>Hence, a single misbehaving task can kill a whole TaskManager process and all tasks that run on it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071417Z" creationid="xccui" creationdate="20190606T144925Z">
-        <seg>因此只要有一个任务运行异常，就会终止整个TaskManager进程，导致它上面运行的所有任务都随之停止。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071442Z" creationid="xccui" creationdate="20190606T144925Z">
+        <seg>因此只要有一个任务运行异常，就会终止整个TaskManager进程，导致它上面运行的所有任务都停止。</seg>
       </tuv>
     </tu>
     <tu>
