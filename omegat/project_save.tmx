@@ -17121,8 +17121,8 @@
       <tuv lang="EN-US">
         <seg>If you do not explicitly set unique identifiers to the operators of your stateful applica‐ tion, you will face significant limitations when you have to evolve the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023053Z" creationid="xccui" creationdate="20190703T023053Z">
-        <seg>如果你没有为状态化应用的算子显式指定标识，那么在更新应用时就会受到限制。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023250Z" creationid="xccui" creationdate="20190703T023053Z">
+        <seg>如果你没有为状态化应用的算子显式指定标识，那么在更新应用时就会受到诸多限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32888,6 +32888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We discuss the importance of unique operator identifiers and the mapping of savepoint state in more detail in “Savepoints” on page 66.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023432Z" creationid="xccui" creationdate="20190703T023432Z">
+        <seg>我们已经在第66页"保存点"一节详细讨论了唯一算子标识的重要性及保存点状态的映射规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We discuss the responsibilities of each component and how it interacts with the other components in the following.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033707Z" creationid="xccui" creationdate="20190418T033707Z">
@@ -33172,6 +33180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T041116Z" creationid="xccui" creationdate="20190605T124846Z">
         <seg>我们首先回顾了传统的数据基础架构，业务应用的常规设计以及当今大多数公司如何收集和分析数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We strongly recommend assigning unique identifiers to every operator of an applica‐ tion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023809Z" creationid="xccui" creationdate="20190703T023809Z">
+        <seg>我们强烈建议为应用中的每个算子都分配一个唯一标识。</seg>
       </tuv>
     </tu>
     <tu>
