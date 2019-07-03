@@ -29760,6 +29760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The way operators interact with state has implications on the robustness and perfor‐ mance of an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T210535Z" creationid="xccui" creationdate="20190703T210535Z">
+        <seg>算子和状态的交互会对应用的鲁棒性及性能产生影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The window content holds the elements that have been assigned to the window or the result of the incremental aggregation in case the window operator has a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033304Z" creationid="xccui" creationdate="20190626T033304Z">
