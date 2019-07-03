@@ -18441,8 +18441,8 @@
       <tuv lang="EN-US">
         <seg>In particular, we explain Flink’s distributed architecture, show how it handles time and state in streaming applications, and discuss its fault- tolerance mechanisms.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140429Z" creationid="xccui" creationdate="20190606T140115Z">
-        <seg>我们将重点解释Flink的分布式架构，展示它如何在流式应用中处理时间和状态，继而讨论它的容错机制。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043016Z" creationid="xccui" creationdate="20190606T140115Z">
+        <seg>我们会重点解释Flink的分布式架构，展示它如何在流式应用中处理时间和状态，并讨论它的容错机制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20473,8 +20473,8 @@
       <tuv lang="EN-US">
         <seg>It will help you to understand Flink’s internals and to reason about the perfor‐ mance and behavior of streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140523Z" creationid="xccui" creationdate="20190606T140523Z">
-        <seg>这将帮助你理解Flink的内部原理，评估流式应用的性能及行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043438Z" creationid="xccui" creationdate="20190606T140523Z">
+        <seg>这不但将帮助你理解Flink的内部原理，还能评估流式应用的性能及行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30522,8 +30522,8 @@
       <tuv lang="EN-US">
         <seg>This chapter provides relevant background information to successfully implement and operate advanced streaming applications with Apache Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140516Z" creationid="xccui" creationdate="20190416T054356Z">
-        <seg>本章会涉及使用Apache Flink成功实现并控制高级流式应用的相关背景，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043100Z" creationid="xccui" creationdate="20190416T054356Z">
+        <seg>本章会涉及使用Apache Flink实现并操纵高级流式应用的相关背景，</seg>
       </tuv>
     </tu>
     <tu>
