@@ -23936,6 +23936,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save‐ point state can only be restored to an operator of a started application if their identifi‐ ers are identical.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T022647Z" creationid="xccui" creationdate="20190703T022647Z">
+        <seg>只有当目标应用的算子标识和保存点中的算子标识相同时，状态才能恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scala DataStream API shortcut for a FlatMap with a keyed ValueState</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023016Z" creationid="xccui" creationdate="20190701T023016Z">
