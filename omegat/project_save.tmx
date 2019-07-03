@@ -5944,8 +5944,8 @@
       <tuv lang="EN-US">
         <seg>A container that is started from this image automati‐ cally starts a TaskManager, which connects to the ResourceManager and registers its slots.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063232Z" creationid="xccui" creationdate="20190606T143759Z">
-        <seg>容器通过映像启动后会自动运行TaskManager，后者将连接ResourceManager并注册其处理槽。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063322Z" creationid="xccui" creationdate="20190606T143759Z">
+        <seg>容器通过映像启动后会自动运行TaskManager，后者连接ResourceManager并向其注册处理槽。</seg>
       </tuv>
     </tu>
     <tu>
