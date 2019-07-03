@@ -14753,8 +14753,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s high-availability mode is based on Apache ZooKeeper, a system for distributed services that require coordination and consensus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T150018Z" creationid="xccui" creationdate="20190606T145941Z">
-        <seg>Flink的高可用模式是基于能够提供分布式协调和共识服务的Apache ZooKeeper系统来完成，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072755Z" creationid="xccui" creationdate="20190606T145941Z">
+        <seg>Flink中的高可用模式是基于能够提供分布式协调和共识服务的Apache ZooKeeper来完成的，</seg>
       </tuv>
     </tu>
     <tu>
