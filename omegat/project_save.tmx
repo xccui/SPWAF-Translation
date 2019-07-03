@@ -19705,7 +19705,7 @@
       <tuv lang="EN-US">
         <seg>Instead, Flink is bundled as a library together with the application in a container image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T040922Z" creationid="xccui" creationdate="20190423T040832Z">
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063806Z" creationid="xccui" creationdate="20190423T040832Z">
         <seg>而是以库的形式绑定在应用所在的容器映像中。</seg>
       </tuv>
     </tu>
@@ -30554,8 +30554,8 @@
       <tuv lang="EN-US">
         <seg>This deployment mode is common for microservices architectures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063605Z" creationid="xccui" creationdate="20190606T144242Z">
-        <seg>后一种模式常用于微服务架构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063821Z" creationid="xccui" creationdate="20190606T144242Z">
+        <seg>后者常用于微服务架构。</seg>
       </tuv>
     </tu>
     <tu>
