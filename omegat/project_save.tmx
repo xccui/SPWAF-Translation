@@ -28602,8 +28602,8 @@
       <tuv lang="EN-US">
         <seg>The operator identifier and state name are required to be able to map the state data of a savepoint to the states of the operators of a starting application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215509Z" creationid="xccui" creationdate="20190609T215456Z">
-        <seg>该算子标识符和状态名需要能将保存点的状态数据映射到应用启动后的算子状态上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023147Z" creationid="xccui" creationdate="20190609T215456Z">
+        <seg>该算子标识和状态名需要能将保存点的状态数据映射到应用启动后的算子状态上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29202,8 +29202,8 @@
       <tuv lang="EN-US">
         <seg>The state copies in the savepoint are organized by an operator identifier and a state name.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215327Z" creationid="xccui" creationdate="20190609T215249Z">
-        <seg>保存点中拷贝的状态会按照一个算子标识符和一个状态名称进行组织。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023143Z" creationid="xccui" creationdate="20190609T215249Z">
+        <seg>保存点中的状态副本会按照算子标识和状态名称进行组织。</seg>
       </tuv>
     </tu>
     <tu>
