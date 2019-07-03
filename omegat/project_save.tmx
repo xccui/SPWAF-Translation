@@ -11001,8 +11001,8 @@
       <tuv lang="EN-US">
         <seg>Depending on how an application is submitted for execution (dis‐ cussed in “Application Deployment”), a dispatcher might not be required.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061818Z" creationid="xccui" creationdate="20190606T142947Z">
-        <seg>根据应用提交执行的方式（我们会在"应用部署"一节讨论），Dispatcher可能并非必需。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061935Z" creationid="xccui" creationdate="20190606T142947Z">
+        <seg>某些应用提交执行的方式（我们会在"应用部署"一节讨论）可能用不到Dispatcher。</seg>
       </tuv>
     </tu>
     <tu>
