@@ -15313,8 +15313,8 @@
       <tuv lang="EN-US">
         <seg>For leader election in highly available setups, Flink depends on Apache ZooKeeper.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140840Z" creationid="xccui" creationdate="20190606T140816Z">
-        <seg>Flink依赖Apache ZooKeeper来完成高可用设置中的领导选举。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T044706Z" creationid="xccui" creationdate="20190606T140816Z">
+        <seg>它依赖Apache ZooKeeper来完成高可用性设置中的领导选举工作。</seg>
       </tuv>
     </tu>
     <tu>
