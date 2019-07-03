@@ -14289,8 +14289,8 @@
       <tuv lang="EN-US">
         <seg>Flink is well integrated with cluster resource managers, such as Apache Mesos, YARN, and Kubernetes, but can also be configured to run as a stand- alone cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140736Z" creationid="xccui" creationdate="20190606T140736Z">
-        <seg>Flink和很多集群管理器，例如：Apache Mesos、YARN、Kubernetes，都有很好地集成；同时它也可以通过配置以独立集群模式运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T044510Z" creationid="xccui" creationdate="20190606T140736Z">
+        <seg>Flink和很多集群管理器（cluster resource manager）（如Apache Mesos、YARN及Kubernetes）都能很好地集成；同时它也可以通过配置，作为独立集群来运行。</seg>
       </tuv>
     </tu>
     <tu>
