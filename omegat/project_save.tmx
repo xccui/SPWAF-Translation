@@ -29090,8 +29090,8 @@
       <tuv lang="EN-US">
         <seg>The receiving task takes the buffer from the queue and deserializes the incoming records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T192333Z" creationid="esouser" creationdate="20190513T192253Z">
-        <seg>接收任务会从这个队列里获取缓冲并反序列化其中的记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194041Z" creationid="esouser" creationdate="20190513T192253Z">
+        <seg>接收任务会从这个队列里获取缓冲区并将其中的记录反序列化。</seg>
       </tuv>
     </tu>
     <tu>
