@@ -7816,8 +7816,8 @@
       <tuv lang="EN-US">
         <seg>An operator pipeline that complies with the requirements of task chaining</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203432Z" creationid="xccui" creationdate="20190606T203431Z">
-        <seg>满足任务链接需求的算子流水线</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200254Z" creationid="xccui" creationdate="20190606T203431Z">
+        <seg>满足任务链接条件的算子流水线</seg>
       </tuv>
     </tu>
     <tu>
