@@ -28634,8 +28634,8 @@
       <tuv lang="EN-US">
         <seg>The network component of a TaskManager collects records in buffers before they are shipped, i.e., records are not shipped one by one but batched into buffers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074502Z" creationid="xccui" creationdate="20190606T195414Z">
-        <seg>它的网络模块在记录传输前会将它们在缓冲区中收集起来，因此，记录并非逐个发送的，而是在缓冲区中以批次形式发送。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T191248Z" creationid="xccui" creationdate="20190606T195414Z">
+        <seg>它的网络模块在记录传输前会先将它们收集到缓冲区中。换言之，记录并非逐个发送的，而是在缓冲区中以批次形式发送。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29498,8 +29498,8 @@
       <tuv lang="EN-US">
         <seg>The tasks of a running application are continuously exchanging data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T190827Z" creationid="xccui" creationdate="20190504T040830Z">
-        <seg>在运行状态下，应用的任务会持续进行数据交互。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T190921Z" creationid="xccui" creationdate="20190504T040830Z">
+        <seg>在运行状态下，应用的任务会持续进行数据交换。</seg>
       </tuv>
     </tu>
     <tu>
