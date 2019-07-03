@@ -9937,8 +9937,8 @@
       <tuv lang="EN-US">
         <seg>Common challenges that distributed systems need to address are allocation and man‐ agement of compute resources in a cluster, process coordination, durable and highly available data storage, and failure recovery.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140641Z" creationid="xccui" creationdate="20190606T140641Z">
-        <seg>分布式系统需要应对的常见挑战包括分配和管理集群计算资源、进程协调、持久化及可用数据存储、故障恢复等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T044118Z" creationid="xccui" creationdate="20190606T140641Z">
+        <seg>分布式系统需要应对的常见挑战包括分配和管理集群计算资源，进程协调，持久且高可用的数据存储及故障恢复等。</seg>
       </tuv>
     </tu>
     <tu>
