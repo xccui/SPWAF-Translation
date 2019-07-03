@@ -34011,8 +34011,8 @@
       <tuv lang="EN-US">
         <seg>When running an application as a library deployment in a container environment, such as Kubernetes, failed JobManager or TaskManager containers are usually auto‐ matically restarted by the container orchestration service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195057Z" creationid="xccui" creationdate="20190606T195057Z">
-        <seg>当在容器环境（如：Kubernetes）中将应用作为库部署运行时，容器编排服务通常会自动重启故障的JobManager或TaskManager容器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073930Z" creationid="xccui" creationdate="20190606T195057Z">
+        <seg>当在容器环境（如Kubernetes）中将应用作为库部署运行时，容器编排服务通常会自动重启故障的JobManager或TaskManager容器。</seg>
       </tuv>
     </tu>
     <tu>
