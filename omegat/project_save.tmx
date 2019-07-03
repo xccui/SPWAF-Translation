@@ -15257,8 +15257,8 @@
       <tuv lang="EN-US">
         <seg>For instance, in a standalone setup—a setup without a resource provider—the ResourceManager can only distribute the slots of available TaskManagers and cannot start new TaskManag‐ ers on its own.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143258Z" creationid="xccui" creationdate="20190606T143258Z">
-        <seg>例如：独立集群设置中没有资源提供者，因此ResourceManager只能分配现有TaskManager中的处理槽而无法自己启动新的TaskManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T062709Z" creationid="xccui" creationdate="20190606T143258Z">
+        <seg>例如：独立集群设置下没有资源提供者，因此ResourceManager只能分配现有TaskManager中的处理槽而无法自己启动新的TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
