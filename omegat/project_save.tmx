@@ -12431,6 +12431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024115Z" creationid="xccui" creationdate="20190703T024115Z">
+        <seg>示例7-10，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 7-2 shows the implementation of a FlatMapFunction with a keyed Value State that checks whether the measured temperature changed more than a config‐ ured threshold.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064132Z" creationid="xccui" creationdate="20190630T064132Z">
@@ -24384,6 +24392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setting a unique identifier for an operator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024124Z" creationid="xccui" creationdate="20190703T024124Z">
+        <seg>为算子设置唯一标识</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting the Parallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050657Z" creationid="esouser" creationdate="20190603T145135Z">
@@ -33186,8 +33202,8 @@
       <tuv lang="EN-US">
         <seg>We strongly recommend assigning unique identifiers to every operator of an applica‐ tion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023910Z" creationid="xccui" creationdate="20190703T023809Z">
-        <seg>我们强烈建议你为应用中的每个算子都分配一个唯一标识。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024044Z" creationid="xccui" creationdate="20190703T023809Z">
+        <seg>我们强烈建议你为应用中的每个算子都分配唯一标识，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34741,6 +34757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T042619Z" creationid="xccui" creationdate="20190329T042619Z">
         <seg>如下所示，你可以使用tail命令监控持续产生的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set the identifier with the uid() method as shown in Example 7-10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024110Z" creationid="xccui" creationdate="20190703T023949Z">
+        <seg>具体方式可以像示例7-10中那样利用uid()方法。</seg>
       </tuv>
     </tu>
     <tu>
