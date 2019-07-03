@@ -19305,8 +19305,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss aspects that need to be taken into account to ensure robust execution behavior and consistent performance of long- running applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T211557Z" creationid="xccui" creationdate="20190703T211557Z">
-        <seg>本节我们将讨论几个和确保长时间运行应用的稳定执行和一致性能需要考虑的方面，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T212335Z" creationid="xccui" creationdate="20190703T211557Z">
+        <seg>本节我们将重点讨论几个方面，它们会对长期运行应用的健壮执行及一致性能带来保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29938,8 +29938,8 @@
       <tuv lang="EN-US">
         <seg>There are several aspects that affect the behavior of an appli‐ cation such as the choice of the state backend that locally maintains the state and performs checkpoints, the configuration of the checkpointing algorithm, and the size of the application’s state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T211254Z" creationid="xccui" creationdate="20190703T210934Z">
-        <seg>这些影响的原因是多方面的，例如，对于用来维护本地状态和生成检查点的状态后端的选择，配置的检查点生成算法，以及应用状态大小。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T211607Z" creationid="xccui" creationdate="20190703T210934Z">
+        <seg>这些影响的原因是多方面的，例如，对于用来维护本地状态和生成检查点的状态后端的选择，配置的检查点生成算法以及应用状态大小。</seg>
       </tuv>
     </tu>
     <tu>
