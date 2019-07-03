@@ -38323,8 +38323,8 @@
       <tuv lang="EN-US">
         <seg>point—when all tasks have successfully written their state into the remote storage— the JobManager writes the state handles to the remote storage and a pointer to this location to ZooKeeper.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073225Z" creationid="xccui" creationdate="20190606T150217Z">
-        <seg>在检查点即将完成的时候，如果所有任务已经将各自状态成功写入远程存储，JobManager就会将状态句柄写入远程存储，并将远程位置的目录写入ZooKeeper。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073233Z" creationid="xccui" creationdate="20190606T150217Z">
+        <seg>在检查点即将完成的时候，如果所有任务已经将各自状态成功写入远程存储，JobManager就会将状态句柄写入远程存储，并将远程位置的路径写入ZooKeeper。</seg>
       </tuv>
     </tu>
     <tu>
