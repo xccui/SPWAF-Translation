@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.setMaxParallelism(1024)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025203Z" creationid="xccui" creationdate="20190703T025203Z">
+        <seg>.setMaxParallelism(1024)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.sideOutputLateData(new OutputTag[SensorReading]("late-readings"))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154958Z" creationid="xingcan" creationdate="20190628T154958Z">
@@ -2366,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// override the application-wide value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025201Z" creationid="xccui" creationdate="20190703T025142Z">
+        <seg>// 会覆盖应用级别的数值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// partition and key the stream on the sensor ID</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062056Z" creationid="xccui" creationdate="20190630T062056Z">
@@ -2618,6 +2634,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044631Z" creationid="xccui" creationdate="20190620T044631Z">
         <seg>// 设置为事件时间特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// set the maximum parallelism for this application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025101Z" creationid="xccui" creationdate="20190703T025044Z">
+        <seg>// 为此应用设置最大并行度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// set the maximum parallelism for this operator and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025128Z" creationid="xccui" creationdate="20190703T025128Z">
+        <seg>// 为此算子设置最大并行度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24434,8 +24466,8 @@
       <tuv lang="EN-US">
         <seg>Setting the maximum parallelism of operators</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025015Z" creationid="xccui" creationdate="20190703T025015Z">
-        <seg>为算子设置最大并行度</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025050Z" creationid="xccui" creationdate="20190703T025015Z">
+        <seg>设置算子的最大并行度</seg>
       </tuv>
     </tu>
     <tu>
@@ -27404,6 +27436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045718Z" creationid="xccui" creationdate="20190620T045718Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default maximum parallelism of an operator depends on the operator’s parallel‐ ism in the application’s first version:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025347Z" creationid="xccui" creationdate="20190703T025347Z">
+        <seg>算子的默认最大并行度会取决于应用首个版本中算子的并行度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36213,6 +36253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045802Z" creationid="xccui" creationdate="20190620T045802Z">
         <seg>env.getConfig.setAutoWatermarkInterval(5000)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.setMaxParallelism(512)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025105Z" creationid="xccui" creationdate="20190703T025105Z">
+        <seg>env.setMaxParallelism(512)</seg>
       </tuv>
     </tu>
     <tu>
