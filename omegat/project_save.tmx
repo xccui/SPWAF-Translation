@@ -21289,8 +21289,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, it is an effective mechanism to distribute network resources in the case of skewed data distributions because credit is granted based on the size of the senders’ backlog.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195854Z" creationid="xccui" creationdate="20190606T203116Z">
-        <seg>此外，信用值的授予是根据各发送端的数据积压量来完成，因此该机制还会在出现数据倾斜（data skew）时有效地分配网络资源。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195923Z" creationid="xccui" creationdate="20190606T203116Z">
+        <seg>此外，信用值的授予是根据各发送端的数据积压量来完成的，因此该机制还会在出现数据倾斜（data skew）时有效地分配网络资源。</seg>
       </tuv>
     </tu>
     <tu>
