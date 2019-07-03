@@ -28010,8 +28010,8 @@
       <tuv lang="EN-US">
         <seg>The framework style follows the traditional approach of submitting an application (or query) via a client to a running service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144133Z" creationid="xccui" creationdate="20190606T144133Z">
-        <seg>基于框架的模式遵循传统方式，即通过客户端提交应用（或查询）到正在运行的服务上；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063547Z" creationid="xccui" creationdate="20190606T144133Z">
+        <seg>基于框架的模式遵循传统方式，即通过客户端提交应用（或查询）到正在运行的服务上。</seg>
       </tuv>
     </tu>
     <tu>
