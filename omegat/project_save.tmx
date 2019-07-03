@@ -5792,8 +5792,8 @@
       <tuv lang="EN-US">
         <seg>A TaskManager offers a certain number of processing slots to control the number of tasks it is able to concurrently execute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144403Z" creationid="xccui" creationdate="20190606T144350Z">
-        <seg>TaskManager通过提供固定数量的处理槽来控制可以并发执行的任务数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063916Z" creationid="xccui" creationdate="20190606T144350Z">
+        <seg>TaskManager通过提供固定数量的处理槽来控制可以并行执行的任务数。</seg>
       </tuv>
     </tu>
     <tu>
