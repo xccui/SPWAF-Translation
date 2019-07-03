@@ -10985,8 +10985,8 @@
       <tuv lang="EN-US">
         <seg>Depending on    the environment (YARN, Mesos, Kubernetes, standalone cluster), some steps can be omitted or components might run in the same JVM process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143250Z" creationid="xccui" creationdate="20190606T143213Z">
-        <seg>根据环境的不同（YARN、Mesos、Kubernetes、独立集群），有些步骤其实可以省略，也可能会有多个组件运行在同一个JVM进程中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T062037Z" creationid="xccui" creationdate="20190606T143213Z">
+        <seg>根据环境的不同（YARN、Mesos、Kubernetes或独立集群），有些步骤其实可以省略，也可能会有多个组件运行在同一个JVM进程中。</seg>
       </tuv>
     </tu>
     <tu>
