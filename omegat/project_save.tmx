@@ -14201,8 +14201,8 @@
       <tuv lang="EN-US">
         <seg>Flink features multiple ResourceManagers for different environments and resource providers such as YARN, Mesos, Kubernetes, and standalone deploy‐ ments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060349Z" creationid="xccui" creationdate="20190606T142057Z">
-        <seg>针对不同的环境和资源提供者（如YARN、Mesos、Kubernetes或独立部署），Flink提供了不同的ResourceManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060817Z" creationid="xccui" creationdate="20190606T142057Z">
+        <seg>针对不同的环境和资源提供者（resource provider）（如YARN、Mesos、Kubernetes或独立部署），Flink提供了不同的ResourceManager。</seg>
       </tuv>
     </tu>
     <tu>
