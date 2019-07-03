@@ -7160,8 +7160,8 @@
       <tuv lang="EN-US">
         <seg>After it has been started, a TaskManager registers its slots to the ResourceManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142555Z" creationid="xccui" creationdate="20190606T142555Z">
-        <seg>在TaskManager启动后，会将它的处理槽在ResourceManager中注册。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061148Z" creationid="xccui" creationdate="20190606T142555Z">
+        <seg>TaskManager在启动后，会将它的处理槽在ResourceManager中注册。</seg>
       </tuv>
     </tu>
     <tu>
