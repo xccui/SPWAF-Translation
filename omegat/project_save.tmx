@@ -28432,6 +28432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum parallelism parameter of an operator defines the number of key groups into which the keyed state of the operator is split.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024348Z" creationid="xccui" creationdate="20190703T024348Z">
+        <seg>算子的最大并行度参数定义了算子在对键值状态进行分割时所用到的键值组（key group）的数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The mechanism is similar to buffering techniques used in networking or disk IO pro&lt;t2/&gt;‐&lt;t3/&gt; tocols.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T041925Z" creationid="xccui" creationdate="20190504T041925Z">
@@ -28564,6 +28572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205958Z" creationid="xccui" creationdate="20190615T051632Z">
         <seg>接下来的示例展示了如何联结一个（未按照键值分区的）DataStream和一个广播流：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of key groups limits the maximum number of parallel tasks to which keyed state can be scaled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024550Z" creationid="xccui" creationdate="20190703T024550Z">
+        <seg>该数量限制了键值分区状态可以被扩展到的最大并行任务数。</seg>
       </tuv>
     </tu>
     <tu>
