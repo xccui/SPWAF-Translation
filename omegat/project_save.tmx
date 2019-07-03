@@ -29498,8 +29498,8 @@
       <tuv lang="EN-US">
         <seg>The tasks of a running application are continuously exchanging data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074417Z" creationid="xccui" creationdate="20190504T040830Z">
-        <seg>在运行状态下，应用的任务会持续交换数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T190827Z" creationid="xccui" creationdate="20190504T040830Z">
+        <seg>在运行状态下，应用的任务会持续进行数据交互。</seg>
       </tuv>
     </tu>
     <tu>
