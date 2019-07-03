@@ -22241,8 +22241,8 @@
       <tuv lang="EN-US">
         <seg>Once an application is submitted for execution, it starts a JobManager and hands the application over.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142904Z" creationid="xccui" creationdate="20190606T142857Z">
-        <seg>一旦某个应用提交执行，Dispatcher会启动一个JobManager并将应用交付给它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061658Z" creationid="xccui" creationdate="20190606T142857Z">
+        <seg>一旦某个应用提交执行，Dispatcher会启动一个JobManager并将应用转交给它。</seg>
       </tuv>
     </tu>
     <tu>
