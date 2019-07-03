@@ -33627,8 +33627,8 @@
       <tuv lang="EN-US">
         <seg>When a JobManager requests TaskManager slots, the ResourceManager instructs a TaskManager with idle slots to offer them to the JobManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060719Z" creationid="xccui" creationdate="20190418T050502Z">
-        <seg>当JobManager申请TaskManager处理槽时，ResourceManager会指示一个拥有空闲处理槽的TaskManager将这些处理槽提供给JobManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060731Z" creationid="xccui" creationdate="20190418T050502Z">
+        <seg>当JobManager申请TaskManager处理槽时，ResourceManager会指示一个拥有空闲处理槽的TaskManager将其处理槽提供给JobManager。</seg>
       </tuv>
     </tu>
     <tu>
