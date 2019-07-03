@@ -15681,8 +15681,8 @@
       <tuv lang="EN-US">
         <seg>Given two TaskManagers with two processing slots each, this requirement is fulfilled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144546Z" creationid="xccui" creationdate="20190606T144546Z">
-        <seg>给定两个TaskManager，每个TaskManager内都有两个处理槽，即可满足该需求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071124Z" creationid="xccui" creationdate="20190606T144546Z">
+        <seg>如果每个TaskManager内有两个处理槽，则给定两个TaskManager即可满足该需求。</seg>
       </tuv>
     </tu>
     <tu>
