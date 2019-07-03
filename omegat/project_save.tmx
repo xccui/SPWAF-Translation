@@ -26730,8 +26730,8 @@
       <tuv lang="EN-US">
         <seg>The Job‐ Manager receives an application for execution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141542Z" creationid="xccui" creationdate="20190606T141542Z">
-        <seg>JobManager可以接收用于执行的应用，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T055657Z" creationid="xccui" creationdate="20190606T141542Z">
+        <seg>JobManager可以接收并运行某一应用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30050,8 +30050,8 @@
       <tuv lang="EN-US">
         <seg>These components are a JobManager, a ResourceManager, a TaskManager, and a Dispatcher.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033541Z" creationid="xccui" creationdate="20190418T033541Z">
-        <seg>这些组件是：JobManager、ResourceManager、TaskManager及Dispatcher。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T055541Z" creationid="xccui" creationdate="20190418T033541Z">
+        <seg>这些组件是：JobManager、ResourceManager、TaskManager和Dispatcher。</seg>
       </tuv>
     </tu>
     <tu>
