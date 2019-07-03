@@ -32202,8 +32202,8 @@
       <tuv lang="EN-US">
         <seg>Typically, an external resource manager such as Kubernetes takes care of starting the images and ensures that containers are restarted in case of a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063453Z" creationid="xccui" creationdate="20190606T143951Z">
-        <seg>通常情况下，外部资源管理器（如：Kubernetes）负责启动映像，并确保在故障时可以重启容器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063504Z" creationid="xccui" creationdate="20190606T143951Z">
+        <seg>通常情况下，外部资源管理器（如：Kubernetes）负责启动映像，并确保在发生故障时可以重启容器。</seg>
       </tuv>
     </tu>
     <tu>
