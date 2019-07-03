@@ -29762,8 +29762,8 @@
       <tuv lang="EN-US">
         <seg>The way operators interact with state has implications on the robustness and perfor‐ mance of an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T210535Z" creationid="xccui" creationdate="20190703T210535Z">
-        <seg>算子和状态的交互会对应用的鲁棒性及性能产生影响。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T210606Z" creationid="xccui" creationdate="20190703T210535Z">
+        <seg>算子和状态的交互会对应用的鲁棒性及性能产生一些影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29924,6 +29924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060440Z" creationid="xccui" creationdate="20190618T060440Z">
         <seg>DataStream API中的所有转换函数都有对应的富函数，它们能够的使用位置和普通函数以及lambda函数相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are several aspects that affect the behavior of an appli‐ cation such as the choice of the state backend that locally maintains the state and performs checkpoints, the configuration of the checkpointing algorithm, and the size of the application’s state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T210934Z" creationid="xccui" creationdate="20190703T210934Z">
+        <seg>这些影响体现在多个方面，例如对用于本地状态维护和生成检查点的状态后端的选择，</seg>
       </tuv>
     </tu>
     <tu>
