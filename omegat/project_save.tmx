@@ -14729,8 +14729,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s default configuration for network buffers is sufficient for small- to medium-sized set‐ ups.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T201811Z" creationid="xccui" creationdate="20190606T201811Z">
-        <seg>Flink默认的网络缓冲区配置足以应对中小型设置场景。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193744Z" creationid="xccui" creationdate="20190606T201811Z">
+        <seg>Flink默认的网络缓冲区配置足以应对中小型使用场景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15305,8 +15305,8 @@
       <tuv lang="EN-US">
         <seg>For larger setups, you need to tune the configuration as described in “Main Memory and Network Buffers” on page 240.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202005Z" creationid="xccui" creationdate="20190606T201833Z">
-        <seg>而对于大型设置场景，需要根据第240页"内存和网络缓冲"一节所介绍的内容调节配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193749Z" creationid="xccui" creationdate="20190606T201833Z">
+        <seg>而对于大型使用场景，需要根据第240页"内存和网络缓冲"一节所介绍的内容调节配置。</seg>
       </tuv>
     </tu>
     <tu>
