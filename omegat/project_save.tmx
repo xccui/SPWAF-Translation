@@ -16993,8 +16993,8 @@
       <tuv lang="EN-US">
         <seg>If the sender and receiver tasks run in separate TaskManager pro‐ cesses, they communicate via the network stack of the operating system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T191526Z" creationid="xccui" creationdate="20190606T195843Z">
-        <seg>如果发送端和接收端的任务运行在不同的TaskManager进程中，它们就要利用操作系统的网络栈进行通信。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T191535Z" creationid="xccui" creationdate="20190606T195843Z">
+        <seg>如果发送端和接收端的任务运行在不同的TaskManager进程中，它们就要用到操作系统的网络栈进行通信。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25698,8 +25698,8 @@
       <tuv lang="EN-US">
         <seg>Streaming applications need to exchange data in a pipelined fashion—each pair of TaskManag‐ ers maintains a permanent TCP connection to exchange data.2 With a shuffle connec‐ tion pattern, each sender task needs to be able to send data to each receiving task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T200054Z" creationid="xccui" creationdate="20190606T195847Z">
-        <seg>流式应用需要以流水线方式交换数据，每对TaskManager之间都维护一个永久的TCP连接来执行数据交换2。在shuffle连接模式下，每个发送端的任务都需要向每个接受任务发送数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T191814Z" creationid="xccui" creationdate="20190606T195847Z">
+        <seg>流式应用需要以流水线方式交换数据，每对TaskManager之间都要维护一个永久的TCP连接来执行数据交换2。在Shuffle连接模式下，每个发送端任务都需要向每个接受任务传输数据。</seg>
       </tuv>
     </tu>
     <tu>
