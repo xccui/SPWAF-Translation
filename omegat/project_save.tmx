@@ -14153,8 +14153,8 @@
       <tuv lang="EN-US">
         <seg>Flink features an optimization technique called task chaining that reduces the over‐ head of local communication under certain conditions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203233Z" creationid="xccui" creationdate="20190606T203214Z">
-        <seg>Flink采用一种名为任务链接的优化技术来降低部分情况下本地通信的开销。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200205Z" creationid="xccui" creationdate="20190606T203214Z">
+        <seg>Flink采用一种名为任务链接的优化技术来降低某些情况下的本地通信开销。</seg>
       </tuv>
     </tu>
     <tu>
