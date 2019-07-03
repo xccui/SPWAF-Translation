@@ -36131,8 +36131,8 @@
       <tuv lang="EN-US">
         <seg>deploying Flink applications and the way each distributes and executes tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T045118Z" creationid="xccui" creationdate="20190606T141058Z">
-        <seg>我们主要会讨论两类部署Flink应用的方式以及它们如何分配及执行任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T045209Z" creationid="xccui" creationdate="20190606T141058Z">
+        <seg>我们主要讨论两类部署Flink应用的方式以及它们如何分配和执行任务。</seg>
       </tuv>
     </tu>
     <tu>
