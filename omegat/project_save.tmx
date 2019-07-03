@@ -8969,8 +8969,8 @@
       <tuv lang="EN-US">
         <seg>Because local state can be maintained and checkpointed in different ways, state backends are pluggable—two applications can use different state backend implementations to maintain their states.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T214504Z" creationid="xccui" creationdate="20190703T214504Z">
-        <seg>由于本地状态的维护及写入检查点的方式多种多样，所以状态后端被设计为可插拔的（pluggable）——两个应用可以使用不同的状态后端实现来维护其状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221421Z" creationid="xccui" creationdate="20190703T214504Z">
+        <seg>由于本地状态的维护及写入检查点的方式多种多样，所以状态后端被设计为可插拔的（pluggable）——两个应用可以选用不同的状态后端实现来维护其状态。</seg>
       </tuv>
     </tu>
     <tu>
