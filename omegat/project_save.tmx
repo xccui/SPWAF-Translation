@@ -29082,8 +29082,8 @@
       <tuv lang="EN-US">
         <seg>The receiver processes the shipped data with the reserved buffers and uses the sender’s backlog size to prioritize the next credit grants for all its connected senders.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195403Z" creationid="esouser" creationdate="20190514T143015Z">
-        <seg>接收端使用保留的缓冲来处理接收到的数据，同时依据各发送端的积压量信息来计算所有相连的发送端在下一轮的信用优先级。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195811Z" creationid="esouser" creationdate="20190514T143015Z">
+        <seg>接收端使用保留的缓冲来处理收到的数据，同时依据各发送端的积压量信息来计算所有相连的发送端在下一轮的信用优先级。</seg>
       </tuv>
     </tu>
     <tu>
