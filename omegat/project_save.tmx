@@ -26730,8 +26730,8 @@
       <tuv lang="EN-US">
         <seg>The Job‐ Manager receives an application for execution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T055657Z" creationid="xccui" creationdate="20190606T141542Z">
-        <seg>JobManager可以接收并运行某一应用，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T055934Z" creationid="xccui" creationdate="20190606T141542Z">
+        <seg>JobManager可以接收要执行的应用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27050,8 +27050,8 @@
       <tuv lang="EN-US">
         <seg>The application consists of a so- called JobGraph, a logical dataflow graph (see “Introduction to Dataflow Programming”), and a JAR file that bundles all the required classes, libraries, and other resources.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141712Z" creationid="xccui" creationdate="20190606T141549Z">
-        <seg>该应用会包含一个所谓的JobGraph，一个逻辑Dataflow图（见"Dataflow编程介绍"），还有一个打包了全部所需类、库以及其他资源的JAR文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T055735Z" creationid="xccui" creationdate="20190606T141549Z">
+        <seg>该应用会包含一个所谓的JobGraph，一个逻辑Dataflow图（见"Dataflow编程介绍"），以及一个打包了全部所需类、库以及其他资源的JAR文件。</seg>
       </tuv>
     </tu>
     <tu>
