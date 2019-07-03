@@ -16865,8 +16865,8 @@
       <tuv lang="EN-US">
         <seg>If the application was submitted to a Dispatcher or YARN ResourceManager, it will spin up a JobManager and hand over the application, and the JobManager will start to execute the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143514Z" creationid="xccui" creationdate="20190606T143514Z">
-        <seg>如果应用提交到Dispatcher或YARN ResourceManager，它们会启动一个JobManager并将应用转交给它，随后由JobManager负责继续执行应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T062914Z" creationid="xccui" creationdate="20190606T143514Z">
+        <seg>如果应用提交到Dispatcher或YARN ResourceManager，它们会启动一个JobManager并将应用转交给它，随后由JobManager负责执行该应用。</seg>
       </tuv>
     </tu>
     <tu>
