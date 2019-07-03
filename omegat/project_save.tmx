@@ -6336,8 +6336,8 @@
       <tuv lang="EN-US">
         <seg>A receiving task grants some credit to a sending task, the number of network buffers that are reserved to receive its data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202744Z" creationid="xccui" creationdate="20190606T202733Z">
-        <seg>一个接收任务会给一个发送任务授予一定的信用值，其实就是保留一些用来接收它数据的网络缓冲。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194828Z" creationid="xccui" creationdate="20190606T202733Z">
+        <seg>接收任务会给发送任务授予一定的信用值，其实就是保留一些用来接收它数据的网络缓冲。</seg>
       </tuv>
     </tu>
     <tu>
