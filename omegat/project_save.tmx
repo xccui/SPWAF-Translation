@@ -5784,8 +5784,8 @@
       <tuv lang="EN-US">
         <seg>A TaskManager needs one dedicated network buffer for each receiving task that any of its tasks need to send data to.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044911Z" creationid="xccui" creationdate="20190504T043448Z">
-        <seg>对于每一个接收任务，TaskManager都需要一个特定的网络缓冲区，用于接收其上任意任务发来的数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T192438Z" creationid="xccui" creationdate="20190504T043448Z">
+        <seg>对于每一个接收任务，TaskManager都要提供一个专用的网络缓冲区，用于接收其他任务发来的数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25698,8 +25698,8 @@
       <tuv lang="EN-US">
         <seg>Streaming applications need to exchange data in a pipelined fashion—each pair of TaskManag‐ ers maintains a permanent TCP connection to exchange data.2 With a shuffle connec‐ tion pattern, each sender task needs to be able to send data to each receiving task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T192048Z" creationid="xccui" creationdate="20190606T195847Z">
-        <seg>流式应用需要以流水线方式交换数据，因此每对TaskManager之间都要维护一个永久的TCP连接来执行数据交换2。在Shuffle连接模式下，每个发送端任务都需要向任意一个接收端任务传输数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T192058Z" creationid="xccui" creationdate="20190606T195847Z">
+        <seg>流式应用需要以流水线方式交换数据，因此每对TaskManager之间都要维护一个永久的TCP连接来执行数据交换2。在Shuffle连接模式下，每个发送端任务都需要向任意一个接收任务传输数据。</seg>
       </tuv>
     </tu>
     <tu>
