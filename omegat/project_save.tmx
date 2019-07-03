@@ -22201,8 +22201,8 @@
       <tuv lang="EN-US">
         <seg>Once a sender receives a credit notification, it ships as many buffers as it was granted and the size of its backlog—the number of network buffers that are filled and ready to be shipped.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203029Z" creationid="xccui" creationdate="20190606T202839Z">
-        <seg>一旦发送端收到信用通知，就会在信用值所限定的范围内尽可能多地传输缓冲数据，并会附带上积压量（已经填满准备传输的缓冲数目）大小。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195048Z" creationid="xccui" creationdate="20190606T202839Z">
+        <seg>一旦发送端收到信用通知，就会在信用值所限定的范围内尽可能多地传输缓冲数据，并会附带上积压量（已经填满准备传输的网络缓冲数目）大小。</seg>
       </tuv>
     </tu>
     <tu>
