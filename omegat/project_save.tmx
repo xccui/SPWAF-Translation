@@ -20425,8 +20425,8 @@
       <tuv lang="EN-US">
         <seg>It restarts the application and resets the state of all its tasks to the last completed checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190503T192125Z" creationid="xccui" creationdate="20190503T192125Z">
-        <seg>重启应用并利用最新checkpoint重置任务状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073606Z" creationid="xccui" creationdate="20190503T192125Z">
+        <seg>重启应用并利用最新检查点重置任务状态。</seg>
       </tuv>
     </tu>
     <tu>
