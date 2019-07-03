@@ -13353,8 +13353,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3-7 shows the same pipeline executed without task chaining.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204010Z" creationid="xccui" creationdate="20190606T203922Z">
-        <seg>图3-7展示了相同的流水线在非任务链接模式下执行</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T202003Z" creationid="xccui" creationdate="20190606T203922Z">
+        <seg>图3-7展示了相同的流水线在非任务链接模式下执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15073,8 +15073,8 @@
       <tuv lang="EN-US">
         <seg>For example, it can make sense to break a long pipeline of chained tasks or break a chain into two tasks to schedule an expensive function to different slots.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T154535Z" creationid="esouser" creationdate="20190514T154252Z">
-        <seg>例如：需要对过长任务链接进行切分或者将两个计算量大的函数分配到不同的处理槽中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T201955Z" creationid="esouser" creationdate="20190514T154252Z">
+        <seg>举例而言，有时候我们需要对过长任务链接进行切分或者将两个计算量大的函数分配到不同的处理槽中。</seg>
       </tuv>
     </tu>
     <tu>
