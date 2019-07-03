@@ -18591,6 +18591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following we describe how to set these parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T013429Z" creationid="xccui" creationdate="20190703T013429Z">
+        <seg>下面我们了介绍如何设置这些参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following we present three classes of applications that are commonly implemented using stateful stream processing, 1) event-driven applications, 2) data pipeline applications, and 3) data analytics applications and give examples of real-world applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T153749Z" creationid="xccui" creationdate="20190305T153717Z">
@@ -29930,8 +29938,8 @@
       <tuv lang="EN-US">
         <seg>These parameters are a unique operator identifier and the maximum parallelism (for opera‐ tors with keyed state).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T012359Z" creationid="xccui" creationdate="20190703T012359Z">
-        <seg>这两个参数是唯一算子标识符和最大并行度（针对具有键值分区状态的算子）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T012412Z" creationid="xccui" creationdate="20190703T012359Z">
+        <seg>这两个参数是唯一算子标识符和最大并行度（只针对具有键值分区状态的算子）。</seg>
       </tuv>
     </tu>
     <tu>
