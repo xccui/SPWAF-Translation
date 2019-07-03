@@ -19303,6 +19303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we discuss aspects that need to be taken into account to ensure robust execution behavior and consistent performance of long- running applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T211557Z" creationid="xccui" creationdate="20190703T211557Z">
+        <seg>本节我们将讨论几个和确保长时间运行应用的稳定执行和一致性能需要考虑的方面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we discuss both types and how they manage and process data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T023126Z" creationid="esouser" creationdate="20190603T194239Z">
