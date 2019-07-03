@@ -16993,8 +16993,8 @@
       <tuv lang="EN-US">
         <seg>If the sender and receiver tasks run in separate TaskManager pro‐ cesses, they communicate via the network stack of the operating system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T195843Z" creationid="xccui" creationdate="20190606T195843Z">
-        <seg>如果发送端和接收端的任务运行在不同的TaskManager进程中，就需要利用操作系统的网络栈进行通信。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T191516Z" creationid="xccui" creationdate="20190606T195843Z">
+        <seg>如果发送端和接收端的任务运行在不同的TaskManager进程中，它们就需要利用操作系统的网络栈进行通信。</seg>
       </tuv>
     </tu>
     <tu>
