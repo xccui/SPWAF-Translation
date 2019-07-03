@@ -17119,6 +17119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not explicitly set unique identifiers to the operators of your stateful applica‐ tion, you will face significant limitations when you have to evolve the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023053Z" creationid="xccui" creationdate="20190703T023053Z">
+        <seg>如果你没有为状态化应用的算子显式指定标识，那么在更新应用时就会受到限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at permissions@oreilly.com.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210827Z" creationid="esouser" creationdate="20190603T210827Z">
@@ -33675,8 +33683,8 @@
       <tuv lang="EN-US">
         <seg>When an application is started from a savepoint, the identifiers are used to map a state in the savepoint to the corresponding operator of the started application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T022449Z" creationid="xccui" creationdate="20190703T022449Z">
-        <seg>当应用从保存点启动时，标识符用于将保存点中的状态映射到目标应用对应的算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T022753Z" creationid="xccui" creationdate="20190703T022449Z">
+        <seg>当应用从保存点启动时，会利用这些标识将保存点中的状态映射到目标应用对应的算子。</seg>
       </tuv>
     </tu>
     <tu>
