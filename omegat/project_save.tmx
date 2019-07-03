@@ -19137,8 +19137,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, we give a high-level introduction to Flink’s architecture and describe how Flink addresses the aspects of stream processing we discussed earlier.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140110Z" creationid="xccui" creationdate="20190606T140002Z">
-        <seg>本章中我们将从一个较高的层次来讲解Flink的架构，并介绍Flink是如何解决之前所讨论的流处理相关问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T042917Z" creationid="xccui" creationdate="20190606T140002Z">
+        <seg>本章我们将从一个较高的层次来讲解Flink的架构，并介绍它如何解决我们之前讨论的流处理相关问题。</seg>
       </tuv>
     </tu>
     <tu>
