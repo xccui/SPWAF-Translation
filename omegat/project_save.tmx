@@ -16625,8 +16625,8 @@
       <tuv lang="EN-US">
         <seg>If a modified application is started from a savepoint, a state in the savepoint can only be mapped to the application if it contains an operator with a corresponding identi‐ fier and state name.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T220244Z" creationid="xccui" creationdate="20190609T220228Z">
-        <seg>如果应用在从保存点启动的时候发生过改动，那么保存点中的状态只有在应用还保留着那些含有对应标识符和状态名称的算子时才可以成功映射。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023155Z" creationid="xccui" creationdate="20190609T220228Z">
+        <seg>如果应用在从保存点启动的时候发生过改动，那么保存点中的状态只有在应用还保留着那些含有对应标识和状态名称的算子时才可以成功映射。</seg>
       </tuv>
     </tu>
     <tu>
