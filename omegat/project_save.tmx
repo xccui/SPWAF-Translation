@@ -10473,8 +10473,8 @@
       <tuv lang="EN-US">
         <seg>Credit-based flow control reduces latency because senders can ship data as soon as the receiver has enough resources to accept it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203111Z" creationid="xccui" creationdate="20190606T203100Z">
-        <seg>由于发送端可以在接收端有足够资源时立即传输数据，因此基于信用值的流量控制可以有效降低延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195422Z" creationid="xccui" creationdate="20190606T203100Z">
+        <seg>由于发送端可以在接收端有足够资源时立即传输数据，所以基于信用值的流量控制可以有效降低延迟。</seg>
       </tuv>
     </tu>
     <tu>
