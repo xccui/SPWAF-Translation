@@ -5760,8 +5760,8 @@
       <tuv lang="EN-US">
         <seg>A TaskManager can execute several tasks at the same time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T041158Z" creationid="xccui" creationdate="20190423T041158Z">
-        <seg>一个TaskManager可以同时执行多个任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T070611Z" creationid="xccui" creationdate="20190423T041158Z">
+        <seg>一个TaskManager允许同时执行多个任务。</seg>
       </tuv>
     </tu>
     <tu>
