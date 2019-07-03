@@ -9265,8 +9265,8 @@
       <tuv lang="EN-US">
         <seg>Buffering is needed to fully utilize the bandwidth of network connec‐ tions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202609Z" creationid="xccui" creationdate="20190606T202532Z">
-        <seg>若想充分利用网络连接带宽，就需要用到数据缓冲。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194605Z" creationid="xccui" creationdate="20190606T202532Z">
+        <seg>若想充分利用网络连接带宽，就需要对数据进行缓冲。</seg>
       </tuv>
     </tu>
     <tu>
