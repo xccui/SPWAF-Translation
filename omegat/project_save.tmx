@@ -5624,8 +5624,8 @@
       <tuv lang="EN-US">
         <seg>A Flink setup consists of multiple processes that typically run distributed across multiple machines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T140636Z" creationid="xccui" creationdate="20190418T030126Z">
-        <seg>它的设置包含多个进程，这些进程通常会分布在多台机器上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043917Z" creationid="xccui" creationdate="20190418T030126Z">
+        <seg>它的搭建涉及多个进程，它们通常会分布在多台机器上。</seg>
       </tuv>
     </tu>
     <tu>
