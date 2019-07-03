@@ -22273,8 +22273,8 @@
       <tuv lang="EN-US">
         <seg>Once it receives enough Task‐ Manager slots, it distributes the tasks of the ExecutionGraph to the TaskManag‐ ers that execute them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141810Z" creationid="xccui" creationdate="20190606T141755Z">
-        <seg>一旦它收到了足够数量的TaskManager处理槽，就会将ExecutionGraph中的任务分发给TaskManager来执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060207Z" creationid="xccui" creationdate="20190606T141755Z">
+        <seg>一旦它收到了足够数量的TaskManager处理槽（slot），就会将ExecutionGraph中的任务分发给TaskManager来执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26714,8 +26714,8 @@
       <tuv lang="EN-US">
         <seg>The JobManager requests the necessary resources (TaskManager slots) to execute the tasks from the ResourceManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060138Z" creationid="xccui" creationdate="20190418T034828Z">
-        <seg>JobManager从ResourceManager申请执行任务的必要资源（TaskManager处理槽（slot））。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060159Z" creationid="xccui" creationdate="20190418T034828Z">
+        <seg>JobManager从ResourceManager申请执行任务的必要资源（TaskManager处理槽）。</seg>
       </tuv>
     </tu>
     <tu>
