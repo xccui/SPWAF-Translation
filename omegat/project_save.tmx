@@ -34675,8 +34675,8 @@
       <tuv lang="EN-US">
         <seg>With a shuffle or broadcast connection, each sending task needs a buffer for each receiving task; the number of required buffers is quadratic to the number of tasks of the involved operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193555Z" creationid="xccui" creationdate="20190606T201749Z">
-        <seg>在Shuffle或广播连接的情况下，每个发送任务都需要为每个接收任务提供一个缓冲区，因此所需的缓冲区数量是相关算子任务数的平方级别。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193617Z" creationid="xccui" creationdate="20190606T201749Z">
+        <seg>在Shuffle或广播连接的情况下，每个发送任务都需要为每个接收任务提供一个缓冲区，因此所需的缓冲区数量可达到相关算子任务数的平方级别。</seg>
       </tuv>
     </tu>
     <tu>
