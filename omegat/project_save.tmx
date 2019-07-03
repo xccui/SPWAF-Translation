@@ -27344,6 +27344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The choice of the state backend has implications on the robust‐ ness and performance of a stateful application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221454Z" creationid="xccui" creationdate="20190703T221454Z">
+        <seg>状态后端的选择会影响状态化应用的鲁棒性及性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The close() method is a finalization method for the function and it is called once per task after the last call of the transformation method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033120Z" creationid="xccui" creationdate="20190619T033120Z">
@@ -37389,6 +37397,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051144Z" creationid="xccui" creationdate="20190620T051144Z">
         <seg>maxTs = maxTs.max(r.timestamp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mentations for the different state primitives, such as ValueState, ListState, and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221556Z" creationid="xccui" creationdate="20190703T221556Z">
+        <seg>每一种状态后端都为不同的状态原语（如ValueState、ListState和MapState）提供了不同的实现。</seg>
       </tuv>
     </tu>
     <tu>
