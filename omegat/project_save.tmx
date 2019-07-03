@@ -20239,6 +20239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not possible to start an application from a previously taken savepoint if the identi‐ fiers or the maximum parallelism of operators were changed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T014722Z" creationid="xccui" creationdate="20190703T014722Z">
+        <seg>如果算子的标识符或最大并行度发生了变化，则无法从之前生成的保存点启动应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not pos‐ sible to remove individual elements from ListState, but the list can be updated by calling ListState.update(values: java.util.List[T]).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055537Z" creationid="xccui" creationdate="20190630T054329Z">
