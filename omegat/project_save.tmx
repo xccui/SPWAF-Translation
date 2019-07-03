@@ -6264,8 +6264,8 @@
       <tuv lang="EN-US">
         <seg>A processing slot can execute one slice of an application—one parallel task of each operator of the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144414Z" creationid="xccui" creationdate="20190606T144414Z">
-        <seg>每个处理槽可以执行应用的一部分，即应用内算子的一个并行任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T070721Z" creationid="xccui" creationdate="20190606T144414Z">
+        <seg>每个处理槽可以执行应用的一部分，即算子的一个并行任务。</seg>
       </tuv>
     </tu>
     <tu>
