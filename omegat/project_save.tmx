@@ -26642,8 +26642,8 @@
       <tuv lang="EN-US">
         <seg>The JobManager can then assign tasks to the slots to execute them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142633Z" creationid="xccui" creationdate="20190606T142633Z">
-        <seg>随后，JobManager就可以向处理槽中分配任务来执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061320Z" creationid="xccui" creationdate="20190606T142633Z">
+        <seg>之后，JobManager就可以向处理槽中分配任务来执行。</seg>
       </tuv>
     </tu>
     <tu>
