@@ -33731,8 +33731,8 @@
       <tuv lang="EN-US">
         <seg>When a sender task and a receiver task run in the same TaskManager process, the sender task serializes the outgoing records into a byte buffer and puts the buffer into a queue once it is filled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T192304Z" creationid="esouser" creationdate="20190513T191646Z">
-        <seg>当发送任务和接收任务在同一个TaskManager进程时，发送任务会将要发送的记录序列化到一个字节缓冲中，一旦缓冲占满就会被放到一个队列里。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193926Z" creationid="esouser" creationdate="20190513T191646Z">
+        <seg>当发送任务和接收任务处于同一个TaskManager进程时，发送任务会将要发送的记录序列化到一个字节缓冲区中，一旦该缓冲区占满就会被放到一个队列里。</seg>
       </tuv>
     </tu>
     <tu>
