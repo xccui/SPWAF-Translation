@@ -15897,8 +15897,8 @@
       <tuv lang="EN-US">
         <seg>Hence, data transfer between tasks that run on the same TaskManager does not cause network communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194251Z" creationid="xccui" creationdate="20190606T202123Z">
-        <seg>这意味着同一个TaskManager内不同任务之间的数据传输不会涉及网络通信。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194344Z" creationid="xccui" creationdate="20190606T202123Z">
+        <seg>这意味着同一个TaskManager内不同任务之间的数据传输不会引起网络通信。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18665,8 +18665,8 @@
       <tuv lang="EN-US">
         <seg>In the following sections, we briefly discuss credit-based flow control and task chain‐ ing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202453Z" creationid="xccui" creationdate="20190606T202141Z">
-        <seg>在接下来的几节，我们简要讨论一下基于信用值的流量控制以及任务链接（task chaining）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194425Z" creationid="xccui" creationdate="20190606T202141Z">
+        <seg>在接下来的几节，我们简要讨论一下基于信用值（credit-based）的流量控制以及任务链接（task chaining）。</seg>
       </tuv>
     </tu>
     <tu>
