@@ -25946,8 +25946,8 @@
       <tuv lang="EN-US">
         <seg>Task chaining can significantly reduce the communication costs between local tasks, but there are also cases when it makes sense to execute a pipeline without chaining.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T201528Z" creationid="xccui" creationdate="20190606T203900Z">
-        <seg>虽然任务链接可以有效地降低本地任务之间的通信开销，但这并不意味着所有的流水线执行都要启用它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T201858Z" creationid="xccui" creationdate="20190606T203900Z">
+        <seg>虽然任务链接可以有效地降低本地任务之间的通信开销，但有的流水线应用反而不需要启用它。</seg>
       </tuv>
     </tu>
     <tu>
