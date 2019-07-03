@@ -16967,6 +16967,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the operator’s parallelism is larger than 128, the maximum parallelism is com‐ puted as the minimum of nextPowerOfTwo(parallelism + (parallelism / 2)) and 2^15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025539Z" creationid="xccui" creationdate="20190703T025539Z">
+        <seg>如果算子并行度大于128，那么最大并行度会取nextPowerOfTwo(parallelism + (parallelism / 2))和2^15之中的较小值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the parallelism is less than or equal to 128, the maximum parallelism is 128.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025409Z" creationid="xccui" creationdate="20190703T025409Z">
+        <seg>如果并行度小于或等于128，则最大并行度会设置成128；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the sender and receiver tasks run in separate Task&lt;t0/&gt;‐&lt;t1/&gt; Manager processes, they communicate via the network stack of the operating system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T042532Z" creationid="xccui" creationdate="20190504T042532Z">
