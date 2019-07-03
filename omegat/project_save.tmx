@@ -20473,8 +20473,8 @@
       <tuv lang="EN-US">
         <seg>It will help you to understand Flink’s internals and to reason about the perfor‐ mance and behavior of streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043438Z" creationid="xccui" creationdate="20190606T140523Z">
-        <seg>这不但将帮助你理解Flink的内部原理，还能评估流式应用的性能及行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043728Z" creationid="xccui" creationdate="20190606T140523Z">
+        <seg>这将帮助你在理解Flink内部原理的同时，评估流式应用的性能及行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30522,8 +30522,8 @@
       <tuv lang="EN-US">
         <seg>This chapter provides relevant background information to successfully implement and operate advanced streaming applications with Apache Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043100Z" creationid="xccui" creationdate="20190416T054356Z">
-        <seg>本章会涉及使用Apache Flink实现并操纵高级流式应用的相关背景，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T043453Z" creationid="xccui" creationdate="20190416T054356Z">
+        <seg>本章会涉及使用Apache Flink实现并操纵高级流式应用的相关背景。</seg>
       </tuv>
     </tu>
     <tu>
