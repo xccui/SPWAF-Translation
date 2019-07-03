@@ -15897,8 +15897,8 @@
       <tuv lang="EN-US">
         <seg>Hence, data transfer between tasks that run on the same TaskManager does not cause network communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194211Z" creationid="xccui" creationdate="20190606T202123Z">
-        <seg>这意味着同一个TaskManager内不同任务之间的数据传输不需要经过网络通信。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T194251Z" creationid="xccui" creationdate="20190606T202123Z">
+        <seg>这意味着同一个TaskManager内不同任务之间的数据传输不会涉及网络通信。</seg>
       </tuv>
     </tu>
     <tu>
