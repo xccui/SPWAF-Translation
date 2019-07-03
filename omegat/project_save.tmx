@@ -16833,8 +16833,8 @@
       <tuv lang="EN-US">
         <seg>If the ResourceManager does not have enough slots to fulfill the JobManager’s request, the ResourceManager can talk to a resource provider to provision containers in which TaskManager processes are started.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060909Z" creationid="xccui" creationdate="20190418T050826Z">
-        <seg>如果ResourceManager的处理槽数无法满足JobManager的请求，ResourceManager可以和资源提供者通信，让它们提供额外容器来启动更多TaskManager进程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060937Z" creationid="xccui" creationdate="20190418T050826Z">
+        <seg>如果ResourceManager的处理槽数无法满足JobManager的请求，则ResourceManager可以和资源提供者通信，让它们提供额外容器来启动更多TaskManager进程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25994,8 +25994,8 @@
       <tuv lang="EN-US">
         <seg>TaskManagers are the worker processes of Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142307Z" creationid="xccui" creationdate="20190606T142307Z">
-        <seg>TaskManager是Flink的工作进程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061010Z" creationid="xccui" creationdate="20190606T142307Z">
+        <seg>TaskManager是Flink的工作进程（worker process）。</seg>
       </tuv>
     </tu>
     <tu>
