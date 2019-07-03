@@ -21713,8 +21713,8 @@
       <tuv lang="EN-US">
         <seg>Nonchained task execution with dedicated threads and data transport via</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204040Z" creationid="xccui" creationdate="20190606T204033Z">
-        <seg>使用特定线程执行非链接任务，利用缓冲通道及序列化进行数据传输</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T202204Z" creationid="xccui" creationdate="20190606T204033Z">
+        <seg>利用专用线程执行非链接任务并通过缓冲通道及序列化进行数据传输</seg>
       </tuv>
     </tu>
     <tu>
