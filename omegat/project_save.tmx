@@ -22257,8 +22257,8 @@
       <tuv lang="EN-US">
         <seg>Once you change operator identifiers or the maximum parallelism, you cannot start an application from a savepoint but have to start it from scratch without any state initialization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015126Z" creationid="xccui" creationdate="20190703T015126Z">
-        <seg>一旦你修改了算子标识符或最大并行度则无法从保存点启动应用，只能选择抛弃状态从头开始运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023237Z" creationid="xccui" creationdate="20190703T015126Z">
+        <seg>一旦你修改了算子标识或最大并行度则无法从保存点启动应用，只能选择抛弃状态从头开始运行。</seg>
       </tuv>
     </tu>
     <tu>
