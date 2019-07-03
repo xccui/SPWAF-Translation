@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.flatMap(new TemperatureAlertFunction(1.1))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024139Z" creationid="xccui" creationdate="20190703T024139Z">
+        <seg>.flatMap(new TemperatureAlertFunction(1.1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.flatMap(new TemperatureAlertFunction(1.7))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062430Z" creationid="xccui" creationdate="20190630T062430Z">
@@ -842,6 +850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042713Z" creationid="xccui" creationdate="20190612T042713Z">
         <seg>.timeWindow(Time.seconds(5))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.uid("TempAlert")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024132Z" creationid="xccui" creationdate="20190703T024132Z">
+        <seg>.uid("TempAlert")</seg>
       </tuv>
     </tu>
     <tu>
