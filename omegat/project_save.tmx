@@ -25682,8 +25682,8 @@
       <tuv lang="EN-US">
         <seg>Streaming applications are typically designed to run 24/7.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143458Z" creationid="xccui" creationdate="20190424T064357Z">
-        <seg>由于流式应用通常都会设计成7×24小时运行，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T071805Z" creationid="xccui" creationdate="20190424T064357Z">
+        <seg>流式应用通常都会设计成7×24小时运行，</seg>
       </tuv>
     </tu>
     <tu>
