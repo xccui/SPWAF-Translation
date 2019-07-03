@@ -18593,8 +18593,8 @@
       <tuv lang="EN-US">
         <seg>In the following we describe how to set these parameters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T013435Z" creationid="xccui" creationdate="20190703T013429Z">
-        <seg>下面我们来介绍如何设置这些参数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015318Z" creationid="xccui" creationdate="20190703T013429Z">
+        <seg>下面我们来介绍如何设置它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20241,8 +20241,8 @@
       <tuv lang="EN-US">
         <seg>It is not possible to start an application from a previously taken savepoint if the identi‐ fiers or the maximum parallelism of operators were changed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T014722Z" creationid="xccui" creationdate="20190703T014722Z">
-        <seg>如果算子的标识符或最大并行度发生了变化，则无法从之前生成的保存点启动应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015224Z" creationid="xccui" creationdate="20190703T014722Z">
+        <seg>如果算子的标识或最大并行度发生了变化，则无法从之前生成的保存点启动应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22538,8 +22538,8 @@
       <tuv lang="EN-US">
         <seg>Operator Unique Identifiers and Maximum Parallelism Are Baked into Savepoints</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T013944Z" creationid="xccui" creationdate="20190703T013808Z">
-        <seg>算子唯一标识符和最大并行度会被固化到保存点中</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015232Z" creationid="xccui" creationdate="20190703T013808Z">
+        <seg>算子唯一标识和最大并行度会被固化到保存点中</seg>
       </tuv>
     </tu>
     <tu>
@@ -29586,8 +29586,8 @@
       <tuv lang="EN-US">
         <seg>The unique identifier and maximum parallelism of operators are baked into a savepoint and cannot be changed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T014727Z" creationid="xccui" creationdate="20190703T013858Z">
-        <seg>算子的唯一标识符和最大并行度会被固化到保存点中，不可更改。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015228Z" creationid="xccui" creationdate="20190703T013858Z">
+        <seg>算子的唯一标识和最大并行度会被固化到保存点中，不可更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29970,8 +29970,8 @@
       <tuv lang="EN-US">
         <seg>These parameters are a unique operator identifier and the maximum parallelism (for opera‐ tors with keyed state).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T014049Z" creationid="xccui" creationdate="20190703T012359Z">
-        <seg>这两个参数是算子唯一标识符和最大并行度（只针对具有键值分区状态的算子）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015253Z" creationid="xccui" creationdate="20190703T012359Z">
+        <seg>这两个参数是算子唯一标识和最大并行度（只针对具有键值分区状态的算子）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32140,6 +32140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035905Z" creationid="xccui" creationdate="20190607T184319Z">
         <seg>联合列表状态（union list state）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unique identifiers should be specified for every operator of an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015328Z" creationid="xccui" creationdate="20190703T015220Z">
+        <seg>你应该为应用中的每个算子指定唯一标识。</seg>
       </tuv>
     </tu>
     <tu>
