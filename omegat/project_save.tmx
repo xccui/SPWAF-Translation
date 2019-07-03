@@ -15921,8 +15921,8 @@
       <tuv lang="EN-US">
         <seg>Hence, it is important that their execution does not stop even if an involved process fails.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T204156Z" creationid="xccui" creationdate="20190424T064522Z">
-        <seg>因此能够做到在内部进程发生故障时也不终止运行就显得异常重要。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072033Z" creationid="xccui" creationdate="20190424T064522Z">
+        <seg>因此对于它很重要的一点是即便内部进程发生故障时也不能终止运行。</seg>
       </tuv>
     </tu>
     <tu>
