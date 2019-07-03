@@ -8967,6 +8967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because local state can be maintained and checkpointed in different ways, state backends are pluggable—two applications can use different state backend implementations to maintain their states.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T214504Z" creationid="xccui" creationdate="20190703T214504Z">
+        <seg>由于本地状态的维护及写入检查点的方式多种多样，所以状态后端被设计为可插拔的（pluggable）——两个应用可以使用不同的状态后端实现来维护其状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because microservices are strictly decoupled from each other and only communicate over well defined inter&lt;t4/&gt;‐&lt;t5/&gt; faces, each microservice can be implemented with a custom technology stack includ&lt;t6/&gt;‐&lt;t7/&gt; ing programming language, libraries, and data stores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T172603Z" creationid="xccui" creationdate="20190227T234310Z">
@@ -19305,8 +19313,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss aspects that need to be taken into account to ensure robust execution behavior and consistent performance of long- running applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T212348Z" creationid="xccui" creationdate="20190703T211557Z">
-        <seg>本节我们将重点讨论几个方面，它们会对长期运行应用的健壮执行及一致性能提供保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T213613Z" creationid="xccui" creationdate="20190703T211557Z">
+        <seg>本节我们将重点讨论几个方面，它们可以为长期运行应用的健壮执行及一致性能提供保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29332,6 +29340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005710Z" creationid="xccui" creationdate="20190612T005710Z">
         <seg>src/目录的结构如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state backend is responsible for storing the local state of each task instance and persisting it to remote storage when a checkpoint is taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T213832Z" creationid="xccui" creationdate="20190703T213832Z">
+        <seg>状态后端负责存储每个状态实例的本地状态，并在生成检查点时将它们写入远程持久化存储。</seg>
       </tuv>
     </tu>
     <tu>
