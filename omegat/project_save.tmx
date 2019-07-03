@@ -15889,8 +15889,8 @@
       <tuv lang="EN-US">
         <seg>Hence, credit-based flow control is an important building block for Flink to achieve high throughput and low latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203206Z" creationid="esouser" creationdate="20190514T151545Z">
-        <seg>所以说基于信用值的流量控制是Flink实现高吞吐低延迟的重要一环。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195549Z" creationid="esouser" creationdate="20190514T151545Z">
+        <seg>综上可以看出，基于信用值的流量控制是Flink实现高吞吐低延迟的重要一环。</seg>
       </tuv>
     </tu>
     <tu>
