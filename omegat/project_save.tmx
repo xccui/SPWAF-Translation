@@ -17047,6 +17047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the state of a task instance grows too large, the JVM and all task instances running on it can be killed due to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222738Z" creationid="xccui" creationdate="20190703T222738Z">
+        <seg>如果某个任务实例的状态变得很大，那么它所在的JVM连同所有运行在该JVM之上的任务实例都可能由于OutOfMemoryError而终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the system continues to receive data at a higher rate than it can handle, buffers might become unavailable and data might get lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T202331Z" creationid="xccui" creationdate="20190402T201609Z">
@@ -34505,6 +34513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While this approach provides very low latencies to read or write state, it has</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222108Z" creationid="xccui" creationdate="20190703T222108Z">
+        <seg>虽然这种方法读写状态的延迟会很低，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While this behavior seems to be exactly the same as recovering an application from a failure using a checkpoint, failure recovery is actually just a special case.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211834Z" creationid="xccui" creationdate="20190609T211646Z">
@@ -36973,6 +36989,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T041558Z" creationid="xccui" creationdate="20190626T041558Z">
         <seg>implements Serializable {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>implications on the robustness of an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222144Z" creationid="xccui" creationdate="20190703T222144Z">
+        <seg>但它会影响应用的鲁棒性。</seg>
       </tuv>
     </tu>
     <tu>
