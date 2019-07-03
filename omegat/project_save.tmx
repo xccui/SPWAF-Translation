@@ -13009,8 +13009,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3-1 is a high-level sketch to visualize the responsibilities and interactions of the components of an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143207Z" creationid="xccui" creationdate="20190606T143140Z">
-        <seg>图3-1仅从一个较高层次上展示了各组件的职责与交互。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T062345Z" creationid="xccui" creationdate="20190606T143140Z">
+        <seg>图3-1仅仅是一个高层次上各组件的职责与交互的框架。</seg>
       </tuv>
     </tu>
     <tu>
