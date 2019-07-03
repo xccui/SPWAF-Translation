@@ -11313,8 +11313,8 @@
       <tuv lang="EN-US">
         <seg>During execution, the JobManager is responsible for all actions that require a central coordination such as the coordination of check‐ points (see “Checkpoints, Savepoints, and State Recovery”).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060238Z" creationid="xccui" creationdate="20190606T141827Z">
-        <seg>在执行过程中，JobManager还要负责所有需要集中协调的操作，例如：创建检查点（见"检查点、保存点和状态恢复"）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060302Z" creationid="xccui" creationdate="20190606T141827Z">
+        <seg>在执行过程中，JobManager还要负责所有需要集中协调的操作，例如：创建检查点（见"检查点、保存点及状态恢复"）。</seg>
       </tuv>
     </tu>
     <tu>
