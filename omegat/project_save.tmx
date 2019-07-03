@@ -7304,8 +7304,8 @@
       <tuv lang="EN-US">
         <seg>All functions are evaluated by an individual task running in a dedicated thread.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T155122Z" creationid="esouser" creationdate="20190514T154729Z">
-        <seg>每个函数都交由单独的任务，在特定线程内处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T202032Z" creationid="esouser" creationdate="20190514T154729Z">
+        <seg>其中每个函数都交由单独的任务、在特定线程内处理。</seg>
       </tuv>
     </tu>
     <tu>
