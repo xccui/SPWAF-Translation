@@ -19441,8 +19441,8 @@
       <tuv lang="EN-US">
         <seg>In this section, you will learn how Flink restarts failed processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T145341Z" creationid="xccui" creationdate="20190428T205043Z">
-        <seg>本节你会学到Flink是如何重启故障进程的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072142Z" creationid="xccui" creationdate="20190428T205043Z">
+        <seg>本节你将学到Flink如何重启故障进程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23834,8 +23834,8 @@
       <tuv lang="EN-US">
         <seg>Restoring the state of an application is described in “Recovery from a Con‐ sistent Checkpoint” on page 60.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T145415Z" creationid="xccui" creationdate="20190606T145348Z">
-        <seg>恢复应用状态将会在60页"从一致性检查点恢复"一节进行介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072238Z" creationid="xccui" creationdate="20190606T145348Z">
+        <seg>而恢复应用状态则会在第60页"从一致性检查点恢复"一节进行介绍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31682,8 +31682,8 @@
       <tuv lang="EN-US">
         <seg>To recover from fail‐ ures, the system first needs to restart failed processes, and second, restart the applica‐ tion and recover its state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T145331Z" creationid="xccui" creationdate="20190606T145331Z">
-        <seg>为了从故障中恢复，系统首先需要重启故障进程，随后需要重启应用并恢复其状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072106Z" creationid="xccui" creationdate="20190606T145331Z">
+        <seg>为了从故障中恢复，系统首先要重启故障进程，随后需要重启应用并恢复其状态。</seg>
       </tuv>
     </tu>
     <tu>
