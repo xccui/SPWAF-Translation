@@ -16111,6 +16111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, it will not be able to evict the state for the key because it might receive another record for the key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T170508Z" creationid="xccui" creationdate="20190704T170508Z">
+        <seg>所以说</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, its storage must be considered volatile.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T053629Z" creationid="xccui" creationdate="20190608T053557Z">
