@@ -16503,6 +16503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, reading and writing data to disk and the over‐ head of de/serializing objects result in lower read and write performance com‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025404Z" creationid="xccui" creationdate="20190704T025404Z">
+        <seg>然而，对于磁盘的读写和序列化反序列化对象的开销使得它和在内存中维护状态比起来，读写性能会偏低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, some improvements such as higher throughput and better failure guarantees came at the cost of increasing processing latencies from milliseconds to seconds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T194316Z" creationid="xccui" creationdate="20190327T035003Z">
