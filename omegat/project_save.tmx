@@ -16113,8 +16113,8 @@
       <tuv lang="EN-US">
         <seg>Hence, it will not be able to evict the state for the key because it might receive another record for the key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T182621Z" creationid="xccui" creationdate="20190704T170508Z">
-        <seg>因此，它根本无法准确移除某一键值的状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T182804Z" creationid="xccui" creationdate="20190704T170508Z">
+        <seg>因此它根本无法准确移除某一键值的状态（因为不确定将来是否还有该键值的记录到来）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18361,8 +18361,8 @@
       <tuv lang="EN-US">
         <seg>In many cases, a function does not know if a record will be the last one for a key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T142252Z" creationid="xccui" creationdate="20190704T142252Z">
-        <seg>很多情况下，函数不会知道某条记录是不是该键值所对应的最后一条。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T182628Z" creationid="xccui" creationdate="20190704T142252Z">
+        <seg>很多情况下，函数不会知道某条记录是否是该键值所对应的最后一条。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31356,6 +31356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045954Z" creationid="xccui" creationdate="20190616T045912Z">
         <seg>使用此分区策略时务必小心，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This problem does not only exist for custom stateful functions but also for some of the built-in operators of the DataStream API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183059Z" creationid="xccui" creationdate="20190704T183059Z">
+        <seg>该问题不但存在于自定义的有状态函数中，而且同样会影响DataStream API的内置算子。</seg>
       </tuv>
     </tu>
     <tu>
