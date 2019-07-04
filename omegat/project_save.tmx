@@ -15863,6 +15863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, FsStateBackend provides in-memory speed for local</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022405Z" creationid="xccui" creationdate="20190704T022405Z">
+        <seg>因此，FsStateBackend既为本地状态提供了内存的访问速度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, a Java JDK is required to implement Flink DataStream applications—Java JDK 8 (or higher).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015629Z" creationid="xccui" creationdate="20190611T014959Z">
