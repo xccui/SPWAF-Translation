@@ -7254,6 +7254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213219Z" creationid="xccui" creationdate="20190704T213219Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After all barriers are sent out, the source continues its regu‐ lar operations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T154506Z" creationid="xccui" creationdate="20190609T154335Z">
@@ -25256,6 +25264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since our KeyedProcessFunction always updates the registered timer by deleting the current timer and registering a new one, only a single timer is registered per key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213431Z" creationid="xccui" creationdate="20190704T213431Z">
+        <seg>由于KeyedProcessFunction总是在注册新计时器之前将已有的计时器删除，所以每个键值在同一时间最多只会有一个注册的计时器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since savepoints are such a powerful feature, many users periodically create save‐ points to be able to go back in time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213645Z" creationid="xccui" creationdate="20190609T213645Z">
@@ -39981,6 +39997,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045224Z" creationid="xccui" creationdate="20190613T045224Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>that, the method compares the temperatures, possibly emits an alert, and updates its</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213216Z" creationid="xccui" creationdate="20190704T213038Z">
+        <seg>随后，方法就会比较两个相邻的温度值，依照逻辑决定是否发出警报，并更新最近一次温度的状态。</seg>
       </tuv>
     </tu>
     <tu>
