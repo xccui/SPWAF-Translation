@@ -31288,6 +31288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the same use case as in the keyed state example before, but the KeyedProcessFunction also clears the state for keys (i.e., sensors) that have not pro‐ vided any new temperature measurements within one hour of event time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205500Z" creationid="xccui" creationdate="20190704T205500Z">
+        <seg>这和之前使用键值分区状态的用例相同，但此处的KeyedProcessFunction会在某一键值超过1小时没有新到的温度测量数据时将其对应的状态清除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the strictest and most challenging to achieve type of guarantee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T043916Z" creationid="xccui" creationdate="20190416T043916Z">
