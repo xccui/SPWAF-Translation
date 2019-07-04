@@ -34305,6 +34305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When iterating over the entry set of MapState, the seri‐ alized entries are prefetched from RocksDB and only deserialized when a key or value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034033Z" creationid="xccui" creationdate="20190704T033458Z">
+        <seg>在遍历MapState的条目集（entry set）时，状态后端会从RocksDB中预取出序列化好的所有条目，并只有在实际访问某个键或数据值的时候才会将其反序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When merging windows, you need to ensure that the state of all merging windows and their triggers is also appropriately merged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045948Z" creationid="xccui" creationdate="20190626T045948Z">
@@ -35683,8 +35691,8 @@
       <tuv lang="EN-US">
         <seg>allows reading and writing values per key—only those keys and values are de/serial‐ ized that are read or written.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033324Z" creationid="xccui" creationdate="20190704T033038Z">
-        <seg>RocksDBStateBackend的MapState允许按照每个键对其相应的数据值进行读写，并且只有那些读写的键和值才需要进行（反）序列化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033400Z" creationid="xccui" creationdate="20190704T033038Z">
+        <seg>RocksDBStateBackend的MapState允许按照每个键对其数据值进行读写，并且只有那些读写的键和数据值才需要进行（反）序列化。</seg>
       </tuv>
     </tu>
     <tu>
