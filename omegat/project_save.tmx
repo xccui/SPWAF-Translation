@@ -9279,6 +9279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both were covered in Chapter 6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204316Z" creationid="xccui" creationdate="20190704T204316Z">
+        <seg>我们已经在第6章对它们进行了介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Broadcast state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184737Z" creationid="xccui" creationdate="20190607T184737Z">
@@ -12627,6 +12635,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025628Z" creationid="xccui" creationdate="20190704T025628Z">
         <seg>示例7-12，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-13 shows a KeyedProcessFunction that compares two subsequent tem‐ perature measurements and raises an alert if the difference is greater than a certain</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204924Z" creationid="xccui" creationdate="20190704T204924Z">
+        <seg>示例7-13展示的KeyedProcessFunction会对两个连续的温度测量值进行比较，如果其变化值大于一个特定阈值就会发出警报。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28592,6 +28608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The functions that offer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204318Z" creationid="xccui" creationdate="20190704T204318Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fundamental difference between rebalance() and rescale() lies in the way task connections are formed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044140Z" creationid="xccui" creationdate="20190616T044140Z">
@@ -39661,6 +39685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T055808Z" creationid="xccui" creationdate="20190414T055808Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>support to register timers are the Trigger interface for windows and the process function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204246Z" creationid="xccui" creationdate="20190704T204246Z">
+        <seg>只有窗口的Trigger接口以及处理函数才支持注册计时器。</seg>
       </tuv>
     </tu>
     <tu>
