@@ -18487,6 +18487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to prevent increasing resource consumption of an application over time, it is important that the size of the operator state be controlled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T135607Z" creationid="xccui" creationdate="20190704T135607Z">
+        <seg>为了防止应用资源随时间而耗尽，需要控制算子状态大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to provide a concise window operator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T024653Z" creationid="xccui" creationdate="20190626T015035Z">
