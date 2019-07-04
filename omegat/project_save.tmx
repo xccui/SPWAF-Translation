@@ -37377,6 +37377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>instance, ValueState is completely deserialized when it is accessed and serialized when it is updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T031904Z" creationid="xccui" creationdate="20190704T031904Z">
+        <seg>例如，ValueState需要在更新和访问时分别进行完整的序列化和反序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>instance, when you join or group by some key, TypeInformation allows Flink to per‐ form the semantic check of whether the fields used as keys are valid.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151948Z" creationid="xccui" creationdate="20190617T050559Z">
