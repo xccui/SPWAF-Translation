@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// compute timestamp of new clean up timer as record timestamp + one hour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210515Z" creationid="xccui" creationdate="20190704T210515Z">
+        <seg>// 将清理状态的计时器设置为记录时间戳 + 1小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// configure a new threshold for the sensor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042639Z" creationid="xccui" creationdate="20190702T042607Z">
@@ -2494,6 +2502,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// register state for last temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210327Z" creationid="xccui" creationdate="20190704T210327Z">
+        <seg>// 注册用于最近一次温度的状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// register state for last timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210431Z" creationid="xccui" creationdate="20190704T210348Z">
+        <seg>// 注册用于前一个计时器的状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// register timer for the window end ctx.registerEventTimeTimer(window.getEnd) firstSeen.update(true)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200624Z" creationid="xccui" creationdate="20190626T200624Z">
@@ -2848,8 +2872,8 @@
       <tuv lang="EN-US">
         <seg>// the keyed state handle for the last registered timer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210223Z" creationid="xccui" creationdate="20190704T210223Z">
-        <seg>// 上一个注册的计时器的键值分区状态句柄</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210438Z" creationid="xccui" creationdate="20190704T210223Z">
+        <seg>// 前一个注册的计时器的键值分区状态句柄</seg>
       </tuv>
     </tu>
     <tu>
@@ -35833,6 +35857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[String, SensorReading, (String, Double, Double)]#Context, out: Collector[(String, Double, Double)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210448Z" creationid="xccui" creationdate="20190704T210448Z">
+        <seg>[String, SensorReading, (String, Double, Double)]#Context, out: Collector[(String, Double, Double)]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[String, SensorReading, ThresholdUpdate, (String, Double, Double)] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041333Z" creationid="xccui" creationdate="20190702T041333Z">
@@ -38929,6 +38961,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def processElement( reading: SensorReading, ctx: KeyedProcessFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210444Z" creationid="xccui" creationdate="20190704T210444Z">
+        <seg>override def processElement( reading: SensorReading, ctx: KeyedProcessFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def processElement1( reading: SensorReading,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032232Z" creationid="xccui" creationdate="20190622T032232Z">
@@ -39133,6 +39173,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064226Z" creationid="xccui" creationdate="20190630T064226Z">
         <seg>private var lastTempState: ValueState[Double] = _</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>private var lastTimerState: ValueState[Long] = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210225Z" creationid="xccui" creationdate="20190704T210225Z">
+        <seg>private var lastTimerState: ValueState[Long] = _</seg>
       </tuv>
     </tu>
     <tu>
@@ -40745,6 +40793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val lastTempDesc = new ValueStateDescriptor[Double]("lastTemp", classOf[Double]) lastTempState = getRuntimeContext.getState[Double](lastTempDescriptor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210329Z" creationid="xccui" creationdate="20190704T210329Z">
+        <seg>val lastTempDesc = new ValueStateDescriptor[Double]("lastTemp", classOf[Double]) lastTempState = getRuntimeContext.getState[Double](lastTempDescriptor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val lastTempDescriptor =</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064311Z" creationid="xccui" creationdate="20190630T064311Z">
@@ -40757,6 +40813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042520Z" creationid="xccui" creationdate="20190702T042520Z">
         <seg>val lastTempDescriptor = new ValueStateDescriptor[Double]( "lastTemp", classOf[Double])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val lastTimerDesc = new ValueStateDescriptor[Long]("lastTimer", classOf[Long]) lastTimerState = getRuntimeContext.getState(timestampDescriptor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210440Z" creationid="xccui" creationdate="20190704T210440Z">
+        <seg>val lastTimerDesc = new ValueStateDescriptor[Long]("lastTimer", classOf[Long]) lastTimerState = getRuntimeContext.getState(timestampDescriptor)</seg>
       </tuv>
     </tu>
     <tu>
