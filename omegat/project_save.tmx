@@ -6566,6 +6566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A solution for this problem is to remove the state of expired keys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141917Z" creationid="xccui" creationdate="20190704T141917Z">
+        <seg>该问题的解决方案是从状态中删除那些过期的键值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A source function emits a stream of records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034220Z" creationid="xccui" creationdate="20190607T034220Z">
