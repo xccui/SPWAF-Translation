@@ -30976,6 +30976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be done by registering timers for a point of time in the future.4 Similar to state, timers are registered in the context of the currently active key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T202730Z" creationid="xccui" creationdate="20190704T202730Z">
+        <seg>该工作可以通过注册在未来某个时间点触发的计时器来完成。4 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be explained by looking at the steps of a naive algorithm that takes a consistent checkpoint of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223326Z" creationid="xccui" creationdate="20190608T223205Z">
