@@ -18567,6 +18567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to be able to delete the currently registered timer, its</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212811Z" creationid="xccui" creationdate="20190704T212811Z">
+        <seg>为了删除当前已经注册的计时器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to clean up all state when a window is deleted, the clear() method of</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194446Z" creationid="xccui" creationdate="20190626T194350Z">
@@ -40117,6 +40125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042645Z" creationid="xccui" creationdate="20190702T042645Z">
         <seg>thresholds.remove(update.id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>timestamp is stored in an additional ValueState[Long] called lastTimerState.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212953Z" creationid="xccui" creationdate="20190704T212953Z">
+        <seg>KeyedProcessFunction会使用一个名为lastTimerState的ValueState[Long]来记录它的时间。</seg>
       </tuv>
     </tu>
     <tu>
