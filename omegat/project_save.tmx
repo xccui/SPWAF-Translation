@@ -17207,6 +17207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the state of an application is continuously increasing, it will at some point grow too large and kill the application unless action is taken to scale the application to more resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T130702Z" creationid="xccui" creationdate="20190704T130702Z">
+        <seg>应用状态如果不断增加，总有一天会变得过大并"杀死"应用，除非我们有什么办法能为应用扩充资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the system continues to receive data at a higher rate than it can handle, buffers might become unavailable and data might get lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T202331Z" creationid="xccui" creationdate="20190402T201609Z">
@@ -25970,8 +25978,8 @@
       <tuv lang="EN-US">
         <seg>Streaming applications are often designed to run continuously for months or years.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T035535Z" creationid="xccui" creationdate="20190704T035535Z">
-        <seg>流式应用经常会被设计为成年累月地连续运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T130113Z" creationid="xccui" creationdate="20190704T035535Z">
+        <seg>流式应用经常会被设计成需要长年累月地连续运行。</seg>
       </tuv>
     </tu>
     <tu>
