@@ -24936,6 +24936,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since check‐ points are synchronized with function invocations, multiple state updates do not pro‐ vide any benefits but can cause additional serialization overhead when updating state several times in a single function call.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T035120Z" creationid="xccui" creationdate="20190704T035120Z">
+        <seg>由于检查点需要和函数调用同步，所以在单个函数内调用多次更新状态没有任何好处，反而会带来额外的序列化开销。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since each parallel instance of the function must hold all rules in its operator state, the rules stream needs to be broadcasted to ensure each instance of the function receives all rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203601Z" creationid="xccui" creationdate="20190701T203601Z">
