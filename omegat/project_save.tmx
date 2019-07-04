@@ -12543,6 +12543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-12 shows how to configure a state backend (here, RocksDBStateBackend) for an application and all its stateful functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025623Z" creationid="xccui" creationdate="20190704T025623Z">
+        <seg>示例7-12展示了如何为应用及其状态化函数配置状态后端（此处选用RocksDBStateBackend）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 7-13.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T024303Z" creationid="xccui" creationdate="20190704T024303Z">
