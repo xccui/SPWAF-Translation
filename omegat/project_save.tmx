@@ -40017,6 +40017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the method updates the clean-up timer by deleting the previous timer and registering a new one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212546Z" creationid="xccui" creationdate="20190704T212546Z">
+        <seg>该方法会通过删除已有计时器并注册新计时器的方法达到"延期"的目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the operator state as a list of serializable state objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T050259Z" creationid="xccui" creationdate="20190701T050259Z">
