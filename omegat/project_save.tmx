@@ -5910,6 +5910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A common reason for growing state is keyed state on an evolving key domain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T140355Z" creationid="xccui" creationdate="20190704T140355Z">
+        <seg>导致状态增长的一个常见原因是键值状态的键值域不断发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A common requirement for streaming applications is to adjust the parallelism of operators due to increasing or decreasing input rates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T054428Z" creationid="xccui" creationdate="20190608T054343Z">
