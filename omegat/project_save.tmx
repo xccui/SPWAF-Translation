@@ -25968,6 +25968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Streaming applications are often designed to run continuously for months or years.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T035535Z" creationid="xccui" creationdate="20190704T035535Z">
+        <seg>流式应用经常会被设计为成年累月地连续运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Streaming applications are supposed to run continuously and must recover from fail‐ ures, such as failing machines or processes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203614Z" creationid="xccui" creationdate="20190702T203549Z">
