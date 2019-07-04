@@ -15495,6 +15495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For state backends that de/serialize state objects when reading or writing, such as RocksDBStateBackend, the choice of the state primitive (ValueState, ListState, or MapState) can have a major impact on the performance of an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T031531Z" creationid="xccui" creationdate="20190704T031531Z">
+        <seg>对于那些在读写状态时涉及对象序列化和反序列化的状态后端（如RocksDBStateBackend），状态原语（ValueState、ListState或MapState）的选择将对应用性能产生决定性的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For such advanced applications, a good understanding of Flink’s internal time handling is often helpful and sometimes required.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204542Z" creationid="xccui" creationdate="20190523T034809Z">
