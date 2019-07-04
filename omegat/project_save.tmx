@@ -7998,6 +7998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another good practice is to update state only once per function call.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034315Z" creationid="xccui" creationdate="20190704T034315Z">
+        <seg>还有一个好的习惯是每个函数调用只更新一次状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another improvement was the dissolution of the latency-throughput trade-off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T134512Z" creationid="xccui" creationdate="20190327T134512Z">
@@ -15251,6 +15259,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T025919Z" creationid="xccui" creationdate="20190407T025745Z">
         <seg>例如：用户浏览一连串新闻文章的交互过程可以看作一个会话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, with RocksDBStateBackend it is more efficient to use MapState[X, Y] instead of ValueState[HashMap[X, Y]].</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034135Z" creationid="xccui" creationdate="20190704T034135Z">
+        <seg>例如，针对RocksDBStateBackend，使用MapState[X, Y]要比ValueState[HashMap[X, Y]更高效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37461,6 +37477,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045716Z" creationid="xccui" creationdate="20190620T045716Z">
         <seg>默认的时间间隔为200毫秒，但可以利用ExecutionConfig.setAutoWatermarkInterval()方法来配置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is actually accessed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034039Z" creationid="xccui" creationdate="20190704T034039Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
