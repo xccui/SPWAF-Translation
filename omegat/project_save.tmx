@@ -16423,6 +16423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it is limited by the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022926Z" creationid="xccui" creationdate="20190704T022926Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it relies on the fact that all partitions continuously provide increasing watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T031937Z" creationid="xccui" creationdate="20190607T031937Z">
@@ -24036,6 +24044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065821Z">
         <seg>如果你在使用开启了增量检查点模式RocksDB状态后端，且将计时器存储在堆内（默认设置），计时器写入检查点的过程就会是同步的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RocksDBStateBackend stores all state into local RocksDB instances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T023459Z" creationid="xccui" creationdate="20190704T023459Z">
+        <seg>RocksDBStateBackend会把全部状态存到本地RocksDB实例中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39003,8 +39019,8 @@
       <tuv lang="EN-US">
         <seg>size of the TaskManager memory and might suffer from garbage collection pau‐ ses.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022923Z" creationid="xccui" creationdate="20190704T022923Z">
-        <seg>然而，FsStateBackend同样会受到TaskManager内存大小的限制，并且也可能导致垃圾回收停顿问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022948Z" creationid="xccui" creationdate="20190704T022923Z">
+        <seg>但它同样会受到TaskManager内存大小的限制，并且也可能导致垃圾回收停顿问题。</seg>
       </tuv>
     </tu>
     <tu>
