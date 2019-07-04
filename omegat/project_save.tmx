@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// the keyed state handle for the last registered timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210223Z" creationid="xccui" creationdate="20190704T210223Z">
+        <seg>// 上一个注册的计时器的键值分区状态句柄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// the keyed state handle for the last temperature</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205652Z" creationid="xccui" creationdate="20190704T205652Z">
