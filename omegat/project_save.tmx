@@ -23200,6 +23200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T184156Z" creationid="xccui" creationdate="20190704T184156Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other features include support to upgrade application code or migrate a job to a different cluster or a new version of the stream processor without losing the current state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195037Z" creationid="xccui" creationdate="20190605T053913Z">
@@ -35197,6 +35205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032841Z" creationid="xccui" creationdate="20190622T032841Z">
         <seg>窗口时流式应用中一类十分常见的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows with time-based trig‐ gers (both processing time and event time) are not affected by this because they trig‐ ger and purge their state based on time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T195942Z" creationid="xccui" creationdate="20190704T195942Z">
+        <seg>基于时间（无论是处理时间还是事件时间）触发的窗口则不受该问题的影响，因为它们会根据不断前进的时间触发计算并清除状态。</seg>
       </tuv>
     </tu>
     <tu>
