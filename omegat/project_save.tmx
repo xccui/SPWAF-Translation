@@ -33298,8 +33298,8 @@
       <tuv lang="EN-US">
         <seg>We discuss in “Tuning Checkpointing and Recovery” on page 263 how to use and configure state backends in your application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025917Z" creationid="xccui" creationdate="20190704T025917Z">
-        <seg>我们会在第263页"调整检查点及恢复"</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T030104Z" creationid="xccui" creationdate="20190704T025917Z">
+        <seg>我们会在第263页"调整检查点及恢复"一节讨论具体如何在应用中使用和配置状态后端。</seg>
       </tuv>
     </tu>
     <tu>
