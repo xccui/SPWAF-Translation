@@ -30978,8 +30978,8 @@
       <tuv lang="EN-US">
         <seg>This can be done by registering timers for a point of time in the future.4 Similar to state, timers are registered in the context of the currently active key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T202730Z" creationid="xccui" creationdate="20190704T202730Z">
-        <seg>该工作可以通过注册在未来某个时间点触发的计时器来完成。4 </seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T203009Z" creationid="xccui" creationdate="20190704T202730Z">
+        <seg>该工作可以通过注册针对未来某个时间点的计时器来完成。4 和状态类似，计时器也会注册在当前活跃键值的上下文中。 </seg>
       </tuv>
     </tu>
     <tu>
