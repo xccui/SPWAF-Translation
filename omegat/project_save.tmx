@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// clear all state for the key lastTempState.clear() lastTimerState.clear()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210846Z" creationid="xccui" creationdate="20190704T210846Z">
+        <seg>// 清除当前键值的所有状态 lastTempState.clear() lastTimerState.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// clear trigger state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200942Z" creationid="xccui" creationdate="20190626T200942Z">
@@ -1688,8 +1696,8 @@
       <tuv lang="EN-US">
         <seg>// compute timestamp of new clean up timer as record timestamp + one hour</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210515Z" creationid="xccui" creationdate="20190704T210515Z">
-        <seg>// 将清理状态的计时器设置为记录时间戳 + 1小时</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210546Z" creationid="xccui" creationdate="20190704T210515Z">
+        <seg>// 将清理状态的计时器设置为比记录时间戳晚一小时</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023928Z" creationid="xccui" creationdate="20190622T023928Z">
         <seg>// 定义副输出标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// delete previous timer and register new timer ctx.timerService().deleteEventTimeTimer(curTimer) ctx.timerService().registerEventTimeTimer(newTimer)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210630Z" creationid="xccui" creationdate="20190704T210630Z">
+        <seg>// 删除前一个计时器并注册一个新的计时器 ctx.timerService().deleteEventTimeTimer(curTimer) ctx.timerService().registerEventTimeTimer(newTimer)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042738Z" creationid="xccui" creationdate="20190702T042738Z">
         <seg>// 获取指定传感器的阈值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// get timestamp of current timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210606Z" creationid="xccui" creationdate="20190704T210606Z">
+        <seg>// 获取当前计时器的时间戳</seg>
       </tuv>
     </tu>
     <tu>
@@ -2994,6 +3018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163406Z" creationid="xccui" creationdate="20190702T163406Z">
         <seg>// 利用本地的状态更新算子状态 opCntState.clear() opCntState.add(opHighTempCnt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// update timer timestamp state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210642Z" creationid="xccui" creationdate="20190704T210642Z">
+        <seg>//更新计时器时间戳状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -35865,6 +35897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[String, SensorReading, (String, Double, Double)]#OnTimerContext, out: Collector[(String, Double, Double)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210700Z" creationid="xccui" creationdate="20190704T210700Z">
+        <seg>[String, SensorReading, (String, Double, Double)]#OnTimerContext, out: Collector[(String, Double, Double)]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[String, SensorReading, ThresholdUpdate, (String, Double, Double)] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041333Z" creationid="xccui" creationdate="20190702T041333Z">
@@ -36725,6 +36765,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042531Z" creationid="xccui" creationdate="20190702T042531Z">
         <seg>ctx: KeyedBroadcastProcessFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctx: KeyedProcessFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210654Z" creationid="xccui" creationdate="20190704T210654Z">
+        <seg>ctx: KeyedProcessFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -37953,6 +38001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lastTimerState.update(newTimer)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210645Z" creationid="xccui" creationdate="20190704T210645Z">
+        <seg>lastTimerState.update(newTimer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lazy val currentTimer: ValueState[Long] = getRuntimeContext.getState(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071405Z" creationid="xccui" creationdate="20190621T071405Z">
@@ -38885,6 +38941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200907Z" creationid="xccui" creationdate="20190626T200907Z">
         <seg>override def onProcessingTime( timestamp: Long,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def onTimer( timestamp: Long,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210651Z" creationid="xccui" creationdate="20190704T210651Z">
+        <seg>override def onTimer( timestamp: Long,</seg>
       </tuv>
     </tu>
     <tu>
@@ -40457,6 +40521,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val curTimer = lastTimerState.value()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210609Z" creationid="xccui" creationdate="20190704T210609Z">
+        <seg>val curTimer = lastTimerState.value()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val curTimerTimestamp = currentTimer.value();</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071518Z" creationid="xccui" creationdate="20190621T071518Z">
@@ -40893,6 +40965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022715Z" creationid="xccui" creationdate="20190622T022715Z">
         <seg>val monitoredReadings: DataStream[SensorReading] = readings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val newTimer = ctx.timestamp() + (3600 * 1000)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210548Z" creationid="xccui" creationdate="20190704T210548Z">
+        <seg>val newTimer = ctx.timestamp() + (3600 * 1000)</seg>
       </tuv>
     </tu>
     <tu>
