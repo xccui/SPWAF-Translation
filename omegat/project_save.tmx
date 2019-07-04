@@ -31304,6 +31304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that you should take application requirements and the properties of its input data, such as key domain, into account when designing and implementing stateful operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T200130Z" creationid="xccui" creationdate="20190704T200130Z">
+        <seg>这意味着你在设计和实现状态化算子的时候，需要把应用需求和输入数据的属性（如键值域）都考虑在内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means the time needed to prepare a single beverage will increase, causing each person to spend more time in the coffees hop, thus lowering the overall throughput.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054439Z" creationid="xccui" creationdate="20190605T235136Z">
