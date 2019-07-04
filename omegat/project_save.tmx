@@ -15865,8 +15865,8 @@
       <tuv lang="EN-US">
         <seg>Hence, FsStateBackend provides in-memory speed for local</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022405Z" creationid="xccui" creationdate="20190704T022405Z">
-        <seg>因此，FsStateBackend既为本地状态提供了内存的访问速度，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022632Z" creationid="xccui" creationdate="20190704T022405Z">
+        <seg>因此，FsStateBackend既让本地访问拥有了内存的速度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35461,6 +35461,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T205838Z" creationid="esouser" creationdate="20190603T205838Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>accesses and fault tolerance in the case of failures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022425Z" creationid="xccui" creationdate="20190704T022425Z">
+        <seg>又支持故障容错。</seg>
       </tuv>
     </tu>
     <tu>
