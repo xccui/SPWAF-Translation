@@ -11281,8 +11281,8 @@
       <tuv lang="EN-US">
         <seg>Due to these limitations, MemoryStateBackend is only rec‐ ommended for development and debugging purposes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021354Z" creationid="xccui" creationdate="20190704T020912Z">
-        <seg>由于存在这些限制，我们建议仅将MemoryStateBackend用于开发和调试。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021647Z" creationid="xccui" creationdate="20190704T020912Z">
+        <seg>由于这些限制，我们建议仅将MemoryStateBackend用于开发和调试。</seg>
       </tuv>
     </tu>
     <tu>
