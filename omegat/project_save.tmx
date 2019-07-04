@@ -6840,8 +6840,8 @@
       <tuv lang="EN-US">
         <seg>A typical example is a stream of click events where clicks have a session id attribute that expires after some time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141225Z" creationid="xccui" creationdate="20190704T141225Z">
-        <seg>一个典型的例子就是有一条具有会话id属性的点击事件流，其中的会话id会在一段时间后过期。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141432Z" creationid="xccui" creationdate="20190704T141225Z">
+        <seg>一个典型的例子是有一条包含会话id属性的点击事件流，其中的会话id会在一段时间后过期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8643,6 +8643,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T205859Z" creationid="xccui" creationdate="20190401T204654Z">
         <seg>当第一个事件到来，系统会立刻以尽可能低的延迟进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the key space evolves, the state of expired keys becomes stale and useless.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141808Z" creationid="xccui" creationdate="20190704T141808Z">
+        <seg>随着键值空间的不断变化，状态中那些过期的键值就会变得陈旧且毫无价值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18729,8 +18737,8 @@
       <tuv lang="EN-US">
         <seg>In such a case, a function with keyed state would accumulate state for more and more</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141354Z" creationid="xccui" creationdate="20190704T141354Z">
-        <seg>此时，具有键值分区状态的函数会积累越来越多的键值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141436Z" creationid="xccui" creationdate="20190704T141354Z">
+        <seg>此时，具有键值分区状态的函数就会积累越来越多的键值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37676,6 +37684,14 @@
         <seg>keyBy() method:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051732Z" creationid="xccui" creationdate="20190618T051732Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>keys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141438Z" creationid="xccui" creationdate="20190704T141438Z">
         <seg></seg>
       </tuv>
     </tu>
