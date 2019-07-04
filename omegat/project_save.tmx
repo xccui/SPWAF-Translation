@@ -10311,6 +10311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, a running application needs to be replaced by an updated version usually without losing the state of the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T214350Z" creationid="xccui" creationdate="20190704T214350Z">
+        <seg>这往往要求我们在不丢失应用状态的情况下对当前运行的应用进行版本更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, all records with the same key access the same state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191837Z" creationid="xccui" creationdate="20190607T191804Z">
@@ -20811,6 +20819,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055537Z" creationid="xccui" creationdate="20190630T054329Z">
         <seg>虽然ListState不支持单个元素的删除，但你可以调用ListState.update(values: java.util.List[T])来更新整个列表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is often necessary to fix a bug or to evolve the business logic of a long-running stateful streaming application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T214053Z" creationid="xccui" creationdate="20190704T214053Z">
+        <seg>很多时候我们需要对一个长时间运行的状态化流式应用进行Bug修复或业务逻辑调整。</seg>
       </tuv>
     </tu>
     <tu>
