@@ -9151,6 +9151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before comparing the temperature measurements and updating the last temperature,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T211924Z" creationid="xccui" creationdate="20190704T211924Z">
+        <seg>在比较温度值并更新最近一次温度之前，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before execution, these are translated into physical dataflow graphs of connected parallel tasks, each running some operator logic, consuming input streams and producing output streams for other tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185357Z" creationid="xccui" creationdate="20190606T033145Z">
@@ -15155,6 +15163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052406Z" creationid="xccui" creationdate="20190614T052406Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each input event, the processElement() method is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T211737Z" creationid="xccui" creationdate="20190704T211737Z">
+        <seg>对于每个输入事件，都会调用processElement()方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29988,6 +30004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064841Z" creationid="xccui" creationdate="20190702T064841Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state-cleaning mechanism implemented by the above KeyedProcessFunction works as follows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T211645Z" creationid="xccui" creationdate="20190704T211645Z">
+        <seg>上述KeyedProcessFunction实现的状态清除策略的工作机制如下。</seg>
       </tuv>
     </tu>
     <tu>
