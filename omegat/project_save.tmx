@@ -27040,6 +27040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ListState implementation of RocksDBStateBackend deseri‐ alizes all list entries before constructing Iterable to read the values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T032212Z" creationid="xccui" creationdate="20190704T032212Z">
+        <seg>在构造用于数据访问的Iterable对象之前，RocksDBStateBackend的ListState需要将它所有的列表条目反序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The MapFunction is typed to the types of the input and output events and can be specified using the MapFunction interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052743Z" creationid="xccui" creationdate="20190613T050021Z">
