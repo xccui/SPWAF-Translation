@@ -21279,6 +21279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MapState of RocksDBStateBackend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033040Z" creationid="xccui" creationdate="20190704T033040Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MapState.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221602Z" creationid="xccui" creationdate="20190703T221602Z">
@@ -35675,8 +35683,8 @@
       <tuv lang="EN-US">
         <seg>allows reading and writing values per key—only those keys and values are de/serial‐ ized that are read or written.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033038Z" creationid="xccui" creationdate="20190704T033038Z">
-        <seg>RocksDBStateBackend的MapState允许只对那些读写的键或值进行序列化和反序列化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033324Z" creationid="xccui" creationdate="20190704T033038Z">
+        <seg>RocksDBStateBackend的MapState允许按照每个键对其相应的数据值进行读写，并且只有那些读写的键和值才需要进行（反）序列化。</seg>
       </tuv>
     </tu>
     <tu>
