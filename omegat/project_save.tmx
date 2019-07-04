@@ -24840,6 +24840,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since StateBackend is a public interface, it is also possible to implement a custom state backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025522Z" creationid="xccui" creationdate="20190704T025522Z">
+        <seg>由于StateBackend接口是公开的，所以你也可以实现自定义的状态后端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since each parallel instance of the function must hold all rules in its operator state, the rules stream needs to be broadcasted to ensure each instance of the function receives all rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T203601Z" creationid="xccui" creationdate="20190701T203601Z">
@@ -38532,6 +38540,14 @@
         <seg>parallel instance of the function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052214Z" creationid="xccui" creationdate="20190701T052214Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pared to maintaining state on the heap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025408Z" creationid="xccui" creationdate="20190704T025408Z">
         <seg></seg>
       </tuv>
     </tu>
