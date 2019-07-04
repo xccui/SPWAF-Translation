@@ -11281,8 +11281,8 @@
       <tuv lang="EN-US">
         <seg>Due to these limitations, MemoryStateBackend is only rec‐ ommended for development and debugging purposes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020912Z" creationid="xccui" creationdate="20190704T020912Z">
-        <seg>这些限制，MemoryStateBackend只建议在开发和调试的情况下使用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021354Z" creationid="xccui" creationdate="20190704T020912Z">
+        <seg>由于存在这些限制，我们建议仅将MemoryStateBackend用于开发和调试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24794,8 +24794,8 @@
       <tuv lang="EN-US">
         <seg>Since its memory is volatile, the state is lost in case of a JobManager failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020651Z" creationid="xccui" creationdate="20190704T020651Z">
-        <seg>由于内存的易失性，一旦JobManager出现故障，状态就会丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020920Z" creationid="xccui" creationdate="20190704T020651Z">
+        <seg>由于内存具有易失性，一旦JobManager出现故障，状态就会丢失。</seg>
       </tuv>
     </tu>
     <tu>
