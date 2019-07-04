@@ -9153,8 +9153,8 @@
       <tuv lang="EN-US">
         <seg>Before comparing the temperature measurements and updating the last temperature,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T211924Z" creationid="xccui" creationdate="20190704T211924Z">
-        <seg>在比较温度值并更新最近一次温度之前，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212613Z" creationid="xccui" creationdate="20190704T211924Z">
+        <seg>在对温度值进行比较并更新最近一次温度之前，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27904,6 +27904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The clean-up time is computed by adding one hour to the timestamp of the current record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212741Z" creationid="xccui" creationdate="20190704T212741Z">
+        <seg>清理时间被设置为比当前记录时间晚一小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The close() method is a finalization method for the function and it is called once per task after the last call of the transformation method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033120Z" creationid="xccui" creationdate="20190619T033120Z">
@@ -40019,8 +40027,8 @@
       <tuv lang="EN-US">
         <seg>the method updates the clean-up timer by deleting the previous timer and registering a new one.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212546Z" creationid="xccui" creationdate="20190704T212546Z">
-        <seg>该方法会通过删除已有计时器并注册新计时器的方法达到"延期"的目的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212649Z" creationid="xccui" creationdate="20190704T212546Z">
+        <seg>该方法会通过删除已有计时器并注册新计时器的方法达到"延期清理"的目的。</seg>
       </tuv>
     </tu>
     <tu>
