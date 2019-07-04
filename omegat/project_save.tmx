@@ -12641,8 +12641,8 @@
       <tuv lang="EN-US">
         <seg>Example 7-13 shows a KeyedProcessFunction that compares two subsequent tem‐ perature measurements and raises an alert if the difference is greater than a certain</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204924Z" creationid="xccui" creationdate="20190704T204924Z">
-        <seg>示例7-13展示的KeyedProcessFunction会对两个连续的温度测量值进行比较，如果其变化值大于一个特定阈值就会发出警报。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205113Z" creationid="xccui" creationdate="20190704T204924Z">
+        <seg>示例7-13展示的KeyedProcessFunction会对两个连续的温度测量值进行比较，如果二者的差值大于一个特定阈值就会发出警报。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39885,6 +39885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044856Z" creationid="xccui" creationdate="20190617T044856Z">
         <seg>this.name = name;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204926Z" creationid="xccui" creationdate="20190704T204926Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
