@@ -11281,8 +11281,8 @@
       <tuv lang="EN-US">
         <seg>Due to these limitations, MemoryStateBackend is only rec‐ ommended for development and debugging purposes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021647Z" creationid="xccui" creationdate="20190704T020912Z">
-        <seg>由于这些限制，我们建议仅将MemoryStateBackend用于开发和调试。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021722Z" creationid="xccui" creationdate="20190704T020912Z">
+        <seg>由于存在这些限制，我们建议仅将MemoryStateBackend用于开发和调试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15527,6 +15527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FsStateBackend stores the local state on the TaskManager’s JVM heap, just like MemoryStateBackend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021829Z" creationid="xccui" creationdate="20190704T021829Z">
+        <seg>FsStateBackend和MemoryStateBackend一样，将本地状态保存在TaskManager的JVM堆内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full window functions collect all elements of a window and iterate over the list of all collected elements when they are evaluated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211513Z" creationid="xccui" creationdate="20190623T211046Z">
@@ -16379,6 +16387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065250Z" creationid="xccui" creationdate="20190616T064538Z">
         <seg>但在某些情况下，例如使用了lambda函数或泛型类型，则必须显式指定类型信息才能启动应用或提高其性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, instead of checkpointing the state to the JobMa‐ nager’s volatile memory, FsStateBackend writes the state to a remote and persis‐ tent file system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022121Z" creationid="xccui" creationdate="20190704T022121Z">
+        <seg>但它不会在创建检查点时将状态存到JobManager的易失内存中，而是会将它们写入远程持久化文件系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24794,8 +24810,8 @@
       <tuv lang="EN-US">
         <seg>Since its memory is volatile, the state is lost in case of a JobManager failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020920Z" creationid="xccui" creationdate="20190704T020651Z">
-        <seg>由于内存具有易失性，一旦JobManager出现故障，状态就会丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021715Z" creationid="xccui" creationdate="20190704T020651Z">
+        <seg>因为内存具有易失性，所以一旦JobManager出现故障，状态就会丢失。</seg>
       </tuv>
     </tu>
     <tu>
