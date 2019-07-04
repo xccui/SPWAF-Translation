@@ -11279,6 +11279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to these limitations, MemoryStateBackend is only rec‐ ommended for development and debugging purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020912Z" creationid="xccui" creationdate="20190704T020912Z">
+        <seg>这些限制，MemoryStateBackend只建议在开发和调试的情况下使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to this replication of data, the data stores must be kept in sync.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T070309Z" creationid="xccui" creationdate="20190314T070309Z">
@@ -24780,6 +24788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162841Z" creationid="esouser" creationdate="20190603T162841Z">
         <seg>Flink自创建伊始就拥有一个活跃、不断发展的用户及贡献者群体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since its memory is volatile, the state is lost in case of a JobManager failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020651Z" creationid="xccui" creationdate="20190704T020651Z">
+        <seg>由于内存的易失性，一旦JobManager出现故障，状态就会丢失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39204,6 +39220,14 @@
         <seg>that returns exactly one output event, possibly of a different type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T045224Z" creationid="xccui" creationdate="20190613T045224Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the JobManager’s memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020537Z" creationid="xccui" creationdate="20190704T020537Z">
         <seg></seg>
       </tuv>
     </tu>
