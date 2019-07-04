@@ -35841,6 +35841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aggregates on a KeyedStream, either with the built-in aggregations functions such as min, max, sum, minBy, or maxBy or with a custom ReduceFunction or AggregateFunc tion, keeps the state for each key and never discards it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183348Z" creationid="xccui" creationdate="20190704T183348Z">
+        <seg>例如，当我们在一个KeyedStream上计算聚合时，无论采用的是内置聚合函数（例如min、max、sum、minBy或maxBy）还是自定义的ReduceFunction或AggregateFunction，都会为每个键值保存状态并且永不丢弃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>allows reading and writing values per key—only those keys and values are de/serial‐ ized that are read or written.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033400Z" creationid="xccui" creationdate="20190704T033038Z">
