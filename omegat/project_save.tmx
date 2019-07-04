@@ -10249,8 +10249,8 @@
       <tuv lang="EN-US">
         <seg>Consequently, these functions should only be used if the key values are from a constant and bounded domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183511Z" creationid="xccui" creationdate="20190704T183511Z">
-        <seg>所以说，只有在键值域不变或有界时才能使用这些函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183553Z" creationid="xccui" creationdate="20190704T183511Z">
+        <seg>所以说，只有在键值域不变或有界的前提下才能使用这些函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36909,6 +36909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T202923Z" creationid="xccui" creationdate="20190701T202923Z">
         <seg>一个典型的例子是有一条规则流和一条需要应用这些规则的事件流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>examples are windows with count-based triggers, which process and clean their state when a certain number of records has been received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T184154Z" creationid="xccui" creationdate="20190704T184154Z">
+        <seg>其他例子还有像基于数量触发的窗口，它们只有在收到一定数量的记录时才会进行处理并清除状态。</seg>
       </tuv>
     </tu>
     <tu>
