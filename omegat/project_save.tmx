@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(more on this in “Checkpoints, Savepoints, and State Recovery” on page 58), RocksDBStateBackend is a good choice for applications with very large state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T024258Z" creationid="xccui" creationdate="20190704T024258Z">
+        <seg>所以对于状态非常大的应用是一个很好的选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(r1: (String, Double, Double), r2: (String, Double, Double)) =&gt; { (r1._1, r1._2.min(r2._2), r1._3.max(r2._3))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043611Z" creationid="xccui" creationdate="20190625T043611Z">
@@ -12531,6 +12539,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024958Z" creationid="xccui" creationdate="20190703T024958Z">
         <seg>示例7-11，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-13.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T024303Z" creationid="xccui" creationdate="20190704T024303Z">
+        <seg>示例7-13，</seg>
       </tuv>
     </tu>
     <tu>
