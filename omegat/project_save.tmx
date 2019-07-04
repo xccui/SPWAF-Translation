@@ -10247,6 +10247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, these functions should only be used if the key values are from a constant and bounded domain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183511Z" creationid="xccui" creationdate="20190704T183511Z">
+        <seg>所以说，只有在键值域不变或有界时才能使用这些函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, you should either ensure the value of the broadcast state does not depend on the order in which the broadcasted mes‐ sages are received or ensure the parallelism of the broadcasting operator is set to 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055655Z" creationid="xccui" creationdate="20190702T055655Z">
@@ -15163,6 +15171,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T155133Z" creationid="xccui" creationdate="20190401T154841Z">
         <seg>例如：平均延迟10毫秒表示平均每条数据会在10毫秒内处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, computing running</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183351Z" creationid="xccui" creationdate="20190704T183351Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
