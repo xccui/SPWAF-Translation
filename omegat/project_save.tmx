@@ -18489,8 +18489,8 @@
       <tuv lang="EN-US">
         <seg>In order to prevent increasing resource consumption of an application over time, it is important that the size of the operator state be controlled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T135607Z" creationid="xccui" creationdate="20190704T135607Z">
-        <seg>为了防止应用资源随时间而耗尽，需要控制算子状态大小。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T135741Z" creationid="xccui" creationdate="20190704T135607Z">
+        <seg>为了防止应用资源随时间而耗尽，关键要控制算子状态大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25092,6 +25092,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053412Z" creationid="xccui" creationdate="20190628T053412Z">
         <seg>由于两条流中的事件会被映射到相同的窗口中，因此该过程中的触发器和移除器与常规窗口算子中的完全相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the handling of state directly affects the semantics of an operator, Flink cannot automati‐ cally clean up state and free storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T135936Z" creationid="xccui" creationdate="20190704T135936Z">
+        <seg>由于状态的处理会直接影响算子语义，所以Flink无法通过自动清理状态来释放资源。</seg>
       </tuv>
     </tu>
     <tu>
