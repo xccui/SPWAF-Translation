@@ -22791,6 +22791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once that timer fires, the onTimer() method is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213456Z" creationid="xccui" creationdate="20190704T213456Z">
+        <seg>一旦该计时器触发，就会调用onTimer()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the data has been imported into the data warehouse it can be queried and ana&lt;t0/&gt;‐&lt;t1/&gt; lyzed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T192252Z" creationid="xccui" creationdate="20190228T191418Z">
@@ -29164,6 +29172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023219Z" creationid="xccui" creationdate="20190624T011756Z">
         <seg>窗口的元数据通常包含了一些可用作窗口标识的信息，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method clears all state associated with the key, the last temperature and the last timer state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213923Z" creationid="xccui" creationdate="20190704T213923Z">
+        <seg>该回调方法会清除所有当前键值的状态，包括用于保存最近一次温度以及前一个计时器时间的状态。</seg>
       </tuv>
     </tu>
     <tu>
