@@ -16351,6 +16351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, adding a single value to ListState—appending it to the end of the list—is a cheap operation because only the appended value is serialized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T032817Z" creationid="xccui" creationdate="20190704T032817Z">
+        <seg>但向ListState中添加一个值（将其附加到列表最后）的操作会相对轻量级一些，因为它只会序列化新添加的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, also with storage systems and execution engines of the Hadoop ecosystem the overall mode of operation of the infrastructure remains basically the same as the traditional data warehouse architec&lt;t2/&gt;‐&lt;t3/&gt; ture, i.e., data is periodically extracted and loaded into to a data store and processed by periodic or ad-hoc queries in a batch fashion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190301T040639Z" creationid="xccui" creationdate="20190301T034022Z">
