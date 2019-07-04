@@ -16191,6 +16191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the callback method has full access to the key’s state and can also clear it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204118Z" creationid="xccui" creationdate="20190704T204118Z">
+        <seg>因此在回调方法内你可以获得当前键值状态的完整访问权限并将其清除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the elements of both input streams can be jointly processed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052207Z" creationid="xccui" creationdate="20190615T052207Z">
