@@ -16399,6 +16399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, a function with keyed state can only access the state of a key if it received a record with that key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T142046Z" creationid="xccui" creationdate="20190704T142046Z">
+        <seg>然而，具有键值分区状态的函数只有在收到某键值的记录时才能访问该键值的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, adding a single value to ListState—appending it to the end of the list—is a cheap operation because only the appended value is serialized.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T032817Z" creationid="xccui" creationdate="20190704T032817Z">
@@ -18339,6 +18347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185813Z" creationid="xccui" creationdate="20190415T041755Z">
         <seg>对于长期运行的流式作业而言，每个任务都随时有可能出现故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In many cases, a function does not know if a record will be the last one for a key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T142252Z" creationid="xccui" creationdate="20190704T142252Z">
+        <seg>很多情况下，函数不会知道某条记录是不是该键值所对应的最后一条。</seg>
       </tuv>
     </tu>
     <tu>
