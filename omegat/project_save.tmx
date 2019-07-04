@@ -8967,6 +8967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because it writes data to disk and supports incremental checkpoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T024204Z" creationid="xccui" creationdate="20190704T024204Z">
+        <seg>因为它能够将数据写入磁盘，且支持增量检查点（详见第58页"检查点、保存点及状态恢复"一节），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because local state can be maintained and checkpointed in different ways, state backends are pluggable—two applications can use different state backend implementations to maintain their states.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221421Z" creationid="xccui" creationdate="20190703T214504Z">
@@ -27056,6 +27064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The RocksDBStateBackend also checkpoints the state to a remote and persistent file system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T024037Z" creationid="xccui" creationdate="20190704T024037Z">
+        <seg>RocksDBStateBackend同样会将状态以检查点形式写入远程持久化文件系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The RuntimeContext can be used to retrieve information such as the function’s parallelism, its subtask index, and the name of the task that executes the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033617Z" creationid="xccui" creationdate="20190619T033451Z">
@@ -35627,8 +35643,8 @@
       <tuv lang="EN-US">
         <seg>and write data from and to RocksDB, it needs to be de/serialized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T023728Z" creationid="xccui" creationdate="20190704T023657Z">
-        <seg>为了从RocksDB中读写数据，需要将数据序列化和反序列化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T023950Z" creationid="xccui" creationdate="20190704T023657Z">
+        <seg>为了从RocksDB中读写数据，需要对数据进行序列化和反序列化。</seg>
       </tuv>
     </tu>
     <tu>
