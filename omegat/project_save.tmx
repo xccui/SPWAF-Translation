@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// the keyed state handle for the last temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205652Z" creationid="xccui" creationdate="20190704T205652Z">
+        <seg>// 用于存储最近一次温度的键值分区状态句柄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// the map parallelism is set to double the default parallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061644Z" creationid="xccui" creationdate="20190616T061644Z">
@@ -6616,8 +6624,8 @@
       <tuv lang="EN-US">
         <seg>A stateful KeyedProcessFunction that cleans its state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205553Z" creationid="xccui" creationdate="20190704T205553Z">
-        <seg>会清除状态的KeyedProcessFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205611Z" creationid="xccui" creationdate="20190704T205553Z">
+        <seg>可以清除状态的KeyedProcessFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -31298,8 +31306,8 @@
       <tuv lang="EN-US">
         <seg>This is the same use case as in the keyed state example before, but the KeyedProcessFunction also clears the state for keys (i.e., sensors) that have not pro‐ vided any new temperature measurements within one hour of event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205500Z" creationid="xccui" creationdate="20190704T205500Z">
-        <seg>这和之前使用键值分区状态的用例相同，但此处的KeyedProcessFunction会在某一键值超过1小时没有新到的温度测量数据时将其对应的状态清除。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205827Z" creationid="xccui" creationdate="20190704T205500Z">
+        <seg>这和之前使用键值分区状态的用例相同，但此处的KeyedProcessFunction会在某一键值超过1小时（事件时间）都没有新到的温度测量数据时将其对应的状态清除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31956,6 +31964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065223Z">
         <seg>这些计时器会和其他状态一起写入检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timers can be based on event time or processing time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205850Z" creationid="xccui" creationdate="20190704T205850Z">
+        <seg>计时器可以基于事件时间或处理时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36505,6 +36521,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class SelfCleaningTemperatureAlertFunction(val threshold: Double)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205615Z" creationid="xccui" creationdate="20190704T205615Z">
+        <seg>class SelfCleaningTemperatureAlertFunction(val threshold: Double)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class TempIncreaseAlertFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071337Z" creationid="xccui" creationdate="20190621T071337Z">
@@ -37101,6 +37125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T154751Z" creationid="xccui" creationdate="20190702T154751Z">
         <seg>extends FlatMapFunction[SensorReading, (String, Long, Long)] with CheckpointedFunction {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends KeyedProcessFunction[String, SensorReading, (String, Double, Double)] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205618Z" creationid="xccui" creationdate="20190704T205618Z">
+        <seg>extends KeyedProcessFunction[String, SensorReading, (String, Double, Double)] {</seg>
       </tuv>
     </tu>
     <tu>
