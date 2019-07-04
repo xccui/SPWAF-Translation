@@ -35467,8 +35467,8 @@
       <tuv lang="EN-US">
         <seg>accesses and fault tolerance in the case of failures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022425Z" creationid="xccui" creationdate="20190704T022425Z">
-        <seg>又支持故障容错。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022639Z" creationid="xccui" creationdate="20190704T022425Z">
+        <seg>又可以支持故障容错。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38997,6 +38997,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042707Z" creationid="xccui" creationdate="20190623T042501Z">
         <seg>以时间单元表示的窗口大小。它可以利用分配器的of(Time size)方法指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>size of the TaskManager memory and might suffer from garbage collection pau‐ ses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022923Z" creationid="xccui" creationdate="20190704T022923Z">
+        <seg>然而，FsStateBackend同样会受到TaskManager内存大小的限制，并且也可能导致垃圾回收停顿问题。</seg>
       </tuv>
     </tu>
     <tu>
