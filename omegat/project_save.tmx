@@ -32656,6 +32656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Users have reported applications with state sizes of multiple terabytes leveraging RocksDBStateBackend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025108Z" creationid="xccui" creationdate="20190704T025108Z">
+        <seg>已经有用户介绍使用RocksDBStateBackend支撑起了状态大小为数个TB的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using Code Examples</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210812Z" creationid="esouser" creationdate="20190603T210812Z">
