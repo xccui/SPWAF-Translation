@@ -35673,6 +35673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>allows reading and writing values per key—only those keys and values are de/serial‐ ized that are read or written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033038Z" creationid="xccui" creationdate="20190704T033038Z">
+        <seg>RocksDBStateBackend的MapState允许只对那些读写的键或值进行序列化和反序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>always add the following import statement to your Scala applica‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054830Z" creationid="xccui" creationdate="20190617T054830Z">
