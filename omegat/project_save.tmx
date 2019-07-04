@@ -16039,6 +16039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the total state of an application must fit into</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020451Z" creationid="xccui" creationdate="20190704T020451Z">
+        <seg>因此JobManager的内存需要装得下应用的全部状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, there are basically no serialization and communication costs for pass&lt;t3/&gt;‐&lt;t4/&gt; ing records between functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T153042Z" creationid="esouser" creationdate="20190514T153042Z">
