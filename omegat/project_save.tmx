@@ -1694,6 +1694,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// configure path for checkpoints on the remote filesystem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025722Z" creationid="xccui" creationdate="20190704T025722Z">
+        <seg>// 远程文件系统检查点配置路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// configure the state backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025733Z" creationid="xccui" creationdate="20190704T025733Z">
+        <seg>// 配置状态后端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// connect keyed sensor stream and broadcasted rules stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024501Z" creationid="xccui" creationdate="20190702T024501Z">
@@ -10079,6 +10095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring RocksDBStateBackend for an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025642Z" creationid="xccui" creationdate="20190704T025642Z">
+        <seg>为应用配置RocksDBStateBackend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuring State Backends</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030054Z" creationid="xccui" creationdate="20190225T030054Z">
@@ -12547,6 +12571,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025623Z" creationid="xccui" creationdate="20190704T025623Z">
         <seg>示例7-12展示了如何为应用及其状态化函数配置状态后端（此处选用RocksDBStateBackend）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-12.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025628Z" creationid="xccui" creationdate="20190704T025628Z">
+        <seg>示例7-12，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33264,6 +33296,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We discuss in “Tuning Checkpointing and Recovery” on page 263 how to use and configure state backends in your application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025917Z" creationid="xccui" creationdate="20190704T025917Z">
+        <seg>我们会在第263页"调整检查点及恢复"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We discuss the implementation of a user-defined function in a later sec‐ tion of this chapter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054002Z" creationid="xccui" creationdate="20190612T032346Z">
@@ -36585,6 +36625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>env.setStateBackend(backend)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025736Z" creationid="xccui" creationdate="20190704T025736Z">
+        <seg>env.setStateBackend(backend)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041940Z" creationid="xccui" creationdate="20190612T041940Z">
@@ -39849,6 +39897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val backend = new RocksDBStateBackend(checkpointPath)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025725Z" creationid="xccui" creationdate="20190704T025725Z">
+        <seg>val backend = new RocksDBStateBackend(checkpointPath)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val bound: Long = 60 * 1000</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051040Z" creationid="xccui" creationdate="20190620T051040Z">
@@ -39997,6 +40053,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045734Z" creationid="xccui" creationdate="20190620T045734Z">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment val checkpointPath: String = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025646Z" creationid="xccui" creationdate="20190704T025646Z">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment val checkpointPath: String = ???</seg>
       </tuv>
     </tu>
     <tu>
