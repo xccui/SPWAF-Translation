@@ -6614,6 +6614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A stateful KeyedProcessFunction that cleans its state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205553Z" creationid="xccui" creationdate="20190704T205553Z">
+        <seg>会清除状态的KeyedProcessFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A stateful stream processing task</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T054231Z" creationid="xccui" creationdate="20190607T054231Z">
