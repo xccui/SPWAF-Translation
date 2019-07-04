@@ -16113,8 +16113,8 @@
       <tuv lang="EN-US">
         <seg>Hence, it will not be able to evict the state for the key because it might receive another record for the key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T170508Z" creationid="xccui" creationdate="20190704T170508Z">
-        <seg>所以说</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T182621Z" creationid="xccui" creationdate="20190704T170508Z">
+        <seg>因此，它根本无法准确移除某一键值的状态</seg>
       </tuv>
     </tu>
     <tu>
