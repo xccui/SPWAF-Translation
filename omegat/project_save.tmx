@@ -9559,6 +9559,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By changing the data type of a state, such as changing a ValueState[Int] to a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044303Z" creationid="xccui" creationdate="20190705T044241Z">
+        <seg>通过更改状态的数据类型，例如将ValueState[Int]改为ValueState[Double]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By changing the type of a state primitive, as for example by changing a Value State[List[String]] to a ListState[String]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044340Z" creationid="xccui" creationdate="20190705T044255Z">
+        <seg>通过更改状态原语类型，例如将ValueState[List[String]]改为ListState[String]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By computing results only based on the actual data, these systems are also able to process historical data in the same way as “live” data, i.e., data which is inges&lt;t0/&gt;‐&lt;t1/&gt; ted as soon as it is produced.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T134332Z" creationid="xccui" creationdate="20190327T051803Z">
@@ -9835,6 +9851,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041125Z" creationid="xccui" creationdate="20190705T041125Z">
         <seg>改变内置状态化算子的输入数据类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing the data type of a state is possible in a few specific cases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044439Z" creationid="xccui" creationdate="20190705T044439Z">
+        <seg>只有在几个特定场景下，你才可以改变状态的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33468,6 +33492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T215622Z" creationid="xccui" creationdate="20190607T192625Z">
         <seg>单值状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ValueState[Double]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044243Z" creationid="xccui" creationdate="20190705T044243Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
