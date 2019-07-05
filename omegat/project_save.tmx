@@ -9873,8 +9873,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 10 gives guidance on how to operate stateful applications—taking and restoring from application savepoints, rescaling applications, and performing application upgrades.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033447Z" creationid="xccui" creationdate="20190630T033104Z">
-        <seg>第10章指导你如何操纵状态化应用，具体包括创建和恢复应用保存点，对应用进行扩缩容以及应用升级等内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="xccui" creationdate="20190630T033104Z">
+        <seg>第10章指导你如何操纵状态化应用，具体包括创建和恢复应用保存点，对应用进行扩缩容以及应用更新等内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14873,8 +14873,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports such updates by taking a savepoint of a running application, stopping it, and starting a new version of the application from the savepoint.5 However, updat‐ ing an application while preserving its state is only possible for certain application changes—the original application and its new version need to be savepoint compati‐ ble.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T022954Z" creationid="xccui" creationdate="20190705T022928Z">
-        <seg>Flink可以通过为运行的应用生成保存点，停止该应用，重启新版本等三个步骤来实现此类更新。5 然而这种保留状态的应用升级对应用改动也有一些限制——原始应用和新版本应用的检查点必须兼容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035413Z" creationid="xccui" creationdate="20190705T022928Z">
+        <seg>Flink可以通过为运行的应用生成保存点，停止该应用，重启新版本等三个步骤来实现此类更新。5 然而这种保留状态的应用更新对应用改动也有一些限制——原始应用和新版本应用的检查点必须兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19273,8 +19273,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we explain how applications can be evolved while preserving savepoint compatibility.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T023232Z" creationid="xccui" creationdate="20190705T023232Z">
-        <seg>接下来我们将介绍如何在保持检查点兼容的前提下升级应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="xccui" creationdate="20190705T023232Z">
+        <seg>接下来我们将介绍如何在保持检查点兼容的前提下更新应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23450,8 +23450,8 @@
       <tuv lang="EN-US">
         <seg>Other features include support to upgrade application code or migrate a job to a different cluster or a new version of the stream processor without losing the current state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195037Z" creationid="xccui" creationdate="20190605T053913Z">
-        <seg>此外还有一些新的特性，例如：支持应用代码升级，在不丢失当前状态的前提下将作业迁移至一个新的集群或新版本的流处理引擎等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="xccui" creationdate="20190605T053913Z">
+        <seg>此外还有一些新的特性，例如：支持应用代码更新，在不丢失当前状态的前提下将作业迁移至一个新的集群或新版本的流处理引擎等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31146,8 +31146,8 @@
       <tuv lang="EN-US">
         <seg>This application design can cause problems when applications need to evolve or scale.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T200010Z" creationid="esouser" creationdate="20190603T195919Z">
-        <seg>该设计在应用需要升级或扩容时，容易导致问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="esouser" creationdate="20190603T195919Z">
+        <seg>该设计在应用需要更新或扩容时，容易导致问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31420,6 +31420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064346Z" creationid="xccui" creationdate="20190702T064346Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes adding of stateful or stateless operators to the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035711Z" creationid="xccui" creationdate="20190705T035711Z">
+        <seg>这包括向应用中添加状态化或非状态化算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33170,8 +33178,16 @@
       <tuv lang="EN-US">
         <seg>Updating an Application without Modifying Existing State</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T022741Z" creationid="xccui" creationdate="20190225T024908Z">
-        <seg>保持现有状态升级应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="xccui" creationdate="20190225T024908Z">
+        <seg>保持现有状态更新应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating or extending the logic of an application without changing or removing an existing state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035553Z" creationid="xccui" creationdate="20190705T035553Z">
+        <seg>在对已有状态进行更改或删除的前提下更新或扩展应用逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38507,8 +38523,8 @@
       <tuv lang="EN-US">
         <seg>need to update your application because Java serialization does not allow for migrating or configuring a custom serializer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063638Z" creationid="xccui" creationdate="20190701T063504Z">
-        <seg>由于该序列化机制不支持目标迁移或配置自定义序列化器，所以可能会在你需要升级应用时导致问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="xccui" creationdate="20190701T063504Z">
+        <seg>由于该序列化机制不支持目标迁移或配置自定义序列化器，所以可能会在你需要更新应用时导致问题。</seg>
       </tuv>
     </tu>
     <tu>
