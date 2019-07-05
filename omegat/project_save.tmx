@@ -7512,8 +7512,8 @@
       <tuv lang="EN-US">
         <seg>All records that are processed by a Flink event-time streaming application must be accompanied by a timestamp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T035343Z" creationid="xccui" creationdate="20190523T035328Z">
-        <seg>所有利用Flink基于事件时间的流式应用进行处理的记录都必须包含时间戳。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064203Z" creationid="xccui" creationdate="20190523T035328Z">
+        <seg>由Flink事件时间流式应用处理的所有记录都必须包含时间戳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15809,8 +15809,8 @@
       <tuv lang="EN-US">
         <seg>For such advanced applications, a good understanding of Flink’s internal time handling is often helpful and sometimes required.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204542Z" creationid="xccui" creationdate="20190523T034809Z">
-        <seg>在面对这些高级应用时，充分理解Flink内部事件处理机制通常会有所帮助，有时也是必要的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T063954Z" creationid="xccui" creationdate="20190523T034809Z">
+        <seg>在面对这些高级应用时，充分理解Flink内部事件处理机制通常会有所帮助，有时候更是必要的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29906,8 +29906,8 @@
       <tuv lang="EN-US">
         <seg>The previous chapter introduced two concepts Flink leverages to provide event-time semantics: record timestamps and watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204559Z" creationid="xccui" creationdate="20190606T204552Z">
-        <seg>前一章介绍了Flink在提供处理时间语义时所采用的两个概念：记录时间戳和水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064038Z" creationid="xccui" creationdate="20190606T204552Z">
+        <seg>上一章我们介绍了Flink在提供处理时间语义时所采用的两个概念：记录时间戳和水位线。</seg>
       </tuv>
     </tu>
     <tu>
