@@ -30112,6 +30112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The serializer is also used to convert the raw bytes back into JVM objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T051605Z" creationid="xccui" creationdate="20190705T051605Z">
+        <seg>该序列化器还用于将原始字节转换回JVM对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The serializers that convert the state JVM objects into bytes are generated and configured by Flink’s type system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050137Z" creationid="xccui" creationdate="20190705T050113Z">
