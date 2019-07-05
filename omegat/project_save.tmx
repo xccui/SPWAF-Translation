@@ -15559,6 +15559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the queryable state is only accessible while the application is running.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T165020Z" creationid="xccui" creationdate="20190705T165020Z">
+        <seg>举例而言，可查询式状态只有在应用运行过程中才可以访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, to finalize windows when the event-time passes their end boundaries, a time-window task registers a timer for the ending time of each of its active windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T041839Z" creationid="xccui" creationdate="20190529T041558Z">
