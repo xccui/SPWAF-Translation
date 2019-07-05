@@ -17705,8 +17705,8 @@
       <tuv lang="EN-US">
         <seg>Implement Your Applications With Evolution in Mind</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024319Z" creationid="xccui" creationdate="20190705T024319Z">
-        <seg>实现应用时请考虑周全</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024734Z" creationid="xccui" creationdate="20190705T024319Z">
+        <seg>实现应用时须长远考虑</seg>
       </tuv>
     </tu>
     <tu>
@@ -20817,8 +20817,8 @@
       <tuv lang="EN-US">
         <seg>It is important to understand that the initial design of an applica‐ tion determines if and how it can be modified later on in a savepoint-compatible way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024630Z" creationid="xccui" creationdate="20190705T024630Z">
-        <seg>请谨记，应用的初始设计决定了日后它能否，或以何种方式进行兼容保存点的修改。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024907Z" creationid="xccui" creationdate="20190705T024630Z">
+        <seg>请谨记，应用的初始设计决定了它日后能否，或以何种方式进行保存点兼容的修改。</seg>
       </tuv>
     </tu>
     <tu>
