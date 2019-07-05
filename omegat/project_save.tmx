@@ -31552,6 +31552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is also the case if the unique identifier of an operator or the name of a state was changed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043141Z" creationid="xccui" creationdate="20190705T043141Z">
+        <seg>如果算子的唯一标识或状态名称发生了改变，也会出现这种情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is also the reason it is not a good idea to override existing timestamps and watermarks in the middle of a streaming application, although this is possible with user-defined functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T041209Z" creationid="xccui" creationdate="20190607T041148Z">
