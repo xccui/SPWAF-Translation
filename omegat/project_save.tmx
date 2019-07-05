@@ -15143,6 +15143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s type system will automatically generate serializers that can read previous versions of the data type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T053423Z" creationid="xccui" creationdate="20190705T053423Z">
+        <seg>Flink的类型系统将自动生成可以读取之前版本数据类型的序列化器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s watermark-handling and propagation algorithm ensures operator tasks emit properly aligned timestamped records and watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T031249Z" creationid="xccui" creationdate="20190607T031249Z">
@@ -26152,6 +26160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>State evolution and migration is an important topic in the Flink community and receives a lot of attention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T053545Z" creationid="xccui" creationdate="20190705T053545Z">
+        <seg>状态的演变和迁移在Flink社区是一个非常重要的主题，也受到了很多关注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>State is ubiquitous in data processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T050647Z" creationid="xccui" creationdate="20190414T050539Z">
@@ -36005,6 +36021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201525Z" creationid="xccui" creationdate="20190605T124408Z">
         <seg>取消的方式是在Web UI中选定作业，然后点击页面上方的Cancel按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can expect improved support for these scenarios in future versions of Apache Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T053708Z" creationid="xccui" creationdate="20190705T053708Z">
+        <seg>你可以期待将来版本的Apache Flink会对这些场景有更好的支持。</seg>
       </tuv>
     </tu>
     <tu>
