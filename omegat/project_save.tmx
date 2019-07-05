@@ -26712,6 +26712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such an architecture implies that a separate system needs to be set up and maintained, which can be a major effort, especially if this needs to be a distributed system as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T162351Z" creationid="xccui" creationdate="20190705T162351Z">
+        <seg>为了实现该架构，我们需要搭建和维护一套独立的系统。它工作量可能非常大，尤其在系统同样是分布式的情况下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such records are called late records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065826Z" creationid="xccui" creationdate="20190529T035345Z">
