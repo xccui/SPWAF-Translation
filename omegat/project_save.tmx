@@ -21089,8 +21089,8 @@
       <tuv lang="EN-US">
         <seg>It is not possible to request key ranges or even run more complex queries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163422Z" creationid="xccui" creationdate="20190705T163422Z">
-        <seg>而不支持键值范围查询或更复杂的条件查询。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163721Z" creationid="xccui" creationdate="20190705T163422Z">
+        <seg>而无法支持键值范围或更复杂的条件查询。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24347,6 +24347,14 @@
         <seg>Queryable State</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T151202Z" creationid="xccui" creationdate="20190225T024940Z">
+        <seg>可查询式状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Queryable state does not address all use cases that require an external datastore.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163738Z" creationid="xccui" creationdate="20190705T163738Z">
         <seg>可查询式状态</seg>
       </tuv>
     </tu>
