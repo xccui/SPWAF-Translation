@@ -27888,6 +27888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The QueryableStateServer serves the requests of a client proxy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T201531Z" creationid="xccui" creationdate="20190705T201531Z">
+        <seg>QueryableStateServer用于处理客户端代理的请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The REST interface enables the dispatcher to serve as an HTTP entry point to clusters that are behind a firewall.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T053416Z" creationid="xccui" creationdate="20190418T053359Z">
