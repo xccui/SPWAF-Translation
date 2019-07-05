@@ -8863,6 +8863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assigning unique identifiers to operators is mandatory for most application changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T030857Z" creationid="xccui" creationdate="20190705T030857Z">
+        <seg>大多数应用的改动都需要以分配算子唯一标识为前提。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assigning watermarks periodically means that we instruct the system to emit water‐ marks and advance the event time in fixed intervals of machine time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045615Z" creationid="xccui" creationdate="20190620T045615Z">
