@@ -22439,6 +22439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that changing the input data type of built-in stateful opera‐ tors, such as window aggregation, time-based joins, or asyncronous functions, often modifies the type of their internal state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041430Z" creationid="xccui" creationdate="20190705T041430Z">
+        <seg>注意，改变内置状态化算子（例如窗口聚合，基于时间的Join或异步函数）的输入数据类型通常都使它们内部状态的类型发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that guaranteeing the consistency of an application’s state is not the same a guarantee‐ ing consistency of its output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191638Z" creationid="xccui" creationdate="20190606T034216Z">
