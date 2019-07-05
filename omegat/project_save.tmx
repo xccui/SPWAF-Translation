@@ -15807,6 +15807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From a savepoint-compatibility point of view this means an application can be evolved in three ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035308Z" creationid="xccui" creationdate="20190705T035308Z">
+        <seg>从保存点兼容性的角度来看，应用可以通过以下三种方式进行更新：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From there, the late events can be processed or emitted using a regular sink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154751Z" creationid="xingcan" creationdate="20190628T154541Z">
@@ -34659,8 +34667,8 @@
       <tuv lang="EN-US">
         <seg>When an application is started from a savepoint, the operators of the started applica‐ tion are initialized by looking up the corresponding states from the savepoint using operator identifiers and state names.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T034847Z" creationid="xccui" creationdate="20190705T034847Z">
-        <seg>当应用从保存点启动时，它的算子使用算子标识和状态名称</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035026Z" creationid="xccui" creationdate="20190705T034847Z">
+        <seg>当应用从保存点启动时，它的算子会使用算子标识和状态名称从保存点中查找对应的状态进行初始化。</seg>
       </tuv>
     </tu>
     <tu>
