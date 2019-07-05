@@ -17703,6 +17703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Implement Your Applications With Evolution in Mind</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024319Z" creationid="xccui" creationdate="20190705T024319Z">
+        <seg>实现应用时请考虑周全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implementation of a CoProcessFunction that dynamically filters a stream of sensor readings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032022Z" creationid="xccui" creationdate="20190622T032022Z">
