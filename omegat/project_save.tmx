@@ -6752,8 +6752,8 @@
       <tuv lang="EN-US">
         <seg>A stream with timestamped records and watermarks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T015017Z" creationid="xccui" creationdate="20190606T205321Z">
-        <seg>包含带有时间戳的记录和水位线的数据流</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065112Z" creationid="xccui" creationdate="20190606T205321Z">
+        <seg>包含带有时间戳的记录及水位线的数据流</seg>
       </tuv>
     </tu>
     <tu>
@@ -15361,8 +15361,8 @@
       <tuv lang="EN-US">
         <seg>For example, a time-window task finalizes a window computa‐ tion and emits the result when the task event-time passes the window’s end boundary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205223Z" creationid="xccui" creationdate="20190606T205223Z">
-        <seg>例如：基于时间窗口的任务会在其事件时间超过窗口结束边界时确定最终的窗口进行计算并发出结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064952Z" creationid="xccui" creationdate="20190606T205223Z">
+        <seg>例如：基于时间窗口的任务会在其事件时间超过窗口结束边界时进行最终的窗口计算并发出结果。</seg>
       </tuv>
     </tu>
     <tu>
