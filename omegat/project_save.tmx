@@ -8681,8 +8681,8 @@
       <tuv lang="EN-US">
         <seg>As seen in “Time Semantics”, a certain degree of timestamp out-of- orderness is given in basically all real-world use cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204914Z" creationid="xccui" creationdate="20190606T204903Z">
-        <seg>正如"时间语义"一节所述，基本上所有现实世界的应用场景都会出现一定程度的时间戳乱序。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064354Z" creationid="xccui" creationdate="20190606T204903Z">
+        <seg>正如"时间语义"一节所述，基本上所有现实应用场景都会出现一定程度的时间戳乱序。</seg>
       </tuv>
     </tu>
     <tu>
