@@ -15423,6 +15423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if you have a ValueState[String], Flink’s type system generates a StringSerializer to convert String objects into bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050341Z" creationid="xccui" creationdate="20190705T050213Z">
+        <seg>举例而言，如果你有一个ValueState[String]，Flink的类型系统会生成一个StringSerializer来将String对象转换成字节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, information for a product that is offered in a webshop can be stored in a transactional database, a web cache, and a search index.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T070514Z" creationid="xccui" creationdate="20190314T065839Z">
@@ -30106,8 +30114,8 @@
       <tuv lang="EN-US">
         <seg>The serializers that convert the state JVM objects into bytes are generated and configured by Flink’s type system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050113Z" creationid="xccui" creationdate="20190705T050113Z">
-        <seg>用于转化JVM中状态对象的序列化器是由Flink的类型系统生成和配置的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050137Z" creationid="xccui" creationdate="20190705T050113Z">
+        <seg>用于转换JVM中状态对象的序列化器是由Flink的类型系统生成和配置的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31500,6 +31508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T043911Z" creationid="xccui" creationdate="20190609T040709Z">
         <seg>如果所有算子都将它们全部的状态写入检查点并从中恢复，并且所有输入流的消费位置都能重置到检查点生成那一刻，那么该检查点和恢复机制就能为整个应用的状态提供精确一次的一致性保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This conversion is based on the data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050222Z" creationid="xccui" creationdate="20190705T050131Z">
+        <seg>其装换过程基于状态的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40732,6 +40748,14 @@
         <seg>type of the input stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061554Z" creationid="xccui" creationdate="20190614T061554Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type of the state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050155Z" creationid="xccui" creationdate="20190705T050155Z">
         <seg></seg>
       </tuv>
     </tu>
