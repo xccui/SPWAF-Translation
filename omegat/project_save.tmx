@@ -16295,6 +16295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, it is not difficult to update an application by removing stateful operators or state from an existing operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043616Z" creationid="xccui" creationdate="20190705T043616Z">
+        <seg>因此，通过删除状态化算子或其中的状态来更新应用其实并不困难。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, it should be ignored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061338Z" creationid="xccui" creationdate="20190618T061338Z">
@@ -16777,8 +16785,8 @@
       <tuv lang="EN-US">
         <seg>However, it is possible to disable this safety check as described in “Running and Managing Streaming Appli‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043509Z" creationid="xccui" creationdate="20190705T043509Z">
-        <seg>但你可以禁用这一安全检查。相关内容会在第245页"运行和管理流式应用"中介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043530Z" creationid="xccui" creationdate="20190705T043509Z">
+        <seg>但你可以禁用这一安全检查（相关内容会在第245页"运行和管理流式应用"中介绍）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36732,6 +36740,14 @@
         <seg>cations run continuously and the input is potentially unbounded, there is no notion of total execution time in data stream processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T150815Z" creationid="xccui" creationdate="20190401T150815Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cations” on page 245.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043512Z" creationid="xccui" creationdate="20190705T043512Z">
         <seg></seg>
       </tuv>
     </tu>
