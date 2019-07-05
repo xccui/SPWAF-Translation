@@ -20001,8 +20001,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss how operators process watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T040632Z" creationid="xccui" creationdate="20190529T040632Z">
-        <seg>在本节中，我们讨论算子如何处理水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070333Z" creationid="xccui" creationdate="20190529T040632Z">
+        <seg>本节我们主要讨论算子对水位线的处理方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20689,8 +20689,8 @@
       <tuv lang="EN-US">
         <seg>Inversely, very conservative water‐ marks increase processing latency but improve result completeness.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T210205Z" creationid="xccui" creationdate="20190606T210205Z">
-        <seg>相反，非常宽松的水位线会增加处理延迟，但同时结果的完整性也会有所提升。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070220Z" creationid="xccui" creationdate="20190606T210205Z">
+        <seg>相反，虽然很"保守"的水位线会增加处理延迟，但同时结果的完整性也会有所提升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33834,8 +33834,8 @@
       <tuv lang="EN-US">
         <seg>Watermarks that are very tight—close to the record timestamps—result in low processing latency because a task will only briefly wait for more records to arrive before finalizing a computation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070015Z" creationid="xccui" creationdate="20190606T205826Z">
-        <seg>如果水位线很紧（靠近记录时间戳），结果的处理延迟就会很低，因为任务无须等待过多记录就可以触发最终计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070137Z" creationid="xccui" creationdate="20190606T205826Z">
+        <seg>如果水位线很"激进"（靠近记录时间戳），结果的处理延迟就会很低，因为任务无须等待过多记录就可以触发最终计算。</seg>
       </tuv>
     </tu>
     <tu>
