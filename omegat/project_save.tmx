@@ -13977,8 +13977,8 @@
       <tuv lang="EN-US">
         <seg>Finally, Chapter 11 contains resources you can use to ask questions, attend Flink- related events, and learn how Flink is currently being used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162637Z" creationid="esouser" creationdate="20190603T162637Z">
-        <seg>最后在第11章，我们提供了一些资源，以方便你提问、参与Flink相关活动和了解Flink的现实应用场景。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044127Z" creationid="esouser" creationdate="20190603T162637Z">
+        <seg>最后在第11章，我们提供了一些资源，以方便你提问、参与Flink相关活动及了解Flink的现实应用场景。</seg>
       </tuv>
     </tu>
     <tu>
