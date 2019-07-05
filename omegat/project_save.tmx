@@ -9863,6 +9863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 10 explains how to take savepoints of running applications and how to start a new application from an existing savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T031041Z" creationid="xccui" creationdate="20190705T031041Z">
+        <seg>第10章介绍了如何为运行中的应用创建保存点以及如何从现有的保存点启动一个新的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 10 gives guidance on how to operate stateful applications—taking and restoring from application savepoints, rescaling applications, and performing application upgrades.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033447Z" creationid="xccui" creationdate="20190630T033104Z">
@@ -34645,6 +34653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T022753Z" creationid="xccui" creationdate="20190703T022449Z">
         <seg>当应用从保存点启动时，会利用这些标识将保存点中的状态映射到目标应用对应的算子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an application is started from a savepoint, the operators of the started applica‐ tion are initialized by looking up the corresponding states from the savepoint using operator identifiers and state names.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T034847Z" creationid="xccui" creationdate="20190705T034847Z">
+        <seg>当应用从保存点启动时，它的算子使用算子标识和状态名称</seg>
       </tuv>
     </tu>
     <tu>
