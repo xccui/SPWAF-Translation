@@ -15561,8 +15561,8 @@
       <tuv lang="EN-US">
         <seg>For example, the queryable state is only accessible while the application is running.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T165020Z" creationid="xccui" creationdate="20190705T165020Z">
-        <seg>举例而言，可查询式状态只有在应用运行过程中才可以访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T165036Z" creationid="xccui" creationdate="20190705T165020Z">
+        <seg>例如，可查询式状态只有在应用运行过程中才可以访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21067,6 +21067,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024907Z" creationid="xccui" creationdate="20190705T024630Z">
         <seg>请谨记，应用的初始设计决定了它日后能否，或以何种方式进行保存点兼容的修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not accessible while the application is restarted due to an error, for rescaling the application, or to migrate it to another cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T170238Z" creationid="xccui" creationdate="20190705T170238Z">
+        <seg>如果应用正在因为错误而重启、正在进行扩缩容或正在迁移至其他集群，那么可查询式状态将无法访问。</seg>
       </tuv>
     </tu>
     <tu>
