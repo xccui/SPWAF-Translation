@@ -7896,8 +7896,8 @@
       <tuv lang="EN-US">
         <seg>An interesting property of watermarks is that they allow an application to control result completeness and latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T035910Z" creationid="xccui" creationdate="20190529T035835Z">
-        <seg>水位线的一个有趣之处在于，它们允许应用控制结果的完整性和延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065918Z" creationid="xccui" creationdate="20190529T035835Z">
+        <seg>水位线的一个有趣之处在于，它允许应用控制结果的完整性和延迟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8937,8 +8937,8 @@
       <tuv lang="EN-US">
         <seg>At the same time, the result completeness might suffer because relevant records might not be included in the result and would be considered as late records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T040404Z" creationid="xccui" creationdate="20190529T040337Z">
-        <seg>但同时结果的完整性可能受到影响，因为会有部分相关记录被视为迟到记录，没能参与运算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070054Z" creationid="xccui" creationdate="20190529T040337Z">
+        <seg>但同时结果的完整性可能会受影响，因为可能有部分相关记录被视为迟到记录，没能参与运算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26698,8 +26698,8 @@
       <tuv lang="EN-US">
         <seg>Such records are called late records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T035418Z" creationid="xccui" creationdate="20190529T035345Z">
-        <seg>我们称此类记录为迟到记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065826Z" creationid="xccui" creationdate="20190529T035345Z">
+        <seg>我们称此类记录为迟到记录（late record）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33834,8 +33834,8 @@
       <tuv lang="EN-US">
         <seg>Watermarks that are very tight—close to the record timestamps—result in low processing latency because a task will only briefly wait for more records to arrive before finalizing a computation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T210129Z" creationid="xccui" creationdate="20190606T205826Z">
-        <seg>如果水位线很紧（靠近记录时间戳），得到结果的处理延迟就会很低，因为任务无须等待多少记录到来就可以触发最终计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070015Z" creationid="xccui" creationdate="20190606T205826Z">
+        <seg>如果水位线很紧（靠近记录时间戳），结果的处理延迟就会很低，因为任务无须等待过多记录就可以触发最终计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34915,8 +34915,8 @@
       <tuv lang="EN-US">
         <seg>When a task receives a record that violates the watermark property and has smaller time‐ stamps than a previously received watermark, it may be that the computation it belongs to has already been completed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205709Z" creationid="xccui" creationdate="20190606T205651Z">
-        <seg>当任务接收到一个违反水位线属性，时间戳小于前一个水位线的记录时，该记录本应参与的计算可能已经完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065816Z" creationid="xccui" creationdate="20190606T205651Z">
+        <seg>当任务收到一个违反水位线属性，即时间戳小于前一个水位线的记录时，该记录本应参与的计算可能已经完成。</seg>
       </tuv>
     </tu>
     <tu>
