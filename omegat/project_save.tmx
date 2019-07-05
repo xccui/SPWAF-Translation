@@ -21815,6 +21815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many stream processing applications need to share their results with other applica‐ tions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T141808Z" creationid="xccui" creationdate="20190705T141808Z">
+        <seg>很多处理应用需要将它们的结果与其他应用分享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Map</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T044721Z" creationid="xccui" creationdate="20190613T044721Z">
