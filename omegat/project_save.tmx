@@ -31442,8 +31442,8 @@
       <tuv lang="EN-US">
         <seg>This behavior can cause problems if the event times of the individual input streams of an application are not aligned.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T031114Z" creationid="xccui" creationdate="20190607T031013Z">
-        <seg>如果应用不同输入流的事件时间没有对齐，那么该行为会导致问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072035Z" creationid="xccui" creationdate="20190607T031013Z">
+        <seg>如果应用不同输入流的事件时间没有对齐，那么该行为就会导致问题。</seg>
       </tuv>
     </tu>
     <tu>
