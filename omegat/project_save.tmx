@@ -37803,8 +37803,8 @@
       <tuv lang="EN-US">
         <seg>if you need to ensure a function’s operator state can be evolved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063804Z" creationid="xccui" creationdate="20190701T063328Z">
-        <seg>如果想确保函数的算子状态日后可以升级，请使用CheckpointedFunction接口替代ListCheckpointed。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035314Z" creationid="xccui" creationdate="20190701T063328Z">
+        <seg>如果想确保函数的算子状态日后支持更新，请使用CheckpointedFunction接口替代ListCheckpointed。</seg>
       </tuv>
     </tu>
     <tu>
