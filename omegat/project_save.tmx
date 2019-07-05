@@ -9865,8 +9865,8 @@
       <tuv lang="EN-US">
         <seg>Changing the data type of a state is possible in a few specific cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044610Z" creationid="xccui" creationdate="20190705T044439Z">
-        <seg>在几个特定场景下你，可以改变状态的数据类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052753Z" creationid="xccui" creationdate="20190705T044439Z">
+        <seg>在某些特定情况下，你可以改变状态的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18075,6 +18075,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T031758Z" creationid="xccui" creationdate="20190609T031739Z">
         <seg>在图3-17中，Flink会在输入偏移到达5的时候生成一个检查点，此时两个和值分别为6和9。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Flink 1.7, changing the data type of a state is supported if the data type was defined as an Apache Avro type and if the new data type is also an Avro type that was evolved from the original type according to Avro’s schema evolution rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T053352Z" creationid="xccui" creationdate="20190705T053352Z">
+        <seg>在Flink 1.7版本，如果数据类型为Apache Avro类型，并且新的数据类型也是一个遵循Avro的模式演变规则从原类型演变而来的Avro类型，那么该情况就会支持状态数据类型改变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38181,6 +38189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204807Z" creationid="xccui" creationdate="20190606T204807Z">
         <seg>时间戳将记录和特定时间点进行关联，这些时间点通常是记录所表示事件的发生时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in very specific cases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052759Z" creationid="xccui" creationdate="20190705T052759Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
