@@ -16769,8 +16769,8 @@
       <tuv lang="EN-US">
         <seg>However, custom operators can have their own interpretation and may, for example, adjust the preci‐ sion to microseconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205054Z" creationid="xccui" creationdate="20190606T205029Z">
-        <seg>但自定义算子可以有自己的解析机制，例如：将精度调整为微秒。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064814Z" creationid="xccui" creationdate="20190606T205029Z">
+        <seg>但自定义算子可以有自己的时间戳解析机制，如将精度调整为微秒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33754,8 +33754,8 @@
       <tuv lang="EN-US">
         <seg>Watermarks are used to derive the current event time at each task in an event-time application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205105Z" creationid="xccui" creationdate="20190606T205105Z">
-        <seg>水位线用于推断事件时间应用中每个任务当前的事件时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064847Z" creationid="xccui" creationdate="20190606T205105Z">
+        <seg>水位线用于在事件时间应用中推断每个任务当前的事件时间。</seg>
       </tuv>
     </tu>
     <tu>
