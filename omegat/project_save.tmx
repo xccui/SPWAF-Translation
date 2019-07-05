@@ -30506,8 +30506,8 @@
       <tuv lang="EN-US">
         <seg>The tasks of operators with two or more input streams such as Union or CoFlatMap (see “Multistream Transformations”) also compute their event-time clock as the mini‐ mum of all partition watermarks—they do not distinguish between partition water‐ marks of different input streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072000Z" creationid="xccui" creationdate="20190607T025821Z">
-        <seg>对于那些有着两条或多条输入数据流的算子，如Union或CoFlatMap（详见"多流转换"一节），它们的任务同样是利用全部分区水位线中的最小值来计算事件时间时钟，没有考虑分区是否来自不同的流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072009Z" creationid="xccui" creationdate="20190607T025821Z">
+        <seg>对于那些有着两条或多条输入数据流的算子，如Union或CoFlatMap（详见"多流转换"一节），它们的任务同样是利用全部分区水位线中的最小值来计算事件时间时钟，没有考虑分区是否来自不同的输入流。</seg>
       </tuv>
     </tu>
     <tu>
