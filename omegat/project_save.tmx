@@ -40185,6 +40185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>state backend stores the data serialized (like the RocksDBStateBackend) or as objects on the heap (like the FSStateBackend), this happens when the state is read by a func‐ tion or when an application is restarted from a savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052002Z" creationid="xccui" creationdate="20190705T052002Z">
+        <seg>根据状态后端是将数据序列化后存储（如RocksDBStateBackend）还是以堆中对象的形式存储（如FSStateBackend），反序列化过程可能发生在函数读取状态时或应用从保存点重启时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T034403Z" creationid="xccui" creationdate="20190630T034400Z">
