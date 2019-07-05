@@ -9591,6 +9591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, Flink will not start applications that do not restore all states that are con‐ tained in a savepoint to avoid losing the state in the savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043338Z" creationid="xccui" creationdate="20190705T043338Z">
+        <seg>为了避免保存点中的状态丢失，Flink在默认情况下不会启动那些无法将保存点中的状态全部恢复的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064253Z" creationid="xccui" creationdate="20190621T064253Z">
@@ -16763,6 +16771,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022926Z" creationid="xccui" creationdate="20190704T022926Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it is possible to disable this safety check as described in “Running and Managing Streaming Appli‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043509Z" creationid="xccui" creationdate="20190705T043509Z">
+        <seg>但你可以禁用这一安全检查。相关内容会在第245页"运行和管理流式应用"中介绍。</seg>
       </tuv>
     </tu>
     <tu>
