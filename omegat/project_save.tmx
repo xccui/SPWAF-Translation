@@ -8262,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink features queryable state to address use cases that usually would require an external datastore to share data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T162535Z" creationid="xccui" creationdate="20190705T162535Z">
+        <seg>为了解决通常意义上需要外部数据存储才能分享数据的问题，Apache Flink提供了可查询式状态（queryable state）功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink is a distributed stream processor of the third generation with a compet&lt;t0/&gt;‐&lt;t1/&gt; itive feature set.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T041127Z" creationid="xccui" creationdate="20190328T002907Z">
