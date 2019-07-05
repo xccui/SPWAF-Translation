@@ -20199,6 +20199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of adding new states to an application, you might also want to adjust an appli‐ cation by removing state—either by removing a complete stateful operator or just a state from a function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T042812Z" creationid="xccui" creationdate="20190705T042812Z">
+        <seg>除了向应用中添加状态，你可能还想在修改应用的同时从中删除一些状态。这些删除操作所针对的可以是一个完整的状态化算子，也可以是函数中的某个状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of dropping or redirecting late events, another strategy is to recompute an incomplete result and emit an update.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160522Z" creationid="xingcan" creationdate="20190628T160522Z">
