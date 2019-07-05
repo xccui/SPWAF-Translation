@@ -15561,8 +15561,8 @@
       <tuv lang="EN-US">
         <seg>For example, the queryable state is only accessible while the application is running.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T165036Z" creationid="xccui" creationdate="20190705T165020Z">
-        <seg>例如，可查询式状态只有在应用运行过程中才可以访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T170819Z" creationid="xccui" creationdate="20190705T165020Z">
+        <seg>例如，它只有在应用运行过程中才可以访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19483,6 +19483,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063511Z" creationid="xccui" creationdate="20190614T063511Z">
         <seg>接下来我们就开始讨论那些能同时处理多条输入流或产生多条结果流的DataStream API转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following, we discuss the architecture of Flink’s queryable state service and explain how streaming applications can expose queryable state and external applica‐ tions can query it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T195133Z" creationid="xccui" creationdate="20190705T195133Z">
+        <seg>接下来我们将讨论Flink可查询式状态服务的架构，并解释流式应用如何对外提供可查询式状态和外部应用怎么才能查询到它。</seg>
       </tuv>
     </tu>
     <tu>
