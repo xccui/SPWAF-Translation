@@ -16911,6 +16911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it makes many applications much easier to realize, such as real-time dashboards or other monitoring applica‐ tions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T170437Z" creationid="xccui" creationdate="20190705T170437Z">
+        <seg>反过来说，可查询式状态的确让很多应用变得容易实现，例如实时仪表盘或其他监控应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it relies on the fact that all partitions continuously provide increasing watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072135Z" creationid="xccui" creationdate="20190607T031937Z">
