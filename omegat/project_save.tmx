@@ -14857,8 +14857,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports such updates by taking a savepoint of a running application, stopping it, and starting a new version of the application from the savepoint.5 However, updat‐ ing an application while preserving its state is only possible for certain application changes—the original application and its new version need to be savepoint compati‐ ble.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T022928Z" creationid="xccui" creationdate="20190705T022928Z">
-        <seg>Flink可以通过为运行的应用生成保存点，停止该应用，重启新版本等三个步骤来实现此类更新。5 然而这种保留状态的应用升级对应用改动也有一些限制，即原始应用和新版本应用的检查点必须兼容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T022954Z" creationid="xccui" creationdate="20190705T022928Z">
+        <seg>Flink可以通过为运行的应用生成保存点，停止该应用，重启新版本等三个步骤来实现此类更新。5 然而这种保留状态的应用升级对应用改动也有一些限制——原始应用和新版本应用的检查点必须兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19239,6 +19239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we explain how applications can be evolved while preserving savepoint compatibility.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T023232Z" creationid="xccui" creationdate="20190705T023232Z">
+        <seg>接下来我们将介绍如何在保持检查点兼容的前提下升级应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we explain how this algorithm works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060033Z" creationid="xccui" creationdate="20190609T060033Z">
@@ -19971,6 +19979,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064512Z" creationid="xccui" creationdate="20190615T064512Z">
         <seg>在119页"发送至副输出"一节，我们会介绍针对处理函数的副输出功能，它可以从函数中发出多条类型不同的数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In “Savepoints”, we explained that each state in a savepoint can be addressed by a composite identifier consisting of a unique operator identifier and the state name declared by the state descriptor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T023759Z" creationid="xccui" creationdate="20190705T023759Z">
+        <seg>在"保存点"一节，我们说明了保存点中的每个状态都可以利用一个复合标识进行定位，该标识包含了一个唯一算子标识和一个由状态描述符声明的状态名称。</seg>
       </tuv>
     </tu>
     <tu>
