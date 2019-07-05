@@ -6558,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A savepoint consists mainly of serialized state data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T045844Z" creationid="xccui" creationdate="20190705T045844Z">
+        <seg>保存点主要由序列化后的状态数据组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second, job-independent image is used to deploy TaskManager containers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143748Z" creationid="xccui" creationdate="20190606T143748Z">
@@ -30092,6 +30100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023627Z" creationid="xccui" creationdate="20190701T023627Z">
         <seg>状态的序列化格式是在更新应用时需要重点考虑的一个方面，我们将在本章稍后对此进行讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The serializers that convert the state JVM objects into bytes are generated and configured by Flink’s type system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050113Z" creationid="xccui" creationdate="20190705T050113Z">
+        <seg>用于转化JVM中状态对象的序列化器是由Flink的类型系统生成和配置的。</seg>
       </tuv>
     </tu>
     <tu>
