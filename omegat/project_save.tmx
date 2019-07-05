@@ -9857,8 +9857,8 @@
       <tuv lang="EN-US">
         <seg>Changing the data type of a state is possible in a few specific cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044439Z" creationid="xccui" creationdate="20190705T044439Z">
-        <seg>只有在几个特定场景下，你才可以改变状态的数据类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044610Z" creationid="xccui" creationdate="20190705T044439Z">
+        <seg>在几个特定场景下你，可以改变状态的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16619,6 +16619,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062808Z" creationid="xccui" creationdate="20190424T062808Z">
         <seg>然而，任务过于集中也会使TaskManager负载变高，继而导致性能下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, Flink currently does not support changing the primitive (or structure) of a state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044641Z" creationid="xccui" creationdate="20190705T044641Z">
+        <seg>但是目前Flink还不支持改变状态的原语（或结构）。</seg>
       </tuv>
     </tu>
     <tu>
