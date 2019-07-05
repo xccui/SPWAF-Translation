@@ -21087,6 +21087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not possible to request key ranges or even run more complex queries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163422Z" creationid="xccui" creationdate="20190705T163422Z">
+        <seg>而不支持键值范围查询或更复杂的条件查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not possible to start an application from a previously taken savepoint if the identi‐ fiers or the maximum parallelism of operators were changed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015224Z" creationid="xccui" creationdate="20190703T014722Z">
@@ -22667,6 +22675,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195502Z" creationid="xccui" creationdate="20190626T195502Z">
         <seg>注意，可合并的触发器只能使用那些可以自动合并的状态原语——ListState，ReduceState或AggregatingState。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that only key point queries are supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163446Z" creationid="xccui" creationdate="20190705T163249Z">
+        <seg>注意，Flink仅支持按照单个键值进行查询，</seg>
       </tuv>
     </tu>
     <tu>
