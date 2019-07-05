@@ -21817,8 +21817,8 @@
       <tuv lang="EN-US">
         <seg>Modifying the State of an Operator</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024933Z" creationid="xccui" creationdate="20190225T024924Z">
-        <seg>改变算子的状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043955Z" creationid="xccui" creationdate="20190225T024924Z">
+        <seg>修改算子的状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -30818,8 +30818,8 @@
       <tuv lang="EN-US">
         <seg>There are two ways state can be modified:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043919Z" creationid="xccui" creationdate="20190705T043919Z">
-        <seg>我们有两种办法可以对状态进行</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043947Z" creationid="xccui" creationdate="20190705T043919Z">
+        <seg>我们有两种办法可以对状态进行修改：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35267,8 +35267,8 @@
       <tuv lang="EN-US">
         <seg>While adding or removing state from an application is rather easy and does not affect savepoint compatibility, modifying the state of an existing operator is more involved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043936Z" creationid="xccui" creationdate="20190705T043840Z">
-        <seg>虽然从应用中增删状态非常容易，也不会影响保存点兼容性，但一旦涉及改变已有算子的状态，问题就会变得十分复杂。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043952Z" creationid="xccui" creationdate="20190705T043840Z">
+        <seg>虽然从应用中增删状态非常容易，也不会影响保存点兼容性，但一旦涉及修改已有算子的状态，问题就会变得十分复杂。</seg>
       </tuv>
     </tu>
     <tu>
