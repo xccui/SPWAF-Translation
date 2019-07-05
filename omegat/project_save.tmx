@@ -11383,6 +11383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on whether the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052005Z" creationid="xccui" creationdate="20190705T052005Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on whether the other stream is keyed or not, a KeyedBroadcastProcessFunction or BroadcastPro cessFunction can be applied.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041206Z" creationid="xccui" creationdate="20190702T041041Z">
@@ -25436,6 +25444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033634Z" creationid="xccui" creationdate="20190418T033634Z">
         <seg>由于Flink本身是用Java和Scala实现的，因此所有组件都运行在Java虚拟机（JVM）之上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since Flink’s type system generates serializers depending on the data type of a state, the serializers are likely to change when the data type of a state changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052151Z" creationid="xccui" creationdate="20190705T052151Z">
+        <seg>由于Flink的类型系统需要根据状态的数据类型生成序列化器，所以当状态的数据类型发生改变时，序列化器也可能随之改变。</seg>
       </tuv>
     </tu>
     <tu>
