@@ -15585,8 +15585,8 @@
       <tuv lang="EN-US">
         <seg>For instance, a time-window operator task attaches the end time of a window as the timestamp to all records emitted by the window computation before it emits the watermark with the timestamp that triggered the computation of the window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T013912Z" creationid="xccui" creationdate="20190607T013520Z">
-        <seg>例如：时间窗口算子任务会在发送触发窗口计算的水位线时间戳之前，为所有经过窗口计算并发出的结果附加窗口的结束时间作为它们的时间戳。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071238Z" creationid="xccui" creationdate="20190607T013520Z">
+        <seg>举例而言，时间窗口算子任务会在发送触发窗口计算的水位线时间戳之前，为所有经过窗口计算并发出的结果附加窗口的结束时间作为它们的时间戳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16009,8 +16009,8 @@
       <tuv lang="EN-US">
         <seg>Functions cannot read or modify record time‐ stamps and watermarks, except for the process functions, which  can read the timestamp of a currently processed record, request the current event time of the operator, and register timers.3 None of the functions exposes an API to set the timestamps of emitted records, manipulate the event-time clock of a task, or emit watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070916Z" creationid="xccui" creationdate="20190607T012544Z">
-        <seg>普通函数无法读写记录的时间戳或水位线。但一系列处理函数（process function）除外，它们可以读取当前正在处理记录的时间戳，请求获得当前算子的事件时间以及注册计时器。3所有函数都无法通过API来设置发出记录的时间戳，调整任务的事件时间时钟或发出水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071111Z" creationid="xccui" creationdate="20190607T012544Z">
+        <seg>普通函数无法读写记录的时间戳或水位线，但一系列处理函数（process function）除外。它们可以读取当前正在处理记录的时间戳，通过请求获取当前算子的事件时间，还能注册计时器。3所有函数都无法通过API来设置发出记录的时间戳、调整任务的事件时间时钟或发出水位线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20569,8 +20569,8 @@
       <tuv lang="EN-US">
         <seg>Instead, time-based DataStream operator tasks configure the time‐ stamps of emitted records to ensure they are properly aligned with the emitted watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T013338Z" creationid="xccui" creationdate="20190607T013124Z">
-        <seg>为发出记录设置时间的工作是由基于时间的DataStream算子任务来完成，这样才能确保时间戳和发出的水位线对齐。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071221Z" creationid="xccui" creationdate="20190607T013124Z">
+        <seg>为发出记录配置时间戳的工作需要由基于时间的DataStream算子任务来完成，这样才能确保时间戳和发出的水位线对齐。</seg>
       </tuv>
     </tu>
     <tu>
