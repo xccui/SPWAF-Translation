@@ -30466,8 +30466,8 @@
       <tuv lang="EN-US">
         <seg>The task emits a watermark with the updated event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T012501Z" creationid="xccui" creationdate="20190606T213002Z">
-        <seg>任务根据更新后的事件时间发出水位线记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070807Z" creationid="xccui" creationdate="20190606T213002Z">
+        <seg>任务根据更新后的事件时间将水位线发出。</seg>
       </tuv>
     </tu>
     <tu>
