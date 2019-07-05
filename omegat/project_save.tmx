@@ -18119,6 +18119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Flink, any keyed state can be exposed to exter‐ nal applications as queryable state and act as a read-only key-value store.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T162701Z" creationid="xccui" creationdate="20190705T162701Z">
+        <seg>在Flink中，任何键值分区状态都可以作为可查询式状态暴露给外部应用，就像一个只读的键值存储一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Flink, keys are not predefined in the input types like in systems that work with key-value pairs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T063113Z" creationid="xccui" creationdate="20190617T062643Z">
@@ -30428,6 +30436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T211645Z" creationid="xccui" creationdate="20190704T211645Z">
         <seg>上述KeyedProcessFunction实现的状态清除策略的工作机制如下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stateful streaming application processes events as usual and stores and updates its intermedi‐ ate or final results in a queryable state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163104Z" creationid="xccui" creationdate="20190705T163104Z">
+        <seg>状态化流式应用可以按照正常流程处理事件，并在可查询状态中对其中间或最终结果进行存储和更新。</seg>
       </tuv>
     </tu>
     <tu>
