@@ -35001,6 +35001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the new version of the application is started from a save‐ point of the previous version, the savepoint contains state that cannot be mapped to the restarted application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043048Z" creationid="xccui" creationdate="20190705T043048Z">
+        <seg>当新版本的应用从一个旧版本的保存点启动时，保存点中的部分状态将无法映射到重启的应用中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the processing method of a function with keyed input is called, Flink’s runtime auto‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064956Z" creationid="xccui" creationdate="20190630T062841Z">
