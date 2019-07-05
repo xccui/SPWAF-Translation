@@ -11423,6 +11423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite all these efforts, we recommend always dou‐ ble checking if an application can be evolved as planned before putting it into pro‐ duction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T054216Z" creationid="xccui" creationdate="20190705T054216Z">
+        <seg>尽管如此，我们还是建议你在把应用投入到生产环境之前，再三确认应用是否可以按计划更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detailed and customizable collection of system and application metrics help to identify and react to problems ahead of time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T052524Z" creationid="xccui" creationdate="20190328T052451Z">
