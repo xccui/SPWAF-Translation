@@ -15135,6 +15135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s queryable state service consists of three processes:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T195155Z" creationid="xccui" creationdate="20190705T195155Z">
+        <seg>Flink的可查询式状态服务包含三个进程：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s recovery algorithm is based on state checkpoints.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T205400Z" creationid="xccui" creationdate="20190609T205357Z">
@@ -27860,6 +27868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211521Z" creationid="xccui" creationdate="20190623T211454Z">
         <seg>ProcessWindowFunction就是一个全量窗口函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The QueryableStateClient is used by an external application to submit queries and retrieve results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T200711Z" creationid="xccui" creationdate="20190705T200711Z">
+        <seg>QueryableStateClient用于外部系统提交查询及获取结果。</seg>
       </tuv>
     </tu>
     <tu>
