@@ -10313,8 +10313,8 @@
       <tuv lang="EN-US">
         <seg>Consequently, a running application needs to be replaced by an updated version usually without losing the state of the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T214350Z" creationid="xccui" creationdate="20190704T214350Z">
-        <seg>这往往要求我们在不丢失应用状态的情况下对当前运行的应用进行版本更新。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T021139Z" creationid="xccui" creationdate="20190704T214350Z">
+        <seg>这往往要求我们在不丢失状态的前提下对当前运行的应用进行版本更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14851,6 +14851,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T045914Z" creationid="xccui" creationdate="20190617T045914Z">
         <seg>Flink支持多种特殊用途的类型，例如：原始或对象类型的数组，Java的ArrayList、HashMap及Enum，Hadoop的Writable类型等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink supports such updates by taking a savepoint of a running application, stopping it, and starting a new version of the application from the savepoint.5 However, updat‐ ing an application while preserving its state is only possible for certain application changes—the original application and its new version need to be savepoint compati‐ ble.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T022928Z" creationid="xccui" creationdate="20190705T022928Z">
+        <seg>Flink可以通过为运行的应用生成保存点，停止该应用，重启新版本等三个步骤来实现此类更新。5 然而这种保留状态的应用升级对应用改动也有一些限制，即原始应用和新版本应用的检查点必须兼容。</seg>
       </tuv>
     </tu>
     <tu>
