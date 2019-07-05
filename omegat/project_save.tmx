@@ -30840,6 +30840,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, such changes are not safepoint compatible even though they look unobtrusive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041619Z" creationid="xccui" creationdate="20190705T041619Z">
+        <seg>因此，这些看上去不惹眼的改动其实并非保存点兼容的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the operator emits a result that is incomplete or inaccurate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T160353Z" creationid="xingcan" creationdate="20190628T160353Z">
