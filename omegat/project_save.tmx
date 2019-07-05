@@ -16311,6 +16311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, changing the data type of a state is only supported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052710Z" creationid="xccui" creationdate="20190705T052646Z">
+        <seg>所以说，修改状态的数据类型仅限于某些特定情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, credit-based flow control is an important building block for Flink to achieve high throughput and low latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195939Z" creationid="esouser" creationdate="20190514T151545Z">
