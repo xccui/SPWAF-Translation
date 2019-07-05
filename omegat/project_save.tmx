@@ -14601,8 +14601,8 @@
       <tuv lang="EN-US">
         <seg>Flink implements watermarks as special records that are received and emitted by operator tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T040759Z" creationid="xccui" creationdate="20190529T040724Z">
-        <seg>Flink内部将水位线实现为特殊的记录，可以通过算子任务进行接收和发送。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070353Z" creationid="xccui" creationdate="20190529T040724Z">
+        <seg>Flink内部将水位线实现为特殊的记录，它们可以通过算子任务进行接收和发送。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26922,8 +26922,8 @@
       <tuv lang="EN-US">
         <seg>Tasks can register timers at the timer service to perform a computa‐ tion at a specific point in time in the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T210249Z">
-        <seg>这些计时器可由任务在时间服务内注册，并在将来的某个时间点执行计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070559Z" creationid="xccui" creationdate="20190606T210249Z">
+        <seg>这些计时器是由任务在时间服务内注册，并在将来的某个时间点执行计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26954,8 +26954,8 @@
       <tuv lang="EN-US">
         <seg>Tasks have an internal time service that maintains timers and is activated when a water‐ mark is received.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T210238Z">
-        <seg>任务的内部时间服务（time service）会维护计时器（timer），并在接收到水位线时激活。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070439Z" creationid="xccui" creationdate="20190606T210238Z">
+        <seg>任务内部的时间服务（time service）会维护一些计时器（timer），并在接收到水位线时将其激活。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34931,8 +34931,8 @@
       <tuv lang="EN-US">
         <seg>When a task receives a watermark, the following actions take place:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T212916Z" creationid="xccui" creationdate="20190606T212913Z">
-        <seg>当任务接收到一条水位线记录时会执行以下操作：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070638Z" creationid="xccui" creationdate="20190606T212913Z">
+        <seg>当任务接收到一个水位线时会执行以下操作：</seg>
       </tuv>
     </tu>
     <tu>
