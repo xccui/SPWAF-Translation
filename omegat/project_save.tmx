@@ -9823,6 +9823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing the Input Data Type of Built-in Stateful Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041125Z" creationid="xccui" creationdate="20190705T041125Z">
+        <seg>改变内置状态化算子的输入数据类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 1 gives an overview of stateful stream processing, data processing appli‐ cation architectures, application designs, and the benefits of stream processing over traditional approaches.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061459Z" creationid="esouser" creationdate="20190603T155541Z">
@@ -17571,6 +17579,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050107Z" creationid="xccui" creationdate="20190618T050107Z">
         <seg>如果我们想引用某人的邮政编码，可以使用字段表达式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you add a new stateful operator to the application or a new state to an existing operator, the state will be initialized as empty when the application is started from a savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T040408Z" creationid="xccui" creationdate="20190705T040408Z">
+        <seg>如果你向应用中添加了新的状态化算子或为已有算子增加了状态，那么在应用从保存点启动时，这些状态都会被初始化为空。</seg>
       </tuv>
     </tu>
     <tu>
