@@ -30522,8 +30522,8 @@
       <tuv lang="EN-US">
         <seg>The task’s time service identifies all timers with a time smaller than the updated event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T212936Z">
-        <seg>任务的时间服务会找出所有触发时间小于更新后事件时间的计时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070740Z" creationid="xccui" creationdate="20190606T212936Z">
+        <seg>任务的时间服务会找出所有触发时间小于更新后事件时间的计时器，</seg>
       </tuv>
     </tu>
     <tu>
