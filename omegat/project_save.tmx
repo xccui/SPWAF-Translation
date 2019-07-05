@@ -21559,6 +21559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many changes will not be possible if the original version was not designed with updates in mind.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T025211Z" creationid="xccui" creationdate="20190705T025211Z">
+        <seg>如果原始版本在设计时没有考虑到日后的更新，则很难对其进行较大改动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many operators continuously read and update some kind of state such as records collected in a window, reading positions of an input source, or custom, application-specific operator states like machine learning models.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053106Z" creationid="xccui" creationdate="20190607T052753Z">
