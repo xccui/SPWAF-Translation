@@ -21089,8 +21089,8 @@
       <tuv lang="EN-US">
         <seg>It is not possible to request key ranges or even run more complex queries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163721Z" creationid="xccui" creationdate="20190705T163422Z">
-        <seg>而无法支持键值范围或更复杂的条件查询。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163817Z" creationid="xccui" creationdate="20190705T163422Z">
+        <seg>而不支持键值范围或更复杂的条件查询。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22681,8 +22681,8 @@
       <tuv lang="EN-US">
         <seg>Note that only key point queries are supported.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163446Z" creationid="xccui" creationdate="20190705T163249Z">
-        <seg>注意，Flink仅支持按照单个键值进行查询，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163801Z" creationid="xccui" creationdate="20190705T163249Z">
+        <seg>注意，Flink仅能按照单个键值进行查询，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24354,8 +24354,8 @@
       <tuv lang="EN-US">
         <seg>Queryable state does not address all use cases that require an external datastore.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163738Z" creationid="xccui" creationdate="20190705T163738Z">
-        <seg>可查询式状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T164638Z" creationid="xccui" creationdate="20190705T163738Z">
+        <seg>可查询式状态无法解决全部对外部数据存储有需求的用例。</seg>
       </tuv>
     </tu>
     <tu>
