@@ -5982,6 +5982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A common pattern is to write results into a database or key-value store and have other applications retrieve the result from that datastore.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T141914Z" creationid="xccui" creationdate="20190705T141914Z">
+        <seg>常见的分享模式是把结果写入数据库或键值存储中再由其他应用从这些存储中获取结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A common reason for growing state is keyed state on an evolving key domain.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T140355Z" creationid="xccui" creationdate="20190704T140355Z">
