@@ -40795,8 +40795,8 @@
       <tuv lang="EN-US">
         <seg>tors collect and process records with possibly unordered timestamps and finalize a computation when their event-time clock, which is advanced by the received water‐ marks, indicates that no more records with relevant timestamps are expected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205535Z" creationid="xccui" creationdate="20190606T205535Z">
-        <seg>对基于时间算子的任务而言，其收集和处理的记录可能会包含乱序的时间戳。只有当它们的事件时间时钟（由接收的水位线驱动）指示不必再等那些包含相关时间戳的记录时，才会最终触发计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065735Z" creationid="xccui" creationdate="20190606T205535Z">
+        <seg>对基于时间的算子任务而言，其收集和处理的记录可能会包含乱序的时间戳。它们只有当自己的事件时间时钟（由接收的水位线驱动）指示不必再等那些包含相关时间戳的记录时，才会最终触发计算。</seg>
       </tuv>
     </tu>
     <tu>
