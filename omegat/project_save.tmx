@@ -19167,6 +19167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following sections, we discuss these three cases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035945Z" creationid="xccui" creationdate="20190705T035945Z">
+        <seg>接下来的几节我们就来详细讨论一下这三种情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following we describe how to set these parameters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015318Z" creationid="xccui" creationdate="20190703T013429Z">
@@ -21759,6 +21767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modifying the state of an existing operator by changing the state primitive or data type of the state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035834Z" creationid="xccui" creationdate="20190705T035834Z">
+        <seg>通过改变状态原语或数据类型来修改已有算子的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monitoring Flink Clusters and Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030117Z" creationid="xccui" creationdate="20190225T030117Z">
@@ -24340,6 +24356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024915Z" creationid="xccui" creationdate="20190225T024915Z">
         <seg>从应用中删除状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing a state from the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035722Z" creationid="xccui" creationdate="20190705T035722Z">
+        <seg>从应用中移除某个状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31426,8 +31450,8 @@
       <tuv lang="EN-US">
         <seg>This includes adding of stateful or stateless operators to the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035711Z" creationid="xccui" creationdate="20190705T035711Z">
-        <seg>这包括向应用中添加状态化或非状态化算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035850Z" creationid="xccui" creationdate="20190705T035711Z">
+        <seg>包括向应用中添加状态化或非状态化算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33186,8 +33210,8 @@
       <tuv lang="EN-US">
         <seg>Updating or extending the logic of an application without changing or removing an existing state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035553Z" creationid="xccui" creationdate="20190705T035553Z">
-        <seg>在对已有状态进行更改或删除的前提下更新或扩展应用逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035838Z" creationid="xccui" creationdate="20190705T035553Z">
+        <seg>在对已有状态进行更改或删除的前提下更新或扩展应用逻辑，</seg>
       </tuv>
     </tu>
     <tu>
