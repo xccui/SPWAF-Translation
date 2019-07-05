@@ -7632,8 +7632,8 @@
       <tuv lang="EN-US">
         <seg>Also, the internals of a stream processor that supports event time are more involved than the internals of a system that purely operates in processing time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204405Z" creationid="xccui" creationdate="20190606T204405Z">
-        <seg>此外，相比纯粹使用处理时间，支持事件时间的流处理引擎内部要更加复杂。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T063757Z" creationid="xccui" creationdate="20190606T204405Z">
+        <seg>此外，相比纯粹使用处理时间的引擎，支持事件时间的流处理引擎内部要更加复杂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18497,8 +18497,8 @@
       <tuv lang="EN-US">
         <seg>In contrast, event-time semantics yield reprodu‐ cible and consistent results, which is a hard requirement for many stream processing use cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204307Z" creationid="xccui" creationdate="20190606T204233Z">
-        <seg>相反，事件时间语义会生成可重现且一致性的结果，这也是很多流处理场景中的刚性需求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T063613Z" creationid="xccui" creationdate="20190606T204233Z">
+        <seg>相反，事件时间语义会生成可重现且一致性的结果，这也是很多流处理用例的刚性需求。</seg>
       </tuv>
     </tu>
     <tu>
