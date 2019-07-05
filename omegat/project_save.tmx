@@ -6816,8 +6816,8 @@
       <tuv lang="EN-US">
         <seg>A task maintains a partition watermark for each input partition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T024125Z" creationid="xccui" creationdate="20190607T024100Z">
-        <seg>一个任务会为它的每个输入分区都维护一个分区水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071617Z" creationid="xccui" creationdate="20190607T024100Z">
+        <seg>一个任务会为它的每个输入分区都维护一个分区水位线（partition watermark）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17465,8 +17465,8 @@
       <tuv lang="EN-US">
         <seg>If the event-time clock advances, the task processes all triggered timers and finally broadcasts its new event time to all downstream tasks by emitting a corresponding watermark to all con‐ nected output partitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190607T025043Z">
-        <seg>如果事件时间时钟向前推动，任务会先处理因此而触发的所有计时器，最后才会把对应的水位线发往所有连接的输出分区，从而实现将事件时间广播到全部下游任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071830Z" creationid="xccui" creationdate="20190607T025043Z">
+        <seg>如果事件时间时钟向前推动，任务会先处理因此而触发的所有计时器，之后才会把对应的水位线发往所有连接的输出分区，实现事件时间到全部下游任务的广播。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35107,8 +35107,8 @@
       <tuv lang="EN-US">
         <seg>When it receives a watermark from a partition, it updates the respective partition watermark to be the maximum of the received value and the current value.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T024528Z" creationid="xccui" creationdate="20190607T024528Z">
-        <seg>当收到某个分区传来的水位线后，它会以接收值和当前值中较大的那个作为对应分区水位线更新后的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071709Z" creationid="xccui" creationdate="20190607T024528Z">
+        <seg>当收到某个分区传来的水位线后，任务会以接收值和当前值中较大的那个作为对应分区水位线的最新值。</seg>
       </tuv>
     </tu>
     <tu>
