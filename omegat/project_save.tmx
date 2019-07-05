@@ -6616,8 +6616,8 @@
       <tuv lang="EN-US">
         <seg>A similar effect appears for operators with two input streams whose watermarks sig‐ nificantly diverge.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T033052Z" creationid="xccui" creationdate="20190607T033031Z">
-        <seg>算子两个输入流的水位线差距很大时，也会产生类似影响。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072253Z" creationid="xccui" creationdate="20190607T033031Z">
+        <seg>当算子两个输入流的水位线差距很大时，也会产生类似影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16881,8 +16881,8 @@
       <tuv lang="EN-US">
         <seg>However, it relies on the fact that all partitions continuously provide increasing watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T031937Z" creationid="xccui" creationdate="20190607T031937Z">
-        <seg>但这依赖于一个事实——所有分区都会持续提供自增的水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072135Z" creationid="xccui" creationdate="20190607T031937Z">
+        <seg>然而，这依赖于一个事实——所有分区都会持续提供自增的水位线。</seg>
       </tuv>
     </tu>
     <tu>
