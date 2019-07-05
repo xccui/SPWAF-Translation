@@ -20225,8 +20225,8 @@
       <tuv lang="EN-US">
         <seg>In “Time Semantics” on page 27, we highlighted the importance of time semantics for stream processing applications and explained the differences between processing time and event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204156Z" creationid="xccui" creationdate="20190606T204144Z">
-        <seg>在第27页的"时间语义"一节，我们强调了时间语义对于流处理应用的重要性并解释了处理时间和事件时间的不同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T063507Z" creationid="xccui" creationdate="20190606T204144Z">
+        <seg>在第27页的"时间语义"一节，我们强调了时间语义对于流处理应用的重要性并解释了处理时间和事件时间的差异。</seg>
       </tuv>
     </tu>
     <tu>
