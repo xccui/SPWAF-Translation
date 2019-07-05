@@ -6976,8 +6976,8 @@
       <tuv lang="EN-US">
         <seg>A watermark with a timestamp T indi‐ cates that all subsequent records should have timestamps &gt; T.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205434Z" creationid="xccui" creationdate="20190606T205434Z">
-        <seg>一个拥有时间戳t的水位线表示，接下来所有记录的时间戳一定都大于t。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065414Z" creationid="xccui" creationdate="20190606T205434Z">
+        <seg>一个时间戳为t的水位线表示，接下来所有记录的时间戳一定都大于t。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30154,8 +30154,8 @@
       <tuv lang="EN-US">
         <seg>The second property is used to handle streams with out-of-order record timestamps, such as the records with timestamps 3 and 5 in Figure 3-8.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205526Z" creationid="xccui" creationdate="20190606T205450Z">
-        <seg>第二个属性是用来应对那些记录时间戳乱序的数据流，例如图3-8中的时间戳3和5。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065559Z" creationid="xccui" creationdate="20190606T205450Z">
+        <seg>第二个属性可用来处理数据流中时间戳乱序的记录，例如图3-8中的时间戳为3和5的记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31338,8 +31338,8 @@
       <tuv lang="EN-US">
         <seg>They must be monotonically increasing to ensure the event-time clocks of tasks are progressing and not going backward.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205400Z" creationid="xccui" creationdate="20190606T205354Z">
-        <seg>必须单调递增，这是为了确保任务中的事件时间时钟正确前进，不会倒退。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065400Z" creationid="xccui" creationdate="20190606T205354Z">
+        <seg>必须单调递增。这是为了确保任务中的事件时间时钟正确前进，不会倒退。</seg>
       </tuv>
     </tu>
     <tu>
