@@ -65,3 +65,4 @@ allowed lateness	延迟容忍度
 state handle	状态句柄
 keyed	键值分区
 state descriptor	状态描述符
+key group	键值组
