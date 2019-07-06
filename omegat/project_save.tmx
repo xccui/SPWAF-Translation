@@ -7862,6 +7862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An application with a function that has a queryable state is executed just like any other application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T063318Z" creationid="xccui" creationdate="20190706T063318Z">
+        <seg>具有可查询式状态的函数并不会改变应用的执行方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An attribution usually includes the title, author, publisher, and ISBN.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210823Z" creationid="esouser" creationdate="20190603T210823Z">
@@ -40773,6 +40781,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011523Z" creationid="xccui" creationdate="20190624T011523Z">
         <seg>以及用于发出数据的副输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T063016Z" creationid="xccui" creationdate="20190706T063016Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
