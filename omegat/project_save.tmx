@@ -9799,6 +9799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the client</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125222Z" creationid="xccui" creationdate="20190706T125222Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the parallelism of all operators of an application is set as the parallelism of the application’s execution environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051647Z" creationid="xccui" creationdate="20190616T051647Z">
@@ -39465,6 +39473,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new QueryableStateClient(tmHostname, proxyPort)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125216Z" creationid="xccui" creationdate="20190706T125216Z">
+        <seg>new QueryableStateClient(tmHostname, proxyPort)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new RichFilterFunction[String] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054235Z" creationid="xccui" creationdate="20190618T054235Z">
@@ -41629,6 +41645,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042259Z" creationid="xccui" creationdate="20190612T042259Z">
         <seg>val celsius = (r.temperature - 32) * (5.0 / 9.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val client: QueryableStateClient =</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125212Z" creationid="xccui" creationdate="20190706T125212Z">
+        <seg>val client: QueryableStateClient =</seg>
       </tuv>
     </tu>
     <tu>
