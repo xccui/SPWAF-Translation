@@ -18913,8 +18913,8 @@
       <tuv lang="EN-US">
         <seg>In order to enable the queryable state service in a Flink setup—to start client proxy and server threads within the TaskManagers—you need to add the flink-queryable- state-runtime JAR file to the classpath of the TaskManager process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T052645Z" creationid="xccui" creationdate="20190706T052645Z">
-        <seg>为了在Flink设置中启用可查询式状态服务（即在每个TaskManager中都启动客户端代理和服务器线程），你需要将flink-queryable-state-runtime JAR文件放到TaskManager进程的Classpath中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T052843Z" creationid="xccui" creationdate="20190706T052645Z">
+        <seg>为了在Flink设置中启用可查询式状态服务（即在TaskManager中启动客户端代理和服务器线程），你需要将flink-queryable-state-runtime JAR文件放到TaskManager进程的Classpath中。</seg>
       </tuv>
     </tu>
     <tu>
