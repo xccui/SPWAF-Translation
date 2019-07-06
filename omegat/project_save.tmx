@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.max(1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062222Z" creationid="xccui" creationdate="20190706T062222Z">
+        <seg>.max(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.print()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022917Z" creationid="xccui" creationdate="20190622T022917Z">
@@ -1686,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// compute every 10 seconds the max temperature per sensor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062213Z" creationid="xccui" creationdate="20190706T062213Z">
+        <seg>// 每10秒为每个传感器计算一次最高温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// compute the result from the accumulator and return it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004735Z" creationid="xccui" creationdate="20190624T004735Z">
@@ -2510,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// project to sensor id and temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062146Z" creationid="xccui" creationdate="20190706T062146Z">
+        <seg>// 仅保留传感器id和温度字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// provide TypeInformation for the map lambda function's return type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062250Z" creationid="xccui" creationdate="20190617T062250Z">
@@ -2810,6 +2834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034320Z" creationid="xccui" creationdate="20190629T034320Z">
         <seg>// 该状态用于标识是否是第一次对窗口进行计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// store max temperature of the last 10 secs for each sensor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062248Z" creationid="xccui" creationdate="20190706T062248Z">
+        <seg>// 将每个传感器每10秒的最高温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -12923,6 +12955,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060851Z" creationid="xccui" creationdate="20190706T060851Z">
         <seg>示例7-14，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-15 shows how to use a queryable state sink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062055Z" creationid="xccui" creationdate="20190706T062055Z">
+        <seg>示例7-15展示了如何使用可查询式状态的数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062059Z" creationid="xccui" creationdate="20190706T062059Z">
+        <seg>示例7-15，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36225,6 +36273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writing a DataStream into a queryable state sink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062119Z" creationid="xccui" creationdate="20190706T062119Z">
+        <seg>将DataStream写入可查询式状态的数据汇中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Writing a Data‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013925Z" creationid="xccui" creationdate="20190613T013925Z">
@@ -42237,6 +42293,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T031930Z" creationid="xccui" creationdate="20190625T031930Z">
         <seg>val temps = vals.map(_.temperature)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val tenSecsMaxTemps: DataStream[(String, Double)] = sensorData</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062122Z" creationid="xccui" creationdate="20190706T062122Z">
+        <seg>val tenSecsMaxTemps: DataStream[(String, Double)] = sensorData</seg>
       </tuv>
     </tu>
     <tu>
