@@ -18391,6 +18391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to the generic way of enabling queries on any type of keyed state, Flink also offers shortcuts to define stream sinks that store the events of a stream in a queryable state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062029Z" creationid="xccui" creationdate="20190706T062029Z">
+        <seg>除了这种将任意类型的键值分区状态设置为可查询式的通用方法外，Flink还提供了一种简便方法，支持利用数据汇将流中所有事件都存到可查询式状态中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to the system properties discussed so far, such as failure tolerance, perfor&lt;t0/&gt;‐&lt;t1/&gt; mance, and result accuracy, stream processors also continuously added new opera&lt;t2/&gt;‐&lt;t3/&gt; tional features.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T140909Z" creationid="xccui" creationdate="20190327T135929Z">
