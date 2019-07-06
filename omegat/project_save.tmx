@@ -12887,6 +12887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 7-14 shows how to make lastTempState queryable to illustrate the usage of the keyed state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060846Z" creationid="xccui" creationdate="20190706T060846Z">
+        <seg>示例7-14中以lastTempState状态为例，说明了如何将键值分区状态设置为可查询的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 7-2 shows the implementation of a FlatMapFunction with a keyed Value State that checks whether the measured temperature changed more than a config‐ ured threshold.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064132Z" creationid="xccui" creationdate="20190630T064132Z">
