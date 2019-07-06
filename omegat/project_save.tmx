@@ -36705,6 +36705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You only have to ensure that the TaskManagers are configured to start their queryable state services as discussed in the previous section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T063457Z" creationid="xccui" creationdate="20190706T063457Z">
+        <seg>你只需要像上节讨论的那样，确保为TaskManager配置了可查询式状态的服务即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should now be able to browse and inspect the code of the book exam‐ ples.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041822Z" creationid="xccui" creationdate="20190611T041759Z">
