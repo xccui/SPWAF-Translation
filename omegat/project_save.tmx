@@ -21503,6 +21503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key groups are discussed in Chapter 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T054516Z" creationid="xccui" creationdate="20190706T054516Z">
+        <seg>键值组的相关内容已经在第3章讨论过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keyed State</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041649Z" creationid="xccui" creationdate="20190418T035556Z">
@@ -40404,6 +40412,14 @@
         <seg>separate tiers for data processing (the application itself) and data storage (a transac&lt;t0/&gt;‐&lt;t1/&gt; tional database system) as shown in &lt;t2/&gt;Figure 1-1&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190226T155712Z" creationid="xccui" creationdate="20190226T155712Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>serve requests of the queryable state client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055131Z" creationid="xccui" creationdate="20190706T055131Z">
         <seg></seg>
       </tuv>
     </tu>
