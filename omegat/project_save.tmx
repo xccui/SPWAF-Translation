@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.asQueryableState("maxTemperature")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062320Z" creationid="xccui" creationdate="20190706T062320Z">
+        <seg>.asQueryableState("maxTemperature")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.assignAscendingTimestamps(e =&gt; e.timestamp)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052008Z" creationid="xccui" creationdate="20190620T052008Z">
@@ -2270,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// in a queryable state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062257Z" creationid="xccui" creationdate="20190706T062257Z">
+        <seg>// 存入可查询式状态中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// increment counter if threshold is exceeded</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052519Z" creationid="xccui" creationdate="20190701T052519Z">
@@ -2336,8 +2352,8 @@
       <tuv lang="EN-US">
         <seg>// key by sensor id</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070917Z" creationid="xccui" creationdate="20190621T070917Z">
-        <seg>// 以传感器id为键值分区</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062315Z" creationid="xccui" creationdate="20190621T070917Z">
+        <seg>// 以传感器id为键值进行分区</seg>
       </tuv>
     </tu>
     <tu>
@@ -28416,6 +28432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The asQueryableState() method appends a queryable state sink to the stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062429Z" creationid="xccui" creationdate="20190706T062429Z">
+        <seg>asQueryableState()方法会在数据流后面添加一个可查询式状态的数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The assignTimestampsAndWater marks(new SensorTimeAssigner) method assigns the timestamps and watermarks that are required for event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052108Z" creationid="xccui" creationdate="20190612T052108Z">
@@ -31052,6 +31076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061617Z" creationid="xccui" creationdate="20190614T061549Z">
         <seg>因此输出流的类型永远和输入流保持一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The type of the queryable state is ValueState, which holds values of the type of the input stream—our example (String, Double).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062731Z" creationid="xccui" creationdate="20190706T062731Z">
+        <seg>可查询式状态的类型是ValueState，它内部的数据类型和输入流的类型相同（在我们示例中即(String, Double)）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40853,6 +40885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T044542Z" creationid="xccui" creationdate="20190605T044542Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tenSecsMaxTemps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062304Z" creationid="xccui" creationdate="20190706T062304Z">
+        <seg>tenSecsMaxTemps</seg>
       </tuv>
     </tu>
     <tu>
