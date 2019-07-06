@@ -8535,6 +8535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Architecture of Flink’s queryable state service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024222Z" creationid="xccui" creationdate="20190706T024222Z">
+        <seg>Flink可查询式状态服务的架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arguably, one could use an external system to also manage streaming state, even though this design choice might introduce additional latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T054652Z" creationid="xccui" creationdate="20190414T054541Z">
@@ -11713,8 +11721,8 @@
       <tuv lang="EN-US">
         <seg>Each TaskMan‐ ager runs a state server that fetches the state of a queried key from the local state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024036Z" creationid="xccui" creationdate="20190706T024036Z">
-        <seg>状态服务器同样需要运行在每个TaskManager上面。它会根据查询的键值从本地状态后端取得状态，然后将其</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024045Z" creationid="xccui" creationdate="20190706T024036Z">
+        <seg>状态服务器同样需要运行在每个TaskManager上面。它会根据查询的键值从本地状态后端取得状态，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13995,6 +14003,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T040255Z" creationid="xccui" creationdate="20190628T040255Z">
         <seg>图6-8，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 7-1 shows the architecture of the queryable state service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024159Z" creationid="xccui" creationdate="20190706T024159Z">
+        <seg>图7-1展示了可查询式状态服务的架构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 7-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024202Z" creationid="xccui" creationdate="20190706T024202Z">
+        <seg>图7-1，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18883,6 +18907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193207Z" creationid="xccui" creationdate="20190606T201341Z">
         <seg>为了使流水线式的数据交换平滑进行，TaskManager必须提供足够多的缓冲区来同时服务所有进出连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to enable the queryable state service in a Flink setup—to start client proxy and server threads within the TaskManagers—you need to add the flink-queryable- state-runtime JAR file to the classpath of the TaskManager process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T052645Z" creationid="xccui" creationdate="20190706T052645Z">
+        <seg>为了在Flink设置中启用可查询式状态服务（即在每个TaskManager中都启动客户端代理和服务器线程），你需要将flink-queryable-state-runtime JAR文件放到TaskManager进程的Classpath中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36925,6 +36957,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042827Z" creationid="xccui" creationdate="20190612T042827Z">
         <seg>avgTemp.print()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>backend and returns it to the requesting client proxy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024120Z" creationid="xccui" creationdate="20190706T024120Z">
+        <seg>然后将其返回给提交请求的客户端代理。</seg>
       </tuv>
     </tu>
     <tu>
