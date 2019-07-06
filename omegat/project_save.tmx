@@ -11711,6 +11711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each TaskMan‐ ager runs a state server that fetches the state of a queried key from the local state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024036Z" creationid="xccui" creationdate="20190706T024036Z">
+        <seg>状态服务器同样需要运行在每个TaskManager上面。它会根据查询的键值从本地状态后端取得状态，然后将其</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Task‐ Manager runs a client proxy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022909Z" creationid="xccui" creationdate="20190706T022108Z">
