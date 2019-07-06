@@ -31888,6 +31888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This information is requested from the Job‐ Manager that manages the key group assignment, and is cached once received.6 The client proxy retrieves the state from the state server of the respective Task‐ Manager and serves the result to the client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T023827Z" creationid="xccui" creationdate="20190706T023827Z">
+        <seg>该信息可以从负责键值组分配的JobManager上面获得，代理在一次请求过后就会将它们缓存下来。6 客户端代理从各自TaskManager的状态服务器上取得状态，然后把结果返给客户端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This information will come in handy when designing advanced stream‐ ing applications, setting up and configuring clusters, and operating streaming appli‐ cations as well as reasoning about their performance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T032507Z" creationid="xccui" creationdate="20190610T031959Z">
@@ -38523,8 +38531,8 @@
       <tuv lang="EN-US">
         <seg>instances of an operator, the proxy needs to identify the TaskManager that main‐ tains the state for the requested key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022711Z" creationid="xccui" creationdate="20190706T022529Z">
-        <seg>这是因为键值分区状态会分布在算子所有并行实例上面，而代理的作用就是识别维护请求键值对应状态的TaskManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T023321Z" creationid="xccui" creationdate="20190706T022529Z">
+        <seg>由于键值分区状态会分布在算子所有并行实例上面，所以代理需要识别请求键值对应的状态所在的TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
