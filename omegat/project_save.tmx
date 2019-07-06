@@ -32002,8 +32002,8 @@
       <tuv lang="EN-US">
         <seg>This is done by copying it from the ./opt folder of your installation into the ./lib folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T053019Z" creationid="xccui" creationdate="20190706T053019Z">
-        <seg>为此，你可以直接将JAR文件从Flink安装路径的./opt文件夹拷贝到./lib文件夹里。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T054236Z" creationid="xccui" creationdate="20190706T053019Z">
+        <seg>为此，你可以直接将JAR文件从Flink安装路径的./opt目录拷贝到./lib目录中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35419,8 +35419,8 @@
       <tuv lang="EN-US">
         <seg>When the JAR file is in the classpath, the queryable state threads are automatically started and can</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T054218Z" creationid="xccui" creationdate="20190706T054218Z">
-        <seg>如果Classpath中</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T054455Z" creationid="xccui" creationdate="20190706T054218Z">
+        <seg>如果Classpath中存在该JAR文件，可查询式状态的线程就会自动启动，从而可以响应客户端的请求。</seg>
       </tuv>
     </tu>
     <tu>
