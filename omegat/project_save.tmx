@@ -8294,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any JVM-based application can query the queryable state of a running Flink applica‐ tion by using QueryableStateClient.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124605Z" creationid="xccui" creationdate="20190706T124605Z">
+        <seg>所有基于JVM的应用都可以使用QueryableStateClient对运行中Flink的可查询式状态进行查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any application that processes a stream of events and does not just perform trivial record-at-a-time transformations needs to be stateful, i.e., have the ability to store and access intermediate data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T030539Z" creationid="xccui" creationdate="20190305T030539Z">
