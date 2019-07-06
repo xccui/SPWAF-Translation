@@ -32000,6 +32000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is done by copying it from the ./opt folder of your installation into the ./lib folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T053019Z" creationid="xccui" creationdate="20190706T053019Z">
+        <seg>为此，你可以直接将JAR文件从Flink安装路径的./opt文件夹拷贝到./lib文件夹里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is fine for some applications, but what if you are only interested in the most recent data?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043032Z" creationid="xccui" creationdate="20190406T042859Z">
@@ -35405,6 +35413,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T053312Z" creationid="xccui" creationdate="20190616T053312Z">
         <seg>如果应用是提交到Flink集群运行，那么除非提交客户端明确指定（详情请参阅第245页"运行和管理流式应用"），否则环境并行度将设置为集群默认并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the JAR file is in the classpath, the queryable state threads are automatically started and can</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T054218Z" creationid="xccui" creationdate="20190706T054218Z">
+        <seg>如果Classpath中</seg>
       </tuv>
     </tu>
     <tu>
