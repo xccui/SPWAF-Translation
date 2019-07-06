@@ -38513,6 +38513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>instances of an operator, the proxy needs to identify the TaskManager that main‐ tains the state for the requested key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022529Z" creationid="xccui" creationdate="20190706T022529Z">
+        <seg>这是因为键值分区状态会分布在算子所有并行实例上面，而代理的作用就是识别请求键值对应状态所在的TaskManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>interface EvictorContext {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202127Z" creationid="xccui" creationdate="20190627T202127Z">
