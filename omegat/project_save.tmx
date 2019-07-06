@@ -15479,6 +15479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each received record, the queryable state sink upserts the record into ValueState, so that the latest event per key is always</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T063012Z" creationid="xccui" creationdate="20190706T063012Z">
+        <seg>对于每个收到的记录，可查询式状态的数据汇都会用它去更新ValueState的值，这样就能为每个键值保存最新的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For exam&lt;t0/&gt;‐&lt;t1/&gt; ple, the data of an order processing system can be analyzed to obtain sales growth over time, to identify reasons for delayed shipments, or to predict future sales in order to adjust the inventory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T182744Z" creationid="xccui" creationdate="20190228T182744Z">
