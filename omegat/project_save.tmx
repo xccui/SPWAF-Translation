@@ -35385,6 +35385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When properly configured, you will find the following log message in the TaskManager logs:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055827Z" creationid="xccui" creationdate="20190706T055827Z">
+        <seg>正确配置后，你会在TaskManager的日志中看到以下信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When running an application as a library deployment in a container environment, such as Kubernetes, failed JobManager or TaskManager containers are usually auto&lt;t0/&gt;‐&lt;t1/&gt; matically restarted by the container orchestration service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T035643Z" creationid="xccui" creationdate="20190504T035046Z">
