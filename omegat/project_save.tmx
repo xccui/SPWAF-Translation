@@ -31992,6 +31992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class is provided by the flink- queryable-state-client-java dependency, which you can add to your project as</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124823Z" creationid="xccui" creationdate="20190706T124823Z">
+        <seg>这个类由flink-queryable-state-client-java依赖提供，你可以像下面这样把它添加到你的项目里：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This conversion is based on the data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050222Z" creationid="xccui" creationdate="20190705T050131Z">
