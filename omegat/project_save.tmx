@@ -7598,6 +7598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All you have to do is define a function with keyed state and make the state queryable by calling the set Queryable(String) method on the StateDescriptor before obtaining the state han‐ dle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060607Z" creationid="xccui" creationdate="20190706T060607Z">
+        <seg>你要做的就是定义一个具有键值分区状态的函数，然后在获取状态句柄之前调用StateDescriptor的setQueryable(String)方法。这样，目标状态就是可查询的了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allowed lateness can be specified using the allowedLateness() method as Example 6-22 demonstrates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165139Z" creationid="xingcan" creationdate="20190628T165139Z">
@@ -18043,6 +18051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041324Z" creationid="xccui" creationdate="20190702T041324Z">
         <seg>实现KeyedBroadcastProcessFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementing a streaming application with queryable state is easy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060048Z" creationid="xccui" creationdate="20190706T060048Z">
+        <seg>实现一个支持可查询式状态的流式应用非常简单。</seg>
       </tuv>
     </tu>
     <tu>
