@@ -26224,6 +26224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Started the Queryable State Proxy Server @ …</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055830Z" creationid="xccui" creationdate="20190706T055830Z">
+        <seg>Started the Queryable State Proxy Server @ …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting an application from a savepoint</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213449Z" creationid="xccui" creationdate="20190609T213449Z">
@@ -30084,6 +30092,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043504Z" creationid="xccui" creationdate="20190619T043504Z">
         <seg>生成的Maven项目中的pom.xml文件包含了教你如何添加额外依赖的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ports used by the client proxy and server and additional parameters can be con‐ figured in the ./conf/flink-conf.yaml file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055955Z" creationid="xccui" creationdate="20190706T055955Z">
+        <seg>客户端代理和服务器所使用的端口以及一些额外的参数可以在./conf/flink-conf.yaml文件中配置。</seg>
       </tuv>
     </tu>
     <tu>
