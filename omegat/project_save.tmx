@@ -11711,6 +11711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Task‐ Manager runs a client proxy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022108Z" creationid="xccui" creationdate="20190706T022108Z">
+        <seg>每个TaskManager上面都会运行一个客户端代理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each application can be stateful and can locally manage its own state without accessing external datastores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T214101Z" creationid="esouser" creationdate="20190603T214101Z">
