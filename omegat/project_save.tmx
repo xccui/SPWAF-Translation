@@ -11713,8 +11713,8 @@
       <tuv lang="EN-US">
         <seg>Each Task‐ Manager runs a client proxy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022108Z" creationid="xccui" creationdate="20190706T022108Z">
-        <seg>每个TaskManager上面都会运行一个客户端代理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022909Z" creationid="xccui" creationdate="20190706T022108Z">
+        <seg>该客户端代理需要在每个TaskManager上面都运行一个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25688,6 +25688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since keyed state is distributed across all parallel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022531Z" creationid="xccui" creationdate="20190706T022531Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since multiple applications might work on the same data representation or share the same infrastructure, changing the schema of a table or scaling a database system requires careful planning and a lot of effort.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T200046Z" creationid="esouser" creationdate="20190603T200017Z">
@@ -38515,8 +38523,8 @@
       <tuv lang="EN-US">
         <seg>instances of an operator, the proxy needs to identify the TaskManager that main‐ tains the state for the requested key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022529Z" creationid="xccui" creationdate="20190706T022529Z">
-        <seg>这是因为键值分区状态会分布在算子所有并行实例上面，而代理的作用就是识别请求键值对应状态所在的TaskManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T022711Z" creationid="xccui" creationdate="20190706T022529Z">
+        <seg>这是因为键值分区状态会分布在算子所有并行实例上面，而代理的作用就是识别维护请求键值对应状态的TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
