@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.getState[Double](lastTempDescriptor)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061052Z" creationid="xccui" creationdate="20190706T061052Z">
+        <seg>.getState[Double](lastTempDescriptor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.keyBy(...)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041334Z" creationid="xccui" creationdate="20190622T041334Z">
@@ -28848,6 +28856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The external identifier that is passed with the setQueryable() method can be freely chosen and is only used to configure the queryable state client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061603Z" creationid="xccui" creationdate="20190706T061603Z">
+        <seg>传递给setQueryable()方法的外部标识符可以随意选择，它们只会在可查询式状态客户端的配置中用到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The extracted timestamps are assigned to the respective record and the queried watermarks are ingested into the stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T035457Z" creationid="xccui" creationdate="20190607T035446Z">
@@ -38837,6 +38853,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071516Z" creationid="xccui" creationdate="20190621T071516Z">
         <seg>lastTemp.update(r.temperature)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lastTempDescriptor.setQueryable("lastTemperature")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061045Z" creationid="xccui" creationdate="20190706T061045Z">
+        <seg>lastTempDescriptor.setQueryable("lastTemperature")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lastTempState = getRuntimeContext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061048Z" creationid="xccui" creationdate="20190706T061048Z">
+        <seg>lastTempState = getRuntimeContext</seg>
       </tuv>
     </tu>
     <tu>
