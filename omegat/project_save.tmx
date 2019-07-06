@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// enable queryable state and set its external identifier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061042Z" creationid="xccui" creationdate="20190706T061042Z">
+        <seg>// 启用可查询式状态并设置其外部标识符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// enable reading forwarding</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032317Z" creationid="xccui" creationdate="20190622T032317Z">
@@ -10367,6 +10375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring keyed state to be queryable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060913Z" creationid="xccui" creationdate="20190706T060913Z">
+        <seg>将键值分区状态设置为可查询的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuring the Logging Behavior</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030154Z" creationid="xccui" creationdate="20190225T030154Z">
@@ -12891,6 +12907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060846Z" creationid="xccui" creationdate="20190706T060846Z">
         <seg>示例7-14中以lastTempState状态为例，说明了如何将键值分区状态设置为可查询的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-14.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060851Z" creationid="xccui" creationdate="20190706T060851Z">
+        <seg>示例7-14，</seg>
       </tuv>
     </tu>
     <tu>
