@@ -5502,10 +5502,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/dependency&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124908Z" creationid="xccui" creationdate="20190706T124908Z">
+        <seg>&lt;/dependency&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;S extends State&gt; S getPartitionedState(StateDescriptor&lt;S, ?&gt; stateDescriptor);</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192924Z" creationid="xccui" creationdate="20190626T192924Z">
         <seg>&lt;S extends State&gt; S getPartitionedState(StateDescriptor&lt;S, ?&gt; stateDescriptor);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;artifactid&gt;flink-queryable-state-client-java_2.12&lt;/artifactid&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124900Z" creationid="xccui" creationdate="20190706T124900Z">
+        <seg>&lt;artifactid&gt;flink-queryable-state-client-java_2.12&lt;/artifactid&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;dependency&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124831Z" creationid="xccui" creationdate="20190706T124831Z">
+        <seg>&lt;dependency&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;groupid&gt;org.apache.flink&lt;/groupid&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124834Z" creationid="xccui" creationdate="20190706T124834Z">
+        <seg>&lt;groupid&gt;org.apache.flink&lt;/groupid&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5658,6 +5690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T172840Z" creationid="xccui" creationdate="20190228T172718Z">
         <seg>图1-2描绘了微服务的架构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;version&gt;1.7.1&lt;/version&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124904Z" creationid="xccui" creationdate="20190706T124904Z">
+        <seg>&lt;version&gt;1.7.1&lt;/version&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28096,6 +28136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The QueryableStateClient is initialized with the hostname of any TaskManager and the port on which the queryable state client proxy is listening.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125108Z" creationid="xccui" creationdate="20190706T125108Z">
+        <seg>为了初始化QueryableStateClient，你需要提供任意一个TaskManager的主机名以及其上可查询式状态客户端代理的监听端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The QueryableStateClient is used by an external application to submit queries and retrieve results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T200711Z" creationid="xccui" creationdate="20190705T200711Z">
@@ -38305,6 +38353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124826Z" creationid="xccui" creationdate="20190706T124826Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>for (cnt &lt;- state.asScala) { highTempCnt += cnt</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052902Z" creationid="xccui" creationdate="20190701T052902Z">
@@ -40293,6 +40349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202838Z" creationid="xccui" creationdate="20190627T202838Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>proxy listens on port 9067, but the port can be configured in the ./conf/flink- conf.yaml file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125209Z" creationid="xccui" creationdate="20190706T125209Z">
+        <seg>客户端代理的默认监听端口是9067，你可以在./conf/flink- conf.yaml文件中对它进行配置：</seg>
       </tuv>
     </tu>
     <tu>
