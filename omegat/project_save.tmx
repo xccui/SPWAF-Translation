@@ -21623,6 +21623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It offers different types of state primitives and supports pluggable state backends.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T050343Z" creationid="xccui" creationdate="20190707T050343Z">
+        <seg>它提供了多种类型的状态原语，还支持可插拔的状态后端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It passes each incoming event to a user-defined mapper</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050421Z" creationid="xccui" creationdate="20190613T042926Z">
@@ -27972,6 +27980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051417Z" creationid="xccui" creationdate="20190620T051417Z">
         <seg>DataStream API内置了两个针对常见情况的周期性水位线时间戳分配器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DataStream API provides powerful yet easy-to-use tools to access and maintain operator state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T050309Z" creationid="xccui" creationdate="20190707T050309Z">
+        <seg>DataStream API提供了强大、易用的工具来访问和维护算子状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36197,6 +36213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043952Z" creationid="xccui" creationdate="20190705T043840Z">
         <seg>虽然从应用中增删状态非常容易，也不会影响保存点兼容性，但一旦涉及修改已有算子的状态，问题就会变得十分复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While developers have lots of flexibility to interact with state, Flink’s runtime manages tera‐ bytes of state and ensures exactly-once semantics in case of failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051134Z" creationid="xccui" creationdate="20190707T051134Z">
+        <seg>在保证开发人员和状态之间大量灵活交互的基础上，Flink的运行时能够管理起TB级别的状态且在故障时可以保证精确一次语义。</seg>
       </tuv>
     </tu>
     <tu>
