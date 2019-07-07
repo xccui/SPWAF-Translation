@@ -31082,8 +31082,8 @@
       <tuv lang="EN-US">
         <seg>The snapshotState() method is invoked when Flink triggers a checkpoint of the stateful function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045645Z" creationid="xccui" creationdate="20190701T045645Z">
-        <seg>snapshotState()方法会在Flink触发有状态函数的检查点时调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052109Z" creationid="xccui" creationdate="20190701T045645Z">
+        <seg>snapshotState()方法会在Flink触发状态化函数的检查点时调用。</seg>
       </tuv>
     </tu>
     <tu>
