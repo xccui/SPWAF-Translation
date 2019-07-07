@@ -32314,8 +32314,8 @@
       <tuv lang="EN-US">
         <seg>This application design can cause problems when applications need to evolve or scale.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="esouser" creationdate="20190603T195919Z">
-        <seg>该设计在应用需要更新或扩容时，容易导致问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052854Z" creationid="esouser" creationdate="20190603T195919Z">
+        <seg>该设计在应用需要更新或扩（缩）容时，容易导致问题。</seg>
       </tuv>
     </tu>
     <tu>
