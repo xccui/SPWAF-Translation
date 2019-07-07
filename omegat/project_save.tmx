@@ -18993,8 +18993,8 @@
       <tuv lang="EN-US">
         <seg>In case of a failure, Flink recovers a stateful streaming application by restoring its state from a previous checkpoint and resetting the read position on the event log.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T155036Z" creationid="esouser" creationdate="20190603T211702Z">
-        <seg>一旦出现故障，Flink会利用之前的检查点恢复状态并重置事件日志的读取指针，以此来使状态化流处理应用恢复正常。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T065426Z" creationid="esouser" creationdate="20190603T211702Z">
+        <seg>一旦出现故障，Flink会利用之前的检查点恢复状态并重置事件日志的读取位置，以此来使状态化流处理应用恢复正常。</seg>
       </tuv>
     </tu>
     <tu>
