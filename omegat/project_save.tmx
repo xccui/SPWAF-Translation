@@ -22929,8 +22929,8 @@
       <tuv lang="EN-US">
         <seg>More‐ over, the data often needs to be transformed into a common format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T072352Z" creationid="esouser" creationdate="20190603T202046Z">
-        <seg>此外，开发人员经常需要将这些数据转换为某种通用格式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T062830Z" creationid="esouser" creationdate="20190603T202046Z">
+        <seg>此外，开发人员还经常需要将这些数据转换为某种通用格式。</seg>
       </tuv>
     </tu>
     <tu>
