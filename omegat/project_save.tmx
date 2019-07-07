@@ -35098,8 +35098,8 @@
       <tuv lang="EN-US">
         <seg>We discuss how a stream processor can provide accurate results with out-of-order events and how you can perform historical event processing and time travel with streaming.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T061341Z" creationid="xccui" creationdate="20190409T210351Z">
-        <seg>我们将讨论流处理引擎如何基于乱序事件产生精确结果，以及如何使用数据流进行历史事件处理及"时空穿梭"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T061603Z" creationid="xccui" creationdate="20190409T210351Z">
+        <seg>我们将讨论流处理引擎如何基于乱序事件产生精确结果，以及如何使用数据流进行历史事件处理及"时间旅行"。</seg>
       </tuv>
     </tu>
     <tu>
