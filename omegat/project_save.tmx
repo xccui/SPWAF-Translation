@@ -43603,8 +43603,8 @@
       <tuv lang="EN-US">
         <seg>“Scaling Stateful Operators” on page 56 discusses key groups and how keyed state is scaled out and in.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024744Z" creationid="xccui" creationdate="20190703T024744Z">
-        <seg>第56页"状态化算子扩容"一节已经对键值组和键值状态的伸缩规则进行了介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053126Z" creationid="xccui" creationdate="20190703T024744Z">
+        <seg>第56页"状态化算子扩缩容"一节已经对键值组和键值状态的伸缩规则进行了介绍。</seg>
       </tuv>
     </tu>
     <tu>
