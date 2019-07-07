@@ -29986,8 +29986,8 @@
       <tuv lang="EN-US">
         <seg>The method takes several parameters, such as the JobID of the running application, the state identifier, the key for which the state should be</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034325Z" creationid="xccui" creationdate="20190707T034116Z">
-        <seg>该方法需要接收几个参数，例如：当前运行应用的JobID，状态标识符，所需状态的键值，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034510Z" creationid="xccui" creationdate="20190707T034116Z">
+        <seg>该方法需要接收几个参数，它们包括：当前运行应用的JobID，状态标识符，所需状态的键值，</seg>
       </tuv>
     </tu>
     <tu>
