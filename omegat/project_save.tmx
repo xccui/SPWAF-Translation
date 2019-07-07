@@ -26338,8 +26338,8 @@
       <tuv lang="EN-US">
         <seg>Since multiple applications might work on the same data representation or share the same infrastructure, changing the schema of a table or scaling a database system requires careful planning and a lot of effort.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T200046Z" creationid="esouser" creationdate="20190603T200017Z">
-        <seg>一旦多个应用基于相同的数据表示或共享架构，那么更改表模式或对数据库系统扩容必将劳心费力。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053227Z" creationid="esouser" creationdate="20190603T200017Z">
+        <seg>一旦多个应用基于相同的数据表示或共享架构，那么更改表模式或对数据库系统扩（缩）容必将劳心费力。</seg>
       </tuv>
     </tu>
     <tu>
