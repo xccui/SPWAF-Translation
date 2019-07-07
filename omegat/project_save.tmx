@@ -3854,6 +3854,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>160 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051745Z" creationid="xccui" creationdate="20190707T051745Z">
+        <seg>160 | 第7章：状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>162 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051754Z" creationid="xccui" creationdate="20190707T051754Z">
+        <seg>162 | 第7章：状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>164</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T151101Z" creationid="esouser" creationdate="20190603T151101Z">
@@ -3886,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>168 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051759Z" creationid="xccui" creationdate="20190707T051759Z">
+        <seg>168 | 第7章：状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>169</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035951Z" creationid="xccui" creationdate="20190418T035951Z">
@@ -3910,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>170 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051804Z" creationid="xccui" creationdate="20190707T051804Z">
+        <seg>170 | 第7章：状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>171</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035958Z" creationid="xccui" creationdate="20190418T035958Z">
@@ -3926,10 +3958,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>172 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051809Z" creationid="xccui" creationdate="20190707T051809Z">
+        <seg>172 | 第7章：状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>174</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040006Z" creationid="xccui" creationdate="20190418T040006Z">
         <seg>174</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>174 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051813Z" creationid="xccui" creationdate="20190707T051813Z">
+        <seg>174 | 第7章：状态化算子和应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,10 +3998,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>176 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051818Z" creationid="xccui" creationdate="20190707T051818Z">
+        <seg>176 | 第7章：状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>177</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T151128Z" creationid="esouser" creationdate="20190603T151128Z">
         <seg>177</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>178 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051824Z" creationid="xccui" creationdate="20190707T051824Z">
+        <seg>178 | 第7章：状态化算子和应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,10 +4054,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>180 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051831Z" creationid="xccui" creationdate="20190707T051831Z">
+        <seg>180 | 第7章：状态化算子和应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>182</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040043Z" creationid="xccui" creationdate="20190418T040043Z">
         <seg>182</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>182 | Chapter 7: Stateful Operators and Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051841Z" creationid="xccui" creationdate="20190707T051841Z">
+        <seg>182 | 第7章：状态化算子和应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -10337,8 +10417,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 7 explains how to implement stateful functions and discusses everything around this topic, such as the performance, robustness, and evolution of stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062553Z" creationid="esouser" creationdate="20190603T162033Z">
-        <seg>第7章介绍如何实现有状态函数以及一些与之相关的问题，例如性能、健壮性、状态函数演变等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051954Z" creationid="esouser" creationdate="20190603T162033Z">
+        <seg>第7章介绍如何实现状态化函数以及一些与之相关的问题，例如性能、健壮性、状态函数演变等。</seg>
       </tuv>
     </tu>
     <tu>
