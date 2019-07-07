@@ -20737,8 +20737,8 @@
       <tuv lang="EN-US">
         <seg>In “Checkpoints, Savepoints, and State Recovery”, we explained Flink’s mechanism to create consistent checkpoints of a stateful application, a snapshot of the state of all built-in and user-defined stateful functions at a point in time when all operators pro‐ cessed all events up to a specific position in the application’s input streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204418Z" creationid="xccui" creationdate="20190702T204418Z">
-        <seg>在"检查点、保存点即状态恢复"一节，我们解释了Flink为状态化应用创建一致性检查点的机制——在所有算子都处理到应用输入流的某一特定位置时，为全部内置或用户定义的有状态函数基于该时间点创建一个状态快照。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052137Z" creationid="xccui" creationdate="20190702T204418Z">
+        <seg>在"检查点、保存点即状态恢复"一节，我们解释了Flink为状态化应用创建一致性检查点的机制——在所有算子都处理到应用输入流的某一特定位置时，为全部内置或用户定义的状态化函数基于该时间点创建一个状态快照。</seg>
       </tuv>
     </tu>
     <tu>
