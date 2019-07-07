@@ -32826,8 +32826,8 @@
       <tuv lang="EN-US">
         <seg>This problem does not only exist for custom stateful functions but also for some of the built-in operators of the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183059Z" creationid="xccui" creationdate="20190704T183059Z">
-        <seg>该问题不但存在于自定义的有状态函数中，而且同样会影响DataStream API的内置算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052155Z" creationid="xccui" creationdate="20190704T183059Z">
+        <seg>该问题不但存在于自定义的状态化函数中，而且同样会影响DataStream API的内置算子。</seg>
       </tuv>
     </tu>
     <tu>
