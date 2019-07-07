@@ -27944,6 +27944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The JobID can be obtained via the REST API, the Web UI, or the log files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034916Z" creationid="xccui" creationdate="20190707T034916Z">
+        <seg>其中的JobID可以通过REST API、Web UI或者日志文件得到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The JobManager can then assign tasks to the slots to execute them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061320Z" creationid="xccui" creationdate="20190606T142633Z">
@@ -29544,6 +29552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The getKvState() method returns a CompletableFuture[S] where S is the type of the state (e.g., ValueState[_] or MapState[_, _]).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035005Z" creationid="xccui" creationdate="20190707T035005Z">
+        <seg>getKvState()方法返回一个CompletableFuture[S]，其中S是状态类型（例如ValueState[_]或MapState[_, _]）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The getter and setter functions must follow the default naming scheme, which is Y getX() and setX(Y x) for a field x of type Y.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044510Z" creationid="xccui" creationdate="20190617T044510Z">
@@ -29986,8 +30002,8 @@
       <tuv lang="EN-US">
         <seg>The method takes several parameters, such as the JobID of the running application, the state identifier, the key for which the state should be</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034510Z" creationid="xccui" creationdate="20190707T034116Z">
-        <seg>该方法需要接收几个参数，它们包括：当前运行应用的JobID，状态标识符，所需状态的键值，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034827Z" creationid="xccui" creationdate="20190707T034116Z">
+        <seg>该方法需要接收几个参数，例如：当前运行应用的JobID，状态标识符，所需状态的键值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -40285,6 +40301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050632Z" creationid="xccui" creationdate="20190618T050632Z">
         <seg>persons.keyBy("birthday._1") // 以嵌套元组的字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ple asynchronous queries and wait for their results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035213Z" creationid="xccui" creationdate="20190707T035213Z">
+        <seg>因此，客户端可以同时发出多个异步请求并等待其返回结果。</seg>
       </tuv>
     </tu>
     <tu>
