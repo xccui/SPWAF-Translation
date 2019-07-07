@@ -25008,6 +25008,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queryable State | 177</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052633Z" creationid="xccui" creationdate="20190707T052633Z">
+        <seg>可查询式状态 | 177</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Queryable State | 181</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052640Z" creationid="xccui" creationdate="20190707T052640Z">
+        <seg>可查询式状态 | 181</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Queryable state does not address all use cases that require an external datastore.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T164638Z" creationid="xccui" creationdate="20190705T163738Z">
