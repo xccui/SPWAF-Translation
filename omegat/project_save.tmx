@@ -37769,6 +37769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>console dashboard that queries the queryable state of the application shown in the previous section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035706Z" creationid="xccui" creationdate="20190707T035706Z">
+        <seg>示例7-16展示了一个简单的控制台仪表盘，它会对上一节中应用的可查询式状态进行查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>constantly produced output using the tail command as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
