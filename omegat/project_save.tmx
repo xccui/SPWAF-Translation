@@ -2582,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// print result</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041330Z" creationid="xccui" creationdate="20190707T041330Z">
+        <seg>// 打印结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// print result stream to standard out</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042754Z" creationid="xccui" creationdate="20190612T042754Z">
@@ -3186,6 +3194,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041934Z" creationid="xccui" creationdate="20190612T041934Z">
         <seg>// 在应用中使用事件时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// wait for results</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041318Z" creationid="xccui" creationdate="20190707T041318Z">
+        <seg>// 等待结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// wait to send out next queries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041551Z" creationid="xccui" creationdate="20190707T041426Z">
+        <seg>// 等待发送下一组查询</seg>
       </tuv>
     </tu>
     <tu>
@@ -32864,6 +32888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thread.sleep(refreshInterval)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041428Z" creationid="xccui" creationdate="20190707T041428Z">
+        <seg>Thread.sleep(refreshInterval)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threads are more lightweight than separate processes and have lower communication costs but do not strictly isolate tasks from each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T063219Z" creationid="xccui" creationdate="20190424T063109Z">
@@ -38561,6 +38593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>for (i &lt;- 0 until numSensors) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041308Z" creationid="xccui" creationdate="20190707T041308Z">
+        <seg>for (i &lt;- 0 until numSensors) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>for ascending timestamps:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051915Z" creationid="xccui" creationdate="20190620T051915Z">
@@ -38637,6 +38677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211002Z" creationid="xccui" creationdate="20190623T211002Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>futures(i) = queryState("sensor_" + (i + 1), client)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041311Z" creationid="xccui" creationdate="20190707T041311Z">
+        <seg>futures(i) = queryState("sensor_" + (i + 1), client)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40905,6 +40953,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>results(i) = futures(i).get().value()._2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041321Z" creationid="xccui" creationdate="20190707T041321Z">
+        <seg>results(i) = futures(i).get().value()._2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rich function starts with Rich followed by the transformation name—RichMapFunc tion, RichFlatMapFunction, and so on.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060729Z" creationid="xccui" creationdate="20190618T060721Z">
@@ -42317,6 +42373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155125Z" creationid="xingcan" creationdate="20190628T155125Z">
         <seg>val lateStream: DataStream[SensorReading] = countPer10Secs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val line = results.map(t =&gt; f"$t%1.3f").mkString("\t| ") println(line)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041332Z" creationid="xccui" creationdate="20190707T041332Z">
+        <seg>val line = results.map(t =&gt; f"$t%1.3f").mkString("\t| ") println(line)</seg>
       </tuv>
     </tu>
     <tu>
