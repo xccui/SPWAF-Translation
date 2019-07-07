@@ -10191,6 +10191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAPTER 8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053612Z" creationid="xccui" creationdate="20190707T053612Z">
+        <seg>第8章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTINUE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184358Z" creationid="xccui" creationdate="20190626T184358Z">
@@ -10839,6 +10847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, today’s data infrastructures often consist of many different storage systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T055926Z" creationid="xccui" creationdate="20190707T055926Z">
+        <seg>因此，如今的数据基础设施通常都由很多不同的存储系统组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, you should either ensure the value of the broadcast state does not depend on the order in which the broadcasted mes‐ sages are received or ensure the parallelism of the broadcasting operator is set to 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055655Z" creationid="xccui" creationdate="20190702T055655Z">
@@ -11323,6 +11339,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T035717Z" creationid="xccui" creationdate="20190605T051850Z">
         <seg>在该架构中，到来的数据会同时发往流处理引擎和写入批量存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data can be stored in many different systems, such as filesystems, object stores, rela‐ tional database systems, key-value stores, search indexes, event logs, message queues, and so on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053736Z" creationid="xccui" creationdate="20190707T053736Z">
+        <seg>数据可以存储在很多不同的系统中，例如：文件系统，对象存储，关系数据库系统，键值存储，搜索索引，事件日志以及消息队列等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12131,6 +12155,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190308T073303Z" creationid="xccui" creationdate="20190308T073224Z">
         <seg>每个应用都可以是状态化的，只需要管理自身状态而无须访问外部数据存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each class of systems has been designed for specific access patterns and excels at serving a certain purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053856Z" creationid="xccui" creationdate="20190707T053856Z">
+        <seg>每一类系统都是针对某个特定的访问模式而设计的，它们在服务方面各有所长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25096,6 +25128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reading from and Writing to External</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053617Z" creationid="xccui" creationdate="20190707T053617Z">
+        <seg>读写外部系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reading from and Writing to External Systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025053Z" creationid="xccui" creationdate="20190225T025053Z">
@@ -27548,6 +27588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025523Z" creationid="xccui" creationdate="20190225T025523Z">
         <seg>系统配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053620Z" creationid="xccui" creationdate="20190707T053620Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
