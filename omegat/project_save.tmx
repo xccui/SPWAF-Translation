@@ -23513,8 +23513,8 @@
       <tuv lang="EN-US">
         <seg>Once you obtain a state client, you can query the state of an application by calling the getKvState() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T033408Z" creationid="xccui" creationdate="20190707T033408Z">
-        <seg>一旦你得到一个状态客户端对象，就可以调用它的getKvState()方法来查询应用的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034126Z" creationid="xccui" creationdate="20190707T033408Z">
+        <seg>在你得到一个状态客户端对象之后，就可以调用它的getKvState()方法来查询应用的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29986,8 +29986,8 @@
       <tuv lang="EN-US">
         <seg>The method takes several parameters, such as the JobID of the running application, the state identifier, the key for which the state should be</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034116Z" creationid="xccui" creationdate="20190707T034116Z">
-        <seg>  The method takes several parameters, such as the JobID of the running application, the state identifier, the key for which the state should be</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034325Z" creationid="xccui" creationdate="20190707T034116Z">
+        <seg>该方法需要接收几个参数，例如：当前运行应用的JobID，状态标识符，所需状态的键值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38357,6 +38357,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234823Z" creationid="xccui" creationdate="20190605T234823Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fetched, the TypeInformation for the key, and the StateDescriptor of the queried state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034441Z" creationid="xccui" creationdate="20190707T034441Z">
+        <seg>键值的TypeInformation以及可查询式状态的StateDescriptor。</seg>
       </tuv>
     </tu>
     <tu>
