@@ -19423,6 +19423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to run the example, you have to start the streaming application with the queryable state first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045429Z" creationid="xccui" creationdate="20190707T045429Z">
+        <seg>为了运行这个示例，你需要先将配置了可查询式状态的应用启动起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to satisfy the requirements for task chaining, two or more operators must be configured with the same parallelism and be connected by local forward channels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152052Z" creationid="esouser" creationdate="20190514T152010Z">
