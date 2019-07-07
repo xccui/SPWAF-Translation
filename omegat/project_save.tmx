@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(for (i &lt;- 0 until numSensors) yield "sensor_" + (i + 1))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040221Z" creationid="xccui" creationdate="20190707T040221Z">
+        <seg>(for (i &lt;- 0 until numSensors) yield "sensor_" + (i + 1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(more on this in “Checkpoints, Savepoints, and State Recovery” on page 58), RocksDBStateBackend is a good choice for applications with very large state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T024258Z" creationid="xccui" creationdate="20190704T024258Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062222Z" creationid="xccui" creationdate="20190706T062222Z">
         <seg>.max(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.mkString("\t| ") println(header)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040225Z" creationid="xccui" creationdate="20190707T040225Z">
+        <seg>.mkString("\t| ") println(header)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// can be looked up in logs of running job or the web UI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040028Z" creationid="xccui" creationdate="20190707T040028Z">
+        <seg>// 可以通过运行作业的日志或Web UI获取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// check if temperature is high</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162300Z" creationid="xccui" creationdate="20190702T162300Z">
@@ -1746,6 +1770,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042639Z" creationid="xccui" creationdate="20190702T042607Z">
         <seg>// 为指定传感器配置新的阈值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// configure client with host and port of queryable state proxy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040138Z" creationid="xccui" creationdate="20190707T040138Z">
+        <seg>// 利用可查询式状态代理的主机名和端口来配置客户端</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2318,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// how many sensors to query</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040040Z" creationid="xccui" creationdate="20190707T040040Z">
+        <seg>// 需要查询的传感器数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// how often to query the state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040053Z" creationid="xccui" creationdate="20190707T040053Z">
+        <seg>// 状态的查询频率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// in a queryable state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062257Z" creationid="xccui" creationdate="20190706T062257Z">
@@ -2406,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// loop forever</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040238Z" creationid="xccui" creationdate="20190707T040238Z">
+        <seg>// 死循环</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// main() defines and executes the DataStream program</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041854Z" creationid="xccui" creationdate="20190612T041854Z">
@@ -2514,6 +2570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045623Z" creationid="xccui" creationdate="20190612T045623Z">
         <seg>// JobManager的端口号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// print header line of dashboard table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040215Z" creationid="xccui" creationdate="20190707T040215Z">
+        <seg>// 打印仪表盘展示表的标题行</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040744Z" creationid="xccui" creationdate="20190615T040744Z">
         <seg>// 第二条流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// send out async queries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041304Z" creationid="xccui" creationdate="20190707T041304Z">
+        <seg>// 发出异步查询</seg>
       </tuv>
     </tu>
     <tu>
@@ -10403,6 +10475,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052507Z" creationid="xccui" creationdate="20190618T052507Z">
         <seg>和使用字段位置以及字段表达式相比，KeySelector函数的一大好处是它返回的键值是强类型的，因为KeySelector类需要提供泛型参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CompletableFuture[ValueState[(String, Double)]]](numSensors) val results = new Array[Double](numSensors)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040147Z" creationid="xccui" creationdate="20190707T040147Z">
+        <seg>CompletableFuture[ValueState[(String, Double)]]](numSensors) val results = new Array[Double](numSensors)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37993,6 +38073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>def main(args: Array[String]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040101Z" creationid="xccui" creationdate="20190707T040101Z">
+        <seg>def main(args: Array[String]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>define their own.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070302Z" creationid="xccui" creationdate="20190615T070302Z">
@@ -41761,6 +41849,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val client = new QueryableStateClient(proxyHost, proxyPort)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040140Z" creationid="xccui" creationdate="20190707T040140Z">
+        <seg>val client = new QueryableStateClient(proxyHost, proxyPort)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val client: QueryableStateClient =</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125212Z" creationid="xccui" creationdate="20190706T125212Z">
@@ -41977,6 +42073,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val futures = new Array[</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040144Z" creationid="xccui" creationdate="20190707T040144Z">
+        <seg>val futures = new Array[</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val header =</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040218Z" creationid="xccui" creationdate="20190707T040218Z">
+        <seg>val header =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val input : DataStream[(Int, Int)] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052152Z" creationid="xccui" creationdate="20190618T052152Z">
@@ -42029,6 +42141,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034323Z" creationid="xccui" creationdate="20190629T034323Z">
         <seg>val isUpdate = ctx.windowState.getState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val jobId = "d2447b1a5e0d952c372064c886d2220a"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040030Z" creationid="xccui" creationdate="20190707T040030Z">
+        <seg>val jobId = "d2447b1a5e0d952c372064c886d2220a"</seg>
       </tuv>
     </tu>
     <tu>
@@ -42257,6 +42377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val numSensors = 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040043Z" creationid="xccui" creationdate="20190707T040043Z">
+        <seg>val numSensors = 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val numbers: DataStream[(Int)] = ... numbers.partitionCustom(myPartitioner, 0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050629Z" creationid="xccui" creationdate="20190616T050629Z">
@@ -42381,6 +42509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053208Z" creationid="xccui" creationdate="20190613T053208Z">
         <seg>val readings: DataStream[SensorReadings] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val refreshInterval = 10000</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040055Z" creationid="xccui" creationdate="20190707T040055Z">
+        <seg>val refreshInterval = 10000</seg>
       </tuv>
     </tu>
     <tu>
@@ -42901,6 +43037,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040424Z" creationid="xccui" creationdate="20190611T040424Z">
         <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>while (true) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040241Z" creationid="xccui" creationdate="20190707T040241Z">
+        <seg>while (true) {</seg>
       </tuv>
     </tu>
     <tu>
