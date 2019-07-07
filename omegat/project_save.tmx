@@ -26338,8 +26338,8 @@
       <tuv lang="EN-US">
         <seg>Since multiple applications might work on the same data representation or share the same infrastructure, changing the schema of a table or scaling a database system requires careful planning and a lot of effort.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053227Z" creationid="esouser" creationdate="20190603T200017Z">
-        <seg>一旦多个应用基于相同的数据表示或共享架构，那么更改表模式或对数据库系统扩（缩）容必将劳心费力。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053354Z" creationid="esouser" creationdate="20190603T200017Z">
+        <seg>一旦多个应用基于相同的数据表示或共享架构，那么更改表模式或对数据库系统进行扩缩容必将劳心费力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32314,8 +32314,8 @@
       <tuv lang="EN-US">
         <seg>This application design can cause problems when applications need to evolve or scale.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052854Z" creationid="esouser" creationdate="20190603T195919Z">
-        <seg>该设计在应用需要更新或扩（缩）容时，容易导致问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053337Z" creationid="esouser" creationdate="20190603T195919Z">
+        <seg>该设计在应用需要更新或扩缩容时，容易导致问题。</seg>
       </tuv>
     </tu>
     <tu>
