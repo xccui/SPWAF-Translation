@@ -12375,6 +12375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensuring the Maintainability of Stateful Applications | 167</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052531Z" creationid="xccui" creationdate="20190707T052531Z">
+        <seg>确保状态化应用的可维护性 | 167</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Essentially, it is the time interval between receiving an event and seeing the effect of processing this event in the output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050738Z" creationid="xccui" creationdate="20190401T151641Z">
@@ -18467,6 +18475,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052507Z" creationid="xccui" creationdate="20190707T052507Z">
         <seg>实现状态化函数 | 155</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementing Stateful Functions | 163</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052519Z" creationid="xccui" creationdate="20190707T052519Z">
+        <seg>实现状态化函数 | 163</seg>
       </tuv>
     </tu>
     <tu>
