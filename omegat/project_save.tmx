@@ -13617,8 +13617,8 @@
       <tuv lang="EN-US">
         <seg>Figure 1-2 depicts a microservices architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T201038Z" creationid="esouser" creationdate="20190603T201038Z">
-        <seg>图1-2描绘了微服务的架构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T063051Z" creationid="esouser" creationdate="20190603T201038Z">
+        <seg>图1-2展示了微服务的架构。</seg>
       </tuv>
     </tu>
     <tu>
