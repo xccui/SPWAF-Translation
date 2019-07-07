@@ -27938,8 +27938,8 @@
       <tuv lang="EN-US">
         <seg>The CheckpointedFunction interface is the lowest-level interface to specify stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055816Z" creationid="xccui" creationdate="20190702T055816Z">
-        <seg>CheckpointedFunction是用于指定有状态函数的最低级别接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052126Z" creationid="xccui" creationdate="20190702T055816Z">
+        <seg>CheckpointedFunction是用于指定状态化函数的最低级别接口。</seg>
       </tuv>
     </tu>
     <tu>
