@@ -14625,8 +14625,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we briefly discuss the evolution of open source stream processors and help you run a streaming application on a local Flink instance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063726Z" creationid="esouser" creationdate="20190603T163101Z">
-        <seg>最后，我们将简要回顾开源流处理引擎的衍变过程，并帮助你在本地Flink实例上运行一个流式应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T064839Z" creationid="esouser" creationdate="20190603T163101Z">
+        <seg>最后，我们将简要回顾开源流处理引擎的演变过程，并帮助你在本地Flink实例上运行一个流式应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28314,16 +28314,16 @@
       <tuv lang="EN-US">
         <seg>The Evolution of Open Source Stream Processing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T014710Z" creationid="xccui" creationdate="20190225T014710Z">
-        <seg>开源流处理的衍变</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T064839Z" creationid="xccui" creationdate="20190225T014710Z">
+        <seg>开源流处理的演变</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Evolution of Open Source Stream Processing | 11</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130824Z" creationid="xccui" creationdate="20190605T130824Z">
-        <seg>开源流处理的衍变 | 11</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T064839Z" creationid="xccui" creationdate="20190605T130824Z">
+        <seg>开源流处理的演变 | 11</seg>
       </tuv>
     </tu>
     <tu>
