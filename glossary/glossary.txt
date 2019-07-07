@@ -22,7 +22,7 @@ State Backend	状态后端
 TypeInformation	TypeInformation
 Time Characteristic	时间特性
 Late Data	迟到数据
-Stateful Function	有状态函数
+Stateful Function	状态化函数
 Stateful Application	状态化应用
 Robustness	鲁棒性
 Connector	连接器
