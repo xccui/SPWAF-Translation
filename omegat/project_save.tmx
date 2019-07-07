@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"maxTemperature", key, Types.STRING,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041618Z" creationid="xccui" creationdate="20190707T041618Z">
+        <seg>"maxTemperature", key, Types.STRING,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"path/to/jarFile.jar") // JAR file to ship to the JobManager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045648Z" creationid="xccui" creationdate="20190612T045648Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052356Z" creationid="xccui" creationdate="20190701T052356Z">
         <seg>.getIndexOfThisSubtask</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.getKvState[String, ValueState[(String, Double)], (String, Double)]( JobID.fromHexString(jobId),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041615Z" creationid="xccui" creationdate="20190707T041615Z">
+        <seg>.getKvState[String, ValueState[(String, Double)], (String, Double)]( JobID.fromHexString(jobId),</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,6 +5626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035714Z" creationid="xccui" creationdate="20190418T035714Z">
         <seg>99</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>: CompletableFuture[ValueState[(String, Double)]] = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041607Z" creationid="xccui" creationdate="20190707T041607Z">
+        <seg>: CompletableFuture[ValueState[(String, Double)]] = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -37889,6 +37913,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>client</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041611Z" creationid="xccui" creationdate="20190707T041611Z">
+        <seg>client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>client.shutdownAndWait()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041554Z" creationid="xccui" creationdate="20190707T041554Z">
+        <seg>client.shutdownAndWait()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>client: QueryableStateClient)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041604Z" creationid="xccui" creationdate="20190707T041604Z">
+        <seg>client: QueryableStateClient)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>collects all events can become significantly larger than the state of a window whose</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034336Z" creationid="xccui" creationdate="20190625T034336Z">
@@ -38109,6 +38157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040101Z" creationid="xccui" creationdate="20190707T040101Z">
         <seg>def main(args: Array[String]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>def queryState( key: String,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041600Z" creationid="xccui" creationdate="20190707T041600Z">
+        <seg>def queryState( key: String,</seg>
       </tuv>
     </tu>
     <tu>
@@ -39725,6 +39781,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044232Z" creationid="xccui" creationdate="20190626T044232Z">
         <seg>new TimeWindow.Serializer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new ValueStateDescriptor[(String, Double)]( "", // state name not relevant here Types.TUPLE[(String, Double)]))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041655Z" creationid="xccui" creationdate="20190707T041621Z">
+        <seg>new ValueStateDescriptor[(String, Double)]( "", // 此处和状态名称无关 Types.TUPLE[(String, Double)]))</seg>
       </tuv>
     </tu>
     <tu>
