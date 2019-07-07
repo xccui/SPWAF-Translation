@@ -23599,6 +23599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once it is running, look for the JobID in the log file or the web UI; set the JobID in the code of the dashboard and run it as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045747Z" creationid="xccui" creationdate="20190707T045747Z">
+        <seg>之后，你需要从日志文件或Web UI中找到JobID，将其设置到代码中并运行仪表盘应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once it received enough TaskManager slots, it distributes the tasks of the ExecutionGraph to the TaskManagers that execute them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T061952Z" creationid="xccui" creationdate="20190418T035042Z">
