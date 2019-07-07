@@ -28418,8 +28418,8 @@
       <tuv lang="EN-US">
         <seg>The JobManager controls the execution of a streaming application and keeps metadata  about its execution, such as pointers to completed checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072616Z" creationid="xccui" creationdate="20190606T145722Z">
-        <seg>它用于控制流式应用执行以及保存该过程中的元数据（如已完成检查点的指针？？）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T065522Z" creationid="xccui" creationdate="20190606T145722Z">
+        <seg>它用于控制流式应用执行以及保存该过程中的元数据（如已完成检查点的存储路径）。</seg>
       </tuv>
     </tu>
     <tu>
