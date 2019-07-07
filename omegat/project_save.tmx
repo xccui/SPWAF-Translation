@@ -16577,8 +16577,8 @@
       <tuv lang="EN-US">
         <seg>Furthermore, Flink can reset the state of an application to a previous savepoint, making it possible to evolve or rescale an application without losing its state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T053639Z" creationid="xccui" creationdate="20190604T052208Z">
-        <seg>此外，Flink可以将应用状态重置到之前的某个检查点，从而允许应用在不丢失状态的前提下更新或扩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053249Z" creationid="xccui" creationdate="20190604T052208Z">
+        <seg>此外，Flink可以将应用状态重置到之前的某个检查点，从而允许应用在不丢失状态的前提下更新或扩缩容。</seg>
       </tuv>
     </tu>
     <tu>
