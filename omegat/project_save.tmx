@@ -21863,6 +21863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just about every nontrivial streaming application is stateful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T050221Z" creationid="xccui" creationdate="20190707T050221Z">
+        <seg>几乎所有复杂一点的流式应用都是状态化的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just like many DataStream applications, the source, sink, and opera‐ tors of the program are assembled in the main() method of the AverageSensorRead ings class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T042849Z" creationid="xccui" creationdate="20190611T042751Z">
@@ -23601,8 +23609,8 @@
       <tuv lang="EN-US">
         <seg>Once it is running, look for the JobID in the log file or the web UI; set the JobID in the code of the dashboard and run it as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045846Z" creationid="xccui" creationdate="20190707T045747Z">
-        <seg>随后你需要从日志文件或Web UI中找到JobID，将其设置到代码中并运行仪表盘应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045954Z" creationid="xccui" creationdate="20190707T045747Z">
+        <seg>随后你需要从日志文件或Web UI中找到JobID，将其设置到代码中，并运行仪表盘应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28980,6 +28988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061011Z" creationid="xccui" creationdate="20190613T055004Z">
         <seg>对应的FlatMapFunction定义了flatMap()方法，可以通过向Collector对象中传递数据的方式返回零个、一个或多个事件作为结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dashboard will</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045936Z" creationid="xccui" creationdate="20190707T045936Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
