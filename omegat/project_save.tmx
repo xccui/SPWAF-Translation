@@ -10105,8 +10105,8 @@
       <tuv lang="EN-US">
         <seg>By providing a list of state objects, functions with operator state can implement this logic using the snapshotState() and restoreState() methods.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060350Z" creationid="xccui" creationdate="20190701T060050Z">
-        <seg>而通过提供状态对象列表，有状态函数就能使用snapshotState()和restoreState()方法来实现自动化逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052117Z" creationid="xccui" creationdate="20190701T060050Z">
+        <seg>而通过提供状态对象列表，状态化函数就能使用snapshotState()和restoreState()方法来实现自动化逻辑。</seg>
       </tuv>
     </tu>
     <tu>
