@@ -23601,8 +23601,8 @@
       <tuv lang="EN-US">
         <seg>Once it is running, look for the JobID in the log file or the web UI; set the JobID in the code of the dashboard and run it as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045747Z" creationid="xccui" creationdate="20190707T045747Z">
-        <seg>之后，你需要从日志文件或Web UI中找到JobID，将其设置到代码中并运行仪表盘应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045846Z" creationid="xccui" creationdate="20190707T045747Z">
+        <seg>随后你需要从日志文件或Web UI中找到JobID，将其设置到代码中并运行仪表盘应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41509,6 +41509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051537Z" creationid="xccui" creationdate="20190614T051537Z">
         <seg>我们会在102页"定义键值和引用字段中"介绍它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>then start querying the state of the running streaming application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045934Z" creationid="xccui" creationdate="20190707T045934Z">
+        <seg>这时候，仪表盘就会开始从运行的流式应用中查询状态。</seg>
       </tuv>
     </tu>
     <tu>
