@@ -24872,6 +24872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queryable state is an easy-to-use feature and can save you the effort of setting up and maintaining a database or key-value store to expose the results of a streaming application to external applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051717Z" creationid="xccui" creationdate="20190707T051717Z">
+        <seg>作为一种方便使用的功能，可查询式状态支持将流式应用的结果暴露给外部应用，从而为你节省设置和维护数据库或键值存储的工作量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Querying State from External Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025041Z" creationid="xccui" creationdate="20190225T025041Z">
@@ -28970,8 +28978,8 @@
       <tuv lang="EN-US">
         <seg>The combination of time-based computations as discussed in Chapter 6 and scalable state management empowers developers to realize sophisticated streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051354Z" creationid="xccui" creationdate="20190707T051354Z">
-        <seg>开发人员利用我们在第6章介绍的基于时间的计算以及可伸缩的状态管理，可以实现复杂的流式应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051518Z" creationid="xccui" creationdate="20190707T051354Z">
+        <seg>开发人员利用我们在第6章介绍的基于时间的计算以及可伸缩的状态管理，能够实现复杂的流式应用。</seg>
       </tuv>
     </tu>
     <tu>
