@@ -23511,6 +23511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you obtain a state client, you can query the state of an application by calling the getKvState() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T033408Z" creationid="xccui" creationdate="20190707T033408Z">
+        <seg>一旦你得到一个状态客户端对象，就可以调用它的getKvState()方法来查询应用的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once your coffee is ready, the barista calls your name and you can pick up your coffee from the bench.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T153941Z" creationid="xccui" creationdate="20190401T152947Z">
@@ -29972,6 +29980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T051344Z" creationid="xccui" creationdate="20190701T051344Z">
         <seg>该方法接收一个状态对象列表，并需要基于这些对象恢复算子状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method takes several parameters, such as the JobID of the running application, the state identifier, the key for which the state should be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034116Z" creationid="xccui" creationdate="20190707T034116Z">
+        <seg>  The method takes several parameters, such as the JobID of the running application, the state identifier, the key for which the state should be</seg>
       </tuv>
     </tu>
     <tu>
