@@ -28968,6 +28968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The combination of time-based computations as discussed in Chapter 6 and scalable state management empowers developers to realize sophisticated streaming applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051354Z" creationid="xccui" creationdate="20190707T051354Z">
+        <seg>开发人员利用我们在第6章介绍的基于时间的计算以及可伸缩的状态管理，可以实现复杂的流式应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The completed checkpoint can be used to recover the appli‐ cation from a failure as described before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T194512Z" creationid="xccui" creationdate="20190609T194447Z">
@@ -36219,8 +36227,8 @@
       <tuv lang="EN-US">
         <seg>While developers have lots of flexibility to interact with state, Flink’s runtime manages tera‐ bytes of state and ensures exactly-once semantics in case of failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051134Z" creationid="xccui" creationdate="20190707T051134Z">
-        <seg>在保证开发人员和状态之间大量灵活交互的基础上，Flink的运行时能够管理起TB级别的状态且在故障时可以保证精确一次语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051456Z" creationid="xccui" creationdate="20190707T051134Z">
+        <seg>在为开发人员和状态之间提供大量灵活交互的基础上，Flink的运行时可以管理起TB级别的状态且在故障时保证精确一次语义。</seg>
       </tuv>
     </tu>
     <tu>
