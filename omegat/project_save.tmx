@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// assume local setup and TM runs on same machine as client</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035915Z" creationid="xccui" creationdate="20190707T035915Z">
+        <seg>// 假设使用本地模式，TM和客户端运行在相同机器上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// both fields are public public String name; public int age;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044828Z" creationid="xccui" creationdate="20190617T044828Z">
@@ -2346,6 +2354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163216Z" creationid="xccui" creationdate="20190702T163216Z">
         <seg>// 初始化算子状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// jobId of running QueryableStateJob</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035953Z" creationid="xccui" creationdate="20190707T035953Z">
+        <seg>// 运行QueryableStateJob的jobId</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +6746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072253Z" creationid="xccui" creationdate="20190607T033031Z">
         <seg>当算子两个输入流的水位线差距很大时，也会产生类似影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple dashboard application that queries the state of a Flink application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035807Z" creationid="xccui" creationdate="20190707T035807Z">
+        <seg>一个简单的Flink应用状态查询仪表盘</seg>
       </tuv>
     </tu>
     <tu>
@@ -13051,6 +13075,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062059Z" creationid="xccui" creationdate="20190706T062059Z">
         <seg>示例7-15，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-16 shows a simple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035708Z" creationid="xccui" creationdate="20190707T035708Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 7-16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035729Z" creationid="xccui" creationdate="20190707T035729Z">
+        <seg>示例7-16，</seg>
       </tuv>
     </tu>
     <tu>
@@ -39665,6 +39705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>object TemperatureDashboard {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035809Z" creationid="xccui" creationdate="20190707T035809Z">
+        <seg>object TemperatureDashboard {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>object myPartitioner extends Partitioner[Int] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050633Z" creationid="xccui" creationdate="20190616T050633Z">
@@ -42277,6 +42325,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071431Z" creationid="xccui" creationdate="20190621T071431Z">
         <seg>val prevTemp = lastTemp.value()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val proxyHost = "127.0.0.1"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035917Z" creationid="xccui" creationdate="20190707T035917Z">
+        <seg>val proxyHost = "127.0.0.1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val proxyPort = 9069</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035921Z" creationid="xccui" creationdate="20190707T035921Z">
+        <seg>val proxyPort = 9069</seg>
       </tuv>
     </tu>
     <tu>
