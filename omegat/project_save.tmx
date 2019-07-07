@@ -16727,6 +16727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the client can send out multi‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035215Z" creationid="xccui" creationdate="20190707T035215Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the elements of both input streams can be jointly processed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052207Z" creationid="xccui" creationdate="20190615T052207Z">
