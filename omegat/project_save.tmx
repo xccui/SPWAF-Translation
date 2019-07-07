@@ -26978,8 +26978,8 @@
       <tuv lang="EN-US">
         <seg>Stateful operators and user functions are common building blocks of stream process‐ ing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T030655Z" creationid="xccui" creationdate="20190629T042647Z">
-        <seg>状态化算子及有状态的用户函数都是流处理应用中的常见组成部分。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052039Z" creationid="xccui" creationdate="20190629T042647Z">
+        <seg>状态化算子及用户函数都是流处理应用中的常见组成部分。</seg>
       </tuv>
     </tu>
     <tu>
