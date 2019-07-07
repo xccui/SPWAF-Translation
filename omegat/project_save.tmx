@@ -20489,8 +20489,8 @@
       <tuv lang="EN-US">
         <seg>In this scenario, a stateful function receives records with keys that are only active for a cer‐ tain period of time and are never received after that.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141245Z" creationid="xccui" creationdate="20190704T141006Z">
-        <seg>在该场景下，有状态函数所接收记录的键值只有一段特定时间的活跃期，此后就再也不会收到。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052147Z" creationid="xccui" creationdate="20190704T141006Z">
+        <seg>在该场景下，状态化函数所接收记录的键值只有一段特定时间的活跃期，此后就再也不会收到。</seg>
       </tuv>
     </tu>
     <tu>
