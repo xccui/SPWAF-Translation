@@ -16391,6 +16391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, Kafka 0.10 added support for record timestamps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T203455Z" creationid="xccui" creationdate="20190708T203455Z">
+        <seg>例如，Kafka 0.10增加了对记录时间戳的支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, a time-window operator task attaches the end time of a window as the timestamp to all records emitted by the window computation before it emits the watermark with the timestamp that triggered the computation of the window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071238Z" creationid="xccui" creationdate="20190607T013520Z">
