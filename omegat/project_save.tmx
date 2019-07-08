@@ -36425,6 +36425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When it receives the notification that a check‐ point completed, it commits the transaction and materializes the written results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T162409Z" creationid="xccui" creationdate="20190708T162409Z">
+        <seg>直至收到检查点完成通知后，数据汇才会通过提交事务将结果物化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When iterating over the entry set of MapState, the seri‐ alized entries are prefetched from RocksDB and only deserialized when a key or value</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034033Z" creationid="xccui" creationdate="20190704T033458Z">
