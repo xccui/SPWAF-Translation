@@ -11361,8 +11361,8 @@
       <tuv lang="EN-US">
         <seg>Data can be stored in many different systems, such as filesystems, object stores, rela‐ tional database systems, key-value stores, search indexes, event logs, message queues, and so on.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053736Z" creationid="xccui" creationdate="20190707T053736Z">
-        <seg>数据可以存储在很多不同的系统中，例如：文件系统，对象存储，关系数据库系统，键值存储，搜索索引，事件日志以及消息队列等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T045627Z" creationid="xccui" creationdate="20190707T053736Z">
+        <seg>我们可以把数据存储在很多不同的系统中，例如：文件系统，对象存储，关系数据库系统，键值存储，搜索索引，事件日志以及消息队列等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16947,6 +16947,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T074242Z" creationid="xccui" creationdate="20190606T195220Z">
         <seg>因此有必要运行一些后备JobManager及TaskManager来接管故障进程的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, it is important for data processors like Flink to provide a well-equipped library of connectors to read data from and write data to external systems as well as an API to implement custom connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T050417Z" creationid="xccui" creationdate="20190708T050417Z">
+        <seg>因此对于Flink这样的数据处理引擎来说，重要的是能提供一套齐全的用于外部系统读写的连接器库，以及一组用于实现自定义连接器的API。</seg>
       </tuv>
     </tu>
     <tu>
