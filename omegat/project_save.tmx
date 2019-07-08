@@ -28928,6 +28928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Flink Kafka connector does not rely on Kafka’s own offset- tracking mechanism, which is based on so-called consumer groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T205408Z" creationid="xccui" creationdate="20190708T205408Z">
+        <seg>Flink Kafka连接器并不依赖于Kafka自身的偏移追踪机制，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Flink Kafka connector ingests event streams in parallel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204638Z" creationid="xccui" creationdate="20190708T204638Z">
