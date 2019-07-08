@@ -22489,8 +22489,8 @@
       <tuv lang="EN-US">
         <seg>Kafka organizes event streams as so-called topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201834Z" creationid="xccui" creationdate="20190708T201834Z">
-        <seg>Kafka以所谓主题（topic）的方式来组织事件流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202807Z" creationid="xccui" creationdate="20190708T201834Z">
+        <seg>Kafka将事件流组织为不同的主题（topic）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31250,8 +31250,8 @@
       <tuv lang="EN-US">
         <seg>The ordering guarantee is limited to a partition—Kafka does not provide ordering guarantees when reading from different partitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202655Z" creationid="xccui" creationdate="20190708T202655Z">
-        <seg>但这样的话就只能针对某个分区实现保序，即它不能够保证跨不同分区的事件顺序。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202818Z" creationid="xccui" creationdate="20190708T202655Z">
+        <seg>但这样的话就只能针对某个分区实现保序，即它不能够保证不同分区间的事件顺序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31532,6 +31532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T052548Z" creationid="xccui" creationdate="20190317T051706Z">
         <seg>数字化的迅猛发展和互联系统的出现使得我们可以实时获取更多数据并立即根据它们采取行动，例如：适应状况的变化或个性化用户体验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reading position in a Kafka partition is called an offset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202954Z" creationid="xccui" creationdate="20190708T202954Z">
+        <seg>Kafka中分区的读取位置称为偏移（offset）。</seg>
       </tuv>
     </tu>
     <tu>
