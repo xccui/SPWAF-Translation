@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(temporary inconsistencies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170207Z" creationid="xccui" creationdate="20190708T170207Z">
+        <seg>（故障恢复过程中的临时性不一致）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031643Z" creationid="xccui" creationdate="20190622T031643Z">
@@ -4906,6 +4914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043428Z" creationid="xccui" creationdate="20190611T043428Z">
         <seg>2&gt; SensorReading(sensor_31,1515014051000,23.924656183848732)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2PC sink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170233Z" creationid="xccui" creationdate="20190708T170233Z">
+        <seg>2PC数据汇</seg>
       </tuv>
     </tu>
     <tu>
@@ -13003,6 +13019,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T064800Z" creationid="xccui" creationdate="20190708T064800Z">
         <seg>精确一次的状态一致性是实现端到端精确一次一致的需求之一，二者并不一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exactly-once*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170130Z" creationid="xccui" creationdate="20190708T170130Z">
+        <seg>精确一次*</seg>
       </tuv>
     </tu>
     <tu>
@@ -35072,6 +35096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WAL sink         At-most-once</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170228Z" creationid="xccui" creationdate="20190708T170228Z">
+        <seg>WAL数据汇         至多一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait for all in-flight data to be completely processed, meaning all tasks have pro‐ cessed all their input data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223921Z" creationid="xccui" creationdate="20190608T223647Z">
@@ -39020,6 +39052,14 @@
         <seg>duces a new DataStream of the same type as the input DataStream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052158Z" creationid="xccui" creationdate="20190613T052158Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>during recovery)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170210Z" creationid="xccui" creationdate="20190708T170210Z">
         <seg></seg>
       </tuv>
     </tu>
