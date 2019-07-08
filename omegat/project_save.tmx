@@ -15863,6 +15863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each checkpoint, the sink starts a transaction and appends all received records to the transaction, writing them to the sink system without committing them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T162045Z" creationid="xccui" creationdate="20190708T162045Z">
+        <seg>每次生成检查点，数据汇都会开启一次事务并将全部收到的记录附加到该事务中，即将它们写入接收系统但先不提交。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each distinct value of the key attribute, Flink maintains one state instance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035553Z" creationid="xccui" creationdate="20190630T035553Z">
@@ -19337,8 +19345,8 @@
       <tuv lang="EN-US">
         <seg>In contrast, the 2PC sink requires a sink system that offers transactional support or exposes building blocks to emulate transactions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T161548Z" creationid="xccui" creationdate="20190708T161548Z">
-        <seg>和WAL数据汇相比，2PC数据汇</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T161842Z" creationid="xccui" creationdate="20190708T161548Z">
+        <seg>相反，2PC数据汇需要数据接收系统支持事物或提供可用来模拟事务的构件。</seg>
       </tuv>
     </tu>
     <tu>
