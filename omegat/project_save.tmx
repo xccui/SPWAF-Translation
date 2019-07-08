@@ -22985,8 +22985,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, a 2PC sink continuously writes records to the sink system compared to the spiky writing pattern of a WAL sink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165646Z" creationid="xccui" creationdate="20190708T165646Z">
-        <seg>此外，2PC数据汇可以持续平稳地将记录写入接收系统，而不会像WAL数据汇那样经历周期性的"波峰式"的写入。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165654Z" creationid="xccui" creationdate="20190708T165646Z">
+        <seg>此外，2PC数据汇可以持续平稳地将记录写入接收系统，而不会像WAL数据汇那样经历周期性的"波峰式"写入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27892,6 +27892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190004Z" creationid="xccui" creationdate="20190626T190004Z">
         <seg>T element, long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 8-1 shows the end-to-end consistency guarantees for different types of source and sink connectors that can be achieved in the best case; depending on the imple‐ mentation of the sink, the actual consistency might be worse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165942Z" creationid="xccui" creationdate="20190708T165942Z">
+        <seg>表8-1展示了不同类型的数据源和数据汇接收器在最好的情况下能够实现的端到端的一致性。根据数据汇的具体实现，实际的一致性可能无法达到最佳。</seg>
       </tuv>
     </tu>
     <tu>
