@@ -17511,6 +17511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, just being able to read or write data to external datastores is not sufficient for a stream processor that wants to provide meaningful consistency guarantees in the case of fail‐ ure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T050905Z" creationid="xccui" creationdate="20190708T050905Z">
+        <seg>然而，对于流处理引擎而言，仅能读写外部数据存储是不够的，因为它还希望能够在故障时提供重要的一致性保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, most real-world applications combine charac&lt;t0/&gt;‐&lt;t1/&gt; teristics of more than one class which again shows the flexibility of this application design pattern.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190308T072733Z" creationid="xccui" creationdate="20190305T160041Z">
