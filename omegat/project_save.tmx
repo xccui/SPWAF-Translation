@@ -23087,6 +23087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More‐ over, applications that read from the sink system might observe unexpected results during the time when an application recovers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T071536Z" creationid="xccui" creationdate="20190708T071536Z">
+        <seg>此外，从下游数据接收系统中读取数据的应用可能会在应用恢复期间观察到异常结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More‐ over, exactly-once state consistency and the ability to scale an application are funda‐ mental requirements for event-driven applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074758Z" creationid="xccui" creationdate="20190604T053625Z">
