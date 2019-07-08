@@ -26904,6 +26904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since release 1.0, the API has remained stable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204002Z" creationid="xccui" creationdate="20190708T204002Z">
+        <seg>自Release 1.0版本以来，它的API一直比较稳定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since savepoints are such a powerful feature, many users periodically create save‐ points to be able to go back in time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213645Z" creationid="xccui" creationdate="20190609T213645Z">
@@ -33850,8 +33858,8 @@
       <tuv lang="EN-US">
         <seg>Through Kafka 0.11, the API of the client library evolved and new features were added.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T203325Z" creationid="xccui" creationdate="20190708T203325Z">
-        <seg>从Kafka 0.11版本开始，其客户端库的API发生了一些改变且添加了部分新的功能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T203526Z" creationid="xccui" creationdate="20190708T203325Z">
+        <seg>从Kafka 0.11开始，其客户端库的API发生了一些改变且添加了部分新的功能。</seg>
       </tuv>
     </tu>
     <tu>
