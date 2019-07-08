@@ -29282,8 +29282,8 @@
       <tuv lang="EN-US">
         <seg>The WAL sink writes all result records into application state and emits them to the sink system once it receives the notification that a checkpoint was completed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074310Z" creationid="xccui" creationdate="20190708T074310Z">
-        <seg>WAL数据汇会将所有结果记录写入应用状态中，并在收到检查点完成通知后将它们发送到数据接收系统。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200950Z" creationid="xccui" creationdate="20190708T074310Z">
+        <seg>WAL数据汇会将所有结果记录写入应用状态中，并在收到检查点完成通知后将它们发送到数据汇系统。</seg>
       </tuv>
     </tu>
     <tu>
