@@ -30696,6 +30696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The mechanism relies on the ability of a sink to commit a transaction after recovering from a failure that was opened before a completed checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T163142Z" creationid="xccui" creationdate="20190708T163142Z">
+        <seg>该机制需要数据汇在故障恢复后能够提交在检查点完成前开启的事务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The metadata of the window typically contains information that can be used</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023219Z" creationid="xccui" creationdate="20190624T011756Z">
