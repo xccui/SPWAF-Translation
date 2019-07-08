@@ -10135,6 +10135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By only writing data once a checkpoint is completed, the transac‐ tional approach does not suffer from the replay inconsistency of the idempotent writes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T073433Z" creationid="xccui" creationdate="20190708T073402Z">
+        <seg>通过只在检查点完成后写入数据，这种事务性的方法虽然不会像幂等性写那样在重放过程中出现不一致的情况，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By processing several streams in parallel, you can lower the latency while processing more events at the same time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T212443Z" creationid="xccui" creationdate="20190402T212226Z">
@@ -17531,6 +17539,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022121Z" creationid="xccui" creationdate="20190704T022121Z">
         <seg>但它不会在创建检查点时将状态存到JobManager的易失内存中，而是会将它们写入远程持久化文件系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it adds latency because results only become visible when a check‐ point completes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T073500Z" creationid="xccui" creationdate="20190708T073500Z">
+        <seg>但它会增加一定延迟</seg>
       </tuv>
     </tu>
     <tu>
