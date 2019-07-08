@@ -9031,6 +9031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a consequence, processing systems like Flink need to maintain several dedicated connectors to be able to read events from and write events to the most commonly used message queues, event logs, filesystems, key- value stores, and database systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T194915Z" creationid="xccui" creationdate="20190708T194915Z">
+        <seg>因此，类似Flink这样的处理系统就需要维护很多专用的连接器，以便能够从最常用的消息队列、事件日志、文件系统、键值存储以及数据库系统中读写事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a con‐ sequence, an application with default operator identifiers is very limited in how it can be evolved without losing state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T030644Z" creationid="xccui" creationdate="20190610T025637Z">
