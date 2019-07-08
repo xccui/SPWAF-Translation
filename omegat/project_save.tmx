@@ -15471,6 +15471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides connectors for Apache Kafka, Kinesis, RabbitMQ, Apache Nifi, vari‐ ous filesystems, Cassandra, ElasticSearch, and JDBC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T195400Z" creationid="xccui" creationdate="20190708T195400Z">
+        <seg>Flink为Apache Kafka、Kinesis、RabbitMQ、Apache Nifi、多种文件系统、Apache Cassandra、ElasticSearch以及JDBC都提供了相应的连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides connectors to the most commonly used storage systems such as Apache Kafka, Apache Cassandra, Elasticsearch, JDBC, Kinesis, and (distributed) file systems such as HDFS and S3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T045210Z" creationid="xccui" creationdate="20190328T044823Z">
