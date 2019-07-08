@@ -33242,8 +33242,8 @@
       <tuv lang="EN-US">
         <seg>This can be a single topic, a list of topics, or a regular expression that matches all topics to read from.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212614Z" creationid="xccui" creationdate="20190708T212614Z">
-        <seg>它可以是单个主题，一个主题列表或是一个匹配所有目标主题的正则表达式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212847Z" creationid="xccui" creationdate="20190708T212614Z">
+        <seg>它可以是单个主题，一个主题列表或是某个匹配所有目标主题的正则表达式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36981,6 +36981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055827Z" creationid="xccui" creationdate="20190706T055827Z">
         <seg>正确配置后，你会在TaskManager的日志中看到以下信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When reading from multiple topics, the Kafka connector treats all partitions of all topics the same and multiplexes their events into a single stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213246Z" creationid="xccui" creationdate="20190708T212838Z">
+        <seg>当选择多个主题时，Kafka连接器会对所有主题的分区一直同仁，并将它们的事件混合成为一条数据流。</seg>
       </tuv>
     </tu>
     <tu>
