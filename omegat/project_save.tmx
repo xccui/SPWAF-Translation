@@ -8750,6 +8750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application Consistency Guarantees | 185</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070108Z" creationid="xccui" creationdate="20190708T070108Z">
+        <seg>应用的一致性保障 | 185</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application Deployment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T021747Z" creationid="xccui" creationdate="20190225T021747Z">
