@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>(temporary inconsistencies</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170207Z" creationid="xccui" creationdate="20190708T170207Z">
-        <seg>（故障恢复过程中的临时性不一致）</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170412Z" creationid="xccui" creationdate="20190708T170207Z">
+        <seg>（故障恢复过程中会有临时性不一致）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8706,6 +8706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T054018Z" creationid="xccui" creationdate="20190605T054018Z">
         <seg>Apache Flink是一个集众多具有竞争力的特性于一身的第三代流处理引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apache Flink provides connectors to read data from and write data to a variety of storage systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170457Z" creationid="xccui" creationdate="20190708T170457Z">
+        <seg>Apache Flink为很多外部存储系统都提供了相应的数据读写连接器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22875,6 +22883,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050333Z" creationid="xccui" creationdate="20190626T050333Z">
         <seg>有关窗口合并的内容会在下一节详细讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message queues and event logs, such as Apache Kafka, Kinesis, or RabbitMQ, are common sources to ingest data streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170739Z" creationid="xccui" creationdate="20190708T170739Z">
+        <seg>消息队列（例如Apache Kafka、Kinesis或RabbitMQ）是一类常见的数据流消息来源。</seg>
       </tuv>
     </tu>
     <tu>
