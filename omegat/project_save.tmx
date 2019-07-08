@@ -8782,6 +8782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Kafka is a distributed streaming platform.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201608Z" creationid="xccui" creationdate="20190708T201532Z">
+        <seg>Apache Kafka是一个分布式流处理平台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Maven 3.x.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020152Z" creationid="xccui" creationdate="20190611T020152Z">
@@ -22339,6 +22347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040728Z" creationid="xccui" creationdate="20190523T040511Z">
         <seg>它的内置算子会将这个long类型值解析为毫秒精度的Unix时间戳（自1970-01-01-00:00:00.000以来的毫秒数）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its core is a distributed publish- subscribe messaging system that is widely adopted to ingest and distribute event streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201654Z" creationid="xccui" creationdate="20190708T201605Z">
+        <seg>它的核心是一个分布式的发布/订阅消息系统，该系统被广泛用于获取和分发事件流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37677,6 +37693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233216Z" creationid="xccui" creationdate="20190401T022711Z">
         <seg>Dataflow图的并行性可以通过多种方式加以利用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can find more information about the other connectors in the documentation for Apache Flink or Apache Bahir.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201408Z" creationid="xccui" creationdate="20190708T201408Z">
+        <seg>你可以从Apache Flink或Apache Bahir项目的文档中查找更多有关其他连接器的信息。</seg>
       </tuv>
     </tu>
     <tu>
