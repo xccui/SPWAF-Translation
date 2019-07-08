@@ -17599,6 +17599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the application might emit results twice because all results that have been emitted after the last successful checkpoint (the one to which the application falls back in the case of a recovery) will be emitted again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T062101Z" creationid="xccui" creationdate="20190708T062101Z">
+        <seg>但由于在前一次成功的检查点（故障恢复时的回退位置）后发出的数据会被再次发送，所以应用可能会发出两次结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the applications for ReduceFunction are limited and usually restricted to simple aggregations since the input and output type must be the same.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002147Z" creationid="xccui" creationdate="20190624T002147Z">
@@ -29284,6 +29292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045450Z" creationid="xccui" creationdate="20190625T043225Z">
         <seg>示例6-13和6-14中的代码展示了如何使用ReduceFunction和ProcessWindowFunction的组合来应对示例6-12中相同的用例——</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The combination of Flink’s checkpointing and recovery mechanism and resettable source connectors guarantees that an application will not lose any data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T061643Z" creationid="xccui" creationdate="20190708T061643Z">
+        <seg>Flink的检查点和恢复机制结合可重置的数据源连接器能够确保应用不会丢失数据。</seg>
       </tuv>
     </tu>
     <tu>
