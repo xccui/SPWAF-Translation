@@ -8728,8 +8728,8 @@
       <tuv lang="EN-US">
         <seg>Apart from having a practical value, windows also enable semantically interesting queries on streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T042412Z" creationid="xccui" creationdate="20190406T042112Z">
-        <seg>除了产生单个有用的结果，窗口操作还支持数据流上一些语义很有趣的查询。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065640Z" creationid="xccui" creationdate="20190406T042112Z">
+        <seg>除了产生单个有用的结果，窗口操作还支持在数据流上完成一些语义方面很有价值的查询。</seg>
       </tuv>
     </tu>
     <tu>
