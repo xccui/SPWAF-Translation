@@ -17161,8 +17161,8 @@
       <tuv lang="EN-US">
         <seg>Hence, they can to some extent mitigate the effect of replayed results as caused by Flink’s checkpointing mechanism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070058Z" creationid="xccui" creationdate="20190708T070058Z">
-        <seg>所以说，你可以</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070235Z" creationid="xccui" creationdate="20190708T070058Z">
+        <seg>所以说，它们可以在一定程度上减轻Flink检查点机制所带来的重复结果的影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22011,6 +22011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T190616Z" creationid="xccui" creationdate="20190503T192125Z">
         <seg>重启应用并利用最近一次检查点重置任务状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be noted an application that relies on idempotent sinks to achieve exactly- once results must guarantee that it overrides previously written results while it replays.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070423Z" creationid="xccui" creationdate="20190708T070423Z">
+        <seg>注意，依赖于幂等性数据汇的应用为了实现精确一次的结果，需要保证在重放时可以覆盖之前写出的结果。</seg>
       </tuv>
     </tu>
     <tu>
