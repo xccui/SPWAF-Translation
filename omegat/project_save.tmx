@@ -10809,8 +10809,8 @@
       <tuv lang="EN-US">
         <seg>Connecting a stateful streaming application running on Flink and an event log is interesting for multiple reasons.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073449Z" creationid="xccui" creationdate="20190305T060607Z">
-        <seg>出于很多原因，将运行在Flink之上的状态化流处理应用和事件日志系统相连会很有意思。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065137Z" creationid="xccui" creationdate="20190305T060607Z">
+        <seg>出于很多原因，将运行在Flink之上的状态化流处理应用和事件日志系统相连会很有意义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17891,6 +17891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152026Z" creationid="esouser" creationdate="20190603T151856Z">
         <seg>幂等性写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Idempotent write operations are interesting for streaming applications because they can be performed multiple times without changing the results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065128Z" creationid="xccui" creationdate="20190708T065128Z">
+        <seg>幂等性写操作对于流式应用而言</seg>
       </tuv>
     </tu>
     <tu>
