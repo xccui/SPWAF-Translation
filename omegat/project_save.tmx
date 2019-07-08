@@ -7222,6 +7222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A task tracks for each partition its current reading offset and includes it into its checkpoint data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T205002Z" creationid="xccui" creationdate="20190708T205002Z">
+        <seg>任务会跟踪每一个它所负责分区的偏移，并将它们纳入到检查点数据之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A textbook setup consists of a stream processor, a batch pro&lt;t4/&gt;‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T032914Z" creationid="xccui" creationdate="20190327T032745Z">
@@ -12379,6 +12387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051232Z" creationid="xccui" creationdate="20190616T051232Z">
         <seg>每个算子都会产生一个或多个并行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each parallel source task can read from one or more partitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204708Z" creationid="xccui" creationdate="20190708T204708Z">
+        <seg>每个并行数据源任务都可以从一个或多个分区读取数据。</seg>
       </tuv>
     </tu>
     <tu>
