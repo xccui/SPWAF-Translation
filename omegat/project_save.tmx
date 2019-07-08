@@ -10137,8 +10137,8 @@
       <tuv lang="EN-US">
         <seg>By only writing data once a checkpoint is completed, the transac‐ tional approach does not suffer from the replay inconsistency of the idempotent writes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T073433Z" creationid="xccui" creationdate="20190708T073402Z">
-        <seg>通过只在检查点完成后写入数据，这种事务性的方法虽然不会像幂等性写那样在重放过程中出现不一致的情况，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T073536Z" creationid="xccui" creationdate="20190708T073402Z">
+        <seg>通过只在检查点完成后写入数据，这种事务性的方法虽然不会像幂等性写那样出现重放过程中的不一致现象，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15455,6 +15455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides two building blocks to implement transactional sink connectors—a generic write-ahead-log (WAL) sink and a two-phase-commit (2PC) sink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074124Z" creationid="xccui" creationdate="20190708T074124Z">
+        <seg>Flink提供了两个构件来实现事务性的数据汇连接器——通用的WAL（write-ahead-log，写前日志）数据汇以及一个两阶段提交（two-phase-commit，2PC）数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides two utility classes for Java and Scala with static methods to generate a TypeInformation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053425Z" creationid="xccui" creationdate="20190617T053425Z">
@@ -17545,8 +17553,8 @@
       <tuv lang="EN-US">
         <seg>However, it adds latency because results only become visible when a check‐ point completes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T073500Z" creationid="xccui" creationdate="20190708T073500Z">
-        <seg>但它会增加一定延迟</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T073602Z" creationid="xccui" creationdate="20190708T073500Z">
+        <seg>但它会增加一定延迟，因为结果只有在检查点完成后才对外可见。</seg>
       </tuv>
     </tu>
     <tu>
