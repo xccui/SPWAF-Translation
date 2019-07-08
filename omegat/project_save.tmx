@@ -32576,6 +32576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These are the most widely used connectors and they also represent important types of source and sink systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200928Z" creationid="xccui" creationdate="20190708T200928Z">
+        <seg>这些连接器的应用最为广泛，同时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These chapters guide you through setting up a development environment, cover the basics of the DataStream API, and go into the details of Flink’s time seman&lt;t2/&gt;‐&lt;t3/&gt; tics and window operators, its connectors to external systems, and the details of Flink’s fault-tolerant operator state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T191557Z" creationid="xccui" creationdate="20190225T165712Z">
