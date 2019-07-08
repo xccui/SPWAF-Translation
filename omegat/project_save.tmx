@@ -17903,6 +17903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an application ingests data from a source connector that is not able to store and reset a reading position, it might suffer from data loss in the case of a failure and only provide at-most-once guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T061539Z" creationid="xccui" creationdate="20190708T061539Z">
+        <seg>如果应用使用的数据源连接器无法存储和重置读取位置，那么在出现故障时它就可能要丢失部分数据，从而只能提供最多一次保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an application is updated without removing or changing existing state, it is always savepoint compatible and can be started from a savepoint of an earlier version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T040244Z" creationid="xccui" creationdate="20190705T040244Z">
