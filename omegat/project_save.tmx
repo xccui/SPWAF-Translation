@@ -26760,6 +26760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the sink buf‐ fers records in the state backend, the WAL sink can be used with any kind of sink system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074429Z" creationid="xccui" creationdate="20190708T074429Z">
+        <seg>由于该数据汇利用状态后端缓冲记录，所以它适用于任何一种数据接收系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the start and the end of a session window depend on the received elements, a window assigner cannot immediately assign all the elements to the correct window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061801Z" creationid="xccui" creationdate="20190623T061801Z">
@@ -29028,6 +29036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050617Z" creationid="xccui" creationdate="20190626T050313Z">
         <seg>Trigger接口有一个回调方法，会在对目标窗口的相关状态进行合并时被调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The WAL sink writes all result records into application state and emits them to the sink system once it receives the notification that a checkpoint was completed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074310Z" creationid="xccui" creationdate="20190708T074310Z">
+        <seg>WAL数据汇会将所有结果记录写入应用状态中，并在收到检查点完成通知后将它们发送到数据接收系统。</seg>
       </tuv>
     </tu>
     <tu>
