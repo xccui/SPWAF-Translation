@@ -36265,6 +36265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When taking a checkpoint, a source operator persists its read‐ ing positions and restores these positions during recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T054116Z" creationid="xccui" creationdate="20190708T054116Z">
+        <seg>在生成检查点时，数据源算子会将读取位置持久化并在故障恢复过程中将其还原。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the JAR file is in the classpath, the queryable state threads are automatically started and can</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T054455Z" creationid="xccui" creationdate="20190706T054218Z">
