@@ -8622,6 +8622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any sink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170057Z" creationid="xccui" creationdate="20190708T170057Z">
+        <seg>任意数据汇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Cassandra Sink Connector</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025211Z" creationid="xccui" creationdate="20190225T025211Z">
@@ -9443,6 +9451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034515Z" creationid="xccui" creationdate="20190606T034515Z">
         <seg>至少一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At-least-once Idempotent sink  At-most-once</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170124Z" creationid="xccui" creationdate="20190708T170124Z">
+        <seg>至少一次 幂等性数据汇  至多一次</seg>
       </tuv>
     </tu>
     <tu>
@@ -12419,6 +12435,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045106Z" creationid="xccui" creationdate="20190416T045106Z">
         <seg>端到端的精确一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End-to-end consistency guarantees for different combinations of sources and sinks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170015Z" creationid="xccui" creationdate="20190708T170015Z">
+        <seg>不同数据源和数据汇组合所能实现的端到端的一致性保障</seg>
       </tuv>
     </tu>
     <tu>
@@ -23503,6 +23527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonresettable source Resettable source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170053Z" creationid="xccui" creationdate="20190708T170053Z">
+        <seg>不可重置数据源 可重置数据源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not all stream processors are equally well-suited to run event-driven applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T150915Z" creationid="xccui" creationdate="20190604T052517Z">
@@ -27900,6 +27932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165942Z" creationid="xccui" creationdate="20190708T165942Z">
         <seg>表8-1展示了不同类型的数据源和数据汇接收器在最好的情况下能够实现的端到端的一致性。根据数据汇的具体实现，实际的一致性可能无法达到最佳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 8-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165946Z" creationid="xccui" creationdate="20190708T165946Z">
+        <seg>表8-1，</seg>
       </tuv>
     </tu>
     <tu>
