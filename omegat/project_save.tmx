@@ -15127,6 +15127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink also features version-specific connectors for the Kafka ver‐ sions 0.8, 0.9, 0.10, and 0.11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204401Z" creationid="xccui" creationdate="20190708T204317Z">
+        <seg>同时它还为Kafka 0.8、0.9、0.10以及0.11版本分别提供了专用的连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink analyzes each type that does not fall into any category and checks to see if it can be identified and handled as a POJO type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042544Z" creationid="xccui" creationdate="20190617T042544Z">
@@ -15467,6 +15475,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004621Z" creationid="xccui" creationdate="20190612T004239Z">
         <seg>Flink提供了Maven模板来为Java或Scala的Flink应用生成Maven项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides a universal Kafka connector that works for all Kafka versions since 0.11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204323Z" creationid="xccui" creationdate="20190708T204303Z">
+        <seg>Flink提供了一个通用的Kafka连接器，可用于Kafka 0.11之后的版本；</seg>
       </tuv>
     </tu>
     <tu>
@@ -26906,8 +26922,8 @@
       <tuv lang="EN-US">
         <seg>Since release 1.0, the API has remained stable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204002Z" creationid="xccui" creationdate="20190708T204002Z">
-        <seg>自Release 1.0版本以来，它的API一直比较稳定。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204214Z" creationid="xccui" creationdate="20190708T204002Z">
+        <seg>自1.0发布版以来，它的API一直比较稳定。</seg>
       </tuv>
     </tu>
     <tu>
