@@ -20487,6 +20487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter, we discuss how source and sink connectors affect the consistency guarantees of Flink streaming applications and present Flink’s most popular connec‐ tors to read and write data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T051028Z" creationid="xccui" creationdate="20190708T051028Z">
+        <seg>在本章中，我们将讨论数据源和数据汇连接器如何影响Flink流式应用的一致性保障，并介绍Flink中最常用的数据读写连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter, we discuss why stateful stream processing is becoming so popular and assess its poten‐ tial.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T063642Z" creationid="esouser" creationdate="20190603T163008Z">
