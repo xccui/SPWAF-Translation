@@ -29904,6 +29904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The constructor takes three arguments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212438Z" creationid="xccui" creationdate="20190708T212438Z">
+        <seg>构造方法需要三个参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The content of the window is completely discarded and the window including all metadata is removed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184909Z" creationid="xccui" creationdate="20190626T184757Z">
@@ -30204,6 +30212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051901Z" creationid="xccui" creationdate="20190613T051252Z">
         <seg>Filter转换利用一个作用在每条输入事件上的布尔条件来决定流中事件的去存，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first argument defines the topics to read from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212503Z" creationid="xccui" creationdate="20190708T212452Z">
+        <seg>第一个参数是要读取的主题，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33220,6 +33236,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063507Z" creationid="xccui" creationdate="20190701T063507Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be a single topic, a list of topics, or a regular expression that matches all topics to read from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212614Z" creationid="xccui" creationdate="20190708T212614Z">
+        <seg>它可以是单个主题，一个主题列表或是一个匹配所有目标主题的正则表达式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40897,6 +40921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new FlinkKafkaConsumer[String]( "topic",</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212409Z" creationid="xccui" creationdate="20190708T212409Z">
+        <seg>new FlinkKafkaConsumer[String]( "topic",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new MapStateDescriptor[String, Double]( "thresholds", classOf[String], classOf[Double])</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024332Z" creationid="xccui" creationdate="20190702T024332Z">
@@ -40933,6 +40965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054235Z" creationid="xccui" creationdate="20190618T054235Z">
         <seg>new RichFilterFunction[String] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new SimpleStringSchema(), properties))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212412Z" creationid="xccui" creationdate="20190708T212412Z">
+        <seg>new SimpleStringSchema(), properties))</seg>
       </tuv>
     </tu>
     <tu>
@@ -43753,6 +43793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val properties = new Properties() properties.setProperty("bootstrap.servers", "localhost:9092") properties.setProperty("group.id", "test")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212401Z" creationid="xccui" creationdate="20190708T212401Z">
+        <seg>val properties = new Properties() properties.setProperty("bootstrap.servers", "localhost:9092") properties.setProperty("group.id", "test")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val proxyHost = "127.0.0.1"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035917Z" creationid="xccui" creationdate="20190707T035917Z">
@@ -43989,6 +44037,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051957Z" creationid="xccui" creationdate="20190620T051957Z">
         <seg>val stream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val stream: DataStream[String] = env.addSource(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212405Z" creationid="xccui" creationdate="20190708T212405Z">
+        <seg>val stream: DataStream[String] = env.addSource(</seg>
       </tuv>
     </tu>
     <tu>
