@@ -7550,6 +7550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding a data processing system, such as Apache Flink, requires careful considera‐ tions because it does not include its own storage layer but relies on external storage systems to ingest and persist data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T045605Z" creationid="xccui" creationdate="20190708T045605Z">
+        <seg>添加一个像Apache Flink这样的数据处理系统需要深思熟虑，因为它没有包含内置的存储层，而是依赖外部存储系统来传入和持久化数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding external dependencies is a common requirement when implementing Flink applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034846Z" creationid="xccui" creationdate="20190619T034645Z">
