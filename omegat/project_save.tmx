@@ -17151,6 +17151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, they can to some extent mitigate the effect of replayed results as caused by Flink’s checkpointing mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070058Z" creationid="xccui" creationdate="20190708T070058Z">
+        <seg>所以说，你可以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, you can fix bugs in your application logic and reprocess as many events as your streaming source can provide in order to repair your results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212237Z" creationid="xccui" creationdate="20190609T212214Z">
@@ -17897,8 +17905,8 @@
       <tuv lang="EN-US">
         <seg>Idempotent write operations are interesting for streaming applications because they can be performed multiple times without changing the results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065128Z" creationid="xccui" creationdate="20190708T065128Z">
-        <seg>幂等性写操作对于流式应用而言</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070017Z" creationid="xccui" creationdate="20190708T065128Z">
+        <seg>幂等性写操作对于流式应用而言很有意义，因为它们可以在不改变结果的前提下多次执行。</seg>
       </tuv>
     </tu>
     <tu>
