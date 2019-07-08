@@ -8142,6 +8142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An application that aims to provide end-to-end exactly-once guarantees requires spe‐ cial sink connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T062735Z" creationid="xccui" creationdate="20190708T062735Z">
+        <seg>应用若想提供端到端的精确一次性保障，需要一些特殊的数据汇连接器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An application with a function that has a queryable state is executed just like any other application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T063318Z" creationid="xccui" creationdate="20190706T063318Z">
