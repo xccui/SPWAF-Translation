@@ -9559,6 +9559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before adding a new component into the mix, a logical question to ask should be, “How well does it work with the other com‐ ponents in my stack?”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T045057Z" creationid="xccui" creationdate="20190708T045057Z">
+        <seg>在向其中添加新组件之前，我们一般都会考虑"新加的组件和现有组件栈兼容情况如何？"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before comparing the temperature measurements and updating the last temperature,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212613Z" creationid="xccui" creationdate="20190704T211924Z">
