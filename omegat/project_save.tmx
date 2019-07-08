@@ -21289,8 +21289,8 @@
       <tuv lang="EN-US">
         <seg>Instead, the source and sink connectors of an application need to be integrated with Flink’s checkpointing and recovery mecha‐ nism and provide certain properties to be able to give meaningful guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053103Z" creationid="xccui" creationdate="20190708T053103Z">
-        <seg>应用的数据源和数据汇连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053347Z" creationid="xccui" creationdate="20190708T053103Z">
+        <seg>进一步，应用的数据源和数据汇连接器需要能和Flink的检查点及恢复策略集成，来提供有意义的保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37427,8 +37427,8 @@
       <tuv lang="EN-US">
         <seg>You will learn how to implement custom source and sink connectors and how to implement functions that send asynchronous read or write requests to external datastores.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T051201Z" creationid="xccui" creationdate="20190708T051201Z">
-        <seg>你将学到如何实现自定义的数据源（汇）连接器以及如何在函数中向外部数据存储发送异步的读写请求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053119Z" creationid="xccui" creationdate="20190708T051201Z">
+        <seg>你将学到如何实现自定义的数据源和数据汇连接器，以及如何在函数中向外部数据存储发送异步的读写请求。</seg>
       </tuv>
     </tu>
     <tu>
