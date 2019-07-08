@@ -11321,8 +11321,8 @@
       <tuv lang="EN-US">
         <seg>Creating a Flink Kafka source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T205847Z" creationid="xccui" creationdate="20190708T205847Z">
-        <seg>创建一个Flink kafka数据源连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212357Z" creationid="xccui" creationdate="20190708T205847Z">
+        <seg>创建Flink kafka数据源连接器</seg>
       </tuv>
     </tu>
     <tu>
