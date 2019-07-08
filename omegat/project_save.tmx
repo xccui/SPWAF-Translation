@@ -17569,8 +17569,8 @@
       <tuv lang="EN-US">
         <seg>However, it cannot provide bulletproof exactly-once guarantees,2 adds to the state size of an application, and the sink system has to deal with a spiky writing pattern.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074739Z" creationid="xccui" creationdate="20190708T074739Z">
-        <seg>然而，WAL数据汇无法100%提供精确一次保障，2 会使应用状态大小增加以及接收系统需要处理一次次的"突发写入"模式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T075100Z" creationid="xccui" creationdate="20190708T074739Z">
+        <seg>然而，WAL数据汇无法100%提供精确一次保障，2 它还会导致应用状态大小增加以及接收系统需要处理一次次的"波峰式"写入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35428,6 +35428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T030104Z" creationid="xccui" creationdate="20190704T025917Z">
         <seg>我们会在第263页"调整检查点及恢复"一节讨论具体如何在应用中使用和配置状态后端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We discuss the consistency guarantees of a WAL sink in more detail in “GenericWriteAheadSink”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074848Z" creationid="xccui" creationdate="20190708T074848Z">
+        <seg>我们会在"GenericWriteAheadSink"一节更详细地讨论WAL数据汇的一致性保障。</seg>
       </tuv>
     </tu>
     <tu>
