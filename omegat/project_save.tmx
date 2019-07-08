@@ -17567,6 +17567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it cannot provide bulletproof exactly-once guarantees,2 adds to the state size of an application, and the sink system has to deal with a spiky writing pattern.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074739Z" creationid="xccui" creationdate="20190708T074739Z">
+        <seg>然而，WAL数据汇无法100%提供精确一次保障，2 会使应用状态大小增加以及接收系统需要处理一次次的"突发写入"模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it has a few notable drawbacks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193935Z" creationid="xccui" creationdate="20190605T052900Z">
