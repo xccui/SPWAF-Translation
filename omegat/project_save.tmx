@@ -31296,6 +31296,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second approach to achieve end-to-end exactly-once consistency is based on transactional writes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072527Z" creationid="xccui" creationdate="20190708T072527Z">
+        <seg>实现端到端精确一次一致性的第二个途径是事务性写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second property is used to handle streams with out-of-order record timestamps, such as the records with timestamps 3 and 5 in &lt;t0/&gt;Figure 3-8&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T034143Z" creationid="xccui" creationdate="20190523T042812Z">
@@ -32138,8 +32146,8 @@
       <tuv lang="EN-US">
         <seg>There are two techniques that sink connectors can apply in dif‐ ferent situations to achieve exactly-once guarantees: idempotent writes and transactional writes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T063145Z" creationid="xccui" creationdate="20190708T063145Z">
-        <seg>根据情况不同，这些连接器可以使用两种技术来实现精确一次保障：幂等性写（idempotent write）以及事务写入（transactional write）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072535Z" creationid="xccui" creationdate="20190708T063145Z">
+        <seg>根据情况不同，这些连接器可以使用两种技术来实现精确一次保障：幂等性写（idempotent write）以及事务性写（transactional write）。</seg>
       </tuv>
     </tu>
     <tu>
