@@ -11247,6 +11247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a Flink Kafka sink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171130Z" creationid="xccui" creationdate="20190708T171130Z">
+        <seg>创建一个Flink Kafka数据汇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credit-Based Flow Control</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202504Z" creationid="esouser" creationdate="20190603T144321Z">
@@ -13587,6 +13595,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204740Z" creationid="xccui" creationdate="20190702T204740Z">
         <seg>示例7-9，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171118Z" creationid="xccui" creationdate="20190708T171118Z">
+        <seg>示例8-2，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24043,6 +24059,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043532Z" creationid="xccui" creationdate="20190406T043454Z">
         <seg>此时，我们可能对该位置发生过的所有事故并不感兴趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the sink side, data streams are often produced into message queues to make the events available to subsequent streaming applications, written to filesystems for archiving or making the data available for offline analytics or batch applications, or inserted into key-value stores or relational database systems, like Cassandra, Elastic‐ Search, or MySQL, to make the data searchable and queryable, or to serve dashboard applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171112Z" creationid="xccui" creationdate="20190708T171112Z">
+        <seg>在数据汇一端</seg>
       </tuv>
     </tu>
     <tu>
