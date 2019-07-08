@@ -33858,8 +33858,8 @@
       <tuv lang="EN-US">
         <seg>Through Kafka 0.11, the API of the client library evolved and new features were added.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T203526Z" creationid="xccui" creationdate="20190708T203325Z">
-        <seg>从Kafka 0.11开始，其客户端库的API发生了一些改变且添加了部分新的功能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204123Z" creationid="xccui" creationdate="20190708T203325Z">
+        <seg>Kafka在0.11版本以前，其客户端库的API一直在改变且经常添加一些新的功能。</seg>
       </tuv>
     </tu>
     <tu>
