@@ -16671,6 +16671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the remainder of this section, we focus on the uni‐ versal connector and for the version-specific connectors, we refer you to Flink’s documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204542Z" creationid="xccui" creationdate="20190708T204542Z">
+        <seg>在本章其余部分，我们会把关注点放在通用的连接器上面。如果你想了解某个特定版本的连接器，请参阅Flink的相关文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the second input, all records with timestamps larger than the current watermark + the lower bound are buffered.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031913Z" creationid="xccui" creationdate="20190628T031643Z">
@@ -28904,6 +28912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Flink Kafka connector ingests event streams in parallel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204638Z" creationid="xccui" creationdate="20190708T204638Z">
+        <seg>Flink Kafka连接器会以并行方式获取事件流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Flink Maven archetypes we introduced in “Bootstrap a Flink Maven Project” on page 76 generate Maven projects that are configured to produce application-fat JARs that include all required dependencies.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043037Z" creationid="xccui" creationdate="20190619T043037Z">
@@ -29900,6 +29916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060553Z" creationid="xccui" creationdate="20190616T060553Z">
         <seg>可以通过显式指定来覆盖算子的默认并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dependency for the universal Flink Kafka connector is added to a Maven project as shown in the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204612Z" creationid="xccui" creationdate="20190708T204612Z">
+        <seg>我们可以像下面这样把通用的Flink Kafka连接器添加到Maven项目中：</seg>
       </tuv>
     </tu>
     <tu>
