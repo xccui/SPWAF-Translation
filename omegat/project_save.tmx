@@ -19951,6 +19951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to use a provided connector in your application, you need to add its depend‐ ency to the build file of your project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200339Z" creationid="xccui" creationdate="20190708T200339Z">
+        <seg>为了在应用中使用这些连接器，你需要把相应的依赖添加到项目的构建文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to use processing time, replace TimeCharacteristic.EventTime with</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T073049Z" creationid="xccui" creationdate="20190619T073049Z">
@@ -20291,6 +20299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053958Z" creationid="xccui" creationdate="20190618T053958Z">
         <seg>下面的例子中，我们实现了一个FilterFunction，用来过滤出所有包含"flink"一词的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following section, we discuss the connectors for Apache Kafka, file-based sour‐ ces and sinks, and Apache Cassandra.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200602Z" creationid="xccui" creationdate="20190708T200602Z">
+        <seg>下一节，我们将讨论针对以下系统的连接器：Apache Kafka、文件系统以及Apache Cassandra。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35820,6 +35836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025327Z" creationid="xccui" creationdate="20190613T025327Z">
         <seg>我们将结合代码示例对它们的语义进行解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We explained how to add connector dependen‐ cies in “Including External and Flink Dependencies” on page 107.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200431Z" creationid="xccui" creationdate="20190708T200431Z">
+        <seg>我们已经在第107页"导入外部和Flink依赖"中介绍了如何添加连接器依赖。</seg>
       </tuv>
     </tu>
     <tu>
