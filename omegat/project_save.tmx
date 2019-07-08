@@ -21287,6 +21287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, the source and sink connectors of an application need to be integrated with Flink’s checkpointing and recovery mecha‐ nism and provide certain properties to be able to give meaningful guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053103Z" creationid="xccui" creationdate="20190708T053103Z">
+        <seg>应用的数据源和数据汇连接器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, time-based DataStream operator tasks configure the time‐ stamps of emitted records to ensure they are properly aligned with the emitted watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071221Z" creationid="xccui" creationdate="20190607T013124Z">
