@@ -19223,6 +19223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In batch processing- dominated environments, data streams are also often ingested by monitoring a file‐ system directory and reading files as they appear.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171038Z" creationid="xccui" creationdate="20190708T171038Z">
+        <seg>在以批处理为主的环境中，我们还经常通过监视文件系统目录并读取其中新加文件的方式来读取数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In both cases, Flink links the newly registered state handle object to the existing state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021819Z" creationid="xccui" creationdate="20190701T021819Z">
