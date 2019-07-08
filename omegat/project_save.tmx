@@ -16967,6 +16967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, an application that con‐ sumes the output of the recovering application might witness a jump back in time, e.g., read a smaller count than before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072043Z" creationid="xccui" creationdate="20190708T072043Z">
+        <seg>因此消费故障恢复过程中所产生的结果可能会使应用"回到过去"，例如，读到一个比之前小的计数值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, changing the data type of a state is only supported</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052710Z" creationid="xccui" creationdate="20190705T052646Z">
@@ -36453,6 +36461,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064956Z" creationid="xccui" creationdate="20190630T062841Z">
         <seg>对于一个作用在键值分区输入上的函数而言，Flink运行时会在调用它的处理方法时，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the replay starts, previously emitted results might be overridden by earlier results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T071708Z" creationid="xccui" creationdate="20190708T071708Z">
+        <seg>当开始重放数据时，之前发出的结果可能会被更早的结果覆盖。</seg>
       </tuv>
     </tu>
     <tu>
