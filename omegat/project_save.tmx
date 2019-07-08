@@ -7238,6 +7238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A topic is an event log that guaran‐ tees that events are read in the same order in which they were written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201959Z" creationid="xccui" creationdate="20190708T201959Z">
+        <seg>每个主题都是一个事件日志，可以保证将事件按照写入顺序进行读取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A traditional approach to synchronize data in different storage systems is periodic ETL jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T062152Z" creationid="xccui" creationdate="20190604T055001Z">
@@ -22471,6 +22479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kafka organizes event streams as so-called topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201834Z" creationid="xccui" creationdate="20190708T201834Z">
+        <seg>Kafka以所谓主题（topic）的方式来组织事件流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Selectors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145630Z" creationid="esouser" creationdate="20190603T145630Z">
@@ -35532,6 +35548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020130Z" creationid="xccui" creationdate="20190611T020130Z">
         <seg>此外虽不强制，但我们假设以下软件也已装好：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We briefly explain the main concepts of Kafka before we dive into the details of Flink’s Kafka connector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201753Z" creationid="xccui" creationdate="20190708T201753Z">
+        <seg>在深入了解Flink的Kafka连接器之前，我们首先来简单介绍一下Kafka的核心概念。</seg>
       </tuv>
     </tu>
     <tu>
