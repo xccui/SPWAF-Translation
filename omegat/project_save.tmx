@@ -7240,8 +7240,8 @@
       <tuv lang="EN-US">
         <seg>A topic is an event log that guaran‐ tees that events are read in the same order in which they were written.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201959Z" creationid="xccui" creationdate="20190708T201959Z">
-        <seg>每个主题都是一个事件日志，可以保证将事件按照写入顺序进行读取。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202236Z" creationid="xccui" creationdate="20190708T201959Z">
+        <seg>每个主题都是一个事件日志，其事件读取顺序和写入顺序完全相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19963,6 +19963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203321Z" creationid="xccui" creationdate="20190606T203255Z">
         <seg>任务链接的前提条件是，多个算子必须有相同的并发度且通过本地转发通道连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to scale writing to and reading from a topic, it can be split into partitions that are dis‐ tributed across a cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202149Z" creationid="xccui" creationdate="20190708T202149Z">
+        <seg>为了实现主题读写的伸缩性，Kafka允许将主题拆分为多个分布在集群之上的分区。</seg>
       </tuv>
     </tu>
     <tu>
