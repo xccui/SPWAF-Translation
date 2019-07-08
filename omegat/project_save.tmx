@@ -26978,8 +26978,8 @@
       <tuv lang="EN-US">
         <seg>Since the sink buf‐ fers records in the state backend, the WAL sink can be used with any kind of sink system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074429Z" creationid="xccui" creationdate="20190708T074429Z">
-        <seg>由于该数据汇利用状态后端缓冲记录，所以它适用于任何一种数据接收系统。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200956Z" creationid="xccui" creationdate="20190708T074429Z">
+        <seg>由于该数据汇利用状态后端缓冲记录，所以它适用于任何一种数据汇系统。</seg>
       </tuv>
     </tu>
     <tu>
