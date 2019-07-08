@@ -7998,6 +7998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, the overall result of the streaming appli‐ cation will be in an inconsistent state while the replay is in progress because some results will be overridden while others are not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072248Z" creationid="xccui" creationdate="20190708T072248Z">
+        <seg>同时，在重放进行过程中，由于某些结果会被覆盖而某些则不会，所以流式应用的整体结果将处于不一致的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alterna&lt;t4/&gt;‐&lt;t5/&gt; tively, Flink provides a feature called queryable state which allows users to expose the state of an application as a key-lookup table and make it accessible for external appli&lt;t6/&gt;‐&lt;t7/&gt; cations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T060943Z" creationid="xccui" creationdate="20190317T060535Z">
@@ -24035,6 +24043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050957Z" creationid="xccui" creationdate="20190612T050957Z">
         <seg>在执行环境配置完后，就可以进行一些实质性的工作，正式开始处理数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the replay completes and the application is past the point at which it previously failed, the result will be consistent again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072418Z" creationid="xccui" creationdate="20190708T072418Z">
+        <seg>一旦重放完成，应用的进度超过了之前失败的点，其结果就会恢复一致。</seg>
       </tuv>
     </tu>
     <tu>
