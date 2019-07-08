@@ -12951,6 +12951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exactly-once state consistency is a requirement for end-to-end exactly-once consistency but is not the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T064800Z" creationid="xccui" creationdate="20190708T064800Z">
+        <seg>精确一次的状态一致性是实现端到端精确一次一致的需求之一，二者并不一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 5-1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035805Z" creationid="xccui" creationdate="20190612T035805Z">
@@ -23771,6 +23779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144523Z" creationid="xccui" creationdate="20190606T144451Z">
         <seg>左侧的JobGraph（应用的非并行化表示）包含了5个算子，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the other hand, an append operation is not an idem‐ potent operation, because appending an element multiple times results in multiple appends.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065012Z" creationid="xccui" creationdate="20190708T065012Z">
+        <seg>反过来说，追加操作（append operation）就不是幂等的，因为多次追加某个元素会导致它出现多次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38437,6 +38453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
         <seg>你可以使用tail命令监控持续产生的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains the key-value pair.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T064803Z" creationid="xccui" creationdate="20190708T064803Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
