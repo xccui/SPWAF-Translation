@@ -17359,6 +17359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, being able to reset the state of an application to a consistent point is not sufficient to achieve satisfying processing guarantees for an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053022Z" creationid="xccui" creationdate="20190708T053022Z">
+        <seg>虽然如此，但像这样把应用状态重置到某个一致性的点所提供的应用处理保障只能差强人意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, counting how many times a specific event occurs in the input stream might return the wrong result under at-least-once guarantees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T042923Z" creationid="xccui" creationdate="20190416T042900Z">
@@ -19043,6 +19051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T035819Z" creationid="xccui" creationdate="20190609T033338Z">
         <seg>一旦发生故障，Flink会利用最新的检查点为应用恢复一致性的状态并重启进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of a failure, the state of the application is restored from the latest completed checkpoint and processing continues.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T052008Z" creationid="xccui" creationdate="20190708T052008Z">
+        <seg>一旦发生故障，应用会从最近一次完成的检查点中恢复状态并继续处理数据。</seg>
       </tuv>
     </tu>
     <tu>
