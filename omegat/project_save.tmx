@@ -21455,6 +21455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, every system features its own connector library with a proprietary protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T194244Z" creationid="xccui" creationdate="20190708T194244Z">
+        <seg>它们每一个都要用到自己专有协议的连接器库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, functions implement operator state as regular member variables and interact with the state backend via callback functions of the ListCheckpointed interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040529Z" creationid="xccui" creationdate="20190701T040529Z">
