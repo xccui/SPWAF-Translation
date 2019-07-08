@@ -19377,8 +19377,8 @@
       <tuv lang="EN-US">
         <seg>In contrast to WAL sinks, 2PC sinks can achieve exactly-once output depending on the sink system and the sink’s implementa‐ tion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165445Z" creationid="xccui" creationdate="20190708T165445Z">
-        <seg>和WAL数据汇不同，2PC数据汇可依赖数据接收系统和数据汇的实现来完成精确一次的结果输出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201012Z" creationid="xccui" creationdate="20190708T165445Z">
+        <seg>和WAL数据汇不同，2PC数据汇可依赖数据汇系统和数据汇的实现来完成精确一次的结果输出。</seg>
       </tuv>
     </tu>
     <tu>
