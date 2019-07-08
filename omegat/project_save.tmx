@@ -19311,6 +19311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, Flink provides implementations for Apache Avro and text-based JSON encodings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213621Z" creationid="xccui" creationdate="20190708T213621Z">
+        <seg>除此之外，Flink还为Apache Avro和基于文本的JSON编码提供了相应的实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, both context objects also provide access to the event-time timestamp, the current watermark, the current processing time, and the side outputs, similar to the context objects of other process functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053527Z" creationid="xccui" creationdate="20190702T053527Z">
@@ -22579,6 +22587,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010520Z" creationid="xccui" creationdate="20190624T010520Z">
         <seg>KEY key, Context ctx, Iterable&lt;IN&gt; vals, Collector&lt;OUT&gt; out) throws Exception;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kafka messages are stored as raw byte messages and need to be deserialized into Java or Scala objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213417Z" creationid="xccui" creationdate="20190708T213417Z">
+        <seg>Kafka中的消息是以原始字节的方式存储，因此需要被反序列化成Java或Scala对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29384,6 +29400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The SimpleStringSchema, which is used in Example 8-1, is a built-in DeserializationSchema that simply deserializes a byte array into a String.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213513Z" creationid="xccui" creationdate="20190708T213513Z">
+        <seg>示例8-1中用到的SimpleStringSchema是一个内置的DeserializationSchema，它会简单地将字节数组反序列化成String。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The StateDe scriptor is specific to the state primitive and includes the name of the state and the data types of the state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065447Z" creationid="xccui" creationdate="20190630T065447Z">
@@ -31812,6 +31836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072527Z" creationid="xccui" creationdate="20190708T072527Z">
         <seg>实现端到端精确一次一致性的第二个途径是事务性写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second argument is a DeserializationSchema or KeyedDeserialization Schema.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213336Z" creationid="xccui" creationdate="20190708T213336Z">
+        <seg>第二个参数是一个DeserializationSchema或KeyedDeserializationSchema。</seg>
       </tuv>
     </tu>
     <tu>
