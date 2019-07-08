@@ -34872,6 +34872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, there are no standard interfaces for most of these storage systems, except JDBC for relational DBMS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T193531Z" creationid="xccui" creationdate="20190708T193531Z">
+        <seg>遗憾的是，除了针对关系型数据库系统的JDBC，大多数的存储系统都缺乏标准的接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Union</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063514Z" creationid="xccui" creationdate="20190614T063514Z">
