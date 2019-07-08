@@ -17361,8 +17361,8 @@
       <tuv lang="EN-US">
         <seg>However, being able to reset the state of an application to a consistent point is not sufficient to achieve satisfying processing guarantees for an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053022Z" creationid="xccui" creationdate="20190708T053022Z">
-        <seg>虽然如此，但像这样把应用状态重置到某个一致性的点所提供的应用处理保障只能差强人意。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053351Z" creationid="xccui" creationdate="20190708T053022Z">
+        <seg>虽然如此，但像这样把应用状态重置到某个一致性的点所提供的应用处理保障只能算是差强人意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19615,6 +19615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to provide exactly-once state consistency for an application,1 each source connector of the application needs to be able to set its read positions to a previously checkpointed position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053841Z" creationid="xccui" creationdate="20190708T053841Z">
+        <seg>为了在应用中实现精确一次的状态一致性保障，1 应用的每个数据源连接器都需要支持将读取位置设为过去的某个检查点中的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to provide fault tolerance for an application, the JobManager initiates checkpoints at regular intervals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204550Z" creationid="xccui" creationdate="20190702T204550Z">
@@ -21289,8 +21297,8 @@
       <tuv lang="EN-US">
         <seg>Instead, the source and sink connectors of an application need to be integrated with Flink’s checkpointing and recovery mecha‐ nism and provide certain properties to be able to give meaningful guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053347Z" creationid="xccui" creationdate="20190708T053103Z">
-        <seg>进一步，应用的数据源和数据汇连接器需要能和Flink的检查点及恢复策略集成，来提供有意义的保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053555Z" creationid="xccui" creationdate="20190708T053103Z">
+        <seg>进一步，应用的数据源和数据汇连接器需要和Flink的检查点及恢复策略集成，并能提供某些特定的属性以支各类有意义的保障。</seg>
       </tuv>
     </tu>
     <tu>
