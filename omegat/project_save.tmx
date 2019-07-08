@@ -16095,6 +16095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, repeatedly inserting the same key-value pair into a hashmap is an idempotent operation because the first insert operation adds the value for the key into the map and all following insertions will not change the map since it already</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T064612Z" creationid="xccui" creationdate="20190708T064612Z">
+        <seg>例如，将相同的键值对插入一个哈希映射就是一个幂等操作。因为在首次将键值对插入映射中后，无论该操作再重复几次都不会改变这个映射，因为目标键值对已经存在了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, sink functions that aim to write data to external systems with exactly-once guarantees must only emit records that were received before a successful checkpoint to ensure the received data will not be recomputed in the case of a failure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T200602Z" creationid="xccui" creationdate="20190702T181000Z">
