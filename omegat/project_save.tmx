@@ -30562,8 +30562,8 @@
       <tuv lang="EN-US">
         <seg>The idea here is to only write those results to an external sink system that have been computed before the last successful checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072819Z" creationid="xccui" creationdate="20190708T072819Z">
-        <seg>它的基本思路是只有在上次成功的检查点之前计算的结果才会被写入外部数据接收系统。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200941Z" creationid="xccui" creationdate="20190708T072819Z">
+        <seg>它的基本思路是只有在上次成功的检查点之前计算的结果才会被写入外部数据汇系统。</seg>
       </tuv>
     </tu>
     <tu>
