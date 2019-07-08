@@ -31248,6 +31248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ordering guarantee is limited to a partition—Kafka does not provide ordering guarantees when reading from different partitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202655Z" creationid="xccui" creationdate="20190708T202655Z">
+        <seg>但这样的话就只能针对某个分区实现保序，即它不能够保证跨不同分区的事件顺序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The original goals of this architecture were to improve the high result latency of the original batch analytics architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193729Z" creationid="xccui" creationdate="20190605T052749Z">
