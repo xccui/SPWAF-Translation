@@ -8280,8 +8280,8 @@
       <tuv lang="EN-US">
         <seg>An interesting property of watermarks is that they allow an application to control result completeness and latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T065918Z" creationid="xccui" creationdate="20190529T035835Z">
-        <seg>水位线的一个有趣之处在于，它允许应用控制结果的完整性和延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065330Z" creationid="xccui" creationdate="20190529T035835Z">
+        <seg>水位线的意义之一在于它允许应用控制结果的完整性和延迟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19337,8 +19337,8 @@
       <tuv lang="EN-US">
         <seg>In fact, if you want to compute anything interesting in a streaming application, even a simple count, you need to maintain state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T064507Z" creationid="xccui" creationdate="20190409T204144Z">
-        <seg>实际上，如果你想在流式应用中计算任何有意思的东西（即便是简单的计数），都需要维护状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065255Z" creationid="xccui" creationdate="20190409T204144Z">
+        <seg>实际上，如果你想在流式应用中计算任何有意义的结果（即便是简单的计数），都需要维护状态。</seg>
       </tuv>
     </tu>
     <tu>
