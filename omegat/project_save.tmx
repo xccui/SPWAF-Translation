@@ -15953,8 +15953,8 @@
       <tuv lang="EN-US">
         <seg>For example, a sink operator that writes the results and updates of a keyed window operator to a key-value store could do this by overriding inaccu‐ rate results with the latest update using upsert writes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T163859Z" creationid="xingcan" creationdate="20190628T163859Z">
-        <seg>例如，为了实现此目的，一个用于将键值窗口算子的结果及更新写入键值存储的数据汇算子，可以通过upsert写入模式将之前的非精确结果替换为最近一次更新。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070507Z" creationid="xingcan" creationdate="20190628T163859Z">
+        <seg>例如，为了实现此目的，一个用于将键值窗口算子的结果及更新写入键值存储的数据汇算子，可以通过Upsert写入模式将之前的非精确结果替换为最近一次更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15995,6 +15995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190606T211126Z">
         <seg>例如：窗口算子会为每个活动窗口注册一个计时器，它们会在事件时间超过窗口的结束时间时清理窗口状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, an application with a sink that upserts into a key-value store must ensure that it deterministically computes the keys that are used to upsert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070500Z" creationid="xccui" creationdate="20190708T070500Z">
+        <seg>例如，</seg>
       </tuv>
     </tu>
     <tu>
