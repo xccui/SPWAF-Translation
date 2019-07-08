@@ -5758,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;artifactId&gt;flink-connector-kafka_2.12&lt;/artifactId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171254Z" creationid="xccui" creationdate="20190708T171254Z">
+        <seg>&lt;artifactId&gt;flink-connector-kafka_2.12&lt;/artifactId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;artifactid&gt;flink-queryable-state-client-java_2.12&lt;/artifactid&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124900Z" creationid="xccui" creationdate="20190706T124900Z">
@@ -5770,6 +5778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124831Z" creationid="xccui" creationdate="20190706T124831Z">
         <seg>&lt;dependency&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;groupId&gt;org.apache.flink&lt;/groupId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171251Z" creationid="xccui" creationdate="20190708T171251Z">
+        <seg>&lt;groupId&gt;org.apache.flink&lt;/groupId&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24073,8 +24089,8 @@
       <tuv lang="EN-US">
         <seg>On the sink side, data streams are often produced into message queues to make the events available to subsequent streaming applications, written to filesystems for archiving or making the data available for offline analytics or batch applications, or inserted into key-value stores or relational database systems, like Cassandra, Elastic‐ Search, or MySQL, to make the data searchable and queryable, or to serve dashboard applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171112Z" creationid="xccui" creationdate="20190708T171112Z">
-        <seg>在数据汇一端</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T193342Z" creationid="xccui" creationdate="20190708T171112Z">
+        <seg>在数据汇一端，数据流中的事件经常会写入消息队列中，以支撑后续流式应用；或是会写入文件系统，实现归档或支撑后续离线分析或批处理应用；也可以插入到键值存储或数据库系统中（如Cassandra、ElasticSearch或MySQL），以供查询、搜索或仪表盘应用使用。</seg>
       </tuv>
     </tu>
     <tu>
