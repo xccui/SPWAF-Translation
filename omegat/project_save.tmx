@@ -28240,6 +28240,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 2PC protocol piggybacks on Flink’s existing checkpointing mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T163409Z" creationid="xccui" creationdate="20190708T163409Z">
+        <seg>2PC协议需要基于Flink已有的检查点机制来完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;Dispatcher&lt;t1/&gt; runs across job executions and provides a REST interface to sub&lt;t2/&gt;‐&lt;t3/&gt; mit applications for execution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T053228Z" creationid="xccui" creationdate="20190418T052650Z">
@@ -29364,6 +29372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T054457Z" creationid="xccui" creationdate="20190609T054457Z">
         <seg>有关端到端精确一次应用所面临的挑战和解决方案会在184页"应用一致性保障"一节详细讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The checkpoint barriers are notifications to start a new transaction, the notifications of all operators about the success of their individual checkpoint are their commit votes, and the messages of the JobManager that notify about the success of a checkpoint are the instructions to commit the transactions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165247Z" creationid="xccui" creationdate="20190708T165247Z">
+        <seg>检查点分隔符可认为是开启新事务的通知，所有算子完成各自检查点的通知可看做是提交投票（commit vote），而来自JobManager的检查点创建成功的消息其实是提交事务的指令。</seg>
       </tuv>
     </tu>
     <tu>
