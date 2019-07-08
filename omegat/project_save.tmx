@@ -32104,6 +32104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, resettable sources and Flink’s recovery mechanism are not sufficient to provide end-to-end exactly-once guarantees even though the application state is exactly-once consistent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T062430Z" creationid="xccui" creationdate="20190708T062430Z">
+        <seg>因此，可重置的数据源以及Flink的恢复机制虽然可以为应用状态提供精确一次的一致性保障，但无法提供端到端的精确一次保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, such changes are not safepoint compatible even though they look unobtrusive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041619Z" creationid="xccui" creationdate="20190705T041619Z">
