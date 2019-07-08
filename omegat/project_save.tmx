@@ -30272,6 +30272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The idea here is to only write those results to an external sink system that have been computed before the last successful checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072819Z" creationid="xccui" creationdate="20190708T072819Z">
+        <seg>它的基本思路是只有在上次成功的检查点之前计算的结果才会被写入外部数据接收系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The iden‐ tifiers are written into a savepoint as metadata with the actual state data of an opera‐ tor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015428Z" creationid="xccui" creationdate="20190703T015428Z">
@@ -32636,6 +32644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072058Z" creationid="xccui" creationdate="20190607T031013Z">
         <seg>如果应用不同输入流的事件时间没有对齐，那么该行为就会导致一些问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This behavior guarantees end-to-end exactly-once because in case of a failure, the application is reset to the last checkpoint and no results have been emitted to the sink system after that checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T073220Z" creationid="xccui" creationdate="20190708T073220Z">
+        <seg>该行为可以提供端到端的精确一次保障，因为在发生故障后，应用会被重置到上一个检查点，而接收系统不会收到任何在该检查点之后生成的结果。</seg>
       </tuv>
     </tu>
     <tu>
