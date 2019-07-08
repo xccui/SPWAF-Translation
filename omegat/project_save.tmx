@@ -15567,6 +15567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides source connectors for all common Kafka versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T203041Z" creationid="xccui" creationdate="20190708T203041Z">
+        <seg>Flink为所有常见的Kafka版本都提供了数据源连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides state backends that manage keyed state as objects stored in in-memory data structures on the JVM heap.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190608T052050Z">
@@ -33828,6 +33836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T063219Z" creationid="xccui" creationdate="20190424T063109Z">
         <seg>和独立进程相比，线程更加轻量并且通信开销更低，但无法严格地将任务彼此隔离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through Kafka 0.11, the API of the client library evolved and new features were added.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T203325Z" creationid="xccui" creationdate="20190708T203325Z">
+        <seg>从Kafka 0.11版本开始，其客户端库的API发生了一些改变且添加了部分新的功能。</seg>
       </tuv>
     </tu>
     <tu>
