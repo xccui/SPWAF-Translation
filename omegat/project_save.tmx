@@ -6086,6 +6086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Kafka sink is added to a DataStream application as shown in Example 8-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171245Z" creationid="xccui" creationdate="20190708T171245Z">
+        <seg>示例8-2中展示了如何将Kafka数据汇添加到DataStream应用中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A KeySelector function extracts a key from an input event:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T051016Z" creationid="xccui" creationdate="20190618T050945Z">
