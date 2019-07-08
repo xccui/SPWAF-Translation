@@ -20855,6 +20855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “Checkpoints, Savepoints, and State Recovery”, you learned that Flink’s check‐ pointing and recovery mechanism periodically takes consistent checkpoints of an application’s state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T051855Z" creationid="xccui" creationdate="20190708T051855Z">
+        <seg>在"检查点、保存点及状态恢复"一节，你了解了Flink的检查点和恢复机制会周期性地为应用状态创建一致性检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Controlling Task Chaining” on page 261, we show how to disable task chaining for an application and how to control the chaining behavior of individual operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T202250Z" creationid="xccui" creationdate="20190606T204112Z">
@@ -37389,6 +37397,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061616Z" creationid="esouser" creationdate="20190603T161436Z">
         <seg>你将从中学到如何实现DataStream应用以及Flink所支持的流式转换、函数、数据类型等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will learn how to implement custom source and sink connectors and how to implement functions that send asynchronous read or write requests to external datastores.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T051201Z" creationid="xccui" creationdate="20190708T051201Z">
+        <seg>你将学到如何实现自定义的数据源（汇）连接器以及如何在函数中向外部数据存储发送异步的读写请求。</seg>
       </tuv>
     </tu>
     <tu>
