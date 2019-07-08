@@ -8262,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An idempotent operation can be performed several times but will only result in a sin‐ gle change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T063359Z" creationid="xccui" creationdate="20190708T063359Z">
+        <seg>幂等操作可以多次执行，但只会导致一次改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An instance of the function class can then be passed as an argument to the filter transformation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054126Z" creationid="xccui" creationdate="20190618T054126Z">
