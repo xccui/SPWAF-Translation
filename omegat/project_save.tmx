@@ -13487,6 +13487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples for source con‐ nectors that support the checkpointing of reading positions are file-based sources that store the reading offsets in the byte stream of the file or a Kafka source that stores the reading offsets in the topic partitions it consumes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T054721Z" creationid="xccui" creationdate="20190708T054721Z">
+        <seg>支持将读取位置写入检查点的数据源连接器有：基于文件的连接器（会存储文件字节流的读取偏移）以及Kafka连接器（会存储消费主题分区的读取偏移）等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except from experiencing network delays, streams might be affected by many other factors resulting in events arriving &lt;t0/&gt;out-of-order&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152014Z" creationid="xccui" creationdate="20190412T151943Z">
