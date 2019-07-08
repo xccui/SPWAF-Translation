@@ -23257,8 +23257,8 @@
       <tuv lang="EN-US">
         <seg>Next, we introduce application designs based on stateful stream pro‐ cessing that exhibit many interesting characteristics and benefits over traditional approaches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T022934Z" creationid="esouser" creationdate="20190603T163031Z">
-        <seg>其次，我们会介绍基于状态化流处理的应用设计。和传统设计相比，它有很多有趣的特性和优势。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065714Z" creationid="esouser" creationdate="20190603T163031Z">
+        <seg>其次，我们会介绍基于状态化流处理的应用设计。和传统设计相比，它有很多有意义的特性及优势。</seg>
       </tuv>
     </tu>
     <tu>
