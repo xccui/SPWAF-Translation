@@ -30128,6 +30128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The earliest offset of each individual partition:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040246Z" creationid="xccui" creationdate="20190709T035343Z">
+        <seg>每个分区最早的偏移：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The easiest way to handle late events is to simply discard them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153552Z" creationid="xingcan" creationdate="20190628T153520Z">
@@ -31098,8 +31106,8 @@
       <tuv lang="EN-US">
         <seg>The last reading position known by Kafka for the consumer group that was con‐ figured via the group.id parameter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035159Z" creationid="xccui" creationdate="20190709T035159Z">
-        <seg>通过group.id参数配置的Kafka消费者组所记录的最后读取位置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035349Z" creationid="xccui" creationdate="20190709T035159Z">
+        <seg>通过group.id参数配置的Kafka消费者组所记录的最后读取位置，</seg>
       </tuv>
     </tu>
     <tu>
