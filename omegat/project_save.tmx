@@ -36728,6 +36728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will discuss this feature in more depth later in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T151825Z" creationid="xingcan" creationdate="20190709T151825Z">
+        <seg>我们会在本节后面部分讨论这个功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will discuss this topic in more detail in “Application Consistency Guarantees” on page 184.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005758Z" creationid="xccui" creationdate="20190613T005758Z">
@@ -38381,6 +38389,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024110Z" creationid="xccui" creationdate="20190703T023949Z">
         <seg>具体方式可以像示例7-10中那样利用uid()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can specify a FlinkKafkaPartitioner to control how records are mapped to Kafka partitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T151733Z" creationid="xingcan" creationdate="20190709T151733Z">
+        <seg>你可以指定一个FlinkKafkaPartitioner来控制记录如何映射到Kafka的不同分区。</seg>
       </tuv>
     </tu>
     <tu>
