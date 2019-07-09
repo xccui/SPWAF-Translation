@@ -6662,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum Properties configu‐ ration consists of two entries, "bootstrap.servers" and "group.id".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T020106Z" creationid="xccui" creationdate="20190709T020106Z">
+        <seg>我们至少要给Properties提供两个配置项，"bootstrap.servers"和"group.id"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A more challenging problem than TaskManager failures are JobManager failures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190502T043044Z" creationid="xccui" creationdate="20190502T042522Z">
