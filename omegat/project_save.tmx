@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0.10.x or later):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040430Z" creationid="xccui" creationdate="20190709T040430Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144704Z" creationid="esouser" creationdate="20190603T144704Z">
@@ -7938,6 +7946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064203Z" creationid="xccui" creationdate="20190523T035328Z">
         <seg>由Flink事件时间流式应用处理的所有记录都必须包含时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All records with a timestamp greater than a given timestamp (requires Kafka</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040417Z" creationid="xccui" creationdate="20190709T040417Z">
+        <seg>所有时间戳大于某个给定值的记录（需要Kafka 0.10.x或之后的版本）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15867,6 +15883,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152541Z" creationid="esouser" creationdate="20190603T152541Z">
         <seg>用于复杂事件处理和模式匹配的FlinkCEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FlinkKafkaConsumer.setStartFromEarliest()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040250Z" creationid="xccui" creationdate="20190709T040250Z">
+        <seg>FlinkKafkaConsumer.setStartFromEarliest()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FlinkKafkaConsumer.setStartFromLatest()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040318Z" creationid="xccui" creationdate="20190709T040318Z">
+        <seg>FlinkKafkaConsumer.setStartFromLatest()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FlinkKafkaConsumer.setStartFromTimestamp(long)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040434Z" creationid="xccui" creationdate="20190709T040434Z">
+        <seg>FlinkKafkaConsumer.setStartFromTimestamp(long)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27480,6 +27520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specific reading positions for all partitions as provided by a Map object:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040528Z" creationid="xccui" creationdate="20190709T040528Z">
+        <seg>由一个Map对象为所有分区指定读取位置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifically, we explain how to define and interact with different types of state in user-defined func‐ tions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T033930Z" creationid="xccui" creationdate="20190630T033819Z">
@@ -31108,6 +31156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035349Z" creationid="xccui" creationdate="20190709T035159Z">
         <seg>通过group.id参数配置的Kafka消费者组所记录的最后读取位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The latest offset of each individual partition:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040315Z" creationid="xccui" creationdate="20190709T040315Z">
+        <seg>每个分区最晚的偏移：</seg>
       </tuv>
     </tu>
     <tu>
