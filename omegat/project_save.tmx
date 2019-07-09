@@ -20887,6 +20887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T031806Z" creationid="xccui" creationdate="20190709T031806Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, any custom states of the triggers also need to be merged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194925Z" creationid="xccui" creationdate="20190626T194925Z">
@@ -44621,6 +44629,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130350Z" creationid="xccui" creationdate="20190605T130350Z">
         <seg>xii | 序言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you still need to generate watermarks and should apply an AssignerWithPeriodicWa termark or an AssignerWithPunctuatedWatermark that forwards the previously assigned Kafka timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T031932Z" creationid="xccui" creationdate="20190709T031932Z">
+        <seg>这种情况下，你仍然需要生成水位线，并利用AssignerWithPeriodicWatermark或AssignerWithPunctuatedWatermark来转发之前分配的Kafka时间戳。</seg>
       </tuv>
     </tu>
     <tu>
