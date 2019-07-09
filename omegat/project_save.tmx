@@ -32296,6 +32296,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sink connector throws an exception if a write does not succeed, causing the application to fail and recover.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T154318Z" creationid="xingcan" creationdate="20190709T154318Z">
+        <seg>如果数据汇连接器写入不成功，则会抛出异常，继而导致应用失败并进行故障恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The slide value defines the interval at which a new bucket is created.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T024245Z" creationid="xccui" creationdate="20190407T024134Z">
@@ -33980,6 +33988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T060100Z" creationid="xccui" creationdate="20190317T060100Z">
         <seg>这有点类似于数据库系统为了更新物化视图而使用的视图维护技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the default behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T154425Z" creationid="xingcan" creationdate="20190709T154425Z">
+        <seg>这其实就是默认行为。</seg>
       </tuv>
     </tu>
     <tu>
