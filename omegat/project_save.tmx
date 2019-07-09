@@ -22887,6 +22887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kafka guards against this by rejecting and closing transactions after a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T222531Z" creationid="xccui" creationdate="20190709T213045Z">
+        <seg>Kafka通过在一定时间间隔后（可以通过transaction.timeout.ms属性进行配置）拒绝并关闭事务来防止这种情况发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kafka messages are stored as raw byte messages and need to be deserialized into Java or Scala objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213417Z" creationid="xccui" creationdate="20190708T213417Z">
@@ -41899,8 +41907,8 @@
       <tuv lang="EN-US">
         <seg>open transactions can block consumers from reading a partition and introduce sig‐ nificant delays.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T213012Z" creationid="xccui" creationdate="20190709T213012Z">
-        <seg>因此，开启事务将阻碍消费者从分区中读取消息并会带来显著的延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T213201Z" creationid="xccui" creationdate="20190709T213012Z">
+        <seg>因此，开启事务可能会阻碍消费者从分区中读取消息并带来显著的延迟。</seg>
       </tuv>
     </tu>
     <tu>
