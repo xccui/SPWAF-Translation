@@ -9073,8 +9073,8 @@
       <tuv lang="EN-US">
         <seg>As a consequence, a single inactive partition causes the whole application to stall because the application’s watermarks do not make progress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022746Z" creationid="xccui" creationdate="20190709T022746Z">
-        <seg>因此，单个非活跃的分区就会导致整个应用停止运行</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022830Z" creationid="xccui" creationdate="20190709T022746Z">
+        <seg>因此，单个非活跃的分区就会导致整个应用停止运行，因为整个应用的水位线都不会前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9187,6 +9187,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040054Z" creationid="xccui" creationdate="20190523T040054Z">
         <seg>正如第2章所述，基本上所有现实世界的应用场景都会出现一定程度的时间戳乱序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As of version 0.10.0, Kafka supports message timestamps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022904Z" creationid="xccui" creationdate="20190709T022904Z">
+        <seg>Kafka从版本0.10.0开始支持消息时间戳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24049,8 +24057,8 @@
       <tuv lang="EN-US">
         <seg>Note that the watermarks of a source instance cannot make pro‐ gress if a partition becomes inactive and does not provide mes‐ sages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022630Z" creationid="xccui" creationdate="20190709T022630Z">
-        <seg>注意，如果某一分区变得非活跃状态且不再提供消息，那么数据源实例的水位线将不会前进。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022755Z" creationid="xccui" creationdate="20190709T022630Z">
+        <seg>注意，如果某一分区变得非活跃状态且不再提供消息，那么数据源实例的水位线将无法前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37069,6 +37077,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055827Z" creationid="xccui" creationdate="20190706T055827Z">
         <seg>正确配置后，你会在TaskManager的日志中看到以下信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When reading from Kafka version 0.10 or later, the consumer will automatically extract the message timestamp as an event-time timestamp if the application runs in event-time mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T031758Z" creationid="xccui" creationdate="20190709T031758Z">
+        <seg>因此，当我们从0.10之后的版本读取数据时，如果应用运行在事件时间模式下，消费者会自动提取消息的时间戳作为事件时间的时间戳。</seg>
       </tuv>
     </tu>
     <tu>
