@@ -15975,6 +15975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FlinkKafkaProducer provides more constructors with different combinations of arguments as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T150414Z" creationid="xingcan" creationdate="20190709T150414Z">
+        <seg>FlinkKafkaProducer还提供了很多具有不同参数组合的构造方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s Checkpointing Algorithm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T212839Z" creationid="xccui" creationdate="20190225T022209Z">
@@ -26792,6 +26800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SerializationSchema is the counterpart of the DeserializationSchema that we dis‐ cussed in the Kafka source section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T150319Z" creationid="xingcan" creationdate="20190709T150319Z">
+        <seg>SerializationSchema和我们在Kafka数据源一节讨论的DeserializationSchema作用相反。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Session &lt;t0/&gt;windows are useful in a common real-world scenario where neither&lt;t1/&gt; &lt;t2/&gt;tumbling nor sliding windows can be applied.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T024942Z" creationid="xccui" creationdate="20190407T024730Z">
@@ -32108,6 +32124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213336Z" creationid="xccui" creationdate="20190708T213336Z">
         <seg>第二个参数是一个DeserializationSchema或KeyedDeserializationSchema。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second is the name of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T150222Z" creationid="xingcan" creationdate="20190709T150222Z">
+        <seg>第二个参数是数据写入的目标主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43301,6 +43325,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065121Z" creationid="xccui" creationdate="20190619T065121Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>topic to which the data is written, and the last is a SerializationSchema that con‐ verts the input types of the sink (String in Example 8-2) into a byte array.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T150217Z" creationid="xingcan" creationdate="20190709T150158Z">
+        <seg>最后一个参数SerializationSchema用于将数据汇的输入类型（示例8-2中的是String）转换为字节数组。</seg>
       </tuv>
     </tu>
     <tu>
