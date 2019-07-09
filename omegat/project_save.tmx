@@ -32680,6 +32680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are a few more notable configuration options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T032350Z" creationid="xccui" creationdate="20190709T032350Z">
+        <seg>还有一些我们认为值得关注的配置选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are also applications that do not emit results but keep them internally to serve them via Flink’s queryable state feature.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054456Z" creationid="xccui" creationdate="20190612T054456Z">
@@ -35520,6 +35528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Valid options are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T032225Z" creationid="xccui" creationdate="20190709T032119Z">
+        <seg>可选的配置项有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Value state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T215622Z" creationid="xccui" creationdate="20190607T192625Z">
@@ -37989,6 +38005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005618Z" creationid="xccui" creationdate="20190612T005349Z">
         <seg>你可以通过改变上述mvn命令的相应参数来更改Flink版本，Maven的组标识符和项目标识符，项目版本以及生成的包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can configure the starting position from which the partitions of a topic are initially read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T032046Z" creationid="xccui" creationdate="20190709T032046Z">
+        <seg>你可以配置主题分区开始读取数据的位置。</seg>
       </tuv>
     </tu>
     <tu>
