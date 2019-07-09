@@ -7806,6 +7806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again, a Flink application must enable check‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T163542Z" creationid="xingcan" creationdate="20190709T163438Z">
+        <seg>Flink应用依然需要启用检查点并从一个可重置的数据源消费数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AggregateFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002621Z" creationid="xccui" creationdate="20190624T002621Z">
@@ -42380,6 +42388,14 @@
         <seg>point.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194324Z" creationid="xccui" creationdate="20190626T194324Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pointing and consume from resettable sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T163545Z" creationid="xingcan" creationdate="20190709T163545Z">
         <seg></seg>
       </tuv>
     </tu>
