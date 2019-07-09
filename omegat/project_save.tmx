@@ -31226,8 +31226,8 @@
       <tuv lang="EN-US">
         <seg>The internal Kafka client can be configured to retry writes before declaring them failed by setting the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T154506Z" creationid="xingcan" creationdate="20190709T154506Z">
-        <seg>我们可以通过将重试内部的kafka客户端</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155327Z" creationid="xingcan" creationdate="20190709T154506Z">
+        <seg>你可以通过将重试属性（retries property）设置为一个大于0（0是默认值）的值来配置内部的kafka客户端在宣告写入失败之前重试几次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38329,6 +38329,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also configure the sink to log write only failures by calling setLogFailuresOnly(true) on the sink object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155322Z" creationid="xingcan" creationdate="20190709T155322Z">
+        <seg>你还可以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also delete them if you do not need them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010448Z" creationid="xccui" creationdate="20190612T010135Z">
@@ -42749,6 +42757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041321Z" creationid="xccui" creationdate="20190707T041321Z">
         <seg>results(i) = futures(i).get().value()._2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>retries property to a value larger than zero (the default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155135Z" creationid="xingcan" creationdate="20190709T155135Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
