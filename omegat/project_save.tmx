@@ -10191,6 +10191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By calling setFlushOnCheck point(false) on the sink object, you can disable this waiting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161431Z" creationid="xingcan" creationdate="20190709T161357Z">
+        <seg>你可以在数据汇连接器对象上调用setFlushOnCheckpoint(false)来禁用该等待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By changing the data type of a state, such as changing a ValueState[Int] to a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044303Z" creationid="xccui" creationdate="20190705T044241Z">
@@ -18267,6 +18275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T051715Z" creationid="xccui" creationdate="20190317T033023Z">
         <seg>然而，这在过去十年里发生了巨大的变化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, this will</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161505Z" creationid="xingcan" creationdate="20190709T161505Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -32330,8 +32346,8 @@
       <tuv lang="EN-US">
         <seg>The sink connector waits for Kafka to acknowledge in-flight records before com‐ pleting its checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161021Z" creationid="xingcan" creationdate="20190709T161021Z">
-        <seg>数据汇连接器会在完成检查点工作前等待kafka确认</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161250Z" creationid="xingcan" creationdate="20190709T161021Z">
+        <seg>数据汇连接器要在检查点完成前等待kafka确认记录写入完毕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38355,8 +38371,8 @@
       <tuv lang="EN-US">
         <seg>You can also configure the sink to log write only failures by calling setLogFailuresOnly(true) on the sink object.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155734Z" creationid="xingcan" creationdate="20190709T155322Z">
-        <seg>你还可以通过调用数据汇对象的setLogFailuresOnly(true)方法让它仅将故障写入日志中。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161428Z" creationid="xingcan" creationdate="20190709T155322Z">
+        <seg>你还可以在数据汇对象上调用setLogFailuresOnly(true)让它仅将故障写入日志中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39005,6 +39021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033400Z" creationid="xccui" creationdate="20190704T033038Z">
         <seg>RocksDBStateBackend的MapState允许按照每个键对其数据值进行读写，并且只有那些读写的键和数据值才需要进行（反）序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>also disable any output guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161502Z" creationid="xingcan" creationdate="20190709T161502Z">
+        <seg>但这同样会失去任何输入保障。</seg>
       </tuv>
     </tu>
     <tu>
