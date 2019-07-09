@@ -6478,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A consumer that reads from a topic can be configured with an isolation level (via</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T212747Z" creationid="xccui" creationdate="20190709T212747Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A container that is started from this image automati‐ cally starts a TaskManager, which connects to the ResourceManager and registers its slots.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063413Z" creationid="xccui" creationdate="20190606T143759Z">
@@ -17355,6 +17363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035709Z" creationid="xccui" creationdate="20190418T035709Z">
         <seg>Hello, Flink!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T212752Z" creationid="xccui" creationdate="20190709T212752Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -41877,6 +41893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163340Z" creationid="xccui" creationdate="20190702T163340Z">
         <seg>opHighTempCnt = opCntState.get().asScala.sum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>open transactions can block consumers from reading a partition and introduce sig‐ nificant delays.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T213012Z" creationid="xccui" creationdate="20190709T213012Z">
+        <seg>因此，开启事务将阻碍消费者从分区中读取消息并会带来显著的延迟。</seg>
       </tuv>
     </tu>
     <tu>
