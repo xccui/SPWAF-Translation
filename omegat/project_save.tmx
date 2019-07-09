@@ -21743,6 +21743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of using a SerializationSchema to convert records into byte arrays, you can also specify a KeyedSerializationSchema, which serializes a record into two byte arrays—one for the key and one for the value of a Kafka message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T152718Z" creationid="xingcan" creationdate="20190709T152718Z">
+        <seg>除了使用SerializationSchema将记录转换成字节数组，你还可以选用KeyedSerializationSchema，它会将一条记录序列化成两个字节数组，分别作为kafka消息的键和值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of waiting to be periodically trig&lt;t0/&gt;‐&lt;t1/&gt; gered, a streaming analytics application continuously ingests streams of events and maintains an updating result by incorporating the latest events with low latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T062449Z" creationid="xccui" creationdate="20190317T055651Z">
