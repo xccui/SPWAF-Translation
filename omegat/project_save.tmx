@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041352Z" creationid="xccui" creationdate="20190702T041352Z">
         <seg>"thresholds", classOf[String], classOf[Double])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"topic",</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144756Z" creationid="xingcan" creationdate="20190709T144756Z">
+        <seg>"topic",</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// broker list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144752Z" creationid="xingcan" creationdate="20190709T144752Z">
+        <seg>// Broker列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// can be looked up in logs of running job or the web UI</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040028Z" creationid="xccui" creationdate="20190707T040028Z">
@@ -2838,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// serialization schema</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144909Z" creationid="xingcan" creationdate="20190709T144909Z">
+        <seg>// 序列化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set checkpointing interval to 10 seconds (10000 milliseconds)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204847Z" creationid="xccui" creationdate="20190702T204847Z">
@@ -3018,6 +3042,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032055Z" creationid="xccui" creationdate="20190622T032055Z">
         <seg>// 开启转发的开关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// target topic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144806Z" creationid="xingcan" creationdate="20190709T144806Z">
+        <seg>// 目标主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,8 +8216,8 @@
       <tuv lang="EN-US">
         <seg>An ETL process extracts data from a transactional database, transforms it into a common representation that might include validation, value normalization, encoding, deduplication, and schema trans‐ formation, and finally loads it into the analytical database.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T064753Z" creationid="esouser" creationdate="20190603T202811Z">
-        <seg>ETL的基本流程是：从事务型数据库中提取数据，将其转换为通用表示形式（可能包含数据验证、数据归一化、编码、去重、格式转换等工作），最终加载到分析型数据库中。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144947Z" creationid="esouser" creationdate="20190603T202811Z">
+        <seg>ETL的基本流程是：从事务型数据库中提取数据，将其转换为通用表示形式（可能包含数据验证、数据归一化、编码、去重、Schema转换等工作），最终加载到分析型数据库中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41305,6 +41337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new SimpleStringSchema)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144822Z" creationid="xingcan" creationdate="20190709T144822Z">
+        <seg>new SimpleStringSchema)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new TimeWindow.Serializer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044232Z" creationid="xccui" creationdate="20190626T044232Z">
@@ -44041,6 +44081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val myProducer = new FlinkKafkaProducer[String]( "localhost:9092",</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144733Z" creationid="xingcan" creationdate="20190709T144733Z">
+        <seg>val myProducer = new FlinkKafkaProducer[String]( "localhost:9092",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val newTimer = ctx.timestamp() + (3600 * 1000)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210548Z" creationid="xccui" creationdate="20190704T210548Z">
@@ -44373,6 +44421,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051957Z" creationid="xccui" creationdate="20190620T051957Z">
         <seg>val stream: DataStream[SensorReading] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val stream: DataStream[String] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144730Z" creationid="xingcan" creationdate="20190709T144730Z">
+        <seg>val stream: DataStream[String] = ...</seg>
       </tuv>
     </tu>
     <tu>
