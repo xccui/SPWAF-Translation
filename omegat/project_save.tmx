@@ -19425,8 +19425,8 @@
       <tuv lang="EN-US">
         <seg>In a nutshell, Kafka’s transactions work by appending all messages to the log of a partition and marking messages of open transactions as uncommitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T211504Z" creationid="xccui" creationdate="20190709T211504Z">
-        <seg>简而言之，Kafka的事务的实现原理是向分区日志中追加全部消息，并将未完成事务的消息标记为未提交。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T211725Z" creationid="xccui" creationdate="20190709T211504Z">
+        <seg>简而言之，Kafka的事务的实现原理是把全部消息都追加到分区日志中，并将未完成事务的消息标记为未提交。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24643,6 +24643,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T195048Z" creationid="xccui" creationdate="20190606T202839Z">
         <seg>一旦发送端收到信用通知，就会在信用值所限定的范围内尽可能多地传输缓冲数据，并会附带上积压量（已经填满准备传输的网络缓冲数目）大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once a transaction is committed, the markers are changed to commit‐ ted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T211612Z" creationid="xccui" creationdate="20190709T211612Z">
+        <seg>一旦事务提交，这些标记就会变成已提交。</seg>
       </tuv>
     </tu>
     <tu>
