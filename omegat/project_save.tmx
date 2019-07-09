@@ -9633,8 +9633,8 @@
       <tuv lang="EN-US">
         <seg>At-least-once guarantees for the Kafka sink</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T153813Z" creationid="xingcan" creationdate="20190709T153813Z">
-        <seg>Kafka数据汇的精确一次保障</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T160817Z" creationid="xingcan" creationdate="20190709T153813Z">
+        <seg>Kafka数据汇的至少一次保障</seg>
       </tuv>
     </tu>
     <tu>
@@ -13179,6 +13179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034738Z" creationid="xccui" creationdate="20190606T034738Z">
         <seg>精确一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exactly-once guarantees for the Kafka sink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T160826Z" creationid="xingcan" creationdate="20190709T160826Z">
+        <seg>Kafka数据汇的精确一次保障</seg>
       </tuv>
     </tu>
     <tu>
