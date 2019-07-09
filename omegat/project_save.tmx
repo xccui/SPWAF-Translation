@@ -16063,6 +16063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s checkpointing is enabled and all sources of the application are resettable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T154054Z" creationid="xingcan" creationdate="20190709T154054Z">
+        <seg>Flink的检查点功能处于开启状态，应用所有的数据源都是可重置的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s default configuration for network buffers is sufficient for small to medium-sized setups.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045743Z" creationid="xccui" creationdate="20190504T045713Z">
@@ -29448,6 +29456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Kafka sink provides at-least-once guarantees under the following condi‐ tions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T153953Z" creationid="xingcan" creationdate="20190709T153953Z">
+        <seg>在满足以下条件时，它才可以提供精确一次保障：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The KeyedProcessFunction is a very versatile function and can be applied to a Keyed Stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053015Z" creationid="xccui" creationdate="20190621T052943Z">
@@ -30196,6 +30212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045206Z" creationid="xccui" creationdate="20190615T045206Z">
         <seg>本节讨论的connect转换以及协处理函数通用性更强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The consistency guarantees that Flink’s Kafka sink provides depend on its configura‐ tion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T153919Z" creationid="xingcan" creationdate="20190709T153919Z">
+        <seg>Flink kafka数据汇所提供的一致性保障取决于它的配置。</seg>
       </tuv>
     </tu>
     <tu>
