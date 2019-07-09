@@ -33040,6 +33040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These fea‐ tures are disabled by default and can be enabled by adding the parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042437Z" creationid="xccui" creationdate="20190709T042437Z">
+        <seg>该功能默认情况下是关闭的，你可以通过在Properties对象中为参数flink.partition-discovery.interval-millis设置一个非负的值来启用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These functions are typically very space-efficient and eventually emit the aggregated value as a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210933Z" creationid="xccui" creationdate="20190623T210933Z">
