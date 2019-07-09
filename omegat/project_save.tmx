@@ -19423,6 +19423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a nutshell, Kafka’s transactions work by appending all messages to the log of a partition and marking messages of open transactions as uncommitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T211504Z" creationid="xccui" creationdate="20190709T211504Z">
+        <seg>简而言之，Kafka的事务的实现原理是向分区日志中追加全部消息，并将未完成事务的消息标记为未提交。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a real-word streaming architecture however, it is common to have several connected components.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045315Z" creationid="xccui" creationdate="20190416T045214Z">
