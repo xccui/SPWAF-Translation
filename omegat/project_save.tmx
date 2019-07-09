@@ -18671,6 +18671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the consumer is configured to read_committed, it stops consuming from a partition once it encoun‐ ters an uncommitted message and resumes when the message is committed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T212745Z" creationid="xccui" creationdate="20190709T212745Z">
+        <seg>如果将一个消费者配置为read_committed，那么它一旦遇到一条未提交的消息，就会停止对该分区消费，直到消息被提交为止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the data type is a tuple, keys can be defined by simply using the field position of the corresponding tuple element.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033121Z" creationid="xccui" creationdate="20190618T033121Z">
