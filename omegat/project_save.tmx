@@ -1680,8 +1680,8 @@
       <tuv lang="EN-US">
         <seg>// broker list</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144752Z" creationid="xingcan" creationdate="20190709T144752Z">
-        <seg>// Broker列表</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145553Z" creationid="xingcan" creationdate="20190709T144752Z">
+        <seg>// Kafka Broker列表</seg>
       </tuv>
     </tu>
     <tu>
