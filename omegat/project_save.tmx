@@ -23567,6 +23567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, FlinkKafkaProducer pro‐ vides a constructor with a Semantic parameter that controls the consistency guarantees provided by the sink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T164606Z" creationid="xingcan" creationdate="20190709T164606Z">
+        <seg>此外，FlinkKafkaProducer还提供了一个带有Semantic参数的构造函数，用来控制数据汇提供的一致性保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, Kryo does not provide a good migration path to evolve data types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070032Z" creationid="xccui" creationdate="20190616T070032Z">
