@@ -12287,6 +12287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to this feature, Flink’s Kafka sink is also able to provide exactly-once output guarantees given that the sink and Kafka are properly configured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161955Z" creationid="xingcan" creationdate="20190709T161955Z">
+        <seg>由于有了该功能，Flink的kafka数据汇同样可以在自身和kafka都正确配置的前提下提供精确一次的输出保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to this replication of data, the data stores must be kept in sync.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T070309Z" creationid="xccui" creationdate="20190314T070309Z">
