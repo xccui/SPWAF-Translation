@@ -25642,8 +25642,8 @@
       <tuv lang="EN-US">
         <seg>Possible consistency values are:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T205931Z" creationid="xccui" creationdate="20190709T205931Z">
-        <seg>它所提供的一致性选项有</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210221Z" creationid="xccui" creationdate="20190709T205931Z">
+        <seg>可能的一致性选项有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37771,8 +37771,8 @@
       <tuv lang="EN-US">
         <seg>When using Properties, the list of brokers has to be provided as a "bootstrap.servers" property.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T151558Z" creationid="xingcan" creationdate="20190709T151558Z">
-        <seg>在使用Properties对象时，Broker列表需要通过“bootstrap.servers”属性提供。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210134Z" creationid="xingcan" creationdate="20190709T151558Z">
+        <seg>在使用Properties对象时，Broker列表需要通过"bootstrap.servers"属性提供。</seg>
       </tuv>
     </tu>
     <tu>
