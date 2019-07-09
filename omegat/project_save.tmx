@@ -20655,6 +20655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the context of Flink’s Kafka sink, this is important because transactions that time out—due to long recovery cycles, for example—lead to data loss.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T222923Z" creationid="xccui" creationdate="20190709T222923Z">
+        <seg>该配置在Flink的Kafka数据汇中非常重要，因为事务超时（例如由于长时间的故障恢复周期而引起）会导致数据丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the context of an event- time window operator, an event is late if it arrives at the operator and the window assigner maps it to a window that has already been computed because the operator’s watermark passed the end timestamp of the window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152848Z" creationid="xingcan" creationdate="20190628T152848Z">
@@ -41907,8 +41915,8 @@
       <tuv lang="EN-US">
         <seg>open transactions can block consumers from reading a partition and introduce sig‐ nificant delays.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T213201Z" creationid="xccui" creationdate="20190709T213012Z">
-        <seg>因此，开启事务可能会阻碍消费者从分区中读取消息并带来显著的延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T222541Z" creationid="xccui" creationdate="20190709T213012Z">
+        <seg>因此，开启事务可能会阻碍消费者从分区中读取消息并带来明显延迟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43509,6 +43517,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042645Z" creationid="xccui" creationdate="20190702T042645Z">
         <seg>thresholds.remove(update.id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>timeout interval, which is configured with the transaction.timeout.ms property.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T222545Z" creationid="xccui" creationdate="20190709T222545Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
