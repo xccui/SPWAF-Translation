@@ -12023,6 +12023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DeserializationSchema and KeyedDeserializationSchema are public interfaces so you can always implement custom deserialization logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213727Z" creationid="xccui" creationdate="20190708T213727Z">
+        <seg>DeserializationSchema和KeyedDeserializationSchema都是公开接口，因此你可以随意实现自定义的反序列化逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Designed for the special case where the state of each task of an operator is identi‐ cal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T185523Z" creationid="xccui" creationdate="20190607T184956Z">
@@ -32268,6 +32276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T050910Z" creationid="xccui" creationdate="20190327T050627Z">
         <seg>第三代分布式流处理引擎（2015年）修复了结果对事件到来时间及顺序的依赖问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The third parameter is a Properties object that configures the Kafka client that is internally used to connect to and read from Kafka.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T015924Z" creationid="xccui" creationdate="20190709T015924Z">
+        <seg>第三个参数是一个Properties对象，它用于配置连接器内部负责连接和从Kafka读取数据的Kafka客户端。</seg>
       </tuv>
     </tu>
     <tu>
