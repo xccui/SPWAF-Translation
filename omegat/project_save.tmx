@@ -26536,6 +26536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 6 for details about the timestamp assigner interfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035332Z" creationid="xccui" creationdate="20190709T035332Z">
+        <seg>有关时间戳分配接口的详细信息请参照第6章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 8 for details on keyed state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190615T052230Z">
@@ -33684,6 +33692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T060100Z" creationid="xccui" creationdate="20190317T060100Z">
         <seg>这有点类似于数据库系统为了更新物化视图而使用的视图维护技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the default behavior: FlinkKafkaConsumer.setStartFromGroupOffsets()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035313Z" creationid="xccui" creationdate="20190709T035313Z">
+        <seg>这也是默认的行为：FlinkKafkaConsumer.setStartFromGroupOffsets()</seg>
       </tuv>
     </tu>
     <tu>
