@@ -22831,6 +22831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kafka 0.11 introduced support for transactional writes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161808Z" creationid="xingcan" creationdate="20190709T161808Z">
+        <seg>Kafka从0.11版本开始支持事务性写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kafka messages are stored as raw byte messages and need to be deserialized into Java or Scala objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213417Z" creationid="xccui" creationdate="20190708T213417Z">
