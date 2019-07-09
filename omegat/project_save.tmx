@@ -9631,6 +9631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At-least-once guarantees for the Kafka sink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T153813Z" creationid="xingcan" creationdate="20190709T153813Z">
+        <seg>Kafka数据汇的精确一次保障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At-most-once</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034320Z" creationid="xccui" creationdate="20190606T034320Z">
@@ -22855,6 +22863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KeyedSerializationSchema also exposes more Kafka-specific functionality, such as overriding the target topic to write to multiple topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T153758Z" creationid="xingcan" creationdate="20190709T153741Z">
+        <seg>此外，KeyedSerializationSchema还支持其他一些Kafka特定的功能，例如覆盖目标主题配置、将记录写入多个主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KeyedStateFunction to the value of each key in the keyed state ref‐ erenced by the StateDescriptor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055151Z" creationid="xccui" creationdate="20190702T054650Z">
@@ -23475,6 +23491,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034347Z" creationid="xccui" creationdate="20190621T034203Z">
         <seg>此外，由于应用需要在计算之前缓冲更多的数据，所以通常会导致状态大小也随之增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T153744Z" creationid="xingcan" creationdate="20190709T153744Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
