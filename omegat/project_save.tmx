@@ -27032,6 +27032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similar to the Kafka source connector, you can pass a Properties object to pro‐ vide custom options to the internal Kafka client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T151114Z" creationid="xingcan" creationdate="20190709T151114Z">
+        <seg>和Kafka数据源连接器类似，你可以利用Properties对象为内部Kafka客户端提供一些自定义选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similar to the ProcessFunction, both methods are called with a Context object that</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030809Z" creationid="xccui" creationdate="20190622T030518Z">
