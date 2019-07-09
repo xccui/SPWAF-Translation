@@ -25744,6 +25744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Properties object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042451Z" creationid="xccui" creationdate="20190709T042451Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provided Connectors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030757Z" creationid="xccui" creationdate="20190225T025117Z">
@@ -33042,8 +33050,8 @@
       <tuv lang="EN-US">
         <seg>These fea‐ tures are disabled by default and can be enabled by adding the parameter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042437Z" creationid="xccui" creationdate="20190709T042437Z">
-        <seg>该功能默认情况下是关闭的，你可以通过在Properties对象中为参数flink.partition-discovery.interval-millis设置一个非负的值来启用它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042612Z" creationid="xccui" creationdate="20190709T042437Z">
+        <seg>该功能默认情况下是关闭的，你可以通过在Properties对象中为配置属性flink.partition-discovery.interval-millis设置一个非负的值来启用它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40085,6 +40093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T025119Z" creationid="esouser" creationdate="20190603T203039Z">
         <seg>第一类是定期报告查询。它可用于计算业务相关的统计数据，如收入、用户增长、产出等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flink.partition-discovery.interval-millis with a nonnegative value to the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042441Z" creationid="xccui" creationdate="20190709T042441Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
