@@ -15903,6 +15903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FlinkKafkaConsumer.setStartFromSpecificOffsets(Map)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040532Z" creationid="xccui" creationdate="20190709T040532Z">
+        <seg>FlinkKafkaConsumer.setStartFromSpecificOffsets(Map)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FlinkKafkaConsumer.setStartFromTimestamp(long)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040434Z" creationid="xccui" creationdate="20190709T040434Z">
@@ -20455,6 +20463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of a recovery or when starting from a savepoint, an application will start reading from the offsets stored in the check‐ point or savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040830Z" creationid="xccui" creationdate="20190709T040830Z">
+        <seg>在进行故障恢复或从保存点开始启动的情况下，应用将从存储在检查点或保存点中的偏移开始读取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of downscaling, the surplus tasks are simply canceled since state is already replicated and will not be lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T062154Z" creationid="xccui" creationdate="20190608T061946Z">
@@ -24119,6 +24135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that this configuration only affects the first reading positions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040744Z" creationid="xccui" creationdate="20190709T040620Z">
+        <seg>注意，上述配置只会影响首次读取的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that to be able to efficiently combine the current state with an event and produce a single value, the aggregation function must be associative and commuta&lt;t0/&gt;‐&lt;t1/&gt; tive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035418Z" creationid="xccui" creationdate="20190406T035032Z">
@@ -27522,8 +27546,8 @@
       <tuv lang="EN-US">
         <seg>Specific reading positions for all partitions as provided by a Map object:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040528Z" creationid="xccui" creationdate="20190709T040528Z">
-        <seg>由一个Map对象为所有分区指定读取位置：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040542Z" creationid="xccui" creationdate="20190709T040528Z">
+        <seg>利用一个Map对象为所有分区指定读取位置：</seg>
       </tuv>
     </tu>
     <tu>
