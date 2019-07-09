@@ -2856,8 +2856,8 @@
       <tuv lang="EN-US">
         <seg>// serialization schema</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145229Z" creationid="xingcan" creationdate="20190709T144909Z">
-        <seg>// 序列化Schema</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145408Z" creationid="xingcan" creationdate="20190709T144909Z">
+        <seg>// 序列化的Schema</seg>
       </tuv>
     </tu>
     <tu>
@@ -30152,6 +30152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The constructor used in Example 8-2 receives three parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145434Z" creationid="xingcan" creationdate="20190709T145434Z">
+        <seg>示例8-2中的构造方法接收三个参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The content of the window is completely discarded and the window including all metadata is removed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184909Z" creationid="xccui" creationdate="20190626T184757Z">
@@ -30524,6 +30532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045249Z" creationid="xccui" creationdate="20190620T045145Z">
         <seg>前者定义的分配器会周期性地发出水位线，而后者会根据输入事件的属性来引入水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first parameter is a comma-separated string of Kafka broker addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145524Z" creationid="xingcan" creationdate="20190709T145524Z">
+        <seg>第一个参数是英文逗号分隔的Kafka Broker地址字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42813,6 +42829,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015026Z" creationid="xccui" creationdate="20190622T015026Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stream.addSink(myProducer)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145410Z" creationid="xingcan" creationdate="20190709T145410Z">
+        <seg>stream.addSink(myProducer)</seg>
       </tuv>
     </tu>
     <tu>
