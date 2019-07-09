@@ -15255,6 +15255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink also features version-specific con‐ nectors for Kafka versions 0.8, 0.9, 0.10, and 0.11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T043520Z" creationid="xccui" creationdate="20190709T043520Z">
+        <seg>同时它还为Kafka 0.8、0.9、0.10以及0.11版本分别提供了专用的连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink analyzes each type that does not fall into any category and checks to see if it can be identified and handled as a POJO type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042544Z" creationid="xccui" creationdate="20190617T042544Z">
@@ -15699,6 +15707,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T040825Z">
         <seg>Flink为键值分区状态提供了很多原语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides sink connectors for all Kafka versions since 0.8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T043315Z" creationid="xccui" creationdate="20190709T043315Z">
+        <seg>Flink为Kafka 0.8之后的所有版本都提供了数据汇连接器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16819,6 +16835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T031701Z" creationid="xccui" creationdate="20190628T031631Z">
         <seg>对第一个输入而言，所有时间戳大于当前水位线减去间隔上界的数据都会被缓冲起来；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the remainder of this section, we focus on the universal connector and refer you to Flink’s documentation for the version-specific connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T043548Z" creationid="xccui" creationdate="20190709T043548Z">
+        <seg>在本章其余部分，我们会把关注点放在通用的连接器上面。如果你想了解某个特定版本的连接器，请参阅Flink的相关文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34236,6 +34260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T063219Z" creationid="xccui" creationdate="20190424T063109Z">
         <seg>和独立进程相比，线程更加轻量并且通信开销更低，但无法严格地将任务彼此隔离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through Kafka 0.11, the API of the client library evolved and new features were added, such as record timestamp support with Kafka 0.10 and transactional writes with Kafka 0.11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T043456Z" creationid="xccui" creationdate="20190709T043423Z">
+        <seg>Kafka在0.11版本以前，其客户端库的API一直在改变且经常添加一些新的功能，例如它在0.10版本开始支持记录时间戳，在0.11版本开始支持事务性写。</seg>
       </tuv>
     </tu>
     <tu>
