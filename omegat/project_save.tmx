@@ -24649,8 +24649,8 @@
       <tuv lang="EN-US">
         <seg>Once a transaction is committed, the markers are changed to commit‐ ted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T211612Z" creationid="xccui" creationdate="20190709T211612Z">
-        <seg>一旦事务提交，这些标记就会变成已提交。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T211753Z" creationid="xccui" creationdate="20190709T211612Z">
+        <seg>一旦事务提交，这些标记就会被改为已提交。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43349,6 +43349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054026Z" creationid="xccui" creationdate="20190620T054026Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the isolation.level property) to declare whether it can read uncommitted mes‐ sages (read_uncommitted, the default) or not (read_committed).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T212345Z" creationid="xccui" creationdate="20190709T212345Z">
+        <seg>针对某一主题的消费者可以通过隔离级别配置（isolation.level属性）来声明自己可以读取未提交的消息（read_uncommitted，默认配置）还是不可以（read_committed）。</seg>
       </tuv>
     </tu>
     <tu>
