@@ -6070,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Flink Kafka consumer can be configured to automatically discover new topics that match the regular expression or new partitions that were added to a topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042240Z" creationid="xccui" creationdate="20190709T042240Z">
+        <seg>我们可以通过配置让Flink Kafka消费者自动发现满足给定正则表达式的新主题或添加到主题中的新分区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Flink setup consists for four different components that work together to execute streaming applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033459Z" creationid="xccui" creationdate="20190418T033431Z">
@@ -24137,8 +24145,8 @@
       <tuv lang="EN-US">
         <seg>Note that this configuration only affects the first reading positions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040744Z" creationid="xccui" creationdate="20190709T040620Z">
-        <seg>注意，上述配置只会影响首次读取的位置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040926Z" creationid="xccui" creationdate="20190709T040620Z">
+        <seg>注意，上述配置只会对应用首次启动后的读取位置起作用。</seg>
       </tuv>
     </tu>
     <tu>
