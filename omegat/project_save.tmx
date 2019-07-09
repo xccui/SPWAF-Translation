@@ -2856,8 +2856,8 @@
       <tuv lang="EN-US">
         <seg>// serialization schema</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T144909Z" creationid="xingcan" creationdate="20190709T144909Z">
-        <seg>// 序列化</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145229Z" creationid="xingcan" creationdate="20190709T144909Z">
+        <seg>// 序列化Schema</seg>
       </tuv>
     </tu>
     <tu>
