@@ -30208,6 +30208,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dependency for Flink’s universal Kafka connector is added to a Maven project as shown in the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T043637Z" creationid="xccui" creationdate="20190709T043637Z">
+        <seg>我们可以像下面这样把Flink通用的Kafka连接器依赖添加到Maven项目中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dependency for the universal Flink Kafka connector is added to a Maven project as shown in the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T204612Z" creationid="xccui" creationdate="20190708T204612Z">
