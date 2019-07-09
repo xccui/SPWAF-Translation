@@ -24271,6 +24271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that this will void any output guarantees of the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T160923Z" creationid="xingcan" creationdate="20190709T160923Z">
+        <seg>但请注意，这样应用将无法提供任何输出保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that to be able to efficiently combine the current state with an event and produce a single value, the aggregation function must be associative and commuta&lt;t0/&gt;‐&lt;t1/&gt; tive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T035418Z" creationid="xccui" creationdate="20190406T035032Z">
@@ -32320,6 +32328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sink connector waits for Kafka to acknowledge in-flight records before com‐ pleting its checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161021Z" creationid="xingcan" creationdate="20190709T161021Z">
+        <seg>数据汇连接器会在完成检查点工作前等待kafka确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The slide value defines the interval at which a new bucket is created.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T024245Z" creationid="xccui" creationdate="20190407T024134Z">
@@ -34010,8 +34026,8 @@
       <tuv lang="EN-US">
         <seg>This is the default behavior.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155813Z" creationid="xingcan" creationdate="20190709T154425Z">
-        <seg>这也就是默认行为。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161027Z" creationid="xingcan" creationdate="20190709T154425Z">
+        <seg>这也是默认的行为。</seg>
       </tuv>
     </tu>
     <tu>
