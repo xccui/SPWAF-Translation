@@ -33104,6 +33104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are a few things to consider when running a Flink application with a Kafka sink that operates in exactly-once mode, and it helps to roughly understand how Kafka processes transactions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T211236Z" creationid="xccui" creationdate="20190709T211236Z">
+        <seg>如果你为Flink应用配置了在精确一次模式下工作的Kafka数据汇，则要考虑一些问题，它们将帮助你对Kafka的事务处理有一个大概的认识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are also applications that do not emit results but keep them internally to serve them via Flink’s queryable state feature.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054456Z" creationid="xccui" creationdate="20190612T054456Z">
@@ -34122,8 +34130,8 @@
       <tuv lang="EN-US">
         <seg>This is the default setting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210509Z" creationid="xccui" creationdate="20190709T210509Z">
-        <seg>这也是默认设置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210600Z" creationid="xccui" creationdate="20190709T210509Z">
+        <seg>这是默认设置。</seg>
       </tuv>
     </tu>
     <tu>
