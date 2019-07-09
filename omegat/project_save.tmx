@@ -31088,6 +31088,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The last reading position known by Kafka for the consumer group that was con‐ figured via the group.id parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035159Z" creationid="xccui" creationdate="20190709T035159Z">
+        <seg>通过group.id参数配置的Kafka消费者组所记录的最后读取位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The latter decision is based on a trigger condition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022846Z" creationid="xccui" creationdate="20190406T045549Z">
