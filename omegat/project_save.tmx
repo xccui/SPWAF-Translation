@@ -34002,8 +34002,8 @@
       <tuv lang="EN-US">
         <seg>This is the default behavior.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T154425Z" creationid="xingcan" creationdate="20190709T154425Z">
-        <seg>这其实就是默认行为。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155813Z" creationid="xingcan" creationdate="20190709T154425Z">
+        <seg>这也就是默认行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38331,8 +38331,8 @@
       <tuv lang="EN-US">
         <seg>You can also configure the sink to log write only failures by calling setLogFailuresOnly(true) on the sink object.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155322Z" creationid="xingcan" creationdate="20190709T155322Z">
-        <seg>你还可以</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155734Z" creationid="xingcan" creationdate="20190709T155322Z">
+        <seg>你还可以通过调用数据汇对象的setLogFailuresOnly(true)方法让它仅将故障写入日志中。</seg>
       </tuv>
     </tu>
     <tu>
