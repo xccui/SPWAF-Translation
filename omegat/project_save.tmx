@@ -6664,8 +6664,8 @@
       <tuv lang="EN-US">
         <seg>A minimum Properties configu‐ ration consists of two entries, "bootstrap.servers" and "group.id".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T020106Z" creationid="xccui" creationdate="20190709T020106Z">
-        <seg>我们至少要给Properties提供两个配置项，"bootstrap.servers"和"group.id"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T021903Z" creationid="xccui" creationdate="20190709T020106Z">
+        <seg>Properties至少需要两个配置项，"bootstrap.servers"和"group.id"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19985,8 +19985,8 @@
       <tuv lang="EN-US">
         <seg>In order to extract event-time timestamps and generate watermarks, you can provide an AssignerWithPeriodicWatermark or an AssignerWithPunctuatedWatermark to a Kafka consumer by calling a FlinkKafkaConsumer.assignTimestampsAndWater mark().3 An assigner is applied to each partition to leverage the per partition order‐ ing guarantees, and the source instance merges the partition watermarks according to</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T021836Z" creationid="xccui" creationdate="20190709T021836Z">
-        <seg>为了提取事件时间戳并生成水位线，你可以通过调用FlinkKafkaConsumer.assignTimestampsAndWatermark()方法向Kafka消费者提供一个AssignerWithPeriodicWatermark或AssignerWithPunctuatedWatermark对象。3 </seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022345Z" creationid="xccui" creationdate="20190709T021836Z">
+        <seg>为了提取事件时间戳并生成水位线，你可以通过调用FlinkKafkaConsumer.assignTimestampsAndWatermark()方法向Kafka消费者提供一个AssignerWithPeriodicWatermark或AssignerWithPunctuatedWatermark对象。3 为了利用Kafka分区内部保序特性，分配器会作用在每个分区上，随后数据源实例会根据水位线传播协议（参照"水位线穿过和事件时间"一节）对各分区的水位线进行合并。</seg>
       </tuv>
     </tu>
     <tu>
