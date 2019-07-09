@@ -19273,8 +19273,8 @@
       <tuv lang="EN-US">
         <seg>In Flink 1.7, changing the data type of a state is supported if the data type was defined as an Apache Avro type and if the new data type is also an Avro type that was evolved from the original type according to Avro’s schema evolution rules.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145136Z" creationid="xccui" creationdate="20190705T053352Z">
-        <seg>在Flink 1.7版本，如果数据类型为Apache Avro类型，并且新的数据类型也是一个遵循Avro的Schema演变规则从原类型演变而来的Avro类型，那么该情况就会支持状态数据类型改变。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145201Z" creationid="xccui" creationdate="20190705T053352Z">
+        <seg>在Flink 1.7版本，如果数据类型为Apache Avro类型，并且新的数据类型也是一个遵循Avro的Schema演变规则、从原类型演变而来的Avro类型，那么该情况就会支持状态数据类型改变。</seg>
       </tuv>
     </tu>
     <tu>
