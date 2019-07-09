@@ -31224,6 +31224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The internal Kafka client can be configured to retry writes before declaring them failed by setting the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T154506Z" creationid="xingcan" creationdate="20190709T154506Z">
+        <seg>我们可以通过将重试内部的kafka客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The interval join currently only supports event time and operates with INNER JOIN</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025409Z" creationid="xccui" creationdate="20190628T025409Z">
