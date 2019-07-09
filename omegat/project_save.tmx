@@ -26840,6 +26840,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Semantic.AT_LEAST_ONCE, which guarantees that no write is lost but might be duplicated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210413Z" creationid="xccui" creationdate="20190709T210413Z">
+        <seg>Semantic.AT_LEAST_ONCE，保证数据不会丢失，但可能会重复写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Semantic.EXACTLY_ONCE, which builds on Kafka’s transactions to write each record exactly once.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210557Z" creationid="xccui" creationdate="20190709T210557Z">
+        <seg>Semantic.EXACTLY_ONCE，基于Kafka的事务机制，保证记录可以精确一次写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Semantic.NONE, which provides no guarantees—records might be lost or written multiple times.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210305Z" creationid="xccui" creationdate="20190709T210305Z">
+        <seg>Semantic.NONE，不做任何一致性保障，记录可能会丢失或写入多次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sending individual records over a network connection is inefficient and causes signif&lt;t0/&gt;‐&lt;t1/&gt; icant overhead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190513T210046Z" creationid="esouser" creationdate="20190513T210046Z">
@@ -34092,6 +34116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035313Z" creationid="xccui" creationdate="20190709T035313Z">
         <seg>这也是默认的行为：FlinkKafkaConsumer.setStartFromGroupOffsets()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the default setting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210509Z" creationid="xccui" creationdate="20190709T210509Z">
+        <seg>这也是默认设置。</seg>
       </tuv>
     </tu>
     <tu>
