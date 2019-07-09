@@ -24065,8 +24065,8 @@
       <tuv lang="EN-US">
         <seg>Note that the watermarks of a source instance cannot make pro‐ gress if a partition becomes inactive and does not provide mes‐ sages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022755Z" creationid="xccui" creationdate="20190709T022630Z">
-        <seg>注意，如果某一分区变得非活跃状态且不再提供消息，那么数据源实例的水位线将无法前进。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T032003Z" creationid="xccui" creationdate="20190709T022630Z">
+        <seg>注意，如果某一分区变成非活跃状态且不再提供消息，那么数据源实例的水位线将无法前进。</seg>
       </tuv>
     </tu>
     <tu>
