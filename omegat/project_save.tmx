@@ -9071,6 +9071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a consequence, a single inactive partition causes the whole application to stall because the application’s watermarks do not make progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022746Z" creationid="xccui" creationdate="20190709T022746Z">
+        <seg>因此，单个非活跃的分区就会导致整个应用停止运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a consequence, processing systems like Flink need to maintain several dedicated connectors to be able to read events from and write events to the most commonly used message queues, event logs, filesystems, key- value stores, and database systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T194915Z" creationid="xccui" creationdate="20190708T194915Z">
@@ -24035,6 +24043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201046Z" creationid="xccui" creationdate="20190626T201046Z">
         <seg>注意，该触发器用到了自定义状态并在clear()方法中对其进行了清理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the watermarks of a source instance cannot make pro‐ gress if a partition becomes inactive and does not provide mes‐ sages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022630Z" creationid="xccui" creationdate="20190709T022630Z">
+        <seg>注意，如果某一分区变得非活跃状态且不再提供消息，那么数据源实例的水位线将不会前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42765,6 +42781,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052101Z" creationid="xccui" creationdate="20190701T021555Z">
         <seg>这有可能在状态化函数进行故障恢复或应用从保存点开始执行的情况下出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the watermark propagation protocol (see “Watermark Propagation and Event Time”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022347Z" creationid="xccui" creationdate="20190709T022347Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
