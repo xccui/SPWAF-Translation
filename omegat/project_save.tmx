@@ -15977,8 +15977,8 @@
       <tuv lang="EN-US">
         <seg>Flink treats all states—regardless of built-in or user-defined operators—the same.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053301Z" creationid="xccui" creationdate="20190607T053200Z">
-        <seg>Flink对所有状态一视同仁，无论是内置的还是用户自定义的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055727Z" creationid="xccui" creationdate="20190607T053200Z">
+        <seg>无论是内置状态还是用户自定义状态，Flink对它们都一直同仁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23425,8 +23425,8 @@
       <tuv lang="EN-US">
         <seg>Many operators continuously read and update some kind of state such as records collected in a window, reading positions of an input source, or custom, application-specific operator states like machine learning models.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053106Z" creationid="xccui" creationdate="20190607T052753Z">
-        <seg>很多算子会持续读取并更新某些状态，例如：窗口内收集的记录，输入源的读取位置或是一些定制的，诸如机器学习模型之类的特定应用状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055640Z" creationid="xccui" creationdate="20190607T052753Z">
+        <seg>很多算子都会不断地读取并更新某些状态，例如：窗口内收集的记录，输入源的读取位置或是一些定制的，诸如机器学习模型之类的特定应用状态。</seg>
       </tuv>
     </tu>
     <tu>
