@@ -30698,8 +30698,8 @@
       <tuv lang="EN-US">
         <seg>The event-time clocks of a task with two input streams will corre‐ spond to the watermarks of the slower stream and usually the records or intermediate results of the faster stream are buffered in state until the event-time clock allows pro‐ cessing them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T033418Z" creationid="xccui" creationdate="20190607T033418Z">
-        <seg>对于一个有两个输入流的任务而言，其事件时间时钟会受制于那个相对较慢的流，而较快流的记录或中间结果会缓存在状态中，直到事件时间时钟到达允许处理它们的那个点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054503Z" creationid="xccui" creationdate="20190607T033418Z">
+        <seg>对于一个有两个输入流的任务而言，其事件时间时钟会受制于那个相对较慢的流，而较快流的记录或中间结果会在状态中缓冲，直到事件时间时钟到达允许处理它们的那个点。</seg>
       </tuv>
     </tu>
     <tu>
