@@ -24031,6 +24031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover,  each  parallel instance chunks its output into multiple part files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213843Z" creationid="xccui" creationdate="20190710T213843Z">
+        <seg>每个并行实例会把自己的输出写到多个零散的文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, Flink provides Maven archetypes to bootstrap new Flink Maven projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004357Z" creationid="xccui" creationdate="20190611T020723Z">
