@@ -7944,8 +7944,8 @@
       <tuv lang="EN-US">
         <seg>All issues related to state consistency, failure handling, and efficient storage and access are taken care of by Flink so that developers can focus on the logic of their applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T055747Z" creationid="xccui" creationdate="20190607T055712Z">
-        <seg>所有和状态一致性，故障处理，高效存取相关的问题都由Flink负责搞定，这样开发人员就可以专注于自己的应用逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060233Z" creationid="xccui" creationdate="20190607T055712Z">
+        <seg>所有和状态一致性、故障处理以及高效存取相关的问题都由Flink负责搞定，这样开发人员就可以专注于自己的应用逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20321,8 +20321,8 @@
       <tuv lang="EN-US">
         <seg>In order to make Flink’s runtime aware of the state of an operator, the operator needs to register its state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T055945Z" creationid="xccui" creationdate="20190607T055945Z">
-        <seg>为了让Flink的运行层知道算子有哪些状态，算子需要自己注册。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060300Z" creationid="xccui" creationdate="20190607T055945Z">
+        <seg>为了让Flink的运行层知道算子有哪些状态，算子需要自己对其进行注册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34162,8 +34162,8 @@
       <tuv lang="EN-US">
         <seg>This includes handling of very large states, possibly exceeding memory, and ensuring that no state is lost in case of failures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T055510Z" creationid="xccui" creationdate="20190607T055446Z">
-        <seg>这其中包括如何处理数量庞大、可能超出内存的状态，如何保证发生故障时状态不会丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060207Z" creationid="xccui" creationdate="20190607T055446Z">
+        <seg>这其中包括如何处理数量巨大、可能超出内存的状态，如何保证发生故障时状态不会丢失。</seg>
       </tuv>
     </tu>
     <tu>
