@@ -6320,8 +6320,8 @@
       <tuv lang="EN-US">
         <seg>A TaskManager process (and with it, all tasks running on it) may fail at any point in time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T053627Z" creationid="xccui" creationdate="20190608T053527Z">
-        <seg>由于TaskManager进程以及它上面所有运行的任务都可能在任意时间出现故障，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061850Z" creationid="xccui" creationdate="20190608T053527Z">
+        <seg>而考虑到TaskManager进程以及它上面所有运行的任务都可能在任意时间出现故障，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6424,8 +6424,8 @@
       <tuv lang="EN-US">
         <seg>A common requirement for streaming applications is to adjust the parallelism of operators due to increasing or decreasing input rates.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T054428Z" creationid="xccui" creationdate="20190608T054343Z">
-        <seg>流式应用的一项基本需求是根据输入数据到达速率的变化调整算子并发度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062024Z" creationid="xccui" creationdate="20190608T054343Z">
+        <seg>流式应用的一项基本需求是根据输入数据到达速率的变化调整算子并行度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16825,8 +16825,8 @@
       <tuv lang="EN-US">
         <seg>For instance, the RocksDB state backend supports incremental checkpoints, which can significantly reduce the checkpointing overhead for very large state sizes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T155142Z" creationid="xccui" creationdate="20190608T053953Z">
-        <seg>举例而言，RocksDB状态后端支持增量检查点，对于大规模的状态，这会显著降低生成检查点的开销。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062005Z" creationid="xccui" creationdate="20190608T053953Z">
+        <seg>例如：RocksDB状态后端支持增量检查点。这对于大规模的状态而言，会显著降低生成检查点的开销。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17601,8 +17601,8 @@
       <tuv lang="EN-US">
         <seg>Hence, its storage must be considered volatile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T053629Z" creationid="xccui" creationdate="20190608T053557Z">
-        <seg>它们的存储只能看做是易失的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061854Z" creationid="xccui" creationdate="20190608T053557Z">
+        <seg>因此它们的存储只能看做是易失的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28130,16 +28130,16 @@
       <tuv lang="EN-US">
         <seg>State backends differ in how state is checkpointed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T155129Z" creationid="xccui" creationdate="20190608T053842Z">
-        <seg>不同的状态后端生成状态检查点的方式也有所差异。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061922Z" creationid="xccui" creationdate="20190608T053842Z">
+        <seg>不同的状态后端生成状态检查点的方式也存在一定差异。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>State checkpointing is important because Flink is a distributed system and state is only locally maintained.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061753Z" creationid="xccui" creationdate="20190608T053330Z">
-        <seg>因为Flink是一个分布式系统但只在本地维护状态，所以状态检查点就显得极其重要。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061838Z" creationid="xccui" creationdate="20190608T053330Z">
+        <seg>由于Flink是一个分布式系统但只在本地维护状态，所以状态检查点就显得极其重要。</seg>
       </tuv>
     </tu>
     <tu>
