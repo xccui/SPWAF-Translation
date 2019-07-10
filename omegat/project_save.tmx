@@ -8776,8 +8776,8 @@
       <tuv lang="EN-US">
         <seg>Apache Cassandra Sink Connector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025211Z" creationid="xccui" creationdate="20190225T025211Z">
-        <seg>Apache Cassandra汇连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055025Z" creationid="xccui" creationdate="20190225T025211Z">
+        <seg>Apache Cassandra数据汇连接器</seg>
       </tuv>
     </tu>
     <tu>
@@ -8872,16 +8872,16 @@
       <tuv lang="EN-US">
         <seg>Apache Kafka Sink Connector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025141Z" creationid="xccui" creationdate="20190225T025141Z">
-        <seg>Apache Kafka汇连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055004Z" creationid="xccui" creationdate="20190225T025141Z">
+        <seg>Apache Kafka数据汇连接器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Apache Kafka Source Connector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025132Z" creationid="xccui" creationdate="20190225T025132Z">
-        <seg>Apache Kafka源连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054953Z" creationid="xccui" creationdate="20190225T025132Z">
+        <seg>Apache Kafka数据源连接器</seg>
       </tuv>
     </tu>
     <tu>
@@ -14969,16 +14969,16 @@
       <tuv lang="EN-US">
         <seg>Filesystem Sink Connector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152052Z" creationid="esouser" creationdate="20190603T152052Z">
-        <seg>文件系统汇连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055019Z" creationid="esouser" creationdate="20190603T152052Z">
+        <seg>文件系统数据汇连接器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Filesystem Source Connector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152039Z" creationid="esouser" creationdate="20190603T152039Z">
-        <seg>文件系统源连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055009Z" creationid="esouser" creationdate="20190603T152039Z">
+        <seg>文件系统数据源连接器</seg>
       </tuv>
     </tu>
     <tu>
@@ -18481,8 +18481,8 @@
       <tuv lang="EN-US">
         <seg>Idempotent Sink Connectors</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025308Z" creationid="xccui" creationdate="20190225T025308Z">
-        <seg>幂等性汇连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055053Z" creationid="xccui" creationdate="20190225T025308Z">
+        <seg>幂等性数据汇连接器</seg>
       </tuv>
     </tu>
     <tu>
@@ -19265,16 +19265,16 @@
       <tuv lang="EN-US">
         <seg>Implementing a Custom Sink Function</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025258Z" creationid="xccui" creationdate="20190225T025258Z">
-        <seg>实现自定义汇函数</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055048Z" creationid="xccui" creationdate="20190225T025258Z">
+        <seg>实现自定义数据汇函数</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Implementing a Custom Source Function</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025229Z" creationid="xccui" creationdate="20190225T025229Z">
-        <seg>实现自定义源函数</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055031Z" creationid="xccui" creationdate="20190225T025229Z">
+        <seg>实现自定义数据源函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -26506,8 +26506,8 @@
       <tuv lang="EN-US">
         <seg>Resettable Source Functions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025236Z" creationid="xccui" creationdate="20190225T025236Z">
-        <seg>可重置的源函数</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055036Z" creationid="xccui" creationdate="20190225T025236Z">
+        <seg>可重置的数据源函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -27906,8 +27906,8 @@
       <tuv lang="EN-US">
         <seg>Source Functions, Timestamps, and Watermarks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152108Z" creationid="xccui" creationdate="20190225T025249Z">
-        <seg>源函数、时间戳及水位线</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055042Z" creationid="xccui" creationdate="20190225T025249Z">
+        <seg>数据源函数、时间戳及水位线</seg>
       </tuv>
     </tu>
     <tu>
@@ -35466,8 +35466,8 @@
       <tuv lang="EN-US">
         <seg>Transactional Sink Connectors</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025317Z" creationid="xccui" creationdate="20190225T025317Z">
-        <seg>事务性汇连接器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055057Z" creationid="xccui" creationdate="20190225T025317Z">
+        <seg>事务性数据汇连接器</seg>
       </tuv>
     </tu>
     <tu>
