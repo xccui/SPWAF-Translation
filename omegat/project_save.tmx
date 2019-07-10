@@ -15945,8 +15945,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports four patterns for scaling different types of state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T054918Z" creationid="xccui" creationdate="20190608T054918Z">
-        <seg>Flink对不同类型的状态提供了4种扩缩容模式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062047Z" creationid="xccui" creationdate="20190608T054918Z">
+        <seg>Flink对不同类型的状态提供了四种扩缩容模式。</seg>
       </tuv>
     </tu>
     <tu>
