@@ -38577,6 +38577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writing the event-time timestamp of a record to Kafka is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041133Z" creationid="xccui" creationdate="20190710T041133Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You also know a little bit about the evolution of the open source stream processing space and what a Flink streaming application looks like.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T042338Z" creationid="xccui" creationdate="20190605T224647Z">
@@ -40333,6 +40341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034006Z" creationid="xccui" creationdate="20190629T034006Z">
         <seg>elements: Iterable[SensorReading],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enabled by calling setWriteTimestampToKafka(true) on the sink object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041208Z" creationid="xccui" creationdate="20190710T041129Z">
+        <seg>你可以在数据汇对象上调用setWriteTimestampToKafka(true)方法来将事件时间的时间戳写入Kafka记录。</seg>
       </tuv>
     </tu>
     <tu>
