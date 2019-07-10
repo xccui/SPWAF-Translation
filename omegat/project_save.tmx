@@ -12185,8 +12185,8 @@
       <tuv lang="EN-US">
         <seg>Designed for the special case where the state of each task of an operator is identi‐ cal.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T185523Z" creationid="xccui" creationdate="20190607T184956Z">
-        <seg>专门为一类特殊场景而设计——算子的每个任务都要保持相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060726Z" creationid="xccui" creationdate="20190607T184956Z">
+        <seg>专门为那些需要保证算子的每个任务状态都相同的场景而设计。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34498,8 +34498,8 @@
       <tuv lang="EN-US">
         <seg>This property can be leveraged during checkpoints and when rescaling an operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T185718Z" creationid="xccui" creationdate="20190607T185319Z">
-        <seg>该特性可用于检查点保存或算子扩缩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061007Z" creationid="xccui" creationdate="20190607T185319Z">
+        <seg>这种相同的特性可用于检查点保存或算子扩缩容，</seg>
       </tuv>
     </tu>
     <tu>
