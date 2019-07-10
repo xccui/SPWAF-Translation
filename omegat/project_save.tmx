@@ -27658,8 +27658,8 @@
       <tuv lang="EN-US">
         <seg>Since the pur‐ pose of checkpoints is to ensure an application can be restarted in case of a failure, they are deleted when an application is explicitly canceled.4 However, consistent snap‐ shots of the state of an application can be used for many more things than just failure recovery.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210342Z" creationid="xccui" creationdate="20190609T205625Z">
-        <seg>检查点的目的是保证应用可以在出现故障的时候顺利重启，因此当应用被显式取消后，检查点也会随之删除4。但应用状态的一致性快照除了故障恢复外，还有很多其他用途。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070017Z" creationid="xccui" creationdate="20190609T205625Z">
+        <seg>检查点的目的是保证应用可以在出现故障的时候顺利重启，因此当应用被手动停止后，检查点也会随之删除4。但应用状态的一致性快照除了故障恢复外，还有很多其他用途。</seg>
       </tuv>
     </tu>
     <tu>
