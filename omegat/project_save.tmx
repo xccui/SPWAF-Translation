@@ -27746,8 +27746,8 @@
       <tuv lang="EN-US">
         <seg>So, it is crucial to configure the transaction timeout property appropriately.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T223036Z" creationid="xccui" creationdate="20190709T223036Z">
-        <seg>所以说，你需要为它配置一个恰当的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T013049Z" creationid="xccui" creationdate="20190709T223036Z">
+        <seg>所以说，有必要为它配置一个合适的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43029,6 +43029,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011643Z" creationid="xccui" creationdate="20190624T011643Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sink sets transaction.timeout.ms to one hour, which means you probably need to adjust the transaction.max.timeout.ms property of your Kafka setup, which is set to 15 minutes by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T030939Z" creationid="xccui" creationdate="20190710T030939Z">
+        <seg>默认情况下，Flink Kafka数据汇的transaction.timeout.ms为1小时，所以你可能需要调整Kafka中transaction.max.timeout.ms的设置，它的默认时间是15分钟。</seg>
       </tuv>
     </tu>
     <tu>
