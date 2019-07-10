@@ -19647,6 +19647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In PROCESS_ONCE mode, the read path is scanned once when the job is started and all matching files are read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T190940Z" creationid="xccui" creationdate="20190710T190940Z">
+        <seg>在PROCESS_ONCE模式下，目标路径只会在作业启动被扫描一次，随后数据源就会读取所有满足条件的文件；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a batch processing scenario, all these questions are answered because a batch job can be simply restarted from the beginning.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191246Z" creationid="xccui" creationdate="20190606T033840Z">
@@ -32012,6 +32020,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T045919Z" creationid="xccui" creationdate="20190702T045919Z">
         <seg>processElement()和processBroadcastElement()两个方法在调用时会传入不同的上下文对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mode can either be PRO CESS_ONCE or PROCESS_CONTINUOUSLY.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185644Z" creationid="xccui" creationdate="20190710T185632Z">
+        <seg>可选项为PROCESS_ONCE或PROCESS_CONTINUOUSLY。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mode in which the path should be read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185608Z" creationid="xccui" creationdate="20190710T185608Z">
+        <seg>目标路径的读取模式。</seg>
       </tuv>
     </tu>
     <tu>
