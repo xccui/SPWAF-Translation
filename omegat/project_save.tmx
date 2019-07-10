@@ -20657,8 +20657,8 @@
       <tuv lang="EN-US">
         <seg>In the context of Flink’s Kafka sink, this is important because transactions that time out—due to long recovery cycles, for example—lead to data loss.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T222923Z" creationid="xccui" creationdate="20190709T222923Z">
-        <seg>该配置在Flink的Kafka数据汇中非常重要，因为事务超时（例如由于长时间的故障恢复周期而引起）会导致数据丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T223102Z" creationid="xccui" creationdate="20190709T222923Z">
+        <seg>该配置属性对Flink的Kafka数据汇而言非常重要，因为事务超时（例如由于长时间的故障恢复周期而引起）会导致数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,6 +27740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054529Z" creationid="xccui" creationdate="20190605T235232Z">
         <seg>既然这样，可以通过某种方式同时获得低延迟和高吞吐吗？还是说这根本不切实际？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, it is crucial to configure the transaction timeout property appropriately.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T223036Z" creationid="xccui" creationdate="20190709T223036Z">
+        <seg>所以说，你需要为它配置一个恰当的值。</seg>
       </tuv>
     </tu>
     <tu>
