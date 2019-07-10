@@ -12049,8 +12049,8 @@
       <tuv lang="EN-US">
         <seg>Depending on how an operator is connected with its predecessor or successor operators, its tasks can receive records and water‐ marks from one or more input partitions and emit records and watermarks to one or more output partitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T015225Z" creationid="xccui" creationdate="20190607T015151Z">
-        <seg>根据算子和它上下游的连接情况，其任务可能同时从多个输入分区接收记录和水位线，也可能需要将它们发送到多个输出分区。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T053644Z" creationid="xccui" creationdate="20190607T015151Z">
+        <seg>根据算子的上下游连接情况，其任务可能需要同时接收来自多个输入分区的记录和水位线，也可能需要将它们发送到多个输出分区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20905,8 +20905,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we describe in detail how a task emits watermarks to multiple output tasks and how it advances its event-time clock from the watermarks it receives from its input tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T024024Z" creationid="xccui" creationdate="20190607T015241Z">
-        <seg>下面我们将详细介绍一个任务如何将水位线发送至多个输出任务以及它从多个输入任务获取水位线后如何推动事件时间时钟前进。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T053723Z" creationid="xccui" creationdate="20190607T015241Z">
+        <seg>下面我们将详细介绍一个任务如何将水位线发送至多个输出任务，以及它从多个输入任务获取水位线后如何推动事件时间时钟前进。</seg>
       </tuv>
     </tu>
     <tu>
