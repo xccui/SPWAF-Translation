@@ -6808,8 +6808,8 @@
       <tuv lang="EN-US">
         <seg>A process function can identify late events by comparing event timestamps with the current watermark and emitting them using the regular side-output API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155410Z" creationid="xingcan" creationdate="20190628T155348Z">
-        <seg>处理函数可以通过比较事件时间戳和当前水位线来识别迟到事件，并使用常规的副输出API将其发出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041525Z" creationid="xingcan" creationdate="20190628T155348Z">
+        <seg>处理函数可以通过比较事件时间的时间戳和当前水位线来识别迟到事件，并使用常规的副输出API将其发出。</seg>
       </tuv>
     </tu>
     <tu>
