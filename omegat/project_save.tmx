@@ -19329,8 +19329,8 @@
       <tuv lang="EN-US">
         <seg>If you want to use a filesystem source connector in an event-time application, you should be aware that it can be challenging to generate watermarks since input splits are generated in a single process and round-robin distributed to all parallel readers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T202902Z" creationid="xccui" creationdate="20190710T202902Z">
-        <seg>当你想在一个基于事件时间的应用中使用文件系统数据源连接器时需要注意，生成水位线的工作可能并不好做，因为输入划分需要在单个进程中生成，且会被循环发送至所有并行读取器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T203104Z" creationid="xccui" creationdate="20190710T202902Z">
+        <seg>当你想在一个基于事件时间的应用中使用文件系统数据源连接器时需要注意，生成水位线的工作可能并不好做。因为输入划分是在单个进程中生成的，且会被循环发送至所有并行读取器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22083,6 +22083,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071453Z" creationid="xccui" creationdate="20190619T071453Z">
         <seg>IngestionTime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputFormat is Flink’s interface to define data sources in the DataSet API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T203014Z" creationid="xccui" creationdate="20190710T203014Z">
+        <seg>InputFormat是Flink在DataSet API中定义数据源的接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43997,6 +44005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042149Z" creationid="xccui" creationdate="20190626T042149Z">
         <seg>用于未显式指定触发器的情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>that process them in order of the modification timestamp of the file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T203225Z" creationid="xccui" creationdate="20190710T203225Z">
+        <seg>这些读取器会按照文件修改时间的顺序处理它们。</seg>
       </tuv>
     </tu>
     <tu>
