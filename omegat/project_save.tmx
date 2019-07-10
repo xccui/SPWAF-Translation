@@ -16225,8 +16225,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s recovery mechanism is based on consistent checkpoints of application state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T155305Z" creationid="xccui" creationdate="20190608T154504Z">
-        <seg>Flink的故障恢复机制是基于应用状态的一致性检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063405Z" creationid="xccui" creationdate="20190608T154504Z">
+        <seg>Flink的故障恢复机制需要基于应用状态的一致性检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21585,8 +21585,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we present Flink’s checkpointing and recovery mechanism to guaran‐ tee exactly-once state consistency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154954Z" creationid="xccui" creationdate="20190608T153948Z">
-        <seg>本节我们会介绍Flink的检查点以及故障恢复机制，看一下它们如何提供精确一次的状态一致性保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063311Z" creationid="xccui" creationdate="20190608T153948Z">
+        <seg>本节我们将介绍Flink的检查点（checkpoint）及故障恢复机制，看一下它们如何提供精确一次的状态一致性保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36410,8 +36410,8 @@
       <tuv lang="EN-US">
         <seg>We also discuss Flink’s unique savepoint feature, a “Swiss Army knife”-like tool that addresses many challenges of operating streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154419Z" creationid="xccui" creationdate="20190608T154131Z">
-        <seg>此外我们还会讨论Flink所独有的保存点机制，它就像一把瑞士军刀，解决了运行流式应用中的诸多挑战。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063326Z" creationid="xccui" creationdate="20190608T154131Z">
+        <seg>此外我们还会讨论Flink所独有的保存点（savepoint）机制，它就像一把瑞士军刀，解决了运行流式应用中的诸多挑战。</seg>
       </tuv>
     </tu>
     <tu>
