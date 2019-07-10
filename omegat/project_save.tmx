@@ -19703,6 +19703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In PROCESS_CONTINUOUSLY mode, the filesystem source connector identifies new files based on their modification timestamp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T200124Z" creationid="xccui" creationdate="20190710T200124Z">
+        <seg>在PROCESS_CONTINUOUSLY模式下，文件系统数据源连接器会根据文件的修改时间来识别新文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In PROCESS_ONCE mode, the read path is scanned once when the job is started and all matching files are read.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T190940Z" creationid="xccui" creationdate="20190710T190940Z">
