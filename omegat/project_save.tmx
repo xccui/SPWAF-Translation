@@ -15273,8 +15273,8 @@
       <tuv lang="EN-US">
         <seg>First, you can parti‐ tion your input data and have tasks of the same operation execute on the data subsets in parallel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044627Z" creationid="xccui" creationdate="20190605T233227Z">
-        <seg>      首先，你可以将输入数据分组，让同一操作的多个任务并发执行在不同数据子集上，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062642Z" creationid="xccui" creationdate="20190605T233227Z">
+        <seg>      首先，你可以将输入数据分组，让同一操作的多个任务并行执行在不同数据子集上，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20401,8 +20401,8 @@
       <tuv lang="EN-US">
         <seg>In order to satisfy the requirements for task chaining, two or more operators must be configured with the same parallelism and connected by local forward channels.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203321Z" creationid="xccui" creationdate="20190606T203255Z">
-        <seg>任务链接的前提条件是，多个算子必须有相同的并发度且通过本地转发通道连接。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062657Z" creationid="xccui" creationdate="20190606T203255Z">
+        <seg>任务链接的前提条件是，多个算子必须有相同的并行度且通过本地转发通道连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22329,8 +22329,8 @@
       <tuv lang="EN-US">
         <seg>It consists of three operators that are all configured for a task parallelism of two and connected with local forward connec‐ tions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T203412Z" creationid="xccui" creationdate="20190606T203412Z">
-        <seg>它包含了3个算子，每个算子的任务并发度都为2且通过本地转发方式连接。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062703Z" creationid="xccui" creationdate="20190606T203412Z">
+        <seg>它包含了3个算子，每个算子的任务并行度都为2且通过本地转发方式连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29026,8 +29026,8 @@
       <tuv lang="EN-US">
         <seg>That is because the number of tasks might change when an application is started with different parallelism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215733Z" creationid="xccui" creationdate="20190609T215724Z">
-        <seg>这是因为任务数目可能会随着应用启动时所指定的并发数而改变。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062816Z" creationid="xccui" creationdate="20190609T215724Z">
+        <seg>这是因为任务数目可能会随着应用启动时所指定的并行度而改变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34378,8 +34378,8 @@
       <tuv lang="EN-US">
         <seg>This means that all records processed by the same parallel task have access to the same state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T060848Z" creationid="xccui" creationdate="20190607T060836Z">
-        <seg>这意味着所有在同一个并发任务之内的记录都能访问到相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062716Z" creationid="xccui" creationdate="20190607T060836Z">
+        <seg>这意味着所有在同一个并行任务之内的记录都能访问到相同的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38203,8 +38203,8 @@
       <tuv lang="EN-US">
         <seg>While scaling stateless opera‐ tors is trivial, changing the parallelism of stateful operators is much more challenging because their state needs to be repartitioned and assigned to more or fewer parallel tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062034Z" creationid="xccui" creationdate="20190608T054626Z">
-        <seg>对于无状态的算子，扩缩容很容易。但对于状态化算子，改变并发度就会复杂很多，因为我们需要把状态重新分组，分配到与之前数量不等的并行任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062723Z" creationid="xccui" creationdate="20190608T054626Z">
+        <seg>对于无状态的算子，扩缩容很容易。但对于状态化算子，改变并行度就会复杂很多，因为我们需要把状态重新分组，分配到与之前数量不等的并行任务上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38819,8 +38819,8 @@
       <tuv lang="EN-US">
         <seg>You can start the same application with a different parallelism and scale the appli‐ cation out or in.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212646Z" creationid="xccui" creationdate="20190609T212609Z">
-        <seg>你可以用不同的并发度启动原应用，从而实现应用的扩缩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062610Z" creationid="xccui" creationdate="20190609T212609Z">
+        <seg>你可以用不同的并行度启动原应用，从而实现应用的扩缩容。</seg>
       </tuv>
     </tu>
     <tu>
