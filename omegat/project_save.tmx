@@ -22897,8 +22897,8 @@
       <tuv lang="EN-US">
         <seg>JobManager initiates a checkpoint by sending a message to all sources</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T063013Z" creationid="xccui" creationdate="20190608T063329Z">
-        <seg>JobManager通过向所有数据源发送消息来启动检查点生成流程</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065052Z" creationid="xccui" creationdate="20190608T063329Z">
+        <seg>JobManager通过向所有数据源发送消息来启动检查点生成流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37379,8 +37379,8 @@
       <tuv lang="EN-US">
         <seg>When a data source task receives the message, it pauses emitting records, triggers a checkpoint of its local state at the state backend, and broadcasts checkpoint barriers with the checkpoint ID via all outgoing stream partitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T063446Z" creationid="xccui" creationdate="20190609T063201Z">
-        <seg>当一个数据源任务收到消息后，会暂停发出记录，利用状态后端触发生成本地状态的检查点，随后把该检查点分隔符连同检查点编号广播至所有传出的数据流分区。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065112Z" creationid="xccui" creationdate="20190609T063201Z">
+        <seg>当一个数据源任务收到消息后，会暂停发出记录，利用状态后端触发生成本地状态的检查点，并把该检查点分隔符连同检查点编号广播至所有传出的数据流分区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42731,8 +42731,8 @@
       <tuv lang="EN-US">
         <seg>precede a barrier are included in the barrier’s checkpoint and all modifications due to records that follow the barrier are included in a later checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064845Z" creationid="xccui" creationdate="20190609T061206Z">
-        <seg>所有先于分隔符的记录所引起的状态更改都会被包含在分隔符所对应的检查点之中；而所有晚于分隔符的记录所引起的状态更改都会被纳入随后的检查点中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064855Z" creationid="xccui" creationdate="20190609T061206Z">
+        <seg>所有先于分隔符的记录所引起的状态更改都会被包含在分隔符所对应的检查点之中；而所有晚于分隔符的记录所引起的状态更改都会被纳入之后的检查点中。</seg>
       </tuv>
     </tu>
     <tu>
