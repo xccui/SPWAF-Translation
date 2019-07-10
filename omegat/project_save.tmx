@@ -25194,8 +25194,8 @@
       <tuv lang="EN-US">
         <seg>Operations can be either stateless or stateful.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235803Z" creationid="xccui" creationdate="20190605T235803Z">
-        <seg>这些操作既可以是无状态（stateless）的，也可以是有状态（stateful）的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055520Z" creationid="xccui" creationdate="20190605T235803Z">
+        <seg>这些操作既可以是无状态（stateless）的，也可以是状态化（stateful）的。</seg>
       </tuv>
     </tu>
     <tu>
