@@ -15009,8 +15009,8 @@
       <tuv lang="EN-US">
         <seg>Finally, Flink’s Kafka sink can be configured to write message timestamps as sup‐ ported since Kafka 0.10.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T040946Z" creationid="xccui" creationdate="20190710T040946Z">
-        <seg>最后要说的是，Flink的Kafka数据汇可以通过配置，为0.10版本后的Kafka写入消息时间戳。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041654Z" creationid="xccui" creationdate="20190710T040946Z">
+        <seg>最后要说的是，Flink的Kafka数据汇可以通过配置，为0.10之后版本的Kafka写入消息时间戳。</seg>
       </tuv>
     </tu>
     <tu>
