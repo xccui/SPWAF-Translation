@@ -18871,6 +18871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no BucketAssigner is explicitly specified, it uses a DateTimeBucketAssigner that assigns records to hourly buckets based on the pro‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212826Z" creationid="xccui" creationdate="20190710T212826Z">
+        <seg>如果没有显式指定BucketAssigner，数据汇将使用DateTimeBucketAssigner，根据记录写入时的处理时间将它们按小时分到不同的存储桶中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no such timer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060625Z" creationid="xccui" creationdate="20190621T060625Z">
@@ -29636,6 +29644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053632Z" creationid="xccui" creationdate="20190702T053632Z">
         <seg>BroadcastProcessFunction和KeyedBroadcastProcessFunction本身也有所不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The BucketAssigner can be configured on the builder using the withBucketAssigner() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212110Z" creationid="xccui" creationdate="20190710T212110Z">
+        <seg>我们可以使用构建器的withBucketAssigner()方法配置BucketAssigner。</seg>
       </tuv>
     </tu>
     <tu>
