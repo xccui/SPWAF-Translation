@@ -16767,6 +16767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, given a base path of "/johndoe/demo" and a part prefix of "part", the path "/johndoe/demo/2018-07-22--17/part-4-8" points to the eight file that was written by the fifth (0-indexed) sink task to bucket "2018-07-22--17"—the 5 p.m. bucket of July 22, 2018.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T214013Z" creationid="xccui" creationdate="20190710T214013Z">
+        <seg>例如，给定一个基础路径"/johndoe/demo"以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if all users in a team pop 500 bubbles within one minute, they get a level-up.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154431Z" creationid="xccui" creationdate="20190411T145904Z">
@@ -32656,6 +32664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The path of a part file has the fol‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213913Z" creationid="xccui" creationdate="20190710T213913Z">
+        <seg>这些文件的路径遵循以下规则：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The path that should be read.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185401Z" creationid="xccui" creationdate="20190710T185401Z">
@@ -39745,6 +39761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[base-path]/[bucket-path]/part-[task-idx]-[id]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213919Z" creationid="xccui" creationdate="20190710T213919Z">
+        <seg>[base-path]/[bucket-path]/part-[task-idx]-[id]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004818Z" creationid="xccui" creationdate="20190612T004818Z">
@@ -42165,6 +42189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T181105Z" creationid="xccui" creationdate="20190606T031232Z">
         <seg>总而言之，虽然处理时间提供了很低的延迟，但它的结果依赖处理速度，具有不确定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lowing format:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213915Z" creationid="xccui" creationdate="20190710T213915Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
