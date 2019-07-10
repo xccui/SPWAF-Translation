@@ -25378,8 +25378,8 @@
       <tuv lang="EN-US">
         <seg>Operators with operator union list state are scaled by broadcasting the full list of state entries to each task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063527Z" creationid="xccui" creationdate="20190608T061211Z">
-        <seg>带有算子联合列表状态（operator union list state）的算子会在扩缩容时把状态列表的全部条目广播到全部任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062858Z" creationid="xccui" creationdate="20190608T061211Z">
+        <seg>带有算子联合列表状态的算子会在扩缩容时把状态列表的全部条目广播到全部任务上。</seg>
       </tuv>
     </tu>
     <tu>
