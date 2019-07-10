@@ -9353,8 +9353,8 @@
       <tuv lang="EN-US">
         <seg>As soon as one parti‐ tion does not advance its watermarks or becomes completely idle and does not ship any records or watermarks, the event-time clock of a task will not advance and the timers of the task will not trigger.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190607T032231Z">
-        <seg>只要有一个分区的水位线没有前进或分区完全空闲下来不再发送任何记录或水位线，任务的事件时间时钟就不会前进，继而导致计时器无法触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054409Z" creationid="xccui" creationdate="20190607T032231Z">
+        <seg>只要有一个分区的水位线没有前进，或分区完全空闲下来不再发送任何记录或水位线，任务的事件时间时钟就不会前进，继而导致计时器无法触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32858,8 +32858,8 @@
       <tuv lang="EN-US">
         <seg>The tasks of operators with two or more input streams such as Union or CoFlatMap (see “Multistream Transformations”) also compute their event-time clock as the mini‐ mum of all partition watermarks—they do not distinguish between partition water‐ marks of different input streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072009Z" creationid="xccui" creationdate="20190607T025821Z">
-        <seg>对于那些有着两条或多条输入数据流的算子，如Union或CoFlatMap（详见"多流转换"一节），它们的任务同样是利用全部分区水位线中的最小值来计算事件时间时钟，没有考虑分区是否来自不同的输入流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054214Z" creationid="xccui" creationdate="20190607T025821Z">
+        <seg>对于那些有着两条或多条输入数据流的算子，如Union或CoFlatMap（详见"多流转换"一节），它们的任务同样是利用全部分区水位线中的最小值来计算事件时间时钟，并没有考虑分区是否来自不同的输入流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33866,8 +33866,8 @@
       <tuv lang="EN-US">
         <seg>This behavior can cause problems if the event times of the individual input streams of an application are not aligned.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072058Z" creationid="xccui" creationdate="20190607T031013Z">
-        <seg>如果应用不同输入流的事件时间没有对齐，那么该行为就会导致一些问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054258Z" creationid="xccui" creationdate="20190607T031013Z">
+        <seg>如果不同输入流的事件时间没有对齐，那么该行为就会导致一些问题。</seg>
       </tuv>
     </tu>
     <tu>
