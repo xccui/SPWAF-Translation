@@ -19647,6 +19647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In PRO CESS_CONTINUOUSLY, the path is periodically scanned (after an initial scan) and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191054Z" creationid="xccui" creationdate="20190710T191054Z">
+        <seg>而在PROCESS_CONTINUOUSLY模式下，数据源会（在首次扫描后）对路径进行周期性扫描，所有新添加的或是修改的文件都会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In PROCESS_ONCE mode, the read path is scanned once when the job is started and all matching files are read.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T190940Z" creationid="xccui" creationdate="20190710T190940Z">
