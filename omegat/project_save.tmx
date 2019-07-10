@@ -37307,8 +37307,8 @@
       <tuv lang="EN-US">
         <seg>When Flink processes a data stream in event-time mode, it evaluates time-based operators based on the timestamps of records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040225Z" creationid="xccui" creationdate="20190523T040149Z">
-        <seg>当Flink以事件时间模式处理数据流时，会根据记录的时间戳触发时间相关算子的行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T051122Z" creationid="xccui" creationdate="20190523T040149Z">
+        <seg>当Flink以事件时间模式处理数据流时，会根据记录的时间戳触发时间相关算子的计算。</seg>
       </tuv>
     </tu>
     <tu>
