@@ -43307,8 +43307,8 @@
       <tuv lang="EN-US">
         <seg>specifies the processing time of the source operator as an event time timestamp</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071539Z" creationid="xccui" creationdate="20190619T071451Z">
-        <seg>指定每个接收的记录都把在数据源算子的处理时间作为事件时间戳并且自动生成水位线，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041237Z" creationid="xccui" creationdate="20190619T071451Z">
+        <seg>指定每个接收的记录都把在数据源算子的处理时间作为事件时间的时间戳并且自动生成水位线，</seg>
       </tuv>
     </tu>
     <tu>
