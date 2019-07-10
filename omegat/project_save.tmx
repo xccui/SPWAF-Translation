@@ -27728,6 +27728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since files might not appear in order of their modification timestamps, they may be ignored by the filesys‐ tem source connector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T201731Z" creationid="xccui" creationdate="20190710T201731Z">
+        <seg>由于文件可能不会按照它们修改时间的顺序出现，所以文件系统数据源连接器可能会忽略部分文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since it has to iterate over all elements, it can only be used if no</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014717Z" creationid="xccui" creationdate="20190626T014717Z">
