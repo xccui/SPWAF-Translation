@@ -19767,6 +19767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In big data architectures they often serve as data source and data sink for batch pro‐ cessing applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183257Z" creationid="xccui" creationdate="20190710T183257Z">
+        <seg>在大数据架构中，它常被用作批处理应用的数据源和数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In both cases, Flink links the newly registered state handle object to the existing state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021819Z" creationid="xccui" creationdate="20190701T021819Z">
@@ -19827,6 +19835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T043112Z" creationid="xccui" creationdate="20190504T043112Z">
         <seg>在shuffle连接模式下，每个发送端的任务都需要能够向每个接受任务发送数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In combination with advanced file formats, such as Apache Par‐ quet or Apache ORC, filesystems can efficiently serve analytical query engines such as Apache Hive, Apache Impala, or Presto.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183533Z" creationid="xccui" creationdate="20190710T183533Z">
+        <seg>结合一些高级的文件格式（如Apache Parquet或Apache ORC），文件系统可以有效地服务于很多分析查询引擎（如Apache Hive、Apache Impala或Presto）。</seg>
       </tuv>
     </tu>
     <tu>
