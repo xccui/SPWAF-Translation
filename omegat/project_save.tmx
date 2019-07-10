@@ -10041,8 +10041,8 @@
       <tuv lang="EN-US">
         <seg>Broadcast state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184737Z" creationid="xccui" creationdate="20190607T184737Z">
-        <seg>广播状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060543Z" creationid="xccui" creationdate="20190607T184737Z">
+        <seg>广播状态（broadcast state）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23289,8 +23289,8 @@
       <tuv lang="EN-US">
         <seg>List state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184138Z" creationid="xccui" creationdate="20190607T184048Z">
-        <seg>列表状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060531Z" creationid="xccui" creationdate="20190607T184048Z">
+        <seg>列表状态（list state）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26442,16 +26442,16 @@
       <tuv lang="EN-US">
         <seg>Represents state as a list of entries as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184420Z" creationid="xccui" creationdate="20190607T184334Z">
-        <seg>同样是将状态看做一个条目列表，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060503Z" creationid="xccui" creationdate="20190607T184334Z">
+        <seg>同样是将状态表示为一个条目列表，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Represents state as a list of entries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T184410Z" creationid="xccui" creationdate="20190607T184245Z">
-        <seg>将状态表看做一个条目列表。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060447Z" creationid="xccui" creationdate="20190607T184245Z">
+        <seg>将状态表示为一个条目列表。</seg>
       </tuv>
     </tu>
     <tu>
