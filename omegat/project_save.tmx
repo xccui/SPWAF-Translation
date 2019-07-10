@@ -8264,8 +8264,8 @@
       <tuv lang="EN-US">
         <seg>An application consists of multiple operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214439Z" creationid="xccui" creationdate="20190609T214422Z">
-        <seg>每个应用都会包含很多算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071000Z" creationid="xccui" creationdate="20190609T214422Z">
+        <seg>每个应用都会包含很多算子，</seg>
       </tuv>
     </tu>
     <tu>
@@ -21465,8 +21465,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we describe how Flink initializes the state of an application started from a savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214403Z" creationid="xccui" creationdate="20190609T214356Z">
-        <seg>本节我们会介绍Flink在从保存点启动时如何去初始化应用状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070941Z" creationid="xccui" creationdate="20190609T214356Z">
+        <seg>本节我们将介绍Flink在从保存点启动时如何去初始化应用状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24993,8 +24993,8 @@
       <tuv lang="EN-US">
         <seg>One of the most interesting applications of save‐ points we have seen in the wild is continuously migrating a streaming application to the datacenter that provides the lowest instance prices.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070648Z" creationid="xccui" creationdate="20190609T213849Z">
-        <seg>我们在生态中见到保存点最有趣的应用之一是不断将流式应用迁移到实例价格最低的数据中心。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070758Z" creationid="xccui" creationdate="20190609T213849Z">
+        <seg>我们在生态中见到保存点最奇葩应用之一是不断将流式应用迁移到实例价格最低的数据中心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27538,8 +27538,8 @@
       <tuv lang="EN-US">
         <seg>Since savepoints are such a powerful feature, many users periodically create save‐ points to be able to go back in time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070625Z" creationid="xccui" creationdate="20190609T213645Z">
-        <seg>由于保存点的功能十分强大，很多用户都会周期性地创建保存点，以便能及时"回到过去"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070839Z" creationid="xccui" creationdate="20190609T213645Z">
+        <seg>保存点的功能如此强大，以至于很多用户都会周期性地创建保存点，从而可以及时"回到过去"。</seg>
       </tuv>
     </tu>
     <tu>
