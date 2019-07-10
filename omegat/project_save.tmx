@@ -7768,8 +7768,8 @@
       <tuv lang="EN-US">
         <seg>After an application is restarted from a checkpoint, its internal state is exactly the same as when the checkpoint was taken.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T051833Z" creationid="xccui" creationdate="20190609T051324Z">
-        <seg>在应用从检查点恢复以后，它的内部状态会和生成检查点的时候完全一致。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064059Z" creationid="xccui" creationdate="20190609T051324Z">
+        <seg>应用从检查点恢复以后，它的内部状态会和生成检查点的时候完全一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22777,8 +22777,8 @@
       <tuv lang="EN-US">
         <seg>It then starts to consume and process all data that was processed between the checkpoint and the failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T053306Z" creationid="xccui" creationdate="20190609T051830Z">
-        <seg>随后应用就会开始重新消费并处理那些从之前检查点完成开始到发生系统故障之间已经处理过的数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064138Z" creationid="xccui" creationdate="20190609T051830Z">
+        <seg>随后应用就会重新消费并处理那些从之前检查点完成开始到发生系统故障之间已经处理过的数据。</seg>
       </tuv>
     </tu>
     <tu>
