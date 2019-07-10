@@ -8688,8 +8688,8 @@
       <tuv lang="EN-US">
         <seg>Another technique to reduce the checkpointing algorithm’s impact on the processing latency is to tweak the barrier alignment step.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T204202Z" creationid="xccui" creationdate="20190609T204102Z">
-        <seg>我们还可以调整分隔符对齐这一步，来降低检查点算法对处理延迟的影响。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065720Z" creationid="xccui" creationdate="20190609T204102Z">
+        <seg>我们还可以对分隔符对齐这一步进行调整，以降低检查点算法对处理延迟的影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16313,8 +16313,8 @@
       <tuv lang="EN-US">
         <seg>For applications that require very low latency and can tolerate at-least-once state guarantees, Flink can be configured to process all arriving records during buffer alignment instead of buffering those for which the barrier has already arrived.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T204845Z" creationid="xccui" creationdate="20190609T204517Z">
-        <seg>对于那些需要极低延迟且能容忍至少一次状态保障的应用，可以通过配置让Flink在分隔符对齐的过程中不缓存那些已收到分隔符所对应分区的记录，而是直接处理它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065745Z" creationid="xccui" creationdate="20190609T204517Z">
+        <seg>对于那些需要极低延迟且能容忍至少一次状态保障的应用，可以通过配置让Flink在分隔符对齐的过程中不缓冲那些已收到分隔符所对应分区的记录，而是直接处理它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17873,8 +17873,8 @@
       <tuv lang="EN-US">
         <seg>How exactly the state of a task is copied depends on the implementation of the state backend.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T202643Z" creationid="xccui" creationdate="20190609T202643Z">
-        <seg>因此任务的状态具体是怎么拷贝的完全取决于状态后端的实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065621Z" creationid="xccui" creationdate="20190609T202643Z">
+        <seg>因此任务的状态的具体拷贝过程完全取决于状态后端的实现。</seg>
       </tuv>
     </tu>
     <tu>
