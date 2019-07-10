@@ -10593,8 +10593,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 10 describes how to trigger and dispose savepoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211146Z" creationid="xccui" creationdate="20190609T211058Z">
-        <seg>第10章介绍了如何触发生成和销毁保存点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070234Z" creationid="xccui" creationdate="20190609T211058Z">
+        <seg>第10章介绍了如何生成和删除保存点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17249,8 +17249,8 @@
       <tuv lang="EN-US">
         <seg>Given an application and a compatible savepoint, you can start the application from the savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211347Z" creationid="xccui" creationdate="20190609T211347Z">
-        <seg>给定一个应用和一个兼容的保存点，可以从该保存点启动应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070312Z" creationid="xccui" creationdate="20190609T211347Z">
+        <seg>给定一个应用和一个兼容的保存点，我们可以从该保存点启动应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22769,8 +22769,8 @@
       <tuv lang="EN-US">
         <seg>It starts the same application with the same configuration on the same cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211715Z" creationid="xccui" creationdate="20190609T211715Z">
-        <seg>它会在完全相同的集群上以完全相同的配置运行完全相同的应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070408Z" creationid="xccui" creationdate="20190609T211715Z">
+        <seg>它会在完全相同的集群上，以完全相同的配置，运行完全相同的应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24985,8 +24985,8 @@
       <tuv lang="EN-US">
         <seg>One of Flink’s most valued and unique features are savepoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070058Z" creationid="xccui" creationdate="20190609T210433Z">
-        <seg>Flink最具价值和独具一格的功能之一是保存点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070124Z" creationid="xccui" creationdate="20190609T210433Z">
+        <seg>Flink最具价值且独具一格的功能之一是保存点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34682,8 +34682,8 @@
       <tuv lang="EN-US">
         <seg>This will initialize the state of the application to the state of the save‐ point and run the application from the point at which the savepoint was taken.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211521Z" creationid="xccui" creationdate="20190609T211509Z">
-        <seg>这样可以用保存点内的数据初始化状态并从生成保存点的那一刻继续运行应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070309Z" creationid="xccui" creationdate="20190609T211509Z">
+        <seg>这样就能用保存点内的数据初始化状态并从生成保存点的那一刻继续运行应用。</seg>
       </tuv>
     </tu>
     <tu>
