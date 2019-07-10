@@ -6440,8 +6440,8 @@
       <tuv lang="EN-US">
         <seg>A bucket is a subdirectory of the base path that is configured with the builder of Stream ingFileSink—"/base/path" in Example 8-4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T210621Z" creationid="xccui" creationdate="20190710T210621Z">
-        <seg>每个存储桶都代表了由StreamingFileSink构建器配置的基础路径（示例8-4中的"/bash/path"）下的一个子目录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190710T210621Z">
+        <seg>每个桶都代表了由StreamingFileSink构建器配置的基础路径（示例8-4中的"/bash/path"）下的一个子目录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12635,6 +12635,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190308T073303Z" creationid="xccui" creationdate="20190308T073224Z">
         <seg>每个应用都可以是状态化的，只需要管理自身状态而无须访问外部数据存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each bucket directory contains multiple part files that are concurrently written by multiple  parallel  instances  of  the  StreamingFileSink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213614Z" creationid="xccui" creationdate="20190710T213614Z">
+        <seg>每个桶的目录下都会包含很多零散文件，由StreamingFileSink的多个并行实例对它们进行并发写入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18873,8 +18881,8 @@
       <tuv lang="EN-US">
         <seg>If no BucketAssigner is explicitly specified, it uses a DateTimeBucketAssigner that assigns records to hourly buckets based on the pro‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212826Z" creationid="xccui" creationdate="20190710T212826Z">
-        <seg>如果没有显式指定BucketAssigner，数据汇将使用DateTimeBucketAssigner，根据记录写入时的处理时间将它们按小时分到不同的存储桶中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213030Z" creationid="xccui" creationdate="20190710T212826Z">
+        <seg>如果没有显式指定BucketAssigner，数据汇将使用DateTimeBucketAssigner，按照记录写出时的处理时间将它们分到每小时一个的桶中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24113,8 +24121,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, it is common to organize records into so-called buckets, so that consuming applica‐ tions have more control over which data to read.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T210043Z" creationid="xccui" creationdate="20190710T204415Z">
-        <seg>此外，我们还经常会将记录组织到不同的存储桶中，以便消费应用更好地控制要读取的数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190710T204415Z">
+        <seg>此外，我们还经常会将记录组织到不同的桶中，以便消费应用更好地控制要读取的数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30706,8 +30714,8 @@
       <tuv lang="EN-US">
         <seg>The bucket is chosen by a BucketAssigner, which is a public interface and returns for every record a BucketId that determines the directory to which the record will be written.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212007Z" creationid="xccui" creationdate="20190710T212007Z">
-        <seg>存储桶的选择由BucketAssigner完成，它是一个公开接口，可以为每条记录返回一个用来决定记录写入目录的BucketId。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190710T212007Z">
+        <seg>桶的选择由BucketAssigner完成，它是一个公开接口，可以为每条记录返回一个用来决定记录写入目录的BucketId。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37891,8 +37899,8 @@
       <tuv lang="EN-US">
         <seg>When a StreamingFileSink receives a record, the record is assigned to a bucket.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T210035Z" creationid="xccui" creationdate="20190710T210035Z">
-        <seg>在StreamingFileSink接收到一条记录后，会将它分配到一个存储桶中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190710T210035Z">
+        <seg>在StreamingFileSink接收到一条记录后，会将它分配到一个桶中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38603,8 +38611,8 @@
       <tuv lang="EN-US">
         <seg>When you specify a window to collect events in one-minute buckets, which events exactly will each bucket contain?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T055110Z" creationid="xccui" creationdate="20190619T055110Z">
-        <seg>当你指定一个窗口来收集每分钟的桶内事件时，每个存储桶中需要包含哪些事件？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190619T055110Z">
+        <seg>当你指定一个窗口来收集每分钟的桶内事件时，每个桶中需要包含哪些事件？</seg>
       </tuv>
     </tu>
     <tu>
@@ -39019,8 +39027,8 @@
       <tuv lang="EN-US">
         <seg>Window operators provide a way to group events in buckets of finite size and apply computations on the bounded contents of these buckets.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033431Z" creationid="xccui" creationdate="20190622T033431Z">
-        <seg>窗口算子提供了一种基于有限大小的存储桶对事件进行分组，并对这些桶中的有限内容应用计算的方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190622T033431Z">
+        <seg>窗口算子提供了一种基于有限大小的桶对事件进行分组，并对这些桶中的有限内容应用计算的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40309,6 +40317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024305Z" creationid="xccui" creationdate="20190624T011407Z">
         <seg>当前处理时间和水位线，用于管理单个窗口和每个键值全局状态的状态存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cessing time when they are written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213032Z" creationid="xccui" creationdate="20190710T213032Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
