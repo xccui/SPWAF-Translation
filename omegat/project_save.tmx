@@ -18759,6 +18759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it refers to a directory, FileInputFormat scans the directory for files to read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185555Z" creationid="xccui" creationdate="20190710T185555Z">
+        <seg>如果路径指向一个目录，则FileInputFormat会扫描并读取该目录中的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no such timer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060625Z" creationid="xccui" creationdate="20190621T060625Z">
@@ -18971,6 +18979,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025409Z" creationid="xccui" creationdate="20190703T025409Z">
         <seg>如果并行度小于或等于128，则最大并行度会设置成128；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the path refers to a file, the single file is read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185450Z" creationid="xccui" creationdate="20190710T185450Z">
+        <seg>如果路径指向一个文件，则读取该文件；</seg>
       </tuv>
     </tu>
     <tu>
@@ -32064,6 +32080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The null parameter of TextInputFormat in Example 8-3 defines the path that is separately set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185340Z" creationid="xccui" creationdate="20190710T185340Z">
+        <seg>示例8-3中TextInputFormat的null参数表示要单独设置读取路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of key groups limits the maximum number of parallel tasks to which keyed state can be scaled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024550Z" creationid="xccui" creationdate="20190703T024550Z">
@@ -32324,6 +32348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052803Z" creationid="xccui" creationdate="20190616T052730Z">
         <seg>环境的并行度（即所有算子的默认并行度）会根据应用启动时所处的上下文自动初始化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The path that should be read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185401Z" creationid="xccui" creationdate="20190710T185401Z">
+        <seg>要读取的目标路径。</seg>
       </tuv>
     </tu>
     <tu>
