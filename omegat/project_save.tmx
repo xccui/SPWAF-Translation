@@ -15055,6 +15055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FileInputFormat is a specialized InputFormat to read files from a filesystem.4 A FileInputFormat reads files in two steps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191426Z" creationid="xccui" creationdate="20190710T191426Z">
+        <seg>FileInputFormat是一个专门用来从文件系统中读文件的InputFormat。4 它的读取过程分为两步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FileProcessingMode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185024Z" creationid="xccui" creationdate="20190710T185024Z">
@@ -15283,6 +15291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210730Z" creationid="esouser" creationdate="20190603T210730Z">
         <seg>First Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First it scans a filesystem path and creates so-called input splits for all matching files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191629Z" creationid="xccui" creationdate="20190710T191629Z">
+        <seg>首先，它会扫描文件系统的路径并为所有满足条件的文件创建一些所谓的输入划分（input split）。</seg>
       </tuv>
     </tu>
     <tu>
