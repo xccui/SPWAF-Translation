@@ -25362,8 +25362,8 @@
       <tuv lang="EN-US">
         <seg>Operators with operator broadcast state are scaled up by copying the state to new tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T061609Z" creationid="xccui" creationdate="20190608T061609Z">
-        <seg>带有算子广播状态的算子在扩缩容时会把状态拷贝到全部新任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062938Z" creationid="xccui" creationdate="20190608T061609Z">
+        <seg>带有算子广播状态的算子在扩缩容时会把状态复制到全部新任务上。</seg>
       </tuv>
     </tu>
     <tu>
