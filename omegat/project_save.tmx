@@ -37761,6 +37761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a file is completely ingested and a checkpoint completed, it can be removed from the directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T200754Z" creationid="xccui" creationdate="20190710T200754Z">
+        <seg>当文件读取完成且系统成功生成检查点后，你可以将文件从目录中删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a function registers a StateDescriptor, Flink checks if the state backend has data for the function and a state with the given name and type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021434Z" creationid="xccui" creationdate="20190701T021106Z">
