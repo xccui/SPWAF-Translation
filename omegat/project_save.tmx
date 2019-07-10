@@ -33802,8 +33802,8 @@
       <tuv lang="EN-US">
         <seg>This</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T032416Z" creationid="xccui" creationdate="20190401T032416Z">
-        <seg>这类并行性称作任务并行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T040320Z" creationid="xccui" creationdate="20190401T032416Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -43093,6 +43093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040104Z" creationid="xccui" creationdate="20190611T040104Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>requires a KeyedSerializationSchema in order to extract the message keys and con‐ figure the FlinkKafkaPartitioner parameter with null to disable the default partitioner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T040745Z" creationid="xccui" creationdate="20190710T040745Z">
+        <seg>为此，我们需要提供一个负责从消息中提取键值的KeyedSerializationSchema，并将FlinkKafkaPartitioner的参数设置为null以禁用默认的分区器。</seg>
       </tuv>
     </tu>
     <tu>
