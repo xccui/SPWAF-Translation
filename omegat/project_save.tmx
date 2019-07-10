@@ -15001,8 +15001,8 @@
       <tuv lang="EN-US">
         <seg>Filesystems are commonly used to store large amounts of data in a cost-efficient way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183005Z" creationid="xccui" creationdate="20190710T183005Z">
-        <seg>文件系统用于大量数据存储的性价比很高。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183146Z" creationid="xccui" creationdate="20190710T183005Z">
+        <seg>文件系统作为一类常见的存储方法，对于大量数据存储的性价比很高。</seg>
       </tuv>
     </tu>
     <tu>
