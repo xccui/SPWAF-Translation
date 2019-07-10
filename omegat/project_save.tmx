@@ -32776,6 +32776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second step of a FileInputFormat is to receive an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192117Z" creationid="xccui" creationdate="20190710T192117Z">
+        <seg>FileInputFormat读取过程的第二步是接收一个输入划分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second type are ad-hoc queries that aim to provide answers to specific questions and support business-critical deci&lt;t2/&gt;‐&lt;t3/&gt; sions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T030047Z" creationid="xccui" creationdate="20190228T193848Z">
@@ -41505,6 +41513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>input split, read the file range that is defined by the split, and return all corresponding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192301Z" creationid="xccui" creationdate="20190710T192301Z">
+        <seg>按照划分中限定的范围读取文件并返回所有相应的记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>input1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025831Z" creationid="xccui" creationdate="20190628T025831Z">
@@ -44205,6 +44221,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045900Z" creationid="xccui" creationdate="20190612T045805Z">
         <seg>来指定程序使用事件时间作为其时间语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to read the file as a whole.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192032Z" creationid="xccui" creationdate="20190710T192032Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
