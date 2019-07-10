@@ -33970,8 +33970,8 @@
       <tuv lang="EN-US">
         <seg>This can be explained by looking at the steps of a naive algorithm that takes a consistent checkpoint of an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223326Z" creationid="xccui" creationdate="20190608T223205Z">
-        <seg>它可以通过用朴素算法对应用建立一致性检查点的步骤加以解释。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063502Z" creationid="xccui" creationdate="20190608T223205Z">
+        <seg>我们可以通过一个朴素算法对应用建立一致性检查点的步骤进行解释。</seg>
       </tuv>
     </tu>
     <tu>
