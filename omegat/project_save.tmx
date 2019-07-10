@@ -27914,8 +27914,8 @@
       <tuv lang="EN-US">
         <seg>Source functions are discussed in more detail in “Implementing a Custom Source Function” on page 202.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034915Z" creationid="xccui" creationdate="20190607T034915Z">
-        <seg>我们会在第202页"实现自定义源函数"一节详细讨论源函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054827Z" creationid="xccui" creationdate="20190607T034915Z">
+        <seg>我们会在第202页"实现自定义数据源函数"一节详细讨论数据源函数。</seg>
       </tuv>
     </tu>
     <tu>
