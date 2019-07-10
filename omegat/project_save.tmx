@@ -15889,8 +15889,8 @@
       <tuv lang="EN-US">
         <seg>Flink restricts access to timestamps or watermarks through the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070855Z" creationid="xccui" creationdate="20190607T012506Z">
-        <seg>Flink对通过DataStream API访问时间戳和水位线的操作有一定限制。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052705Z" creationid="xccui" creationdate="20190607T012506Z">
+        <seg>Flink对通过DataStream API访问时间戳和水位线有一定限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32874,8 +32874,8 @@
       <tuv lang="EN-US">
         <seg>The task’s time service identifies all timers with a time smaller than the updated event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070740Z" creationid="xccui" creationdate="20190606T212936Z">
-        <seg>任务的时间服务会找出所有触发时间小于更新后事件时间的计时器，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052629Z" creationid="xccui" creationdate="20190606T212936Z">
+        <seg>任务的时间服务会找出所有触发时间小于更新后事件时间的计时器。</seg>
       </tuv>
     </tu>
     <tu>
