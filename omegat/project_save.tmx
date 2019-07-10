@@ -13887,6 +13887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-3 shows how to ingest a stream by reading text files line-wise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184928Z" creationid="xccui" creationdate="20190710T184928Z">
+        <seg>示例8-3展示了如何通过逐行读取文件来生成一个数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 8-5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T182028Z" creationid="xccui" creationdate="20190710T182028Z">
@@ -15955,6 +15963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064957Z" creationid="xccui" creationdate="20190616T064910Z">
         <seg>Flink支持Java和Scala中所有常见数据类型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink supports different</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184715Z" creationid="xccui" creationdate="20190710T184715Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -26460,6 +26476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032453Z" creationid="xccui" creationdate="20190710T032453Z">
         <seg>请查看Flink文档了解更多有关启用精确一次一致性时的特殊情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to “Filesystem Configuration” on page 237 to learn how to configure filesystems in Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184814Z" creationid="xccui" creationdate="20190710T184814Z">
+        <seg>有关如何在Flink中配置这些文件系统，请参阅第237页"文件系统配置"一节。</seg>
       </tuv>
     </tu>
     <tu>
