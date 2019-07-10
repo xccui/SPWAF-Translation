@@ -17177,8 +17177,8 @@
       <tuv lang="EN-US">
         <seg>Functions cannot read or modify record time‐ stamps and watermarks, except for the process functions, which  can read the timestamp of a currently processed record, request the current event time of the operator, and register timers.3 None of the functions exposes an API to set the timestamps of emitted records, manipulate the event-time clock of a task, or emit watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071111Z" creationid="xccui" creationdate="20190607T012544Z">
-        <seg>普通函数无法读写记录的时间戳或水位线，但一系列处理函数（process function）除外。它们可以读取当前正在处理记录的时间戳，通过请求获取当前算子的事件时间，还能注册计时器。3所有函数都无法通过API来设置发出记录的时间戳、调整任务的事件时间时钟或发出水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052842Z" creationid="xccui" creationdate="20190607T012544Z">
+        <seg>普通函数无法读写记录的时间戳或水位线，但一系列处理函数（process function）除外。它们可以读取当前正在处理记录的时间戳，获得当前算子的事件时间，还能注册计时器。3所有函数都无法通过API来设置发出记录的时间戳、调整任务的事件时间时钟或发出水位线。</seg>
       </tuv>
     </tu>
     <tu>
