@@ -11559,6 +11559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a StreamingFileSink in row-encoding mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205905Z" creationid="xccui" creationdate="20190710T205905Z">
+        <seg>以行编码方式创建一个StreamingFileSink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a filesystem source</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184946Z" creationid="xccui" creationdate="20190710T184946Z">
@@ -13995,6 +14003,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205803Z" creationid="xccui" creationdate="20190710T205803Z">
         <seg>示例8-4展示了如何使用最少的配置来创建一个StreamingFileSink并将其添加到数据流后面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205808Z" creationid="xccui" creationdate="20190710T205808Z">
+        <seg>示例8-4，</seg>
       </tuv>
     </tu>
     <tu>
@@ -45013,6 +45029,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T043349Z" creationid="xccui" creationdate="20190618T043341Z">
         <seg>val input: DataStream[(Int, String, Long)] = ... val keyed1 = input.keyBy("2") // 以第3个字段为键值 val keyed2 = input.keyBy("_1") // 以第1个字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val input: DataStream[String] = …</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205907Z" creationid="xccui" creationdate="20190710T205907Z">
+        <seg>val input: DataStream[String] = …</seg>
       </tuv>
     </tu>
     <tu>
