@@ -30688,6 +30688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bucket is chosen by a BucketAssigner, which is a public interface and returns for every record a BucketId that determines the directory to which the record will be written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212007Z" creationid="xccui" creationdate="20190710T212007Z">
+        <seg>存储桶的选择由BucketAssigner完成，它是一个公开接口，可以为每条记录返回一个用来决定记录写入目录的BucketId。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The business logic is constrained by how much it can control state and time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T061822Z" creationid="xccui" creationdate="20190313T051256Z">
