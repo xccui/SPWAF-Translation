@@ -10295,6 +10295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the Flink Kafka</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T030942Z" creationid="xccui" creationdate="20190710T030942Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the client</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125222Z" creationid="xccui" creationdate="20190706T125222Z">
@@ -23787,6 +23795,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064716Z" creationid="xccui" creationdate="20190614T064619Z">
         <seg>此外，union算子不会对数据进行去重，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the visibility of committed messages depends on</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T031048Z" creationid="xccui" creationdate="20190710T031048Z">
+        <seg>此外，已提交消息的可见性会取决于Flink应用的生成检查点的间隔。</seg>
       </tuv>
     </tu>
     <tu>
