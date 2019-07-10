@@ -19873,8 +19873,8 @@
       <tuv lang="EN-US">
         <seg>In contrast, a stream consumed from a socket cannot be reset because sockets discard data once it has been consumed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T044947Z" creationid="xccui" creationdate="20190609T044943Z">
-        <seg>相反，如果数据流来是从套接字消费而来则无法重置，因为套接字会在数据被取走后将它们丢弃。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064018Z" creationid="xccui" creationdate="20190609T044943Z">
+        <seg>相反，如果数据流是从套接字（socket）消费而来则无法重置，因为套接字会在数据被取走后将它们丢弃。</seg>
       </tuv>
     </tu>
     <tu>
