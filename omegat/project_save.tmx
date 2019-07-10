@@ -11519,6 +11519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom Partitioning and Writing Message Timestamps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033746Z" creationid="xccui" creationdate="20190710T033746Z">
+        <seg>自定义分区和写入消息时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom window operators are discussed in detail later in this section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T042043Z" creationid="xccui" creationdate="20190622T042043Z">
@@ -36912,6 +36920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We refer you to the Kafka documentation for details about its con‐ figuration parameters and guidelines for a suitable configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033651Z" creationid="xccui" creationdate="20190710T033651Z">
+        <seg>我们建议你参阅Kafka文档来详细了解有关配置属性的信息以及配置指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We show the structure and components of a typical Flink streaming application, discuss Flink’s type systems and the supported data types, and present data and partitioning transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032259Z" creationid="xccui" creationdate="20190612T032259Z">
@@ -38907,8 +38923,8 @@
       <tuv lang="EN-US">
         <seg>You should carefully revise the configuration of your Kafka setup, paying special attention to the following parameters:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033420Z" creationid="xccui" creationdate="20190710T033420Z">
-        <seg>你需要仔细检查Kafka的设置，特别要注意以下参数：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033432Z" creationid="xccui" creationdate="20190710T033420Z">
+        <seg>你需要仔细检查Kafka的设置，特别要留意以下参数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39173,6 +39189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203051Z" creationid="xccui" creationdate="20190702T203051Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>acks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033436Z" creationid="xccui" creationdate="20190710T033436Z">
+        <seg>acks</seg>
       </tuv>
     </tu>
     <tu>
@@ -41373,6 +41397,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040854Z" creationid="xccui" creationdate="20190626T040854Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>log.flush.*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033447Z" creationid="xccui" creationdate="20190710T033447Z">
+        <seg>log.flush.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>log.flush.interval.messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033439Z" creationid="xccui" creationdate="20190710T033439Z">
+        <seg>log.flush.interval.messages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>log.flush.interval.ms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033444Z" creationid="xccui" creationdate="20190710T033444Z">
+        <seg>log.flush.interval.ms</seg>
       </tuv>
     </tu>
     <tu>
