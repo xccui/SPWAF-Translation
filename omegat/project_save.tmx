@@ -21529,8 +21529,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss the different types of states Flink supports.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053356Z" creationid="xccui" creationdate="20190607T053343Z">
-        <seg>本节我们会对Flink支持的不同类别的状态加以讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055800Z" creationid="xccui" creationdate="20190607T053343Z">
+        <seg>本节我们会对Flink支持的不同类别的状态进行介绍。</seg>
       </tuv>
     </tu>
     <tu>
