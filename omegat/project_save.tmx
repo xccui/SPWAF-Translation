@@ -34922,8 +34922,8 @@
       <tuv lang="EN-US">
         <seg>Time-based operators use this time to trigger computations and make progress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T041707Z" creationid="xccui" creationdate="20190523T041707Z">
-        <seg>基于时间的算子会使用这个时间来触发计算并向前推进。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T051735Z" creationid="xccui" creationdate="20190523T041707Z">
+        <seg>基于时间的算子会使用这个时间来触发计算并推动进度前进。</seg>
       </tuv>
     </tu>
     <tu>
