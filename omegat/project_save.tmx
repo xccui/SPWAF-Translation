@@ -21887,6 +21887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In version 1.7, Flink provides a few classes that extend FileInputFormat and imple‐ ment CheckpointableInputFormat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T195719Z" creationid="xccui" creationdate="20190710T195719Z">
+        <seg>在1.7版本中，Flink提供了一些继承自FileInputFormat并实现了CheckpointableInputFormat的类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Checkpoints, Savepoints, and State Recovery”, we explained Flink’s mechanism to create consistent checkpoints of a stateful application, a snapshot of the state of all built-in and user-defined stateful functions at a point in time when all operators pro‐ cessed all events up to a specific position in the application’s input streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052137Z" creationid="xccui" creationdate="20190702T204418Z">
