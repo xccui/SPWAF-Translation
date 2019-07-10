@@ -11097,8 +11097,8 @@
       <tuv lang="EN-US">
         <seg>Consequently, all records with the same key access the same state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191837Z" creationid="xccui" creationdate="20190607T191804Z">
-        <seg>因此所有键值一样的记录都能访问到相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061254Z" creationid="xccui" creationdate="20190607T191804Z">
+        <seg>因此所有键值相同的记录都能访问到一样的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15657,8 +15657,8 @@
       <tuv lang="EN-US">
         <seg>Flink maintains one state instance per key value and parti‐ tions all records with the same key to the operator task that maintains the state for this key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191729Z" creationid="xccui" creationdate="20190607T190646Z">
-        <seg>Flink为每个键值都维护了一个状态实例，该实例总是会位于那个处理对应键值记录的算子任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061211Z" creationid="xccui" creationdate="20190607T190646Z">
+        <seg>Flink为每个键值都维护了一个状态实例，该实例总是位于那个处理对应键值记录的算子任务上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23025,8 +23025,8 @@
       <tuv lang="EN-US">
         <seg>Keyed state is maintained and accessed with respect to a key defined in the records of an operator’s input stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T185829Z">
-        <seg>键值分区状态是按照算子输入记录所定义的键值来进行维护或访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061049Z" creationid="xccui" creationdate="20190607T185829Z">
+        <seg>键值分区状态会按照算子输入记录所定义的键值来进行维护或访问。</seg>
       </tuv>
     </tu>
     <tu>
