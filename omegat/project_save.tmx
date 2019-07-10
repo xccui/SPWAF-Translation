@@ -10383,6 +10383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By providing a custom FlinkKafkaPartitioner, you can control how records are routed to topic partitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035333Z" creationid="xccui" creationdate="20190710T035333Z">
+        <seg>你可以通过提供一个自定义的FlinkKafkaPartitioner来控制数据到主题分区的路由方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By providing a list of state objects, functions with operator state can implement this logic using the snapshotState() and restoreState() methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052117Z" creationid="xccui" creationdate="20190701T060050Z">
@@ -39445,6 +39453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052516Z" creationid="xccui" creationdate="20190625T052516Z">
         <seg>如果窗口算子没有配置增量聚合函数，新加入的元素会附加到一个用于存储所有窗口分配元素的ListState上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>attribute of the records or a round-robin partitioner for even distribution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035644Z" creationid="xccui" creationdate="20190710T035644Z">
+        <seg>例如，你可以创建一个基于记录键值属性的分区器，或者是可以实现均匀分配的轮询分区器。</seg>
       </tuv>
     </tu>
     <tu>
