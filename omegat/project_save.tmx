@@ -7822,6 +7822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After dividing a large file into multiple splits, the splits can be distributed to multiple reader tasks to read the file in parallel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191928Z" creationid="xccui" creationdate="20190710T191928Z">
+        <seg>在将一个大文件分割后，这些划分就可以分配给多个读取任务来并行读取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After it has been started, a TaskManager registers its slots at the ResourceManager.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062107Z" creationid="xccui" creationdate="20190418T051651Z">
@@ -8466,6 +8474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T063359Z" creationid="xccui" creationdate="20190708T063359Z">
         <seg>幂等操作可以多次执行，但只会导致一次改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An input split defines a range on a file,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191725Z" creationid="xccui" creationdate="20190710T191725Z">
+        <seg>每个输入划分都定义了文件中的某个范围，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12155,6 +12171,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154732Z" creationid="xingcan" creationdate="20190628T154732Z">
         <seg>根据业务需求，迟到数据可通过定期回填过程（backfill process）集成到流式应用的结果中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the encoding of a file, it can be necessary to only generate a single split</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192029Z" creationid="xccui" creationdate="20190710T192029Z">
+        <seg>根据文件的编码方式，有时候只能生成一个划分，将文件作为一个整体读入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44301,6 +44325,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052653Z" creationid="xccui" creationdate="20190617T052653Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>typically via a start offset and a length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191817Z" creationid="xccui" creationdate="20190710T191817Z">
+        <seg>该范围通常由起始偏移和长度来决定。</seg>
       </tuv>
     </tu>
     <tu>
