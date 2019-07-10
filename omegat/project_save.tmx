@@ -32250,8 +32250,8 @@
       <tuv lang="EN-US">
         <seg>The process of waiting for all barriers to arrive is called barrier alignment, and it is depicted in Figure 3-22.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T174938Z" creationid="xccui" creationdate="20190609T162722Z">
-        <seg>这个等待所有分隔符到达的过程称为分隔符对齐，我们在图3-22中对它进行了阐述。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065323Z" creationid="xccui" creationdate="20190609T162722Z">
+        <seg>这个等待所有分隔符到达的过程称为分隔符对齐，我们在图3-22中对它进行了展示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38099,8 +38099,8 @@
       <tuv lang="EN-US">
         <seg>While a task checkpoints its state, it is blocked and its input is buffered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T200059Z" creationid="xccui" creationdate="20190609T200005Z">
-        <seg>任务在将其状态存入检查点的过程中，会出于阻塞状态，此时的输入会放入缓冲。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065533Z" creationid="xccui" creationdate="20190609T200005Z">
+        <seg>任务在将其状态存入检查点的过程中，会处于阻塞状态，此时的输入会进入缓冲区。</seg>
       </tuv>
     </tu>
     <tu>
