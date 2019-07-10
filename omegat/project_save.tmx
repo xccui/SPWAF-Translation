@@ -15777,8 +15777,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides different primitives for keyed state that determine the type of the value stored for each key in this distributed key-value map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T192242Z">
-        <seg>Flink为键值分区状态提供了不同原语，它们的区别就在于分布式键值映射中每个键对应存储值的类型不同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061405Z" creationid="xccui" creationdate="20190607T192242Z">
+        <seg>Flink为键值分区状态提供了不同原语，它们的区别在于分布式键值映射中每个键所对应存储值的类型不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23473,8 +23473,8 @@
       <tuv lang="EN-US">
         <seg>Map state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T220307Z" creationid="xccui" creationdate="20190607T220057Z">
-        <seg>映射状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061452Z" creationid="xccui" creationdate="20190607T220057Z">
+        <seg>映射状态（map state）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36170,8 +36170,8 @@
       <tuv lang="EN-US">
         <seg>Value state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T215622Z" creationid="xccui" creationdate="20190607T192625Z">
-        <seg>单值状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061436Z" creationid="xccui" creationdate="20190607T192625Z">
+        <seg>单值状态（value state）</seg>
       </tuv>
     </tu>
     <tu>
