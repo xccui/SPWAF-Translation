@@ -17767,6 +17767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, you do not need to add any other dependency to use this feature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184121Z" creationid="xccui" creationdate="20190710T184121Z">
+        <seg>因此你在用它的时候无需添加任何其他依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, you might need to explicitly provide TypeInformation objects to Flink for some of the data types used in your application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061706Z" creationid="xccui" creationdate="20190617T061243Z">
@@ -44061,6 +44069,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050155Z" creationid="xccui" creationdate="20190705T050155Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>types of filesystems, such as local filesystems (including locally mounted NFS or SAN shares, Hadoop HDFS, Amazon S3, and OpenStack Swift FS).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184712Z" creationid="xccui" creationdate="20190710T184712Z">
+        <seg>Flink支持多种类型的文件系统，例如：本地文件系统（包括挂载到本地的NFS或SAN），Hadoop HDFS，Amazon S3以及OpenStack Swift FS。</seg>
       </tuv>
     </tu>
     <tu>
