@@ -27802,8 +27802,8 @@
       <tuv lang="EN-US">
         <seg>So far we have explained what timestamps and watermarks are and how they are internally handled by Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034622Z" creationid="xccui" creationdate="20190607T033537Z">
-        <seg>至今为止，我们已经解释了时间戳和水位线的含义以及它们在Flink内部的处理逻辑，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054525Z" creationid="xccui" creationdate="20190607T033537Z">
+        <seg>到目前为止，我们已经解释了时间戳和水位线的含义以及它们在Flink内部的处理逻辑，</seg>
       </tuv>
     </tu>
     <tu>
