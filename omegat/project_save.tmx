@@ -17903,6 +17903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, you do not need to add a dependency to your build file to use it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T204756Z" creationid="xccui" creationdate="20190710T204756Z">
+        <seg>因此在使用它时无需向构建文件中添加额外的依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, you do not need to add any other dependency to use this feature.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184121Z" creationid="xccui" creationdate="20190710T184121Z">
@@ -28932,6 +28940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034128Z" creationid="xccui" creationdate="20190606T034128Z">
         <seg>流处理系统通过不同的结果保障来定义故障时的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StreamingFileSink provides end-to-end exactly-once guarantees for an application given that the application is configured with exactly-once checkpoints and all its</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205037Z" creationid="xccui" creationdate="20190710T205037Z">
+        <seg>假如应用配置了精确一次检查点，且它所有数据源都能在故障时重置，那么StreamingFileSink就可以提供端到端的一致性保障。</seg>
       </tuv>
     </tu>
     <tu>
