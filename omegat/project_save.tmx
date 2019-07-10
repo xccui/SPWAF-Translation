@@ -24785,8 +24785,8 @@
       <tuv lang="EN-US">
         <seg>Once all barriers for a checkpoint have arrived, the operator checkpoints the state, which might now also include modifications caused by records that would usually belong to the next checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T205131Z" creationid="xccui" creationdate="20190609T204938Z">
-        <seg>待所有的检查点分隔符都到达以后，算子才将状态存入检查点，这时候状态可能会包含一些由本应出现在下一次检查点的记录所导致的改动。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065841Z" creationid="xccui" creationdate="20190609T204938Z">
+        <seg>待所有的检查点分隔符都到达以后，算子才将状态存入检查点，这时候状态可能会包含一些由本应出现在下一次检查点的记录所引起的改动。</seg>
       </tuv>
     </tu>
     <tu>
