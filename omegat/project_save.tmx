@@ -7128,8 +7128,8 @@
       <tuv lang="EN-US">
         <seg>A state backend is responsible for two things: local state management and checkpointing state to a remote location.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T155046Z" creationid="xccui" creationdate="20190608T051505Z">
-        <seg>状态后端主要负责两件事：本地状态管理和将状态检查点写入远程存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061621Z" creationid="xccui" creationdate="20190608T051505Z">
+        <seg>状态后端主要负责两件事：本地状态管理和将状态以检查点的形式写入远程存储。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16889,8 +16889,8 @@
       <tuv lang="EN-US">
         <seg>For local state management, a state backend stores all keyed states and ensures that all accesses are correctly scoped to the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190608T051526Z">
-        <seg>对于本地状态管理，状态后端会存储所有键值分区状态并保证能将状态访问范围正确地限制在当前键值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061641Z" creationid="xccui" creationdate="20190608T051526Z">
+        <seg>对于本地状态管理，状态后端会存储所有键值分区状态，并保证能将状态访问范围正确地限制在当前键值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17865,8 +17865,8 @@
       <tuv lang="EN-US">
         <seg>How exactly the state is stored, accessed, and maintained is determined by a pluggable component</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T051428Z" creationid="xccui" creationdate="20190608T051306Z">
-        <seg>至于状态具体的存储、访问和维护，则是由一个名为状态后端的可插拔组件决定。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061553Z" creationid="xccui" creationdate="20190608T051306Z">
+        <seg>至于状态具体的存储、访问和维护，则是由一个名为状态后端的可插拔组件来决定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28138,8 +28138,8 @@
       <tuv lang="EN-US">
         <seg>State checkpointing is important because Flink is a distributed system and state is only locally maintained.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T162333Z" creationid="xccui" creationdate="20190608T053330Z">
-        <seg>因为Flink是一个分布式系统但只在本地维护状态，因此状态检查点就显得极其重要。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061753Z" creationid="xccui" creationdate="20190608T053330Z">
+        <seg>因为Flink是一个分布式系统但只在本地维护状态，所以状态检查点就显得极其重要。</seg>
       </tuv>
     </tu>
     <tu>
