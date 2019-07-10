@@ -20089,8 +20089,8 @@
       <tuv lang="EN-US">
         <seg>In general, all data maintained by a task and used to compute the results of a function belong to the state of the task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T053933Z" creationid="xccui" creationdate="20190607T053933Z">
-        <seg>通常意义上，所函数里所有需要任务去维护和用来计算结果的数据都属于任务的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055927Z" creationid="xccui" creationdate="20190607T053933Z">
+        <seg>通常意义上，函数里所有需要任务去维护并用来计算结果的数据都属于任务的状态。</seg>
       </tuv>
     </tu>
     <tu>
