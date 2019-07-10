@@ -20535,6 +20535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to gen‐ erate satisfying watermarks you need to reason about the smallest timestamp of a record that is included in a split later processed by the task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T203656Z" creationid="xccui" creationdate="20190710T203656Z">
+        <seg>为了生成满足需求的水位线，你需要根据稍后由任务处理的输入划分中的记录，推断最小时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to grasp the problem of modifying the data type of a state, we have to under‐ stand how state data is represented within a savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T045812Z" creationid="xccui" creationdate="20190705T045812Z">
