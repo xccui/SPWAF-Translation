@@ -10761,8 +10761,8 @@
       <tuv lang="EN-US">
         <seg>Check the Configuration of Your Kafka Cluster</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032523Z" creationid="xccui" creationdate="20190710T032523Z">
-        <seg>检查Kafka的集群配置</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032535Z" creationid="xccui" creationdate="20190710T032523Z">
+        <seg>检查Kafka集群的配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -30508,6 +30508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045718Z" creationid="xccui" creationdate="20190620T045718Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default configuration of a Kafka cluster can still lead to data loss, even after a write is acknowledged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032725Z" creationid="xccui" creationdate="20190710T032530Z">
+        <seg>即使已经确认数据写入成功，Kafka集群的默认配置仍然可能导致数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
