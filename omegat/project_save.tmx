@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.PROCESS_CONTINUOUSLY,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185028Z" creationid="xccui" creationdate="20190710T185028Z">
+        <seg>.PROCESS_CONTINUOUSLY,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.addSource(new SensorSource)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042142Z" creationid="xccui" creationdate="20190612T042142Z">
@@ -1502,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// The FileInputFormat "hdfs:///path/to/my/data", // The path to read</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185013Z" creationid="xccui" creationdate="20190710T185013Z">
+        <seg>// FileInputFormat "hdfs:///path/to/my/data", // 读取路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// The accumulator holds the sum of temperatures and an event count.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005549Z" creationid="xccui" creationdate="20190624T005549Z">
@@ -1514,6 +1530,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010711Z" creationid="xccui" creationdate="20190624T010711Z">
         <seg>// 保存窗口元数据的上下文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// The monitoring interval in ms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185059Z" creationid="xccui" creationdate="20190710T185059Z">
+        <seg>// 以毫秒为单位的监控间隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// The processing mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185034Z" creationid="xccui" creationdate="20190710T185034Z">
+        <seg>// 处理模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -4998,6 +5030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>30000L)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185037Z" creationid="xccui" creationdate="20190710T185037Z">
+        <seg>30000L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>301</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040508Z" creationid="xccui" creationdate="20190418T040508Z">
@@ -6090,6 +6130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030041Z" creationid="esouser" creationdate="20190603T143127Z">
         <seg>历史回顾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A FileInputFormat, which is responsible for reading the content of the files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185145Z" creationid="xccui" creationdate="20190710T185145Z">
+        <seg>一个FileInputFormat对象，负责读数文件内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11487,6 +11535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a filesystem source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184946Z" creationid="xccui" creationdate="20190710T184946Z">
+        <seg>创建文件系统数据源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credit-Based Flow Control</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202504Z" creationid="esouser" creationdate="20190603T144321Z">
@@ -13895,6 +13951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184935Z" creationid="xccui" creationdate="20190710T184935Z">
+        <seg>示例8-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 8-5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T182028Z" creationid="xccui" creationdate="20190710T182028Z">
@@ -14987,6 +15051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025149Z" creationid="xccui" creationdate="20190225T025149Z">
         <seg>文件系统源连接器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FileProcessingMode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185024Z" creationid="xccui" creationdate="20190710T185024Z">
+        <seg>FileProcessingMode</seg>
       </tuv>
     </tu>
     <tu>
@@ -30280,6 +30352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The arguments of the StreamExecutionEnvironment.readFile() method are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185126Z" creationid="xccui" creationdate="20190710T185126Z">
+        <seg>StreamExecutionEnvironment.readFile()方法的参数包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The asQueryableState() method appends a queryable state sink to the stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062429Z" creationid="xccui" creationdate="20190706T062429Z">
@@ -36788,6 +36868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T074848Z" creationid="xccui" creationdate="20190708T074848Z">
         <seg>我们会在"GenericWriteAheadSink"一节更详细地讨论WAL数据汇的一致性保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We discuss the details of this interface later in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185251Z" creationid="xccui" creationdate="20190710T185251Z">
+        <seg>我们会在本章后面讨论此接口的详情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44765,6 +44853,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041332Z" creationid="xccui" creationdate="20190707T041332Z">
         <seg>val line = results.map(t =&gt; f"$t%1.3f").mkString("\t| ") println(line)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val lineReader = new TextInputFormat(null)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184948Z" creationid="xccui" creationdate="20190710T184948Z">
+        <seg>val lineReader = new TextInputFormat(null)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val lineStream: DataStream[String] = env.readFile[String]( lineReader,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184951Z" creationid="xccui" creationdate="20190710T184951Z">
+        <seg>val lineStream: DataStream[String] = env.readFile[String]( lineReader,</seg>
       </tuv>
     </tu>
     <tu>
