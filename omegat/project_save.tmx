@@ -9449,8 +9449,8 @@
       <tuv lang="EN-US">
         <seg>As you saw in “Data Parallelism and Task Parallelism” on page 18, Flink splits data streams into partitions and processes each partition in parallel by a separate operator task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071437Z" creationid="xccui" creationdate="20190607T014501Z">
-        <seg>正如第18页"数据并行和任务并行"一节所述，Flink会将数据流划成不同的分区，并将它们交由不同的算子任务来并行执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T053459Z" creationid="xccui" creationdate="20190607T014501Z">
+        <seg>正如第18页"数据并行和任务并行"一节所述，Flink会将数据流划分为不同的分区，并将它们交由不同的算子任务来并行执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23249,8 +23249,8 @@
       <tuv lang="EN-US">
         <seg>Let’s now explain in more detail how a task emits watermarks and updates its event- time clock when receiving a new watermark.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071259Z" creationid="xccui" creationdate="20190607T014310Z">
-        <seg>接下来我们详细解释一下当任务接收到一个新的水位线之后，将如何发送水位线和更新其内部事件时间时钟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T053438Z" creationid="xccui" creationdate="20190607T014310Z">
+        <seg>接下来我们详细解释一下任务在收到一个新的水位线之后，将如何发送水位线和更新其内部事件时间时钟。</seg>
       </tuv>
     </tu>
     <tu>
