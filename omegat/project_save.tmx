@@ -36314,8 +36314,8 @@
       <tuv lang="EN-US">
         <seg>Watermarks flow in a stream of regular records with annotated time‐ stamps as Figure 3-8 shows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T205307Z" creationid="xccui" creationdate="20190606T205307Z">
-        <seg>如图3-8所示，它像带有注释时间戳的常规记录一样在数据流中移动。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T051838Z" creationid="xccui" creationdate="20190606T205307Z">
+        <seg>如图3-8所示，它们像带有额外时间戳的常规记录一样在数据流中移动。</seg>
       </tuv>
     </tu>
     <tu>
