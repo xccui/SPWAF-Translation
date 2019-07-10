@@ -19649,8 +19649,8 @@
       <tuv lang="EN-US">
         <seg>In PRO CESS_CONTINUOUSLY, the path is periodically scanned (after an initial scan) and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191054Z" creationid="xccui" creationdate="20190710T191054Z">
-        <seg>而在PROCESS_CONTINUOUSLY模式下，数据源会（在首次扫描后）对路径进行周期性扫描，所有新添加的或是修改的文件都会</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191140Z" creationid="xccui" creationdate="20190710T191054Z">
+        <seg>而在PROCESS_CONTINUOUSLY模式下，数据源会（在首次扫描后）对路径进行周期性扫描，所有新添加的或是修改过的文件都会被持续读入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31688,6 +31688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The interval in milliseconds in which the path is periodically scanned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191253Z" creationid="xccui" creationdate="20190710T191253Z">
+        <seg>针对目标路径周期性扫描的时间间隔（以毫秒为单位）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The interval join currently only supports event time and operates with INNER JOIN</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025409Z" creationid="xccui" creationdate="20190628T025409Z">
@@ -32380,6 +32388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052803Z" creationid="xccui" creationdate="20190616T052730Z">
         <seg>环境的并行度（即所有算子的默认并行度）会根据应用启动时所处的上下文自动初始化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The parameter is ignored in PROCESS_ONCE mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191331Z" creationid="xccui" creationdate="20190710T191331Z">
+        <seg>如果选择PROCESS_ONCE，该参数会被忽略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42221,6 +42237,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051129Z" creationid="xccui" creationdate="20190620T051129Z">
         <seg>new Watermark(maxTs - bound)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new and modified files are continuously read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191143Z" creationid="xccui" creationdate="20190710T191143Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
