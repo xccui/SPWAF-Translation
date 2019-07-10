@@ -24993,8 +24993,8 @@
       <tuv lang="EN-US">
         <seg>One of the most interesting applications of save‐ points we have seen in the wild is continuously migrating a streaming application to the datacenter that provides the lowest instance prices.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214038Z" creationid="xccui" creationdate="20190609T213849Z">
-        <seg>我们在生态中见到保存点最有意思的应用之一是不断将流式应用迁移到实例价格最低的数据中心。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070648Z" creationid="xccui" creationdate="20190609T213849Z">
+        <seg>我们在生态中见到保存点最有趣的应用之一是不断将流式应用迁移到实例价格最低的数据中心。</seg>
       </tuv>
     </tu>
     <tu>
