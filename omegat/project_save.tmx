@@ -25706,8 +25706,8 @@
       <tuv lang="EN-US">
         <seg>Periodic assigner: The DataStream API provides a user-defined function called AssignerWithPeriodicWatermarks that extracts a timestamp from each record and is periodically queried for the current watermark.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T035640Z" creationid="xccui" creationdate="20190607T034945Z">
-        <seg>周期分配器：DataStream API提供了一个名为AssignerWithPeriodicWatermarks的用户自定义函数，它可以用来从每条记录提取时间戳并周期性地响应获取当前水位线的查询请求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055335Z" creationid="xccui" creationdate="20190607T034945Z">
+        <seg>周期分配器（periodic assigner）：DataStream API提供了一个名为AssignerWithPeriodicWatermarks的用户自定义函数，它可以用来从每条记录提取时间戳，并周期性地响应获取当前水位线的查询请求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26106,8 +26106,8 @@
       <tuv lang="EN-US">
         <seg>Punctuated assigner: AssignerWithPunctuatedWatermarks is another user- defined function that extracts a timestamp from each record.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T035811Z" creationid="xccui" creationdate="20190607T035758Z">
-        <seg>定点分配器：另一个支持从记录中提取时间戳的用户自定义函数叫做AssignerWithPunctuatedWatermarks。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055401Z" creationid="xccui" creationdate="20190607T035758Z">
+        <seg>定点分配器（punctuated assigner）：另一个支持从记录中提取时间戳的用户自定义函数叫做AssignerWithPunctuatedWatermarks。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34130,8 +34130,8 @@
       <tuv lang="EN-US">
         <seg>This function will be discussed in “Assigning Timestamps and Generating Watermarks” on page 111.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T035555Z" creationid="xccui" creationdate="20190607T035526Z">
-        <seg>这个函数会在111页"分配时间戳和生成水位线"介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055317Z" creationid="xccui" creationdate="20190607T035526Z">
+        <seg>这个函数会在111页"分配时间戳和生成水位线"中介绍。</seg>
       </tuv>
     </tu>
     <tu>
