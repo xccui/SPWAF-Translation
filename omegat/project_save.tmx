@@ -12561,8 +12561,8 @@
       <tuv lang="EN-US">
         <seg>Each operator can define one or more keyed and operator states.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214508Z" creationid="xccui" creationdate="20190609T214500Z">
-        <seg>每个算子可以定义一个或多个的键值或算子状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071020Z" creationid="xccui" creationdate="20190609T214500Z">
+        <seg>而每个算子又可以定义一个或多个的键值或算子状态。</seg>
       </tuv>
     </tu>
     <tu>
