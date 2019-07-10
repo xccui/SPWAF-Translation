@@ -18961,8 +18961,8 @@
       <tuv lang="EN-US">
         <seg>If there are fewer list entries than the new parallelism of an operator, some tasks will start with empty state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T060844Z" creationid="xccui" creationdate="20190608T060655Z">
-        <seg>如果列表项目的数量小于算子新设置的并发度，部分任务在启动时的状态就可能为空。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062438Z" creationid="xccui" creationdate="20190608T060655Z">
+        <seg>如果列表条目的数量小于算子新设置的并行度，部分任务在启动时的状态就可能为空。</seg>
       </tuv>
     </tu>
     <tu>
