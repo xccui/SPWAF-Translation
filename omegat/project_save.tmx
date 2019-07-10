@@ -8806,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink features a resettable source connector to ingest data in files as streams.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183935Z" creationid="xccui" creationdate="20190710T183935Z">
+        <seg>Apache Flink提供了一个可重置的数据源连接器，支持将文件中的数据提取成数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink features queryable state to address use cases that usually would require an external datastore to share data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T162535Z" creationid="xccui" creationdate="20190705T162535Z">
@@ -30852,6 +30860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044155Z" creationid="xccui" creationdate="20190504T044155Z">
         <seg>其中包含了4个发送端和4个接收端任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The filesystem source is part of the flink-streaming-java module.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184024Z" creationid="xccui" creationdate="20190710T184024Z">
+        <seg>该文件系统数据源是flink-streaming-java模块的一部分，</seg>
       </tuv>
     </tu>
     <tu>
