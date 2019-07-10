@@ -14425,8 +14425,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3-17 shows a consistent checkpoint of a simple application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T224948Z" creationid="xccui" creationdate="20190608T224942Z">
-        <seg>图3-17展示了一个简单应用的一致性检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063714Z" creationid="xccui" creationdate="20190608T224942Z">
+        <seg>图3-17展示了针对一个简单应用的一致性检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24265,8 +24265,8 @@
       <tuv lang="EN-US">
         <seg>Note that Flink does not implement this naive mechanism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T224835Z" creationid="xccui" creationdate="20190608T224543Z">
-        <seg>但值得一提的是Flink没有实现这种朴素策略，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063617Z" creationid="xccui" creationdate="20190608T224543Z">
+        <seg>值得一提的是，Flink没有实现这种朴素策略，</seg>
       </tuv>
     </tu>
     <tu>
