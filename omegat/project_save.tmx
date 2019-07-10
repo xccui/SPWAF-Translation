@@ -29248,6 +29248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TextInputFormat reads text files line-wise (split by newline characters), subclasses of CsvInputFormat read files with comma- separated values, and AvroInputFormat reads files with Avro-encoded records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T195957Z" creationid="xccui" creationdate="20190710T195957Z">
+        <seg>TextInputFormat会按行（由换行符指定）读取文本文件，CsvInputFormat的子类可用来读取CSV（comma-separated values）文件，AvroInputFormat可以读取存有Avro编码格式记录的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you, Adam Kawa, Aljoscha Krettek, Kenneth Knowles, Lea Giordano, Matthias J. Sax, Stephan Ewen, Ted Malaska, and Tyler Akidau.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T161943Z" creationid="xccui" creationdate="20190608T161943Z">
