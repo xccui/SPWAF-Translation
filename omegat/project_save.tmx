@@ -19769,8 +19769,8 @@
       <tuv lang="EN-US">
         <seg>In case of a failure, Flink uses the latest check‐ point  to  consistently  restore  the  application’s   state   and   restarts   the   processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T035819Z" creationid="xccui" creationdate="20190609T033338Z">
-        <seg>一旦发生故障，Flink会利用最新的检查点为应用恢复一致性的状态并重启进程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063843Z" creationid="xccui" creationdate="20190609T033338Z">
+        <seg>一旦发生故障，Flink会利用最新的检查点将应用状态恢复到一个一致性的点并重启处理进程。</seg>
       </tuv>
     </tu>
     <tu>
