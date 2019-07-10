@@ -6438,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bucket is a subdirectory of the base path that is configured with the builder of Stream ingFileSink—"/base/path" in Example 8-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T210621Z" creationid="xccui" creationdate="20190710T210621Z">
+        <seg>每个存储桶都代表了由StreamingFileSink构建器配置的基础路径（示例8-4中的"/bash/path"）下的一个子目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A call to this</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055532Z" creationid="xccui" creationdate="20190630T055532Z">
