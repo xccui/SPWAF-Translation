@@ -24567,6 +24567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that in PROCESS_ONCE mode, no checkpoints are taken after the filesystem path is scanned and all splits are created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T202432Z" creationid="xccui" creationdate="20190710T202432Z">
+        <seg>注意，PROCESS_ONCE模式下的数据源在扫描完所有文件并创建好输入划分之后，不会生成任何检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that keyBy() is different from the distribution transforma‐ tions discussed in this section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070343Z" creationid="xccui" creationdate="20190615T070343Z">
