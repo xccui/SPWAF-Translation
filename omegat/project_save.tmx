@@ -19327,6 +19327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to use a filesystem source connector in an event-time application, you should be aware that it can be challenging to generate watermarks since input splits are generated in a single process and round-robin distributed to all parallel readers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T202902Z" creationid="xccui" creationdate="20190710T202902Z">
+        <seg>当你想在一个基于事件时间的应用中使用文件系统数据源连接器时需要注意，生成水位线的工作可能并不好做，因为输入划分需要在单个进程中生成，且会被循环发送至所有并行读取器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your application requires keyed state for a moving key domain, it should ensure the state of keys is cleared when it is not needed anymore.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T201452Z" creationid="xccui" creationdate="20190704T201452Z">
