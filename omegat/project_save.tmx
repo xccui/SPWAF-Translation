@@ -39009,6 +39009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writing a stream into files is a common requirement, for example, to prepare data with low latency for offline ad-hoc analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T203802Z" creationid="xccui" creationdate="20190710T203802Z">
+        <seg>将数据流写入文件是一种很常见的需求，例如我们可能需要为离线的即席分析准备延迟较低的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Writing the event-time timestamp of a record to Kafka is</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041133Z" creationid="xccui" creationdate="20190710T041133Z">
