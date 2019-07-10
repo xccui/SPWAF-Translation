@@ -6134,6 +6134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A FileInputFormat used in a DataStream application should also implement the CheckpointableInputFormat interface, which defines methods to checkpoint and reset the the current reading position of an InputFormat within a file split.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192530Z" creationid="xccui" creationdate="20190710T192530Z">
+        <seg>DataStream应用中所用到的FileInputFormat还需要实现CheckpointableInputFormat接口，该接口定义了生成检查点以及针对某个输入划分重置InputFormat中读取位置的相关方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A FileInputFormat, which is responsible for reading the content of the files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185145Z" creationid="xccui" creationdate="20190710T185145Z">
@@ -31056,6 +31064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file‐ system source connector provides only at-least-once guarantees when checkpointing is enabled if the FileInputFormat does not implement the CheckpointableInputFor mat interface because the input format will start reading from the beginning of the split that was processed when the last complete checkpoint was taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T193855Z" creationid="xccui" creationdate="20190710T193855Z">
+        <seg>如果FileInputFormat没有实现CheckpointableInputFormat接口，则文件系统数据源连接器在启用检查点的情况下只能提供至少一次保障，因为InputFormat会从划分的起点，也就是上一次成功生成检查点时的处理位置，开始读取数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The filter transformation drops or forwards events of a stream by evaluating a boolean condition on each input event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051901Z" creationid="xccui" creationdate="20190613T051252Z">
@@ -43389,6 +43405,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022929Z" creationid="xccui" creationdate="20190622T022929Z">
         <seg>readings.print()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192304Z" creationid="xccui" creationdate="20190710T192304Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
