@@ -6800,8 +6800,8 @@
       <tuv lang="EN-US">
         <seg>A process function can easily filter out late events by comparing their timestamps with the current watermark.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153933Z" creationid="xingcan" creationdate="20190628T153844Z">
-        <seg>处理函数可以通过比较事件时间戳和当前水位线的方式轻松过滤掉迟到事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041354Z" creationid="xingcan" creationdate="20190628T153844Z">
+        <seg>处理函数可以通过比较时间戳和当前水位线的方式轻松过滤掉迟到事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34954,8 +34954,8 @@
       <tuv lang="EN-US">
         <seg>Time-based window assigners assign an element based on its event-time timestamp or the current processing time to windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T033135Z" creationid="xccui" creationdate="20190623T033135Z">
-        <seg>基于时间的窗口分配器会根据元素的事件时间戳或当前处理时间将其分配到一个或多个窗口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041312Z" creationid="xccui" creationdate="20190623T033135Z">
+        <seg>基于时间的窗口分配器会根据元素事件时间的时间戳或当前处理时间将其分配到一个或多个窗口。</seg>
       </tuv>
     </tu>
     <tu>
