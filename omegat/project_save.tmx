@@ -38171,8 +38171,8 @@
       <tuv lang="EN-US">
         <seg>While processing the data, the task can read and update its state and compute its result based on its input data and state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T054433Z" creationid="xccui" creationdate="20190607T054433Z">
-        <seg>在处理这些数据的过程中，任务可以读取更新其状态，并根据状态和输入数据计算结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060050Z" creationid="xccui" creationdate="20190607T054433Z">
+        <seg>在处理这些数据的过程中，任务对其状态进行读取或更新，并根据状态和输入数据计算结果。</seg>
       </tuv>
     </tu>
     <tu>
