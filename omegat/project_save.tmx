@@ -23801,8 +23801,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the visibility of committed messages depends on</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T031048Z" creationid="xccui" creationdate="20190710T031048Z">
-        <seg>此外，已提交消息的可见性会取决于Flink应用的生成检查点的间隔。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T031102Z" creationid="xccui" creationdate="20190710T031048Z">
+        <seg>此外，已提交消息的可见性会取决于Flink应用生成检查点的间隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26332,6 +26332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060310Z" creationid="xccui" creationdate="20190630T060310Z">
         <seg>ReducingState[T]提供了和ListState[T]相同的方法（除了addAll()和update()），但它的State.add(value: T)方法会立即返回一个使用ReduceFunction聚合后的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the Flink documentation to learn about a few other corner cases when enabling exactly-once consistency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032453Z" creationid="xccui" creationdate="20190710T032453Z">
+        <seg>请查看Flink文档了解更多有关启用精确一次一致性时的特殊情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43405,6 +43413,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070115Z" creationid="xccui" creationdate="20190615T070115Z">
         <seg>亦或是可能应用逻辑要求某操作的所有任务接收相同的数据或按照自定义策略分发事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the checkpoint interval of a Flink application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T031052Z" creationid="xccui" creationdate="20190710T031052Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
