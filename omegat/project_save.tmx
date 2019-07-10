@@ -18783,6 +18783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the number of partitions is larger than the number of subtasks, the default configuration results in empty parti‐ tions, which can cause problems for Flink applications consuming the topic in event- time mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035040Z" creationid="xccui" creationdate="20190710T035040Z">
+        <seg>而如果分区数多于任务数，则默认配置会导致有些分区为空。如果有Flink应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the operator is configured just with an incremental aggregation func‐ tion, the current aggregation result is emitted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053430Z" creationid="xccui" creationdate="20190625T053430Z">
@@ -43163,8 +43171,8 @@
       <tuv lang="EN-US">
         <seg>sink task to a single Kafka partition—all records emitted by the same sink task are written to the same partition and a single partition may contain the records of multi‐ ple sink tasks if there are more tasks than partitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T034451Z" creationid="xccui" creationdate="20190710T034433Z">
-        <seg>在没有指定的情况下，默认的分区器（partitioner）会将每个数据汇任务映射到一个单独的Kafka分区，即单个任务的所有记录都会被发往同一分区。如果任务数多余分区数，则每个分区可能会包含多个任务发来的记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T034505Z" creationid="xccui" creationdate="20190710T034433Z">
+        <seg>在没有指定的情况下，默认的分区器（partitioner）会将每个数据汇任务映射到一个单独的Kafka分区，即单个任务的所有记录都会被发往同一分区。如果任务数多余分区数，则每个分区可能会包含多个任务发来的记录；</seg>
       </tuv>
     </tu>
     <tu>
