@@ -30514,8 +30514,8 @@
       <tuv lang="EN-US">
         <seg>The default configuration of a Kafka cluster can still lead to data loss, even after a write is acknowledged.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032725Z" creationid="xccui" creationdate="20190710T032530Z">
-        <seg>即使已经确认数据写入成功，Kafka集群的默认配置仍然可能导致数据丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033350Z" creationid="xccui" creationdate="20190710T032530Z">
+        <seg>即使已经确认数据写入成功，Kafka集群如果采用默认配置，则仍可能丢失数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38901,6 +38901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T063457Z" creationid="xccui" creationdate="20190706T063457Z">
         <seg>你只需要像上节讨论的那样，确保为TaskManager配置了可查询式状态的服务即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should carefully revise the configuration of your Kafka setup, paying special attention to the following parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033420Z" creationid="xccui" creationdate="20190710T033420Z">
+        <seg>你需要仔细检查Kafka的设置，特别要注意以下参数：</seg>
       </tuv>
     </tu>
     <tu>
