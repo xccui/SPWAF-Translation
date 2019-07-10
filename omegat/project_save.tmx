@@ -17729,8 +17729,8 @@
       <tuv lang="EN-US">
         <seg>Hence, you can fix bugs in your application logic and reprocess as many events as your streaming source can provide in order to repair your results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212237Z" creationid="xccui" creationdate="20190609T212214Z">
-        <seg>这意味着你可以修复应用的一些逻辑bug，然后在数据流来源的支持范围内下尽可能多地重新处理输入事件，以此来修复结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070440Z" creationid="xccui" creationdate="20190609T212214Z">
+        <seg>这意味着你可以修复应用的一些逻辑Bug，然后在数据流来源的支持范围内下尽可能多地重新处理输入事件，以此来修复结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27538,8 +27538,8 @@
       <tuv lang="EN-US">
         <seg>Since savepoints are such a powerful feature, many users periodically create save‐ points to be able to go back in time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213645Z" creationid="xccui" creationdate="20190609T213645Z">
-        <seg>保存点的功能如此强大，很多用户都会周期性地创建保存点，以便能即时"回到过去"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070625Z" creationid="xccui" creationdate="20190609T213645Z">
+        <seg>由于保存点的功能十分强大，很多用户都会周期性地创建保存点，以便能及时"回到过去"。</seg>
       </tuv>
     </tu>
     <tu>
