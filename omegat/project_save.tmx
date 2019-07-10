@@ -9161,8 +9161,8 @@
       <tuv lang="EN-US">
         <seg>As a con‐ sequence, an application with default operator identifiers is very limited in how it can be evolved without losing state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T030644Z" creationid="xccui" creationdate="20190610T025637Z">
-        <seg>因此使用默认算子标识的应用如果不想丢失状态，那么改动空间比较有限。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071336Z" creationid="xccui" creationdate="20190610T025637Z">
+        <seg>因此使用默认算子标识的应用如果不想丢失状态，那么改动空间会比较有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34186,8 +34186,8 @@
       <tuv lang="EN-US">
         <seg>This information will come in handy when designing advanced stream‐ ing applications, setting up and configuring clusters, and operating streaming appli‐ cations as well as reasoning about their performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T032507Z" creationid="xccui" creationdate="20190610T031959Z">
-        <seg>在设计高级流式应用，设置并配置集群，控制流式应用并推断其性能时，这些内容都将派上用场。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071548Z" creationid="xccui" creationdate="20190610T031959Z">
+        <seg>在设计高级流式应用，搭建和配置集群以及操纵流式应用并推断其性能时，这些内容都将派上用场。</seg>
       </tuv>
     </tu>
     <tu>
