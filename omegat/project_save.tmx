@@ -6656,8 +6656,8 @@
       <tuv lang="EN-US">
         <seg>A key group is a partition of keys and Flink’s  way of assigning keys to   tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T060044Z" creationid="xccui" creationdate="20190608T055919Z">
-        <seg>键值组包含了部分键值，Flink以此为单位把键值分配给不同任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062208Z" creationid="xccui" creationdate="20190608T055919Z">
+        <seg>每个键值组都包含了部分键值，Flink以此为单位把键值分配给不同任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10977,8 +10977,8 @@
       <tuv lang="EN-US">
         <seg>Concep‐ tually, the list entries of all parallel operator tasks are collected and evenly redistrib‐ uted to a smaller or larger number of tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T060531Z" creationid="xccui" creationdate="20190608T060433Z">
-        <seg>理论上，所有并行算子任务的列表项目会被统一收集起来，随后均匀分配到数量改变的任务之上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062425Z" creationid="xccui" creationdate="20190608T060433Z">
+        <seg>理论上，所有并行算子任务的列表条目会被统一收集起来，随后均匀分配到更少或更多的任务之上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18377,8 +18377,8 @@
       <tuv lang="EN-US">
         <seg>However, to improve the efficiency of the necessary state transfer between tasks, Flink does not redistribute individual keys.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T055813Z" creationid="xccui" creationdate="20190608T055302Z">
-        <seg>但为了降低状态在不同任务之间迁移的必要成本，Flink不会对单独的键值执行再分配，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062145Z" creationid="xccui" creationdate="20190608T055302Z">
+        <seg>但为了降低状态在不同任务之间迁移的必要成本，Flink不会对单独的键值实施再分配，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25370,8 +25370,8 @@
       <tuv lang="EN-US">
         <seg>Operators with operator list state are scaled by redistributing the list entries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T060331Z" creationid="xccui" creationdate="20190608T060308Z">
-        <seg>带有算子列表状态的算子在扩缩容时会重新分配列表中的项目。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062333Z" creationid="xccui" creationdate="20190608T060308Z">
+        <seg>带有算子列表状态的算子在扩缩容时会对列表中的条目进行重新分配。</seg>
       </tuv>
     </tu>
     <tu>
