@@ -14553,8 +14553,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3-26 shows an application with three operators, each running with two tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214838Z" creationid="xccui" creationdate="20190609T214829Z">
-        <seg>图3-26所展示的应用包含了3个算子，每个算子各有两个任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071112Z" creationid="xccui" creationdate="20190609T214829Z">
+        <seg>图3-26所展示的应用包含了三个算子，每个算子各有两个任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25290,8 +25290,8 @@
       <tuv lang="EN-US">
         <seg>Operators are executed in parallel by one or more operator tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214539Z" creationid="xccui" creationdate="20190609T214539Z">
-        <seg>算子会在一个或多个任务上并行执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071037Z" creationid="xccui" creationdate="20190609T214539Z">
+        <seg>算子会在一个或多个任务上并行执行，</seg>
       </tuv>
     </tu>
     <tu>
