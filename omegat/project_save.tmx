@@ -8208,8 +8208,8 @@
       <tuv lang="EN-US">
         <seg>Although this means Flink processes some messages twice (before and after the failure), the mechanism still achieves exactly-once state consistency because the state of all operators was reset to a point that had not seen this data yet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T053520Z" creationid="xccui" creationdate="20190609T053400Z">
-        <seg>虽然这意味着Flink进程会重复处理部分消息，但上述机制仍然可以实现精确一次的状态一致性，因为所有算子的状态都会重置到过去还没有处理过那些数据的时间点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064240Z" creationid="xccui" creationdate="20190609T053400Z">
+        <seg>虽然这意味着Flink会重复处理部分消息，但上述机制仍然可以实现精确一次的状态一致性，因为所有算子的状态都会重置到过去还没有处理过那些数据的时间点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16217,8 +16217,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s recovery mechanism is based on consistent application checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T054558Z" creationid="xccui" creationdate="20190609T054558Z">
-        <seg>Flink的故障恢复机制是基于应用的一致性检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064354Z" creationid="xccui" creationdate="20190609T054558Z">
+        <seg>Flink的故障恢复机制需要基于应用的一致性检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22777,8 +22777,8 @@
       <tuv lang="EN-US">
         <seg>It then starts to consume and process all data that was processed between the checkpoint and the failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064138Z" creationid="xccui" creationdate="20190609T051830Z">
-        <seg>随后应用就会重新消费并处理那些从之前检查点完成开始到发生系统故障之间已经处理过的数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064213Z" creationid="xccui" creationdate="20190609T051830Z">
+        <seg>随后应用就会重新消费并处理那些从之前检查点完成开始，到发生系统故障之间已经处理过的数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30066,8 +30066,8 @@
       <tuv lang="EN-US">
         <seg>The algorithm does not pause the complete application but decouples checkpointing from processing, so that some tasks continue processing while others persist their state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060010Z" creationid="xccui" creationdate="20190609T055752Z">
-        <seg>该算法不会暂停整个应用，而是把生成检查点的过程和处理过程分离，这样在部分任务持久化状态的过程中，其他任务还可以继续执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064446Z" creationid="xccui" creationdate="20190609T055752Z">
+        <seg>该算法不会暂停整个应用，而是会把生成检查点的过程和处理过程分离，这样在部分任务持久化状态的过程中，其他任务还可以继续执行。</seg>
       </tuv>
     </tu>
     <tu>
