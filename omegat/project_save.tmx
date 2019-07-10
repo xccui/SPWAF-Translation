@@ -23009,8 +23009,8 @@
       <tuv lang="EN-US">
         <seg>Keyed State</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041649Z" creationid="xccui" creationdate="20190418T035556Z">
-        <seg>键值分区状态（Keyed State）</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061023Z" creationid="xccui" creationdate="20190418T035556Z">
+        <seg>键值分区状态</seg>
       </tuv>
     </tu>
     <tu>
