@@ -33472,6 +33472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, filesystems are commonly used to “connect” streaming and batch applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183725Z" creationid="xccui" creationdate="20190710T183725Z">
+        <seg>因此，我们通常会用它来"连接"流式应用和批处理应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, it is important that application state can be migrated to a new version of the application or be redistributed to more or fewer operator tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212646Z" creationid="xccui" creationdate="20190702T212646Z">
