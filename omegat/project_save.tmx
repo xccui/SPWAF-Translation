@@ -27808,6 +27808,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since most applications can only read files once they are finalized and streaming applications run for long periods of time, streaming sink connectors typically chunk their output into multiple files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T204114Z" creationid="xccui" creationdate="20190710T204114Z">
+        <seg>由于大多数应用只有在文件最终确定后才会读取其内容，且流式应用通常会运行很长时间，所以流式数据汇连接器通常会将其输出写入多个文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since multiple applications might work on the same data representation or share the same infrastructure, changing the schema of a table or scaling a database system requires careful planning and a lot of effort.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145106Z" creationid="esouser" creationdate="20190603T200017Z">
