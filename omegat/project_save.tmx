@@ -28962,8 +28962,8 @@
       <tuv lang="EN-US">
         <seg>Tasks have an internal time service that maintains timers and is activated when a water‐ mark is received.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070439Z" creationid="xccui" creationdate="20190606T210238Z">
-        <seg>任务内部的时间服务（time service）会维护一些计时器（timer），并在接收到水位线时将其激活。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052518Z" creationid="xccui" creationdate="20190606T210238Z">
+        <seg>任务内部的时间服务（time service）会维护一些计时器（timer），它们依靠接收到水位线来激活。</seg>
       </tuv>
     </tu>
     <tu>
