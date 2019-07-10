@@ -27346,8 +27346,8 @@
       <tuv lang="EN-US">
         <seg>Similar to watermarks, checkpoint barriers are injected by source operators into the regular stream of records and cannot overtake or be passed by other records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T060724Z" creationid="xccui" creationdate="20190609T060328Z">
-        <seg>和水位线类似，这些检查点分隔符会通过数据源算子注入到普通的记录流中，它们在流中的位置无法提前或延后。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064512Z" creationid="xccui" creationdate="20190609T060328Z">
+        <seg>和水位线类似，这些检查点分隔符会通过数据源算子注入到常规的记录流中，它们在流中的位置无法提前或延后。</seg>
       </tuv>
     </tu>
     <tu>
