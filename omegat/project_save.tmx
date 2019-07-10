@@ -15689,8 +15689,8 @@
       <tuv lang="EN-US">
         <seg>Flink offers three primitives for operator state:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T061941Z" creationid="xccui" creationdate="20190607T061925Z">
-        <seg>Flink为算子状态提供了3类原语：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060419Z" creationid="xccui" creationdate="20190607T061925Z">
+        <seg>Flink为算子状态提供了三类原语：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33370,8 +33370,8 @@
       <tuv lang="EN-US">
         <seg>There are two types of state, operator state and keyed state, that are accessible from different scopes and discussed in the following sections.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060321Z" creationid="xccui" creationdate="20190607T023422Z">
-        <seg>根据作用域的不同，状态可以分为两类：算子状态（operator state）和键值分区状态（keyed state），我们会在接下来的几节介绍它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060341Z" creationid="xccui" creationdate="20190607T023422Z">
+        <seg>根据作用域的不同，状态可以分为两类：算子状态（operator state）和键值分区状态（keyed state），我们将在接下来的几节介绍它们。</seg>
       </tuv>
     </tu>
     <tu>
