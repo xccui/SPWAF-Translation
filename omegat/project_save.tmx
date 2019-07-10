@@ -33394,8 +33394,8 @@
       <tuv lang="EN-US">
         <seg>There is also the option to delegate the partitioning to Kafka based on the message key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035955Z" creationid="xccui" creationdate="20190710T035955Z">
-        <seg>此外还可以</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T040314Z" creationid="xccui" creationdate="20190710T035955Z">
+        <seg>此外还可以选择让Kafka根据消息的键值来完成分区。</seg>
       </tuv>
     </tu>
     <tu>
