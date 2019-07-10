@@ -18521,8 +18521,8 @@
       <tuv lang="EN-US">
         <seg>If a source function (temporarily) does not emit anymore watermarks, it can declare itself idle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034450Z" creationid="xccui" creationdate="20190607T034439Z">
-        <seg>如果源函数（临时性地）不会再发出水位线，可以把自己声明成空闲。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054734Z" creationid="xccui" creationdate="20190607T034439Z">
+        <seg>如果源函数（临时性地）不再发出水位线，可以把自己声明成空闲。</seg>
       </tuv>
     </tu>
     <tu>
