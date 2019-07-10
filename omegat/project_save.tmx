@@ -16047,6 +16047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FlinkKafkaPartitioner can be defined in some con‐ structors of the Flink Kafka sink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T034103Z" creationid="xccui" creationdate="20190710T034103Z">
+        <seg>它的某些构造函数允许你定义FlinkKafkaPartitioner。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FlinkKafkaProducer provides more constructors with different combinations of arguments as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T150414Z" creationid="xingcan" creationdate="20190709T150414Z">
@@ -37965,6 +37973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051123Z" creationid="xccui" creationdate="20190613T051123Z">
         <seg>如果使用Scala API或Java 8，还可以通过lambda函数来表示映射器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When writing messages to a Kafka topic, a Flink Kafka sink task can choose to which partition of the topic to write.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033938Z" creationid="xccui" creationdate="20190710T033938Z">
+        <seg>在将消息写入Kafka某个主题时，Flink Kafka数据汇可以选择写入目标主题的哪个分区。</seg>
       </tuv>
     </tu>
     <tu>
