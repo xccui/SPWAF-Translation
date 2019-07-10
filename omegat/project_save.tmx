@@ -16209,8 +16209,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s recovery algorithm is based on state checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065919Z" creationid="xccui" creationdate="20190609T205357Z">
-        <seg>Flink的故障恢复算法需要基于状态的检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065940Z" creationid="xccui" creationdate="20190609T205357Z">
+        <seg>Flink的故障恢复算法是基于状态的检查点来完成的。</seg>
       </tuv>
     </tu>
     <tu>
