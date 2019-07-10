@@ -38203,8 +38203,8 @@
       <tuv lang="EN-US">
         <seg>While scaling stateless opera‐ tors is trivial, changing the parallelism of stateful operators is much more challenging because their state needs to be repartitioned and assigned to more or fewer parallel tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052019Z" creationid="xccui" creationdate="20190608T054626Z">
-        <seg>对于无状态的算子，扩缩容很容易。但对于状态化算子，改变并发度就会复杂很多，因为我们需要把状态重新分组，分配到与之前数量不等的并行任务之上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062034Z" creationid="xccui" creationdate="20190608T054626Z">
+        <seg>对于无状态的算子，扩缩容很容易。但对于状态化算子，改变并发度就会复杂很多，因为我们需要把状态重新分组，分配到与之前数量不等的并行任务上。</seg>
       </tuv>
     </tu>
     <tu>
