@@ -24039,6 +24039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, it is common to organize records into so-called buckets, so that consuming applica‐ tions have more control over which data to read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T204415Z" creationid="xccui" creationdate="20190710T204415Z">
+        <seg>此外，我们通常会将记录组织到不同的"桶"中，以便消费应用可以更好地控制要读取的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, it is often required to transform the data into a common format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T183803Z" creationid="xccui" creationdate="20190228T183803Z">
