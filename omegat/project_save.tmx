@@ -42731,8 +42731,8 @@
       <tuv lang="EN-US">
         <seg>precede a barrier are included in the barrier’s checkpoint and all modifications due to records that follow the barrier are included in a later checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064804Z" creationid="xccui" creationdate="20190609T061206Z">
-        <seg>所有先于分隔符的记录所引起的状态更改都会被包含在分隔符所对应的检查点之中；而所有晚于分隔符的记录所导致的状态更改都会被纳入随后的检查点中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064845Z" creationid="xccui" creationdate="20190609T061206Z">
+        <seg>所有先于分隔符的记录所引起的状态更改都会被包含在分隔符所对应的检查点之中；而所有晚于分隔符的记录所引起的状态更改都会被纳入随后的检查点中。</seg>
       </tuv>
     </tu>
     <tu>
