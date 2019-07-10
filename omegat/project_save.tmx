@@ -17681,8 +17681,8 @@
       <tuv lang="EN-US">
         <seg>Hence, the identifier of an operator changes when one of its predecessors changes, for example, when an operator is added or removed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T025037Z" creationid="xccui" creationdate="20190610T023325Z">
-        <seg>这意味着任意一个前置算子的改变（例如：添加或删除某个算子）都会导致该标识发生变化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071307Z" creationid="xccui" creationdate="20190610T023325Z">
+        <seg>这意味着任何一个前置算子发生改变（例如添加或删除某个算子）都会导致该标识发生变化。</seg>
       </tuv>
     </tu>
     <tu>
