@@ -39329,6 +39329,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can configure the RollingPolicy with the withRollingPolicy() method on the builder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021655Z" creationid="xccui" creationdate="20190711T021355Z">
+        <seg>你可以通过调用构建器的withRollingPolicy()方法来对它进行配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can configure the starting position from which the partitions of a topic are initially read.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T032046Z" creationid="xccui" creationdate="20190709T032046Z">
