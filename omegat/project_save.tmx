@@ -10001,8 +10001,8 @@
       <tuv lang="EN-US">
         <seg>Before manually deleting a pending file, you need to check whether it is lingering or about to be committed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191552Z" creationid="xccui" creationdate="20190711T191552Z">
-        <seg>在手动删除它们之前，你需要检查文件是否是因为延迟所导致的或者马上将要提交。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191651Z" creationid="xccui" creationdate="20190711T191552Z">
+        <seg>在手动删除它们之前，你需要检查文件是否是因为延迟所致或者马上将要提交。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18689,8 +18689,8 @@
       <tuv lang="EN-US">
         <seg>However, these files are not automatically cleaned up.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191141Z" creationid="xccui" creationdate="20190711T191141Z">
-        <seg>然而，这些文件不会被自动清理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191638Z" creationid="xccui" creationdate="20190711T191141Z">
+        <seg>但这些文件不会被自动清理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21065,8 +21065,8 @@
       <tuv lang="EN-US">
         <seg>In some situations, a pending file is never committed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191058Z" creationid="xccui" creationdate="20190711T190956Z">
-        <seg>在一些情况下，处于等待阶段的文件可能永远都无法被提交。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191631Z" creationid="xccui" creationdate="20190711T190956Z">
+        <seg>在一些情况下，处于等待阶段的文件可能永远都无法提交。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25487,6 +25487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you find a commit‐ ted file with the same task index and a higher ID, you can safely remove a pending file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191859Z" creationid="xccui" creationdate="20190711T191859Z">
+        <seg>如果你找到了一个具有相同任务编号、ID更高的已经提交的文件，就可以把处于等待阶段的文件删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you obtain a state client, you can query the state of an application by calling the getKvState() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034126Z" creationid="xccui" creationdate="20190707T033408Z">
@@ -26210,8 +26218,8 @@
       <tuv lang="EN-US">
         <seg>Pending Files Might Never Be Committed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190933Z" creationid="xccui" creationdate="20190711T190933Z">
-        <seg>处于等待阶段的文件可能永远不会被提交</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191603Z" creationid="xccui" creationdate="20190711T190933Z">
+        <seg>处于等待阶段的文件可能永远无法提交</seg>
       </tuv>
     </tu>
     <tu>
@@ -30602,8 +30610,8 @@
       <tuv lang="EN-US">
         <seg>The Stream ingFileSink ensures this does not result in data loss.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191111Z" creationid="xccui" creationdate="20190711T191053Z">
-        <seg>StreamingFileSink保证不会因此导致数据丢失。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191634Z" creationid="xccui" creationdate="20190711T191053Z">
+        <seg>虽然StreamingFileSink保证不会因此导致数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
