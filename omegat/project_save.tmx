@@ -24137,8 +24137,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, Flink provides Maven archetypes to bootstrap new Flink Maven projects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072517Z" creationid="xccui" creationdate="20190611T020723Z">
-        <seg>此外，Flink还提供了用于Flink Maven新项目创建的Maven模板（maven archetypes）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T090928Z" creationid="xccui" creationdate="20190611T020723Z">
+        <seg>此外，Flink还提供了用于创建Flink Maven新项目的Maven模板（maven archetypes）。</seg>
       </tuv>
     </tu>
     <tu>
