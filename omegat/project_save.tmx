@@ -33258,8 +33258,8 @@
       <tuv lang="EN-US">
         <seg>The sink achieves this by a commit protocol that moves files through different stages, in progress, pending,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183812Z" creationid="xccui" creationdate="20190711T183631Z">
-        <seg>它的实现方式是采用一种提交协议，该协议会将文件在不同阶段（处理阶段，等待阶段以及完成阶段）间转移。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183859Z" creationid="xccui" creationdate="20190711T183631Z">
+        <seg>它的实现方式是采用一种提交协议，该协议会将文件在不同阶段（处理阶段，等待阶段以及完成阶段）间转移，</seg>
       </tuv>
     </tu>
     <tu>
