@@ -12735,6 +12735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During execution, the sink registers the query as a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212337Z" creationid="xccui" creationdate="20190711T212251Z">
+        <seg>执行过程中，数据汇会将该查询注册为一个预编译语句（prepared statement）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the execution of a streaming application, Flink periodically takes consistent checkpoints of the application’s state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T033400Z" creationid="xccui" creationdate="20190609T031849Z">
