@@ -10799,6 +10799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cassandra sinks are created and configured using a builder that is obtained by calling the CassandraSink.addSink() method with the DataStream object that should be emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T211147Z" creationid="xccui" creationdate="20190711T211147Z">
+        <seg>为了创建这样一个Cassandra数据汇，我们先利用需要写出的DataStream对象去调用CassandraSink.addSink()方法，得到一个构建器，然后再用构建器去创建和配置数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cassandra’s data model is based on primary keys, and all writes to Cassandra happen with upsert semantics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201733Z" creationid="xccui" creationdate="20190711T201733Z">
