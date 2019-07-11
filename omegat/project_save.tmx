@@ -6368,8 +6368,8 @@
       <tuv lang="EN-US">
         <seg>A StreamingFileSink in bulk-encoding mode requires a BulkWriter.Factory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T171328Z" creationid="xccui" creationdate="20190711T171328Z">
-        <seg>在批量编码模式下，我们需要为StreamingFileSink提供一个BulkWriter.Factory。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T171426Z" creationid="xccui" creationdate="20190711T171328Z">
+        <seg>批量编码模式下的StreamingFileSink需要接收一个BulkWriter.Factory。</seg>
       </tuv>
     </tu>
     <tu>
