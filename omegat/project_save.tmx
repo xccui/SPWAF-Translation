@@ -11113,8 +11113,8 @@
       <tuv lang="EN-US">
         <seg>CheckpointCommitter is used to store information about completed check‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223845Z" creationid="xccui" creationdate="20190711T223845Z">
-        <seg>CheckpointCommitter用来将已完成的检查点信息存到外部数据存储中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223917Z" creationid="xccui" creationdate="20190711T223845Z">
+        <seg>CheckpointCommitter用来将已完成的检查点信息写入外部数据存储中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18511,6 +18511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How this operator works, including the role of the CheckpointCommitter, and which consistency guarantees it provides, is described in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T224217Z" creationid="xccui" creationdate="20190711T224217Z">
+        <seg>有关该算子的工作原理，包括CheckpointCommitter的作用以及送提供的一致性保障，我们会在209页""</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to Contact Us</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210835Z" creationid="esouser" creationdate="20190603T210835Z">
@@ -19297,8 +19305,8 @@
       <tuv lang="EN-US">
         <seg>If no CheckpointCommitter is configured, the information is written into a specific Cassandra table.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223913Z" creationid="xccui" creationdate="20190711T223913Z">
-        <seg>如果没有配置</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T224027Z" creationid="xccui" creationdate="20190711T223913Z">
+        <seg>如果该参数没有配置，数据汇会将相关信息写入一个特定的Cassandra表中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30332,6 +30340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212343Z" creationid="xccui" creationdate="20190711T212226Z">
         <seg>若是要创建针对元组、样例类或Row类型的Cassandra数据汇构建器，你需要提供一个CQL INSERT查询。5 该查询可以用CassandraSinkBuilder.setQuery()方法配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cassandra sink connector with WAL is implemented based on Flink’s GenericWriteAheadSink operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T224111Z" creationid="xccui" creationdate="20190711T224111Z">
+        <seg>带有WAL的Cassandra数据汇连接器是基于Flink的GenericWriteAheadSink算子实现的。</seg>
       </tuv>
     </tu>
     <tu>
