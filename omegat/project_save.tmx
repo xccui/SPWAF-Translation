@@ -8350,6 +8350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among other APIs, Cassandra fea‐ tures the Cassandra Query Language (CQL), a SQL-like language to read and write records and create, modify, and delete database objects, such as keyspaces and tables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201429Z" creationid="xccui" creationdate="20190711T201429Z">
+        <seg>在其他API方面，Cassandra提供了CQL（Cassandra Query Language）。这是一种类SQL语言，可用于读写记录以及创建、修改和删除数据库对象（如键空间和表）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T202926Z" creationid="xccui" creationdate="20190701T202926Z">
