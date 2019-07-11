@@ -5862,6 +5862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;artifactId&gt;flink-connector-cassandra_2.12&lt;/artifactId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T203325Z" creationid="xccui" creationdate="20190711T203325Z">
+        <seg>&lt;artifactId&gt;flink-connector-cassandra_2.12&lt;/artifactId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;artifactId&gt;flink-connector-kafka_2.12&lt;/artifactId&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171254Z" creationid="xccui" creationdate="20190708T171254Z">
@@ -36116,6 +36124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033058Z" creationid="xccui" creationdate="20190620T032816Z">
         <seg>为了保证事件时间操作能够正常工作，必须将分配器放在任何依赖事件时间的转换之前（例如，在第一个事件时间窗口之前）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To illustrate the use of the Cassandra sink connector, we use the simple example of a Cassandra table that holds data about sensor readings and consists of two columns,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T205756Z" creationid="xccui" creationdate="20190711T205756Z">
+        <seg>为了说明Cassandra数据汇连接器的使用方法，我们以一个简单的Cassandra表为例，表中包含了两个列，用于保存传感器读数。</seg>
       </tuv>
     </tu>
     <tu>
