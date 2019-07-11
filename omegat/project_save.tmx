@@ -14055,6 +14055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-4 creates a StreamingFileSink with row encoding by providing an Encoder that writes single records to a part file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T023711Z" creationid="xccui" creationdate="20190711T023711Z">
+        <seg>示例8-4创建了一个使用行编码的StreamingFileSink，它提供的编码器会将每一条记录单独写入分块文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 8-4 shows how to create a StreamingFile Sink with minimal configuration and append it to a stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205803Z" creationid="xccui" creationdate="20190710T205803Z">
@@ -19731,6 +19739,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065415Z" creationid="xccui" creationdate="20190619T044618Z">
         <seg>在第6章，我们将会接触到一些更加有意义的内容——学习如何利用窗口算子和时间语义来进一步丰富我们的程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Example 8-4, we use a Sim pleStringEncoder, which calls the toString() method of the record and writes the String representation of the record to the file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T024309Z" creationid="xccui" creationdate="20190711T024309Z">
+        <seg>该示例中用到了一个SimpleStringEncoder，它会调用记录的toString()方法，从而让我们可以将记录以String形式写入文件中。</seg>
       </tuv>
     </tu>
     <tu>
