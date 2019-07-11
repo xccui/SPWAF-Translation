@@ -18057,8 +18057,8 @@
       <tuv lang="EN-US">
         <seg>Hence, you should be aware that you might debug a multithreaded program.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093700Z" creationid="xccui" creationdate="20190611T054146Z">
-        <seg>所以你应该做好要调试多线程程序的准备。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093729Z" creationid="xccui" creationdate="20190611T054146Z">
+        <seg>所以你应该做好可能需要调试多线程程序的准备。</seg>
       </tuv>
     </tu>
     <tu>
