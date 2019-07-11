@@ -33258,8 +33258,8 @@
       <tuv lang="EN-US">
         <seg>The sink achieves this by a commit protocol that moves files through different stages, in progress, pending,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183631Z" creationid="xccui" creationdate="20190711T183631Z">
-        <seg>它的实现方式是采用一种提交协议，该协议会将文件在不同阶段转移——写入阶段，待处理阶段</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183812Z" creationid="xccui" creationdate="20190711T183631Z">
+        <seg>它的实现方式是采用一种提交协议，该协议会将文件在不同阶段（处理阶段，等待阶段以及完成阶段）间转移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38443,8 +38443,8 @@
       <tuv lang="EN-US">
         <seg>When discarding pending files it does not reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183644Z" creationid="xccui" creationdate="20190711T021123Z">
-        <seg>它在丢弃一些未写入成功的文件时，不会重用它们的ID。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183845Z" creationid="xccui" creationdate="20190711T021123Z">
+        <seg>它在丢弃一些处于等待阶段的文件时，将不会重用它们的ID。</seg>
       </tuv>
     </tu>
     <tu>
