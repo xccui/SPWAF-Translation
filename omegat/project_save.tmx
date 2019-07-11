@@ -6182,6 +6182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>@Column(name = "sensorId") var id: String, @Column(name = "temperature") var temp: Float) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220255Z" creationid="xccui" creationdate="20190711T220255Z">
+        <seg>@Column(name = "sensorId") var id: String, @Column(name = "temperature") var temp: Float) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>@Table(keyspace = "example", name = "sensors")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220249Z" creationid="xccui" creationdate="20190711T220249Z">
+        <seg>@Table(keyspace = "example", name = "sensors")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052010Z" creationid="xccui" creationdate="20190612T052010Z">
@@ -20283,6 +20299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045234Z" creationid="xccui" creationdate="20190626T045234Z">
         <seg>除了WindowAssigner接口外，还有一个继承自它的MergingWindowAssigner接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the configuration options in Figures 8-7 and 8-8, a Cassandra sink builder provides a few more methods to configure the sink connector:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220751Z" creationid="xccui" creationdate="20190711T220751Z">
+        <seg>除了示例8-7和8-8中所展示的配置项，Cassandra数据汇构建器还提供了其他一些配置方法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41265,6 +41289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class SensorReadings(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220252Z" creationid="xccui" creationdate="20190711T220252Z">
+        <seg>class SensorReadings(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class TempIncreaseAlertFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071337Z" creationid="xccui" creationdate="20190621T071337Z">
@@ -41569,6 +41601,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>def getId: String = id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220309Z" creationid="xccui" creationdate="20190711T220309Z">
+        <seg>def getId: String = id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>def getTemp: Float = temp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220316Z" creationid="xccui" creationdate="20190711T220316Z">
+        <seg>def getTemp: Float = temp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>def main(args: Array[String]) {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041920Z" creationid="xccui" creationdate="20190612T041920Z">
@@ -41589,6 +41637,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041600Z" creationid="xccui" creationdate="20190707T041600Z">
         <seg>def queryState( key: String,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>def setId(id: String): Unit = this.id = id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220306Z" creationid="xccui" creationdate="20190711T220306Z">
+        <seg>def setId(id: String): Unit = this.id = id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>def setTemp(temp: Float): Unit = this.temp = temp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220313Z" creationid="xccui" creationdate="20190711T220313Z">
+        <seg>def setTemp(temp: Float): Unit = this.temp = temp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>def this() = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220258Z" creationid="xccui" creationdate="20190711T220258Z">
+        <seg>def this() = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -45229,6 +45301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045934Z" creationid="xccui" creationdate="20190707T045934Z">
         <seg>这时候，仪表盘就会开始从运行的流式应用中查询状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this("", 0.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220301Z" creationid="xccui" creationdate="20190711T220301Z">
+        <seg>this("", 0.0)</seg>
       </tuv>
     </tu>
     <tu>
