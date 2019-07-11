@@ -9014,6 +9014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Parquet, which organizes and compresses records in a columnar for‐ mat, is a file format that requires bulk encoding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T023549Z" creationid="xccui" creationdate="20190711T023549Z">
+        <seg>Apache Parquet会以列式来组织和压缩记录，因此该文件格式需要批量编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apart from having a practical value, windows also enable semantically interesting queries on streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065640Z" creationid="xccui" creationdate="20190406T042112Z">
@@ -20087,6 +20095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In bulk encoding, records are collected and written in batches.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T023357Z" creationid="xccui" creationdate="20190711T023217Z">
+        <seg>而在批量编码模式下，记录会被攒成批，然后一次性写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case of a failure, Flink recovers a stateful streaming application by restoring its state from a previous checkpoint and resetting the read position on the event log.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T065426Z" creationid="esouser" creationdate="20190603T211702Z">
@@ -29082,8 +29098,8 @@
       <tuv lang="EN-US">
         <seg>StreamingFileSink supports two modes of writing records to part files: row encod‐ ing and bulk encoding.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022658Z" creationid="xccui" creationdate="20190711T022658Z">
-        <seg>StreamingFileSink支持两种分块文件的写入模式：行编码（row encoding）和块编码（bulk encoding）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T023309Z" creationid="xccui" creationdate="20190711T022658Z">
+        <seg>StreamingFileSink支持两种分块文件的写入模式：行编码（row encoding）和批量编码（bulk encoding）。</seg>
       </tuv>
     </tu>
     <tu>
