@@ -20311,6 +20311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In combination with exactly-once checkpointing, resettable sources, and deterministic application logic, upsert writes yield eventually exactly-once output consistency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201859Z" creationid="xccui" creationdate="20190711T201859Z">
+        <seg>结合精确一次的检查点、可重置的数据源以及确定的应用逻辑，Upsert写操作可以保证输出结果满足最终一致性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In combination with exactly-once failure semantics, systems of this generation are the first open source stream processors capable of computing consistent and accurate results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053340Z" creationid="xccui" creationdate="20190605T053340Z">
@@ -32884,6 +32892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T045333Z" creationid="xccui" creationdate="20190329T043115Z">
         <seg>输出说明如下：SensorReading的第一个字段是sensorId，第二个字段是以距1970-01-01-00:00:00.000的毫秒数表示的时间戳，第三个字段是每隔5秒计算出的平均温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The output is only eventually consistent, because results are reset to a previous version during recovery, meaning consumers might read older results than read previously.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T202304Z" creationid="xccui" creationdate="20190711T202304Z">
+        <seg>之所以如此，是因为在恢复期间写出的结果会被重置到以前的版本。这也意味着后续的消费者可能会读到比之前读取的值更旧的结果。</seg>
       </tuv>
     </tu>
     <tu>
