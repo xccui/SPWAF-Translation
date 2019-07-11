@@ -21177,8 +21177,8 @@
       <tuv lang="EN-US">
         <seg>In the case of a failure, a sink task needs to reset its current in-progress file to its writ‐ ing offset at the last successful checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192103Z" creationid="xccui" creationdate="20190711T192103Z">
-        <seg>在发生故障的情况下，数据汇任务需要将它当前写入文件的写入偏移重置到上一次成功的检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192346Z" creationid="xccui" creationdate="20190711T192103Z">
+        <seg>在发生故障的情况下，数据汇任务需要将它当前正在写入文件的写入偏移重置到上一次成功的检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35042,8 +35042,8 @@
       <tuv lang="EN-US">
         <seg>This is done by closing the current in- progress file and discarding the invalid part at the file’s end, for example, by using the filesystem’s truncate operation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192146Z" creationid="xccui" creationdate="20190711T192146Z">
-        <seg>该工作可以通过关闭当前写入的文件，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192713Z" creationid="xccui" creationdate="20190711T192146Z">
+        <seg>该工作可以通过关闭当前进行写入的文件，并丢弃文件末尾的无效部分（例如通过文件系统的截断操作）来完成。</seg>
       </tuv>
     </tu>
     <tu>
