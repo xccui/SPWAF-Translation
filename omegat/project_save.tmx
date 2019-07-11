@@ -9369,8 +9369,8 @@
       <tuv lang="EN-US">
         <seg>As explained in “Com‐ ponents of a Flink Setup” on page 38, a Flink application is submitted to the JobMan‐ ager (master), which distributes execution tasks to one or more TaskManagers (workers).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051138Z" creationid="xccui" creationdate="20190611T051138Z">
-        <seg>正如之前第38页"Flink设置组件"中所介绍的，Flink应用会提交至JobManager（master），后者负责将需要执行的任务分配给一个或多个TaskManager（worker）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092408Z" creationid="xccui" creationdate="20190611T051138Z">
+        <seg>正如之前第38页"搭建Flink所需组件"中介绍的，Flink应用会提交至JobManager（master），后者负责将需要执行的任务分配给一个或多个TaskManager（worker）。</seg>
       </tuv>
     </tu>
     <tu>
