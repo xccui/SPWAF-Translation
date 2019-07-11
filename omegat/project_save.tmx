@@ -10385,8 +10385,8 @@
       <tuv lang="EN-US">
         <seg>By default, StreamingFileSink uses a DefaultRollingPolicy, which is configured to roll part files when they exceed 128 MB or are older than 60 seconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021952Z" creationid="xccui" creationdate="20190711T021952Z">
-        <seg>默认情况下，StreamingFileSink将使用DefaultRollingPolicy，它会在现有文件大小超过128MB或写入时间超过60秒时创建一个新的分块文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022546Z" creationid="xccui" creationdate="20190711T021952Z">
+        <seg>默认情况下，StreamingFileSink将使用DefaultRollingPolicy，它会在现有文件大小超过128MB或打开时间超过60秒时创建一个新的分块文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39273,6 +39273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022406Z" creationid="xccui" creationdate="20190711T022406Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also apply a CoProcessFunction to ConnectedStreams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045325Z" creationid="xccui" creationdate="20190615T045325Z">
@@ -40667,8 +40675,8 @@
       <tuv lang="EN-US">
         <seg>configure an inactivity interval after which a part file is rolled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022222Z" creationid="xccui" creationdate="20190711T022222Z">
-        <seg>你还可以配置一个非活动间隔（inactivity interval），在</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022403Z" creationid="xccui" creationdate="20190711T022222Z">
+        <seg>你还可以配置一个非活动间隔（inactivity interval），在该间隔过后滚动生成新的分块文件。</seg>
       </tuv>
     </tu>
     <tu>
