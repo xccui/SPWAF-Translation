@@ -13001,8 +13001,8 @@
       <tuv lang="EN-US">
         <seg>Even though Flink is a distributed data processing system, you will typically develop and run initial tests on your local machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T032142Z" creationid="xccui" creationdate="20190611T031040Z">
-        <seg>虽然Flink是一个分布式的数据处理系统，但你通常可以在本地计算机上进行开发并运行一些初始测试。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072719Z" creationid="xccui" creationdate="20190611T031040Z">
+        <seg>尽管Flink是一个分布式的数据处理系统，但你通常可以在本地机器上进行开发并运行一些初始测试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35002,8 +35002,8 @@
       <tuv lang="EN-US">
         <seg>This makes development easier and sim‐ plifies cluster deployment, as you can run the exact same code in a cluster environ‐ ment without making any changes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T034912Z" creationid="xccui" creationdate="20190611T032127Z">
-        <seg>这让开发过程变得更容易，也让集群部署变得更简单，因为你可以在不对代码进行任何修改的情况下直接切换到集群环境中运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072825Z" creationid="xccui" creationdate="20190611T032127Z">
+        <seg>这让开发过程变得更容易，也让集群部署更简单，因为你可以在不对代码进行任何修改的情况下直接切换到集群环境中运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39491,8 +39491,8 @@
       <tuv lang="EN-US">
         <seg>You can follow the instruc‐ tions at the IntelliJ IDEA website to download and install it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030717Z" creationid="xccui" creationdate="20190611T030717Z">
-        <seg>你可以按照IntelliJ IDEA官网的说明下载并安装它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072608Z" creationid="xccui" creationdate="20190611T030717Z">
+        <seg>你可以参照IntelliJ IDEA官网的说明下载和安装它。</seg>
       </tuv>
     </tu>
     <tu>
