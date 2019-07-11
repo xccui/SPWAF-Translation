@@ -27874,8 +27874,8 @@
       <tuv lang="EN-US">
         <seg>Since Flink is a distributed system, the JobManager and TaskManagers typically run as separate JVM processes on different machines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051402Z" creationid="xccui" creationdate="20190611T051402Z">
-        <seg>由于Flink是一个分布式系统，JobManager和TaskManager通常会在不同机器上作为独立的JVM进程运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092448Z" creationid="xccui" creationdate="20190611T051402Z">
+        <seg>Flink作为一个分布式系统，其JobManager和TaskManager通常会在不同机器上作为独立的JVM进程运行。</seg>
       </tuv>
     </tu>
     <tu>
