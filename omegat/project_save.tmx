@@ -36610,8 +36610,8 @@
       <tuv lang="EN-US">
         <seg>Unless you specify a parallelism, a program is executed by as many threads as the number of CPU threads of your development machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053929Z" creationid="xccui" creationdate="20190611T053929Z">
-        <seg>除非手工指定并行度，否则程序的线程数会和你开发机器的CPU线程数一样多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093013Z" creationid="xccui" creationdate="20190611T053929Z">
+        <seg>除非手工指定并行度，否则程序的线程数会和你开发机器的CPU内核数一样多。</seg>
       </tuv>
     </tu>
     <tu>
