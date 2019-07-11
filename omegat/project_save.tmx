@@ -10383,6 +10383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, StreamingFileSink uses a DefaultRollingPolicy, which is configured to roll part files when they exceed 128 MB or are older than 60 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021952Z" creationid="xccui" creationdate="20190711T021952Z">
+        <seg>默认情况下，StreamingFileSink将使用DefaultRollingPolicy，它会在现有文件大小超过128MB或写入时间超过60秒时创建一个新的分块文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064253Z" creationid="xccui" creationdate="20190621T064253Z">
