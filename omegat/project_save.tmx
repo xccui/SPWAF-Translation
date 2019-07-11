@@ -38443,8 +38443,8 @@
       <tuv lang="EN-US">
         <seg>When discarding pending files it does not reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021123Z" creationid="xccui" creationdate="20190711T021123Z">
-        <seg>在丢弃一些未写入成功的文件时，它不会重用它们的ID。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183644Z" creationid="xccui" creationdate="20190711T021123Z">
+        <seg>它在丢弃一些未写入成功的文件时，不会重用它们的ID。</seg>
       </tuv>
     </tu>
     <tu>
