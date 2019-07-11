@@ -10801,8 +10801,8 @@
       <tuv lang="EN-US">
         <seg>Cassandra sinks are created and configured using a builder that is obtained by calling the CassandraSink.addSink() method with the DataStream object that should be emitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T211147Z" creationid="xccui" creationdate="20190711T211147Z">
-        <seg>为了创建这样一个Cassandra数据汇，我们先利用需要写出的DataStream对象去调用CassandraSink.addSink()方法，得到一个构建器，然后再用构建器去创建和配置数据汇。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T211558Z" creationid="xccui" creationdate="20190711T211147Z">
+        <seg>Cassandra数据汇的创建和配置都是通过构建器来完成的，为此，我们要以写出目标DataStream对象为参数去调用CassandraSink.addSink()方法，得到一个构建器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14291,6 +14291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210629Z" creationid="xccui" creationdate="20190711T210629Z">
         <seg>示例8-7展示了如何创建一个用于将元组、样例类或Row类型的数据流写入Cassandra表的数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-7, it returns a builder for a Cassandra sink that handles Scala tuples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T211322Z" creationid="xccui" creationdate="20190711T211322Z">
+        <seg>在示例8-7中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19923,6 +19931,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T034733Z" creationid="xccui" creationdate="20190327T034557Z">
         <seg>和第一代开源分布式流处理引擎相比，第二代引擎（2013年）提供了更加完善的故障处理机制，可以保证在出错的情况下每条记录也仅参与一次结果运算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T211324Z" creationid="xccui" creationdate="20190711T211324Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -32764,6 +32780,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T051344Z" creationid="xccui" creationdate="20190701T051344Z">
         <seg>该方法接收一个状态对象列表，并需要基于这些对象恢复算子状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method returns the right builder for the data type of the DataStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T211416Z" creationid="xccui" creationdate="20190711T211310Z">
+        <seg>构建器的类型会和传入的DataStream类型相吻合</seg>
       </tuv>
     </tu>
     <tu>
