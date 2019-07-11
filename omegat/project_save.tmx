@@ -32922,8 +32922,8 @@
       <tuv lang="EN-US">
         <seg>The project contains two skeleton files, BatchJob.scala and StreamingJob.scala, as a starting point for your own programs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010104Z" creationid="xccui" creationdate="20190612T010104Z">
-        <seg>项目所包含的两个骨架文件，BatchJob.scala和StreamingJob.scala，可以作为你程序的起点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T094749Z" creationid="xccui" creationdate="20190612T010104Z">
+        <seg>你可以使用项目生成的两个框架文件，BatchJob.scala和StreamingJob.scala，作为你程序的起点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39411,8 +39411,8 @@
       <tuv lang="EN-US">
         <seg>You can change the Flink version, group and artifact IDs, version, and generated package by changing the respective parameters of the above mvn command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005618Z" creationid="xccui" creationdate="20190612T005349Z">
-        <seg>你可以通过改变上述mvn命令的相应参数来更改Flink版本，Maven的组标识符和项目标识符，项目版本以及生成的包。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T094539Z" creationid="xccui" creationdate="20190612T005349Z">
+        <seg>你可以通过改变mvn命令的相应参数来更改Flink版本、Maven的组标识符和项目标识符、项目版本以及生成的包。</seg>
       </tuv>
     </tu>
     <tu>
