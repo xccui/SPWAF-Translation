@@ -8278,6 +8278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, the versions of values for multiple keys might be out of sync.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T202410Z" creationid="xccui" creationdate="20190711T202410Z">
+        <seg>同时，对于多个键的值而言，其版本可能会不同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alterna&lt;t4/&gt;‐&lt;t5/&gt; tively, Flink provides a feature called queryable state which allows users to expose the state of an application as a key-lookup table and make it accessible for external appli&lt;t6/&gt;‐&lt;t7/&gt; cations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T060943Z" creationid="xccui" creationdate="20190317T060535Z">
@@ -20871,6 +20879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to prevent temporal inconsistencies during recovery and provide exactly- once output guarantees for applications with nondeterministic application logic, Flink’s Cassandra connector can be configured to leverage a WAL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T203126Z" creationid="xccui" creationdate="20190711T202431Z">
+        <seg>为了避免在恢复期间出现短暂的不一致现象，并为逻辑不确定的应用提供精确一次的输出保障，Flink的Cassandra连接器可以通过配置启用WAL。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to provide a concise window operator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T024653Z" creationid="xccui" creationdate="20190626T015035Z">
@@ -32898,8 +32914,8 @@
       <tuv lang="EN-US">
         <seg>The output is only eventually consistent, because results are reset to a previous version during recovery, meaning consumers might read older results than read previously.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T202304Z" creationid="xccui" creationdate="20190711T202304Z">
-        <seg>之所以如此，是因为在恢复期间写出的结果会被重置到以前的版本。这也意味着后续的消费者可能会读到比之前读取的值更旧的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T202412Z" creationid="xccui" creationdate="20190711T202304Z">
+        <seg>之所以如此，是因为在恢复期间写出的结果会被重置到以前的版本。这意味着后续的消费者可能会读到比之前读取的值更旧的结果。</seg>
       </tuv>
     </tu>
     <tu>
