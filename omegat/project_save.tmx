@@ -12737,8 +12737,8 @@
       <tuv lang="EN-US">
         <seg>During execution, the sink registers the query as a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212337Z" creationid="xccui" creationdate="20190711T212251Z">
-        <seg>执行过程中，数据汇会将该查询注册为一个预编译语句（prepared statement）</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212556Z" creationid="xccui" creationdate="20190711T212251Z">
+        <seg>执行过程中，数据汇会将该查询注册为一个预编译语句（prepared statement），并将元组、样例类或Row类型的字段转化为该语句相应的参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30170,8 +30170,8 @@
       <tuv lang="EN-US">
         <seg>The Cassandra sink builders for tuples, case classes, and rows require the specifica‐ tion of a CQL INSERT query.5 The query is configured using the CassandraSink Builder.setQuery() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212226Z" creationid="xccui" creationdate="20190711T212226Z">
-        <seg>若是要创建针对元组、样例类或Row类型的Cassandra数据汇构建器，你需要提供一个CQL INSERT查询（模板）。5 该查询可以用CassandraSinkBuilder.setQuery()方法配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212343Z" creationid="xccui" creationdate="20190711T212226Z">
+        <seg>若是要创建针对元组、样例类或Row类型的Cassandra数据汇构建器，你需要提供一个CQL INSERT查询。5 该查询可以用CassandraSinkBuilder.setQuery()方法配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31756,6 +31756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T035457Z" creationid="xccui" creationdate="20190607T035446Z">
         <seg>提取出来的时间戳会附加到各自的记录上，查询得到的水位线会注入到数据流中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fields are mapped to the parameters based on their position; the first value is converted to the first parameter and so on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212714Z" creationid="xccui" creationdate="20190711T212714Z">
+        <seg>字段到参数的映射是按照位置进行的，即第一个值转换为第一个参数，以此类推。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41721,6 +41729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>eters for the prepared statement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212559Z" creationid="xccui" creationdate="20190711T212559Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>event, the operator updates the corresponding aggregate value and emits an event with the updated value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052402Z" creationid="xccui" creationdate="20190614T052132Z">
@@ -44077,6 +44093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064855Z" creationid="xccui" creationdate="20190609T061206Z">
         <seg>所有先于分隔符的记录所引起的状态更改都会被包含在分隔符所对应的检查点之中；而所有晚于分隔符的记录所引起的状态更改都会被纳入之后的检查点中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>prepared statement and converts the fields of tuples, case classes, or rows into param‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212543Z" creationid="xccui" creationdate="20190711T212543Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
