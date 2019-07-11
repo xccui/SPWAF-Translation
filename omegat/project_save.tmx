@@ -24879,6 +24879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the Parquet writer is contained in the flink-parquet module, which needs to be added as a dependency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T182654Z" creationid="xccui" creationdate="20190711T182654Z">
+        <seg>注意，Parquet写出器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the application and the savepoint must be compatible—the application must be able to load the state of the savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212525Z" creationid="xccui" creationdate="20190609T212448Z">
