@@ -6366,6 +6366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A StreamingFileSink in bulk-encoding mode cannot choose a Roll ingPolicy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183147Z" creationid="xccui" creationdate="20190711T183147Z">
+        <seg>工作在批量编码模式下的StreamingFileSink无法选择RollingPolicy。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A StreamingFileSink in bulk-encoding mode requires a BulkWriter.Factory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T171426Z" creationid="xccui" creationdate="20190711T171328Z">
@@ -9545,8 +9553,8 @@
       <tuv lang="EN-US">
         <seg>As usual, BulkWriter.Factory is an interface that can be implemented for custom</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T182954Z" creationid="xccui" creationdate="20190711T182954Z">
-        <seg>BulkWriter.Factory自身同样也是一个接口，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183036Z" creationid="xccui" creationdate="20190711T182954Z">
+        <seg>BulkWriter.Factory自身同样也是一个接口，我们可以用它来自定义文件格式，例如Apache Orc。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10299,6 +10307,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023153Z" creationid="xccui" creationdate="20190225T023153Z">
         <seg>内置窗口分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bulk-encoding formats can only be combined with the OnCheckpointRollingPolicy, which rolls in-progress part files on every checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183304Z" creationid="xccui" creationdate="20190711T183304Z">
+        <seg>批量编码格式只能与OnCheckpointRollingPolicy结合使用，后者会在每次生成检查点的时候生成新的分区文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41477,6 +41493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T060228Z" creationid="xccui" creationdate="20190614T060228Z">
         <seg>结果中的第1个字段是键值，第2个字段是总和，第3个字段没有定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>file formats, such as Apache Orc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183045Z" creationid="xccui" creationdate="20190711T183045Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
