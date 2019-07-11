@@ -7054,6 +7054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A query must not be configured to emit POJOs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T222845Z" creationid="xccui" creationdate="20190711T222845Z">
+        <seg>如果是POJO的情况，则不可指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A receiving task grants some credit to a sending task, i.e., a number of network buffers that are reserved to receive its data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T143724Z" creationid="esouser" creationdate="20190513T210814Z">
@@ -44805,6 +44813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T222032Z" creationid="xccui" creationdate="20190711T222032Z">
         <seg>setHost(String, [Int])：是一个针对单个连接点的简单ClusterBuilder配置主机名和端口的快捷方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>setMapperOptions(MapperOptions): This provides options for Cassandra’s Object Mapper, such as configurations for consistency, time-to-live (TTL), and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223020Z" creationid="xccui" creationdate="20190711T223020Z">
+        <seg>setMapperOptions(MapperOptions)：该方法用于指定Cassandra Object Mapper的一些选项，例如一致性配置、TTL（time-to-live 生存时间）和空字段处理等。</seg>
       </tuv>
     </tu>
     <tu>
