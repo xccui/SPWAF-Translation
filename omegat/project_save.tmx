@@ -8424,8 +8424,8 @@
       <tuv lang="EN-US">
         <seg>Among other options, it can configure the hostnames and ports of one or more contact points; define load</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221433Z" creationid="xccui" creationdate="20190711T221433Z">
-        <seg>其他配置选项还包括一个或多个连接点（contact point）的主机名和端口；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221628Z" creationid="xccui" creationdate="20190711T221433Z">
+        <seg>Cluster的配置选项包括针对一个或多个连接点（contact point）的主机名和端口、</seg>
       </tuv>
     </tu>
     <tu>
@@ -40915,8 +40915,8 @@
       <tuv lang="EN-US">
         <seg>balancing, retry, and reconnection policies; and provide access credentials.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221515Z" creationid="xccui" creationdate="20190711T221515Z">
-        <seg>定义负载均衡，重试及重连策略；提供访问凭据等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221636Z" creationid="xccui" creationdate="20190711T221515Z">
+        <seg>定义负载均衡、重试及重连策略，提供访问凭据等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44789,6 +44789,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221334Z" creationid="xccui" creationdate="20190711T221334Z">
         <seg>setClusterBuilder(ClusterBuilder)：ClusterBuilder可以构建一个Cassandra Cluster，用以管理和Cassandra的连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>setHost(String, [Int]): This method is a shortcut for a simple Cluster Builder configured with the hostname and port of a single contact point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T222032Z" creationid="xccui" creationdate="20190711T222032Z">
+        <seg>setHost(String, [Int])：是一个针对单个连接点的简单ClusterBuilder配置主机名和端口的快捷方法。</seg>
       </tuv>
     </tu>
     <tu>
