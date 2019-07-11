@@ -26184,6 +26184,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pending Files Might Never Be Committed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190933Z" creationid="xccui" creationdate="20190711T190933Z">
+        <seg>处于等待阶段的文件可能永远不会被提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pending files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190802Z" creationid="xccui" creationdate="20190711T190802Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Per-window state is useful to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T023819Z" creationid="xccui" creationdate="20190624T023819Z">
@@ -40285,6 +40301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203838Z" creationid="xccui" creationdate="20190627T203838Z">
         <seg>且没有对窗口内容使用ReduceFunction或AggregateFunction进行增量聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>are moved into the finished state (again by renaming) when the next checkpoint completes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190818Z" creationid="xccui" creationdate="20190711T190715Z">
+        <seg>在下一次检查点完成后处于等待状态的文件将（通过再一次重命名）进入完成状态。</seg>
       </tuv>
     </tu>
     <tu>
