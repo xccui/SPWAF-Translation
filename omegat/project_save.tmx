@@ -20943,6 +20943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In row encoding mode, every record is individually encoded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022736Z" creationid="xccui" creationdate="20190711T022725Z">
+        <seg>在行编码模式下，每条记录都会被单独编码并添加到分块文件里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In streaming systems you usually want to ensure that your system can handle the maximum expected rate of events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052415Z" creationid="xccui" creationdate="20190401T203251Z">
@@ -29068,6 +29076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T020827Z" creationid="xccui" creationdate="20190711T020809Z">
         <seg>StreamingFileSink只是单纯地对ID执行递增操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StreamingFileSink supports two modes of writing records to part files: row encod‐ ing and bulk encoding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022658Z" creationid="xccui" creationdate="20190711T022658Z">
+        <seg>StreamingFileSink支持两种分块文件的写入模式：行编码（row encoding）和块编码（bulk encoding）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40009,6 +40025,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and appended to a part file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022738Z" creationid="xccui" creationdate="20190711T022738Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and deserialization methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055451Z" creationid="xccui" creationdate="20190618T055451Z">
@@ -40675,8 +40699,8 @@
       <tuv lang="EN-US">
         <seg>configure an inactivity interval after which a part file is rolled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022403Z" creationid="xccui" creationdate="20190711T022222Z">
-        <seg>你还可以配置一个非活动间隔（inactivity interval），在该间隔过后滚动生成新的分块文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022616Z" creationid="xccui" creationdate="20190711T022222Z">
+        <seg>此外，你还可以配置一个非活动间隔（inactivity interval），并在该间隔过后滚动生成新的分块文件。</seg>
       </tuv>
     </tu>
     <tu>
