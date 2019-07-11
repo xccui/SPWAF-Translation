@@ -21175,6 +21175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of a failure, a sink task needs to reset its current in-progress file to its writ‐ ing offset at the last successful checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192103Z" creationid="xccui" creationdate="20190711T192103Z">
+        <seg>在发生故障的情况下，数据汇任务需要将它当前写入文件的写入偏移重置到上一次成功的检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of a mobile game, consequences can be as bad as Alice and her team getting disappointed and never playing again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155144Z" creationid="xccui" creationdate="20190411T153935Z">
