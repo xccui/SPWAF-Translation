@@ -18641,8 +18641,8 @@
       <tuv lang="EN-US">
         <seg>However, there is also a mode in which the call of the execute() method starts a Job‐ Manager and a TaskManager (by default with as many slots as available CPU threads) as separate threads within the same JVM. Consequently, the whole Flink application is multithreaded and executed within the same JVM process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092631Z" creationid="xccui" creationdate="20190611T052546Z">
-        <seg>但除此之外还有一种执行模式：当程序的execute()方法被调用时，会在同一个JVM中以独立线程的方式启动一个JobManager线程和一个TaskManager（默认的处理槽数等于CPU的核心数）。这样，整个Flink应用会以多线程的方式在同一个JVM进程中执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093215Z" creationid="xccui" creationdate="20190611T052546Z">
+        <seg>但除此之外还有一种执行模式：当程序的execute()方法被调用时，会在同一个JVM中以独立线程的方式启动一个JobManager线程和一个TaskManager（默认的处理槽数等于CPU的线程数）。这样，整个Flink应用会以多线程的方式在同一个JVM进程中执行。</seg>
       </tuv>
     </tu>
     <tu>
