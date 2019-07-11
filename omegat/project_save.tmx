@@ -35346,8 +35346,8 @@
       <tuv lang="EN-US">
         <seg>This will generate a Maven project for Flink 1.7.1 in a folder called flink-scala-project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005158Z" creationid="xccui" creationdate="20190612T005158Z">
-        <seg>上述命令会为Flink 1.7.1版本生成一个Maven项目，放在flink-scala-project文件夹内。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T094446Z" creationid="xccui" creationdate="20190612T005158Z">
+        <seg>上述命令会在flink-scala-project文件夹内生成一个Flink 1.7.1版本的Maven项目。</seg>
       </tuv>
     </tu>
     <tu>
