@@ -44809,6 +44809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>setQuery(String): This specifies the CQL INSERT query to write tuples, case classes, or rows to Cassandra.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T222811Z" creationid="xccui" creationdate="20190711T222811Z">
+        <seg>setQuery(String)：该方法用于指定向Cassandra插入元组、样例类或Row的CQL INSERT查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>shown in &lt;t0/&gt;Figure 3-5&lt;t1/&gt; fulfills the requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152232Z" creationid="esouser" creationdate="20190514T152232Z">
