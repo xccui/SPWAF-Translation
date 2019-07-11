@@ -3360,8 +3360,8 @@
       <tuv lang="EN-US">
         <seg>1 We also provide an examples-Java repository with all the examples implemented in Java.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040200Z" creationid="xccui" creationdate="20190611T040200Z">
-        <seg>1 我们同时提供了一个examples-Java库，里面的示例都是用Java完成的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T091304Z" creationid="xccui" creationdate="20190611T040200Z">
+        <seg>1 我们还提供了一个examples-Java库，里面的示例都是用Java来完成的。</seg>
       </tuv>
     </tu>
     <tu>
