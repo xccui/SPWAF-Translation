@@ -10807,6 +10807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CassandraSink.addSink(readings)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212849Z" creationid="xccui" creationdate="20190711T212849Z">
+        <seg>CassandraSink.addSink(readings)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cassandra’s data model is based on primary keys, and all writes to Cassandra happen with upsert semantics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201733Z" creationid="xccui" creationdate="20190711T201733Z">
@@ -11723,6 +11731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063415Z" creationid="xccui" creationdate="20190406T051102Z">
         <seg>基于数量的（count-based）滚动窗口定义了在触发计算前需要集齐多少条事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a Cassandra sink for POJOs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212846Z" creationid="xccui" creationdate="20190711T212846Z">
+        <seg>为POJO类型创建Cassandra数据汇</seg>
       </tuv>
     </tu>
     <tu>
@@ -14315,6 +14331,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210737Z" creationid="xccui" creationdate="20190711T210737Z">
         <seg>示例8-7，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-8 shows how to configure a Cassandra sink for a POJO of type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212824Z" creationid="xccui" creationdate="20190711T212817Z">
+        <seg>示例8-8展示了如何为POJO类型SensorReading配置一个Cassandra数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212831Z" creationid="xccui" creationdate="20190711T212831Z">
+        <seg>示例8-8，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20491,6 +20523,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T051821Z" creationid="xccui" creationdate="20190327T050854Z">
         <seg>结合精确一次故障恢复语义，这一代系统才称得上第一批能够计算精确、一致结果的开源流处理引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast to SQL INSERT statements, CQL INSERT statements behave like upsert queries—they override existing rows with the same primary key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T213127Z" creationid="xccui" creationdate="20190711T213127Z">
+        <seg>和SQL INSERT不同，CQL INSERT语句的行为类似于Upsert查询，它们会覆盖主键相同的已有行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27920,6 +27960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SensorReading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212826Z" creationid="xccui" creationdate="20190711T212826Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SerializationSchema is the counterpart of the DeserializationSchema that we dis‐ cussed in the Kafka source section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T150319Z" creationid="xingcan" creationdate="20190709T150319Z">
@@ -28268,6 +28316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065540Z" creationid="xccui" creationdate="20190616T065540Z">
         <seg>由于Kryo是一个通用序列化器，因此通常效率不高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since POJO fields do not have a natural order, they need to be treated differently.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212747Z" creationid="xccui" creationdate="20190711T212747Z">
+        <seg>由于POJO的字段不存在顺序，它需要被区别对待。</seg>
       </tuv>
     </tu>
     <tu>
