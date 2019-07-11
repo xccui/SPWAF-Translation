@@ -6454,6 +6454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bulk-encoding StreamingFileSink is created as shown in Example 8-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T024458Z" creationid="xccui" creationdate="20190711T024458Z">
+        <seg>示例8-5展示了如何创建一个批量编码的StreamingFileSink。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A call to this</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055532Z" creationid="xccui" creationdate="20190630T055532Z">
@@ -12867,6 +12875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204806Z" creationid="xccui" creationdate="20190702T204806Z">
         <seg>为应用开启检查点功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encoder is a simple interface with a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T024431Z" creationid="xccui" creationdate="20190711T024431Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
