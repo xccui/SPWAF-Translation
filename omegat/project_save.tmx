@@ -29050,8 +29050,8 @@
       <tuv lang="EN-US">
         <seg>StreamingFileSink simply incre‐ ments the file IDs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T020809Z" creationid="xccui" creationdate="20190711T020809Z">
-        <seg>StreamingFileSink只是单纯地对ID执行递增操作，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T020827Z" creationid="xccui" creationdate="20190711T020809Z">
+        <seg>StreamingFileSink只是单纯地对ID执行递增操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38285,6 +38285,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T153413Z" creationid="xccui" creationdate="20190409T210522Z">
         <seg>当处理一个持续到达且可能无穷的事件流时，时间便成了应用中最为核心的要素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When discarding pending files it does not reuse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021123Z" creationid="xccui" creationdate="20190711T021123Z">
+        <seg>在丢弃一些未写入成功的文件时，它不会重用它们的ID。</seg>
       </tuv>
     </tu>
     <tu>
