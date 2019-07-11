@@ -6224,8 +6224,8 @@
       <tuv lang="EN-US">
         <seg>A Java JRE is not sufficient.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015648Z" creationid="xccui" creationdate="20190611T015626Z">
-        <seg>只有Java JRE是不够的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072139Z" creationid="xccui" creationdate="20190611T015626Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -16377,8 +16377,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s DataStream API is available for Java and Scala.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015102Z" creationid="xccui" creationdate="20190611T014730Z">
-        <seg>Flink的DataStream API支持Java和Scala语言，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072040Z" creationid="xccui" creationdate="20190611T014730Z">
+        <seg>Flink DataStream API支持Java和Scala语言，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17729,8 +17729,8 @@
       <tuv lang="EN-US">
         <seg>Hence, a Java JDK is required to implement Flink DataStream applications—Java JDK 8 (or higher).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T015629Z" creationid="xccui" creationdate="20190611T014959Z">
-        <seg>因此在写DataStream 应用之前需要安装Java JDK 8或更高版本，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072136Z" creationid="xccui" creationdate="20190611T014959Z">
+        <seg>因此在写DataStream应用前需要安装Java JDK 8或更高版本（只有Java JRE是不够的）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37162,8 +37162,8 @@
       <tuv lang="EN-US">
         <seg>We assume the following software is installed as well, although it is not strictly required to develop Flink applications:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T020130Z" creationid="xccui" creationdate="20190611T020130Z">
-        <seg>此外虽不强制，但我们假设以下软件也已装好：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072241Z" creationid="xccui" creationdate="20190611T020130Z">
+        <seg>此外，虽不必需，但我们假设以下软件也已装好：</seg>
       </tuv>
     </tu>
     <tu>
