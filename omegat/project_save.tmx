@@ -18641,8 +18641,8 @@
       <tuv lang="EN-US">
         <seg>However, there is also a mode in which the call of the execute() method starts a Job‐ Manager and a TaskManager (by default with as many slots as available CPU threads) as separate threads within the same JVM. Consequently, the whole Flink application is multithreaded and executed within the same JVM process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T052546Z" creationid="xccui" creationdate="20190611T052546Z">
-        <seg>但除此之外还有一种执行模式：当execute()方法被调用时，会在同一个JVM中以独立线程的方式启动一个JobManager线程和一个TaskManager（默认的处理槽数等于???CPU可用线程数???）。这样，整个Flink应用会以多线程的方式在同一个JVM进程中执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092631Z" creationid="xccui" creationdate="20190611T052546Z">
+        <seg>但除此之外还有一种执行模式：当程序的execute()方法被调用时，会在同一个JVM中以独立线程的方式启动一个JobManager线程和一个TaskManager（默认的处理槽数等于CPU的核心数）。这样，整个Flink应用会以多线程的方式在同一个JVM进程中执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42371,8 +42371,8 @@
       <tuv lang="EN-US">
         <seg>main() method assembles the dataflow and submits it to a remote JobManager when the StreamExecutionEnvironment.execute() method is called.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051801Z" creationid="xccui" creationdate="20190611T051412Z">
-        <seg>通常情况下程序的main()方法会把dataflow组装好，然后在StreamExecutionEnvironment.execute()方法被调用时将其提交到远程的JobManager上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092548Z" creationid="xccui" creationdate="20190611T051412Z">
+        <seg>通常情况下程序的main()方法会把Dataflow组装好，然后在StreamExecutionEnvironment.execute()方法被调用时将其提交到远程的JobManager上。</seg>
       </tuv>
     </tu>
     <tu>
