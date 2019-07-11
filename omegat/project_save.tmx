@@ -44033,6 +44033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>single method that can be easily implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T024428Z" creationid="xccui" creationdate="20190711T024428Z">
+        <seg>Encoder接口非常简单，它只有一个方法，你可以轻松实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sink sets transaction.timeout.ms to one hour, which means you probably need to adjust the transaction.max.timeout.ms property of your Kafka setup, which is set to 15 minutes by default.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T030939Z" creationid="xccui" creationdate="20190710T030939Z">
