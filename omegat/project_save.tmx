@@ -11111,6 +11111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CheckpointCommitter is used to store information about completed check‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223845Z" creationid="xccui" creationdate="20190711T223845Z">
+        <seg>CheckpointCommitter用来将已完成的检查点信息存到外部数据存储中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CheckpointedFunction instead of the ListCheckpointed interface</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063643Z" creationid="xccui" creationdate="20190701T063643Z">
@@ -19283,6 +19291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213030Z" creationid="xccui" creationdate="20190710T212826Z">
         <seg>如果没有显式指定BucketAssigner，数据汇将使用DateTimeBucketAssigner，按照记录写出时的处理时间将它们分到每小时一个的桶中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no CheckpointCommitter is configured, the information is written into a specific Cassandra table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223913Z" creationid="xccui" creationdate="20190711T223913Z">
+        <seg>如果没有配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -41841,6 +41857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>enableWriteAheadLog([CheckpointCommitter]): This enables the WAL to pro‐ vide exactly-once output guarantees in the case of nondeterministic application logic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223747Z" creationid="xccui" creationdate="20190711T223747Z">
+        <seg>enableWriteAheadLog([CheckpointCommitter])：开启WAL，为非确定性的应用逻辑提供精确一次输出保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>enabled by calling setWriteTimestampToKafka(true) on the sink object.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041208Z" creationid="xccui" creationdate="20190710T041129Z">
@@ -44300,6 +44324,14 @@
         <seg>points can implement the CheckpointListener interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202327Z" creationid="xccui" creationdate="20190702T202327Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>points in an external datastore.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223848Z" creationid="xccui" creationdate="20190711T223848Z">
         <seg></seg>
       </tuv>
     </tu>
