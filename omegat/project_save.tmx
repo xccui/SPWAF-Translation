@@ -10735,6 +10735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cassandra’s data model is based on primary keys, and all writes to Cassandra happen with upsert semantics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201733Z" creationid="xccui" creationdate="20190711T201733Z">
+        <seg>Cassandra的数据模型是基于主键的，因此对于它的写操作都遵循Upsert语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chained task execution with fused function in a single thread and data pass&lt;t0/&gt;‐&lt;t1/&gt; ing via method calls.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T153822Z" creationid="esouser" creationdate="20190514T153152Z">
@@ -16067,6 +16075,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004621Z" creationid="xccui" creationdate="20190612T004239Z">
         <seg>Flink提供了Maven模板来为Java或Scala的Flink应用生成Maven项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides a sink connector to write data streams to Cassandra.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201521Z" creationid="xccui" creationdate="20190711T201521Z">
+        <seg>Flink提供了一个用于将数据流写入Cassandra的数据汇连接器。</seg>
       </tuv>
     </tu>
     <tu>
