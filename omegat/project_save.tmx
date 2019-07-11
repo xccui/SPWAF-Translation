@@ -14247,6 +14247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-7 shows how to create a sink that writes a DataStream of tuples,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210629Z" creationid="xccui" creationdate="20190711T210629Z">
+        <seg>示例8-7展示了如何创建一个用于将元组、样例类或Row类型的数据流写入Cassandra表的数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples for source con‐ nectors that support the checkpointing of reading positions are file-based sources that store the reading offsets in the byte stream of the file or a Kafka source that stores the reading offsets in the topic partitions it consumes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T054721Z" creationid="xccui" creationdate="20190708T054721Z">
@@ -16539,6 +16547,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010127Z" creationid="xccui" creationdate="20190624T010127Z">
         <seg>Flink的DataStream API提供的ProcessWindowFunction可以对窗口内容执行任意计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s Java tuples and Row type and Scala’s built-in tuples and case classes are handled differently than user-defined POJO types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210359Z" creationid="xccui" creationdate="20190711T210359Z">
+        <seg>Java元组和Row类型以及Scala的内置元组和样例类，与用户自定义POJO类型的处理方式有所差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37660,6 +37676,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042314Z" creationid="xccui" creationdate="20190415T042227Z">
         <seg>我们将在本节一一讨论这些问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We discuss both cases separately.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210504Z" creationid="xccui" creationdate="20190711T210504Z">
+        <seg>我们会分别对二者进行讨论。</seg>
       </tuv>
     </tu>
     <tu>
