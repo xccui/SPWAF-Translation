@@ -8918,6 +8918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Cassandra is a popular, scalable, and highly available column store database system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T193110Z" creationid="xccui" creationdate="20190711T193110Z">
+        <seg>Apache Cassandra是一个非常流行的、具有可伸缩和高可用特性的列式存储数据库系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T042850Z" creationid="xccui" creationdate="20190606T042850Z">
@@ -10707,6 +10715,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040708Z" creationid="xccui" creationdate="20190617T040708Z">
         <seg>样例类的字段可以按名称访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cassandra models datasets as tables of rows that consist of multiple typed col‐ umns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T193249Z" creationid="xccui" creationdate="20190711T193249Z">
+        <seg>Cassandra将数据集建模成由多个类型的列所组成的行表。</seg>
       </tuv>
     </tu>
     <tu>
