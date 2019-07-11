@@ -10841,8 +10841,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 5 will introduce you to the basics of the DataStream API, and Chapters 6, 7, and 8 will introduce everything you need to know about time-based operators, state‐ ful functions, and source and sink connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T012744Z" creationid="xccui" creationdate="20190612T011507Z">
-        <seg>我们会在第5章介绍DataStream API的基础知识，在第6、7、8章介绍有关基于时间的算子、状态化函数以及数据源（汇）连接器的全部内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T095058Z" creationid="xccui" creationdate="20190612T011507Z">
+        <seg>我们会在第5章介绍DataStream API的基础知识，在第6、7、8章分别介绍有关基于时间的算子、状态化函数以及数据源和数据汇连接器的全部内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21713,8 +21713,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter you learned how to set up an environment to develop and debug Flink DataStream applications and how to generate a Maven project using Flink’s Maven archetype.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010845Z" creationid="xccui" creationdate="20190612T010845Z">
-        <seg>本章你学到了如何设置一个用于开发和调试Flink DataStream应用的环境，以及如何使用Flink的Maven模板生成Maven项目。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T094950Z" creationid="xccui" creationdate="20190612T010845Z">
+        <seg>本章你学到了如何搭建一个用于开发和调试Flink DataStream应用的环境，以及如何使用Flink的Maven模板生成Maven项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31506,8 +31506,8 @@
       <tuv lang="EN-US">
         <seg>The folder contains a file flink-scala-project-0.1.jar, which is the JAR file of your Flink application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010603Z" creationid="xccui" creationdate="20190612T010603Z">
-        <seg>该文件夹里会有一个flink-scala-project-0.1.jar文件，也就是你Flink应用的JAR包。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T094933Z" creationid="xccui" creationdate="20190612T010603Z">
+        <seg>该文件夹里会有一个flink-scala-project-0.1.jar文件，也就是你Flink应用打成的JAR包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32554,8 +32554,8 @@
       <tuv lang="EN-US">
         <seg>The obvious next step is to learn how to actually implement a DataStream program.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T011435Z" creationid="xccui" creationdate="20190612T011435Z">
-        <seg>而接下来将要学的自然就是如何实现DataStream程序。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T095013Z" creationid="xccui" creationdate="20190612T011435Z">
+        <seg>接下来需要学的自然就是如何实现DataStream程序。</seg>
       </tuv>
     </tu>
     <tu>
