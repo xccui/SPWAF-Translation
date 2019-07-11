@@ -12497,7 +12497,7 @@
       <tuv lang="EN-US">
         <seg>Due to the single JVM execution mode, it is also possible to debug Flink applications in an IDE almost like any other program in your IDE.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053500Z" creationid="xccui" creationdate="20190611T052843Z">
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092810Z" creationid="xccui" creationdate="20190611T052843Z">
         <seg>由于单JVM执行模式的存在，你可以像调试其他程序那样在IDE中调试Flink应用，</seg>
       </tuv>
     </tu>
@@ -39435,8 +39435,8 @@
       <tuv lang="EN-US">
         <seg>You can define breakpoints in the code and debug your application as you would normally do.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053653Z" creationid="xccui" creationdate="20190611T053048Z">
-        <seg>就如同往常一般，在代码里设置断点，开启调试。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092944Z" creationid="xccui" creationdate="20190611T053048Z">
+        <seg>如同往常一般，在代码里设置断点，开启调试。</seg>
       </tuv>
     </tu>
     <tu>
