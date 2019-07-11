@@ -12847,6 +12847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each row can be uniquely identified by its primary key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T193425Z" creationid="xccui" creationdate="20190711T193425Z">
+        <seg>每一行都以其主键作为唯一标识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each sender task needs at least four network buffers to send data to each receiver task and each receiver task requires at least four buffers to receive data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044254Z" creationid="xccui" creationdate="20190504T044254Z">
@@ -25587,6 +25595,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190609T214916Z">
         <seg>其中一个算子（OP-1）有一个算子状态（OS-1），另一个算子（OP-2）有两个键值分区状态（KS-1和KS-2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One or more columns have to be defined as (composite) primary keys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T193429Z" creationid="xccui" creationdate="20190711T193340Z">
+        <seg>其中必须有一个或多个列被定义为（符合）主键，</seg>
       </tuv>
     </tu>
     <tu>
