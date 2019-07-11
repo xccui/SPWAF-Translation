@@ -29176,6 +29176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StreamingFileSink provides exactly-once output guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183344Z" creationid="xccui" creationdate="20190711T183344Z">
+        <seg>StreamingFileSink可以提供精确一次的输出保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StreamingFileSink simply incre‐ ments the file IDs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T020827Z" creationid="xccui" creationdate="20190711T020809Z">
@@ -33244,6 +33252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T034336Z" creationid="xccui" creationdate="20190415T051105Z">
         <seg>任务发生故障时最简单的措施就是既不恢复丢失的状态，也不重放丢失的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sink achieves this by a commit protocol that moves files through different stages, in progress, pending,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183631Z" creationid="xccui" creationdate="20190711T183631Z">
+        <seg>它的实现方式是采用一种提交协议，该协议会将文件在不同阶段转移——写入阶段，待处理阶段</seg>
       </tuv>
     </tu>
     <tu>
