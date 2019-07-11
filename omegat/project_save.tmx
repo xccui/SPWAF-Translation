@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"INSERT INTO example.sensors(sensorId, temperature) VALUES (?, ?);")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210821Z" creationid="xccui" creationdate="20190711T210821Z">
+        <seg>"INSERT INTO example.sensors(sensorId, temperature) VALUES (?, ?);")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"maxTemperature", key, Types.STRING,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041618Z" creationid="xccui" creationdate="20190707T041618Z">
@@ -902,10 +910,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.setHost("localhost")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210814Z" creationid="xccui" creationdate="20190711T210814Z">
+        <seg>.setHost("localhost")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.setMaxParallelism(1024)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025203Z" creationid="xccui" creationdate="20190703T025203Z">
         <seg>.setMaxParallelism(1024)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.setQuery(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210817Z" creationid="xccui" creationdate="20190711T210817Z">
+        <seg>.setQuery(</seg>
       </tuv>
     </tu>
     <tu>
@@ -11711,6 +11735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a Cassandra sink for tuples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210800Z" creationid="xccui" creationdate="20190711T210800Z">
+        <seg>创建一个针对元组的Cassandra数据汇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a Flink Kafka sink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171130Z" creationid="xccui" creationdate="20190708T171130Z">
@@ -14255,6 +14287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210737Z" creationid="xccui" creationdate="20190711T210737Z">
+        <seg>示例8-7，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples for source con‐ nectors that support the checkpointing of reading positions are file-based sources that store the reading offsets in the byte stream of the file or a Kafka source that stores the reading offsets in the topic partitions it consumes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T054721Z" creationid="xccui" creationdate="20190708T054721Z">
@@ -16707,6 +16747,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T031249Z" creationid="xccui" creationdate="20190607T031249Z">
         <seg>Flink的水位线处理和传播算法保证了算子任务所发出的记录时间戳和水位线一定会对齐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Float)] is written into the “sensors” table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210731Z" creationid="xccui" creationdate="20190711T210731Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -22019,6 +22067,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054950Z" creationid="xccui" creationdate="20190614T054950Z">
         <seg>该示例中，输入流的元组按照第1个字段进行分区，然后滚动计算第2个字段的总和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this example, a DataStream[(String,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210729Z" creationid="xccui" creationdate="20190711T210729Z">
+        <seg>该示例会将DataStream[(String, Float)]写入"sensors"表中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40849,6 +40905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>case classes, or rows into a Cassandra table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210631Z" creationid="xccui" creationdate="20190711T210631Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T055509Z" creationid="xccui" creationdate="20190319T055509Z">
@@ -44497,6 +44561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sinkBuilder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210810Z" creationid="xccui" creationdate="20190711T210810Z">
+        <seg>sinkBuilder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sitively applied to these sources.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011815Z" creationid="xccui" creationdate="20190613T011815Z">
@@ -46177,6 +46249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val readings: DataStream[(String, Float)] = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210802Z" creationid="xccui" creationdate="20190711T210802Z">
+        <seg>val readings: DataStream[(String, Float)] = ???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val readings: DataStream[SensorReading] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050713Z" creationid="xccui" creationdate="20190613T050713Z">
@@ -46357,6 +46437,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205911Z" creationid="xccui" creationdate="20190710T205911Z">
         <seg>val sink: StreamingFileSink[String] = StreamingFileSink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sinkBuilder: CassandraSinkBuilder[(String, Float)] = CassandraSink.addSink(readings)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210806Z" creationid="xccui" creationdate="20190711T210806Z">
+        <seg>val sinkBuilder: CassandraSinkBuilder[(String, Float)] = CassandraSink.addSink(readings)</seg>
       </tuv>
     </tu>
     <tu>
