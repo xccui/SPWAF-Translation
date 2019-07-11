@@ -16769,8 +16769,8 @@
       <tuv lang="EN-US">
         <seg>For example, given a base path of "/johndoe/demo" and a part prefix of "part", the path "/johndoe/demo/2018-07-22--17/part-4-8" points to the eight file that was written by the fifth (0-indexed) sink task to bucket "2018-07-22--17"—the 5 p.m. bucket of July 22, 2018.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T214057Z" creationid="xccui" creationdate="20190710T214013Z">
-        <seg>例如，给定一个基础路径"/johndoe/demo"以及子文件前缀"part"</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T015824Z" creationid="xccui" creationdate="20190710T214013Z">
+        <seg>例如，给定一个基础路径"/johndoe/demo"和分块文件前缀"part"，路径"/johndoe/demo/2018-07-22--17/part-4-8"指向2018年7月22日下午5点的桶内第5个（编号从0开始）数据汇任务写出的第8个文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24041,8 +24041,8 @@
       <tuv lang="EN-US">
         <seg>Moreover,  each  parallel instance chunks its output into multiple part files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213843Z" creationid="xccui" creationdate="20190710T213843Z">
-        <seg>每个并行实例会把自己的输出写到多个零散的文件中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T015102Z" creationid="xccui" creationdate="20190710T213843Z">
+        <seg>每个并行实例会把自己的输出写到多个分块文件中。</seg>
       </tuv>
     </tu>
     <tu>
