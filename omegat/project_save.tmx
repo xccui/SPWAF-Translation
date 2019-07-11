@@ -39379,8 +39379,8 @@
       <tuv lang="EN-US">
         <seg>You can also delete them if you do not need them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010448Z" creationid="xccui" creationdate="20190612T010135Z">
-        <seg>如果不需要，也可以删除它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T094806Z" creationid="xccui" creationdate="20190612T010135Z">
+        <seg>如果不需要，你也可以将它们删除。</seg>
       </tuv>
     </tu>
     <tu>
