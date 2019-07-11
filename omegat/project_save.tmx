@@ -30008,6 +30008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CQL statements in Example 8-6 create a keyspace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210014Z" creationid="xccui" creationdate="20190711T210014Z">
+        <seg>示例8-6中的CQL语句创建了一个"example"键空间以及该键空间下的"sensors"表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CheckpointedFunction interface defines two methods, initializeState() and snapshotState(), which work similar to the methods of the ListCheckpointed interface for operator list state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063959Z" creationid="xccui" creationdate="20190702T063959Z">
@@ -36130,8 +36138,8 @@
       <tuv lang="EN-US">
         <seg>To illustrate the use of the Cassandra sink connector, we use the simple example of a Cassandra table that holds data about sensor readings and consists of two columns,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T205756Z" creationid="xccui" creationdate="20190711T205756Z">
-        <seg>为了说明Cassandra数据汇连接器的使用方法，我们以一个简单的Cassandra表为例，表中包含了两个列，用于保存传感器读数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T205857Z" creationid="xccui" creationdate="20190711T205756Z">
+        <seg>为了说明Cassandra数据汇连接器的使用方法，我们以一个简单的Cassandra表为例，表中包含了两个列，分别用来保存传感器读数的传感器ID和温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44341,6 +44349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025655Z" creationid="xccui" creationdate="20190628T025655Z">
         <seg>（不会发出未匹配成功的事件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sensorId and temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T205900Z" creationid="xccui" creationdate="20190711T205900Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
