@@ -19279,6 +19279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no port is configured, Cassandra’s default port 9042 is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T222059Z" creationid="xccui" creationdate="20190711T222059Z">
+        <seg>如果不指定端口，则它会使用Cassandra的默认端口9042。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no such timer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060625Z" creationid="xccui" creationdate="20190621T060625Z">
