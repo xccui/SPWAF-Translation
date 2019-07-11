@@ -29224,6 +29224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StreamingFileSink Requires Checkpointing Be Enabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192804Z" creationid="xccui" creationdate="20190711T192804Z">
+        <seg>StreamingFileSink需要检查点处于开启状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StreamingFileSink provides end-to-end exactly-once guarantees for an application given that the application is configured with exactly-once checkpoints and all its</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205037Z" creationid="xccui" creationdate="20190710T205037Z">
@@ -29252,6 +29260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T023309Z" creationid="xccui" creationdate="20190711T022658Z">
         <seg>StreamingFileSink支持两种分块文件的写入模式：行编码（row encoding）和批量编码（bulk encoding）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StreamingFileSink will never move files from pending into fin‐ ished state, if an application does not enable checkpointing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192930Z" creationid="xccui" creationdate="20190711T192930Z">
+        <seg>如果应用没有开启检查点，StreamingFileSink将永远不会把等待状态的文件变为完成状态。</seg>
       </tuv>
     </tu>
     <tu>
