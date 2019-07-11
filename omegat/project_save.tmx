@@ -24599,6 +24599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonconsecutive file IDs, the last number in a committed file’s name, do not indicate data loss.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T020346Z" creationid="xccui" creationdate="20190711T020346Z">
+        <seg>文件ID（即提交文件名称的最后一个数字）不连续并不代表数据丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None of the functions exposes an API to set the time&lt;t8/&gt;‐&lt;t9/&gt; stamps of emitted records, manipulate the event-time clock of a task, or emit watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T140736Z" creationid="esouser" creationdate="20190603T140736Z">
@@ -29036,6 +29044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205037Z" creationid="xccui" creationdate="20190710T205037Z">
         <seg>假如应用配置了精确一次检查点，且它所有数据源都能在故障时重置，那么StreamingFileSink就可以提供端到端的一致性保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StreamingFileSink simply incre‐ ments the file IDs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T020809Z" creationid="xccui" creationdate="20190711T020809Z">
+        <seg>StreamingFileSink只是单纯地对ID执行递增操作，</seg>
       </tuv>
     </tu>
     <tu>
