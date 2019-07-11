@@ -9999,6 +9999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before manually deleting a pending file, you need to check whether it is lingering or about to be committed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191552Z" creationid="xccui" creationdate="20190711T191552Z">
+        <seg>在手动删除它们之前，你需要检查文件是否是因为延迟所导致的或者马上将要提交。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before the rise of modern stream processors, a common approach to process unbounded data was to repeatedly schedule jobs over small batches of incoming events on a batch processing system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182116Z" creationid="xccui" creationdate="20190606T031812Z">
@@ -18679,6 +18687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, these files are not automatically cleaned up.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191141Z" creationid="xccui" creationdate="20190711T191141Z">
+        <seg>然而，这些文件不会被自动清理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they do not meet the latency requirements for many of today’s use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T153957Z" creationid="xccui" creationdate="20190604T055430Z">
@@ -21043,6 +21059,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022736Z" creationid="xccui" creationdate="20190711T022725Z">
         <seg>在行编码模式下，每条记录都会被单独编码并添加到分块文件里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In some situations, a pending file is never committed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191058Z" creationid="xccui" creationdate="20190711T190956Z">
+        <seg>在一些情况下，处于等待阶段的文件可能永远都无法被提交。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30572,6 +30596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065447Z" creationid="xccui" creationdate="20190630T065447Z">
         <seg>每个状态原语都有自己特定的StateDescriptor，它其中包含了状态名称和类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Stream ingFileSink ensures this does not result in data loss.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191111Z" creationid="xccui" creationdate="20190711T191053Z">
+        <seg>StreamingFileSink保证不会因此导致数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
