@@ -6350,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A RollingPolicy determines when a task creates a new part file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021318Z" creationid="xccui" creationdate="20190711T021246Z">
+        <seg>RollingPolicy用来决定任务何时创建一个新的分块文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A TaskManager can execute several tasks at the same time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T070611Z" creationid="xccui" creationdate="20190423T041158Z">
@@ -12641,8 +12649,8 @@
       <tuv lang="EN-US">
         <seg>Each bucket directory contains multiple part files that are concurrently written by multiple  parallel  instances  of  the  StreamingFileSink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T015001Z" creationid="xccui" creationdate="20190710T213614Z">
-        <seg>每个桶对应的目录下都会包含很多分块文件，由StreamingFileSink的多个并行实例对它们进行并发写入。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021258Z" creationid="xccui" creationdate="20190710T213614Z">
+        <seg>每个桶对应的目录下都会包含很多分块文件（part file），由StreamingFileSink的多个并行实例对它们进行并发写入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44404,6 +44412,14 @@
         <seg>the watermark propagation protocol (see “Watermark Propagation and Event Time”).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T022347Z" creationid="xccui" creationdate="20190709T022347Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>their IDs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021126Z" creationid="xccui" creationdate="20190711T021126Z">
         <seg></seg>
       </tuv>
     </tu>
