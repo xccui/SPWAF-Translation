@@ -39787,8 +39787,8 @@
       <tuv lang="EN-US">
         <seg>You will find the source code in the src/ directory, grouped by chapter:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040535Z" creationid="xccui" creationdate="20190611T040535Z">
-        <seg>你可以在src/目录中找到按照章节分好的源代码：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T091624Z" creationid="xccui" creationdate="20190611T040535Z">
+        <seg>你可以在src/目录中找到按照章节组织的源代码：</seg>
       </tuv>
     </tu>
     <tu>
