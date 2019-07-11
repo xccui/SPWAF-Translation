@@ -12641,8 +12641,8 @@
       <tuv lang="EN-US">
         <seg>Each bucket directory contains multiple part files that are concurrently written by multiple  parallel  instances  of  the  StreamingFileSink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213614Z" creationid="xccui" creationdate="20190710T213614Z">
-        <seg>每个桶的目录下都会包含很多零散文件，由StreamingFileSink的多个并行实例对它们进行并发写入。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T015001Z" creationid="xccui" creationdate="20190710T213614Z">
+        <seg>每个桶对应的目录下都会包含很多分块文件，由StreamingFileSink的多个并行实例对它们进行并发写入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16769,8 +16769,8 @@
       <tuv lang="EN-US">
         <seg>For example, given a base path of "/johndoe/demo" and a part prefix of "part", the path "/johndoe/demo/2018-07-22--17/part-4-8" points to the eight file that was written by the fifth (0-indexed) sink task to bucket "2018-07-22--17"—the 5 p.m. bucket of July 22, 2018.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T214013Z" creationid="xccui" creationdate="20190710T214013Z">
-        <seg>例如，给定一个基础路径"/johndoe/demo"以及</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T214057Z" creationid="xccui" creationdate="20190710T214013Z">
+        <seg>例如，给定一个基础路径"/johndoe/demo"以及子文件前缀"part"</seg>
       </tuv>
     </tu>
     <tu>
