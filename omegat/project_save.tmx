@@ -18513,8 +18513,8 @@
       <tuv lang="EN-US">
         <seg>How this operator works, including the role of the CheckpointCommitter, and which consistency guarantees it provides, is described in</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T224217Z" creationid="xccui" creationdate="20190711T224217Z">
-        <seg>有关该算子的工作原理，包括CheckpointCommitter的作用以及送提供的一致性保障，我们会在209页""</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T224246Z" creationid="xccui" creationdate="20190711T224217Z">
+        <seg>有关该算子的工作原理，包括CheckpointCommitter的作用以及送提供的一致性保障，我们会在209页"事务性数据汇连接器"一节详细介绍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43349,6 +43349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051808Z" creationid="xccui" creationdate="20190620T051620Z">
         <seg>则可以使用一个简便方法assignAscendingTimeStamps。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>more detail in “Transactional Sink Connectors” on page 209.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T224249Z" creationid="xccui" creationdate="20190711T224249Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
