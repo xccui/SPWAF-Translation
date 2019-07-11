@@ -20897,8 +20897,8 @@
       <tuv lang="EN-US">
         <seg>In order for this to work, the POJO class and its fields need to be annotated with Cassandra annotations and provide setters and getters for all fields as shown in Example 8-9.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T213709Z" creationid="xccui" creationdate="20190711T213709Z">
-        <seg>为了让映射器能正常工作，我们需要像示例8-9那样，为POJO类和它的字段添加Cassandra注解，并对所有字段提供setter和getter方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T215915Z" creationid="xccui" creationdate="20190711T213709Z">
+        <seg>为了让映射器能正常工作，我们需要像示例8-9那样，为POJO类和它的字段添加Cassandra注解，并针对所有字段提供setter和getter方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31604,6 +31604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033350Z" creationid="xccui" creationdate="20190710T032530Z">
         <seg>即使已经确认数据写入成功，Kafka集群如果采用默认配置，则仍可能丢失数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default constructor is required by Flink as mentioned in “Supported Data Types” on page 98 when discussing supported data types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220137Z" creationid="xccui" creationdate="20190711T220137Z">
+        <seg>此外，正如第98页"支持的数据类型"一节中所介绍的，Flink还需要POJO有一个默认构造方法。</seg>
       </tuv>
     </tu>
     <tu>
