@@ -33322,8 +33322,8 @@
       <tuv lang="EN-US">
         <seg>The sink achieves this by a commit protocol that moves files through different stages, in progress, pending,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190100Z" creationid="xccui" creationdate="20190711T183631Z">
-        <seg>它的实现方式是采用一种提交协议，该协议会基于Flink的检查点机制将文件在不同阶段（处理阶段，等待阶段以及完成阶段）间转移。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192247Z" creationid="xccui" creationdate="20190711T183631Z">
+        <seg>它的实现方式是采用一种提交协议，该协议会基于Flink的检查点机制将文件在不同阶段（进行，等待及完成）间转移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35036,6 +35036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T035223Z" creationid="xccui" creationdate="20190605T043413Z">
         <seg>无论它们的架构是基于数据仓库还是Hadoop生态系统组件，这都属于批处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is done by closing the current in- progress file and discarding the invalid part at the file’s end, for example, by using the filesystem’s truncate operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192146Z" creationid="xccui" creationdate="20190711T192146Z">
+        <seg>该工作可以通过关闭当前写入的文件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38947,8 +38955,8 @@
       <tuv lang="EN-US">
         <seg>While a sink writes to a file, the file is in the in-progress state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190216Z" creationid="xccui" creationdate="20190711T190216Z">
-        <seg>当数据汇写入文件时，文件会处于处理阶段。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192239Z" creationid="xccui" creationdate="20190711T190216Z">
+        <seg>当数据汇写入文件时，文件会处于进行状态。</seg>
       </tuv>
     </tu>
     <tu>
