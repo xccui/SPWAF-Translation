@@ -40665,6 +40665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>configure an inactivity interval after which a part file is rolled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022222Z" creationid="xccui" creationdate="20190711T022222Z">
+        <seg>你还可以配置一个非活动间隔（inactivity interval），在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>connection pattern of the rescale distribution transformation is shown in Figure 5-7.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044847Z" creationid="xccui" creationdate="20190616T044847Z">
