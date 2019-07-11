@@ -20895,6 +20895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order for this to work, the POJO class and its fields need to be annotated with Cassandra annotations and provide setters and getters for all fields as shown in Example 8-9.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T213709Z" creationid="xccui" creationdate="20190711T213709Z">
+        <seg>为了让映射器能正常工作，我们需要像示例8-9那样，为POJO类和它的字段添加Cassandra注解，并对所有字段提供setter和getter方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to achieve better state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062306Z" creationid="xccui" creationdate="20190701T062306Z">
@@ -22753,8 +22761,8 @@
       <tuv lang="EN-US">
         <seg>Instead, POJOs are handed to Cassandra’s Object Mapper, which automatically maps POJO fields to fields of a Cassandra table.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T213247Z" creationid="xccui" creationdate="20190711T213247Z">
-        <seg>POJO</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T213401Z" creationid="xccui" creationdate="20190711T213247Z">
+        <seg>事实上，POJO对象会交给Cassandra的Object Mapper来处理，它会自动把POJO字段映射到Cassandra表中的字段。</seg>
       </tuv>
     </tu>
     <tu>
