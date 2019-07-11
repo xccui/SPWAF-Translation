@@ -30794,8 +30794,8 @@
       <tuv lang="EN-US">
         <seg>The book examples are provided as a Maven project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040502Z" creationid="xccui" creationdate="20190611T040502Z">
-        <seg>书中的示例都是以Maven项目的形式提供。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T091552Z" creationid="xccui" creationdate="20190611T040502Z">
+        <seg>书中的示例都是以Maven项目的形式出现。</seg>
       </tuv>
     </tu>
     <tu>
