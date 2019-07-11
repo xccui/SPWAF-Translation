@@ -11033,8 +11033,8 @@
       <tuv lang="EN-US">
         <seg>Common choices are IntelliJ IDEA, Eclipse, or Netbeans with the appropriate plugins (such as for Maven, Git, and Scala support).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030527Z" creationid="xccui" creationdate="20190611T030527Z">
-        <seg>常见选项有IntelliJ IDEA、Eclipse或Netbeans，它们都需要相应安装一些插件（例如Maven插件、Git插件以及Scala插件）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072541Z" creationid="xccui" creationdate="20190611T030527Z">
+        <seg>常见选项有IntelliJ IDEA、Eclipse或Netbeans，它们都需要相应安装一些插件（例如Maven插件、Git插件及Scala插件）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24137,8 +24137,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, Flink provides Maven archetypes to bootstrap new Flink Maven projects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004357Z" creationid="xccui" creationdate="20190611T020723Z">
-        <seg>此外，Flink还提供了Maven模板（Maven archetypes）来创建新的Flink Maven项目。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072517Z" creationid="xccui" creationdate="20190611T020723Z">
+        <seg>此外，Flink还提供了用于Flink Maven新项目创建的Maven模板（maven archetypes）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30954,8 +30954,8 @@
       <tuv lang="EN-US">
         <seg>The code examples of the book use Maven build manage‐ ment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030150Z" creationid="xccui" creationdate="20190611T020420Z">
-        <seg>书中示例代码都是使用Maven来构建管理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072354Z" creationid="xccui" creationdate="20190611T020420Z">
+        <seg>书中示例代码都是使用Maven来进行构建管理。</seg>
       </tuv>
     </tu>
     <tu>
