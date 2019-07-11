@@ -8422,6 +8422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among other options, it can configure the hostnames and ports of one or more contact points; define load</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221433Z" creationid="xccui" creationdate="20190711T221433Z">
+        <seg>其他配置选项还包括一个或多个连接点（contact point）的主机名和端口；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T202926Z" creationid="xccui" creationdate="20190701T202926Z">
@@ -40901,6 +40909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T024120Z" creationid="xccui" creationdate="20190706T024120Z">
         <seg>然后将其返回给提交请求的客户端代理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>balancing, retry, and reconnection policies; and provide access credentials.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221515Z" creationid="xccui" creationdate="20190711T221515Z">
+        <seg>定义负载均衡，重试及重连策略；提供访问凭据等。</seg>
       </tuv>
     </tu>
     <tu>
