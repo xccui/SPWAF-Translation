@@ -31776,6 +31776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following code shows the depend‐ ency you need to add to the build file of your application in order to use the Cassan‐ dra sink connector:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T203319Z" creationid="xccui" creationdate="20190711T203319Z">
+        <seg>为了在应用中使用Cassandra数据汇连接器，你需要在你的应用构建文件中添加以下依赖：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following code shows the interface of the ProcessWindowFunction:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010446Z" creationid="xccui" creationdate="20190624T010446Z">
@@ -37980,6 +37988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T052436Z" creationid="xccui" creationdate="20190621T052436Z">
         <seg>接下来我们会以KeyedProcessFunction为例来讨论这些通用的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will discuss the WAL mode in more detail later in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T203148Z" creationid="xccui" creationdate="20190711T203148Z">
+        <seg>我们会在本节后面更详细地讨论WAL模式。</seg>
       </tuv>
     </tu>
     <tu>
