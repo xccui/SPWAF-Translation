@@ -9639,6 +9639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you can see in Example 8-8, we do not specify an INSERT query.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T213227Z" creationid="xccui" creationdate="20190711T213203Z">
+        <seg>从示例8-8可以看出，我们没有指定INSERT查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you can see, the Trigger API can be used to implement sophisticated logic by pro‐ viding access to time and state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193725Z" creationid="xccui" creationdate="20190626T193725Z">
@@ -22739,6 +22747,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194239Z" creationid="xccui" creationdate="20190416T045008Z">
         <seg>Flink采用了轻量级检查点机制来实现精确一次结果保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, POJOs are handed to Cassandra’s Object Mapper, which automatically maps POJO fields to fields of a Cassandra table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T213247Z" creationid="xccui" creationdate="20190711T213247Z">
+        <seg>POJO</seg>
       </tuv>
     </tu>
     <tu>
