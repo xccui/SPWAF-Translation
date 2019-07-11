@@ -33258,8 +33258,8 @@
       <tuv lang="EN-US">
         <seg>The sink achieves this by a commit protocol that moves files through different stages, in progress, pending,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183859Z" creationid="xccui" creationdate="20190711T183631Z">
-        <seg>它的实现方式是采用一种提交协议，该协议会将文件在不同阶段（处理阶段，等待阶段以及完成阶段）间转移，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190100Z" creationid="xccui" creationdate="20190711T183631Z">
+        <seg>它的实现方式是采用一种提交协议，该协议会基于Flink的检查点机制将文件在不同阶段（处理阶段，等待阶段以及完成阶段）间转移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38609,6 +38609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the RollingPolicy decides to roll a file, it is closed and moved into the pending state by renaming it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190548Z" creationid="xccui" creationdate="20190711T190548Z">
+        <seg>当RollingPolicy决定生成新文件时，原文件会被关闭，并通过重命名进入到等待状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the application has been completely defined, it can be executed by call‐ ing StreamExecutionEnvironment.execute().</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005845Z" creationid="xccui" creationdate="20190613T005845Z">
@@ -38869,6 +38877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T152314Z" creationid="xccui" creationdate="20190412T152302Z">
         <seg>当爱丽丝的手机在隧道里没信号的时候，鲍勃的手机依然能联网向后端游戏应用发送事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While a sink writes to a file, the file is in the in-progress state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190216Z" creationid="xccui" creationdate="20190711T190216Z">
+        <seg>当数据汇写入文件时，文件会处于处理阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40156,6 +40172,14 @@
         <seg>and deserialization methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055451Z" creationid="xccui" creationdate="20190618T055451Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and finished, and that is based on Flink’s checkpointing mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190113Z" creationid="xccui" creationdate="20190711T190113Z">
         <seg></seg>
       </tuv>
     </tu>
