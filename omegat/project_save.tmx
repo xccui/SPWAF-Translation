@@ -8304,8 +8304,8 @@
       <tuv lang="EN-US">
         <seg>Although a program is executed in a single JVM, records are serialized for cross- thread communication and possibly state persistance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T054835Z" creationid="xccui" creationdate="20190611T054835Z">
-        <seg>虽然程序运行在单个JVM内，但出于跨线程通信或可能存在的状态持久化考虑，记录都会被序列化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093927Z" creationid="xccui" creationdate="20190611T054835Z">
+        <seg>虽然程序运行在单个JVM内，但出于跨线程通信和潜在的状态持久化需求考虑，记录都会被序列化。</seg>
       </tuv>
     </tu>
     <tu>
