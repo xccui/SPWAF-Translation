@@ -19673,8 +19673,8 @@
       <tuv lang="EN-US">
         <seg>Importing the examples-scala repository into your IDE to experiment with Flink is a good first step.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004111Z" creationid="xccui" creationdate="20190612T004022Z">
-        <seg>将examples-scala库导入IDE来体验Flink是一个良好的开端。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093955Z" creationid="xccui" creationdate="20190612T004022Z">
+        <seg>将examples-scala库导入IDE来体验Flink是一个良好的开始。</seg>
       </tuv>
     </tu>
     <tu>
