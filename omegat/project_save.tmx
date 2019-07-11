@@ -32738,8 +32738,8 @@
       <tuv lang="EN-US">
         <seg>The output starts with a few log statements about the states that parallel operator tasks go through, such as SCHED‐ ULING, DEPLOYING, and RUNNING.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043236Z" creationid="xccui" creationdate="20190611T043225Z">
-        <seg>输出以几行日志语句开始，它们记录了并行算子所经过的一些状态，例如：SCHEDULING、DEPLOYING和RUNNING。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092050Z" creationid="xccui" creationdate="20190611T043225Z">
+        <seg>输出以几行日志语句开始，它们记录了并行算子所经过的一系列状态，例如：SCHEDULING、DEPLOYING和RUNNING。</seg>
       </tuv>
     </tu>
     <tu>
