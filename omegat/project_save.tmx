@@ -6336,8 +6336,8 @@
       <tuv lang="EN-US">
         <seg>A KeyedStream can be processed using the map, flatMap, and filter transformations that you saw earlier.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045801Z" creationid="xccui" creationdate="20190614T045801Z">
-        <seg>KeyedStream也支持使用你之前看到过的map、flatMap和filter等转换进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060940Z" creationid="xccui" creationdate="20190614T045801Z">
+        <seg>KeyedStream也支持使用你之见看到过的map、flatMap和filter等转换进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9961,8 +9961,8 @@
       <tuv lang="EN-US">
         <seg>Based on the key, the events of the stream are assigned to partitions, so that all</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050345Z" creationid="xccui" creationdate="20190614T050345Z">
-        <seg>根据键值，流中的事件会被分配到不同分区，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061101Z" creationid="xccui" creationdate="20190614T050345Z">
+        <seg>根据键值，流中的事件会被分到不同的分区，</seg>
       </tuv>
     </tu>
     <tu>
@@ -21841,8 +21841,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we will use a keyBy transformation to convert a DataStream into a KeyedStream and keyed transformations such as rolling aggrega‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050213Z" creationid="xccui" creationdate="20190614T050124Z">
-        <seg>下面我们将使用keyBy转换将一个DataStream转化为KeyedStream，然后对它进行滚动聚合以及reduce。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060955Z" creationid="xccui" creationdate="20190614T050124Z">
+        <seg>下面我们将使用keyBy转换将一个DataStream转化为KeyedStream，然后对它进行滚动聚合以及reduce操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42003,7 +42003,7 @@
       <tuv lang="EN-US">
         <seg>events with the same key are processed by the same task of the subsequent operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T050540Z" creationid="xccui" creationdate="20190614T050540Z">
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061142Z" creationid="xccui" creationdate="20190614T050540Z">
         <seg>这样一来有着相同键值的事件一定会在后续算子的同一个任务上处理。</seg>
       </tuv>
     </tu>
