@@ -24369,8 +24369,8 @@
       <tuv lang="EN-US">
         <seg>MapFunction in  the  following,  are  defined  as  classes  that  implement  a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T020939Z" creationid="xccui" creationdate="20190613T020742Z">
-        <seg>函数可以被定义为实现了某个特定转换接口的类，例如下面的MapFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054245Z" creationid="xccui" creationdate="20190613T020742Z">
+        <seg>函数可以通过实现某个特定转换接口的类来定义，例如下面的MapFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24873,8 +24873,8 @@
       <tuv lang="EN-US">
         <seg>Most stream transformations are based on user-defined functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T014153Z" creationid="xccui" creationdate="20190613T014153Z">
-        <seg>大多数流式转换都是基于用户自定义函数来完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T053634Z" creationid="xccui" creationdate="20190613T014153Z">
+        <seg>大多数流式转换都是基于用户自定义函数来完成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29410,8 +29410,8 @@
       <tuv lang="EN-US">
         <seg>Stream API program essentially boils down to combining such transformations to create a dataflow graph that implements the application logic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013754Z" creationid="xccui" creationdate="20190613T013744Z">
-        <seg>完成一个DataStream API程序在本质上可以归结为：通过组合不同的转换来创建一个满足应用逻辑的dataflow图。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T053620Z" creationid="xccui" creationdate="20190613T013744Z">
+        <seg>完成一个DataStream API程序在本质上可以归结为：通过组合不同的转换来创建一个满足应用逻辑的Dataflow图。</seg>
       </tuv>
     </tu>
     <tu>
