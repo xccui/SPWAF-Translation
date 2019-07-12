@@ -16545,8 +16545,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports many data types, which we describe in the next section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051637Z" creationid="xccui" creationdate="20190612T051624Z">
-        <seg>Flink支持很多数据类型，我们会在下一节介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050747Z" creationid="xccui" creationdate="20190612T051624Z">
+        <seg>Flink支持很多数据类型，我们会在下一节介绍它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21321,8 +21321,8 @@
       <tuv lang="EN-US">
         <seg>In our example, we use:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051434Z" creationid="xccui" creationdate="20190612T051404Z">
-        <seg>在示例中，我们通过：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050710Z" creationid="xccui" creationdate="20190612T051404Z">
+        <seg>在示例中，我们通过</seg>
       </tuv>
     </tu>
     <tu>
@@ -45139,8 +45139,8 @@
       <tuv lang="EN-US">
         <seg>streams can be ingested from sources such as message queues or files, or also be gen‐ erated on the fly.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051324Z" creationid="xccui" creationdate="20190612T051324Z">
-        <seg>这些数据流的来源可以是消息队列或文件，也可以实时生成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050643Z" creationid="xccui" creationdate="20190612T051324Z">
+        <seg>这些数据流的来源可以是消息队列或文件，也可以是实时生成的。</seg>
       </tuv>
     </tu>
     <tu>
