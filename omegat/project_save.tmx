@@ -9993,8 +9993,8 @@
       <tuv lang="EN-US">
         <seg>Basic transformations process individual events, meaning that each output record was produced from a single input record.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025056Z" creationid="xccui" creationdate="20190613T024932Z">
-        <seg>基本转换用于单独处理每个事件，也就是说每条输出记录都是由单条输入记录所生成的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054905Z" creationid="xccui" creationdate="20190613T024932Z">
+        <seg>基本转换会单独处理每个事件，这意味着每条输出记录都由单条输入记录所生成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23561,8 +23561,8 @@
       <tuv lang="EN-US">
         <seg>It passes each incoming event to a user-defined mapper</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050421Z" creationid="xccui" creationdate="20190613T042926Z">
-        <seg>该转换将每个到来的事件传给一个用户自定义的映射器，后者针对每个输入只会返回一个（可能是不同类型的）输出事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055052Z" creationid="xccui" creationdate="20190613T042926Z">
+        <seg>该转换将每个到来的事件传给一个用户自定义的映射器（user-defined mapper），后者针对每个输入只会返回一个（可能是不同类型的）输出事件。</seg>
       </tuv>
     </tu>
     <tu>
