@@ -12513,8 +12513,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the type of execution environment, a JobManager is started as a local thread (local execution environment) or the JobGraph is sent to a remote JobManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012430Z" creationid="xccui" creationdate="20190613T012430Z">
-        <seg>根据执行环境类型的不同，可能会将JobManager作为本地线程启动（本地执行环境），也可能会将JobGraph发送到远程JobManager上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052337Z" creationid="xccui" creationdate="20190613T012430Z">
+        <seg>根据执行环境类型的不同，系统可能会将JobManager作为本地线程启动（本地执行环境），也可能会将JobGraph发送到远程JobManager上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16281,8 +16281,8 @@
       <tuv lang="EN-US">
         <seg>Flink programs are executed lazily.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011017Z" creationid="xccui" creationdate="20190613T010906Z">
-        <seg>Flink程序都是通过延迟计算的方式执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052154Z" creationid="xccui" creationdate="20190613T010906Z">
+        <seg>Flink程序都是通过延迟计算（lazily execute）的方式执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19361,8 +19361,8 @@
       <tuv lang="EN-US">
         <seg>If the JobManager runs remotely, the JobGraph must be shipped together with a JAR file that contains all classes and required dependencies of the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012656Z" creationid="xccui" creationdate="20190613T012656Z">
-        <seg>如果是远程JobManager的情况，除了JobGraph之外，还要同时提供包含应用所需全部类和依赖的JAR包。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052351Z" creationid="xccui" creationdate="20190613T012656Z">
+        <seg>如果是远程JobManager的情况，除了JobGraph之外，我们还要同时提供包含应用所需全部类和依赖的JAR包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22297,8 +22297,8 @@
       <tuv lang="EN-US">
         <seg>In this section we give an overview of the basic transformations of the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T012954Z" creationid="xccui" creationdate="20190613T012853Z">
-        <seg>本节我们将对DataStream API中的基本转换做一个概览。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T053443Z" creationid="xccui" creationdate="20190613T012853Z">
+        <seg>本节我们将对DataStream API中的基本转换做一个概述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30122,8 +30122,8 @@
       <tuv lang="EN-US">
         <seg>That is, the API calls that create stream sources and transformations do not immediately trigger any data processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011133Z" creationid="xccui" creationdate="20190613T011133Z">
-        <seg>也就是说，那些创建数据源和转换操作的API调用不会立即触发任何数据处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052226Z" creationid="xccui" creationdate="20190613T011133Z">
+        <seg>也就是说，那些创建数据源和转换操作的API调用不会当即触发任何数据处理。</seg>
       </tuv>
     </tu>
     <tu>
