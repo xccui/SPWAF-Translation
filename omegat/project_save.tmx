@@ -28064,6 +28064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “Scaling Stateful Operators” on page 56 for details on the distribution behavior of operator list state and union list state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T163240Z" creationid="xccui" creationdate="20190712T163240Z">
+        <seg>有关算子列表状态或联合列表状态的分配行为细节，请参照第56页"状态化算子的扩缩容"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Maven project to import</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041645Z" creationid="xccui" creationdate="20190611T041645Z">
