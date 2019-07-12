@@ -29384,6 +29384,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>State() method is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174104Z" creationid="xccui" creationdate="20190712T174104Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>State, state consistency, and Flink’s checkpointing mechanism will be discussed in more detail in the following chapters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T033014Z" creationid="xccui" creationdate="20190305T033014Z">
@@ -45645,6 +45653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T050259Z" creationid="xccui" creationdate="20190701T050259Z">
         <seg>该方法需要以可序列化状态对象列表的形式返回算子状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the reading position and emits records in a block that synchronizes on a lock object,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174310Z" creationid="xccui" creationdate="20190712T174310Z">
+        <seg>为此可以利用SourceContext.getCheckpointLock()获得一个锁对象，并用它对run()方法中推进偏移和发出数据的代码块进行同步处理。</seg>
       </tuv>
     </tu>
     <tu>
