@@ -19447,6 +19447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the application is started without existing state, the reading offsets must be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T162543Z" creationid="xccui" creationdate="20190712T162543Z">
+        <seg>如果应用在没有状态的情况下启动，则读取偏移需要被设置成默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the application runs in a local execution environment the parallelism is set to match the number of CPU cores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052859Z" creationid="xccui" creationdate="20190616T052859Z">
@@ -39387,8 +39395,8 @@
       <tuv lang="EN-US">
         <seg>When the application is started from a savepoint or recovers from a failure, the reading offsets are retrieved from the latest checkpoint or save‐ point.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T161759Z" creationid="xccui" creationdate="20190712T161759Z">
-        <seg>当应用从某个保存点或故障重新恢复时，再从最近一次的检查点或保存点中</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T161935Z" creationid="xccui" creationdate="20190712T161759Z">
+        <seg>当应用从某个保存点或故障重新恢复时，它再从最近一次的检查点或保存点中将读取偏移取出来。</seg>
       </tuv>
     </tu>
     <tu>
