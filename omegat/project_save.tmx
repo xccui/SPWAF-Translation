@@ -40315,8 +40315,8 @@
       <tuv lang="EN-US">
         <seg>You have probably already noticed that Flink programs are defined and submitted for execution in regular Scala or Java methods.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043401Z" creationid="xccui" creationdate="20190612T043039Z">
-        <seg>你可能已经注意到了，用日常的Scala或Java方法就可以定义并提交Flink程序。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T045524Z" creationid="xccui" creationdate="20190612T043039Z">
+        <seg>你可能已经注意到了，用常规的Scala或Java方法就可以定义和提交Flink程序。</seg>
       </tuv>
     </tu>
     <tu>
