@@ -7384,8 +7384,8 @@
       <tuv lang="EN-US">
         <seg>A stream transformation is applied on one or more streams and converts them into one or more output streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013355Z" creationid="xccui" creationdate="20190613T013226Z">
-        <seg>流式转换会将一个或多个输入流转换成一个或多个输出流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T053609Z" creationid="xccui" creationdate="20190613T013226Z">
+        <seg>流式转换以一个或多个数据流为输入，并将它们转换成一个或多个输出流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36266,8 +36266,8 @@
       <tuv lang="EN-US">
         <seg>Time-related operators such as window operators and other specialized trans‐ formations are described in later chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T013239Z" creationid="xccui" creationdate="20190613T013033Z">
-        <seg>基于时间的算子（例如窗口算子）以及其他一些特殊转换会在后面章节介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T053506Z" creationid="xccui" creationdate="20190613T013033Z">
+        <seg>基于时间的算子（如窗口算子）以及其他一些特殊转换会在后面章节介绍。</seg>
       </tuv>
     </tu>
     <tu>
