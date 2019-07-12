@@ -45305,6 +45305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>state depending on how the offsets should be distributed to parallel task instances in the case of a rescaled application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T162958Z" creationid="xccui" creationdate="20190712T162958Z">
+        <seg>具体选择要根据应用扩缩容时偏移值在并行任务实例上的分配规则来决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T034403Z" creationid="xccui" creationdate="20190630T034400Z">
