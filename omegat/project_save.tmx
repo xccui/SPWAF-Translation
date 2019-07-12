@@ -12503,6 +12503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the system from which the data is received, the data might be pushed or pulled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151202Z" creationid="xccui" creationdate="20190712T151202Z">
+        <seg>根据上游数据源系统的不同，数据可能以推送或拉取的形式获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the the environment (YARN, Mesos, Kubernetes, stand-alone cluster), some steps can be omitted or components might run in the same JVM process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T024812Z" creationid="xccui" creationdate="20190423T024729Z">
@@ -23833,8 +23841,8 @@
       <tuv lang="EN-US">
         <seg>Just like the rich variants of processing functions,6 subclasses of RichSourceFunction and RichParallelSourceFunction can override the open() and close() methods and access a RuntimeContext that provides the number of parallel task instances and the index of the current instance, among other things.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150653Z" creationid="xccui" creationdate="20190712T150653Z">
-        <seg>就像一系列处理函数的变种一样，RichSourceFunction和RichParallelSourceFunction允许它们的子类覆盖open()和close()方法，并提供RuntimeContext用以访问当前并行任务实例的数量以及当前实例的索引号等内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150837Z" creationid="xccui" creationdate="20190712T150653Z">
+        <seg>就像一系列处理函数的变种一样，RichSourceFunction和RichParallelSourceFunction允许它们的子类覆盖open()和close()方法，并提供RuntimeContext用以访问当前并行任务实例的数量以及当前实例的索引号等信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28952,6 +28960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SourceFunction and ParallelSourceFunction define two methods:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150854Z" creationid="xccui" creationdate="20190712T150854Z">
+        <seg>SourceFunction和ParallelSourceFunction中定义了两个方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SourceFunction and RichSourceFunction can be used to define nonparallel source connectors—sources that run with a single task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T145628Z" creationid="xccui" creationdate="20190712T145628Z">
@@ -33724,6 +33740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062936Z" creationid="xccui" creationdate="20190614T062936Z">
         <seg>滚动聚合算子会为每个处理过的键值维持一个状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The run() method is doing the actual work of reading or receiving records and ingesting them into a Flink application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151024Z" creationid="xccui" creationdate="20190712T151024Z">
+        <seg>run()方法负责执行具体记录读入或接收工作，它会将这些记录传入Flink应用中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47193,6 +47217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>void cancel()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150859Z" creationid="xccui" creationdate="20190712T150859Z">
+        <seg>void cancel()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>void deleteEventTimeTimer(long time);</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192721Z" creationid="xccui" creationdate="20190626T192721Z">
@@ -47253,6 +47285,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192631Z" creationid="xccui" creationdate="20190626T192631Z">
         <seg>void registerProcessingTimeTimer(long time);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void run(SourceContext&lt;T&gt; ctx)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150856Z" creationid="xccui" creationdate="20190712T150856Z">
+        <seg>void run(SourceContext&lt;T&gt; ctx)</seg>
       </tuv>
     </tu>
     <tu>
