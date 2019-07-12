@@ -20495,6 +20495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, it is important to ensure that the SourceFunction.run() method, which runs in a separate thread, does not advance the reading offset and emit data while a checkpoint is taken; in other words, while the CheckpointedFunction.snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174058Z" creationid="xccui" creationdate="20190712T174058Z">
+        <seg>此外，我们必须确保由单独线程运行的SourceFunction.run()方法不会在检查点生成过程中（即CheckpointedFunction.snapshotState()调用期间）向前推进偏移和发出数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, program&lt;t0/&gt;‐&lt;t1/&gt; ming APIs evolved from rather low-level operator interfaces to high-level APIs with more built-in primitives.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T035008Z" creationid="xccui" creationdate="20190327T034928Z">
