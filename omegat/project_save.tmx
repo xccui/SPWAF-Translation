@@ -26576,6 +26576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ParallelSourceFunction and RichParallelSourceFunction can be used to define source connectors that run with multiple parallel task instances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T145740Z" creationid="xccui" creationdate="20190712T145740Z">
+        <seg>ParallelSourceFunction和RichParallelSourceFunction可用于定义能够同时运行多个任务实例的数据源连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parallelization gets complicated, since results depend on both the state and incoming events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183657Z" creationid="xccui" creationdate="20190606T032919Z">
