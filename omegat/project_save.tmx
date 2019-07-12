@@ -1384,8 +1384,8 @@
       <tuv lang="EN-US">
         <seg>// O: the type of output elements MapFunction[T, O]</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050340Z" creationid="xccui" creationdate="20190613T050340Z">
-        <seg>// O输出元素的类型 MapFunction[T, O]</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055335Z" creationid="xccui" creationdate="20190613T050340Z">
+        <seg>// O：输出元素的类型 MapFunction[T, O]</seg>
       </tuv>
     </tu>
     <tu>
@@ -23225,8 +23225,8 @@
       <tuv lang="EN-US">
         <seg>It defines the map() method that trans‐ forms an input event into exactly one output event:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050318Z" creationid="xccui" creationdate="20190613T050318Z">
-        <seg>它定义的map()方法将每个输入事件转换为一个输出事件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055329Z" creationid="xccui" creationdate="20190613T050318Z">
+        <seg>该接口的map()方法将每个输入事件转换为一个输出事件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23561,8 +23561,8 @@
       <tuv lang="EN-US">
         <seg>It passes each incoming event to a user-defined mapper</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055052Z" creationid="xccui" creationdate="20190613T042926Z">
-        <seg>该转换将每个到来的事件传给一个用户自定义的映射器（user-defined mapper），后者针对每个输入只会返回一个（可能是不同类型的）输出事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055148Z" creationid="xccui" creationdate="20190613T042926Z">
+        <seg>该转换将每个到来的事件传给一个用户自定义的映射器（user-defined mapper），后者针对每个输入只会返回一个（可能类型发生改变的）输出事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30874,8 +30874,8 @@
       <tuv lang="EN-US">
         <seg>The MapFunction is typed to the types of the input and output events and can be specified using the MapFunction interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052743Z" creationid="xccui" creationdate="20190613T050021Z">
-        <seg>MapFunction的两个类型分别为输入和输出事件类型，可以通过MapFunction接口来指定。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055306Z" creationid="xccui" creationdate="20190613T050021Z">
+        <seg>MapFunction的两个类型参数分别是输入事件和输出事件的类型，它们可以通过MapFunction接口来指定。</seg>
       </tuv>
     </tu>
     <tu>
