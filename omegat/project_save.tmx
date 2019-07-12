@@ -2176,8 +2176,8 @@
       <tuv lang="EN-US">
         <seg>// emit update with subtask index and counter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052656Z" creationid="xccui" creationdate="20190701T052656Z">
-        <seg>// 发出由子任务编号和数目组成的更新元组</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150754Z" creationid="xccui" creationdate="20190701T052656Z">
+        <seg>// 发出由子任务索引号和数目组成的更新元组</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,8 +2488,8 @@
       <tuv lang="EN-US">
         <seg>// index of the subtask</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052350Z" creationid="xccui" creationdate="20190701T052350Z">
-        <seg>// 子任务的编号</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150739Z" creationid="xccui" creationdate="20190701T052350Z">
+        <seg>// 子任务的索引号</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,8 +3112,8 @@
       <tuv lang="EN-US">
         <seg>// subtasks are 0-indexed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034418Z" creationid="xccui" creationdate="20190619T034418Z">
-        <seg>// 子任务编号从0开始</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150730Z" creationid="xccui" creationdate="20190619T034418Z">
+        <seg>// 子任务索引号从0开始</seg>
       </tuv>
     </tu>
     <tu>
@@ -25881,8 +25881,8 @@
       <tuv lang="EN-US">
         <seg>Once you find a commit‐ ted file with the same task index and a higher ID, you can safely remove a pending file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191859Z" creationid="xccui" creationdate="20190711T191859Z">
-        <seg>如果你找到了一个具有相同任务编号、ID更高的已经提交的文件，就可以把处于等待阶段的文件删除。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150803Z" creationid="xccui" creationdate="20190711T191859Z">
+        <seg>如果你找到了一个具有相同任务索引号、ID更高的已经提交的文件，就可以把处于等待阶段的文件删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31050,8 +31050,8 @@
       <tuv lang="EN-US">
         <seg>The RuntimeContext can be used to retrieve information such as the function’s parallelism, its subtask index, and the name of the task that executes the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033617Z" creationid="xccui" creationdate="20190619T033451Z">
-        <seg>从RuntimeContext能够获取一些信息，例如函数的并行度，它所在的子任务编号以及执行函数的任务名称。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150721Z" creationid="xccui" creationdate="20190619T033451Z">
+        <seg>从RuntimeContext能够获取一些信息，例如函数的并行度，它所在子任务的索引号以及执行函数的任务名称。</seg>
       </tuv>
     </tu>
     <tu>
