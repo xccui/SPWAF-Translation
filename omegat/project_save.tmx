@@ -39385,6 +39385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the application is started from a savepoint or recovers from a failure, the reading offsets are retrieved from the latest checkpoint or save‐ point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T161759Z" creationid="xccui" creationdate="20190712T161759Z">
+        <seg>当应用从某个保存点或故障重新恢复时，再从最近一次的检查点或保存点中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the first event comes in, it will be immediately processed with the minimum latency possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052653Z" creationid="xccui" creationdate="20190605T234653Z">
