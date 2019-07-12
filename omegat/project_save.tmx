@@ -2016,8 +2016,8 @@
       <tuv lang="EN-US">
         <seg>// create a local stream execution environment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045528Z" creationid="xccui" creationdate="20190612T045528Z">
-        <seg>// 创建一个本地流式执行环境</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050137Z" creationid="xccui" creationdate="20190612T045528Z">
+        <seg>// 创建一个本地的流式执行环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="EN-US">
         <seg>// create a remote stream execution environment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045541Z" creationid="xccui" creationdate="20190612T045541Z">
-        <seg>// 创建一个远程流式执行环境</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050140Z" creationid="xccui" creationdate="20190612T045541Z">
+        <seg>// 创建一个远程的流式执行环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -23353,8 +23353,8 @@
       <tuv lang="EN-US">
         <seg>It is also possible to explicitly create local or remote execution environments as fol‐ lows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045513Z" creationid="xccui" creationdate="20190612T045513Z">
-        <seg>同时也可以像下面那样显式地创建一个本地或远程执行环境：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050050Z" creationid="xccui" creationdate="20190612T045513Z">
+        <seg>同时你也可以像下面这样显式地创建一个本地或远程执行环境：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24977,8 +24977,8 @@
       <tuv lang="EN-US">
         <seg>Next,  we  use env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045810Z" creationid="xccui" creationdate="20190612T045706Z">
-        <seg>接下来我们通过env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050216Z" creationid="xccui" creationdate="20190612T045706Z">
+        <seg>接下来我们使用env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45643,8 +45643,8 @@
       <tuv lang="EN-US">
         <seg>to instruct our program to interpret time semantics using event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045900Z" creationid="xccui" creationdate="20190612T045805Z">
-        <seg>来指定程序使用事件时间作为其时间语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050325Z" creationid="xccui" creationdate="20190612T045805Z">
+        <seg>来指定程序使用事件时间来解释时间语义。</seg>
       </tuv>
     </tu>
     <tu>
