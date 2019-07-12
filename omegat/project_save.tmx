@@ -38506,8 +38506,8 @@
       <tuv lang="EN-US">
         <seg>We will use this example to show‐ case the basic structure of a Flink program and introduce some important features of the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035413Z" creationid="xccui" creationdate="20190612T035257Z">
-        <seg>通过该示例，我们将展示Flink程序的基本结构并引出DataStream API中的几个重要特性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T040931Z" creationid="xccui" creationdate="20190612T035257Z">
+        <seg>我们将使用该示例展示Flink程序的基本结构并引出DataStream API中的几个重要特性。</seg>
       </tuv>
     </tu>
     <tu>
