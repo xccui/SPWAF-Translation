@@ -6752,8 +6752,8 @@
       <tuv lang="EN-US">
         <seg>A filter transformation is specified by calling the DataStream.filter() method and pro‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052155Z" creationid="xccui" creationdate="20190613T052155Z">
-        <seg>通过调用DataStream.filter()方法可以指定filter转换产生一个相同数据类型的DataStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055658Z" creationid="xccui" creationdate="20190613T052155Z">
+        <seg>通过调用DataStream.filter()方法可以指定filter转换产生一个数据类型不变的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7104,8 +7104,8 @@
       <tuv lang="EN-US">
         <seg>A return value of true preserves the input event and forwards it to the output, and false results in dropping the event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052016Z" creationid="xccui" creationdate="20190613T052016Z">
-        <seg>如果返回值为true则会保留并输入事件并将其转发到输出，否则会把事件丢弃。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055621Z" creationid="xccui" creationdate="20190613T052016Z">
+        <seg>如果返回值为true，则它会保留输入事件并将其转发到输出，否则会把事件丢弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32250,8 +32250,8 @@
       <tuv lang="EN-US">
         <seg>The following is a simple mapper that extracts the first field (id) of each SensorRead ing in the input stream:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050710Z" creationid="xccui" creationdate="20190613T050710Z">
-        <seg>下面是一个简单的映射器，它会提取输入流中的每个SensorReading记录的第一个字段（id）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055355Z" creationid="xccui" creationdate="20190613T050710Z">
+        <seg>下方展示的是一个简单的映射器，它会提取输入流中的每个SensorReading记录的第一个字段（id）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39403,8 +39403,8 @@
       <tuv lang="EN-US">
         <seg>When using the Scala API or Java 8, the mapper can also be expressed as a lambda function:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051123Z" creationid="xccui" creationdate="20190613T051123Z">
-        <seg>如果使用Scala API或Java 8，还可以通过lambda函数来表示映射器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055426Z" creationid="xccui" creationdate="20190613T051123Z">
+        <seg>如果使用Scala API或Java 8，你还可以通过lambda函数来表示映射器。</seg>
       </tuv>
     </tu>
     <tu>
