@@ -13097,8 +13097,8 @@
       <tuv lang="EN-US">
         <seg>Earlier in this chapter we explained that Flink can only provide satisfying consistency guarantees for applications that use source connectors that can replay their output data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T152744Z" creationid="xccui" creationdate="20190712T152744Z">
-        <seg>我们在本章的前面部分介绍过，Flink只有在数据源连接器可以重放历史数据的前提下才能为应用提供令人满意的一致性保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T152935Z" creationid="xccui" creationdate="20190712T152744Z">
+        <seg>我们在本章的前面部分介绍过，Flink只有在数据源连接器可以重放输出数据的前提下才能为应用提供令人满意的一致性保障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14451,6 +14451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T054721Z" creationid="xccui" creationdate="20190708T054721Z">
         <seg>支持将读取位置写入检查点的数据源连接器有：基于文件的连接器（会存储文件字节流的读取偏移）以及Kafka连接器（会存储消费主题分区的读取偏移）等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of such systems are filesystems that provide the offset of a file stream and a seek method to move a file stream to a specific position or Apache Kafka, which provides offsets for each parti‐ tion of a topic and can set the reading position of a partition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T160106Z" creationid="xccui" creationdate="20190712T160106Z">
+        <seg>例如：文件系统提供了文件流的读取偏移，并支持通过seek方法将文件流移动到特定位置；Apache Kafka提供了主题下每个分区的偏移地址，并允许我们为设置分区的读取位置。</seg>
       </tuv>
     </tu>
     <tu>
