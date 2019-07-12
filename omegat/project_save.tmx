@@ -21151,6 +21151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to perform a graceful shutdown, the run() method, which runs in a separate thread, should terminate as soon as the cancel() method is called.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T152228Z" creationid="xccui" creationdate="20190712T152228Z">
+        <seg>为了关闭过程可以顺利完成，运行在单独线程内的run()方法需要在cancel()方法调用后立即终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to populate a data ware&lt;t2/&gt;‐&lt;t3/&gt; house, the data managed by the transactional database systems needs to be copied to it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T191750Z" creationid="xccui" creationdate="20190228T184446Z">
@@ -31468,6 +31476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T061822Z" creationid="xccui" creationdate="20190313T051256Z">
         <seg>其业务逻辑受制于系统对状态和时间的把控能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cancel() method is invoked by Flink when the application is canceled and shut down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151958Z" creationid="xccui" creationdate="20190712T151958Z">
+        <seg>Flink会在应用被取消或关闭时调用cancel()方法。</seg>
       </tuv>
     </tu>
     <tu>
