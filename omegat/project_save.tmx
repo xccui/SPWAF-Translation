@@ -7110,6 +7110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A resettable source function needs to implement the Checkpoin tedFunction interface and should store the reading offsets and all related meta infor‐ mation, such as file paths or partition ID, in operator list state or operator union list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T162809Z" creationid="xccui" creationdate="20190712T162809Z">
+        <seg>可重置的数据源函数需要实现CheckpointedFunction接口，并把所有读取偏移和相关的元数据信息（例如文件路径或分区ID）存入算子列表状态或算子联合列表状态中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A return value of true preserves the input event and forwards it to the output, and false results in dropping the event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055621Z" creationid="xccui" creationdate="20190613T052016Z">
@@ -45092,6 +45100,14 @@
         <seg>serve requests of the queryable state client.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055131Z" creationid="xccui" creationdate="20190706T055131Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>set to a default value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T162545Z" creationid="xccui" creationdate="20190712T162545Z">
         <seg></seg>
       </tuv>
     </tu>
