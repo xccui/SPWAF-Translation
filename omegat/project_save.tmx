@@ -24369,8 +24369,8 @@
       <tuv lang="EN-US">
         <seg>MapFunction in  the  following,  are  defined  as  classes  that  implement  a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054245Z" creationid="xccui" creationdate="20190613T020742Z">
-        <seg>函数可以通过实现某个特定转换接口的类来定义，例如下面的MapFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054257Z" creationid="xccui" creationdate="20190613T020742Z">
+        <seg>函数可以通过实现某个特定转换接口的类来定义，例如下面的MapFunction：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24857,8 +24857,8 @@
       <tuv lang="EN-US">
         <seg>Most function interfaces are designed as SAM (single abstract method) interfaces and they can be implemented as Java 8 lambda functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022250Z" creationid="xccui" creationdate="20190613T022250Z">
-        <seg>大多数函数接口都被设计为SAM（单一抽象方法）形式的，因此可以通过Java 8的labmda函数实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054418Z" creationid="xccui" creationdate="20190613T022250Z">
+        <seg>大多数函数接口都被设计为SAM（single abstract method 单一抽象方法）形式的，因此可以通过Java 8的labmda函数实现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32386,8 +32386,8 @@
       <tuv lang="EN-US">
         <seg>The function interface defines the transformation method that needs to be imple‐ mented by the user, such as the map() method in the example above.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T021057Z" creationid="xccui" creationdate="20190613T020932Z">
-        <seg>函数接口规定了用户需要实现的转换方法，例如上面例子中的map()方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054343Z" creationid="xccui" creationdate="20190613T020932Z">
+        <seg>函数接口规定了用户需要实现的转换方法，例如上例中的map()方法。</seg>
       </tuv>
     </tu>
     <tu>
