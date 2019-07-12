@@ -7294,6 +7294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A source function can replay its output if the external system that provides the data exposes an API to retrieve and reset a reading offset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T152919Z" creationid="xccui" creationdate="20190712T152852Z">
+        <seg>如果外部系统提供了获取和重置读取偏移的相关接口，那么数据源函数就可以重放输出数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A source function emits a stream of records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034220Z" creationid="xccui" creationdate="20190607T034220Z">
