@@ -11953,8 +11953,8 @@
       <tuv lang="EN-US">
         <seg>Data</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051345Z" creationid="xccui" creationdate="20190612T051345Z">
-        <seg>Data</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050347Z" creationid="xccui" creationdate="20190612T051345Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -25817,8 +25817,8 @@
       <tuv lang="EN-US">
         <seg>Once the execution environment has been configured, it is time to do some actual work and start processing streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T050957Z" creationid="xccui" creationdate="20190612T050957Z">
-        <seg>在执行环境配置完后，就可以进行一些实质性的工作，正式开始处理数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050545Z" creationid="xccui" creationdate="20190612T050957Z">
+        <seg>在配置完执行环境后，我们就可以着手来做一些实质性的工作并正式开始处理数据流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31074,8 +31074,8 @@
       <tuv lang="EN-US">
         <seg>The StreamExecutionEnvironment provides methods to create stream sources that ingest data streams into the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051229Z" creationid="xccui" creationdate="20190612T051229Z">
-        <seg>StreamExecutionEnvironment提供了一些创建流式数据源的方法，可以将数据流读取到应用中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050620Z" creationid="xccui" creationdate="20190612T051229Z">
+        <seg>StreamExecutionEnvironment提供了一些创建流式数据源的方法，用来将数据流读取到应用中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31898,8 +31898,8 @@
       <tuv lang="EN-US">
         <seg>The execution</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051339Z" creationid="xccui" creationdate="20190612T051339Z">
-        <seg>The execution</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050338Z" creationid="xccui" creationdate="20190612T051339Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
