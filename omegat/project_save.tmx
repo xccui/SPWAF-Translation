@@ -33744,6 +33744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The run() method is called once by Flink and runs in a dedicated source thread, typically reading or receiving data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151454Z" creationid="xccui" creationdate="20190712T151454Z">
+        <seg>run()方法只会在Flink中调用一次，后者会专门为它开一个常用来读取或接收数据的线程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The run() method is doing the actual work of reading or receiving records and ingesting them into a Flink application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151024Z" creationid="xccui" creationdate="20190712T151024Z">
