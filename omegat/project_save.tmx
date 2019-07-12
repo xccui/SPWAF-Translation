@@ -6672,8 +6672,8 @@
       <tuv lang="EN-US">
         <seg>A counterexample is a source connector that reads data from a network socket, which immediately discards delivered the data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T160407Z" creationid="xccui" creationdate="20190712T160407Z">
-        <seg>而反例是从网络套接字读取数据的数据源连接器，前者会在数据传递后立即将其丢弃。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T160438Z" creationid="xccui" creationdate="20190712T160407Z">
+        <seg>反例是从网络套接字读取数据的数据源连接器，前者会在数据传递后立即将其丢弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7314,6 +7314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034220Z" creationid="xccui" creationdate="20190607T034220Z">
         <seg>源函数会发出一条记录流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A source function that supports output replay needs to be integrated with Flink’s checkpointing mechanism and must persist all current reading positions when a checkpoint is taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T161204Z" creationid="xccui" creationdate="20190712T161204Z">
+        <seg>支持输出重放的数据源函数需要和Flink的检查点机制集成，并在生成检查点时持久化所有当前的读取位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14465,8 +14473,8 @@
       <tuv lang="EN-US">
         <seg>Examples of such systems are filesystems that provide the offset of a file stream and a seek method to move a file stream to a specific position or Apache Kafka, which provides offsets for each parti‐ tion of a topic and can set the reading position of a partition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T160106Z" creationid="xccui" creationdate="20190712T160106Z">
-        <seg>例如：文件系统提供了文件流的读取偏移，并支持通过seek方法将文件流移动到特定位置；Apache Kafka提供了主题下每个分区的偏移地址，并允许我们为设置分区的读取位置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T160426Z" creationid="xccui" creationdate="20190712T160106Z">
+        <seg>例如：文件系统可提供文件流的读取偏移，并支持通过seek方法将文件流移动到特定位置；Apache Kafka可提供主题下每个分区的偏移地址，并允许我们设置分区的读取位置。</seg>
       </tuv>
     </tu>
     <tu>
