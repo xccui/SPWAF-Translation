@@ -6744,8 +6744,8 @@
       <tuv lang="EN-US">
         <seg>A filter operation that only retains white values</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052343Z" creationid="xccui" creationdate="20190613T052343Z">
-        <seg>仅保留白色值的filter操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055741Z" creationid="xccui" creationdate="20190613T052343Z">
+        <seg>仅保留白色值的Filter操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13793,8 +13793,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-10 shows a reduce lambda function that computes the mininum tempera‐ ture per sensor every 15 seconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002241Z" creationid="xccui" creationdate="20190624T002241Z">
-        <seg>示例6-10展示的lambda函数会计算每15秒的最低温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055938Z" creationid="xccui" creationdate="20190624T002241Z">
+        <seg>示例6-10展示的Lambda函数会计算每15秒的最低温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18697,8 +18697,8 @@
       <tuv lang="EN-US">
         <seg>However, in certain situations, such as lambda functions or generic types, it is necessary to explicitly provide type information to make an application work or improve its performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065250Z" creationid="xccui" creationdate="20190616T064538Z">
-        <seg>但在某些情况下，例如使用了lambda函数或泛型类型，则必须显式指定类型信息才能启动应用或提高其性能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055918Z" creationid="xccui" creationdate="20190616T064538Z">
+        <seg>但在某些情况下，例如使用了Lambda函数或泛型类型，则必须显式指定类型信息才能启动应用或提高其性能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23985,8 +23985,8 @@
       <tuv lang="EN-US">
         <seg>Lambda functions are avail‐ able for Scala and Java and offer a simple and concise way to implement application logic when no advanced operations such as accessing state and configuration are required.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055802Z" creationid="xccui" creationdate="20190618T055802Z">
-        <seg>lambda函数可用于Scala或Java，它在不需要进行高级操作（例如访问状态或配置）的情况下提供了一种简洁明了的方式来实现应用逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055925Z" creationid="xccui" creationdate="20190618T055802Z">
+        <seg>Lambda函数可用于Scala或Java，它在不需要进行高级操作（例如访问状态或配置）的情况下提供了一种简洁明了的方式来实现应用逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24841,8 +24841,8 @@
       <tuv lang="EN-US">
         <seg>Most DataStream API methods accept lambda functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055552Z" creationid="xccui" creationdate="20190618T055552Z">
-        <seg>大多数DataStream API的方法都接收lambda函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055922Z" creationid="xccui" creationdate="20190618T055552Z">
+        <seg>大多数DataStream API的方法都接收Lambda函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31370,8 +31370,8 @@
       <tuv lang="EN-US">
         <seg>The boolean condition is implemented as a function either using the FilterFunction interface or a lambda function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052627Z" creationid="xccui" creationdate="20190613T052627Z">
-        <seg>可以利用FilterFunction接口或lambda函数来实现定义布尔条件的函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055913Z" creationid="xccui" creationdate="20190613T052627Z">
+        <seg>可以利用FilterFunction接口或Lambda函数来实现定义布尔条件的函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32202,8 +32202,8 @@
       <tuv lang="EN-US">
         <seg>The following example show a lambda function that filters tweets contain‐ ing the word “flink”:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055838Z" creationid="xccui" creationdate="20190618T055838Z">
-        <seg>下面示例中的lambda函数会过滤出所有包含"flink"一词的推文：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055928Z" creationid="xccui" creationdate="20190618T055838Z">
+        <seg>下面示例中的Lambda函数会过滤出所有包含"flink"一词的推文：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32786,16 +32786,16 @@
       <tuv lang="EN-US">
         <seg>The lambda function r =&gt; r.id extracts the id field of a sensor reading r.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051842Z" creationid="xccui" creationdate="20190614T051803Z">
-        <seg>lambda函数r =&gt; r.id表示从传感器读数r中提取id字段。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055915Z" creationid="xccui" creationdate="20190614T051803Z">
+        <seg>Lambda函数r =&gt; r.id表示从传感器读数r中提取id字段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The lambda reduce function forwards the first tuple field (the key field) and concate‐ nates the List[String] values of the second tuple field.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062552Z" creationid="xccui" creationdate="20190614T062552Z">
-        <seg>用于reduce的lambda函数会直接转发第1个字段（键值字段），而将所有第2个字段中的List[String]值连接合并起来。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055917Z" creationid="xccui" creationdate="20190614T062552Z">
+        <seg>用于reduce的Lambda函数会直接转发第1个字段（键值字段），而将所有第2个字段中的List[String]值连接合并起来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34570,8 +34570,8 @@
       <tuv lang="EN-US">
         <seg>There are rich versions of all the DataStream API transformation functions, and you can use them in the same places you can use a regular function or lambda function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060440Z" creationid="xccui" creationdate="20190618T060440Z">
-        <seg>DataStream API中的所有转换函数都有对应的富函数，它们能够的使用位置和普通函数以及lambda函数相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055932Z" creationid="xccui" creationdate="20190618T060440Z">
+        <seg>DataStream API中的所有转换函数都有对应的富函数，它们能够的使用位置和普通函数以及Lambda函数相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40619,8 +40619,8 @@
       <tuv lang="EN-US">
         <seg>a filter operation that only preserves white squares.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052257Z" creationid="xccui" creationdate="20190613T052257Z">
-        <seg>图5-2展示的filter操作仅保留了白色方块。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055726Z" creationid="xccui" creationdate="20190613T052257Z">
+        <seg>图5-2展示的Filter操作仅保留了白色方块。</seg>
       </tuv>
     </tu>
     <tu>
