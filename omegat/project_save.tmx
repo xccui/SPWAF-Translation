@@ -11649,8 +11649,8 @@
       <tuv lang="EN-US">
         <seg>Considering the color of the input event as the key, Figure 5-4 assigns black events to one partition and all other events to another partition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T051108Z" creationid="xccui" creationdate="20190614T051108Z">
-        <seg>我们假设以输入事件的颜色作为键值，在图5-4中会将所有黑色事件分到一个分区，而将其他事件分到另一个分区。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061607Z" creationid="xccui" creationdate="20190614T051108Z">
+        <seg>我们假设以输入事件的颜色作为键值，图5-4中将所有黑色事件分到一个任务，而将其他事件分到另一个任务。</seg>
       </tuv>
     </tu>
     <tu>
