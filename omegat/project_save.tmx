@@ -23831,6 +23831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just like the rich variants of processing functions,6 subclasses of RichSourceFunction and RichParallelSourceFunction can override the open() and close() methods and access a RuntimeContext that provides the number of parallel task instances and the index of the current instance, among other things.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T150653Z" creationid="xccui" creationdate="20190712T150653Z">
+        <seg>就像一系列处理函数的变种一样，RichSourceFunction和RichParallelSourceFunction允许它们的子类覆盖open()和close()方法，并提供RuntimeContext用以访问当前并行任务实例的数量以及当前实例的索引号等内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KEY key, Context ctx, Iterable&lt;IN&gt; vals, Collector&lt;OUT&gt; out) throws Exception;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010520Z" creationid="xccui" creationdate="20190624T010520Z">
@@ -30570,8 +30578,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides two interfaces to implement source connectors along with corresponding RichFunction abstract classes:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T145346Z" creationid="xccui" creationdate="20190712T145346Z">
-        <seg>DataStream API提供了两个接口和二者对应的RichFunction抽象类来实现数据源连接器：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T145834Z" creationid="xccui" creationdate="20190712T145346Z">
+        <seg>DataStream API提供了两个接口以及二者对应的RichFunction抽象类来实现数据源连接器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39957,6 +39965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193617Z" creationid="xccui" creationdate="20190606T201749Z">
         <seg>在Shuffle或广播连接的情况下，每个发送任务都需要为每个接收任务提供一个缓冲区，因此所需的缓冲区数量可达到相关算子任务数的平方级别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the exception of being nonparallel and parallel, both interfaces are identical.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T145958Z" creationid="xccui" creationdate="20190712T145819Z">
+        <seg>除了并行和非并行外，两个接口没什么区别。</seg>
       </tuv>
     </tu>
     <tu>
