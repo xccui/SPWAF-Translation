@@ -28706,8 +28706,8 @@
       <tuv lang="EN-US">
         <seg>Since this state is never cleaned up, you should only apply a rolling aggregations operator on a stream with a bounded key domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061231Z" creationid="xccui" creationdate="20190614T061231Z">
-        <seg>由于这些状态不会被自动清理，所以只能在键值域有限的流上使用滚动聚合算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T062246Z" creationid="xccui" creationdate="20190614T061231Z">
+        <seg>由于这些状态不会被自动清理，所以你只能在键值域有限的流上使用滚动聚合算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33314,8 +33314,8 @@
       <tuv lang="EN-US">
         <seg>The output of the example is (1,2,2) followed by (1,7,2) for the key “1” and (2,3,1) followed by (2,5,1) for the key “2.” The first</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T055333Z" creationid="xccui" creationdate="20190614T055254Z">
-        <seg>示例对于键值"1"首先输出(1,2,2)，然后是(1,7,2)；对于键值"2"首先输出(2,3,1)然后是(2,5,1)。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T062202Z" creationid="xccui" creationdate="20190614T055254Z">
+        <seg>示例对于键值"1"首先输出(1,2,2)，然后是(1,7,2)；对于键值"2"首先输出(2,3,1)，然后是(2,5,1)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42219,8 +42219,8 @@
       <tuv lang="EN-US">
         <seg>field is the common key, the second field is the sum, and the third field is not defined.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T060228Z" creationid="xccui" creationdate="20190614T060228Z">
-        <seg>结果中的第1个字段是键值，第2个字段是总和，第3个字段没有定义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T062218Z" creationid="xccui" creationdate="20190614T060228Z">
+        <seg>结果中的第一个字段是键值，第二个字段是总和，第三个字段没有定义。</seg>
       </tuv>
     </tu>
     <tu>
