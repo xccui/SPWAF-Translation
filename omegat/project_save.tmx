@@ -25857,8 +25857,8 @@
       <tuv lang="EN-US">
         <seg>Once we have a DataStream, we can apply a transformation on it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052239Z" creationid="xccui" creationdate="20190612T052239Z">
-        <seg>一旦得到了DataStream，我们就可以对它进行转换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051035Z" creationid="xccui" creationdate="20190612T052239Z">
+        <seg>一旦得到了DataStream对象，我们就可以对它应用转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32570,8 +32570,8 @@
       <tuv lang="EN-US">
         <seg>The implementation details of SensorTimeAssigner</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052836Z" creationid="xccui" creationdate="20190612T052147Z">
-        <seg>现在无须关心SensorTimeAssigner的实现细节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051005Z" creationid="xccui" creationdate="20190612T052147Z">
+        <seg>你现在还无须关心SensorTimeAssigner的实现细节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32850,8 +32850,8 @@
       <tuv lang="EN-US">
         <seg>The logic of an application is defined by chaining transformations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053100Z" creationid="xccui" creationdate="20190612T052904Z">
-        <seg>应用的逻辑是通过一系列转换来定义的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051134Z" creationid="xccui" creationdate="20190612T052904Z">
+        <seg>应用程序的逻辑是通过一系列转换来定义的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34546,8 +34546,8 @@
       <tuv lang="EN-US">
         <seg>There are different types of transformations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052719Z" creationid="xccui" creationdate="20190612T052303Z">
-        <seg>转换的类型多种多样。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051051Z" creationid="xccui" creationdate="20190612T052303Z">
+        <seg>转换的类型多种多样：</seg>
       </tuv>
     </tu>
     <tu>
