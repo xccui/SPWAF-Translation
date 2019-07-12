@@ -33746,8 +33746,8 @@
       <tuv lang="EN-US">
         <seg>The run() method is called once by Flink and runs in a dedicated source thread, typically reading or receiving data</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151454Z" creationid="xccui" creationdate="20190712T151454Z">
-        <seg>run()方法只会在Flink中调用一次，后者会专门为它开一个常用来读取或接收数据的线程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151645Z" creationid="xccui" creationdate="20190712T151454Z">
+        <seg>run()方法只会在Flink中调用一次，后者会专门为它开一个的线程，该线程通常会循环读取或接收数据并将它们发出（无限流）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34132,6 +34132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T033323Z" creationid="xccui" creationdate="20190415T033225Z">
         <seg>系统需要高效地管理状态并保证它们在面对并发更新时不会出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The task can be explicitly canceled at some point in time or terminated in the case of a finite stream when the input is fully consumed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151919Z" creationid="xccui" creationdate="20190712T151919Z">
+        <seg>其任务可以在某个时间点被显式取消，或是在有限流的情况下待数据完全消费完毕后自动终止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40844,6 +40852,14 @@
         <seg>and deserialization methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055451Z" creationid="xccui" creationdate="20190618T055451Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and emitting records in an endless loop (infinite stream).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T151647Z" creationid="xccui" creationdate="20190712T151647Z">
         <seg></seg>
       </tuv>
     </tu>
