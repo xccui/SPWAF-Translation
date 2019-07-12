@@ -13585,8 +13585,8 @@
       <tuv lang="EN-US">
         <seg>Every record contains an average temperature of a sensor over a period of 5 seconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054643Z" creationid="xccui" creationdate="20190612T054622Z">
-        <seg>每条记录都会包含对应传感器在5秒内的平均温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051811Z" creationid="xccui" creationdate="20190612T054622Z">
+        <seg>其每条记录都会包含对应传感器在5秒内的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21289,8 +21289,8 @@
       <tuv lang="EN-US">
         <seg>In our example, the result is a DataStream[SensorReading] record.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054549Z" creationid="xccui" creationdate="20190612T054549Z">
-        <seg>在所给示例中，结果是DataStream[SensorReading]中的记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051745Z" creationid="xccui" creationdate="20190612T054549Z">
+        <seg>在所给示例中，输出结果是DataStream[SensorReading]中的记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34538,8 +34538,8 @@
       <tuv lang="EN-US">
         <seg>There are also applications that do not emit results but keep them internally to serve them via Flink’s queryable state feature.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054456Z" creationid="xccui" creationdate="20190612T054456Z">
-        <seg>还有一些应用不会发出结果，而是将它们保存在内部，利用Flink的可查询状态功能对外提供服务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051625Z" creationid="xccui" creationdate="20190612T054456Z">
+        <seg>还有一些应用不会发出结果，而是将它们保存在内部，利用Flink的可查询式状态（queryable state）功能对外提供服务。</seg>
       </tuv>
     </tu>
     <tu>
