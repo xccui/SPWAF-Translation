@@ -9985,8 +9985,8 @@
       <tuv lang="EN-US">
         <seg>Basic transformations are transformations on individual events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T065149Z" creationid="xccui" creationdate="20190613T024209Z">
-        <seg>基本转换是作用于单条事件的转换；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054628Z" creationid="xccui" creationdate="20190613T024209Z">
+        <seg>作用于单个事件的基本转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12641,8 +12641,8 @@
       <tuv lang="EN-US">
         <seg>Distribution transformations reorganize stream events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024707Z" creationid="xccui" creationdate="20190613T024707Z">
-        <seg>分发转换会将流中的事件重新组织。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054724Z" creationid="xccui" creationdate="20190613T024707Z">
+        <seg>对流中的事件进行重新组织的分发转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23953,8 +23953,8 @@
       <tuv lang="EN-US">
         <seg>KeyedStream transformations are transformations that are applied to events in the context of a key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024555Z" creationid="xccui" creationdate="20190613T024408Z">
-        <seg>KeyedStream转换是作用于同一键值上下文内事件的转换；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054651Z" creationid="xccui" creationdate="20190613T024408Z">
+        <seg>作用于同一键值上下文内事件的KeyedStream转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24913,8 +24913,8 @@
       <tuv lang="EN-US">
         <seg>Multistream transformations merge multiple streams into one stream or split one stream into multiple streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024606Z" creationid="xccui" creationdate="20190613T024521Z">
-        <seg>多流转换会将多条数据流合并为一条或将一条数据流拆分成多条；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054711Z" creationid="xccui" creationdate="20190613T024521Z">
+        <seg>将多条数据流合并为一条或将一条数据流拆分成多条的多流转换。</seg>
       </tuv>
     </tu>
     <tu>
