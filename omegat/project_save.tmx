@@ -7112,8 +7112,8 @@
       <tuv lang="EN-US">
         <seg>A rolling aggregation does not require a user-defined func‐ tion but receives an argument that specifies on which field the aggregate is computed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052539Z" creationid="xccui" creationdate="20190614T052539Z">
-        <seg>虽然滚动聚合不需要用户自定义函数，但需要接收一个用于指定聚合计算字段的参数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061924Z" creationid="xccui" creationdate="20190614T052539Z">
+        <seg>滚动聚合虽然不需要用户自定义函数，但需要接收一个用于指定聚合目标字段的参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7128,8 +7128,8 @@
       <tuv lang="EN-US">
         <seg>A rolling aggre‐ gate operator keeps an aggregated value for every observed key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052118Z" creationid="xccui" creationdate="20190614T052118Z">
-        <seg>滚动聚合算子会对每一个遇到的键值保存一个聚合结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061807Z" creationid="xccui" creationdate="20190614T052118Z">
+        <seg>滚动聚合算子会对每一个遇到过的键值保存一个聚合结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27634,8 +27634,8 @@
       <tuv lang="EN-US">
         <seg>Rolling aggregation transformations are applied on a KeyedStream and produce a DataStream of aggregates, such as sum, minimum, and maximum.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052018Z" creationid="xccui" creationdate="20190614T052018Z">
-        <seg>滚动聚合转换作用于KeyedStream上，生成包含聚合结果（例如求和、最小值、最大值等）的DataStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061731Z" creationid="xccui" creationdate="20190614T052018Z">
+        <seg>滚动聚合转换作用于KeyedStream上，生成一个包含聚合结果（例如求和、最小值、最大值等）的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41995,8 +41995,8 @@
       <tuv lang="EN-US">
         <seg>event, the operator updates the corresponding aggregate value and emits an event with the updated value.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052402Z" creationid="xccui" creationdate="20190614T052132Z">
-        <seg>每到来一个事件，该算子都会更新相应的聚合结果，并将它以事件形式发送出去。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061840Z" creationid="xccui" creationdate="20190614T052132Z">
+        <seg>每当有新事件到来，该算子都会更新相应的聚合结果，并将它以事件的形式发送出去。</seg>
       </tuv>
     </tu>
     <tu>
