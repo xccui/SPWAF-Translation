@@ -24145,8 +24145,8 @@
       <tuv lang="EN-US">
         <seg>Let’s start with a simple example to get a first impression of what it is like to write streaming applications with the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035305Z" creationid="xccui" creationdate="20190612T035028Z">
-        <seg>让我们从一个简单的示例开始，来感受使用DataStream API编写流式应用的第一印象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T040743Z" creationid="xccui" creationdate="20190612T035028Z">
+        <seg>让我们从一个简单的示例开始，体验一下使用DataStream API编写流式应用的感觉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26442,8 +26442,8 @@
       <tuv lang="EN-US">
         <seg>Our code exam‐ ples use Scala for conciseness, but the Java API is mostly analogous (exceptions or special cases will be pointed out).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T034526Z" creationid="xccui" creationdate="20190612T034526Z">
-        <seg>出于简洁考虑，我们的示例代码还会选用Scala版本，但绝大多数的Java API都是类似的（如果有异常或特殊情况会指出）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T035509Z" creationid="xccui" creationdate="20190612T034526Z">
+        <seg>出于简洁考虑，我们的示例代码还会以Scala版本为主，但绝大多数的Java API都与之类似（如果有例外或特殊情况会指出）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39859,8 +39859,8 @@
       <tuv lang="EN-US">
         <seg>Window operators, time-based transformations, stateful operators, and connectors are discussed in the next chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032830Z" creationid="xccui" creationdate="20190612T032454Z">
-        <seg>有关窗口算子、基于时间的转换、状态化算子和连接器的内容将在接下来的几章讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T035352Z" creationid="xccui" creationdate="20190612T032454Z">
+        <seg>有关窗口算子、基于时间的转换、状态化算子以及连接器的内容将在接下来的几章讨论。</seg>
       </tuv>
     </tu>
     <tu>
