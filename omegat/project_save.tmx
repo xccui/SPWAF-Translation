@@ -20857,8 +20857,8 @@
       <tuv lang="EN-US">
         <seg>In fact, the flatMap transformation is a gener‐ alization of filter and map and can be used to implement both those operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053755Z" creationid="xccui" creationdate="20190613T053755Z">
-        <seg>事实上，flatMap转换可以看做是filter和map的泛化，能够实现它们二者的操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060228Z" creationid="xccui" creationdate="20190613T053755Z">
+        <seg>事实上，flatMap转换可以看做是filter和map的泛化，它能够实现后两者的操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31026,8 +31026,8 @@
       <tuv lang="EN-US">
         <seg>The Scala DataStream API also has built-in support for lambda functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022408Z" creationid="xccui" creationdate="20190613T022402Z">
-        <seg>Scala DataStream API同样内置了对lambda函数的支持。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060002Z" creationid="xccui" creationdate="20190613T022402Z">
+        <seg>Scala DataStream API同样内置了对Lambda函数的支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32218,8 +32218,8 @@
       <tuv lang="EN-US">
         <seg>The following example shows a filter that drops all sensor measurements with tem‐ perature below 25°F:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053205Z" creationid="xccui" creationdate="20190613T053205Z">
-        <seg>下方示例所展示的filter会丢弃所有温度低于25°F的传感器测量值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060139Z" creationid="xccui" creationdate="20190613T053205Z">
+        <seg>下方例子所展示的filter会丢弃所有温度低于25°F的传感器测量值：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39115,8 +39115,8 @@
       <tuv lang="EN-US">
         <seg>When presenting the transformations of the DataStream API, we show the interfaces for all function classes, but mostly use lambda functions instead of function classes in code examples for brevity.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022839Z" creationid="xccui" creationdate="20190613T022648Z">
-        <seg>在介绍DataStream API的转换时，我们会展示所有函数类的接口。但出于简洁考虑，在绝大多数示例代码中我们会使用lambda函数而不是函数类。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060004Z" creationid="xccui" creationdate="20190613T022648Z">
+        <seg>在介绍DataStream API的转换时，我们会展示所有函数类的接口。但出于简洁考虑，在绝大多数示例代码中我们会使用Lambda函数而不是函数类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39403,8 +39403,8 @@
       <tuv lang="EN-US">
         <seg>When using the Scala API or Java 8, the mapper can also be expressed as a lambda function:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055426Z" creationid="xccui" creationdate="20190613T051123Z">
-        <seg>如果使用Scala API或Java 8，你还可以通过lambda函数来表示映射器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060005Z" creationid="xccui" creationdate="20190613T051123Z">
+        <seg>如果使用Scala API或Java 8，你还可以通过Lambda函数来表示映射器。</seg>
       </tuv>
     </tu>
     <tu>
