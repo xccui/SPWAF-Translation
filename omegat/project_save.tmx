@@ -38466,8 +38466,8 @@
       <tuv lang="EN-US">
         <seg>We will discuss this topic in more detail in “Application Consistency Guarantees” on page 184.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005758Z" creationid="xccui" creationdate="20190613T005758Z">
-        <seg>我们会在184页"应用一致性保障"一节详细讨论这一话题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051940Z" creationid="xccui" creationdate="20190613T005758Z">
+        <seg>我们会在184页"应用一致性保障"中详细讨论这一话题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39219,8 +39219,8 @@
       <tuv lang="EN-US">
         <seg>When the application has been completely defined, it can be executed by call‐ ing StreamExecutionEnvironment.execute().</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005845Z" creationid="xccui" creationdate="20190613T005845Z">
-        <seg>当应用定义完成后就可以通过调用StreamExecutionEnvironment.execute()来执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052027Z" creationid="xccui" creationdate="20190613T005845Z">
+        <seg>在应用定义完成后，你就可以调用StreamExecutionEnvironment.execute()来执行它。</seg>
       </tuv>
     </tu>
     <tu>
