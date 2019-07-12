@@ -25329,8 +25329,8 @@
       <tuv lang="EN-US">
         <seg>Note that the choice of a streaming sink affects the end-to-end con‐ sistency of an application, whether the result of the application is provided with at-least once or exactly-once semantics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005523Z" creationid="xccui" creationdate="20190613T005523Z">
-        <seg>注意，无论应用结果是至少一次语义还是精确一次语义，流式数据汇的选择都将影响应用端到端的一致性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051916Z" creationid="xccui" creationdate="20190613T005523Z">
+        <seg>注意，无论应用结果是至少一次语义还是精确一次语义，流式数据汇的选择都将影响应用端到端的一致性（end-to-end consistency）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33666,8 +33666,8 @@
       <tuv lang="EN-US">
         <seg>The result stream is written to the standard output by calling print():</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T022726Z" creationid="xccui" creationdate="20190612T054705Z">
-        <seg>通过调用print()将写过写到标准输出：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051844Z" creationid="xccui" creationdate="20190612T054705Z">
+        <seg>我们通过调用print()方法将结果写到标准输出：</seg>
       </tuv>
     </tu>
     <tu>
