@@ -24849,8 +24849,8 @@
       <tuv lang="EN-US">
         <seg>Most commonly, this is done in a static</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043215Z" creationid="xccui" creationdate="20190612T043110Z">
-        <seg>大多数情况下，这些工作都会在静态的main方法中完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T045549Z" creationid="xccui" creationdate="20190612T043110Z">
+        <seg>大多数情况下，这些工作都会在静态的main()方法中完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36642,8 +36642,8 @@
       <tuv lang="EN-US">
         <seg>To structure a typical Flink streaming application:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T043456Z" creationid="xccui" creationdate="20190612T043456Z">
-        <seg>构建一个典型的Flink流式应用需要以下步骤：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T045708Z" creationid="xccui" creationdate="20190612T043456Z">
+        <seg>构建一个典型的Flink流式应用需要以下几步：</seg>
       </tuv>
     </tu>
     <tu>
