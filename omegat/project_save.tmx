@@ -38322,8 +38322,8 @@
       <tuv lang="EN-US">
         <seg>We show the structure and components of a typical Flink streaming application, discuss Flink’s type systems and the supported data types, and present data and partitioning transformations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032259Z" creationid="xccui" creationdate="20190612T032259Z">
-        <seg>我们会介绍典型Flink流式应用的结构及组件，讨论Flink的类型系统和支持的数据类型，并展示数据转换和分区转换操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T035324Z" creationid="xccui" creationdate="20190612T032259Z">
+        <seg>我们将展示常见Flink流式应用的结构及组件，讨论Flink的类型系统和支持的数据类型并介绍数据转换（data transformation）和分区转换（partitioning transformation）操作。</seg>
       </tuv>
     </tu>
     <tu>
