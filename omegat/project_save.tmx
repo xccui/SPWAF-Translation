@@ -6616,8 +6616,8 @@
       <tuv lang="EN-US">
         <seg>A common requirement of many applications is to process groups of events that share a certain property together.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044428Z" creationid="xccui" creationdate="20190614T043547Z">
-        <seg>在很多应用中需要将事件按照某个属性分组后再进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060555Z" creationid="xccui" creationdate="20190614T043547Z">
+        <seg>很多应用需要将事件按照某个属性分组后再进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31634,8 +31634,8 @@
       <tuv lang="EN-US">
         <seg>The corre‐ sponding FlatMapFunction defines the flatMap() method, which may return zero, one, or more events as results by passing them to the Collector object:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061011Z" creationid="xccui" creationdate="20190613T055004Z">
-        <seg>对应的FlatMapFunction定义了flatMap()方法，可以通过向Collector对象中传递数据的方式返回零个、一个或多个事件作为结果：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060359Z" creationid="xccui" creationdate="20190613T055004Z">
+        <seg>对应的FlatMapFunction定义了flatMap()方法，你可以在其中通过向Collector对象传递数据的方式返回零个、一个或多个事件作为结果：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32394,8 +32394,8 @@
       <tuv lang="EN-US">
         <seg>The function is applied on a stream of sentences, splits each sentence by the space character, and emits each resulting word as an individual record:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T062259Z" creationid="xccui" creationdate="20190613T061921Z">
-        <seg>这个函数会作用于一个语句流上，将每个句子按照空格字符分割，然后把分割得到的每个单词作为一条独立的记录发出去：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060521Z" creationid="xccui" creationdate="20190613T061921Z">
+        <seg>这个函数会作用于一个语句流上，将每个语句按照空格字符分割，然后把分割得到的每个单词作为一条独立的记录发出去：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35386,8 +35386,8 @@
       <tuv lang="EN-US">
         <seg>This example shows a flatMap transformation commonly found in data processing tutorials.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061551Z" creationid="xccui" creationdate="20190613T061551Z">
-        <seg>以下示例展示了数据处理教程中一个常见的flagMap转换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060453Z" creationid="xccui" creationdate="20190613T061551Z">
+        <seg>下方例子展示了数据处理教程中一个常见的flagMap转换。</seg>
       </tuv>
     </tu>
     <tu>
