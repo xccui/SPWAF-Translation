@@ -15609,8 +15609,8 @@
       <tuv lang="EN-US">
         <seg>Finally, we apply a user-defined function that computes the average temperature on each window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053852Z" creationid="xccui" creationdate="20190612T053852Z">
-        <seg>最后我们用了一个用户自定义函数来计算每个窗口的平均温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051325Z" creationid="xccui" creationdate="20190612T053852Z">
+        <seg>最后我们使用了一个用户自定义函数（user-defined function）来计算每个窗口的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24993,8 +24993,8 @@
       <tuv lang="EN-US">
         <seg>Next, we define a timeWindow() transfor‐ mation, which groups the sensor readings of each sensor ID partition into tumbling</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053740Z" creationid="xccui" creationdate="20190612T053715Z">
-        <seg>接下来我们通过timeWindow()转换，在每个传感器ID分区都将读数划分为5秒一次的滚动窗口：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051219Z" creationid="xccui" creationdate="20190612T053715Z">
+        <seg>接下来我们通过timeWindow()转换，针对每个传感器ID分区都将读数划分为5秒一次的滚动窗口：</seg>
       </tuv>
     </tu>
     <tu>
