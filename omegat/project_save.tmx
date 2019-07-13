@@ -23593,8 +23593,8 @@
       <tuv lang="EN-US">
         <seg>It is also possible to explicitly create local or remote execution environments as fol‐ lows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050050Z" creationid="xccui" creationdate="20190612T045513Z">
-        <seg>同时你也可以像下面这样显式地创建一个本地或远程执行环境：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052452Z" creationid="xccui" creationdate="20190612T045513Z">
+        <seg>同时你也可以像下面这样显式指定本地或远程执行环境：</seg>
       </tuv>
     </tu>
     <tu>
