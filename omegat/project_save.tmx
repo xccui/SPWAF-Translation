@@ -44025,6 +44025,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>offsetState.add(cnt)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034205Z" creationid="xccui" creationdate="20190713T034205Z">
+        <seg>offsetState.add(cnt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>offsetState.clear()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034124Z" creationid="xccui" creationdate="20190713T034124Z">
@@ -44349,6 +44357,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044223Z" creationid="xccui" creationdate="20190626T044223Z">
         <seg>override def getWindowSerializer(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def initializeState(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034459Z" creationid="xccui" creationdate="20190713T034459Z">
+        <seg>override def initializeState(</seg>
       </tuv>
     </tu>
     <tu>
