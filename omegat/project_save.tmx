@@ -43763,8 +43763,8 @@
       <tuv lang="EN-US">
         <seg>map1() and flatMap1() are called to process an event of the first input and map2() and flat Map2() are invoked to process an event of the second input:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062039Z" creationid="xccui" creationdate="20190615T041435Z">
-        <seg>map1()和flatMap1()用来处理第一个输入流的事件；map2()和flatMap2()用来处理第二个输入流的事件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062052Z" creationid="xccui" creationdate="20190615T041435Z">
+        <seg>map1()和flatMap1()用来处理第一个输入流的事件，map2()和flatMap2()用来处理第二个输入流的事件：</seg>
       </tuv>
     </tu>
     <tu>
