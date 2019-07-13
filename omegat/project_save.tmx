@@ -36680,6 +36680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Timestamps and watermarks can be assigned and generate by a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T035441Z" creationid="xccui" creationdate="20190713T035246Z">
+        <seg>它们可以通过一个专门的TimestampAssigner（请参阅"分配时间戳和生成水位线"一节）或在数据源函数中完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timestamps and watermarks for event-time applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023039Z" creationid="xccui" creationdate="20190225T023039Z">
@@ -37994,8 +38002,8 @@
       <tuv lang="EN-US">
         <seg>Watermarks”, the DataStream API provides two options to assign timestamps and generate watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034830Z" creationid="xccui" creationdate="20190713T034830Z">
-        <seg>DataStream API提供了两种分配时间戳和生成水位线的选项。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T035234Z" creationid="xccui" creationdate="20190713T034830Z">
+        <seg>DataStream API为分配时间戳和生成水位线提供了两种可选方式。</seg>
       </tuv>
     </tu>
     <tu>
