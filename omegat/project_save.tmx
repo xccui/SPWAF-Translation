@@ -14359,6 +14359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-11 makes the CountSource of Example 8-10 resettable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033850Z" creationid="xccui" creationdate="20190713T033850Z">
+        <seg>示例8-11为示例8-10中的CountSource添加了可重置功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 8-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171118Z" creationid="xccui" creationdate="20190708T171118Z">
@@ -35752,6 +35760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is done by guarding the code in run() that advances</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174313Z" creationid="xccui" creationdate="20190712T174313Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is fine for some applications, but what if you are only interested in the most recent data?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043032Z" creationid="xccui" creationdate="20190406T042859Z">
@@ -45659,8 +45675,8 @@
       <tuv lang="EN-US">
         <seg>the reading position and emits records in a block that synchronizes on a lock object,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174310Z" creationid="xccui" creationdate="20190712T174310Z">
-        <seg>为此可以利用SourceContext.getCheckpointLock()获得一个锁对象，并用它对run()方法中推进偏移和发出数据的代码块进行同步处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174412Z" creationid="xccui" creationdate="20190712T174310Z">
+        <seg>为此，可以通过SourceContext.getCheckpointLock()方法获取一个锁对象，并用它对run()方法中推进偏移和发出数据的代码块进行同步处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47549,6 +47565,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040424Z" creationid="xccui" creationdate="20190611T040424Z">
         <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which is obtained from the SourceContext.getCheckpointLock() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174317Z" creationid="xccui" creationdate="20190712T174317Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
