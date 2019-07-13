@@ -25105,8 +25105,8 @@
       <tuv lang="EN-US">
         <seg>Most function interfaces are designed as SAM (single abstract method) interfaces and they can be implemented as Java 8 lambda functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054418Z" creationid="xccui" creationdate="20190613T022250Z">
-        <seg>大多数函数接口都被设计为SAM（single abstract method 单一抽象方法）形式的，因此可以通过Java 8的labmda函数实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053424Z" creationid="xccui" creationdate="20190613T022250Z">
+        <seg>大多数函数接口都被设计为SAM（single abstract method 单一抽象方法）形式的，因此可以通过Java 8的Labmda函数实现。</seg>
       </tuv>
     </tu>
     <tu>
