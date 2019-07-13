@@ -13729,8 +13729,8 @@
       <tuv lang="EN-US">
         <seg>Every input event is emitted to the next operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064709Z" creationid="xccui" creationdate="20190614T064709Z">
-        <seg>每个输入消息都会发给下游算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061221Z" creationid="xccui" creationdate="20190614T064709Z">
+        <seg>每个输入消息都会被发至下游算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31578,8 +31578,8 @@
       <tuv lang="EN-US">
         <seg>The application receives the stream of temperature sensor readings you have seen previously and an additional stream of smoke level measurements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T035958Z" creationid="xccui" creationdate="20190615T035958Z">
-        <seg>该应用会接收一条包含之前所见全部温度传感器读数的数据流，以及另外一条烟雾水平测量值数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061553Z" creationid="xccui" creationdate="20190615T035958Z">
+        <seg>该应用会接收一条包含之前所见到的全部温度传感器读数的数据流，以及另外一条烟雾水平测量值数据流。</seg>
       </tuv>
     </tu>
     <tu>
