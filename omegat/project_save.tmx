@@ -28994,8 +28994,8 @@
       <tuv lang="EN-US">
         <seg>Since this state is never cleaned up, you should only apply a rolling reduce operator on a stream with a bounded key domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062950Z" creationid="xccui" creationdate="20190614T062950Z">
-        <seg>由于这些状态不会被自动清理，所以只能在键值域有限的流上使用滚动reduce算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060117Z" creationid="xccui" creationdate="20190614T062950Z">
+        <seg>由于这些状态不会被自动清理，所以该算子只能用于键值域有限的流。</seg>
       </tuv>
     </tu>
     <tu>
