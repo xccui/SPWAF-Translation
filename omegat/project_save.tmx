@@ -47963,8 +47963,8 @@
       <tuv lang="EN-US">
         <seg>way to perform a lightweight load rebalance when the number of sender and receiver tasks is not the same.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043851Z" creationid="xccui" creationdate="20190616T043851Z">
-        <seg>本质上看，重调分区策略为发送端和接收端任务不等的情况提供了一种轻量级的负载平衡方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T065356Z" creationid="xccui" creationdate="20190616T043851Z">
+        <seg>本质上看，重调分区策略为发送端和接收端任务不等的情况提供了一种轻量级的负载均衡方法。</seg>
       </tuv>
     </tu>
     <tu>
