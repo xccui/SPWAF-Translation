@@ -8998,6 +8998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another problem source functions have to deal with are instances that become idle and do not emit anymore data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T042254Z" creationid="xccui" creationdate="20190713T042254Z">
+        <seg>数据源函数要面对的另一个问题是那些空闲下来不再发出数据的实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another state backend serializes state objects and puts them into RocksDB, which writes them to local hard disks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T052613Z" creationid="xccui" creationdate="20190608T052302Z">
@@ -25121,8 +25129,8 @@
       <tuv lang="EN-US">
         <seg>Multiplexing records most likely introduces additional out-of-orderness with respect to the event-time timestamps such that a downstream timestamp assigner might produce more late records than expected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041149Z" creationid="xccui" creationdate="20190713T040918Z">
-        <seg>混合记录有极大可能导致事件时间戳进一步乱序，从而使下游时间戳分配器产生多于预期的迟到记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041831Z" creationid="xccui" creationdate="20190713T040918Z">
+        <seg>混合记录有极大可能导致事件时间戳进一步乱序，从而使下游时间戳分配器产生更多的迟到记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36298,8 +36306,8 @@
       <tuv lang="EN-US">
         <seg>This way, it can ensure that the order guarantees on each partition are leveraged and no unnecessary late records are emitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041748Z" creationid="xccui" creationdate="20190713T041748Z">
-        <seg>这样的话它就可以保证</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T042102Z" creationid="xccui" creationdate="20190713T041748Z">
+        <seg>这样的话，它就可以充分利用每个分区的保序性，避免发出不必要的迟到记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36794,8 +36802,8 @@
       <tuv lang="EN-US">
         <seg>To avoid such behavior, a source function can generate watermarks for each stream partition independently and always emit the smallest watermark of its partitions as its watermark.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041729Z" creationid="xccui" creationdate="20190713T041729Z">
-        <seg>为了避免此类情况，数据源函数可以为每个数据流分区独立生成水位线，并以它们中的最小值作为整条数据流的水位线发出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041943Z" creationid="xccui" creationdate="20190713T041729Z">
+        <seg>为了避免该情况，数据源函数可以为每个数据流分区独立生成水位线，并将它们中的最小值作为整条数据流的水位线发出。</seg>
       </tuv>
     </tu>
     <tu>
