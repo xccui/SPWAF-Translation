@@ -26217,8 +26217,8 @@
       <tuv lang="EN-US">
         <seg>One restriction of the split transformation is that all outgoing streams are of the same type as the input type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064224Z" creationid="xccui" creationdate="20190615T064224Z">
-        <seg>split转换的一个限制是所有输出流的类型必须和输入流相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T064345Z" creationid="xccui" creationdate="20190615T064224Z">
+        <seg>split转换限制了所有输出流的类型必须和输入流相同。</seg>
       </tuv>
     </tu>
     <tu>
