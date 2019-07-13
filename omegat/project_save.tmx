@@ -18039,6 +18039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Given the case of a source function operator that runs with a parallelism of two and that reads data from a Kafka topic with six parti‐ tions, each parallel instance of the source function will read records from three Kafka topic partitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040640Z" creationid="xccui" creationdate="20190713T040640Z">
+        <seg>假设我们数据源函数算子的并行度为2，且需要从Kafka某主题的6个分区中读取数据，那么每个数据源函数的并行实例需要从3个分区读取记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Given the unpredictable reality of distributed systems and arbitrary delays that might be caused by external components, there are no categorically cor‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025236Z" creationid="xccui" creationdate="20190606T025236Z">
@@ -37460,6 +37468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T040551Z" creationid="xccui" creationdate="20190423T040305Z">
         <seg>通常情况下，是由外部资源管理器（如：Kubernetes）负责启动映像，并各类型容器都以指定数量运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, external systems, such as Kafka, only guarantee message order within a stream partition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040408Z" creationid="xccui" creationdate="20190713T040408Z">
+        <seg>通常情况下，像Kafka这样的外部系统只能保证单个数据流分区的消息顺序。</seg>
       </tuv>
     </tu>
     <tu>
