@@ -35538,8 +35538,8 @@
       <tuv lang="EN-US">
         <seg>This behavior yields nondeterministic results and is usually</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045745Z" creationid="xccui" creationdate="20190615T045745Z">
-        <seg>该行为会产生不确定的结果，而这往往并不是我们想要的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062739Z" creationid="xccui" creationdate="20190615T045745Z">
+        <seg>该行为会产生不确定的结果，而这往往并不是我们希望看到的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41483,8 +41483,8 @@
       <tuv lang="EN-US">
         <seg>between the events of both streams so events of both streams are randomly assigned to operator instances.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045555Z" creationid="xccui" creationdate="20190615T045451Z">
-        <seg>默认情况下，connect()方法不会在两个输入流的事件之间建立关联，因此所有事件都会随机分配给算子实例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062617Z" creationid="xccui" creationdate="20190615T045451Z">
+        <seg>默认情况下，connect()方法不会在两条输入流的事件之间建立联系，因此所有事件都会随机分配给算子实例。</seg>
       </tuv>
     </tu>
     <tu>
