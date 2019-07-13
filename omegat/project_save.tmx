@@ -10393,8 +10393,8 @@
       <tuv lang="EN-US">
         <seg>Both functions are typed on the types of the first and second input stream and on the type of the output stream and define two methods—one for each input.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041643Z" creationid="xccui" creationdate="20190615T041305Z">
-        <seg>两个函数的类型都是两条输入流的类型再加上数据流的类型，它们同时为两条输入流定义了各自的处理方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061913Z" creationid="xccui" creationdate="20190615T041305Z">
+        <seg>两个函数的类型参数都是两条输入流的类型外加输出流的类型，它们同时为两条输入流定义了各自的处理方法。</seg>
       </tuv>
     </tu>
     <tu>
