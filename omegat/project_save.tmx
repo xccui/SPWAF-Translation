@@ -20017,8 +20017,8 @@
       <tuv lang="EN-US">
         <seg>If you look at how Flink propagates and updates watermarks (see “Watermark Propagation and Event Time”), you can see that a single operator that does not advance watermarks can grind all watermarks of an</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043037Z" creationid="xccui" creationdate="20190713T043037Z">
-        <seg>你如果了解了Flink的水位线传播和更新原理，就会发现单个算子的水位线停滞</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043604Z" creationid="xccui" creationdate="20190713T043037Z">
+        <seg>你如果了解了Flink的水位线传播和更新原理就会发现，一旦应用中引入了Shuffle操作（keyBy()和rebalance()等），那么单个算子水位线的停滞就会导致整个应用停止工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28986,8 +28986,8 @@
       <tuv lang="EN-US">
         <seg>Since watermarks should be data driven, a watermark generator (either integrated in a source function or in a timestamp assigner) will not emit new water‐ marks if it does not receive input records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T042810Z" creationid="xccui" creationdate="20190713T042810Z">
-        <seg>由于水位线其实是数据驱动的，水位线生成器（无论是集成在数据源函数中的还是在时间戳分配器中的）如果收不到输入记录，就不会发出新的水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043042Z" creationid="xccui" creationdate="20190713T042810Z">
+        <seg>由于水位线其实是数据驱动的，水位线生成器（无论是集成在数据源函数中的还是在时间戳分配器中的）若是收不到输入记录，就不会发出新的水位线。</seg>
       </tuv>
     </tu>
     <tu>
