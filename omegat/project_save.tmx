@@ -10279,6 +10279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides removing the need for an additional operator, assigning timestamps and gen‐ erating watermarks in a source function can be beneficial if one parallel instance of a source function consumes records from multiple stream partitions, such as partitions of a Kafka topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040326Z" creationid="xccui" creationdate="20190713T040326Z">
+        <seg>在数据源函数中分配时间戳和生成水位线除了免去一个额外的算子外，还会在单个数据源并行实例从多个数据流分区（例如Kafka某主题的多个分区）中消费数据时受益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides the much shorter time needed for an event to be incorporated into an analyt‐ ics result, there is another, less obvious, advantage of streaming analytics applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155621Z" creationid="xccui" creationdate="20190605T044658Z">
@@ -29154,8 +29162,8 @@
       <tuv lang="EN-US">
         <seg>SourceContext provides the following methods:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T035640Z" creationid="xccui" creationdate="20190713T035640Z">
-        <seg>它提供了以下方法：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T035739Z" creationid="xccui" creationdate="20190713T035640Z">
+        <seg>它的类提供了以下方法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41817,6 +41825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>collectWithTimestamp() emits a record with its associated timestamp and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T035924Z" creationid="xccui" creationdate="20190713T035818Z">
+        <seg>collectWithTimestamp()用来发出记录和与之关联的时间戳；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>collects all events can become significantly larger than the state of a window whose</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034336Z" creationid="xccui" creationdate="20190625T034336Z">
@@ -42277,6 +42293,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034006Z" creationid="xccui" creationdate="20190629T034006Z">
         <seg>elements: Iterable[SensorReading],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>emitWatermark() emits the provided watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T035949Z" creationid="xccui" creationdate="20190713T035920Z">
+        <seg>emitWatermark()用来发出传入的水位线。</seg>
       </tuv>
     </tu>
     <tu>
