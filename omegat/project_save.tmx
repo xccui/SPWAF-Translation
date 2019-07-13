@@ -30026,8 +30026,8 @@
       <tuv lang="EN-US">
         <seg>Subsequent transformations pro‐ cess the elements of all input streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064047Z" creationid="xccui" creationdate="20190614T064047Z">
-        <seg>这样后续的转换操作就可以对所有输入流中的元素进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060929Z" creationid="xccui" creationdate="20190614T064047Z">
+        <seg>这样后续的转换操作就可以对所有输入流中的元素统一处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32186,8 +32186,8 @@
       <tuv lang="EN-US">
         <seg>The events are merged in a FIFO fashion—the operator does not produce a specific order of events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064745Z" creationid="xccui" creationdate="20190614T064449Z">
-        <seg>执行过程中事件会以FIFO的方式合并，其顺序无法得到任何保证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061211Z" creationid="xccui" creationdate="20190614T064449Z">
+        <seg>union执行过程中，事件会以FIFO的方式合并，其顺序无法得到任何保证。</seg>
       </tuv>
     </tu>
     <tu>
