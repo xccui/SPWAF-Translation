@@ -32146,8 +32146,8 @@
       <tuv lang="EN-US">
         <seg>The end-to- end consistency of the application depends on the integration of the chosen stream sinks with Flink’s checkpointing algorithm.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005721Z" creationid="xccui" creationdate="20190613T005721Z">
-        <seg>该一致性取决于所选数据汇和Flink检查点算法的集成情况。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053123Z" creationid="xccui" creationdate="20190613T005721Z">
+        <seg>该一致性取决于所选数据汇和Flink检查点算法的组合情况。</seg>
       </tuv>
     </tu>
     <tu>
