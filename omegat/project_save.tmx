@@ -20015,6 +20015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you look at how Flink propagates and updates watermarks (see “Watermark Propagation and Event Time”), you can see that a single operator that does not advance watermarks can grind all watermarks of an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043037Z" creationid="xccui" creationdate="20190713T043037Z">
+        <seg>你如果了解了Flink的水位线传播和更新原理，就会发现单个算子的水位线停滞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you run the application in a local environ‐ ment—or example, from your IDE—on a machine with 8 cores, the source task will run with 8 tasks, the mapper with 16 tasks, and the sink with 2 tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062232Z" creationid="xccui" creationdate="20190616T062221Z">
