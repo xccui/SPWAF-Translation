@@ -11559,6 +11559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, each instance of the source function multiplexes the records of three stream partitions to emit them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040757Z" creationid="xccui" creationdate="20190713T040757Z">
+        <seg>这样的话，数据源函数实例会将3个数据流分区中的记录混合发出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, most Flink applications do not only depend on Flink’s Data‐ Stream API dependency and the Java SDK but also on additional third-party and Flink-internal dependencies.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035413Z" creationid="xccui" creationdate="20190619T035413Z">
@@ -25107,6 +25115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T041142Z" creationid="xccui" creationdate="20190319T040751Z">
         <seg>很多公司基于此构建了流式分析服务，供内部或外界付费用户使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiplexing records most likely introduces additional out-of-orderness with respect to the event-time timestamps such that a downstream timestamp assigner might produce more late records than expected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040918Z" creationid="xccui" creationdate="20190713T040918Z">
+        <seg>混合记录有极大可能导致事件时间戳进一步乱序，</seg>
       </tuv>
     </tu>
     <tu>
