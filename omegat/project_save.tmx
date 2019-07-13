@@ -25423,6 +25423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonetheless, the Data‐ Stream API provides a dedicated SinkFunction interface and a corresponding Rich SinkFunction abstract class.7 The SinkFunction interface provides a single method:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212922Z" creationid="xccui" creationdate="20190713T212922Z">
+        <seg>虽说如此，DataStream API还是为我们提供了一个专门的SinkFunction接口以及它对应的RichSinkFunction抽象类。7 SinkFunction接口内只有一个方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nonkeyed windows (also called all-windows in the DataStream API) behave exactly the same, except that they collect all data and are not evaluated in parallel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041635Z" creationid="xccui" creationdate="20190622T041635Z">
@@ -45380,6 +45388,14 @@
         <seg>rebalance(), etc.).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043610Z" creationid="xccui" creationdate="20190713T043610Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>record via an HTTP POST call and not via its Collector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212611Z" creationid="xccui" creationdate="20190713T212611Z">
         <seg></seg>
       </tuv>
     </tu>
