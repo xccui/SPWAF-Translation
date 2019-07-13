@@ -43195,8 +43195,8 @@
       <tuv lang="EN-US">
         <seg>implement your own streaming sinks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T054219Z" creationid="xccui" creationdate="20190612T054219Z">
-        <seg>你也可以实现自己的流式数据汇。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053011Z" creationid="xccui" creationdate="20190612T054219Z">
+        <seg>你也可以选择自己实现流式数据汇。</seg>
       </tuv>
     </tu>
     <tu>
