@@ -30898,8 +30898,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream.split() method receives an OutputSelector that defines how stream elements are assigned to named outputs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T054406Z" creationid="xccui" creationdate="20190615T054406Z">
-        <seg>DataStream.split()方法接收一个OutputSelector，它用来定义如何将数据流的元素分配到不同的命名输出中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T064050Z" creationid="xccui" creationdate="20190615T054406Z">
+        <seg>DataStream.split()方法接收一个OutputSelector，它用来定义如何将数据流的元素分配到不同的命名输出（named output）中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31234,8 +31234,8 @@
       <tuv lang="EN-US">
         <seg>The OutputSelector defines the select() method that is called for each input event and returns a java.lang.Itera ble[String].</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T060646Z" creationid="xccui" creationdate="20190615T054416Z">
-        <seg>OutputSelector中定义的select()方法会在每个输入事件到来时被调用，随即返回一个java.lang.Iterable[String]对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T064207Z" creationid="xccui" creationdate="20190615T054416Z">
+        <seg>OutputSelector中定义的select()方法会在每个输入事件到来时被调用，并随即返回一个java.lang.Iterable[String]对象。</seg>
       </tuv>
     </tu>
     <tu>
