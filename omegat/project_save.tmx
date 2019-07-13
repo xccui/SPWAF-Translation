@@ -1528,8 +1528,8 @@
       <tuv lang="EN-US">
         <seg>// Scala object that defines the DataStream program in the main() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041823Z" creationid="xccui" creationdate="20190612T041823Z">
-        <seg>// 在main()方法中定义DataStream程序的Scala对象</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052233Z" creationid="xccui" creationdate="20190612T041823Z">
+        <seg>// Scala对象，其main()方法中定义了DataStream程序</seg>
       </tuv>
     </tu>
     <tu>
