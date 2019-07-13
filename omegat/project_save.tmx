@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>.keyBy(0, 0) // key both input streams on first attribute</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T050311Z" creationid="xccui" creationdate="20190615T050311Z">
-        <seg>.keyBy(0, 0) // 两个数据流都以第1个属性作为键值</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062815Z" creationid="xccui" creationdate="20190615T050311Z">
+        <seg>.keyBy(0, 0) // 两个数据流都以第一个属性作为键值</seg>
       </tuv>
     </tu>
     <tu>
