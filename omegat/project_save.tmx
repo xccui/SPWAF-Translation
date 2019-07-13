@@ -33866,8 +33866,8 @@
       <tuv lang="EN-US">
         <seg>The program in Example 5-1 converts the temperatures from Fahrenheit to Celsius and computes the average temperature every 5 seconds for each sensor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053332Z" creationid="xccui" creationdate="20190612T035758Z">
-        <seg>示例5-1中的程序将温度从华氏度转为摄氏度并计算每个传感器每5秒钟的平均温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052149Z" creationid="xccui" creationdate="20190612T035758Z">
+        <seg>示例5-1中的程序将温度从华氏度转为摄氏度并计算每个传感器每5秒的平均温度。</seg>
       </tuv>
     </tu>
     <tu>
