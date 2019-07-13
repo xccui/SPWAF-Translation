@@ -8848,8 +8848,8 @@
       <tuv lang="EN-US">
         <seg>An opera‐ tor that is applied on a connected and keyed stream has access to keyed state.3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190615T051502Z">
-        <seg>应用于已经按照键值分区且已连通数据流上的算子可以访问键值分区状态。3</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063240Z" creationid="xccui" creationdate="20190615T051502Z">
+        <seg>作用在已经按照键值分区且已联结的数据流上的算子可以访问键值分区状态。3</seg>
       </tuv>
     </tu>
     <tu>
