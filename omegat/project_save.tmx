@@ -21849,8 +21849,8 @@
       <tuv lang="EN-US">
         <seg>In the example below, the stream is keyed by language and the result is a continuously updated list of words per language:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062219Z" creationid="xccui" creationdate="20190614T062107Z">
-        <seg>在下面的示例中，数据流会以语言字段（译者注：第1个字段）为键值进行分区，最终输出结果是针对每种语言产生一个不断更新的单词列表：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T054439Z" creationid="xccui" creationdate="20190614T062107Z">
+        <seg>在下面的示例中，数据流会以语言字段（译者注：第一个字段）为键值进行分区，最终输出结果是针对每种语言产生一个不断更新的单词列表：</seg>
       </tuv>
     </tu>
     <tu>
