@@ -21737,8 +21737,8 @@
       <tuv lang="EN-US">
         <seg>In the DataStream API, the execution environment of an</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T045855Z" creationid="xccui" creationdate="20190612T044948Z">
-        <seg>在DataStream API中，执行环境由StreamExecutionEnvironment来表示。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052348Z" creationid="xccui" creationdate="20190612T044948Z">
+        <seg>DataStream API的执行环境由StreamExecutionEnvironment来表示。</seg>
       </tuv>
     </tu>
     <tu>
