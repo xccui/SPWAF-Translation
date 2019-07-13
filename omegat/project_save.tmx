@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-1L</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034527Z" creationid="xccui" creationdate="20190713T034527Z">
+        <seg>-1L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-DarchetypeArtifactId=flink-quickstart-scala</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004831Z" creationid="xccui" creationdate="20190612T004831Z">
@@ -2514,6 +2522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T072814Z" creationid="xccui" creationdate="20190619T072814Z">
         <seg>// 读入传感器流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// initialize cnt variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034518Z" creationid="xccui" creationdate="20190713T034518Z">
+        <seg>// 初始化cnt变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -8950,6 +8966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another important aspect of source functions are timestamps and watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034621Z" creationid="xccui" creationdate="20190713T034621Z">
+        <seg>另一个与数据源函数相关的重要方面是时间戳和水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another improvement was the dissolution of the latency-throughput trade-off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T134512Z" creationid="xccui" creationdate="20190327T134512Z">
@@ -9587,6 +9611,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T033138Z" creationid="xccui" creationdate="20190414T055834Z">
         <seg>不难想象，支持状态化算子将面临很多实现上的挑战：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As pointed out in “Event-Time Processing” and “Assigning Timestamps and Generating</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034741Z" creationid="xccui" creationdate="20190713T034741Z">
+        <seg>正如在"事件时间处理"及"分配时间戳和生成水位线"章节提到的，</seg>
       </tuv>
     </tu>
     <tu>
@@ -37960,6 +37992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Watermarks”, the DataStream API provides two options to assign timestamps and generate watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034830Z" creationid="xccui" creationdate="20190713T034830Z">
+        <seg>DataStream API提供了两种分配时间戳和生成水位线的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We already discussed some of the features of the Context object when introducing the process functions, such as access to the current processing and event-time and</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011641Z" creationid="xccui" creationdate="20190624T011641Z">
@@ -41745,6 +41785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cnt = if (null == it || !it.iterator().hasNext) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034523Z" creationid="xccui" creationdate="20190713T034523Z">
+        <seg>cnt = if (null == it || !it.iterator().hasNext) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>collects all events can become significantly larger than the state of a window whose</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034336Z" creationid="xccui" creationdate="20190625T034336Z">
@@ -43053,6 +43101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052722Z" creationid="xccui" creationdate="20190620T052722Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>initCtx: FunctionInitializationContext): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034503Z" creationid="xccui" creationdate="20190713T034503Z">
+        <seg>initCtx: FunctionInitializationContext): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -46441,6 +46497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val desc = new ListStateDescriptor[Long]("offset", classOf[Long]) offsetState = initCtx.getOperatorStateStore.getListState(desc)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034507Z" creationid="xccui" creationdate="20190713T034507Z">
+        <seg>val desc = new ListStateDescriptor[Long]("offset", classOf[Long]) offsetState = initCtx.getOperatorStateStore.getListState(desc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val div = highTempCnt / 10</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062728Z" creationid="xccui" creationdate="20190701T062728Z">
@@ -46653,6 +46717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034323Z" creationid="xccui" creationdate="20190629T034323Z">
         <seg>val isUpdate = ctx.windowState.getState(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val it = offsetState.get()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034520Z" creationid="xccui" creationdate="20190713T034520Z">
+        <seg>val it = offsetState.get()</seg>
       </tuv>
     </tu>
     <tu>
@@ -47869,6 +47941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054844Z" creationid="xccui" creationdate="20190620T054844Z">
         <seg>} else {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} else { it.iterator().next()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034530Z" creationid="xccui" creationdate="20190713T034530Z">
+        <seg>} else { it.iterator().next()</seg>
       </tuv>
     </tu>
     <tu>
