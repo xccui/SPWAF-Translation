@@ -7366,6 +7366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A source function can decide when to mark itself as idle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T051729Z" creationid="xccui" creationdate="20190713T051729Z">
+        <seg>数据源函数可以在任何时间通过调用SourceContext.markAsTemporarilyIdle()方法将自身标记为空闲状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A source function can replay its output if the external system that provides the data exposes an API to retrieve and reset a reading offset.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T152919Z" creationid="xccui" creationdate="20190712T152852Z">
@@ -41220,6 +41228,14 @@
         <seg>and deserialization methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055451Z" creationid="xccui" creationdate="20190618T055451Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and does so by calling the method SourceContext.markAsTemporarilyIdle().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T051731Z" creationid="xccui" creationdate="20190713T051731Z">
         <seg></seg>
       </tuv>
     </tu>
