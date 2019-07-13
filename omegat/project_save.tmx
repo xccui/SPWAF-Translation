@@ -28976,6 +28976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since watermarks should be data driven, a watermark generator (either integrated in a source function or in a timestamp assigner) will not emit new water‐ marks if it does not receive input records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T042810Z" creationid="xccui" creationdate="20190713T042810Z">
+        <seg>由于水位线其实是数据驱动的，水位线生成器（无论是集成在数据源函数中的还是在时间戳分配器中的）如果收不到输入记录，就不会发出新的水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since we are using a simple nonmergable ValueState, the trigger is not mer‐ gable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201301Z" creationid="xccui" creationdate="20190626T201301Z">
