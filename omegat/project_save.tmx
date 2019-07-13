@@ -11561,8 +11561,8 @@
       <tuv lang="EN-US">
         <seg>Consequently, each instance of the source function multiplexes the records of three stream partitions to emit them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040757Z" creationid="xccui" creationdate="20190713T040757Z">
-        <seg>这样的话，数据源函数实例会将3个数据流分区中的记录混合发出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041825Z" creationid="xccui" creationdate="20190713T040757Z">
+        <seg>因此，数据源函数实例需要将3个数据流分区中的记录混合发出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36292,6 +36292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044813Z" creationid="xccui" creationdate="20190605T233305Z">
         <seg>这种并行称为任务并行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This way, it can ensure that the order guarantees on each partition are leveraged and no unnecessary late records are emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041748Z" creationid="xccui" creationdate="20190713T041748Z">
+        <seg>这样的话它就可以保证</seg>
       </tuv>
     </tu>
     <tu>
