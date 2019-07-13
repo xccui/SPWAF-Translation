@@ -34248,6 +34248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The source is automatically set as active as soon as it starts to emit records again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T051609Z" creationid="xccui" creationdate="20190713T051609Z">
+        <seg>数据源一旦开始接收记录，就会恢复活动状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source task stores the current offset of its input stream as  state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T031659Z" creationid="xccui" creationdate="20190609T030952Z">
@@ -43149,6 +43157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T054244Z" creationid="xccui" creationdate="20190623T054157Z">
         <seg>或者你也可以通过第二个参数指定一个偏移量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ignore the idle stream partition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T051506Z" creationid="xccui" creationdate="20190713T051506Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
