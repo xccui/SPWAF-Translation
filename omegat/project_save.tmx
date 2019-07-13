@@ -10393,8 +10393,8 @@
       <tuv lang="EN-US">
         <seg>Both functions are typed on the types of the first and second input stream and on the type of the output stream and define two methods—one for each input.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061913Z" creationid="xccui" creationdate="20190615T041305Z">
-        <seg>两个函数的类型参数都是两条输入流的类型外加输出流的类型，它们同时为两条输入流定义了各自的处理方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062033Z" creationid="xccui" creationdate="20190615T041305Z">
+        <seg>两个函数都是以两条输入流的类型外加输出流的类型作为其类型参数，它们同时为两条输入流定义了各自的处理方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43763,8 +43763,8 @@
       <tuv lang="EN-US">
         <seg>map1() and flatMap1() are called to process an event of the first input and map2() and flat Map2() are invoked to process an event of the second input:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T042740Z" creationid="xccui" creationdate="20190615T041435Z">
-        <seg>map1()和flatMap()用来处理第一个输入流的事件；map2()和flatMap2()用来处理第二个输入流的事件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062039Z" creationid="xccui" creationdate="20190615T041435Z">
+        <seg>map1()和flatMap1()用来处理第一个输入流的事件；map2()和flatMap2()用来处理第二个输入流的事件：</seg>
       </tuv>
     </tu>
     <tu>
