@@ -27618,8 +27618,8 @@
       <tuv lang="EN-US">
         <seg>ReduceFunction defines the reduce() method, which takes two input events and returns an event of the same type:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T054337Z" creationid="xccui" creationdate="20190614T061856Z">
-        <seg>它当中定义的reduce()方法每次接收两个输入事件，产生一个类型相同的输出事件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T054349Z" creationid="xccui" creationdate="20190614T061856Z">
+        <seg>它当中定义的reduce()方法每次接收两个输入事件，并产生一个类型相同的输出事件：</seg>
       </tuv>
     </tu>
     <tu>
