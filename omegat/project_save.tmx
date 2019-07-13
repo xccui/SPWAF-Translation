@@ -23193,8 +23193,8 @@
       <tuv lang="EN-US">
         <seg>Instead, the API calls construct an execution plan in the execution environment, which consists of the stream sources created from the environment and all transformations that were tran‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T011810Z" creationid="xccui" creationdate="20190613T011810Z">
-        <seg>事实上，它们只会在执行环境中构建一个执行计划，其中包含了从环境创建的流式数据源以及应用于这些数据源之上的一系列转换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053222Z" creationid="xccui" creationdate="20190613T011810Z">
+        <seg>而只会在执行环境中构建一个执行计划。计划中包含了从环境创建的流式数据源以及应用于这些数据源之上的一系列转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24617,8 +24617,8 @@
       <tuv lang="EN-US">
         <seg>MapFunction in  the  following,  are  defined  as  classes  that  implement  a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054257Z" creationid="xccui" creationdate="20190613T020742Z">
-        <seg>函数可以通过实现某个特定转换接口的类来定义，例如下面的MapFunction：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053404Z" creationid="xccui" creationdate="20190613T020742Z">
+        <seg>函数可以通过实现某个特定转换的接口类来定义，例如下面的MapFunction：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30450,8 +30450,8 @@
       <tuv lang="EN-US">
         <seg>That is, the API calls that create stream sources and transformations do not immediately trigger any data processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052226Z" creationid="xccui" creationdate="20190613T011133Z">
-        <seg>也就是说，那些创建数据源和转换操作的API调用不会当即触发任何数据处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053155Z" creationid="xccui" creationdate="20190613T011133Z">
+        <seg>也就是说，那些创建数据源和转换操作的API调用不会当即触发任何数据处理，</seg>
       </tuv>
     </tu>
     <tu>
