@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A DataStream does not have to eventually flow into a sink opera‐ tor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212239Z" creationid="xccui" creationdate="20190713T212239Z">
+        <seg>一个DataStream不必非要向数据汇算子写出数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A FileInputFormat used in a DataStream application should also implement the CheckpointableInputFormat interface, which defines methods to checkpoint and reset the the current reading position of an InputFormat within a file split.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192530Z" creationid="xccui" creationdate="20190710T192530Z">
@@ -17647,6 +17655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, you could implement a FlatMapFunction that emits each incoming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212608Z" creationid="xccui" creationdate="20190713T212608Z">
+        <seg>例如，你可以在FlatMapFunction内用HTTP POST请求发出记录，而非自身提供的Collector。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, you might be interested in measuring how the stream is observed and count events per second in order to detect possible outages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T052851Z" creationid="xccui" creationdate="20190414T045116Z">
@@ -20449,8 +20465,8 @@
       <tuv lang="EN-US">
         <seg>In Flink’s DataStream API, any operator or function can send data to an external sys‐ tem or application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T211908Z" creationid="xccui" creationdate="20190713T211908Z">
-        <seg>Flink DataStream API</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212128Z" creationid="xccui" creationdate="20190713T211908Z">
+        <seg>Flink DataStream API中的任何算子或函数都可以向外部系统或应用发送数据。</seg>
       </tuv>
     </tu>
     <tu>
