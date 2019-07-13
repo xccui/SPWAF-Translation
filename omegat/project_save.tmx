@@ -31930,8 +31930,8 @@
       <tuv lang="EN-US">
         <seg>The connect transformation and the cofunctions discussed in this section are more generic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045206Z" creationid="xccui" creationdate="20190615T045206Z">
-        <seg>本节讨论的connect转换以及协处理函数通用性更强。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062436Z" creationid="xccui" creationdate="20190615T045206Z">
+        <seg>本节讨论的connect转换以及协处理函数（cofunction）通用性更强。</seg>
       </tuv>
     </tu>
     <tu>
