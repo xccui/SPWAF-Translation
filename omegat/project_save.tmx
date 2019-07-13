@@ -26073,8 +26073,8 @@
       <tuv lang="EN-US">
         <seg>Once the execution environment has been configured, it is time to do some actual work and start processing streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050545Z" creationid="xccui" creationdate="20190612T050957Z">
-        <seg>在配置完执行环境后，我们就可以着手来做一些实质性的工作并正式开始处理数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052616Z" creationid="xccui" creationdate="20190612T050957Z">
+        <seg>在配置完执行环境后，我们就可以着手来做一些实质性的工作并对数据流开始正式处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31410,8 +31410,8 @@
       <tuv lang="EN-US">
         <seg>The StreamExecutionEnvironment provides methods to create stream sources that ingest data streams into the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050620Z" creationid="xccui" creationdate="20190612T051229Z">
-        <seg>StreamExecutionEnvironment提供了一些创建流式数据源的方法，用来将数据流读取到应用中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052700Z" creationid="xccui" creationdate="20190612T051229Z">
+        <seg>StreamExecutionEnvironment为我们提供了一系列创建流式数据源的方法，用以将数据流读取到应用中。</seg>
       </tuv>
     </tu>
     <tu>
