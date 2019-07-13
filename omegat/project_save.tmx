@@ -33138,8 +33138,8 @@
       <tuv lang="EN-US">
         <seg>The lambda reduce function forwards the first tuple field (the key field) and concate‐ nates the List[String] values of the second tuple field.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055917Z" creationid="xccui" creationdate="20190614T062552Z">
-        <seg>用于reduce的Lambda函数会直接转发第1个字段（键值字段），而将所有第2个字段中的List[String]值连接合并起来。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T054715Z" creationid="xccui" creationdate="20190614T062552Z">
+        <seg>用于reduce的Lambda函数会直接转发第一个字段（键值字段），并将所有第二个字段中的List[String]值连接合并起来。</seg>
       </tuv>
     </tu>
     <tu>
