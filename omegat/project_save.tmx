@@ -18497,8 +18497,8 @@
       <tuv lang="EN-US">
         <seg>Hence, the elements of both input streams can be jointly processed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052207Z" creationid="xccui" creationdate="20190615T052207Z">
-        <seg>这样一来，就可以联合处理两个输入流的元素。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063435Z" creationid="xccui" creationdate="20190615T052207Z">
+        <seg>这样一来，我们就可以联合处理两个输入流的元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23393,8 +23393,8 @@
       <tuv lang="EN-US">
         <seg>It also supports connecting a keyed and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210037Z" creationid="xccui" creationdate="20190615T053018Z">
-        <seg>它不仅支持联结一个按键值分好区的流和一个广播流，还能将广播后的事件存到一个托管状态中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063622Z" creationid="xccui" creationdate="20190615T053018Z">
+        <seg>它不仅支持联结一个按键值分好区的流和一个广播流，还能将广播后的事件存到一个托管状态（managed state）中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32194,8 +32194,8 @@
       <tuv lang="EN-US">
         <seg>The events of the nonbroadcasted stream are simply forwarded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T052035Z" creationid="xccui" creationdate="20190615T052015Z">
-        <seg>而所有非广播流的事件只是会被简单地转发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063424Z" creationid="xccui" creationdate="20190615T052015Z">
+        <seg>而所有非广播流的事件只是会被单纯地转发。</seg>
       </tuv>
     </tu>
     <tu>
