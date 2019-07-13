@@ -16897,8 +16897,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s Data‐ Stream API offers the ProcessWindowFunction to perform arbitrary computations on the contents of a window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010127Z" creationid="xccui" creationdate="20190624T010127Z">
-        <seg>Flink的DataStream API提供的ProcessWindowFunction可以对窗口内容执行任意计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T211933Z" creationid="xccui" creationdate="20190624T010127Z">
+        <seg>Flink DataStream API提供的ProcessWindowFunction可以对窗口内容执行任意计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20443,6 +20443,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T042055Z" creationid="xccui" creationdate="20190523T042038Z">
         <seg>在Flink中，水位线是利用一些包含时间戳long值的特殊记录来实现的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Flink’s DataStream API, any operator or function can send data to an external sys‐ tem or application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T211908Z" creationid="xccui" creationdate="20190713T211908Z">
+        <seg>Flink DataStream API</seg>
       </tuv>
     </tu>
     <tu>
