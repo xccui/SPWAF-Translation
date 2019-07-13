@@ -32714,8 +32714,8 @@
       <tuv lang="EN-US">
         <seg>The function can be specified with a class that implements the ReduceFunction inter‐ face.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T054207Z" creationid="xccui" creationdate="20190614T061729Z">
-        <seg>reduce函数可以通过一个实现了ReduceFunction接口的类来指定。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T054323Z" creationid="xccui" creationdate="20190614T061729Z">
+        <seg>我们可以通过实现ReduceFunction接口来指定一个reduce函数。</seg>
       </tuv>
     </tu>
     <tu>
