@@ -25121,8 +25121,8 @@
       <tuv lang="EN-US">
         <seg>Multiplexing records most likely introduces additional out-of-orderness with respect to the event-time timestamps such that a downstream timestamp assigner might produce more late records than expected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040918Z" creationid="xccui" creationdate="20190713T040918Z">
-        <seg>混合记录有极大可能导致事件时间戳进一步乱序，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041149Z" creationid="xccui" creationdate="20190713T040918Z">
+        <seg>混合记录有极大可能导致事件时间戳进一步乱序，从而使下游时间戳分配器产生多于预期的迟到记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36780,6 +36780,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045840Z" creationid="xccui" creationdate="20190416T045830Z">
         <seg>为了评估它，需要考虑应用处理管道上的所有组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To avoid such behavior, a source function can generate watermarks for each stream partition independently and always emit the smallest watermark of its partitions as its watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041729Z" creationid="xccui" creationdate="20190713T041729Z">
+        <seg>为了避免此类情况，数据源函数可以为每个数据流分区独立生成水位线，并以它们中的最小值作为整条数据流的水位线发出。</seg>
       </tuv>
     </tu>
     <tu>
