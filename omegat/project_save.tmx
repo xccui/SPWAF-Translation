@@ -16479,6 +16479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides a mechanism to avoid such situations by marking source functions as temporarily idle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043818Z" creationid="xccui" creationdate="20190713T043818Z">
+        <seg>为了避免该情况，Flink提供了一个机制，可以将数据源函数标记为暂时空闲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides a sink connector to write data streams to Cassandra.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201521Z" creationid="xccui" creationdate="20190711T201521Z">
@@ -20017,8 +20025,8 @@
       <tuv lang="EN-US">
         <seg>If you look at how Flink propagates and updates watermarks (see “Watermark Propagation and Event Time”), you can see that a single operator that does not advance watermarks can grind all watermarks of an</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043604Z" creationid="xccui" creationdate="20190713T043037Z">
-        <seg>你如果了解了Flink的水位线传播和更新原理就会发现，一旦应用中引入了Shuffle操作（keyBy()和rebalance()等），那么单个算子水位线的停滞就会导致整个应用停止工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043657Z" creationid="xccui" creationdate="20190713T043037Z">
+        <seg>你如果了解了Flink的水位线传播和更新原理就会发现，一旦应用中引入了Shuffle操作（keyBy()和rebalance()等），那么单个算子水位线的停滞就将导致整个应用都停止工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39917,6 +39925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043952Z" creationid="xccui" creationdate="20190705T043840Z">
         <seg>虽然从应用中增删状态非常容易，也不会影响保存点兼容性，但一旦涉及修改已有算子的状态，问题就会变得十分复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While being idle, Flink’s watermark propagation mechanism will</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T051503Z" creationid="xccui" creationdate="20190713T051503Z">
+        <seg>在数据源空闲状态下，Flink的水位线传播机制会忽略掉所有空闲的数据流分区。</seg>
       </tuv>
     </tu>
     <tu>
