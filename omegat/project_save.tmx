@@ -29186,8 +29186,8 @@
       <tuv lang="EN-US">
         <seg>Sometimes it is necessary or desirable to control the partitioning strategies at the application level or define custom partitioners.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065406Z" creationid="xccui" creationdate="20190615T065406Z">
-        <seg>某些时候，我们有必要或希望能够在应用级别控制这些分区策略或者自定义分区器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T064628Z" creationid="xccui" creationdate="20190615T065406Z">
+        <seg>某些时候，我们有必要或希望能够在应用级别控制这些分区策略，或者自定义分区器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45987,8 +45987,8 @@
       <tuv lang="EN-US">
         <seg>the application logic might require that all tasks of an operation receive the same data or that events be distributed following a custom strategy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070115Z" creationid="xccui" creationdate="20190615T070115Z">
-        <seg>亦或是可能应用逻辑要求某操作的所有任务接收相同的数据或按照自定义策略分发事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T064948Z" creationid="xccui" creationdate="20190615T070115Z">
+        <seg>抑或是可能应用逻辑要求某操作的所有任务接收相同的数据，或按照自定义策略分发事件。</seg>
       </tuv>
     </tu>
     <tu>
