@@ -22009,8 +22009,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we discuss the DataStream API transformations that process multiple input streams or emit multiple output streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T063511Z" creationid="xccui" creationdate="20190614T063511Z">
-        <seg>接下来我们就开始讨论那些能同时处理多条输入流或产生多条结果流的DataStream API转换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060747Z" creationid="xccui" creationdate="20190614T063511Z">
+        <seg>接下来我们将讨论那些能同时处理多条输入流或产生多条结果流的DataStream API转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24545,8 +24545,8 @@
       <tuv lang="EN-US">
         <seg>Many applications ingest multiple streams that need to be jointly processed or split a stream in order to apply different logic to different substreams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205623Z" creationid="xccui" creationdate="20190614T063301Z">
-        <seg>很多应用需要将多条输入流联合起来处理，或将一条流分割成多条子流以便应用不同的逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060719Z" creationid="xccui" creationdate="20190614T063301Z">
+        <seg>很多应用需要将多条输入流联合起来处理，或将一条流分割成多条子流以应用不同逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30906,8 +30906,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream.union() method merges two or more DataStreams of the same type and produces a new DataStream of the same type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040651Z" creationid="xccui" creationdate="20190614T063938Z">
-        <seg>DataStream.union()方法可以合并两条或多条类型相同的DataStream，并生成一个新的类型不变的DataStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060843Z" creationid="xccui" creationdate="20190614T063938Z">
+        <seg>DataStream.union()方法可以合并两条或多条类型相同的DataStream，并生成一个新的类型相同的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
