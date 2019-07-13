@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// add current cnt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034202Z" creationid="xccui" creationdate="20190713T034202Z">
+        <seg>// 添加当前的cnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// alternative: connect two keyed streams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205951Z" creationid="xccui" creationdate="20190615T050418Z">
@@ -2846,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// remove previous cnt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034121Z" creationid="xccui" creationdate="20190713T034121Z">
+        <seg>// 删除之前的cnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// remove threshold for the sensor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042634Z" creationid="xccui" creationdate="20190702T042618Z">
@@ -3130,6 +3146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032055Z" creationid="xccui" creationdate="20190622T032055Z">
         <seg>// 开启转发的开关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// synchronize data emission and checkpoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034040Z" creationid="xccui" creationdate="20190713T034040Z">
+        <seg>// 使数据发出和检查点同步</seg>
       </tuv>
     </tu>
     <tu>
@@ -7106,6 +7130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061533Z" creationid="xccui" creationdate="20190614T061516Z">
         <seg>reduce转换不会改变数据流的类型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A resettable SourceFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033917Z" creationid="xccui" creationdate="20190713T033917Z">
+        <seg>可重置的SourceFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -14361,8 +14393,16 @@
       <tuv lang="EN-US">
         <seg>Example 8-11 makes the CountSource of Example 8-10 resettable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033850Z" creationid="xccui" creationdate="20190713T033850Z">
-        <seg>示例8-11为示例8-10中的CountSource添加了可重置功能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034153Z" creationid="xccui" creationdate="20190713T033850Z">
+        <seg>示例8-11为示例8-10中CountSource的可重置版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033909Z" creationid="xccui" creationdate="20190713T033905Z">
+        <seg>示例8-11，</seg>
       </tuv>
     </tu>
     <tu>
@@ -41601,6 +41641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class ResettableCountSource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033921Z" creationid="xccui" creationdate="20190713T033921Z">
+        <seg>class ResettableCountSource</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class SelfCleaningTemperatureAlertFunction(val threshold: Double)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205615Z" creationid="xccui" creationdate="20190704T205615Z">
@@ -41781,6 +41829,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T152451Z" creationid="xccui" creationdate="20190712T152451Z">
         <seg>ctx.collect(cnt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctx.getCheckpointLock.synchronized { cnt += 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034042Z" creationid="xccui" creationdate="20190713T034042Z">
+        <seg>ctx.getCheckpointLock.synchronized { cnt += 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -42413,6 +42469,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064210Z" creationid="xccui" creationdate="20190630T064210Z">
         <seg>extends RichFlatMapFunction[SensorReading, (String, Double, Double)] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends SourceFunction[Long] with CheckpointedFunction {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033924Z" creationid="xccui" creationdate="20190713T033924Z">
+        <seg>extends SourceFunction[Long] with CheckpointedFunction {</seg>
       </tuv>
     </tu>
     <tu>
@@ -43961,6 +44025,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>offsetState.clear()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034124Z" creationid="xccui" creationdate="20190713T034124Z">
+        <seg>offsetState.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT]) is a callback function that is invoked when a previously registered timer triggers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T054245Z">
@@ -44485,6 +44557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052938Z" creationid="xccui" creationdate="20190701T052938Z">
         <seg>override def snapshotState( chkpntId: Long,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def snapshotState(snapshotCtx: FunctionSnapshotContext): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034107Z" creationid="xccui" creationdate="20190713T034107Z">
+        <seg>override def snapshotState(snapshotCtx: FunctionSnapshotContext): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -47401,6 +47481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>var isRunning: Boolean = true var cnt: Long = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033927Z" creationid="xccui" creationdate="20190713T033927Z">
+        <seg>var isRunning: Boolean = true var cnt: Long = _</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>var keyedCntState: ValueState[Long] = _ var opCntState: ListState[Long] = _</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162238Z" creationid="xccui" creationdate="20190702T162238Z">
@@ -47413,6 +47501,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051105Z" creationid="xccui" creationdate="20190620T051105Z">
         <seg>var maxTs: Long = Long.MinValue // 观察到的最大时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var offsetState: ListState[Long] = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033930Z" creationid="xccui" creationdate="20190713T033930Z">
+        <seg>var offsetState: ListState[Long] = _</seg>
       </tuv>
     </tu>
     <tu>
@@ -47573,6 +47669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174317Z" creationid="xccui" creationdate="20190712T174317Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>while (isRunning &amp;&amp; cnt &lt; Long.MaxValue) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033933Z" creationid="xccui" creationdate="20190713T033933Z">
+        <seg>while (isRunning &amp;&amp; cnt &lt; Long.MaxValue) {</seg>
       </tuv>
     </tu>
     <tu>
