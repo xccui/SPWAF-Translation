@@ -31578,8 +31578,8 @@
       <tuv lang="EN-US">
         <seg>The application receives the stream of temperature sensor readings you have seen previously and an additional stream of smoke level measurements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061553Z" creationid="xccui" creationdate="20190615T035958Z">
-        <seg>该应用会接收一条包含之前所见到的全部温度传感器读数的数据流，以及另外一条烟雾水平测量值数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061555Z" creationid="xccui" creationdate="20190615T035958Z">
+        <seg>该应用会接收一条包含之前所见到的全部温度传感器读数的数据流，以及另外一条烟雾指数测量值数据流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39731,8 +39731,8 @@
       <tuv lang="EN-US">
         <seg>When the temperature is over a given threshold and the smoke level is high, the application emits a fire alert.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040129Z" creationid="xccui" creationdate="20190615T040129Z">
-        <seg>当温度超过给定阈值且烟雾水平很高时，应用就会发出火灾警报。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061555Z" creationid="xccui" creationdate="20190615T040129Z">
+        <seg>当温度超过给定阈值且烟雾指数很高时，应用就会发出火灾警报。</seg>
       </tuv>
     </tu>
     <tu>
