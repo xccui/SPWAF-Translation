@@ -35482,8 +35482,8 @@
       <tuv lang="EN-US">
         <seg>This allows you to implement operators that are dynam‐ ically configured via a data stream (e.g., to add or remove filtering rules or update machine-learning models).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053341Z" creationid="xccui" creationdate="20190615T053341Z">
-        <seg>你可以利用广播状态实现一个通过数据流进行动态配置的算子（例如：添加或删除规则或者更新机器学习模型）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063856Z" creationid="xccui" creationdate="20190615T053341Z">
+        <seg>你可以利用广播状态实现一个通过数据流进行动态配置的算子（例如：添加、删除规则或者更新机器学习模型）。</seg>
       </tuv>
     </tu>
     <tu>
