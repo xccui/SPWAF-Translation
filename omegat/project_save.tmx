@@ -28642,8 +28642,8 @@
       <tuv lang="EN-US">
         <seg>Simple value conversions, splitting of records, or filtering of records are examples of common basic functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T025233Z" creationid="xccui" creationdate="20190613T025145Z">
-        <seg>常见的基本函数示例有：简单的值转换，记录拆分或过滤等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053528Z" creationid="xccui" creationdate="20190613T025145Z">
+        <seg>常见的基本转换函数有：简单的值转换，记录拆分或过滤等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39547,8 +39547,8 @@
       <tuv lang="EN-US">
         <seg>When presenting the transformations of the DataStream API, we show the interfaces for all function classes, but mostly use lambda functions instead of function classes in code examples for brevity.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060004Z" creationid="xccui" creationdate="20190613T022648Z">
-        <seg>在介绍DataStream API的转换时，我们会展示所有函数类的接口。但出于简洁考虑，在绝大多数示例代码中我们会使用Lambda函数而不是函数类。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053453Z" creationid="xccui" creationdate="20190613T022648Z">
+        <seg>在介绍DataStream API的转换时，我们会展示所有函数类的接口。但为了简洁，在绝大多数示例代码中我们会使用Lambda函数而不是函数类。</seg>
       </tuv>
     </tu>
     <tu>
