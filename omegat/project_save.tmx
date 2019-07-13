@@ -34034,8 +34034,8 @@
       <tuv lang="EN-US">
         <seg>The rolling reduce operator keeps a state for every key that is pro‐ cessed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062936Z" creationid="xccui" creationdate="20190614T062936Z">
-        <seg>滚动聚合算子会为每个处理过的键值维持一个状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T055940Z" creationid="xccui" creationdate="20190614T062936Z">
+        <seg>滚动reduce算子会为每个处理过的键值维持一个状态。</seg>
       </tuv>
     </tu>
     <tu>
