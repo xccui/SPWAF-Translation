@@ -41297,6 +41297,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>application to a halt if the application involves a shuffle operation (keyBy(),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043606Z" creationid="xccui" creationdate="20190713T043606Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>application, fix bugs and repair previously emitted results, migrate an application to a different cluster, or perform A/B tests with different application versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143904Z" creationid="esouser" creationdate="20190603T211838Z">
@@ -45293,6 +45301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022929Z" creationid="xccui" creationdate="20190622T022929Z">
         <seg>readings.print()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rebalance(), etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043610Z" creationid="xccui" creationdate="20190713T043610Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
