@@ -28986,8 +28986,8 @@
       <tuv lang="EN-US">
         <seg>Since this state is never cleaned up, you should only apply a rolling aggregations operator on a stream with a bounded key domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T062246Z" creationid="xccui" creationdate="20190614T061231Z">
-        <seg>由于这些状态不会被自动清理，所以你只能在键值域有限的流上使用滚动聚合算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060153Z" creationid="xccui" creationdate="20190614T061231Z">
+        <seg>由于这些状态不会被自动清理，所以该算子只能用于键值域有限的流。</seg>
       </tuv>
     </tu>
     <tu>
