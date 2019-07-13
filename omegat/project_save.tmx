@@ -7168,8 +7168,8 @@
       <tuv lang="EN-US">
         <seg>A return value of true preserves the input event and forwards it to the output, and false results in dropping the event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055621Z" creationid="xccui" creationdate="20190613T052016Z">
-        <seg>如果返回值为true，则它会保留输入事件并将其转发到输出，否则会把事件丢弃。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053832Z" creationid="xccui" creationdate="20190613T052016Z">
+        <seg>如果返回值为true，那么它会保留输入事件并将其转发到输出，否则它会把事件丢弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32322,8 +32322,8 @@
       <tuv lang="EN-US">
         <seg>The filter transformation drops or forwards events of a stream by evaluating a boolean condition on each input event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051901Z" creationid="xccui" creationdate="20190613T051252Z">
-        <seg>Filter转换利用一个作用在每条输入事件上的布尔条件来决定流中事件的去存，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053755Z" creationid="xccui" creationdate="20190613T051252Z">
+        <seg>Filter转换利用一个作用在每条输入事件上的布尔条件来决定流中事件的去存：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39843,8 +39843,8 @@
       <tuv lang="EN-US">
         <seg>When using the Scala API or Java 8, the mapper can also be expressed as a lambda function:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060005Z" creationid="xccui" creationdate="20190613T051123Z">
-        <seg>如果使用Scala API或Java 8，你还可以通过Lambda函数来表示映射器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053720Z" creationid="xccui" creationdate="20190613T051123Z">
+        <seg>在使用Scala API或Java 8时，你还可以通过Lambda函数来表示映射器。</seg>
       </tuv>
     </tu>
     <tu>
