@@ -23097,8 +23097,8 @@
       <tuv lang="EN-US">
         <seg>Instead, a method is called as soon as an event has arrived via the corre‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T043711Z" creationid="xccui" creationdate="20190615T043711Z">
-        <seg>一旦对应流中有事件到来，就需要调用相应的方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062156Z" creationid="xccui" creationdate="20190615T043711Z">
+        <seg>一旦对应流中有事件到来，系统就需要调用相应的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24049,8 +24049,8 @@
       <tuv lang="EN-US">
         <seg>Joint processing of two streams usually requires that events of both streams are deter‐ ministically routed based on some condition to be processed by the same parallel</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151857Z" creationid="xccui" creationdate="20190615T044638Z">
-        <seg>对双流进行Join的情况常常需要两条流中的事件基于某些条件进行确定性路由，以便能够发往算子的同一并行实例上处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062331Z" creationid="xccui" creationdate="20190615T044638Z">
+        <seg>对双流进行Join的场景通常需要对两条流中的事件基于某些条件进行确定性路由，以便它们能够发往算子的同一并行实例上处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43763,8 +43763,8 @@
       <tuv lang="EN-US">
         <seg>map1() and flatMap1() are called to process an event of the first input and map2() and flat Map2() are invoked to process an event of the second input:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062052Z" creationid="xccui" creationdate="20190615T041435Z">
-        <seg>map1()和flatMap1()用来处理第一个输入流的事件，map2()和flatMap2()用来处理第二个输入流的事件：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062102Z" creationid="xccui" creationdate="20190615T041435Z">
+        <seg>map1()和flatMap1()用来处理第一条输入流的事件，map2()和flatMap2()用来处理第二条输入流的事件：</seg>
       </tuv>
     </tu>
     <tu>
