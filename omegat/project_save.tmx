@@ -12839,6 +12839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deterministic keys are important to ensure all writes are correctly overwritten in case of a recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043451Z" creationid="xccui" creationdate="20190714T043451Z">
+        <seg>确定性的键值对于恢复期间覆盖写入的正确性非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disk Storage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025610Z" creationid="xccui" creationdate="20190225T025610Z">
@@ -17219,6 +17227,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210829Z" creationid="esouser" creationdate="20190603T210829Z">
         <seg>For almost 40 years, O’Reilly has provided technology and    business training, knowledge, and insight to help companies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For an application that computes the average temper‐ ature per sensor and minute, a deterministic key could be the ID of the sensor and the timestamp for each minute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043343Z" creationid="xccui" creationdate="20190714T043343Z">
+        <seg>对于每分钟为每个传感器计算平均温度的应用而言，其确定的键值可以由传感器ID和每分钟的时间戳组成。</seg>
       </tuv>
     </tu>
     <tu>
