@@ -38000,6 +38000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usually the RichSinkFunction interface is used because sink functions typically need to set up a connection to an external system in the RichFunction.open() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024537Z" creationid="xccui" creationdate="20190714T024537Z">
+        <seg>通常我们会使用RichSinkFunction抽象类，因为我们经常需要在RichFunction.open()方法里建立与外部系统的连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usually, the program’s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T051407Z" creationid="xccui" creationdate="20190611T051407Z">
