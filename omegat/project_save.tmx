@@ -14591,6 +14591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-13 illustrates how to implement and use an idempotent SinkFunction that writes to a JDBC database, in this case an embedded Apache Derby database.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T044729Z" creationid="xccui" creationdate="20190714T044729Z">
+        <seg>示例8-13展示了如何实现和使用一个幂等性SinkFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 8-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171118Z" creationid="xccui" creationdate="20190708T171118Z">
@@ -32500,6 +32508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061603Z" creationid="xccui" creationdate="20190706T061603Z">
         <seg>传递给setQueryable()方法的外部标识符可以随意选择，它们只会在可查询式状态客户端的配置中用到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The external system supports updates per key, such as a relational database sys‐ tem or a key-value store.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043528Z" creationid="xccui" creationdate="20190714T043528Z">
+        <seg>外部系统支持按照键值更新，例如关系型数据库或键值存储。</seg>
       </tuv>
     </tu>
     <tu>
