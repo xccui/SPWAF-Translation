@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"INSERT INTO Temperatures (sensor, temp) VALUES (?, ?)") updateStmt = conn.prepareStatement(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045248Z" creationid="xccui" creationdate="20190714T045248Z">
+        <seg>"INSERT INTO Temperatures (sensor, temp) VALUES (?, ?)") updateStmt = conn.prepareStatement(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"INSERT INTO example.sensors(sensorId, temperature) VALUES (?, ?);")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210821Z" creationid="xccui" creationdate="20190711T210821Z">
         <seg>"INSERT INTO example.sensors(sensorId, temperature) VALUES (?, ?);")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"UPDATE Temperatures SET temp = ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045251Z" creationid="xccui" creationdate="20190714T045251Z">
+        <seg>"UPDATE Temperatures SET temp = ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// execute insert statement if update statement did not update any row</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045746Z" creationid="xccui" creationdate="20190714T045746Z">
+        <seg>// 如果数据更新条数为零则执行插入语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// fetch the last temperature from state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064415Z" creationid="xccui" creationdate="20190630T064415Z">
@@ -3058,6 +3082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024030Z" creationid="xccui" creationdate="20190714T024030Z">
         <seg>// 因为只有一个线程可以写入，所以设置并行度为1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// set parameters for update statement and execute it updateStmt.setDouble(1, r.temperature) updateStmt.setString(2, r.id)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045417Z" creationid="xccui" creationdate="20190714T045417Z">
+        <seg>// 设置更新语句的参数并执行 updateStmt.setDouble(1, r.temperature) updateStmt.setString(2, r.id)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38256,6 +38288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WHERE sensor = ?")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045255Z" creationid="xccui" creationdate="20190714T045255Z">
+        <seg>WHERE sensor = ?")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '1'};</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210042Z" creationid="xccui" creationdate="20190711T210042Z">
@@ -43713,6 +43753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>insertStmt = conn.prepareStatement(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045244Z" creationid="xccui" creationdate="20190714T045244Z">
+        <seg>insertStmt = conn.prepareStatement(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>instance of an operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T044645Z" creationid="xccui" creationdate="20190615T044645Z">
@@ -44997,6 +45045,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024733Z" creationid="xccui" creationdate="20190714T024733Z">
         <seg>override def invoke( value: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def invoke(r: SensorReading, context: Context[_]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045314Z" creationid="xccui" creationdate="20190714T045314Z">
+        <seg>override def invoke(r: SensorReading, context: Context[_]): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -46901,6 +46957,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T155347Z" creationid="xccui" creationdate="20190412T155347Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>updateStmt.execute()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045420Z" creationid="xccui" creationdate="20190714T045420Z">
+        <seg>updateStmt.execute()</seg>
       </tuv>
     </tu>
     <tu>
