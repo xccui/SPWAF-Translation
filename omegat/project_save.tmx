@@ -34216,6 +34216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result data has a deterministic (composite) key, on which idempotent updates can be performed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043141Z" creationid="xccui" creationdate="20190714T043141Z">
+        <seg>结果数据中用于幂等更新的（复合）键值是确定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result stream is written to the standard output by calling print():</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051844Z" creationid="xccui" creationdate="20190612T054705Z">
@@ -36156,6 +36164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043032Z" creationid="xccui" creationdate="20190406T042859Z">
         <seg>该操作对某些应用而言是可行的，但如果你只对最新的那部分数据感兴趣该怎么办？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is possible if the following two properties hold:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043047Z" creationid="xccui" creationdate="20190714T043047Z">
+        <seg>该类型的连接器有以下两个实施前提：</seg>
       </tuv>
     </tu>
     <tu>
