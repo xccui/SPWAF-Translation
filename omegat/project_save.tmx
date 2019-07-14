@@ -26736,6 +26736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, the program fails with a ConnectException because a connection to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023723Z" creationid="xccui" creationdate="20190714T023631Z">
+        <seg>否则程序会因为无法建立套接字连接而抛出ConnectException。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise, the window operator will accu‐ mulate more and more state over time and your application will probably fail at some</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194322Z" creationid="xccui" creationdate="20190626T194322Z">
@@ -28012,6 +28020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022308Z" creationid="xccui" creationdate="20190225T022308Z">
         <seg>在IDE中执行和调试Flink程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run the command nc -l localhost 9191 on Linux</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023909Z" creationid="xccui" creationdate="20190714T023909Z">
+        <seg>你可以通过运行linux命令"nc -l localhost 9191"来监听localhost:9191端口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46140,6 +46156,14 @@
         <seg>the selection of nested fields.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041634Z" creationid="xccui" creationdate="20190618T041634Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the socket could not be opened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023635Z" creationid="xccui" creationdate="20190714T023635Z">
         <seg></seg>
       </tuv>
     </tu>
