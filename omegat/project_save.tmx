@@ -29208,6 +29208,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SinkFunction in Example 8-12 neither performs idempotent writes nor features</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T032219Z" creationid="xccui" creationdate="20190714T032219Z">
+        <seg>而8-12中的SinkFunction二者都不具备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sinks acknowledge the reception of a checkpoint barrier to the JobManager and a checkpoint is complete when all tasks have acknowledged the successful check‐ pointing of their state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T195511Z" creationid="xccui" creationdate="20190609T194625Z">
