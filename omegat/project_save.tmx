@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// connect to embedded in-memory Derby</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045216Z" creationid="xccui" creationdate="20190714T045216Z">
+        <seg>// 连接到嵌入式内存Derby数据库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// convert Fahrenheit to Celsius with an inline lambda function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T053316Z" creationid="xccui" creationdate="20190612T042248Z">
@@ -2758,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// prepare insert and update statements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045242Z" creationid="xccui" creationdate="20190714T045242Z">
+        <seg>// 预编译插入及更新语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// print header line of dashboard table</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040215Z" creationid="xccui" creationdate="20190707T040215Z">
@@ -3442,6 +3458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024849Z" creationid="xccui" creationdate="20190714T024849Z">
         <seg>// 将传感器读数写入套接字 writer.println(value.toString) writer.flush()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// write the sensor readings to a Derby table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045054Z" creationid="xccui" creationdate="20190714T045054Z">
+        <seg>// 将传感器读数写入Derby表中</seg>
       </tuv>
     </tu>
     <tu>
@@ -42025,6 +42049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class DerbyUpsertSink extends RichSinkFunction[SensorReading] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045100Z" creationid="xccui" creationdate="20190714T045100Z">
+        <seg>class DerbyUpsertSink extends RichSinkFunction[SensorReading] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class FlinkFilter extends FilterFunction[String] { override def filter(value: String): Boolean = { value.contains("flink")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054002Z" creationid="xccui" creationdate="20190618T054002Z">
@@ -42285,6 +42317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022616Z" creationid="xccui" creationdate="20190711T022222Z">
         <seg>此外，你还可以配置一个非活动间隔（inactivity interval），并在该间隔过后滚动生成新的分块文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>conn = DriverManager.getConnection( "jdbc:derby:memory:flinkExample", new Properties())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045219Z" creationid="xccui" creationdate="20190714T045219Z">
+        <seg>conn = DriverManager.getConnection( "jdbc:derby:memory:flinkExample", new Properties())</seg>
       </tuv>
     </tu>
     <tu>
@@ -45665,6 +45705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>readings.addSink(new DerbyUpsertSink)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045056Z" creationid="xccui" creationdate="20190714T045056Z">
+        <seg>readings.addSink(new DerbyUpsertSink)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>readings.addSink(new SimpleSocketSink("localhost", 9191))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023954Z" creationid="xccui" creationdate="20190714T023954Z">
@@ -48157,6 +48205,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T152445Z" creationid="xccui" creationdate="20190712T152445Z">
         <seg>var cnt: Long = -1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var conn: Connection = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045104Z" creationid="xccui" creationdate="20190714T045104Z">
+        <seg>var conn: Connection = _</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var insertStmt: PreparedStatement = _ var updateStmt: PreparedStatement = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045108Z" creationid="xccui" creationdate="20190714T045108Z">
+        <seg>var insertStmt: PreparedStatement = _ var updateStmt: PreparedStatement = _</seg>
       </tuv>
     </tu>
     <tu>
