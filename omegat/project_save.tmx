@@ -28954,8 +28954,8 @@
       <tuv lang="EN-US">
         <seg>Since Apache Derby does not provide a built-in UPSERT statement, the example sink performs UPSERT writes by first trying to update a row and inserting a new row if no</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T052004Z" creationid="xccui" creationdate="20190714T052004Z">
-        <seg>Apache Derby没有内置UPSERT语句，为此，示例中的数据汇是通过先尝试更新并在对应键值的数据不存在时再执行插入的方式模拟UPSERT操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T052416Z" creationid="xccui" creationdate="20190714T052004Z">
+        <seg>Apache Derby没有内置UPSERT语句。为此，示例中的数据汇是通过尝试更新、并在对应键值的数据不存在时执行插入的方式模拟UPSERT操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45972,6 +45972,14 @@
         <seg>round-robin distribution transformation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043417Z" creationid="xccui" creationdate="20190616T043417Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>row with the given key exists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T052007Z" creationid="xccui" creationdate="20190714T052007Z">
         <seg></seg>
       </tuv>
     </tu>
