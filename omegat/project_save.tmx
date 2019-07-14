@@ -8798,6 +8798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An idempotent SinkFunction that writes to a JDBC database</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T044810Z" creationid="xccui" creationdate="20190714T044810Z">
+        <seg>写JDBC数据库的幂等性SinkFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An idempotent operation can be performed several times but will only result in a sin‐ gle change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T063359Z" creationid="xccui" creationdate="20190708T063359Z">
@@ -14593,8 +14601,16 @@
       <tuv lang="EN-US">
         <seg>Example 8-13 illustrates how to implement and use an idempotent SinkFunction that writes to a JDBC database, in this case an embedded Apache Derby database.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T044729Z" creationid="xccui" creationdate="20190714T044729Z">
-        <seg>示例8-13展示了如何实现和使用一个幂等性SinkFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045042Z" creationid="xccui" creationdate="20190714T044729Z">
+        <seg>示例8-13展示了如何实现和使用一个写JDBC数据库（本例中用到的是Apache Derby数据库）的幂等性SinkFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-13.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T044735Z" creationid="xccui" creationdate="20190714T044735Z">
+        <seg>示例8-13，</seg>
       </tuv>
     </tu>
     <tu>
