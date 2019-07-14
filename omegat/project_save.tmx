@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// close writer and socket writer.close() socket.close()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024903Z" creationid="xccui" creationdate="20190714T024903Z">
+        <seg>// 关闭写入器和套接字 writer.close() socket.close()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// compare record timestamp with current watermark</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155905Z" creationid="xingcan" creationdate="20190628T155905Z">
@@ -2688,8 +2696,8 @@
       <tuv lang="EN-US">
         <seg>// open socket and writer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024714Z" creationid="xccui" creationdate="20190714T024714Z">
-        <seg>// 打开套接字并写入数据</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024838Z" creationid="xccui" creationdate="20190714T024714Z">
+        <seg>// 打开套接字并获得写入器</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,6 +3434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041551Z" creationid="xccui" creationdate="20190707T041426Z">
         <seg>// 等待发送下一组查询</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// write sensor reading to socket writer.println(value.toString) writer.flush()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024849Z" creationid="xccui" creationdate="20190714T024849Z">
+        <seg>// 将传感器读数写入套接字 writer.println(value.toString) writer.flush()</seg>
       </tuv>
     </tu>
     <tu>
@@ -9635,6 +9651,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T054835Z" creationid="xccui" creationdate="20190701T054835Z">
         <seg>其实这个问题的答案已经在第56页"状态化算子扩缩容"中提到了——列表结构支持对使用了算子状态的函数修改并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As discussed, the end-to-end consistency guarantees of an application depend on the properties of its sink connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024944Z" creationid="xccui" creationdate="20190714T024944Z">
+        <seg>如前所述，应用端到端的一致性保障取决于其数据汇连接器的属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21315,6 +21339,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045948Z" creationid="xccui" creationdate="20190615T045948Z">
         <seg>为了在ConnectedStreams上实现确定性的转换，connect()可以与keyBy()和broadcast()结合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to achieve end-to-end exactly-once seman‐ tics, an application requires either idempotent or transactional sink connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T025051Z" creationid="xccui" creationdate="20190714T025051Z">
+        <seg>为了实现端到端的精确一次语义，应用的连接器需要是幂等的或支持事务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42289,6 +42321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ctx: SinkFunction.Context[_]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024737Z" creationid="xccui" creationdate="20190714T024737Z">
+        <seg>ctx: SinkFunction.Context[_]): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ctx: Trigger.TriggerContext): TriggerResult = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200238Z" creationid="xccui" creationdate="20190626T200238Z">
@@ -44801,6 +44841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def invoke( value: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024733Z" creationid="xccui" creationdate="20190714T024733Z">
+        <seg>override def invoke( value: SensorReading,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def isEventTime = true</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044236Z" creationid="xccui" creationdate="20190626T044236Z">
@@ -45821,6 +45869,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T045509Z" creationid="xccui" creationdate="20190701T045509Z">
         <seg>snapshotState(checkpointId: Long, timestamp: Long): java.util.List[T]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>socket = new Socket(InetAddress.getByName(host), port) writer = new PrintStream(socket.getOutputStream)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024720Z" creationid="xccui" creationdate="20190714T024720Z">
+        <seg>socket = new Socket(InetAddress.getByName(host), port) writer = new PrintStream(socket.getOutputStream)</seg>
       </tuv>
     </tu>
     <tu>
