@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.setParallelism(1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024036Z" creationid="xccui" creationdate="20190714T024036Z">
+        <seg>.setParallelism(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.setQuery(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210817Z" creationid="xccui" creationdate="20190711T210817Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060223Z" creationid="xccui" creationdate="20190616T060223Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// -----</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024040Z" creationid="xccui" creationdate="20190714T024040Z">
+        <seg>// -----</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set parallelism to 1 because only one thread can write to a socket</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024030Z" creationid="xccui" creationdate="20190714T024030Z">
+        <seg>// 因为只有一个线程可以写入，所以设置并行度为1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set processing time timer for now + 1 second</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071708Z">
@@ -3394,6 +3418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041551Z" creationid="xccui" creationdate="20190707T041426Z">
         <seg>// 等待发送下一组查询</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// write the sensor readings to a socket</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023952Z" creationid="xccui" creationdate="20190714T023952Z">
+        <seg>// 将传感器读数写入套接字</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072253Z" creationid="xccui" creationdate="20190607T033031Z">
         <seg>当算子两个输入流的水位线差距很大时，也会产生类似影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple SinkFunction that writes to a socket</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023939Z" creationid="xccui" creationdate="20190714T023939Z">
+        <seg>一个简单的套接字写入SinkFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -14491,6 +14531,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T213149Z" creationid="xccui" creationdate="20190713T213149Z">
         <seg>示例8-12中展示了一个简单的SinkFunction，它用来将传感读数写入套接字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-12.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023917Z" creationid="xccui" creationdate="20190714T023917Z">
+        <seg>示例8-12，</seg>
       </tuv>
     </tu>
     <tu>
@@ -41937,6 +41985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class SimpleSocketSink(val host: String, val port: Int) extends RichSinkFunction[SensorReading] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024045Z" creationid="xccui" creationdate="20190714T024045Z">
+        <seg>class SimpleSocketSink(val host: String, val port: Int) extends RichSinkFunction[SensorReading] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class TempIncreaseAlertFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071337Z" creationid="xccui" creationdate="20190621T071337Z">
@@ -45417,6 +45473,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>readings.addSink(new SimpleSocketSink("localhost", 9191))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023954Z" creationid="xccui" creationdate="20190714T023954Z">
+        <seg>readings.addSink(new SimpleSocketSink("localhost", 9191))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>readings.print()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022929Z" creationid="xccui" creationdate="20190622T022929Z">
@@ -46413,6 +46477,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050325Z" creationid="xccui" creationdate="20190612T045805Z">
         <seg>来指定程序使用事件时间来解释时间语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to listen on localhost:9191.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023912Z" creationid="xccui" creationdate="20190714T023912Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -47929,10 +48001,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>var socket: Socket = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024050Z" creationid="xccui" creationdate="20190714T024050Z">
+        <seg>var socket: Socket = _</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>var subTaskIndex = 0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034249Z" creationid="xccui" creationdate="20190619T034249Z">
         <seg>var subTaskIndex = 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var writer: PrintStream = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024106Z" creationid="xccui" creationdate="20190714T024106Z">
+        <seg>var writer: PrintStream = _</seg>
       </tuv>
     </tu>
     <tu>
