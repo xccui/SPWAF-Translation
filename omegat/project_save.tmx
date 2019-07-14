@@ -21353,8 +21353,8 @@
       <tuv lang="EN-US">
         <seg>In order to achieve end-to-end exactly-once seman‐ tics, an application requires either idempotent or transactional sink connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T025051Z" creationid="xccui" creationdate="20190714T025051Z">
-        <seg>为了实现端到端的精确一次语义，应用的连接器需要是幂等的或支持事务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042459Z" creationid="xccui" creationdate="20190714T025051Z">
+        <seg>为了实现端到端的精确一次语义，应用的连接器需要是幂等性的或支持事务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28892,6 +28892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025522Z" creationid="xccui" creationdate="20190704T025522Z">
         <seg>由于StateBackend接口是公开的，所以你也可以实现自定义的状态后端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since a socket does not have built-in transactional support, transactional writes can only be done using Flink’s generic WAL sink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042632Z" creationid="xccui" creationdate="20190714T042632Z">
+        <seg>而同时它页没有提供内置的事务支持，所以事务性写只能通过Flink的通用WAL数据汇来完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41685,6 +41693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050008Z" creationid="xccui" creationdate="20190618T050008Z">
         <seg>birthday: (Int, Int, Int), // 年、月、日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ble to perform idempotent writes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042502Z" creationid="xccui" creationdate="20190714T042502Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
