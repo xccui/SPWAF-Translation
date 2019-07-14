@@ -14487,6 +14487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-12 shows a simple SinkFunction that writes sensor readings to a socket.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T213149Z" creationid="xccui" creationdate="20190713T213149Z">
+        <seg>示例8-12中展示了一个简单的SinkFunction，它用来将传感读数写入套接字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 8-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171118Z" creationid="xccui" creationdate="20190708T171118Z">
@@ -25703,6 +25711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that you need to start a process that listens on the socket before starting the pro‐ gram.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023519Z" creationid="xccui" creationdate="20190714T023519Z">
+        <seg>注意，在启动程序之前，你需要先启动负责监听套接字的进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that you should avoid using Kryo if possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065518Z" creationid="xccui" creationdate="20190616T065518Z">
@@ -30756,6 +30772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054155Z" creationid="xccui" creationdate="20190621T054010Z">
         <seg>Context对象是让处理函数与众不同的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Context object of SinkFunction provides access to the current processing time, the current watermark (i.e., the current event time at the sink), and the timestamp of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T213101Z" creationid="xccui" creationdate="20190713T213101Z">
+        <seg>我们可以利用其中的Context对象访问当前处理时间，当前水位线（数据汇当前的事件时间）以及记录的时间戳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46097,6 +46121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T213104Z" creationid="xccui" creationdate="20190713T213104Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the reduced value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060434Z" creationid="xccui" creationdate="20190630T060434Z">
@@ -47949,6 +47981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T201903Z" creationid="xccui" creationdate="20190627T201903Z">
         <seg>void evictBefore( Iterable&lt;TimestampedValue&lt;T&gt;&gt; elements, int size,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>void invoke(IN value, Context ctx)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212925Z" creationid="xccui" creationdate="20190713T212925Z">
+        <seg>void invoke(IN value, Context ctx)</seg>
       </tuv>
     </tu>
     <tu>
