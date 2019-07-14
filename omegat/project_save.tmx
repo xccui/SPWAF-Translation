@@ -12935,6 +12935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the append-only characteristic of a socket, it is not possi‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042448Z" creationid="xccui" creationdate="20190714T042448Z">
+        <seg>由于套接字仅支持追加数据，所以无法实现幂等性写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the append-only property of the log, events are always published to all consumers in exactly the same order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T060020Z" creationid="xccui" creationdate="20190305T054916Z">
@@ -46621,6 +46629,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052104Z" creationid="xccui" creationdate="20190606T205535Z">
         <seg>对基于时间的算子任务而言，其收集和处理的记录可能会包含乱序的时间戳。这些算子只有当自己的事件时间时钟（由接收的水位线驱动）指示不必再等那些包含相关时间戳的记录时，才会最终触发计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transactional writes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T032224Z" creationid="xccui" creationdate="20190714T032224Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
