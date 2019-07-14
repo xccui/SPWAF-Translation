@@ -12937,8 +12937,8 @@
       <tuv lang="EN-US">
         <seg>Due to the append-only characteristic of a socket, it is not possi‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042448Z" creationid="xccui" creationdate="20190714T042448Z">
-        <seg>由于套接字仅支持追加数据，所以无法实现幂等性写。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042636Z" creationid="xccui" creationdate="20190714T042448Z">
+        <seg>由于套接字仅支持追加数据，所以无法实现幂等性写；</seg>
       </tuv>
     </tu>
     <tu>
@@ -17831,6 +17831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For many applications, the SinkFunction interface is sufficient to implement an idempotent sink connector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042935Z" creationid="xccui" creationdate="20190714T042935Z">
+        <seg>对于很多应用而言，利用SinkFunction接口足以实现幂等性数据汇连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information about our books, courses, conferences, and news, see our web‐ site at http://www.oreilly.com.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210844Z" creationid="esouser" creationdate="20190603T210844Z">
@@ -22035,6 +22043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035945Z" creationid="xccui" creationdate="20190705T035945Z">
         <seg>接下来的几节我们就来详细讨论一下这三种情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following sections, you will learn how to implement idempotent or transactional sink connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042808Z" creationid="xccui" creationdate="20190714T042808Z">
+        <seg>以下几节将向你介绍如何实现幂等性或事务性的数据汇连接器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28898,8 +28914,8 @@
       <tuv lang="EN-US">
         <seg>Since a socket does not have built-in transactional support, transactional writes can only be done using Flink’s generic WAL sink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042632Z" creationid="xccui" creationdate="20190714T042632Z">
-        <seg>而同时它页没有提供内置的事务支持，所以事务性写只能通过Flink的通用WAL数据汇来完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042653Z" creationid="xccui" creationdate="20190714T042632Z">
+        <seg>而同时它也没有提供内置的事务支持，所以事务性写只能通过Flink的通用WAL数据汇来完成。</seg>
       </tuv>
     </tu>
     <tu>
