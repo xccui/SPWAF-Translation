@@ -2686,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// open socket and writer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024714Z" creationid="xccui" creationdate="20190714T024714Z">
+        <seg>// 打开套接字并写入数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// optional: specify the evictor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014922Z" creationid="xccui" creationdate="20190626T014922Z">
@@ -28312,6 +28320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 5 for details on the RichFunction interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024619Z" creationid="xccui" creationdate="20190714T024619Z">
+        <seg>有关该抽象类的详细信息，请参阅第5章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 6 for details about the timestamp assigner interfaces.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T035332Z" creationid="xccui" creationdate="20190709T035332Z">
@@ -38002,8 +38018,8 @@
       <tuv lang="EN-US">
         <seg>Usually the RichSinkFunction interface is used because sink functions typically need to set up a connection to an external system in the RichFunction.open() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024537Z" creationid="xccui" creationdate="20190714T024537Z">
-        <seg>通常我们会使用RichSinkFunction抽象类，因为我们经常需要在RichFunction.open()方法里建立与外部系统的连接。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024655Z" creationid="xccui" creationdate="20190714T024537Z">
+        <seg>通常我们会使用RichSinkFunction抽象类，因为数据汇函数经常需要在RichFunction.open()方法里建立和外部系统的连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44861,6 +44877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071736Z" creationid="xccui" creationdate="20190621T071736Z">
         <seg>override def onTimer( ts: Long,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def open(config: Configuration): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024659Z" creationid="xccui" creationdate="20190714T024659Z">
+        <seg>override def open(config: Configuration): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
