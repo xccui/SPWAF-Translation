@@ -39656,6 +39656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We start the discussion of this interface with a question: “Isn’t the 2PC protocol too expensive?”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195345Z" creationid="xccui" creationdate="20190715T195345Z">
+        <seg>在详细讨论该接口之前，我们先来看一个问题："2PC协议代价是否过于昂贵？"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We started with a recap of traditional data infrastruc‐ tures, how business applications are commonly designed, and how data is collected and analyzed in most companies today.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T041116Z" creationid="xccui" creationdate="20190605T124846Z">
