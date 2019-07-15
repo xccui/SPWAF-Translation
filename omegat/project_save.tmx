@@ -8582,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All subse‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200922Z" creationid="xccui" creationdate="20190715T200922Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All the window types that you have seen so far are &lt;t0/&gt;global&lt;t1/&gt; windows and operate on the full stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T193652Z" creationid="xccui" creationdate="20190409T193652Z">
@@ -35648,6 +35656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voting phase of the 2PC protocol starts when the JobManager initiates a checkpoint and injects barriers in the sources of the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T205321Z" creationid="xccui" creationdate="20190715T205321Z">
+        <seg>2PC协议的投票阶段始于JobManager对某个检查点进行初始化并向应用数据源中注入分隔符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The way operators interact with state has implications on the robustness and perfor‐ mance of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T210942Z" creationid="xccui" creationdate="20190703T210535Z">
@@ -46523,8 +46539,8 @@
       <tuv lang="EN-US">
         <seg>quently received records are written in the context of the transaction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200919Z" creationid="xccui" creationdate="20190715T200919Z">
-        <seg>所有接下来收到记录的写入操作都会被纳入到这个事务中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T201042Z" creationid="xccui" creationdate="20190715T200919Z">
+        <seg>所有针对接下来所接收记录的写出操作都会被纳入到这个事务中。</seg>
       </tuv>
     </tu>
     <tu>
