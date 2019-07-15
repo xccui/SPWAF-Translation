@@ -45419,8 +45419,8 @@
       <tuv lang="EN-US">
         <seg>notification corresponds to the 2PC protocol’s commit command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211335Z" creationid="xccui" creationdate="20190715T211335Z">
-        <seg>这个</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211557Z" creationid="xccui" creationdate="20190715T211335Z">
+        <seg>该完成通知就相当于2PC协议中的提交命令。</seg>
       </tuv>
     </tu>
     <tu>
