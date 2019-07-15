@@ -9054,6 +9054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An iteration of the 2PC protocol succeeds when all sink tasks committed their transactions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T213055Z" creationid="xccui" creationdate="20190715T213055Z">
+        <seg>在全部数据汇任务成功提交自己的事务后，一轮2PC协议的迭代就此结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An on-going effort of the Flink community is to evolve Flink towards a system with a unified batch and streaming API and runtime.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T061543Z" creationid="xccui" creationdate="20190328T061256Z">
@@ -20363,6 +20371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071058Z" creationid="xccui" creationdate="20190702T065621Z">
         <seg>如果是重启任务（无论由于故障还是从保存点恢复）的情况，那Flink就会用保存的数据初始化状态；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the transaction cannot be com‐ mitted, the sink loses data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T212916Z" creationid="xccui" creationdate="20190715T212916Z">
+        <seg>事务提交失败将导致数据汇丢失数据。</seg>
       </tuv>
     </tu>
     <tu>
