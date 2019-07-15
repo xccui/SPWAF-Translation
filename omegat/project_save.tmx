@@ -24375,6 +24375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iterable over all records of a checkpoint, the ID of the checkpoint, and the time‐ stamp of when the checkpoint was taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063205Z" creationid="xccui" creationdate="20190715T063042Z">
+        <seg>该方法接收的参数为针对检查点对应全部记录的Iterable对象，检查点ID，以及检查点的生成时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its built-in operators interpret the Long value as a Unix timestamp with millisecond pre‐ cision—the number of milliseconds since 1970-01-01-00:00:00.000.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T051201Z" creationid="xccui" creationdate="20190606T204948Z">
@@ -33920,6 +33928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The method receives an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063045Z" creationid="xccui" creationdate="20190715T063045Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The method returns the right builder for the data type of the DataStream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T211604Z" creationid="xccui" creationdate="20190711T211310Z">
@@ -42203,8 +42219,8 @@
       <tuv lang="EN-US">
         <seg>boolean sendValues(Iterable&lt;IN&gt; values, long chkpntId, long timestamp) GenericWriteAheadSink calls the sendValues() method to write the records of a completed checkpoint to the external storage system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T062828Z" creationid="xccui" creationdate="20190715T062828Z">
-        <seg>boolean sendValues(Iterable&lt;IN&gt; values, long chkpntId, long timestamp) GenericWriteAheadSink会调用sendValues()方法将已完成</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T062917Z" creationid="xccui" creationdate="20190715T062828Z">
+        <seg>boolean sendValues(Iterable&lt;IN&gt; values, long chkpntId, long timestamp) GenericWriteAheadSink会调用sendValues()方法将已完成检查点对应的记录写入外部存储系统。</seg>
       </tuv>
     </tu>
     <tu>
