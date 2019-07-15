@@ -10479,6 +10479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before a sink task emits its first record, it starts a transaction on the external sink system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200820Z" creationid="xccui" creationdate="20190715T200820Z">
+        <seg>数据汇任务在发出首个记录之前，会先在外部数据汇系统中开启一个事务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before adding a new component into the mix, a logical question to ask should be, “How well does it work with the other com‐ ponents in my stack?”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T045057Z" creationid="xccui" creationdate="20190708T045057Z">
@@ -32240,6 +32248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The TwoPhaseCommitSinkFunction implements the following protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200651Z" creationid="xccui" creationdate="20190715T200651Z">
+        <seg>TwoPhaseCommitSinkFunction实现的协议如下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The TwoPhaseCommitSinkFunction template leverages transactional features of the external sink system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035723Z" creationid="xccui" creationdate="20190715T035723Z">
@@ -43793,6 +43809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>external sink system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200623Z" creationid="xccui" creationdate="20190715T200623Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>extractedTS: Long): Watermark = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054810Z" creationid="xccui" creationdate="20190620T054810Z">
@@ -46493,6 +46517,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190951Z" creationid="xccui" creationdate="20190626T190951Z">
         <seg>public void onMerge(W window, OnMergeContext ctx);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>quently received records are written in the context of the transaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200919Z" creationid="xccui" creationdate="20190715T200919Z">
+        <seg>所有接下来收到记录的写入操作都会被纳入到这个事务中。</seg>
       </tuv>
     </tu>
     <tu>
