@@ -22271,6 +22271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, we describe both interfaces and their consistency guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T040058Z" creationid="xccui" creationdate="20190715T040058Z">
+        <seg>接下来，我们对这两个接口以及它们的一致性保障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, we describe how Flink internally implements and handles timestamps and watermarks to support streaming applications with event-time semantics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204715Z" creationid="xccui" creationdate="20190606T204617Z">
@@ -34596,6 +34604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192247Z" creationid="xccui" creationdate="20190711T183631Z">
         <seg>它的实现方式是采用一种提交协议，该协议会基于Flink的检查点机制将文件在不同阶段（进行，等待及完成）间转移。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sink commits a transaction when it receives the completion notifica‐ tion of the corresponding checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T040014Z" creationid="xccui" creationdate="20190715T040014Z">
+        <seg>数据汇在接收到对应检查点的完成通知后才会提交事务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48789,6 +48805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060813Z" creationid="xccui" creationdate="20190614T044414Z">
         <seg>这意味着所有键值相同的事件可以访问相同的状态，因此它们可以被一并处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>writes all following records to the sink system in the context of the current trans‐ action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035939Z" creationid="xccui" creationdate="20190715T035939Z">
+        <seg>并以当前事务为上下文将所有后续记录写入数据汇系统。</seg>
       </tuv>
     </tu>
     <tu>
