@@ -17041,8 +17041,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides the TwoPhaseCommitSinkFunction interface to ease the implementa‐ tion of sink functions that provide end-to-end exactly-once guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T194552Z" creationid="xccui" creationdate="20190715T194552Z">
-        <seg>Flink内置的TwoPhaseCommitSinkFunction接口可以简化提供端到端精确一次语义保障的数据汇函数的实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T194912Z" creationid="xccui" creationdate="20190715T194552Z">
+        <seg>我们可以利用Flink内置的TwoPhaseCommitSinkFunction接口来方便地实现提供端到端精确一次语义保障的数据汇函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19219,6 +19219,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062808Z" creationid="xccui" creationdate="20190424T062808Z">
         <seg>然而，任务过于集中也会使TaskManager负载变高，继而导致性能下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T194758Z" creationid="xccui" creationdate="20190715T194758Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -49291,8 +49299,8 @@
       <tuv lang="EN-US">
         <seg>whether a 2PC sink function provides such guarantees or not depends on the imple‐ mentation details.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T194754Z" creationid="xccui" creationdate="20190715T194754Z">
-        <seg>但这种2PC数据汇函数是否能够提供此类保障并非取决于它的实现细节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195116Z" creationid="xccui" creationdate="20190715T194754Z">
+        <seg>但这种2PC数据汇函数对于保障的支持与否并非取决于它的实现细节。</seg>
       </tuv>
     </tu>
     <tu>
