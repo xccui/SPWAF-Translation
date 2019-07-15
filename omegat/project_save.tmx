@@ -13271,6 +13271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During recovery, all records of not- yet-committed checkpoints will be written again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065652Z" creationid="xccui" creationdate="20190715T065652Z">
+        <seg>这样，在故障恢复期间，未提交的检查点所对应的全部记录都会被重写一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the execution of a streaming application, Flink periodically takes consistent checkpoints of the application’s state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T033400Z" creationid="xccui" creationdate="20190609T031849Z">
@@ -26199,6 +26207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that these failure scenarios do not affect the exactly-once guarantees of the Cassandra sink connector because it performs UPSERT writes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065808Z" creationid="xccui" creationdate="20190715T065808Z">
+        <seg>注意，这些失败的场景不会影响Cassandra数据汇连接器的精确一次语义保障，因为它执行的是UPSERT写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that this</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062507Z" creationid="xccui" creationdate="20190621T062507Z">
@@ -31340,6 +31356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212343Z" creationid="xccui" creationdate="20190711T212226Z">
         <seg>若是要创建针对元组、样例类或Row类型的Cassandra数据汇构建器，你需要提供一个CQL INSERT查询。5 该查询可以用CassandraSinkBuilder.setQuery()方法配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cassandra sink connector benefits from the WAL because it guards from nondeterministic keys and prevents inconsistent writes to Cassandra.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065931Z" creationid="xccui" creationdate="20190715T065931Z">
+        <seg>WAL对于Cassandra数据汇连接器的意义在于，它可以在键值不确定的情况下避免不一致的写入。</seg>
       </tuv>
     </tu>
     <tu>
