@@ -21631,6 +21631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, 2PCs are an expensive approach to ensuring consistency in a distributed system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195645Z" creationid="xccui" creationdate="20190715T195645Z">
+        <seg>总的来说，2PC对分布式系统的一致性保障而言是一种非常昂贵的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, all data maintained by a task and used to compute the results of a function belong to the state of the task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055927Z" creationid="xccui" creationdate="20190607T053933Z">
