@@ -12799,6 +12799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the concrete implementation of the sink opera‐ tor, the records can be written to any kind of storage or message system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051310Z" creationid="xccui" creationdate="20190715T051234Z">
+        <seg>根据数据汇算子的具体实现，这些记录可以被写入任意一个存储或消息系统中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the encoding of a file, it can be necessary to only generate a single split</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192029Z" creationid="xccui" creationdate="20190710T192029Z">
@@ -39641,6 +39649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When GenericWriteAheadSink receives a notification about a completed checkpoint, it emits all records that are stored in the WAL in the segment corresponding to the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051148Z" creationid="xccui" creationdate="20190715T051148Z">
+        <seg>当GenericWriteAheadSink接收到检查点完成通知时，会将WAL内所有对应该检查点的记录发出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a DataStream program is submitted to the JobManager for execution, the system creates a dataflow graph and prepares the operators for execu‐ tion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T071421Z" creationid="xccui" creationdate="20190616T051014Z">
@@ -46581,6 +46597,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210830Z" creationid="esouser" creationdate="20190603T210830Z">
         <seg>succeed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>successful checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051150Z" creationid="xccui" creationdate="20190715T051150Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
