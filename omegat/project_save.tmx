@@ -40667,8 +40667,8 @@
       <tuv lang="EN-US">
         <seg>When the JobManager receives successful checkpoint notifications from all task instances, it sends the checkpoint completion notification to all interested tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211306Z" creationid="xccui" creationdate="20190715T211306Z">
-        <seg>JobManager在收到从所有任务实例发过来的检查点完成通知后，就会将该信息发送至所有相关任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211513Z" creationid="xccui" creationdate="20190715T211306Z">
+        <seg>JobManager在收到从所有任务实例返回的检查点成功的消息后，就会将检查点的完成通知发送至所有相关任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45413,6 +45413,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043253Z" creationid="xccui" creationdate="20190621T043253Z">
         <seg>MapFunction无法访问时间戳或当前的事件时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>notification corresponds to the 2PC protocol’s commit command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211335Z" creationid="xccui" creationdate="20190715T211335Z">
+        <seg>这个</seg>
       </tuv>
     </tu>
     <tu>
