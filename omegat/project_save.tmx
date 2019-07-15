@@ -40417,6 +40417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When an operator receives the bar‐ rier, it checkpoints it state and sends an acknowledgment message to the JobManager once it is done.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T205637Z" creationid="xccui" creationdate="20190715T205637Z">
+        <seg>当算子收到到分隔符时，它会将内部状态写入检查点，并在工作完成后向JobManager发送确认消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When applied on a KeyedStream with an evolving key space, Global Windows will maintain some state for each key.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045046Z" creationid="xccui" creationdate="20190626T045046Z">
