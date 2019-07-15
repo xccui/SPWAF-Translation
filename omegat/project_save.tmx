@@ -16265,8 +16265,8 @@
       <tuv lang="EN-US">
         <seg>First, the sink persistently stores the infor‐ mation that the checkpoint was committed and secondly it removes the records from the WAL.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T052622Z" creationid="xccui" creationdate="20190715T051452Z">
-        <seg>数据汇首先会将检查点已提交的信息持久化，然后从WAL中删除相应的记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T052909Z" creationid="xccui" creationdate="20190715T051452Z">
+        <seg>首先，数据汇需要将检查点已提交的信息持久化；随后，它会从WAL中删除相应的记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24115,6 +24115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015224Z" creationid="xccui" creationdate="20190703T014722Z">
         <seg>如果算子的标识或最大并行度发生了变化，则无法从之前生成的保存点启动应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not possible to store the commit information in Flink’s application state because it is not persistent and would be reset in case of a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T053102Z" creationid="xccui" creationdate="20190715T053102Z">
+        <seg>检查点已提交的信息无法存储在Flink的应用状态中，因为状态本身并不具有持久性，而且会在发生故障时重置。</seg>
       </tuv>
     </tu>
     <tu>
