@@ -30992,6 +30992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cassandra sink connector follows the same approach when the WAL is not enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T032630Z" creationid="xccui" creationdate="20190715T032630Z">
+        <seg>在未启用WAL时，Cassandra数据汇连接器也会使用该方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cassandra sink connector with WAL is implemented based on Flink’s GenericWriteAheadSink operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T224111Z" creationid="xccui" creationdate="20190711T224111Z">
