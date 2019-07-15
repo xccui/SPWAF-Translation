@@ -26944,6 +26944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operators that extend GenericWriteAheadSink need to provide three constructor parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060843Z" creationid="xccui" creationdate="20190715T060843Z">
+        <seg>继承自GenericWriteAheadSink的算子需要在构造方法内提供三个参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operators that implement data ingestion logic are called &lt;t4/&gt;data sources&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T152036Z" creationid="xccui" creationdate="20190405T152036Z">
@@ -30900,6 +30908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T162030Z" creationid="xccui" creationdate="20190605T134127Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanks to the built-in logic of GenericWriteAheadSink, it is not difficult to imple‐ ment a sink that leverages a WAL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060707Z" creationid="xccui" creationdate="20190715T060707Z">
+        <seg>多亏了GenericWriteAheadSink的内部逻辑才让我们可以相对容易地实现基于WAL的数据汇。</seg>
       </tuv>
     </tu>
     <tu>
