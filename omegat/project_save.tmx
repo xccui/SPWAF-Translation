@@ -9887,6 +9887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As mentioned earlier, GenericWriteAheadSink cannot provide bulletproof exactly- once guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065011Z" creationid="xccui" creationdate="20190715T065011Z">
+        <seg>如前所述，GenericWriteAheadSink无法百分之百提供精确一次保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As motivated in &lt;t2/&gt;Chapter 2&lt;t3/&gt;, a certain degree of timestamp out-of-orderness is given in basically all real-world use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040054Z" creationid="xccui" creationdate="20190523T040054Z">
@@ -20131,6 +20139,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054036Z" creationid="xccui" creationdate="20190607T025043Z">
         <seg>如果事件时间时钟向前推动，任务会先处理因此而触发的所有计时器，之后才会把对应的水位线发往所有连接的输出分区，以实现事件时间到全部下游任务的广播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the exter‐ nal sink system cannot atomically write multiple records—either all or none—</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065321Z" creationid="xccui" creationdate="20190715T065321Z">
+        <seg>如果外部数据汇系统不支持原子性地写入多个记录（全写或全不写），</seg>
       </tuv>
     </tu>
     <tu>
@@ -34592,6 +34608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The program fails while a task is running the sendValues() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065124Z" creationid="xccui" creationdate="20190715T065124Z">
+        <seg>程序在任务运行sendValues()方法时发生故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The program in Example 5-1 converts the temperatures from Fahrenheit to Celsius and computes the average temperature every 5 seconds for each sensor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052149Z" creationid="xccui" creationdate="20190612T035758Z">
@@ -35740,6 +35764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T193859Z" creationid="xccui" creationdate="20190626T193859Z">
         <seg>但有两类触发器需要格外小心：状态清理触发器及合并触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two failure cases that can result in records being emitted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065037Z" creationid="xccui" creationdate="20190715T065037Z">
+        <seg>有两种故障会导致记录发出多次：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44908,6 +44940,14 @@
         <seg>more processing slots.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205902Z" creationid="xccui" creationdate="20190428T205902Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>more than once:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065044Z" creationid="xccui" creationdate="20190715T065044Z">
         <seg></seg>
       </tuv>
     </tu>
