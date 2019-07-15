@@ -10599,6 +10599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both templates implement the CheckpointListener interface to receive notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T034956Z" creationid="xccui" creationdate="20190715T034956Z">
+        <seg>这两个模板都实现了CheckpointListener接口（有关该接口的详情，请参阅"接收检查点完成通知"一节），支持从JobManager接收有关检查点完成的通知：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both were covered in Chapter 6.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204316Z" creationid="xccui" creationdate="20190704T204316Z">
