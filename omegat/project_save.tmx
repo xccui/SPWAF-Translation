@@ -18311,6 +18311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GenericWriteAheadSink eases the implementation of sink operators with improved consistency properties.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T041448Z" creationid="xccui" creationdate="20190715T041448Z">
+        <seg>GenericWriteAheadSink简化了那些拥有更好一致性属性的数据汇算子的实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give your project a name and click Finish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041704Z" creationid="xccui" creationdate="20190611T041704Z">
