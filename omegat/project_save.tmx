@@ -18351,6 +18351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GenericWriteAheadSink relies on a pluggable component called CheckpointCommit ter to store and look up information about committed checkpoints in an external persistent storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T053403Z" creationid="xccui" creationdate="20190715T053403Z">
+        <seg>事实上，GenericWriteAheadSink依赖一个名为CheckpointCommitter的可插拔组件来控制外部持久化系统存储和查找已提交的检查点信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GenericWriteAheadSink works by appending all received records to a write-ahead log that is segmented by checkpoints.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043443Z" creationid="xccui" creationdate="20190715T043443Z">
