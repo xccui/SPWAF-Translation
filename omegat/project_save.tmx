@@ -18543,6 +18543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, a GenericWriteAheadSink does not provide bullet‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043107Z" creationid="xccui" creationdate="20190715T042933Z">
+        <seg>因此，GenericWriteAheadSink并不能百分之百提供精确一次保障，而只能做到至少一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, a Java JDK is required to implement Flink DataStream applications—Java JDK 8 (or higher).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072136Z" creationid="xccui" creationdate="20190611T014959Z">
@@ -19577,8 +19585,8 @@
       <tuv lang="EN-US">
         <seg>However, you should be aware that failure scenarios exist in which a write-ahead log sink emits</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042845Z" creationid="xccui" creationdate="20190715T042845Z">
-        <seg>然而你要明白，启用了WAL的数据汇在某些极端场景下可能会将记录写出多次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042955Z" creationid="xccui" creationdate="20190715T042845Z">
+        <seg>然而你要明白，WAL所支撑的数据汇在某些极端情况下可能会将记录写出多次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46012,6 +46020,14 @@
         <seg>record via an HTTP POST call and not via its Collector.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212611Z" creationid="xccui" creationdate="20190713T212611Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>records more than once.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042847Z" creationid="xccui" creationdate="20190715T042847Z">
         <seg></seg>
       </tuv>
     </tu>
