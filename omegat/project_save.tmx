@@ -9679,6 +9679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As described before, transactional sink connectors need to be integrated with Flink’s checkpointing mechanism because they may only commit data to the external system when a checkpoint completes successfully.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T034140Z" creationid="xccui" creationdate="20190715T034140Z">
+        <seg>如前所述，由于事务性数据汇连接器可能只会在检查点成功完成后才将数据写入外部系统，所以它需要与Flink的检查点机制做好集成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As discussed before, Flink requires a sufficient amount of processing slots in order to execute all tasks of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205357Z" creationid="xccui" creationdate="20190428T205349Z">
