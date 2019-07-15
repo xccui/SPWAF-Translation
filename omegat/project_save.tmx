@@ -6382,6 +6382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A CheckpointCommitter as discussed before</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060857Z" creationid="xccui" creationdate="20190715T060857Z">
+        <seg>一个如前所述的CheckpointCommitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A DataStream does not have to eventually flow into a sink opera‐ tor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212239Z" creationid="xccui" creationdate="20190713T212239Z">
@@ -6674,6 +6682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T063919Z" creationid="xccui" creationdate="20190225T014731Z">
         <seg>初识Flink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A TypeSerializer to serialize the input records</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060909Z" creationid="xccui" creationdate="20190715T060909Z">
+        <seg>一个用于序列化输入记录的TypeSerializer</seg>
       </tuv>
     </tu>
     <tu>
@@ -7018,6 +7034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190502T051925Z" creationid="xccui" creationdate="20190502T051925Z">
         <seg>Flink高可用设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A job ID that is passed to the CheckpointCommitter to identify commit informa‐ tion across application restarts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T062726Z" creationid="xccui" creationdate="20190715T062726Z">
+        <seg>一个传递给CheckpointCommitter，用于应用重启后标识提交信息的任务ID</seg>
       </tuv>
     </tu>
     <tu>
