@@ -8534,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All records are correctly written and the sendValues() method returns true; however, the program fails before CheckpointCommitter is called or Checkpoint Committer fails to commit the checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065553Z" creationid="xccui" creationdate="20190715T065553Z">
+        <seg>所有记录都已成功写入，setValues()方法返回true，但程序在调用CheckpointCommitter前出现故障或CheckpointCommitter未能成功提交检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All records that are processed by a Flink event-time streaming application must be accompanied by a timestamp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064203Z" creationid="xccui" creationdate="20190523T035328Z">
@@ -29528,6 +29536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the checkpoint was not committed yet, the sink will write all records again during recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065401Z" creationid="xccui" creationdate="20190715T065401Z">
+        <seg>由于此时检查点还未提交，下次恢复时会重写全部记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the events of both streams are mapped into the same windows, triggers and evictors behave exactly as in regular window operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053412Z" creationid="xccui" creationdate="20190628T053412Z">
@@ -46797,6 +46813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024720Z" creationid="xccui" creationdate="20190714T024720Z">
         <seg>socket = new Socket(InetAddress.getByName(host), port) writer = new PrintStream(socket.getOutputStream)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>some records might have been written and others not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065324Z" creationid="xccui" creationdate="20190715T065324Z">
+        <seg>那么就会出现部分数据已经写入而部分数据没能写入的情况。</seg>
       </tuv>
     </tu>
     <tu>
