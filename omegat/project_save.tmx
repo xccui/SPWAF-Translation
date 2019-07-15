@@ -25935,6 +25935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that GenericWriteAheadSink does not implement the Sink Function interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063858Z" creationid="xccui" creationdate="20190715T063858Z">
+        <seg>注意，GenericWriteAheadSink没有实现SinkFunction接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that an explicitly specified trigger overrides the existing trig‐ ger and does not complement it—the window will only be evalu‐ ated based on the trigger that was last defined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T025932Z" creationid="xccui" creationdate="20190626T025707Z">
@@ -29684,6 +29692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T013049Z" creationid="xccui" creationdate="20190709T223036Z">
         <seg>所以说，有必要为它配置一个合适的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, sinks that extend GenericWriteAheadSink cannot be added using DataStream.addSink() but are attached using the DataStream.transform() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064136Z" creationid="xccui" creationdate="20190715T064136Z">
+        <seg>因此我们无法使用DataStream.addSink()方法添加一个继承自GenericWriteAheadSink的数据汇，而是要用DataStream.transform()方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41369,6 +41385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can look up its implementation in the repository that contains the examples of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063821Z" creationid="xccui" creationdate="20190715T063821Z">
+        <seg>你可以到本书示例代码库中找到它的具体实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can monitor the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130301Z" creationid="xccui" creationdate="20190605T130301Z">
@@ -42236,6 +42260,14 @@
         <seg>ble.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T041101Z" creationid="xccui" creationdate="20190414T041101Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063824Z" creationid="xccui" creationdate="20190715T063824Z">
         <seg></seg>
       </tuv>
     </tu>
