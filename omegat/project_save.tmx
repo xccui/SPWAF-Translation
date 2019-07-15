@@ -19015,6 +19015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the sink should be able to write to the sink system, but the written data must not be made visible to the outside before it is committed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T213707Z" creationid="xccui" creationdate="20190715T213707Z">
+        <seg>如果是后者，数据汇需要能向数据汇系统写入数据，但在正式提交之前，这些数据不能对外可见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the total state of an application must fit into</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020451Z" creationid="xccui" creationdate="20190704T020451Z">
