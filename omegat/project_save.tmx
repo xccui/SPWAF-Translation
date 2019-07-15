@@ -16265,8 +16265,8 @@
       <tuv lang="EN-US">
         <seg>First, the sink persistently stores the infor‐ mation that the checkpoint was committed and secondly it removes the records from the WAL.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051452Z" creationid="xccui" creationdate="20190715T051452Z">
-        <seg>首先，数据汇</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T052622Z" creationid="xccui" creationdate="20190715T051452Z">
+        <seg>数据汇首先会将检查点已提交的信息持久化，然后从WAL中删除相应的记录。</seg>
       </tuv>
     </tu>
     <tu>
