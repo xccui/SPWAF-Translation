@@ -13959,6 +13959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every time the sink operator receives a check‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043522Z" creationid="xccui" creationdate="20190715T043459Z">
+        <seg>数据汇算子每次收到一个检查点分隔符，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything contained in a user func‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055230Z" creationid="xccui" creationdate="20190618T055230Z">
@@ -45613,6 +45621,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035213Z" creationid="xccui" creationdate="20190707T035213Z">
         <seg>因此，客户端可以同时发出多个异步请求并等待其返回结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>point barrier, it starts a new section and all the following records are appended to the new section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T045433Z" creationid="xccui" creationdate="20190715T045433Z">
+        <seg>都会生成一个新的"记录章节"，并将接下来的所有记录追加写入该章节。</seg>
       </tuv>
     </tu>
     <tu>
