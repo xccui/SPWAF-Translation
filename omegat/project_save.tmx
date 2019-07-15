@@ -19399,6 +19399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, in the context of Flink, the protocol is only run once for every</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195754Z" creationid="xccui" creationdate="20190715T195711Z">
+        <seg>但具体到Flink环境下，该协议只需针对每个检查点运行一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, instead of checkpointing the state to the JobMa‐ nager’s volatile memory, FsStateBackend writes the state to a remote and persis‐ tent file system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022121Z" creationid="xccui" creationdate="20190704T022121Z">
@@ -25571,6 +25579,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011223Z" creationid="xccui" creationdate="20190624T011223Z">
         <seg>此外，该方法和其他处理方法一样都有一个Context参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the protocol of TwoPhaseCommitSinkFunction piggybacks on Flink’s regular checkpointing mechanism and thus adds little overhead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195951Z" creationid="xccui" creationdate="20190715T195951Z">
+        <seg>再加上TwoPhaseCommitSinkFunction的协议本就是建立在Flink常规的检查点机制之上，因此它所增加的开销有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42668,6 +42684,14 @@
         <seg>cessor, a speed store, a batch store, and tools to ingest data for the batch processor and scheduling batch jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T032758Z" creationid="xccui" creationdate="20190327T032758Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>checkpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195756Z" creationid="xccui" creationdate="20190715T195756Z">
         <seg></seg>
       </tuv>
     </tu>
