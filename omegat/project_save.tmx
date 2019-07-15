@@ -34720,6 +34720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The state is check‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035406Z" creationid="xccui" creationdate="20190715T035406Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The state name is scoped to the operator so that a function can have more</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T070147Z" creationid="xccui" creationdate="20190630T070107Z">
@@ -39693,6 +39701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T162050Z" creationid="xccui" creationdate="20190609T161207Z">
         <seg>当任务收到一个新检查点的分隔符时，会继续等待所有其它输入分区也发来这个检查点的分隔符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a task receives a checkpoint completion notification, it writes the records of the completed checkpoints to the external system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035507Z" creationid="xccui" creationdate="20190715T035507Z">
+        <seg>当一个任务接收到检查点完成通知时，会将此次检查点的所有记录写入外部系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45501,6 +45517,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194324Z" creationid="xccui" creationdate="20190626T194324Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pointed and recovered in the case of a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035403Z" creationid="xccui" creationdate="20190715T035403Z">
+        <seg>该状态会被写入检查点，并在故障时恢复。</seg>
       </tuv>
     </tu>
     <tu>
