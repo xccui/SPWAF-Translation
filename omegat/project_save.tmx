@@ -18303,6 +18303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GenericWriteAheadSink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T040330Z" creationid="xccui" creationdate="20190715T040330Z">
+        <seg>GenericWriteAheadSink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give your project a name and click Finish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041704Z" creationid="xccui" creationdate="20190611T041704Z">
@@ -22273,8 +22281,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we describe both interfaces and their consistency guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T040058Z" creationid="xccui" creationdate="20190715T040058Z">
-        <seg>接下来，我们对这两个接口以及它们的一致性保障</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T040328Z" creationid="xccui" creationdate="20190715T040058Z">
+        <seg>接下来，我们将介绍上述两个接口以及它们的一致性保障。</seg>
       </tuv>
     </tu>
     <tu>
