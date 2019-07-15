@@ -13961,8 +13961,8 @@
       <tuv lang="EN-US">
         <seg>Every time the sink operator receives a check‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T045447Z" creationid="xccui" creationdate="20190715T043459Z">
-        <seg>数据汇算子每次收到一个检查点分隔符都会生成一个新的"记录章节"</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T045537Z" creationid="xccui" creationdate="20190715T043459Z">
+        <seg>数据汇算子每收到一个检查点分隔符都会生成一个新的"记录章节"，并将接下来的所有记录追加写入该章节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29344,6 +29344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the log will be recovered, no records will be lost in the case of a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051045Z" creationid="xccui" creationdate="20190715T051045Z">
+        <seg>由于它在发生故障时可以恢复，所以不会导致数据丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the logic for splitting and merging</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060037Z" creationid="xccui" creationdate="20190701T060037Z">
@@ -31916,6 +31924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035723Z" creationid="xccui" creationdate="20190715T035723Z">
         <seg>TwoPhaseCommitSinkFunction模板充分利用了外部数据汇系统的事务功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The WAL is stored and checkpointed as operator state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T045610Z" creationid="xccui" creationdate="20190715T045610Z">
+        <seg>WAL会以算子状态的形式存储和写入检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45627,8 +45643,8 @@
       <tuv lang="EN-US">
         <seg>point barrier, it starts a new section and all the following records are appended to the new section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T045438Z" creationid="xccui" creationdate="20190715T045433Z">
-        <seg>，并将接下来的所有记录追加写入该章节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T045539Z" creationid="xccui" creationdate="20190715T045539Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
