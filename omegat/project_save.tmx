@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"WriteAheadSink", new SocketWriteAheadSink)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064237Z" creationid="xccui" creationdate="20190715T064237Z">
+        <seg>"WriteAheadSink", new SocketWriteAheadSink)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"maxTemperature", key, Types.STRING,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041618Z" creationid="xccui" creationdate="20190707T041618Z">
@@ -1286,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// CheckpointCommitter that commits checkpoints to the local filesystem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064308Z" creationid="xccui" creationdate="20190715T064308Z">
+        <seg>// 将检查点对应的数据写入本地文件系统的CheckpointCommitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Clears any state that the trigger might hold for the given window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192245Z" creationid="xccui" creationdate="20190626T192245Z">
@@ -1562,6 +1578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T052233Z" creationid="xccui" creationdate="20190612T041823Z">
         <seg>// Scala对象，其main()方法中定义了DataStream程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Serializer for records</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064319Z" creationid="xccui" creationdate="20190715T064319Z">
+        <seg>// 记录的序列化器</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023952Z" creationid="xccui" creationdate="20190714T023952Z">
         <seg>// 将传感器读数写入套接字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// write the sensor readings to the standard out via a write-ahead log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064228Z" creationid="xccui" creationdate="20190715T064228Z">
+        <seg>// 利用WAL将传感器读数写入标准输出</seg>
       </tuv>
     </tu>
     <tu>
@@ -6690,6 +6722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060909Z" creationid="xccui" creationdate="20190715T060909Z">
         <seg>一个用于序列化输入记录的TypeSerializer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A WAL sink that writes to the standard output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064205Z" creationid="xccui" creationdate="20190715T064205Z">
+        <seg>写入标准输出的WAL数据汇</seg>
       </tuv>
     </tu>
     <tu>
@@ -14763,6 +14803,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063655Z" creationid="xccui" creationdate="20190715T063556Z">
         <seg>示例8-14展示了如何实现一个写标准输出的WAL数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-14.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064147Z" creationid="xccui" creationdate="20190715T064147Z">
+        <seg>示例8-14，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29698,8 +29746,8 @@
       <tuv lang="EN-US">
         <seg>So, sinks that extend GenericWriteAheadSink cannot be added using DataStream.addSink() but are attached using the DataStream.transform() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064136Z" creationid="xccui" creationdate="20190715T064136Z">
-        <seg>因此我们无法使用DataStream.addSink()方法添加一个继承自GenericWriteAheadSink的数据汇，而是要用DataStream.transform()方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064152Z" creationid="xccui" creationdate="20190715T064136Z">
+        <seg>因此我们无法使用DataStream.addSink()方法添加一个继承自GenericWriteAheadSink的数据汇，而是要用到DataStream.transform()方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42657,6 +42705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class StdOutWriteAheadSink extends GenericWriteAheadSink[SensorReading](</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064241Z" creationid="xccui" creationdate="20190715T064241Z">
+        <seg>class StdOutWriteAheadSink extends GenericWriteAheadSink[SensorReading](</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class TempIncreaseAlertFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071337Z" creationid="xccui" creationdate="20190621T071337Z">
@@ -42829,6 +42885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202707Z" creationid="xccui" creationdate="20190702T202707Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>createTypeInformation[SensorReading]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064321Z" creationid="xccui" creationdate="20190715T064321Z">
+        <seg>createTypeInformation[SensorReading]</seg>
       </tuv>
     </tu>
     <tu>
@@ -44849,6 +44913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new FileCheckpointCommitter(System.getProperty("java.io.tmpdir")),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064311Z" creationid="xccui" creationdate="20190715T064311Z">
+        <seg>new FileCheckpointCommitter(System.getProperty("java.io.tmpdir")),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new FlinkKafkaConsumer[String]( "topic",</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212409Z" creationid="xccui" creationdate="20190708T212409Z">
@@ -46269,6 +46341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022929Z" creationid="xccui" creationdate="20190622T022929Z">
         <seg>readings.print()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>readings.transform(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064231Z" creationid="xccui" creationdate="20190715T064231Z">
+        <seg>readings.transform(</seg>
       </tuv>
     </tu>
     <tu>
