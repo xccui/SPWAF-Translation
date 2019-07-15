@@ -17039,6 +17039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides the TwoPhaseCommitSinkFunction interface to ease the implementa‐ tion of sink functions that provide end-to-end exactly-once guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T194552Z" creationid="xccui" creationdate="20190715T194552Z">
+        <seg>Flink内置的TwoPhaseCommitSinkFunction接口可以简化提供端到端精确一次语义保障的数据汇函数的实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides two building blocks to implement transactional sink connectors—a generic write-ahead-log (WAL) sink and a two-phase-commit (2PC) sink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T161602Z" creationid="xccui" creationdate="20190708T074124Z">
