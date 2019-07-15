@@ -32320,6 +32320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The acknowledgment messages to the JobManager are analogous to the commit vote of the textbook 2PC protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T210057Z" creationid="xccui" creationdate="20190715T210057Z">
+        <seg>该确认消息对于JobManager而言相当于2PC协议中的提交投票。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The advantages of applying ReduceFunction on a window are the constant and small state size per window and the simple function interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001857Z" creationid="xccui" creationdate="20190624T001857Z">
@@ -35076,6 +35084,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161250Z" creationid="xingcan" creationdate="20190709T161021Z">
         <seg>数据汇连接器要在检查点完成前等待kafka确认记录写入完毕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sink task also starts a new transaction for all records that arrive before the next checkpoint barrier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T210500Z" creationid="xccui" creationdate="20190715T210500Z">
+        <seg>而同时，它还会为在下一个检查点分隔符之前到来的所有记录开启一个新的事务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sink task must not yet commit the transac‐ tion, because it is not guaranteed that all tasks of the job will complete their check‐ points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T210205Z" creationid="xccui" creationdate="20190715T210205Z">
+        <seg>数据汇任务此时还不能提交事务，因为它无法保证所有作业任务都可以顺利完成检查点工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40235,8 +40259,8 @@
       <tuv lang="EN-US">
         <seg>When a sink task receives the barrier, it persists its state, prepares the current transaction for committing, and acknowledges the checkpoint at the JobMan‐ ager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T210000Z" creationid="xccui" creationdate="20190715T210000Z">
-        <seg>当数据汇任务收到分隔符时，它会将内部状态持久化，为当前事务的提交做好准备，并向JobManager回复检查点的确认信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T210017Z" creationid="xccui" creationdate="20190715T210000Z">
+        <seg>当数据汇任务收到分隔符时，它会将内部状态持久化，为当前事务的提交做好准备，并向JobManager发送检查点的确认消息。</seg>
       </tuv>
     </tu>
     <tu>
