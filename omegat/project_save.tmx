@@ -8046,6 +8046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About Completed Checkpoints” for details about the interface):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035003Z" creationid="xccui" creationdate="20190715T035003Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access to timestamps and watermarks through the API</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T042406Z" creationid="xccui" creationdate="20190529T042406Z">
@@ -31352,6 +31360,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The GenericWriteAheadSink template collects all outgoing records per check‐ point and stores them in the operator state of the sink task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035307Z" creationid="xccui" creationdate="20190715T035307Z">
+        <seg>GenericWriteAheadSink模板会收集每个检查点的所有传出记录，并将它们存储到数据汇任务的算子状态中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GlobalWindows Assigner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044253Z" creationid="xccui" creationdate="20190626T044253Z">
@@ -43325,6 +43341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203426Z" creationid="xccui" creationdate="20190627T203426Z">
         <seg>从Iterable中可以取得Iterator对象，调用后者的remove()方法就能删除元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>from the JobManager about completed checkpoints (see “Receiving Notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T034958Z" creationid="xccui" creationdate="20190715T034958Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
