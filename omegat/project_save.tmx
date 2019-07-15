@@ -17727,6 +17727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the Cassandra sink connector by default uses a Check pointCommitter that writes to Cassandra.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060549Z" creationid="xccui" creationdate="20190715T060549Z">
+        <seg>举例而言，Cassandra数据汇连接器默认情况下会使用一个将信息写入Cassandra的CheckpointCommitter。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the FileSystem state backend and the RocksDB state backend support asynchronous checkpoints.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T202717Z" creationid="xccui" creationdate="20190609T202658Z">
@@ -18353,8 +18361,8 @@
       <tuv lang="EN-US">
         <seg>GenericWriteAheadSink relies on a pluggable component called CheckpointCommit ter to store and look up information about committed checkpoints in an external persistent storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T053403Z" creationid="xccui" creationdate="20190715T053403Z">
-        <seg>事实上，GenericWriteAheadSink依赖一个名为CheckpointCommitter的可插拔组件来控制外部持久化系统存储和查找已提交的检查点信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T053425Z" creationid="xccui" creationdate="20190715T053403Z">
+        <seg>而实际上，GenericWriteAheadSink依赖一个名为CheckpointCommitter的可插拔组件来控制外部持久化系统存储和查找已提交的检查点信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23431,6 +23439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T053406Z" creationid="xccui" creationdate="20190715T053406Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, Flink implements checkpointing based on the Chandy–Lamport algorithm for distributed snapshots.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T055721Z" creationid="xccui" creationdate="20190609T055529Z">
@@ -24129,8 +24145,8 @@
       <tuv lang="EN-US">
         <seg>It is not possible to store the commit information in Flink’s application state because it is not persistent and would be reset in case of a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T053102Z" creationid="xccui" creationdate="20190715T053102Z">
-        <seg>检查点已提交的信息无法存储在Flink的应用状态中，因为状态本身并不具有持久性，而且会在发生故障时重置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T053441Z" creationid="xccui" creationdate="20190715T053102Z">
+        <seg>检查点已提交的信息无法存储在Flink的应用状态中，因为状态本身并不具有持久性，并且会在发生故障时重置。</seg>
       </tuv>
     </tu>
     <tu>
