@@ -18319,6 +18319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GenericWriteAheadSink works by appending all received records to a write-ahead log that is segmented by checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043443Z" creationid="xccui" creationdate="20190715T043443Z">
+        <seg>GenericWriteAheadSink的工作原理是将经各个检查点"分段"后的接收记录以追加形式写如WAL中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give your project a name and click Finish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041704Z" creationid="xccui" creationdate="20190611T041704Z">
@@ -39392,6 +39400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will discuss these</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043214Z" creationid="xccui" creationdate="20190715T043214Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will discuss this feature in more depth later in this section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T151825Z" creationid="xingcan" creationdate="20190709T151825Z">
@@ -45729,6 +45745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>proof exactly-once guarantees but only at-least-once guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043110Z" creationid="xccui" creationdate="20190715T043110Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>provides access to the current processing time and watermark.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202838Z" creationid="xccui" creationdate="20190627T202838Z">
@@ -46165,6 +46189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T052007Z" creationid="xccui" creationdate="20190714T052007Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>scenarios in more detail later in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043211Z" creationid="xccui" creationdate="20190715T043211Z">
+        <seg>我们会在本节后面详细讨论这些场景。</seg>
       </tuv>
     </tu>
     <tu>
