@@ -25463,6 +25463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, the write-ahead operator needs to implement a single method:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T062756Z" creationid="xccui" creationdate="20190715T062756Z">
+        <seg>此外，算子还需要实现一个方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, they can cause issues if they are used without a custom trigger that discards incomplete and stale windows at some point.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041329Z" creationid="xccui" creationdate="20190623T041329Z">
@@ -42189,6 +42197,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T041101Z" creationid="xccui" creationdate="20190414T041101Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>boolean sendValues(Iterable&lt;IN&gt; values, long chkpntId, long timestamp) GenericWriteAheadSink calls the sendValues() method to write the records of a completed checkpoint to the external storage system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T062828Z" creationid="xccui" creationdate="20190715T062828Z">
+        <seg>boolean sendValues(Iterable&lt;IN&gt; values, long chkpntId, long timestamp) GenericWriteAheadSink会调用sendValues()方法将已完成</seg>
       </tuv>
     </tu>
     <tu>
