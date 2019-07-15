@@ -14759,6 +14759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 8-14 shows the implementation of a write-ahead sink that writes to the stan‐ dard output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063655Z" creationid="xccui" creationdate="20190715T063556Z">
+        <seg>示例8-14展示了如何实现一个写标准输出的WAL数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 8-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171118Z" creationid="xccui" creationdate="20190708T171118Z">
@@ -24331,6 +24339,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064213Z" creationid="xccui" creationdate="20190609T051830Z">
         <seg>随后应用就会重新消费并处理那些从之前检查点完成开始，到发生系统故障之间已经处理过的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It uses FileCheckpointCommitter, which we do not discuss here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063645Z" creationid="xccui" creationdate="20190715T063645Z">
+        <seg>它用到的FileCheckpointCommitter我们不在此讨论。</seg>
       </tuv>
     </tu>
     <tu>
