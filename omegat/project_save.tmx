@@ -33928,6 +33928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The method must return true if all writes succeeded and false if a write failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063425Z" creationid="xccui" creationdate="20190715T063425Z">
+        <seg>它会在全部记录写出成功时返回true，如果失败则会返回false。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The method receives an</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063045Z" creationid="xccui" creationdate="20190715T063045Z">
