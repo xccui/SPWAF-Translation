@@ -19401,8 +19401,8 @@
       <tuv lang="EN-US">
         <seg>However, in the context of Flink, the protocol is only run once for every</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195754Z" creationid="xccui" creationdate="20190715T195711Z">
-        <seg>但具体到Flink环境下，该协议只需针对每个检查点运行一次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195959Z" creationid="xccui" creationdate="20190715T195711Z">
+        <seg>但具体到Flink环境下，该协议只需针对每个检查点运行一次，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25585,8 +25585,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the protocol of TwoPhaseCommitSinkFunction piggybacks on Flink’s regular checkpointing mechanism and thus adds little overhead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195951Z" creationid="xccui" creationdate="20190715T195951Z">
-        <seg>再加上TwoPhaseCommitSinkFunction的协议本就是建立在Flink常规的检查点机制之上，因此它所增加的开销有限。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200128Z" creationid="xccui" creationdate="20190715T195951Z">
+        <seg>且TwoPhaseCommitSinkFunction的协议本就是建立在Flink常规的检查点机制之上，因此它并没有带来很多额外开销。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32228,6 +32228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050617Z" creationid="xccui" creationdate="20190626T050313Z">
         <seg>Trigger接口有一个回调方法，会在对目标窗口的相关状态进行合并时被调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The TwoPhase CommitSinkFunction works quite similar to the WAL sink, but it does not collect records in Flink’s application state; rather, it writes them in an open transaction to an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200621Z" creationid="xccui" creationdate="20190715T200031Z">
+        <seg>TwoPhaseCommitSinkFunction的工作原理和基于WAL的数据汇类似，但它不会在Flink的应用状态中收集记录，而是会把它们写入外部数据汇系统某个开启的事务中。</seg>
       </tuv>
     </tu>
     <tu>
