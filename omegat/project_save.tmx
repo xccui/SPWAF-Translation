@@ -40233,6 +40233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a sink task receives the barrier, it persists its state, prepares the current transaction for committing, and acknowledges the checkpoint at the JobMan‐ ager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T210000Z" creationid="xccui" creationdate="20190715T210000Z">
+        <seg>当数据汇任务收到分隔符时，它会将内部状态持久化，为当前事务的提交做好准备，并向JobManager回复检查点的确认信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a task processes a record, it automatically scopes the state access to the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191343Z" creationid="xccui" creationdate="20190607T190932Z">
