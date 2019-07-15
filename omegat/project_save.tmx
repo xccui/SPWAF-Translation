@@ -33962,8 +33962,8 @@
       <tuv lang="EN-US">
         <seg>The operator is integrated with Flink’s checkpointing mecha‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T041530Z" creationid="xccui" creationdate="20190715T041530Z">
-        <seg>这些算子会和Flink的检查点机制相结合</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042358Z" creationid="xccui" creationdate="20190715T041530Z">
+        <seg>这些算子会和Flink的检查点机制相结合，力求将记录以精确一次语义写入外部系统。</seg>
       </tuv>
     </tu>
     <tu>
