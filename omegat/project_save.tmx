@@ -17455,6 +17455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For every checkpoint, it starts a new transaction and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035754Z" creationid="xccui" creationdate="20190715T035754Z">
+        <seg>对于每个检查点，它都会开启一个新的事务，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For exam&lt;t0/&gt;‐&lt;t1/&gt; ple, the data of an order processing system can be analyzed to obtain sales growth over time, to identify reasons for delayed shipments, or to predict future sales in order to adjust the inventory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T182744Z" creationid="xccui" creationdate="20190228T182744Z">
@@ -31040,6 +31048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cassandra sink connector with WAL-enabled implements this interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035652Z" creationid="xccui" creationdate="20190715T035652Z">
+        <seg>启用WAL的Cassandra数据汇连接器就实现了该接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CheckpointedFunction interface defines two methods, initializeState() and snapshotState(), which work similar to the methods of the ListCheckpointed interface for operator list state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063959Z" creationid="xccui" creationdate="20190702T063959Z">
@@ -31362,8 +31378,8 @@
       <tuv lang="EN-US">
         <seg>The GenericWriteAheadSink template collects all outgoing records per check‐ point and stores them in the operator state of the sink task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035307Z" creationid="xccui" creationdate="20190715T035307Z">
-        <seg>GenericWriteAheadSink模板会收集每个检查点的所有传出记录，并将它们存储到数据汇任务的算子状态中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035547Z" creationid="xccui" creationdate="20190715T035307Z">
+        <seg>GenericWriteAheadSink模板会收集每个检查点周期内所有需要写出的记录，并将它们存储到数据汇任务的算子状态中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31836,6 +31852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050617Z" creationid="xccui" creationdate="20190626T050313Z">
         <seg>Trigger接口有一个回调方法，会在对目标窗口的相关状态进行合并时被调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The TwoPhaseCommitSinkFunction template leverages transactional features of the external sink system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035723Z" creationid="xccui" creationdate="20190715T035723Z">
+        <seg>TwoPhaseCommitSinkFunction模板充分利用了外部数据汇系统的事务功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39707,8 +39731,8 @@
       <tuv lang="EN-US">
         <seg>When a task receives a checkpoint completion notification, it writes the records of the completed checkpoints to the external system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035507Z" creationid="xccui" creationdate="20190715T035507Z">
-        <seg>当一个任务接收到检查点完成通知时，会将此次检查点的所有记录写入外部系统。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035556Z" creationid="xccui" creationdate="20190715T035507Z">
+        <seg>当一个任务接收到检查点完成通知时，会将此次检查点周期内的所有记录写入外部系统。</seg>
       </tuv>
     </tu>
     <tu>
