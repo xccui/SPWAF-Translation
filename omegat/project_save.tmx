@@ -35098,8 +35098,8 @@
       <tuv lang="EN-US">
         <seg>The sink task must not yet commit the transac‐ tion, because it is not guaranteed that all tasks of the job will complete their check‐ points.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T210205Z" creationid="xccui" creationdate="20190715T210205Z">
-        <seg>数据汇任务此时还不能提交事务，因为它无法保证所有作业任务都可以顺利完成检查点工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T212039Z" creationid="xccui" creationdate="20190715T210205Z">
+        <seg>由于数据汇任务此时还无法保证所有作业任务都可以顺利完成检查点工作，所以它暂时不能提交事务，</seg>
       </tuv>
     </tu>
     <tu>
@@ -40265,6 +40265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a sink task receives the notification, it commits all open transactions of previous checkpoints.8 Once a sink task acknowledges its checkpoint, it must be able to commit the corre‐ sponding transaction, even in the case of a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211824Z" creationid="xccui" creationdate="20190715T211824Z">
+        <seg>当数据汇任务收到通知后，它会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a task processes a record, it automatically scopes the state access to the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T191343Z" creationid="xccui" creationdate="20190607T190932Z">
@@ -45419,8 +45427,8 @@
       <tuv lang="EN-US">
         <seg>notification corresponds to the 2PC protocol’s commit command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211557Z" creationid="xccui" creationdate="20190715T211335Z">
-        <seg>该完成通知就相当于2PC协议中的提交命令。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211800Z" creationid="xccui" creationdate="20190715T211335Z">
+        <seg>该完成通知就相当于2PC协议中的提交指令。</seg>
       </tuv>
     </tu>
     <tu>
