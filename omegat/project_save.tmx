@@ -40665,6 +40665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the JobManager receives successful checkpoint notifications from all task instances, it sends the checkpoint completion notification to all interested tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T211306Z" creationid="xccui" creationdate="20190715T211306Z">
+        <seg>JobManager在收到从所有任务实例发过来的检查点完成通知后，就会将该信息发送至所有相关任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the RollingPolicy decides to roll a file, it is closed and moved into the pending state by renaming it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T190548Z" creationid="xccui" creationdate="20190711T190548Z">
