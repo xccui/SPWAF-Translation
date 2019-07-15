@@ -6734,6 +6734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A checkpoint is committed in two steps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051418Z" creationid="xccui" creationdate="20190715T051418Z">
+        <seg>该过程分为两步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A checkpoint is initiated by the JobManager by sending a message with a new check‐ point ID to each data source task as shown in Figure 3-20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T063006Z" creationid="xccui" creationdate="20190609T062451Z">
@@ -16251,6 +16259,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035700Z" creationid="xccui" creationdate="20190612T035700Z">
         <seg>首先来看一下传感器读取数据的数据类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, the sink persistently stores the infor‐ mation that the checkpoint was committed and secondly it removes the records from the WAL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051452Z" creationid="xccui" creationdate="20190715T051452Z">
+        <seg>首先，数据汇</seg>
       </tuv>
     </tu>
     <tu>
@@ -37976,6 +37992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TwoPhaseCommitSinkFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051456Z" creationid="xccui" creationdate="20190715T051456Z">
+        <seg>TwoPhaseCommitSinkFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type Information in the Scala API</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054635Z" creationid="xccui" creationdate="20190617T054635Z">
@@ -39893,6 +39917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040254Z" creationid="xccui" creationdate="20190626T040254Z">
         <seg>当窗口需要删除时，窗口算子会自动清除窗口内容并丢掉窗口对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When all records have been successfully emitted, the corresponding checkpoint must be inter‐ nally committed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051412Z" creationid="xccui" creationdate="20190715T051412Z">
+        <seg>当所有记录成功发出后，数据汇需要在内部提交对应的检查点。</seg>
       </tuv>
     </tu>
     <tu>
