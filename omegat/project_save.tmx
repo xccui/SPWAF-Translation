@@ -49289,6 +49289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whether a 2PC sink function provides such guarantees or not depends on the imple‐ mentation details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T194754Z" creationid="xccui" creationdate="20190715T194754Z">
+        <seg>但这种2PC数据汇函数是否能够提供此类保障并非取决于它的实现细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>which is obtained from the SourceContext.getCheckpointLock() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174317Z" creationid="xccui" creationdate="20190712T174317Z">
