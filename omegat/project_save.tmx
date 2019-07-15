@@ -18313,8 +18313,8 @@
       <tuv lang="EN-US">
         <seg>GenericWriteAheadSink eases the implementation of sink operators with improved consistency properties.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T041541Z" creationid="xccui" creationdate="20190715T041448Z">
-        <seg>GenericWriteAheadSink简化了那些拥有更佳一致性属性的数据汇算子的实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042419Z" creationid="xccui" creationdate="20190715T041448Z">
+        <seg>GenericWriteAheadSink简化了那些具有更佳一致性属性的数据汇算子的实现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33962,8 +33962,8 @@
       <tuv lang="EN-US">
         <seg>The operator is integrated with Flink’s checkpointing mecha‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042358Z" creationid="xccui" creationdate="20190715T041530Z">
-        <seg>这些算子会和Flink的检查点机制相结合，力求将记录以精确一次语义写入外部系统。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042626Z" creationid="xccui" creationdate="20190715T041530Z">
+        <seg>这些算子会和Flink的检查点机制相结合，致力于将记录以精确一次语义写入外部系统。</seg>
       </tuv>
     </tu>
     <tu>
