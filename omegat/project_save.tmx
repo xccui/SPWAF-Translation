@@ -19575,6 +19575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you should be aware that failure scenarios exist in which a write-ahead log sink emits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042845Z" creationid="xccui" creationdate="20190715T042845Z">
+        <seg>然而你要明白，启用了WAL的数据汇在某些极端场景下可能会将记录写出多次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How‐ ever, as of Flink 1.7 no such tool exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T045503Z" creationid="xccui" creationdate="20190705T045217Z">
@@ -44764,6 +44772,14 @@
         <seg>new and modified files are continuously read.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191143Z" creationid="xccui" creationdate="20190710T191143Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nism and aims to write each record exactly once to an external system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042629Z" creationid="xccui" creationdate="20190715T042629Z">
         <seg></seg>
       </tuv>
     </tu>
