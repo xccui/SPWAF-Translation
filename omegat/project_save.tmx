@@ -25023,6 +25023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let’s summarize the requirements for the external sink system:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T213128Z" creationid="xccui" creationdate="20190715T213128Z">
+        <seg>下面我们来总结一下对于外部数据汇系统的要求：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Library style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143638Z" creationid="xccui" creationdate="20190606T143638Z">
@@ -33124,6 +33132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061603Z" creationid="xccui" creationdate="20190706T061603Z">
         <seg>传递给setQueryable()方法的外部标识符可以随意选择，它们只会在可查询式状态客户端的配置中用到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The external sink system must provide transactional support or the sink must be able to emulate transactions on the external system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T213520Z" creationid="xccui" creationdate="20190715T213520Z">
+        <seg>外部数据汇系统必须支持事务，否则就要在数据汇上基于外部系统模拟事务。</seg>
       </tuv>
     </tu>
     <tu>
