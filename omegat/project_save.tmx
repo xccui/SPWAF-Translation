@@ -8406,6 +8406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional parameters specify</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T202617Z" creationid="xccui" creationdate="20190716T202617Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional require&lt;t2/&gt;‐&lt;t3/&gt; ments to successfully support streaming analytics applications are support for event-time processing in order to produce correct and deterministic results and the ability to process large amounts of data in little time, i.e., high throughput.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T033210Z" creationid="xccui" creationdate="20190319T033109Z">
@@ -50485,6 +50493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040424Z" creationid="xccui" creationdate="20190611T040424Z">
         <seg>wget https://github.com/streaming-with-flink/examples-scala/archive/master.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>when to time out the asynchronous call for a record and how many concurrent requests to start.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T203636Z" creationid="xccui" creationdate="20190716T202614Z">
+        <seg>其他参数包括异步调用的超时时间以及请求的并发上限等。</seg>
       </tuv>
     </tu>
     <tu>
