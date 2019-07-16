@@ -47753,6 +47753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>stream processing benchmark, which is based on a stream of advertisement clicks that need to be enriched with details about their corresponding campaign that are stored in a key-value store.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T191425Z" creationid="xccui" creationdate="20190716T191012Z">
+        <seg>一个例子就是著名的Yahoo!流处理基准测试，它需要使用键值存储中的广告详细信息去丰富一条广告点击数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T015026Z" creationid="xccui" creationdate="20190622T015026Z">
