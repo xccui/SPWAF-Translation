@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Note: This is NOT best practice!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210952Z" creationid="xccui" creationdate="20190716T210952Z">
+        <seg>// 注意：实际应用中不要这么做！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// O: the type of output elements FlatMapFunction[T, O]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T061027Z" creationid="xccui" creationdate="20190613T061027Z">
