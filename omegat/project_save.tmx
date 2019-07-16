@@ -10369,8 +10369,8 @@
       <tuv lang="EN-US">
         <seg>AsyncFunction concurrently sends multiple queries and processes their results asyn‐ chronously.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192418Z" creationid="xccui" creationdate="20190716T192311Z">
-        <seg>该函数可以同时发出多个查询并对其结果进行异步处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192709Z" creationid="xccui" creationdate="20190716T192311Z">
+        <seg>该函数能够同时发出多个查询并对其结果进行异步处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24315,6 +24315,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T054031Z" creationid="xccui" creationdate="20190614T061430Z">
         <seg>它将一个ReduceFunction应用在一个KeyedStream上，每个到来事件都会和reduce结果进行一次组合，从而产生一个新的DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be configured to preserve the order of records (requests might</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192654Z" creationid="xccui" creationdate="20190716T192600Z">
+        <seg>它还可以通过配置对记录进行保序（因为请求的结果返回顺序可能和它们的发出顺序不同），</seg>
       </tuv>
     </tu>
     <tu>
