@@ -16767,6 +16767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214529Z" creationid="xccui" creationdate="20190716T214529Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, you have seen why state is important in streaming applications and how you can guard it against failures and guarantee correct results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T051729Z" creationid="xccui" creationdate="20190416T051720Z">
@@ -31498,8 +31506,8 @@
       <tuv lang="EN-US">
         <seg>Subsequently, we showed you how to implement custom source and sink connectors, including WAL and 2PC sink connectors, providing detailed examples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214235Z" creationid="xccui" creationdate="20190716T214235Z">
-        <seg>随后，我们通过详细示例向你展示了如何实现自定义的数据源连接器以及数据汇连接器，包括WAL和2PC的数据汇连接器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214509Z" creationid="xccui" creationdate="20190716T214235Z">
+        <seg>随后，我们通过详细示例向你展示了如何实现自定义的数据源连接器以及数据汇连接器，其中主要包括基于WAL和2PC的数据汇连接器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31548,6 +31556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130843Z" creationid="xccui" creationdate="20190605T130843Z">
         <seg>总结 | 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary | 219</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214545Z" creationid="xccui" creationdate="20190716T214545Z">
+        <seg>总结 | 219</seg>
       </tuv>
     </tu>
     <tu>
@@ -43385,6 +43401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>asynchronously.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214540Z" creationid="xccui" creationdate="20190716T214540Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ated with the windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050619Z" creationid="xccui" creationdate="20190626T050619Z">
@@ -45931,8 +45955,8 @@
       <tuv lang="EN-US">
         <seg>learned about Flink’s AsyncFunction, which can significantly improve the perfor‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214410Z" creationid="xccui" creationdate="20190716T214410Z">
-        <seg>最后，你学习了Flink的AsyncFunction，它可以通过异步处理请求显著提高和外界系统交互的性能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214524Z" creationid="xccui" creationdate="20190716T214410Z">
+        <seg>最后，你学习了Flink的AsyncFunction，它可以通过异步处理请求显著提高与外界系统交互的性能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46037,6 +46061,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024428Z" creationid="xccui" creationdate="20190624T023815Z">
         <seg>单个窗口状态用于维护同一窗口内多次调用process()方法所需共享的信息，这种多次调用可能是由于配置了允许数据迟到或使用了自定义触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mance of interacting with external systems by performing and handling requests</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214538Z" creationid="xccui" creationdate="20190716T214533Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
