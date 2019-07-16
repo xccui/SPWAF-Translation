@@ -46417,6 +46417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>orderedWait() applies an asynchronous operator that emits results in the order of the input records, while the operator of unorderWait() only ensures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T202332Z" creationid="xccui" creationdate="20190716T202332Z">
+        <seg>orderedWait()会启用一个按照数据记录顺序发出结果的异步算子，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out.collect("Temperature of sensor '" + ctx.getCurrentKey + "' monotonically increased for 1 second.") currentTimer.clear()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071743Z" creationid="xccui" creationdate="20190621T071743Z">
@@ -50453,6 +50461,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234106Z" creationid="xccui" creationdate="20190605T234106Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>watermarks and checkpoint barriers remain aligned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T202434Z" creationid="xccui" creationdate="20190716T202434Z">
+        <seg>而unorderWait()中的异步算子只能让水位线和检查点分隔符保持对齐。</seg>
       </tuv>
     </tu>
     <tu>
