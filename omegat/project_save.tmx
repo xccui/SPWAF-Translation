@@ -2328,8 +2328,8 @@
       <tuv lang="EN-US">
         <seg>// direct execution context to forward result future to callback object</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205736Z" creationid="xccui" creationdate="20190716T205736Z">
-        <seg>// 用于将future结果转发给回调对象</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205822Z" creationid="xccui" creationdate="20190716T205736Z">
+        <seg>// 用于将结果Future转发给回调对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -15387,6 +15387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T045733Z" creationid="xccui" creationdate="20190612T044410Z">
         <seg>执行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Executes JDBC query in a thread and handles the resulting Future</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205919Z" creationid="xccui" creationdate="20190716T205814Z">
+        <seg>在一个线程内执行JDBC查询并通过异步回调处理产生的Future对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32368,6 +32376,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Java API provides an AsyncDataStream class with the respective static methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210045Z" creationid="xccui" creationdate="20190716T210045Z">
+        <seg>Java API中提供了包含这些静态方法的AsyncDataStream类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The JobID can be obtained via the REST API, the Web UI, or the log files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034916Z" creationid="xccui" creationdate="20190707T034916Z">
@@ -46489,6 +46505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>org.apache.flink.runtime.concurrent.Executors.directExecutor())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205742Z" creationid="xccui" creationdate="20190716T205742Z">
+        <seg>org.apache.flink.runtime.concurrent.Executors.directExecutor())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>out.collect("Temperature of sensor '" + ctx.getCurrentKey + "' monotonically increased for 1 second.") currentTimer.clear()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071743Z" creationid="xccui" creationdate="20190621T071743Z">
@@ -46613,6 +46637,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042656Z" creationid="xccui" creationdate="20190626T042656Z">
         <seg>override def assignWindows( o: Object,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def asyncInvoke( reading: SensorReading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205921Z" creationid="xccui" creationdate="20190716T205921Z">
+        <seg>override def asyncInvoke( reading: SensorReading,</seg>
       </tuv>
     </tu>
     <tu>
@@ -47241,6 +47273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>private lazy val directExecCtx = ExecutionContext.fromExecutor(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205738Z" creationid="xccui" creationdate="20190716T205738Z">
+        <seg>private lazy val directExecCtx = ExecutionContext.fromExecutor(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>private lazy val subtaskIdx = getRuntimeContext</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052352Z" creationid="xccui" creationdate="20190701T052352Z">
@@ -47717,6 +47757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210937Z" creationid="xccui" creationdate="20190623T210937Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>resultFuture: ResultFuture[(String, String)]): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205925Z" creationid="xccui" creationdate="20190716T205925Z">
+        <seg>resultFuture: ResultFuture[(String, String)]): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -50677,6 +50725,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052323Z" creationid="xccui" creationdate="20190701T052323Z">
         <seg>with ListCheckpointed[java.lang.Long] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with an asynchronous callback.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205851Z" creationid="xccui" creationdate="20190716T205851Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
