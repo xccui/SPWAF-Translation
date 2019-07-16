@@ -9192,8 +9192,8 @@
       <tuv lang="EN-US">
         <seg>An idempotent SinkFunction that writes to a JDBC database</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T044810Z" creationid="xccui" creationdate="20190714T044810Z">
-        <seg>写JDBC数据库的幂等性SinkFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T203934Z" creationid="xccui" creationdate="20190714T044810Z">
+        <seg>利用JDBC写数据库的幂等性SinkFunction</seg>
       </tuv>
     </tu>
     <tu>
