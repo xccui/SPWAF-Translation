@@ -19831,6 +19831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the complexity and consistency guarantees of an implementation depend on, among other things, the features and capabilities of the sink system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T060547Z" creationid="xccui" creationdate="20190716T060547Z">
+        <seg>但实现的复杂度以及提供的一致性保障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the growing adoption of stream processing technology in the recent past has been driven to a large extent by the availability of mature open source stream processors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T160136Z" creationid="xccui" creationdate="20190605T050109Z">
