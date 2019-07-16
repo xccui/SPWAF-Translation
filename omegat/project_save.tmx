@@ -7878,6 +7878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transaction must wait to be committed until a checkpoint completion notifica‐ tion is received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T024634Z" creationid="xccui" creationdate="20190716T024634Z">
+        <seg>事务只有在接收到检查点完成通知后才可以提交。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A trigger can decide based on assigned elements or registered timers (similar to a process function) to evaluate or purge the contents of its window at specific points in time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053247Z" creationid="xccui" creationdate="20190625T053247Z">
@@ -19025,8 +19033,8 @@
       <tuv lang="EN-US">
         <seg>Hence, the sink should be able to write to the sink system, but the written data must not be made visible to the outside before it is committed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T213707Z" creationid="xccui" creationdate="20190715T213707Z">
-        <seg>如果是后者，数据汇需要能向数据汇系统写入数据，但在正式提交之前，这些数据不能对外可见。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T024605Z" creationid="xccui" creationdate="20190715T213707Z">
+        <seg>如果是后者，数据汇需要能向外部系统写入数据，但在正式提交之前，这些数据不能对外可见。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22379,6 +22387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T155144Z" creationid="xccui" creationdate="20190411T153935Z">
         <seg>在这个手游例子中，后果可能非常糟糕，以至于爱丽丝和她团队的其他玩家失望透顶，再也不想碰这个游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of a recovery cycle, this may take some time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T025945Z" creationid="xccui" creationdate="20190716T025945Z">
+        <seg>如果恰好赶上恢复周期，等待时间可能会比较久。</seg>
       </tuv>
     </tu>
     <tu>
