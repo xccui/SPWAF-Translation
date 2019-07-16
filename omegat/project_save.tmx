@@ -20191,6 +20191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a sys‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200622Z" creationid="xccui" creationdate="20190716T200622Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a timestamp assigner is used, any existing timestamps and water‐ marks will be overwritten.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T025618Z" creationid="xccui" creationdate="20190620T025618Z">
@@ -47981,6 +47989,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040025Z" creationid="xccui" creationdate="20190625T040025Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tem only provides a synchronous client, you can spawn threads to send requests and handle them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200619Z" creationid="xccui" creationdate="20190716T200506Z">
+        <seg>而如果外部系统只提供了同步客户端，你可以通过多线程的方式来发送请求并对其进行处理。</seg>
       </tuv>
     </tu>
     <tu>
