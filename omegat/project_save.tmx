@@ -7886,6 +7886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transactional sink that writes to files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041116Z" creationid="xccui" creationdate="20190716T041116Z">
+        <seg>写文件的事务性数据汇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A trigger can decide based on assigned elements or registered timers (similar to a process function) to evaluate or purge the contents of its window at specific points in time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053247Z" creationid="xccui" creationdate="20190625T053247Z">
@@ -13743,6 +13751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Essentially, this is a sim‐ plified version of the BucketingFileSink discussed earlier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T040953Z" creationid="xccui" creationdate="20190716T040953Z">
+        <seg>本质上，它是我们之前讨论过的BucketingFileSink的一个简化版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Estimates mean there is room for errors, in which case you might gen‐ erate watermarks that are inaccurate, resulting in late data or an unnecessary increase in the application’s latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033508Z" creationid="xccui" creationdate="20190621T033508Z">
@@ -14915,6 +14931,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T040917Z" creationid="xccui" creationdate="20190716T040917Z">
         <seg>示例8-15展示了的TwoPhaseCommitSinkFunction可以将数据以精确一次语义写文件系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T040957Z" creationid="xccui" creationdate="20190716T040957Z">
+        <seg>示例8-15，</seg>
       </tuv>
     </tu>
     <tu>
