@@ -32920,6 +32920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The asyncInvoke() method is called for each input record with two parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200933Z" creationid="xccui" creationdate="20190716T200933Z">
+        <seg>对于每个输入记录我们都会使用两个参数去调用asyncInvoke()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The batch processor periodically processes the data in batch storage, writes the exact results into a batch table, and drops the corre‐ sponding inaccurate results from the speed table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052357Z" creationid="xccui" creationdate="20190605T052246Z">
@@ -34260,6 +34268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005027Z" creationid="xccui" creationdate="20190624T005027Z">
         <seg>该接口定义了输入类型IN，累加器类型ACC以及结果类型OUT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The interface of AsyncFunction is shown in the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200747Z" creationid="xccui" creationdate="20190716T200738Z">
+        <seg>AsyncFunction接口内容如下所示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36100,6 +36116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062731Z" creationid="xccui" creationdate="20190706T062731Z">
         <seg>可查询式状态的类型是ValueState，它内部的数据类型和输入流的类型相同（在我们示例中即(String, Double)）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The type parameters of the function define its input and output types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200825Z" creationid="xccui" creationdate="20190716T200825Z">
+        <seg>函数的类型参数定义了输入和输出的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43953,6 +43977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>def asyncInvoke(input: IN, resultFuture: ResultFuture[OUT]): Unit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200750Z" creationid="xccui" creationdate="20190716T200750Z">
+        <seg>def asyncInvoke(input: IN, resultFuture: ResultFuture[OUT]): Unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>def collectWithTimestamp(T record, long timestamp): Unit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T035642Z" creationid="xccui" creationdate="20190713T035642Z">
@@ -48549,6 +48581,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052104Z" creationid="xccui" creationdate="20190606T205535Z">
         <seg>对基于时间的算子任务而言，其收集和处理的记录可能会包含乱序的时间戳。这些算子只有当自己的事件时间时钟（由接收的水位线驱动）指示不必再等那些包含相关时间戳的记录时，才会最终触发计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>trait AsyncFunction[IN, OUT] extends Function {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200740Z" creationid="xccui" creationdate="20190716T200740Z">
+        <seg>trait AsyncFunction[IN, OUT] extends Function {</seg>
       </tuv>
     </tu>
     <tu>
