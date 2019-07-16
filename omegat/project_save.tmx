@@ -22401,8 +22401,8 @@
       <tuv lang="EN-US">
         <seg>In the case of a recovery cycle, this may take some time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T025945Z" creationid="xccui" creationdate="20190716T025945Z">
-        <seg>如果恰好赶上恢复周期，等待时间可能会比较久。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T030710Z" creationid="xccui" creationdate="20190716T025945Z">
+        <seg>若恰好赶上恢复周期，等待时间可能会比较久。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29968,6 +29968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some sink systems provide a transaction ID that can be used to commit or abort an open transaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T031214Z" creationid="xccui" creationdate="20190716T031214Z">
+        <seg>部分数据汇系统可以提供用于提交或终止已开启事务的事务ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some special types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T065127Z" creationid="xccui" creationdate="20190616T065127Z">
@@ -35156,6 +35164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161250Z" creationid="xingcan" creationdate="20190709T161021Z">
         <seg>数据汇连接器要在检查点完成前等待kafka确认记录写入完毕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sink must be able to recover a transaction after a process failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T030823Z" creationid="xccui" creationdate="20190716T030823Z">
+        <seg>数据汇需要在进程发生故障时进行事务恢复。</seg>
       </tuv>
     </tu>
     <tu>
