@@ -18191,6 +18191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, Flink’s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T061010Z" creationid="xccui" creationdate="20190716T061010Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, Kafka 0.10 added support for record timestamps.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T203455Z" creationid="xccui" creationdate="20190708T203455Z">
@@ -19833,8 +19841,8 @@
       <tuv lang="EN-US">
         <seg>However, the complexity and consistency guarantees of an implementation depend on, among other things, the features and capabilities of the sink system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T060756Z" creationid="xccui" creationdate="20190716T060547Z">
-        <seg>但具体实现的复杂度以及能够提供的一致性保障会取决于很多外部因素，例如数据汇系统的特性及功能等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T060820Z" creationid="xccui" creationdate="20190716T060547Z">
+        <seg>但具体实现的复杂度以及能够提供的一致性保障会取决于数据汇系统的特性及功能等因素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25003,6 +25011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T202807Z" creationid="xccui" creationdate="20190708T201834Z">
         <seg>Kafka将事件流组织为不同的主题（topic）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kafka producer implements the TwoPhaseCommitSinkFunction interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T061007Z" creationid="xccui" creationdate="20190716T061007Z">
+        <seg>举例而言，Flink的Kafka生产者实现就继承了TwoPhaseCommitSinkFunction类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48245,6 +48261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054847Z" creationid="xccui" creationdate="20190617T054847Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tioned before, the connector might lose data if a transaction is rolled back due to a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T061050Z" creationid="xccui" creationdate="20190716T061050Z">
+        <seg>如前所述，该连接器可能会因为事务超时回滚而丢失数据。</seg>
       </tuv>
     </tu>
     <tu>
