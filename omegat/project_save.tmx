@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* to the target directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042003Z" creationid="xccui" creationdate="20190716T042003Z">
+        <seg>* 来提交事务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* with a temperature below 32F.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023903Z" creationid="xccui" creationdate="20190622T023641Z">
@@ -1222,10 +1230,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/** Aborts a transaction by deleting the transaction file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042203Z" creationid="xccui" creationdate="20190716T042203Z">
+        <seg>/** 通过删除事务文件来终止事务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/** Commit a transaction by moving the precommitted transaction file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041935Z" creationid="xccui" creationdate="20190716T041935Z">
-        <seg>/** 通过将预先提交的事务文件移动到目标</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042017Z" creationid="xccui" creationdate="20190716T041935Z">
+        <seg>/** 通过将预提交的事务文件移动到目标目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T162300Z" creationid="xccui" creationdate="20190702T162300Z">
         <seg>//检查温度是否过高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// check if the file exists to ensure that the commit is idempotent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042140Z" creationid="xccui" creationdate="20190716T042118Z">
+        <seg>// 检查目标文件是否存在以保证提交的幂等性</seg>
       </tuv>
     </tu>
     <tu>
@@ -38616,6 +38640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TwoPhaseCommitSinkFunction[IN, TXN, CONTEXT] has three type parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042224Z" creationid="xccui" creationdate="20190716T042224Z">
+        <seg>TwoPhaseCommitSinkFunction[IN, TXN, CONTEXT]需要三个类型参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type Information in the Scala API</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054635Z" creationid="xccui" creationdate="20190617T054635Z">
@@ -44433,6 +44465,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (Files.exists(tFilePath)) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042120Z" creationid="xccui" creationdate="20190716T042120Z">
+        <seg>if (Files.exists(tFilePath)) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if (in.temperature &gt; threshold) {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052459Z" creationid="xccui" creationdate="20190701T052459Z">
@@ -45945,6 +45985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def abort(transaction: String): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042205Z" creationid="xccui" creationdate="20190716T042205Z">
+        <seg>override def abort(transaction: String): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def add(in: (String, Double), acc: (String, Double, Int)) = { (in._1, in._2 + acc._2, 1 + acc._3)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005610Z" creationid="xccui" creationdate="20190624T005610Z">
@@ -46005,6 +46053,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045838Z" creationid="xccui" creationdate="20190714T045838Z">
         <seg>override def close(): Unit = { insertStmt.close() updateStmt.close() conn.close()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def commit(transaction: String): Unit = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042019Z" creationid="xccui" creationdate="20190716T042019Z">
+        <seg>override def commit(transaction: String): Unit = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -48337,6 +48393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val cFilePath = Paths.get(s"$targetPath/$transaction") Files.move(tFilePath, cFilePath)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042143Z" creationid="xccui" creationdate="20190716T042143Z">
+        <seg>val cFilePath = Paths.get(s"$targetPath/$transaction") Files.move(tFilePath, cFilePath)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val caseClassType: TypeInformation[Person] = Types.CASE_CLASS[Person]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053917Z" creationid="xccui" creationdate="20190617T053917Z">
@@ -49325,6 +49389,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200552Z" creationid="xccui" creationdate="20190626T200552Z">
         <seg>val t = ctx.getCurrentWatermark + (1000 - (ctx.getCurrentWatermark % 1000)) ctx.registerEventTimeTimer(t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val tFilePath = Paths.get(s"$tempPath/$transaction")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042023Z" creationid="xccui" creationdate="20190716T042023Z">
+        <seg>val tFilePath = Paths.get(s"$tempPath/$transaction")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val tFilePath = Paths.get(s"$tempPath/$transaction") if (Files.exists(tFilePath)) { Files.delete(tFilePath)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042208Z" creationid="xccui" creationdate="20190716T042208Z">
+        <seg>val tFilePath = Paths.get(s"$tempPath/$transaction") if (Files.exists(tFilePath)) { Files.delete(tFilePath)</seg>
       </tuv>
     </tu>
     <tu>
