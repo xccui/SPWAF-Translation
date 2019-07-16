@@ -12055,6 +12055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Common antipatterns that must be avoided include:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T213432Z" creationid="xccui" creationdate="20190716T213432Z">
+        <seg>日常中应该避免一些反面模式包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common challenges that distributed systems need to address are allocation and man&lt;t0/&gt;‐&lt;t1/&gt; agement of compute resources in a cluster, process coordination, durable and avail&lt;t2/&gt;‐&lt;t3/&gt; able data storage, and failure recovery.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T031359Z" creationid="xccui" creationdate="20190418T031209Z">
@@ -36844,6 +36852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041619Z" creationid="xccui" creationdate="20190705T041619Z">
         <seg>因此，这些看上去不惹眼的改动其实并非保存点兼容的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the asyncInvoke() method should quickly return by starting an asynchro‐ nous request and handling the result with a callback that forwards the result to ResultFuture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T213320Z" creationid="xccui" creationdate="20190716T213320Z">
+        <seg>因此asyncInvoke()方法需要在发出异步请求后立即返回，并处理回调函数将结果发给ResultFuture。</seg>
       </tuv>
     </tu>
     <tu>
