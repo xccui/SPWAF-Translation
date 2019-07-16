@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// apply result handling callback on the room future</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211946Z" creationid="xccui" creationdate="20190716T211946Z">
+        <seg>// 对房间Future对象应用结果处理回调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// assign record timestamp</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054920Z" creationid="xccui" creationdate="20190620T054920Z">
@@ -33160,6 +33168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The asyncInvoke() method of DerbyAsyncFunction in Example 8-17 wraps the blocking JDBC query in a Future, which is executed via CachedThreadPool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212123Z" creationid="xccui" creationdate="20190716T212123Z">
+        <seg>示例8-17中DerbyAsyncFunction的asyncInvoke()方法将阻塞式的JDBC查询包在Future对象中，后者会通过CachedThreadPool来执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The asynchronous operator that applies an AsyncFunction is configured with the AsyncDataStream object,10 which provides two static methods: orderedWait() and unorderedWait().</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201937Z" creationid="xccui" creationdate="20190716T201937Z">
@@ -38624,6 +38640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To keep the example concise, we create a new JDBC connection for each record, which is, of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212226Z" creationid="xccui" creationdate="20190716T212226Z">
+        <seg>为了让示例简单一些，我们为每条记录都创建了一个新的JDBC连接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To key the stream by sensor ID we can pass the field name id to the keyBy() func‐ tion:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042634Z" creationid="xccui" creationdate="20190618T042634Z">
@@ -43497,6 +43521,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>case Failure(e) =&gt; resultFuture.completeExceptionally(e)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211955Z" creationid="xccui" creationdate="20190716T211955Z">
+        <seg>case Failure(e) =&gt; resultFuture.completeExceptionally(e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>case Success(r) =&gt; resultFuture.complete(Seq((sensor, r)))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211952Z" creationid="xccui" creationdate="20190716T211952Z">
+        <seg>case Success(r) =&gt; resultFuture.complete(Seq((sensor, r)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>case class Address( address: String, zip: String country: String)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T045954Z" creationid="xccui" creationdate="20190618T045954Z">
@@ -47897,6 +47937,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211853Z" creationid="xccui" creationdate="20190716T211853Z">
+        <seg>room</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>room.onComplete {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211948Z" creationid="xccui" creationdate="20190716T211948Z">
+        <seg>room.onComplete {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>round-robin distribution transformation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043417Z" creationid="xccui" creationdate="20190616T043417Z">
@@ -50989,6 +51045,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T155940Z" creationid="xingcan" creationdate="20190628T155940Z">
         <seg>} else { out.collect(r)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}(cachingPoolExecCtx)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211856Z" creationid="xccui" creationdate="20190716T211856Z">
+        <seg>}(cachingPoolExecCtx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}(directExecCtx)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211958Z" creationid="xccui" creationdate="20190716T211958Z">
+        <seg>}(directExecCtx)</seg>
       </tuv>
     </tu>
     <tu>
