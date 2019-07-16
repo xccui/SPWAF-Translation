@@ -10255,6 +10255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you can see, the implementation of the interface is not too involved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053749Z" creationid="xccui" creationdate="20190716T053749Z">
+        <seg>如你所见，TwoPhaseCommitSinkFunction实现起来并不复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you learned in “Time Semantics”, Flink’s time- based operators can be applied with different notions of time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T050236Z" creationid="xccui" creationdate="20190619T050204Z">
@@ -27640,6 +27648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our TransactionalFileSink in Example 8-15 checks if the transaction file still exists and deletes it if that is the case.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053631Z" creationid="xccui" creationdate="20190716T053631Z">
+        <seg>示例8-15中的TransactionalFileSink会检查事务文件是否存在，如果存在则将它删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our code exam‐ ples use Scala for conciseness, but the Java API is mostly analogous (exceptions or special cases will be pointed out).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T035509Z" creationid="xccui" creationdate="20190612T034526Z">
@@ -37384,6 +37400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This method may also be called twice for a transaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053601Z" creationid="xccui" creationdate="20190716T053549Z">
+        <seg>该方法可能同样会针对一个事务调用多次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method receives a Par titioner object that implements the partitioning logic and the field or key posi‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050335Z" creationid="xccui" creationdate="20190616T050245Z">
@@ -42533,6 +42557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055447Z" creationid="xccui" creationdate="20190618T055342Z">
         <seg>或者覆盖Java的序列化反序列化方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>abort(txn: TXN): Unit aborts a transaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053457Z" creationid="xccui" creationdate="20190716T053457Z">
+        <seg>abort(txn: TXN): Unit终止给定事务。</seg>
       </tuv>
     </tu>
     <tu>
