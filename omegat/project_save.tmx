@@ -9630,6 +9630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink provides the AsyncFunction to mitigate the latency of remote I/O calls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192319Z" creationid="xccui" creationdate="20190716T192254Z">
+        <seg>Apache Flink提供的AsyncFunction可以有效降低I/O调用所带来的延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink stores application state locally in memory or in an embedded database and not in a remote database.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T031826Z" creationid="xccui" creationdate="20190305T031826Z">
@@ -10355,6 +10363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045615Z" creationid="xccui" creationdate="20190620T045615Z">
         <seg>周期性分配水位线的含义是我们会指示系统以固定的机器时间间隔来发出水位线并推动事件时间前进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AsyncFunction concurrently sends multiple queries and processes their results asyn‐ chronously.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192418Z" creationid="xccui" creationdate="20190716T192311Z">
+        <seg>该函数可以同时发出多个查询并对其结果进行异步处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41603,8 +41619,8 @@
       <tuv lang="EN-US">
         <seg>While this approach is easy to implement, it suffers from a major issue: each request to the external datastore adds significant</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192124Z" creationid="xccui" creationdate="20190716T192124Z">
-        <seg>虽然该方法很容易实现，但它存在一个严重问题：每次请求外部数据库都会带来很多延迟（一次请求和回复过程包含两条网络消息）</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192155Z" creationid="xccui" creationdate="20190716T192124Z">
+        <seg>虽然该方法很容易实现，但它存在一个严重问题：每次请求外部数据库都会带来很多延迟（一次请求和回复过程包含两条网络消息），</seg>
       </tuv>
     </tu>
     <tu>
@@ -45361,6 +45377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>latency (a request/response involves two network messages) and the MapFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192143Z" creationid="xccui" creationdate="20190716T192143Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lazy val currentTimer: ValueState[Long] = getRuntimeContext.getState(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071405Z" creationid="xccui" creationdate="20190621T071405Z">
@@ -47693,6 +47717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071605Z" creationid="xccui" creationdate="20190630T071605Z">
         <seg>或者，你也可以显式指定一个TypeSerializer来控制状态如何写入状态后端、检查点及保存点。2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>spends most of its time waiting for query results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192203Z" creationid="xccui" creationdate="20190716T192141Z">
+        <seg>因此MapFunction的大部分时间都带等待查询结果。</seg>
       </tuv>
     </tu>
     <tu>
