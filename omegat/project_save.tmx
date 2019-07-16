@@ -10767,6 +10767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides ingesting or emitting data streams, enriching a data stream by looking up information in a remote database is another common use case that requires interact‐ ing with an external storage system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T190850Z" creationid="xccui" creationdate="20190716T190850Z">
+        <seg>除了单纯的收发之外，我们还经常需要利用从远程数据库获取的信息来丰富数据流，此时也会涉及和外部存储系统的交互。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides removing the need for an additional operator, assigning timestamps and gen‐ erating watermarks in a source function can be beneficial if one parallel instance of a source function consumes records from multiple stream partitions, such as partitions of a Kafka topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T040326Z" creationid="xccui" creationdate="20190713T040326Z">
