@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// caching execution context used to handle the query threads private lazy val cachingPoolExecCtx = ExecutionContext.fromExecutor(Executors.newCachedThreadPool())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205528Z" creationid="xccui" creationdate="20190716T205528Z">
+        <seg>// 缓存用于处理查询线程的执行环境 private lazy val cachingPoolExecCtx = ExecutionContext.fromExecutor(Executors.newCachedThreadPool())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// can be looked up in logs of running job or the web UI</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040028Z" creationid="xccui" creationdate="20190707T040028Z">
@@ -43553,6 +43561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class DerbyAsyncFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T204231Z" creationid="xccui" creationdate="20190716T204231Z">
+        <seg>class DerbyAsyncFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class DerbyUpsertSink extends RichSinkFunction[SensorReading] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045100Z" creationid="xccui" creationdate="20190714T045100Z">
@@ -44573,6 +44589,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054753Z" creationid="xccui" creationdate="20190620T054753Z">
         <seg>extends AssignerWithPunctuatedWatermarks[SensorReading] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extends AsyncFunction[SensorReading, (String, String)] {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T204235Z" creationid="xccui" creationdate="20190716T204235Z">
+        <seg>extends AsyncFunction[SensorReading, (String, String)] {</seg>
       </tuv>
     </tu>
     <tu>
