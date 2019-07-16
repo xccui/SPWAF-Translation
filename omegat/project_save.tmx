@@ -40592,6 +40592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We presented Flink’s most commonly used built-in source and sink connectors, which also serve as representatives for dif‐ ferent types of storage systems, such as message queues, filesystems, and key-value stores.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214016Z" creationid="xccui" creationdate="20190716T214016Z">
+        <seg>我们介绍了Flink中最为常用的内置数据源及数据汇连接器。事实上，它们还分别代表了不同类型的存储系统，例如消息队列、文件系统及键值存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We recommend using IntelliJ IDEA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T030642Z" creationid="xccui" creationdate="20190611T030642Z">
