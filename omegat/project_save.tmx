@@ -31496,6 +31496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subsequently, we showed you how to implement custom source and sink connectors, including WAL and 2PC sink connectors, providing detailed examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214235Z" creationid="xccui" creationdate="20190716T214235Z">
+        <seg>随后，我们通过详细示例向你展示了如何实现自定义的数据源连接器以及数据汇连接器，包括WAL和2PC的数据汇连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T055728Z" creationid="xccui" creationdate="20190414T055139Z">
@@ -45917,6 +45925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040854Z" creationid="xccui" creationdate="20190626T040854Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>learned about Flink’s AsyncFunction, which can significantly improve the perfor‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214410Z" creationid="xccui" creationdate="20190716T214410Z">
+        <seg>最后，你学习了Flink的AsyncFunction，它可以通过异步处理请求显著提高和外界系统交互的性能。</seg>
       </tuv>
     </tu>
     <tu>
