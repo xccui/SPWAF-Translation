@@ -43305,6 +43305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cessing because it ensures watermarks are not overtaken by records even if out-of-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200217Z" creationid="xccui" creationdate="20190716T195940Z">
+        <seg>因为即使允许结果乱序，它也能保证记录不会被之后的水位线超过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cessing time and watermark, state stores to manage per-window and per-key global</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024305Z" creationid="xccui" creationdate="20190624T011407Z">
@@ -46237,6 +46245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T185710Z" creationid="xccui" creationdate="20190626T185710Z">
         <seg>还能够在某个条件满足时只清除窗口而不发出结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>order results are enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T195943Z" creationid="xccui" creationdate="20190716T195943Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
