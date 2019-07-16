@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// direct execution context to forward result future to callback object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205736Z" creationid="xccui" creationdate="20190716T205736Z">
+        <seg>// 用于将future结果转发给回调对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// do not emit a watermark</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054855Z" creationid="xccui" creationdate="20190620T054855Z">
