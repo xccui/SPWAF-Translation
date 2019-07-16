@@ -7870,6 +7870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transaction must be open and accept writes for the duration of a checkpoint interval.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T024353Z" creationid="xccui" creationdate="20190716T024353Z">
+        <seg>在检查点的间隔期内，事务需要保持开启状态并允许数据写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A trigger can decide based on assigned elements or registered timers (similar to a process function) to evaluate or purge the contents of its window at specific points in time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053247Z" creationid="xccui" creationdate="20190625T053247Z">
@@ -33146,8 +33154,8 @@
       <tuv lang="EN-US">
         <seg>The external sink system must provide transactional support or the sink must be able to emulate transactions on the external system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T213520Z" creationid="xccui" creationdate="20190715T213520Z">
-        <seg>外部数据汇系统必须支持事务，否则就要在数据汇上基于外部系统模拟事务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T213759Z" creationid="xccui" creationdate="20190715T213520Z">
+        <seg>外部数据汇系统必须支持事务，否则就要在数据汇上模拟外部系统的事务。</seg>
       </tuv>
     </tu>
     <tu>
