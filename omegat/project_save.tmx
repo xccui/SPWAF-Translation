@@ -11679,6 +11679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Committing a transaction must be an idempotent operation—the sink or exter‐ nal system should be able to notice that a transaction was already committed or a repeated commit must have no effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T031447Z" creationid="xccui" creationdate="20190716T031447Z">
+        <seg>提交事务的操作必须是幂等的，即数据汇或外部系统需要知道某个事务是否已经提交，或者让重复提交变得无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common challenges that distributed systems need to address are allocation and man&lt;t0/&gt;‐&lt;t1/&gt; agement of compute resources in a cluster, process coordination, durable and avail&lt;t2/&gt;‐&lt;t3/&gt; able data storage, and failure recovery.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T031359Z" creationid="xccui" creationdate="20190418T031209Z">
