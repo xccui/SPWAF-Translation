@@ -24321,8 +24321,8 @@
       <tuv lang="EN-US">
         <seg>It can be configured to preserve the order of records (requests might</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192809Z" creationid="xccui" creationdate="20190716T192600Z">
-        <seg>它可以通过配置对记录进行保序（因为请求的结果返回顺序可能和它们的发出顺序不同），</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T193552Z" creationid="xccui" creationdate="20190716T192600Z">
+        <seg>它可以通过配置选择对记录进行保序（请求结果的返回顺序可能和请求发出的顺序不同），</seg>
       </tuv>
     </tu>
     <tu>
@@ -33980,6 +33980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054343Z" creationid="xccui" creationdate="20190613T020932Z">
         <seg>函数接口规定了用户需要实现的转换方法，例如上例中的map()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The function is also properly integrated with Flink’s checkpointing mechanism—input records that are currently waiting for a response are checkpointed and queries are repeated in the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T194626Z" creationid="xccui" creationdate="20190716T194626Z">
+        <seg>AsyncFunction还与Flink的检查点机制进行了良好的集成，所有正在等待响应的输入记录都会被写入检查点并支持在恢复时重新发送请求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47475,8 +47483,8 @@
       <tuv lang="EN-US">
         <seg>return in a different order than the order in which they were sent out) or return the results in the order of the query results to further reduce the latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T193414Z" creationid="xccui" creationdate="20190716T192803Z">
-        <seg>也可以为了追求更低的延迟按照请求结果的顺序处理记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T193915Z" creationid="xccui" creationdate="20190716T192803Z">
+        <seg>也可以为了追求更低的延迟按照请求结果的返回顺序处理记录。</seg>
       </tuv>
     </tu>
     <tu>
