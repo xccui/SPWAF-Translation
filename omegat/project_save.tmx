@@ -16671,6 +16671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, we apply an onComplete() callback on Future and pass the result (or a possi‐ ble exception) to the ResultFuture handler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212525Z" creationid="xccui" creationdate="20190716T212525Z">
+        <seg>最终我们调用了Future的onComplete()回调函数，将结果（也可能是异常）传给ResultFuture处理器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, we briefly discuss the evolution of open source stream processors and help you run a streaming application on a local Flink instance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T064839Z" creationid="esouser" creationdate="20190603T163101Z">
@@ -18955,6 +18963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053249Z" creationid="xccui" creationdate="20190604T052208Z">
         <seg>此外，Flink可以将应用状态重置到之前的某个检查点，从而允许应用在不丢失状态的前提下更新或扩缩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Future[String] holds the result of the JDBC query.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212359Z" creationid="xccui" creationdate="20190716T212359Z">
+        <seg>Future[String]保存了JDBC查询的结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38642,8 +38658,8 @@
       <tuv lang="EN-US">
         <seg>To keep the example concise, we create a new JDBC connection for each record, which is, of</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212226Z" creationid="xccui" creationdate="20190716T212226Z">
-        <seg>为了让示例简单一些，我们为每条记录都创建了一个新的JDBC连接，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212325Z" creationid="xccui" creationdate="20190716T212226Z">
+        <seg>处于示例简洁考虑，我们为每条记录都创建了一个新的JDBC连接，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44069,6 +44085,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202707Z" creationid="xccui" creationdate="20190702T202707Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>course, quite inefficient and should be avoided.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212347Z" creationid="xccui" creationdate="20190716T212236Z">
+        <seg>这会非常耗时，需要在实际应用中避免。</seg>
       </tuv>
     </tu>
     <tu>
