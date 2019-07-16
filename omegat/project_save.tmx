@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// close resultset, statement, and connection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211738Z" creationid="xccui" creationdate="20190716T211738Z">
+        <seg>// 关闭结果集、语句及连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// close writer and socket writer.close() socket.close()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024903Z" creationid="xccui" creationdate="20190714T024903Z">
@@ -2656,16 +2664,16 @@
       <tuv lang="EN-US">
         <seg>// get room from Derby table as Future</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210221Z" creationid="xccui" creationdate="20190716T210221Z">
-        <seg>// 以Future形式存储Derby表</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211801Z" creationid="xccui" creationdate="20190716T210221Z">
+        <seg>// 以Future形式从Derby表中获取房间</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>// get room if there is one</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211551Z" creationid="xccui" creationdate="20190716T211551Z">
-        <seg>// 如果有剩余空间就获取一个</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211850Z" creationid="xccui" creationdate="20190716T211551Z">
+        <seg>// 如果有剩余房间就获取一个</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,6 +3250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051156Z" creationid="xccui" creationdate="20190620T051156Z">
         <seg>// 返回记录的时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// return room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211750Z" creationid="xccui" creationdate="20190716T211750Z">
+        <seg>// 返回房间</seg>
       </tuv>
     </tu>
     <tu>
@@ -47825,6 +47841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>result.close() query.close() conn.close()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211740Z" creationid="xccui" creationdate="20190716T211740Z">
+        <seg>result.close() query.close() conn.close()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>resultFuture: ResultFuture[(String, String)]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205925Z" creationid="xccui" creationdate="20190716T205925Z">
@@ -50025,6 +50049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val room = if (result.next()) { result.getString(1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211554Z" creationid="xccui" creationdate="20190716T211554Z">
+        <seg>val room = if (result.next()) { result.getString(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val room: Future[String] = Future {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210223Z" creationid="xccui" creationdate="20190716T210223Z">
@@ -50933,6 +50965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054844Z" creationid="xccui" creationdate="20190620T054844Z">
         <seg>} else {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} else { "UNKNOWN ROOM"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211600Z" creationid="xccui" creationdate="20190716T211600Z">
+        <seg>} else { "UNKNOWN ROOM"</seg>
       </tuv>
     </tu>
     <tu>
