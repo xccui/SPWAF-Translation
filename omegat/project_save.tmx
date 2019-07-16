@@ -1272,8 +1272,8 @@
       <tuv lang="EN-US">
         <seg>/** Flush and close the current transaction file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041831Z" creationid="xccui" creationdate="20190716T041831Z">
-        <seg>/** 写出文件内容并关闭当前事务文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053111Z" creationid="xccui" creationdate="20190716T041831Z">
+        <seg>/** 强制写出文件内容并关闭当前事务文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7354,6 +7354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T021747Z" creationid="xccui" creationdate="20190401T021452Z">
         <seg>主题标签计数的物理dataflow计划，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A precommitted trans‐ action may not receive further writes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052911Z" creationid="xccui" creationdate="20190716T052911Z">
+        <seg>预提交过后的事物将不再接收额外的数据写入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16353,8 +16361,8 @@
       <tuv lang="EN-US">
         <seg>Finally, TwoPhaseCommitSinkFunction defines five functions that need to be imple‐ mented:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052556Z" creationid="xccui" creationdate="20190716T052556Z">
-        <seg>最后我们介绍TwoPhaseCommitSinkFunction中需要实现的五个函数：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053027Z" creationid="xccui" creationdate="20190716T052556Z">
+        <seg>最后我们介绍TwoPhaseCommitSinkFunction中需要实现的五个方法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27640,6 +27648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our implementation in Example 8-15</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053104Z" creationid="xccui" creationdate="20190716T053019Z">
+        <seg>示例8-15中，该方法的实现方式是强制写出并关闭事务文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our unique network of experts and innovators share their knowledge and expertise through books, articles, conferences, and our online learning platform.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210831Z" creationid="esouser" creationdate="20190603T210831Z">
@@ -37416,6 +37432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This operation must be idem‐ potent—records must not be written twice to the output system if this method is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053257Z" creationid="xccui" creationdate="20190716T053257Z">
+        <seg>该操作必须是幂等的，即在多次调用的情况下它不会多次向外部系统写出记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This partitioning strategy must be used with</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045954Z" creationid="xccui" creationdate="20190616T045912Z">
@@ -43449,6 +43473,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>commit(txn: TXN): Unit commits a transaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053124Z" creationid="xccui" creationdate="20190716T053124Z">
+        <seg>commit(txn: TXN): Unit提交指定事务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>compared to event time as it does not provide deterministic results and has simi‐ lar performance as event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071915Z" creationid="xccui" creationdate="20190619T071915Z">
@@ -44348,6 +44380,14 @@
         <seg>flink.partition-discovery.interval-millis with a nonnegative value to the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042441Z" creationid="xccui" creationdate="20190709T042441Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flushes and closes the transaction file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053052Z" creationid="xccui" creationdate="20190716T053052Z">
         <seg></seg>
       </tuv>
     </tu>
