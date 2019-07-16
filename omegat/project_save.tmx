@@ -9134,6 +9134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example is the well-known Yahoo!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T191430Z" creationid="xccui" creationdate="20190716T191430Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An idempotent SinkFunction that writes to a JDBC database</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T044810Z" creationid="xccui" creationdate="20190714T044810Z">
@@ -35700,6 +35708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223351Z" creationid="xccui" creationdate="20190608T223351Z">
         <seg>朴素算法的步骤包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The straightforward approach for such use cases is to implement a MapFunction that queries the datastore for every processed record, waits for the query to return a result,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T191458Z" creationid="xccui" creationdate="20190716T191458Z">
+        <seg>它的一个直观的方案</seg>
       </tuv>
     </tu>
     <tu>
