@@ -20039,6 +20039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN specifies the type of the input records.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T043911Z" creationid="xccui" creationdate="20190716T043911Z">
+        <seg>IN用于指定输入记录的类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ideally, you would like this latency to remain constant and independent of the rate of the incoming events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052913Z" creationid="xccui" creationdate="20190401T205449Z">
