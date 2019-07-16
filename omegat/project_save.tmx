@@ -24871,6 +24871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is important to point out that an AsyncFunction instance is sequentially called for each of its input records—a function instance is not called in a multithreaded fashion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T213112Z" creationid="xccui" creationdate="20190716T213112Z">
+        <seg>需要指出的一点是，AsyncFunction实例会按照它输入记录的顺序被串行调用。换句话说，对于函数实例本身的调用不涉及任何多线程操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important to understand that the initial design of an applica‐ tion determines if and how it can be modified later on in a savepoint-compatible way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024907Z" creationid="xccui" creationdate="20190705T024630Z">
