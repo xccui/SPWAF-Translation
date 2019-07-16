@@ -35714,8 +35714,8 @@
       <tuv lang="EN-US">
         <seg>The straightforward approach for such use cases is to implement a MapFunction that queries the datastore for every processed record, waits for the query to return a result,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T191458Z" creationid="xccui" creationdate="20190716T191458Z">
-        <seg>它的一个直观的方案</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T191848Z" creationid="xccui" creationdate="20190716T191458Z">
+        <seg>该用例的一个直观解决方案是实现一个MapFunction，它会针对每一条处理记录去查询数据库并等待结果返回，随后才可以丰富记录并发出结果。</seg>
       </tuv>
     </tu>
     <tu>
