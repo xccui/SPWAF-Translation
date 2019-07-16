@@ -23551,6 +23551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter you learned how Flink DataStream applications can read data from and write data to external systems and the requirements for an application to achieve different end-to-end consistency guarantees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T213824Z" creationid="xccui" creationdate="20190716T213824Z">
+        <seg>本章你学到了Flink DataStream应用如何读写外部系统的数据，以及应用实现不同端到端一致性保障的相关需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter you learned how to implement streaming applications that operate on time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041419Z" creationid="xccui" creationdate="20190629T041419Z">
@@ -29628,6 +29636,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T210305Z" creationid="xccui" creationdate="20190709T210305Z">
         <seg>Semantic.NONE，不做任何一致性保障，记录可能会丢失或写入多次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending a request that blocks the asyncInvoke() method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T213621Z" creationid="xccui" creationdate="20190716T213518Z">
+        <seg>发送导致asyncInvoke()方法阻塞的请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending an asynchronous request but waiting inside the asyncInvoke() method for the request to complete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T213546Z" creationid="xccui" creationdate="20190716T213546Z">
+        <seg>发送异步请求，但在asyncInvoke()方法内等待请求完成</seg>
       </tuv>
     </tu>
     <tu>
