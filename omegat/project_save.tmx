@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041410Z" creationid="xccui" creationdate="20190716T041410Z">
+        <seg>.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.fromCollection(Seq(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031609Z" creationid="xccui" creationdate="20190622T031609Z">
@@ -1226,6 +1234,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023624Z" creationid="xccui" creationdate="20190622T023402Z">
         <seg>/** 对于温度低于32F的读数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/** Flush and close the current transaction file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041831Z" creationid="xccui" creationdate="20190716T041831Z">
+        <seg>/** 写出文件内容并关闭当前事务文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/** Write record into the current transaction file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041550Z" creationid="xccui" creationdate="20190716T041550Z">
+        <seg>/** 将记录写入当前事务文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create transaction file and writer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041429Z" creationid="xccui" creationdate="20190716T041429Z">
+        <seg>// 创建事务文件及写入器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// default constructor is present</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044839Z" creationid="xccui" creationdate="20190617T044839Z">
@@ -2758,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// name of transaction file is returned to later identify the transaction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041526Z" creationid="xccui" creationdate="20190716T041526Z">
+        <seg>// 返回事务文件名以便日后标识</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// no previous temperature defined; just update the last temperature</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023135Z" creationid="xccui" creationdate="20190701T023135Z">
@@ -2842,6 +2882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062056Z" creationid="xccui" creationdate="20190630T062056Z">
         <seg>// 根据传感器ID进行键值分区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// path of transaction file is built from current time and task index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041404Z" creationid="xccui" creationdate="20190716T041404Z">
+        <seg>// 事务文件的路径由当前时间和任务索引决定</seg>
       </tuv>
     </tu>
     <tu>
@@ -43313,6 +43361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>context: Context[_]): Unit = { transactionWriter.write(value.toString) transactionWriter.write('\n')</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041555Z" creationid="xccui" creationdate="20190716T041555Z">
+        <seg>context: Context[_]): Unit = { transactionWriter.write(value.toString) transactionWriter.write('\n')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>copied their state to the remote storage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202707Z" creationid="xccui" creationdate="20190702T202707Z">
@@ -46049,6 +46105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def invoke( transaction: String, value: (String, Double),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041552Z" creationid="xccui" creationdate="20190716T041552Z">
+        <seg>override def invoke( transaction: String, value: (String, Double),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def invoke( value: SensorReading,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024733Z" creationid="xccui" creationdate="20190714T024733Z">
@@ -47721,6 +47785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>this.transactionWriter = Files.newBufferedWriter(tFilePath) println(s"Creating Transaction File: $tFilePath")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041434Z" creationid="xccui" creationdate="20190716T041434Z">
+        <seg>this.transactionWriter = Files.newBufferedWriter(tFilePath) println(s"Creating Transaction File: $tFilePath")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>threshold.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T204926Z" creationid="xccui" creationdate="20190704T204926Z">
@@ -47949,6 +48021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052104Z" creationid="xccui" creationdate="20190606T205535Z">
         <seg>对基于时间的算子任务而言，其收集和处理的记录可能会包含乱序的时间戳。这些算子只有当自己的事件时间时钟（由接收的水位线驱动）指示不必再等那些包含相关时间戳的记录时，才会最终触发计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transactionFile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041528Z" creationid="xccui" creationdate="20190716T041528Z">
+        <seg>transactionFile</seg>
       </tuv>
     </tu>
     <tu>
@@ -49225,6 +49305,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val tFilePath = Paths.get(s"$tempPath/$transactionFile") Files.createFile(tFilePath)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041431Z" creationid="xccui" creationdate="20190716T041431Z">
+        <seg>val tFilePath = Paths.get(s"$tempPath/$transactionFile") Files.createFile(tFilePath)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val taskIdx = this.getRuntimeContext.getIndexOfThisSubtask val transactionFile = s"$timeNow-$taskIdx"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041414Z" creationid="xccui" creationdate="20190716T041414Z">
+        <seg>val taskIdx = this.getRuntimeContext.getIndexOfThisSubtask val transactionFile = s"$timeNow-$taskIdx"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val tempDiff = (reading.temperature - lastTemp).abs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064449Z" creationid="xccui" creationdate="20190630T064449Z">
@@ -49269,6 +49365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T024307Z" creationid="xccui" creationdate="20190702T024307Z">
         <seg>val thresholds: DataStream[ThresholdUpdate] = ???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val timeNow = LocalDateTime.now(ZoneId.of("UTC"))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041406Z" creationid="xccui" creationdate="20190716T041406Z">
+        <seg>val timeNow = LocalDateTime.now(ZoneId.of("UTC"))</seg>
       </tuv>
     </tu>
     <tu>
