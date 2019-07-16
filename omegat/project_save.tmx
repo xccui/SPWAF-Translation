@@ -21095,6 +21095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Example 8-15, this is a Tuple2 with a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T043949Z" creationid="xccui" creationdate="20190716T043949Z">
+        <seg>示例8-15中用到的是一个由String和Double字段组成的Tuple2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Example 8-4, we use a Sim pleStringEncoder, which calls the toString() method of the record and writes the String representation of the record to the file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T024309Z" creationid="xccui" creationdate="20190711T024309Z">
@@ -30984,6 +30992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>String and a Double field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T043951Z" creationid="xccui" creationdate="20190716T043951Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sub&lt;t0/&gt;‐&lt;t1/&gt; sets of an organization’s data are stored in multiple of these systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T040827Z" creationid="xccui" creationdate="20190314T065729Z">
@@ -31132,6 +31148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190004Z" creationid="xccui" creationdate="20190626T190004Z">
         <seg>T element, long timestamp, W window, TriggerContext ctx);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TXN defines a transaction identifier that can be used to identify and recover a transaction after a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T044057Z" creationid="xccui" creationdate="20190716T044057Z">
+        <seg>TXN定义了一个事务标识符，可用于故障后的事务识别和恢复。</seg>
       </tuv>
     </tu>
     <tu>
