@@ -21991,6 +21991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast to the JDBC query Future, the onComplete() callback is processed by DirectExecutor because passing the result</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212620Z" creationid="xccui" creationdate="20190716T212620Z">
+        <seg>和JDBC查询使用Future不同，onComplete()回调是通过DirectExecutor来处理的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast to the ReduceFunction, the intermediate data type and the output type do not depend on the input type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005140Z" creationid="xccui" creationdate="20190624T005140Z">
@@ -26715,6 +26723,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063858Z" creationid="xccui" creationdate="20190715T063858Z">
         <seg>注意，GenericWriteAheadSink没有实现SinkFunction接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that all operations are done in a nonblocking fashion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212744Z" creationid="xccui" creationdate="20190716T212744Z">
+        <seg>注意，以上所有操作都是以非阻塞的方式来完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48909,6 +48925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031401Z" creationid="xccui" creationdate="20190620T031401Z">
         <seg>都会使元素的时间戳顺序产生混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to ResultFuture is a lightweight operation that does not require a dedicated thread.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212709Z" creationid="xccui" creationdate="20190716T212623Z">
+        <seg>因为将结果传递给ResultFuture对象是一个相对轻量级的操作，我们无须为它分配一个单独的线程。</seg>
       </tuv>
     </tu>
     <tu>
