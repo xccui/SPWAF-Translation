@@ -34848,6 +34848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The protocol and the requirements of the sink system might be easier to understand by looking at a concrete example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T031720Z" creationid="xccui" creationdate="20190716T031720Z">
+        <seg>为了理解数据汇系统的协议和需求，我们来看一个具体的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The purpose of the snapshotState()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071540Z" creationid="xccui" creationdate="20190702T071540Z">
