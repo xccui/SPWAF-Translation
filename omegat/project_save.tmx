@@ -11359,6 +11359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTEXT defines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052259Z" creationid="xccui" creationdate="20190716T052259Z">
+        <seg>CONTEXT用于指定一个可选的自定义上下文的类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTINUE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184358Z" creationid="xccui" creationdate="20190626T184358Z">
@@ -21099,6 +21107,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T043949Z" creationid="xccui" creationdate="20190716T043949Z">
         <seg>示例8-15中用到的是一个由String和Double字段组成的Tuple2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Example 8-15, this is a string holding the name of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052155Z" creationid="xccui" creationdate="20190716T052155Z">
+        <seg>在示例8-15中，标识符是一个字符串类型的事务文件名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47821,6 +47837,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052101Z" creationid="xccui" creationdate="20190701T021555Z">
         <seg>这有可能在状态化函数进行故障恢复或应用从保存点开始执行的情况下出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the transaction file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052158Z" creationid="xccui" creationdate="20190716T052158Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
