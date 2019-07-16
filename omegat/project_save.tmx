@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Creating a new connection and statement for each record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210846Z" creationid="xccui" creationdate="20190716T210846Z">
+        <seg>// 为每条记录创建一个新的连接及语句。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// DataStream of Tuple2&lt;String, Integer&gt; for Person(name, age) DataStream&lt;Tuple2&lt;String, Integer&gt;&gt; persons = env.fromElements( Tuple2.of("Adam", 17),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T035155Z" creationid="xccui" creationdate="20190617T035155Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042705Z" creationid="xccui" creationdate="20190702T042705Z">
         <seg>// 获取只读广播状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// get room from Derby table as Future</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210221Z" creationid="xccui" creationdate="20190716T210221Z">
+        <seg>// 以Future形式存储Derby表</seg>
       </tuv>
     </tu>
     <tu>
@@ -10475,6 +10491,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T060014Z" creationid="xccui" creationdate="20190225T025331Z">
         <seg>异步访问外部系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Asynchronously Accessing External Systems | 217</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210057Z" creationid="xccui" creationdate="20190716T210057Z">
+        <seg>异步访问外部系统 | 217</seg>
       </tuv>
     </tu>
     <tu>
@@ -49929,6 +49953,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val room: Future[String] = Future {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210223Z" creationid="xccui" creationdate="20190716T210223Z">
+        <seg>val room: Future[String] = Future {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val second: DataStream[(Int, String)] = ...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T051658Z" creationid="xccui" creationdate="20190615T051658Z">
@@ -49941,6 +49973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040832Z" creationid="xccui" creationdate="20190615T040832Z">
         <seg>val second: DataStream[String] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensor = reading.id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210100Z" creationid="xccui" creationdate="20190716T210100Z">
+        <seg>val sensor = reading.id</seg>
       </tuv>
     </tu>
     <tu>
