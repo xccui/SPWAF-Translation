@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*/ override def preCommit(transaction: String): Unit = { transactionWriter.flush()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041857Z" creationid="xccui" creationdate="20190716T041857Z">
+        <seg>*/ override def preCommit(transaction: String): Unit = { transactionWriter.flush()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-1L</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034527Z" creationid="xccui" creationdate="20190713T034527Z">
@@ -1210,6 +1218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200135Z" creationid="xccui" creationdate="20190626T200135Z">
         <seg>/** 可提前触发的触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/** Commit a transaction by moving the precommitted transaction file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041935Z" creationid="xccui" creationdate="20190716T041935Z">
+        <seg>/** 通过将预先提交的事务文件移动到目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -48029,6 +48045,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041528Z" creationid="xccui" creationdate="20190716T041528Z">
         <seg>transactionFile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transactionWriter.close()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041902Z" creationid="xccui" creationdate="20190716T041902Z">
+        <seg>transactionWriter.close()</seg>
       </tuv>
     </tu>
     <tu>
