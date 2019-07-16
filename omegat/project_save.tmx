@@ -11361,8 +11361,8 @@
       <tuv lang="EN-US">
         <seg>CONTEXT defines</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052259Z" creationid="xccui" creationdate="20190716T052259Z">
-        <seg>CONTEXT用于指定一个可选的自定义上下文的类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052346Z" creationid="xccui" creationdate="20190716T052259Z">
+        <seg>CONTEXT用于指定一个可选的自定义上下文对象的类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16347,6 +16347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041654Z" creationid="xccui" creationdate="20190710T040946Z">
         <seg>最后要说的是，Flink的Kafka数据汇可以通过配置，为0.10之后版本的Kafka写入消息时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, TwoPhaseCommitSinkFunction defines five functions that need to be imple‐ mented:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052556Z" creationid="xccui" creationdate="20190716T052556Z">
+        <seg>最后我们介绍TwoPhaseCommitSinkFunction中需要实现的五个函数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33048,6 +33056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The constructor of TwoPhaseCommitSinkFunction requires two TypeSerializer— one for the TXN type and the other for the CONTEXT type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052518Z" creationid="xccui" creationdate="20190716T052518Z">
+        <seg>TwoPhaseCommitSinkFunction的构造函数需要传入两个TypeSerializer，一个用于TXN类型，另一个用于CONTEXT类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The constructor takes three arguments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T212438Z" creationid="xccui" creationdate="20190708T212438Z">
@@ -38464,6 +38480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TransactionalFileSink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052409Z" creationid="xccui" creationdate="20190716T052409Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformation operations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T152748Z" creationid="xccui" creationdate="20190405T152748Z">
@@ -42569,6 +42593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052302Z" creationid="xccui" creationdate="20190716T052302Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>an OutOfMemoryError.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222743Z" creationid="xccui" creationdate="20190703T222743Z">
@@ -43457,6 +43489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>context.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052312Z" creationid="xccui" creationdate="20190716T052312Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>context: Context[_]): Unit = { transactionWriter.write(value.toString) transactionWriter.write('\n')</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041555Z" creationid="xccui" creationdate="20190716T041555Z">
@@ -43637,6 +43677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060023Z" creationid="xccui" creationdate="20190621T060023Z">
         <seg>currentWatermark(): Long返回当前水位线的时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052308Z" creationid="xccui" creationdate="20190716T052308Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -44717,6 +44765,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054850Z" creationid="xccui" creationdate="20190617T054850Z">
         <seg>import org.apache.flink.streaming.api.scala._</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in Example 8-15 does not need the context and hence sets the type to Void.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052406Z" creationid="xccui" creationdate="20190716T052406Z">
+        <seg>示例8-15中的TransactionalFileSink不需要该上下文对象，因此将其类型设置为Void。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45909,6 +45965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061103Z" creationid="xccui" creationdate="20190618T061103Z">
         <seg>open()通常用于那些只需进行一次的设置工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optional</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052306Z" creationid="xccui" creationdate="20190716T052306Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
