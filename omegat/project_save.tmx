@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041304Z" creationid="xccui" creationdate="20190716T041304Z">
+        <seg>* 临时文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T071254Z" creationid="xccui" creationdate="20190621T071254Z">
@@ -1194,6 +1202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200135Z" creationid="xccui" creationdate="20190626T200135Z">
         <seg>/** 可提前触发的触发器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/** Creates a temporary file for a transaction into which the records are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041256Z" creationid="xccui" creationdate="20190716T041256Z">
+        <seg>/** 为写入记录的事务创建一个</seg>
       </tuv>
     </tu>
     <tu>
@@ -7794,6 +7810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071617Z" creationid="xccui" creationdate="20190607T024100Z">
         <seg>一个任务会为它的每个输入分区都维护一个分区水位线（partition watermark）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A task might need to commit multiple transactions if an acknowledgment message is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041229Z" creationid="xccui" creationdate="20190716T041229Z">
+        <seg>如果某个确认消息丢失，任务可能需要一次提交多个事务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43137,6 +43161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class TransactionalFileSink(val targetPath: String, val tempPath: String) extends TwoPhaseCommitSinkFunction[(String, Double), String, Void]( createTypeInformation[String].createSerializer(new ExecutionConfig), createTypeInformation[Void].createSerializer(new ExecutionConfig)) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041119Z" creationid="xccui" creationdate="20190716T041119Z">
+        <seg>class TransactionalFileSink(val targetPath: String, val tempPath: String) extends TwoPhaseCommitSinkFunction[(String, Double), String, Void]( createTypeInformation[String].createSerializer(new ExecutionConfig), createTypeInformation[Void].createSerializer(new ExecutionConfig)) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class Tuple2ToPersonMapper extends MapFunction[(String, Int), Person] with ResultTypeQueryable[Person] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061912Z" creationid="xccui" creationdate="20190617T061912Z">
@@ -45853,6 +45885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042656Z" creationid="xccui" creationdate="20190626T042656Z">
         <seg>override def assignWindows( o: Object,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def beginTransaction(): String = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041313Z" creationid="xccui" creationdate="20190716T041313Z">
+        <seg>override def beginTransaction(): String = {</seg>
       </tuv>
     </tu>
     <tu>
@@ -49437,6 +49477,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034249Z" creationid="xccui" creationdate="20190619T034249Z">
         <seg>var subTaskIndex = 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>var transactionWriter: BufferedWriter = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041125Z" creationid="xccui" creationdate="20190716T041125Z">
+        <seg>var transactionWriter: BufferedWriter = _</seg>
       </tuv>
     </tu>
     <tu>
