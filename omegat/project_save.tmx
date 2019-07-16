@@ -22359,6 +22359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to take advantage of AsyncFunction, the external system should provide a client that supports asynchronous calls, which is the case for many systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200425Z" creationid="xccui" creationdate="20190716T200425Z">
+        <seg>为了充分利用AsyncFunction，外部系统最好能够提供一个支持异步调用的客户端，很多现有系统都可以做到这点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to use a provided connector in your application, you need to add its depend‐ ency to the build file of your project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200339Z" creationid="xccui" creationdate="20190708T200339Z">
