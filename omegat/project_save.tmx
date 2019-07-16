@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.getConnection( "jdbc:derby:memory:flinkExample", new Properties())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211038Z" creationid="xccui" creationdate="20190716T211038Z">
+        <seg>.getConnection( "jdbc:derby:memory:flinkExample", new Properties())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.getIndexOfThisSubtask</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052356Z" creationid="xccui" creationdate="20190701T052356Z">
@@ -1394,6 +1402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192245Z" creationid="xccui" creationdate="20190626T192245Z">
         <seg>// 在触发器中清除那些为给定窗口保存的状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// Connections and prepared statements should be cached.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211033Z" creationid="xccui" creationdate="20190716T211033Z">
+        <seg>// 你应该对连接和预编译语句进行缓存。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// get room if there is one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211551Z" creationid="xccui" creationdate="20190716T211551Z">
+        <seg>// 如果有剩余空间就获取一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// get threshold for sensor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042738Z" creationid="xccui" creationdate="20190702T042738Z">
@@ -3442,6 +3466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071403Z">
         <seg>// 存储当前活动计时器的时间戳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// submit query and wait for result; this is a synchronous call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211108Z" creationid="xccui" creationdate="20190716T211059Z">
+        <seg>// 提交查询并等待结果，该调用是异步的</seg>
       </tuv>
     </tu>
     <tu>
@@ -47857,6 +47889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>s"SELECT room FROM SensorLocations WHERE sensor = '$sensor'")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211111Z" creationid="xccui" creationdate="20190716T211111Z">
+        <seg>s"SELECT room FROM SensorLocations WHERE sensor = '$sensor'")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>scenarios in more detail later in this section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043211Z" creationid="xccui" creationdate="20190715T043211Z">
@@ -49209,6 +49249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val conn = DriverManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211035Z" creationid="xccui" creationdate="20190716T211035Z">
+        <seg>val conn = DriverManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val connected: ConnectedStreams[Int, String] = first.connect(second)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T040824Z" creationid="xccui" creationdate="20190615T040824Z">
@@ -49873,6 +49921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val query = conn.createStatement()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211042Z" creationid="xccui" creationdate="20190716T211042Z">
+        <seg>val query = conn.createStatement()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val r = scala.util.Random</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050636Z" creationid="xccui" creationdate="20190616T050636Z">
@@ -49933,6 +49989,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T051333Z" creationid="xccui" creationdate="20190612T051333Z">
         <seg>val remoteEnv = StreamExecutionEnvironment.createRemoteEnvironment( "host",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val result = query.executeQuery(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211101Z" creationid="xccui" creationdate="20190716T211101Z">
+        <seg>val result = query.executeQuery(</seg>
       </tuv>
     </tu>
     <tu>
