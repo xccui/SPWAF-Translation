@@ -10991,6 +10991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both methods are overloaded for different combinations of parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T202203Z" creationid="xccui" creationdate="20190716T202203Z">
+        <seg>它们二者都提供了多个不同参数组合的重载方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both templates implement the CheckpointListener interface to receive notifications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T034956Z" creationid="xccui" creationdate="20190715T034956Z">
