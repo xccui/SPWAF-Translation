@@ -19833,8 +19833,8 @@
       <tuv lang="EN-US">
         <seg>However, the complexity and consistency guarantees of an implementation depend on, among other things, the features and capabilities of the sink system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T060547Z" creationid="xccui" creationdate="20190716T060547Z">
-        <seg>但实现的复杂度以及提供的一致性保障</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T060756Z" creationid="xccui" creationdate="20190716T060547Z">
+        <seg>但具体实现的复杂度以及能够提供的一致性保障会取决于很多外部因素，例如数据汇系统的特性及功能等。</seg>
       </tuv>
     </tu>
     <tu>
