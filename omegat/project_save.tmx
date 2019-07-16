@@ -2832,8 +2832,8 @@
       <tuv lang="EN-US">
         <seg>// name of transaction file is returned to later identify the transaction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T041526Z" creationid="xccui" creationdate="20190716T041526Z">
-        <seg>// 返回事务文件名以便日后标识</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T044117Z" creationid="xccui" creationdate="20190716T041526Z">
+        <seg>// 返回事务文件名，便于日后识别</seg>
       </tuv>
     </tu>
     <tu>
@@ -31154,8 +31154,8 @@
       <tuv lang="EN-US">
         <seg>TXN defines a transaction identifier that can be used to identify and recover a transaction after a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T044057Z" creationid="xccui" creationdate="20190716T044057Z">
-        <seg>TXN定义了一个事务标识符，可用于故障后的事务识别和恢复。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T051945Z" creationid="xccui" creationdate="20190716T044057Z">
+        <seg>TXN定义了可用于故障后事务识别与恢复的事务标识符的类型。</seg>
       </tuv>
     </tu>
     <tu>
