@@ -20335,6 +20335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the sink system closes a transaction (e.g., with a timeout), the not committed data will be lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T030657Z" creationid="xccui" creationdate="20190716T030657Z">
+        <seg>此时如果数据汇系统因为超时等原因将事务关闭，那么所有未提交的数据都将丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the slide is larger than the window size, some elements might not be assigned to any window and hence may be dropped.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055510Z" creationid="xccui" creationdate="20190623T055207Z">
