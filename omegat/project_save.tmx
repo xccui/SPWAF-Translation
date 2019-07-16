@@ -41601,6 +41601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While this approach is easy to implement, it suffers from a major issue: each request to the external datastore adds significant</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192124Z" creationid="xccui" creationdate="20190716T192124Z">
+        <seg>虽然该方法很容易实现，但它存在一个严重问题：每次请求外部数据库都会带来很多延迟（一次请求和回复过程包含两条网络消息）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While this approach provides very low latencies to read or write state, it has</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222108Z" creationid="xccui" creationdate="20190703T222108Z">
@@ -44116,6 +44124,14 @@
         <seg>end timestamp of the window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T030912Z" creationid="xccui" creationdate="20190625T030912Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enriches the record, and emits the result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T191850Z" creationid="xccui" creationdate="20190716T191850Z">
         <seg></seg>
       </tuv>
     </tu>
