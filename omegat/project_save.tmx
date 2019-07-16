@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.orderedWait( readings,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201724Z" creationid="xccui" creationdate="20190716T201724Z">
+        <seg>.orderedWait( readings,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.print()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022917Z" creationid="xccui" creationdate="20190622T022917Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035915Z" creationid="xccui" creationdate="20190707T035915Z">
         <seg>// 假设使用本地模式，TM和客户端运行在相同机器上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// at most 100 concurrent requests</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201812Z" creationid="xccui" creationdate="20190716T201812Z">
+        <seg>// 最多100个并发请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,6 +3574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// timeout requests after 5 seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201755Z" creationid="xccui" creationdate="20190716T201755Z">
+        <seg>// 请求超时时间为5秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// to register timer callbacks and deal with state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192549Z" creationid="xccui" creationdate="20190626T192549Z">
@@ -3762,6 +3786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T045154Z" creationid="xccui" creationdate="20190619T045154Z">
         <seg>100 | 第5章：DataStream API （1.7版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201759Z" creationid="xccui" creationdate="20190716T201759Z">
+        <seg>100)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,6 +5730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043432Z" creationid="xccui" creationdate="20190611T043432Z">
         <seg>4&gt; SensorReading(sensor_32,1515014051000,4.118569049862492)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5, TimeUnit.SECONDS,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201730Z" creationid="xccui" creationdate="20190716T201730Z">
+        <seg>5, TimeUnit.SECONDS,</seg>
       </tuv>
     </tu>
     <tu>
@@ -9830,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying AsyncFunction on a DataStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201717Z" creationid="xccui" creationdate="20190716T201717Z">
+        <seg>在DataStream上应用AsyncFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying Functions on Windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023223Z" creationid="xccui" creationdate="20190225T023223Z">
@@ -10371,6 +10419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192709Z" creationid="xccui" creationdate="20190716T192311Z">
         <seg>该函数能够同时发出多个查询并对其结果进行异步处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AsyncFunction on a DataStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201700Z" creationid="xccui" creationdate="20190716T201700Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -15115,6 +15171,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T040957Z" creationid="xccui" creationdate="20190716T040957Z">
         <seg>示例8-15，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201706Z" creationid="xccui" creationdate="20190716T201706Z">
+        <seg>示例8-16，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32944,6 +33008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The asynchronous operator that applies an AsyncFunction is configured with the AsyncDataStream object,10 which provides two static methods: orderedWait() and unorderedWait().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201937Z" creationid="xccui" creationdate="20190716T201937Z">
+        <seg>接收AsyncFunction的异步算子可以通过AsynDataStream对象来配置，10 它提供了两个静态方法：orderedWait()和unorderedWait()。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The batch processor periodically processes the data in batch storage, writes the exact results into a batch table, and drops the corre‐ sponding inaccurate results from the speed table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052357Z" creationid="xccui" creationdate="20190605T052246Z">
@@ -45913,6 +45985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>new DerbyAsyncFunction,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201727Z" creationid="xccui" creationdate="20190716T201727Z">
+        <seg>new DerbyAsyncFunction,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>new FileCheckpointCommitter(System.getProperty("java.io.tmpdir")),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064311Z" creationid="xccui" creationdate="20190715T064311Z">
@@ -49789,6 +49869,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T051126Z" creationid="xccui" creationdate="20190613T051126Z">
         <seg>val sensorIds: DataStream[String] = readings.map(r =&gt; r.id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sensorLocations: DataStream[(String, String)] = AsyncDataStream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201720Z" creationid="xccui" creationdate="20190716T201720Z">
+        <seg>val sensorLocations: DataStream[(String, String)] = AsyncDataStream</seg>
       </tuv>
     </tu>
     <tu>
