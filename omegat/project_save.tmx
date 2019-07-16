@@ -25791,6 +25791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, AsyncFunction properly works with event-time pro‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T195828Z" creationid="xccui" creationdate="20190716T194643Z">
+        <seg>此外，AsyncFunction可以在事件时间处理模式下正确地工作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, Flink provides Maven archetypes to bootstrap new Flink Maven projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T090928Z" creationid="xccui" creationdate="20190611T020723Z">
@@ -43252,6 +43260,14 @@
         <seg>case classes, or rows into a Cassandra table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210631Z" creationid="xccui" creationdate="20190711T210631Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>case of a recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T194628Z" creationid="xccui" creationdate="20190716T194628Z">
         <seg></seg>
       </tuv>
     </tu>
