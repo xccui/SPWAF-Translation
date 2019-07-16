@@ -10439,6 +10439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AsyncFunction that queries a JDBC database</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T203909Z" creationid="xccui" creationdate="20190716T203909Z">
+        <seg>利用JDBC查询数据库的AsyncFunction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Asynchronous checkpointing significantly reduces the time until a task continues to process data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T203815Z" creationid="xccui" creationdate="20190609T203754Z">
@@ -15145,8 +15153,8 @@
       <tuv lang="EN-US">
         <seg>Example 8-13 illustrates how to implement and use an idempotent SinkFunction that writes to a JDBC database, in this case an embedded Apache Derby database.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045042Z" creationid="xccui" creationdate="20190714T044729Z">
-        <seg>示例8-13展示了如何实现和使用一个写JDBC数据库（本例中用到的是Apache Derby数据库）的幂等性SinkFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T203920Z" creationid="xccui" creationdate="20190714T044729Z">
+        <seg>示例8-13展示了如何实现和使用一个利用JDBC写数据库（本例中用到的是Apache Derby数据库）的幂等性SinkFunction。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15195,6 +15203,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201706Z" creationid="xccui" creationdate="20190716T201706Z">
         <seg>示例8-16，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-17 shows DerbyAsyncFunction, which queries an embedded Derby database via its JDBC interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T203719Z" creationid="xccui" creationdate="20190716T203719Z">
+        <seg>示例8-17展示的DerbyAsyncFunction可以通过JDBC接口查询嵌入式Derby数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 8-17.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T203723Z" creationid="xccui" creationdate="20190716T203723Z">
+        <seg>示例8-17，</seg>
       </tuv>
     </tu>
     <tu>
