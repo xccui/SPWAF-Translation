@@ -24321,8 +24321,8 @@
       <tuv lang="EN-US">
         <seg>It can be configured to preserve the order of records (requests might</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192654Z" creationid="xccui" creationdate="20190716T192600Z">
-        <seg>它还可以通过配置对记录进行保序（因为请求的结果返回顺序可能和它们的发出顺序不同），</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192809Z" creationid="xccui" creationdate="20190716T192600Z">
+        <seg>它可以通过配置对记录进行保序（因为请求的结果返回顺序可能和它们的发出顺序不同），</seg>
       </tuv>
     </tu>
     <tu>
@@ -47469,6 +47469,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155135Z" creationid="xingcan" creationdate="20190709T155135Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>return in a different order than the order in which they were sent out) or return the results in the order of the query results to further reduce the latency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T193414Z" creationid="xccui" creationdate="20190716T192803Z">
+        <seg>也可以为了追求更低的延迟按照请求结果的顺序处理记录。</seg>
       </tuv>
     </tu>
     <tu>
