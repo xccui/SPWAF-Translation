@@ -35392,6 +35392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sink in Example 8-15 appends the value as a String to the transaction file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052819Z" creationid="xccui" creationdate="20190716T052819Z">
+        <seg>示例8-15中的数据汇将传入值以String形式写到事务文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sink must be able to recover a transaction after a process failed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T030823Z" creationid="xccui" creationdate="20190716T030823Z">
@@ -38484,6 +38492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052409Z" creationid="xccui" creationdate="20190716T052409Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TransactionalFileSink in Example 8-15 creates a new transaction file and returns its name as the identifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052715Z" creationid="xccui" creationdate="20190716T052715Z">
+        <seg>示例8-15中的TransactionalFileSink会创建一个新的事务文件并返回它的名字作为标识符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42873,6 +42889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>beginTransaction(): TXN starts a new transaction and returns the transaction identifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052643Z" creationid="xccui" creationdate="20190716T052643Z">
+        <seg>beginTransaction(): TXN用于启动一个新的事务并返回事务标识符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>between the events of both streams so events of both streams are randomly assigned to operator instances.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062617Z" creationid="xccui" creationdate="20190615T045451Z">
@@ -45001,6 +45025,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>invoke(txn: TXN, value: IN, context: Context[_]): Unit writes a value to the current transaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052751Z" creationid="xccui" creationdate="20190716T052751Z">
+        <seg>invoke(txn: TXN, value: IN, context: Context[_]): Unit将传入值写入当前事务中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is actually accessed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034039Z" creationid="xccui" creationdate="20190704T034039Z">
@@ -46701,6 +46733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073305Z" creationid="xccui" creationdate="20190606T150217Z">
         <seg>在检查点即将完成的时候，如果所有任务已经将各自状态成功写入远程存储，JobManager就会将状态句柄写入远程存储，并将远程位置的路径地址写入ZooKeeper。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>preCommit(txn: TXN): Unit precommits a transaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052833Z" creationid="xccui" creationdate="20190716T052833Z">
+        <seg>preCommit(txn: TXN): Unit预提交事务。</seg>
       </tuv>
     </tu>
     <tu>
