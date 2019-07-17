@@ -21831,6 +21831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a standalone deployment, the master and workers are not automatically restarted in the case of a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T160706Z" creationid="xccui" creationdate="20190717T160706Z">
+        <seg>在独立集群部署模式下，主进程和工作进程不会因为故障而重启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a true streaming model, events can be processed as soon as they arrive in the system and latency more closely reflects the actual work that has to performed on each event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T195212Z" creationid="xccui" creationdate="20190401T194838Z">
@@ -32916,6 +32924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T194311Z" creationid="xccui" creationdate="20190609T194259Z">
         <seg>JobManager在接收到所有应用任务返回的检查点确认消息后，就会将此次检查点标记为完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The JobManager requests the necessary processing slots from the ResourceManager and deploys the job for execution once the requested slots have been received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T155524Z" creationid="xccui" creationdate="20190717T155524Z">
+        <seg>JobManager向ResourceManager申请必要数量的处理槽，并在处理槽准备完毕后将作业部署执行。</seg>
       </tuv>
     </tu>
     <tu>
