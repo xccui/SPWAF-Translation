@@ -13585,8 +13585,8 @@
       <tuv lang="EN-US">
         <seg>Distributed data processing frameworks like Apache Flink need to be set up to interact with several components such as resource managers, filesystems, and services for distributed coordination.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031552Z" creationid="xccui" creationdate="20190717T031552Z">
-        <seg>像Apache Flink这样的分布式数据处理框架需要通过设置和包括资源管理器、文件系统和分布式协调服务在内的多个组件进行交互。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031752Z" creationid="xccui" creationdate="20190717T031552Z">
+        <seg>像Apache Flink这样的分布式数据处理框架需要通过设置和资源管理器、文件系统和分布式协调服务等多个组件进行交互。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23707,6 +23707,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T051028Z" creationid="xccui" creationdate="20190708T051028Z">
         <seg>在本章中，我们将讨论数据源和数据汇连接器如何影响Flink流式应用的一致性保障，并介绍Flink中最常用的数据读写连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this chapter, we discuss the different ways to deploy Flink clusters and how to con‐ figure them securely and make them highly available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031932Z" creationid="xccui" creationdate="20190717T031932Z">
+        <seg>本章我们会讨论Flink集群的多种部署方式以及如何进行安全及高可用相关配置。</seg>
       </tuv>
     </tu>
     <tu>
