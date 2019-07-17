@@ -7966,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A standalone Flink cluster consists of at least one master process and at least one TaskManager process that run on one or more machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153154Z" creationid="xccui" creationdate="20190717T153154Z">
+        <seg>一个Flink独立集群至少包含一个主进程和一个TaskManager进程，它们可以运行在一台或多台机器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A state backend is responsible for two things: local state management and checkpointing state to a remote location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061621Z" creationid="xccui" creationdate="20190608T051505Z">
