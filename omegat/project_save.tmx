@@ -22865,16 +22865,16 @@
       <tuv lang="EN-US">
         <seg>In order to set up a standalone Flink cluster, download a binary distribution from the Apache Flink website and extract the tar archive with the command:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162625Z" creationid="xccui" creationdate="20190717T162625Z">
-        <seg>为了搭建一个Flink独立集群，你可以从Apache Flink的官网下载它的二进制发行版，并利用以下命令对tar文件进行解压：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195012Z" creationid="xccui" creationdate="20190717T162625Z">
+        <seg>为了搭建一个Flink独立集群，你可以从Apache Flink的官网下载它的二进制发行版，然后利用以下命令对tar文件进行解压：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In order to start a distributed Flink cluster that runs on multiple machines, you need to adjust the default configuration and complete a few more steps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T193734Z" creationid="xccui" creationdate="20190717T193734Z">
-        <seg> 776ren order to start a distributed Flink cluster that runs on multiple machines, you need to adjust the default configuration and complete a few more steps.</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195135Z" creationid="xccui" creationdate="20190717T193734Z">
+        <seg>为了</seg>
       </tuv>
     </tu>
     <tu>
@@ -32378,8 +32378,8 @@
       <tuv lang="EN-US">
         <seg>The ./bin/start-cluster.sh script starts a master process on the local machine and one or more TaskManagers on the local or remote machines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T163400Z" creationid="xccui" creationdate="20190717T163010Z">
-        <seg>./bin/start-cluster.sh脚本会在本地机器上启动一个主进程，在本地或远程机器上启动一个或多个TaskManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195037Z" creationid="xccui" creationdate="20190717T163010Z">
+        <seg>./bin/start-cluster.sh脚本会在本地机器上启动一个主进程，并在本地或远程机器上启动一个或多个TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34266,8 +34266,8 @@
       <tuv lang="EN-US">
         <seg>The extracted directory includes a ./bin folder with bash scripts1 to start and stop Flink processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162856Z" creationid="xccui" creationdate="20190717T162753Z">
-        <seg>解压后的目录包含了一个./bin文件夹，里面装着用于启动和停止Flink进程的bash脚本 1。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195025Z" creationid="xccui" creationdate="20190717T162753Z">
+        <seg>解压后的目录包含了一个./bin文件夹，里面装有用于启动和停止Flink进程的bash脚本 1。</seg>
       </tuv>
     </tu>
     <tu>
