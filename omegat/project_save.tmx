@@ -8694,6 +8694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After reading this chapter, you will know how to set up and configure a Flink cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T032344Z" creationid="xccui" creationdate="20190717T032344Z">
+        <seg>阅读本章将使你了解如何搭建和配置Flink集群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Again, Flink does all of this.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042759Z" creationid="xccui" creationdate="20190605T042752Z">
@@ -23713,8 +23721,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, we discuss the different ways to deploy Flink clusters and how to con‐ figure them securely and make them highly available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031932Z" creationid="xccui" creationdate="20190717T031932Z">
-        <seg>本章我们会讨论Flink集群的多种部署方式以及如何进行安全及高可用相关配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T032108Z" creationid="xccui" creationdate="20190717T031932Z">
+        <seg>本章我们将讨论Flink集群的多种部署方式以及如何对它进行安全及高可用相关配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30018,8 +30026,8 @@
       <tuv lang="EN-US">
         <seg>Setting Up Flink for Streaming Applications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031718Z" creationid="xccui" creationdate="20190717T031148Z">
-        <seg>设置Flink运行流式应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T032047Z" creationid="xccui" creationdate="20190717T031148Z">
+        <seg>搭建Flink运行流式应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -40628,6 +40636,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044025Z" creationid="xccui" creationdate="20190619T044025Z">
         <seg>我们研究了Flink程序的结构，学习了如何将数据和分区转换结合来构建流式应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We explain Flink setups for dif‐ ferent Hadoop versions and filesystems and discuss the most important configuration parameters of Flink’s master and worker processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T032240Z" creationid="xccui" creationdate="20190717T032054Z">
+        <seg>我们将介绍基于不同Hadoop版本和文件系统的Flink搭建过程，并讨论Flink主进程及工作进程最为重要的配置参数。</seg>
       </tuv>
     </tu>
     <tu>
