@@ -4966,6 +4966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>208 | Chapter 8: Reading from and Writing to External Systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023151Z" creationid="xccui" creationdate="20190717T023151Z">
+        <seg>208 | 第8章：读写外部系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>209</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040201Z" creationid="xccui" creationdate="20190418T040201Z">
@@ -4982,10 +4990,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>210 | Chapter 8: Reading from and Writing to External Systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023157Z" creationid="xccui" creationdate="20190717T023157Z">
+        <seg>210 | 第8章：读写外部系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>212</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040206Z" creationid="xccui" creationdate="20190418T040206Z">
         <seg>212</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>212 | Chapter 8: Reading from and Writing to External Systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023202Z" creationid="xccui" creationdate="20190717T023202Z">
+        <seg>212 | 第8章：读写外部系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,6 +5026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040212Z" creationid="xccui" creationdate="20190418T040212Z">
         <seg>218</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>218 | Chapter 8: Reading from and Writing to External Systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023206Z" creationid="xccui" creationdate="20190717T023206Z">
+        <seg>218 | 第8章：读写外部系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -21319,10 +21351,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Implementing a Custom Sink Function | 207</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023303Z" creationid="xccui" creationdate="20190717T023303Z">
+        <seg>实现自定义数据汇函数 | 207</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementing a Custom Sink Function | 211</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023308Z" creationid="xccui" creationdate="20190717T023308Z">
+        <seg>实现自定义数据汇函数 | 211</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementing a Custom Sink Function | 213</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023311Z" creationid="xccui" creationdate="20190717T023311Z">
+        <seg>实现自定义数据汇函数 | 213</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implementing a Custom Source Function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055031Z" creationid="xccui" creationdate="20190225T025229Z">
         <seg>实现自定义数据源函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementing a Custom Source Function | 203</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023248Z" creationid="xccui" creationdate="20190717T023248Z">
+        <seg>实现自定义数据源函数 | 203</seg>
       </tuv>
     </tu>
     <tu>
@@ -28708,6 +28772,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030757Z" creationid="xccui" creationdate="20190225T025117Z">
         <seg>内置连接器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided Connectors | 187</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023225Z" creationid="xccui" creationdate="20190717T023225Z">
+        <seg>内置连接器 | 187</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided Connectors | 191</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023229Z" creationid="xccui" creationdate="20190717T023229Z">
+        <seg>内置连接器 | 191</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided Connectors | 193</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023235Z" creationid="xccui" creationdate="20190717T023235Z">
+        <seg>内置连接器 | 193</seg>
       </tuv>
     </tu>
     <tu>
