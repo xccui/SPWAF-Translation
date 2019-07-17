@@ -36168,6 +36168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The script will start a local JobManager and start one TaskMan‐ ager for each entry in the slaves file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203728Z" creationid="xccui" creationdate="20190717T203728Z">
+        <seg>该脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second approach to achieve end-to-end exactly-once consistency is based on transactional writes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072527Z" creationid="xccui" creationdate="20190708T072527Z">
