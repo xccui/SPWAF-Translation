@@ -13583,6 +13583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distributed data processing frameworks like Apache Flink need to be set up to interact with several components such as resource managers, filesystems, and services for distributed coordination.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031552Z" creationid="xccui" creationdate="20190717T031552Z">
+        <seg>像Apache Flink这样的分布式数据处理框架需要通过设置和包括资源管理器、文件系统和分布式协调服务在内的多个组件进行交互。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribution  Transformations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064528Z" creationid="xccui" creationdate="20190615T064528Z">
@@ -30002,8 +30010,8 @@
       <tuv lang="EN-US">
         <seg>Setting Up Flink for Streaming Applications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031148Z" creationid="xccui" creationdate="20190717T031148Z">
-        <seg>配置Flink运行流式应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031718Z" creationid="xccui" creationdate="20190717T031148Z">
+        <seg>设置Flink运行流式应用</seg>
       </tuv>
     </tu>
     <tu>
