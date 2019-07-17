@@ -27625,8 +27625,8 @@
       <tuv lang="EN-US">
         <seg>Once everything has been set up, you can start the Flink cluster by calling ./bin/ start-cluster.sh.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203330Z" creationid="xccui" creationdate="20190717T203330Z">
-        <seg>一切就绪后，你就可以执行./bin/start-cluster.sh来启动Flink集群。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203739Z" creationid="xccui" creationdate="20190717T203330Z">
+        <seg>一切就绪后，你就可以利用./bin/start-cluster.sh脚本来启动Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36170,8 +36170,8 @@
       <tuv lang="EN-US">
         <seg>The script will start a local JobManager and start one TaskMan‐ ager for each entry in the slaves file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203728Z" creationid="xccui" creationdate="20190717T203728Z">
-        <seg>该脚本</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203839Z" creationid="xccui" creationdate="20190717T203728Z">
+        <seg>该脚本会在本地启用一个JobManager，并针对slaves文件中的每一个条目启动一个TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
