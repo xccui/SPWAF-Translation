@@ -22839,6 +22839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to set up a standalone Flink cluster, download a binary distribution from the Apache Flink website and extract the tar archive with the command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162625Z" creationid="xccui" creationdate="20190717T162625Z">
+        <seg>为了搭建一个Flink独立集群，你可以从Apache Flink的官网下载它的二进制发行版，并利用以下命令对tar文件进行解压：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to take advantage of AsyncFunction, the external system should provide a client that supports asynchronous calls, which is the case for many systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200425Z" creationid="xccui" creationdate="20190716T200425Z">
@@ -34212,6 +34220,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043528Z" creationid="xccui" creationdate="20190714T043528Z">
         <seg>外部系统支持按照键值更新，例如关系型数据库或键值存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The extracted directory includes a ./bin folder with bash scripts1 to start and stop Flink processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162753Z" creationid="xccui" creationdate="20190717T162753Z">
+        <seg>解压后的目录包含了一个./bin目录，里面都是用于启动和停止Flink进程的bash脚本 1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48877,6 +48893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T055209Z" creationid="xccui" creationdate="20190605T235835Z">
         <seg>相反，状态化算子可能需要维护之前接收的事件信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tar xfz ./flink-1.7.1-bin-scala_2.12.tgz</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162627Z" creationid="xccui" creationdate="20190717T162627Z">
+        <seg>tar xfz ./flink-1.7.1-bin-scala_2.12.tgz</seg>
       </tuv>
     </tu>
     <tu>
