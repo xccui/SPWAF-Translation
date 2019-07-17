@@ -7150,6 +7150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A common approach is to mount a network-shared directory with the Flink distri‐ bution on each machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200510Z" creationid="xccui" creationdate="20190717T200510Z">
+        <seg>一种常用方法是将存有Flink发行版的网络共享目录挂载到每台机器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A common case is when a task per&lt;t0/&gt;‐&lt;t1/&gt; forms idempotent operations, like maximum or minimum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T050227Z" creationid="xccui" creationdate="20190416T050227Z">
@@ -32852,6 +32860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043037Z" creationid="xccui" creationdate="20190619T043037Z">
         <seg>我们在第76页"创建Flink Maven项目"中介绍了利用Flink Maven模板生成Maven项目，其中就加入了生成包含全部所需依赖的胖JAR的配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Flink distribution folder must be located on all machines at the same path.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200030Z" creationid="xccui" creationdate="20190717T200030Z">
+        <seg>Flink发行版目录在所有机器上的路径需要一致。</seg>
       </tuv>
     </tu>
     <tu>
