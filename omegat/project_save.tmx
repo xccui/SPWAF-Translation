@@ -8910,6 +8910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All processes run as regular Java JVM processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153224Z" creationid="xccui" creationdate="20190717T153224Z">
+        <seg>所有进程都是作为普通的JVM进程来运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All records are correctly written and the sendValues() method returns true; however, the program fails before CheckpointCommitter is called or Checkpoint Committer fails to commit the checkpoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065553Z" creationid="xccui" creationdate="20190715T065553Z">
