@@ -13695,6 +13695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docker containers are run by the operating system kernel of the host system and are therefore more lightweight than virtual machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214433Z" creationid="xccui" creationdate="20190717T214433Z">
+        <seg>Docker容器由宿主机的操作系统内核负责运行，因此它比虚拟机更为轻量级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docker is a popular platform used to package and run applications in containers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214305Z" creationid="xccui" creationdate="20190717T214305Z">
@@ -22851,6 +22859,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T023659Z" creationid="xccui" creationdate="20190704T023659Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to run Flink on Windows, you can use a provided bat script or you can use the regular bash scripts on the Windows Subsystem for Linux (WSL) or Cygwin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214611Z" creationid="xccui" creationdate="20190717T214611Z">
+        <seg>为了在Windows上运行Flink，你可以使用项目提供的bat脚本，或者基于WSL或Cygwin运行常规的bash脚本。</seg>
       </tuv>
     </tu>
     <tu>
