@@ -37720,6 +37720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be ensured by running one or more standby workers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162301Z" creationid="xccui" creationdate="20190717T162301Z">
+        <seg>我们可以通过运行一个或多个后备工作进程来对此进行保障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be explained by looking at the steps of a naive algorithm that takes a consistent checkpoint of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T063502Z" creationid="xccui" creationdate="20190608T223205Z">
