@@ -7142,6 +7142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A client submits a job to the Dispatcher, which internally starts a JobManager thread and provides the JobGraph for execution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T155337Z" creationid="xccui" creationdate="20190717T155337Z">
+        <seg>客户端将作业提交到Dispatcher，后者会在内部启动一个JobManager线程并提供用于执行的JobGraph。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A common case is when a task per&lt;t0/&gt;‐&lt;t1/&gt; forms idempotent operations, like maximum or minimum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T050227Z" creationid="xccui" creationdate="20190416T050227Z">
@@ -16643,6 +16651,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153314Z" creationid="xccui" creationdate="20190717T153314Z">
         <seg>图9-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 9-2 shows how a job is submitted to a standalone cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153707Z" creationid="xccui" creationdate="20190717T153707Z">
+        <seg>图9-2展示了向独立集群提交任务的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 9-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153710Z" creationid="xccui" creationdate="20190717T153710Z">
+        <seg>图9-2，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27623,6 +27647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once they start running, the TaskManagers register themselves at the ResourceMan‐ ager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153627Z" creationid="xccui" creationdate="20190717T153627Z">
+        <seg>一旦它们运行起来，TaskManager就会将自己注册到ResourceManager中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once we have a DataStream, we can apply a transformation on it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051035Z" creationid="xccui" creationdate="20190612T052239Z">
@@ -31708,6 +31740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T040827Z" creationid="xccui" creationdate="20190314T065729Z">
         <seg>一些机构的数据可能会同时存储在多个系统里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submitting an application to a Flink standalone cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153719Z" creationid="xccui" creationdate="20190717T153719Z">
+        <seg>向Flink独立集群提交应用</seg>
       </tuv>
     </tu>
     <tu>
