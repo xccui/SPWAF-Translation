@@ -23721,8 +23721,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, we discuss the different ways to deploy Flink clusters and how to con‐ figure them securely and make them highly available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T032108Z" creationid="xccui" creationdate="20190717T031932Z">
-        <seg>本章我们将讨论Flink集群的多种部署方式以及如何对它进行安全及高可用相关配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T040119Z" creationid="xccui" creationdate="20190717T031932Z">
+        <seg>本章我们将讨论Flink集群的多种部署方式以及如何对它进行安全及高可用配置。</seg>
       </tuv>
     </tu>
     <tu>
