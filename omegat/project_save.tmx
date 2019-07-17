@@ -27623,6 +27623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once everything has been set up, you can start the Flink cluster by calling ./bin/ start-cluster.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203330Z" creationid="xccui" creationdate="20190717T203330Z">
+        <seg>一切就绪后，你就可以执行./bin/start-cluster.sh来启动Flink集群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once it is running, look for the JobID in the log file or the web UI; set the JobID in the code of the dashboard and run it as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045954Z" creationid="xccui" creationdate="20190707T045747Z">
