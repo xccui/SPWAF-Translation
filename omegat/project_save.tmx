@@ -32344,6 +32344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ./bin/start-cluster.sh script starts a master process on the local machine and one or more TaskManagers on the local or remote machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T163010Z" creationid="xccui" creationdate="20190717T163010Z">
+        <seg>./bin/start-cluster.sh脚本在本地机器上启动一个主进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 2PC protocol piggybacks on Flink’s existing checkpointing mechanism.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T163409Z" creationid="xccui" creationdate="20190708T163409Z">
@@ -32930,8 +32938,8 @@
       <tuv lang="EN-US">
         <seg>The JobManager is the master process that controls the execution of a single application—each application is controlled by a different JobManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T141515Z" creationid="xccui" creationdate="20190606T141505Z">
-        <seg>作为主进程，JobManager控制着单个应用的执行。换句话说，每个应用都由一个不同的JobManager掌控。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T163019Z" creationid="xccui" creationdate="20190606T141505Z">
+        <seg>作为主进程（master process），JobManager控制着单个应用的执行。换句话说，每个应用都由一个不同的JobManager掌控。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34226,8 +34234,8 @@
       <tuv lang="EN-US">
         <seg>The extracted directory includes a ./bin folder with bash scripts1 to start and stop Flink processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162753Z" creationid="xccui" creationdate="20190717T162753Z">
-        <seg>解压后的目录包含了一个./bin目录，里面都是用于启动和停止Flink进程的bash脚本 1。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162856Z" creationid="xccui" creationdate="20190717T162753Z">
+        <seg>解压后的目录包含了一个./bin文件夹，里面装着用于启动和停止Flink进程的bash脚本 1。</seg>
       </tuv>
     </tu>
     <tu>
