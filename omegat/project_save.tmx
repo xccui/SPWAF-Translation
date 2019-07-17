@@ -17449,8 +17449,8 @@
       <tuv lang="EN-US">
         <seg>Flink is preconfigured to run a local setup and start a single master and a single Task‐ Manager on the local machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175128Z" creationid="xccui" creationdate="20190717T175128Z">
-        <seg>Flink的预定义的本地设置模式会在本地机器分别启动一个主进程和一个TaskManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175216Z" creationid="xccui" creationdate="20190717T175128Z">
+        <seg>Flink的预定义的本地设置模式会在本地机器分别启动一个主进程和一个TaskManager，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36368,6 +36368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The start scripts must be able to start a Java process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175231Z" creationid="xccui" creationdate="20190717T175212Z">
+        <seg>但前提是启动脚本可以启动Java进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The state backend is responsible for storing the local state of each task instance and persisting it to remote storage when a checkpoint is taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T213832Z" creationid="xccui" creationdate="20190703T213832Z">
@@ -49093,6 +49101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T212345Z" creationid="xccui" creationdate="20190709T212345Z">
         <seg>针对某一主题的消费者可以通过隔离级别配置（isolation.level属性）来声明自己可以读取未提交的消息（read_uncommitted，默认配置）还是不可以（read_committed）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the java binary is not on the PATH, the base folder of a Java installation can be speci‐ fied by exporting the JAVA_HOME environment variable or setting the env.java.home parameter in ./conf/flink-conf.yaml.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175529Z" creationid="xccui" creationdate="20190717T175529Z">
+        <seg>如果java二进制文件没在PATH环境变量中，你可以通过导出（export）JAVA_HOME环境变量或在./conf/flink-conf.yaml中设置env.java.home参数的方式来指定Java安装根目录。</seg>
       </tuv>
     </tu>
     <tu>
