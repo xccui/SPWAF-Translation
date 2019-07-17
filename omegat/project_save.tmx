@@ -7462,6 +7462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A local Flink cluster is started by calling ./bin/ start-cluster.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175650Z" creationid="xccui" creationdate="20190717T175650Z">
+        <seg>Flink本地集群的启动方式是执行./bin/start-cluster.sh。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A logical dataflow graph to continuously count hashtags (nodes represent operators and edges denote data dependencies)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044508Z" creationid="xccui" creationdate="20190605T224959Z">
@@ -20587,6 +20595,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070017Z" creationid="xccui" creationdate="20190708T065128Z">
         <seg>幂等性写操作对于流式应用而言很有意义，因为它们可以在不改变结果的前提下多次执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175532Z" creationid="xccui" creationdate="20190717T175532Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -43085,6 +43101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210016Z" creationid="xccui" creationdate="20190615T052419Z">
         <seg>你可以使用广播状态来联结一个按键值分好区流和一个广播流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can visit Flink’s Web UI at http://localhost:8081 and check the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175811Z" creationid="xccui" creationdate="20190717T175811Z">
+        <seg>你可以通过http://localhost:8081地址访问Flink Web UI并检查相连的TaskManager及剩余处理槽的数目。</seg>
       </tuv>
     </tu>
     <tu>
