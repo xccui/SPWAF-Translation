@@ -17447,6 +17447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink is preconfigured to run a local setup and start a single master and a single Task‐ Manager on the local machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175128Z" creationid="xccui" creationdate="20190717T175128Z">
+        <seg>Flink的预定义的本地设置模式会在本地机器分别启动一个主进程和一个TaskManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink is well integrated with cluster resource managers, such as Apache Mesos, YARN, and Kubernetes, but can also be configured to run as a stand- alone cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T044510Z" creationid="xccui" creationdate="20190606T140736Z">
