@@ -17175,6 +17175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink can be deployed in different environments, such as a local machine, a bare- metal cluster, a Hadoop YARN cluster, or a Kubernetes cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T151559Z" creationid="xccui" creationdate="20190717T151559Z">
+        <seg>Flink支持多种环境下的部署，例如本地机器、裸机集群、Hadoop YARN集群或Kubernetes集群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink does not automatically take a save‐ point, so a user (or external scheduler) has to explicitly trigger its creation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210829Z" creationid="xccui" creationdate="20190609T210829Z">
@@ -24107,6 +24115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T051855Z" creationid="xccui" creationdate="20190708T051855Z">
         <seg>在"检查点、保存点及状态恢复"一节，你了解了Flink的检查点和恢复机制会周期性地为应用状态创建一致性检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In “Components of a Flink Setup”, we introduced the different components of a Flink setup: the JobMan‐ ager, TaskManager, ResourceManager, and Dispatcher.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T151727Z" creationid="xccui" creationdate="20190717T151727Z">
+        <seg>在"搭建Flink所需组件"一节，我们介绍了Flink搭建过程中所涉及的不同组件：JobManager、TaskManager、ResourceManager及Dispatcher。</seg>
       </tuv>
     </tu>
     <tu>
