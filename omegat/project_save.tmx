@@ -22873,8 +22873,8 @@
       <tuv lang="EN-US">
         <seg>In order to start a distributed Flink cluster that runs on multiple machines, you need to adjust the default configuration and complete a few more steps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195135Z" creationid="xccui" creationdate="20190717T193734Z">
-        <seg>为了</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195810Z" creationid="xccui" creationdate="20190717T193734Z">
+        <seg>为了将Flink集群搭建在多台机器上，你需要调整一下默认的配置并完成一些额外步骤。</seg>
       </tuv>
     </tu>
     <tu>
