@@ -7478,6 +7478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A local or distributed standalone cluster is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214014Z" creationid="xccui" creationdate="20190717T214014Z">
+        <seg>你可以利用./bin/stop-cluster.sh脚本来停止本地或分布式独立集群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A logical dataflow graph to continuously count hashtags (nodes represent operators and edges denote data dependencies)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T044508Z" creationid="xccui" creationdate="20190605T224959Z">
@@ -42985,6 +42993,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can check if the master process was started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203958Z" creationid="xccui" creationdate="20190717T203958Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can configure the RollingPolicy with the withRollingPolicy() method on the builder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021655Z" creationid="xccui" creationdate="20190711T021355Z">
@@ -43677,6 +43693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222743Z" creationid="xccui" creationdate="20190703T222743Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and all TaskManager were successfully registered by accessing the Web UI on the machine that runs the master process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203955Z" creationid="xccui" creationdate="20190717T203955Z">
+        <seg>你可以通过访问主进程所在机器的Web UI来检查主进程的启动以及TaskManager的注册情况。</seg>
       </tuv>
     </tu>
     <tu>
