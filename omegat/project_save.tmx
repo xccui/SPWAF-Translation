@@ -7152,8 +7152,8 @@
       <tuv lang="EN-US">
         <seg>A common approach is to mount a network-shared directory with the Flink distri‐ bution on each machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200510Z" creationid="xccui" creationdate="20190717T200510Z">
-        <seg>一种常用方法是将存有Flink发行版的网络共享目录挂载到每台机器上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200600Z" creationid="xccui" creationdate="20190717T200510Z">
+        <seg>一种常用方法是将存有Flink发行版的网络共享目录（network-shared directory）挂载到每台机器上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32866,8 +32866,8 @@
       <tuv lang="EN-US">
         <seg>The Flink distribution folder must be located on all machines at the same path.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200030Z" creationid="xccui" creationdate="20190717T200030Z">
-        <seg>Flink发行版目录在所有机器上的路径需要一致。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200522Z" creationid="xccui" creationdate="20190717T200030Z">
+        <seg>Flink发行版目录在所有机器上的路径必须一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34904,10 +34904,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hostname (or IP address) of the machine that runs the master process needs to be configured in the ./conf/flink-conf.yaml file with the config key jobman ager.rpc.address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200756Z" creationid="xccui" creationdate="20190717T200756Z">
+        <seg>在./conf/flink-conf.yaml文件中将jobmanager.rpc.address一项配置为主进程所在机器的主机名（或IP地址）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hostnames (or IP addresses) of all machines that should run TaskManagers need to be listed in the ./conf/slaves file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195851Z" creationid="xccui" creationdate="20190717T195851Z">
-        <seg>将所有需要运行TaskManager的主机名称（或IP地址）列在./conf/slaves文件中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T202358Z" creationid="xccui" creationdate="20190717T195851Z">
+        <seg>将所有需要运行TaskManager的主机名（或IP地址）列在./conf/slaves文件中。</seg>
       </tuv>
     </tu>
     <tu>
