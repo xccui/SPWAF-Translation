@@ -32346,8 +32346,8 @@
       <tuv lang="EN-US">
         <seg>The ./bin/start-cluster.sh script starts a master process on the local machine and one or more TaskManagers on the local or remote machines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T163010Z" creationid="xccui" creationdate="20190717T163010Z">
-        <seg>./bin/start-cluster.sh脚本在本地机器上启动一个主进程</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T163400Z" creationid="xccui" creationdate="20190717T163010Z">
+        <seg>./bin/start-cluster.sh脚本会在本地机器上启动一个主进程，在本地或远程机器上启动一个或多个TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
