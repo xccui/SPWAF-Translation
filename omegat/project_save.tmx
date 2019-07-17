@@ -16631,6 +16631,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 9-1 shows a standalone Flink setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153305Z" creationid="xccui" creationdate="20190717T153239Z">
+        <seg>图9-1展示了一个Flink独立集群的搭建过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 9-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153314Z" creationid="xccui" creationdate="20190717T153314Z">
+        <seg>图9-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -31024,6 +31040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting a standalone Flink cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153341Z" creationid="xccui" creationdate="20190717T153341Z">
+        <seg>启用一个Flink独立集群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting an application from a savepoint</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213449Z" creationid="xccui" creationdate="20190609T213449Z">
@@ -35100,6 +35124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T044734Z" creationid="xccui" creationdate="20190613T042736Z">
         <seg>通过调用DataStream.map()方法可以指定map转换产生一个新的DataStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The master process runs a Dispatcher and a ResourceManager in separate threads.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153534Z" creationid="xccui" creationdate="20190717T153534Z">
+        <seg>主进程会启动单独的线程来运行Dispatcher和ResourceManager。</seg>
       </tuv>
     </tu>
     <tu>
