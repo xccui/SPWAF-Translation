@@ -11671,6 +11671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAPTER 9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T023725Z" creationid="xccui" creationdate="20190717T023725Z">
+        <seg>第9章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTEXT defines</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052346Z" creationid="xccui" creationdate="20190716T052259Z">
@@ -29987,6 +29995,14 @@
         <seg>Setting Flink Up for Streaming Applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025346Z" creationid="xccui" creationdate="20190225T025346Z">
+        <seg>配置Flink运行流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031148Z" creationid="xccui" creationdate="20190717T031148Z">
         <seg>配置Flink运行流式应用</seg>
       </tuv>
     </tu>
