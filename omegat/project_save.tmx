@@ -13695,6 +13695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docker is a popular platform used to package and run applications in containers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214305Z" creationid="xccui" creationdate="20190717T214305Z">
+        <seg>Docker是一个将应用打包并在容器中运行的流行平台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Does it include the time Alice was offline or not?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190411T152409Z" creationid="xccui" creationdate="20190411T152118Z">
@@ -48909,6 +48917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011523Z" creationid="xccui" creationdate="20190624T011523Z">
         <seg>以及用于发出数据的副输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stopped by calling ./bin/stop-cluster.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214018Z" creationid="xccui" creationdate="20190717T214018Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
