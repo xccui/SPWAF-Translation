@@ -7430,6 +7430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A job can recover from a worker failure if a sufficient number of processing slots is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T160917Z" creationid="xccui" creationdate="20190717T160917Z">
+        <seg>只要剩余处理槽的数量足够，作业就可以从工作进程故障中恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A key group is a partition of keys and Flink’s  way of assigning keys to   tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062208Z" creationid="xccui" creationdate="20190608T055919Z">
