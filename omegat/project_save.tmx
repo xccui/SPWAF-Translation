@@ -25479,6 +25479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Job recovery from a master failure requires a highly available setup as dis‐ cussed later in this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162414Z" creationid="xccui" creationdate="20190717T162414Z">
+        <seg>从主进程中的故障中恢复作业需要进行高可用设置，我们会在本章后面讨论它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JobManager failures</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T222247Z" creationid="xccui" creationdate="20190428T222247Z">
