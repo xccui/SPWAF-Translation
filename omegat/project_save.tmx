@@ -23999,6 +23999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we explain how to configure and start Flink in different environments—including standalone clusters, Docker, Apache Hadoop YARN, and Kubernetes—and how Flink’s compo‐ nents are assembled in each setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T152301Z" creationid="xccui" creationdate="20190717T152301Z">
+        <seg>本节我们将向你介绍如何在不同环境下（独立集群，Docker，Apache Hadoop YARN以及Kubernetes）配置并启动Flink，以及在每种搭建模式下它的组件是如何组装到一起的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we explain the different ways in which you can define and para‐ metrize functions in the DataStream API in more detail.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053322Z" creationid="xccui" creationdate="20190618T052914Z">
