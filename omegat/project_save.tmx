@@ -22871,6 +22871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to start a distributed Flink cluster that runs on multiple machines, you need to adjust the default configuration and complete a few more steps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T193734Z" creationid="xccui" creationdate="20190717T193734Z">
+        <seg> 776ren order to start a distributed Flink cluster that runs on multiple machines, you need to adjust the default configuration and complete a few more steps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to take advantage of AsyncFunction, the external system should provide a client that supports asynchronous calls, which is the case for many systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T200425Z" creationid="xccui" creationdate="20190716T200425Z">
@@ -46988,6 +46996,14 @@
         <seg>null field handling.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223024Z" creationid="xccui" creationdate="20190711T223024Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>number of connected TaskManagers and available slots.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175814Z" creationid="xccui" creationdate="20190717T175814Z">
         <seg></seg>
       </tuv>
     </tu>
