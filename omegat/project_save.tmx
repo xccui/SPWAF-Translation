@@ -34888,6 +34888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hostnames (or IP addresses) of all machines that should run TaskManagers need to be listed in the ./conf/slaves file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195851Z" creationid="xccui" creationdate="20190717T195851Z">
+        <seg>将所有需要运行TaskManager的主机名称（或IP地址）列在./conf/slaves文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The idea here is to only write those results to an external sink system that have been computed before the last successful checkpoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200941Z" creationid="xccui" creationdate="20190708T072819Z">
@@ -36396,6 +36404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175231Z" creationid="xccui" creationdate="20190717T175212Z">
         <seg>但前提是启动脚本可以启动Java进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The start-cluster.sh script requires a passwordless SSH configuration on all machines to be able to start the TaskManager processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195955Z" creationid="xccui" creationdate="20190717T195955Z">
+        <seg>start-cluster.sh脚本需要针对所有运行TaskManager进程的机器配置无密码SSH登录。</seg>
       </tuv>
     </tu>
     <tu>
