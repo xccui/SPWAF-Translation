@@ -16831,6 +16831,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 9-4 shows an idle Flink YARN session setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214338Z" creationid="xccui" creationdate="20190718T214338Z">
+        <seg>图9-4展示了一个空闲Flink YARN会话的设置过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 9-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214341Z" creationid="xccui" creationdate="20190718T214341Z">
+        <seg>图9-4，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -20979,6 +20995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060716Z">
         <seg>如果该计时器不存在，则方法不会有任何作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not enough slots are available, Flink’s ResourceManager requests additional containers from the YARN Resource‐ Manager to start TaskManager processes, which register themselves at the Flink ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214623Z" creationid="xccui" creationdate="20190718T214623Z">
+        <seg>如果处理槽数量不足，Flink的ResourceManager会向YARN的ResourceManager申请更多容器来启动TaskManager进程，这些进程在启动后会在Flink的ResourceManager注册自己。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31452,6 +31476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212412Z" creationid="xccui" creationdate="20190718T212412Z">
         <seg>以作业模式启动Flink YARN集群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting a Flink cluster on YARN in session mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214410Z" creationid="xccui" creationdate="20190718T214410Z">
+        <seg>以会话模式启动Flink YARN集群</seg>
       </tuv>
     </tu>
     <tu>
@@ -41989,6 +42021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182140Z" creationid="xccui" creationdate="20190606T032106Z">
         <seg>每当一个作业结束，其结果都会写入持久化存储中，同时所有算子的状态将不复存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a job is submitted for execution, the Dispatcher starts a JobManager thread, which requests slots from Flink’s ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214506Z" creationid="xccui" creationdate="20190718T214506Z">
+        <seg>当接收到一个提交执行的任务时，Dispatcher会启动一个JobManager线程，负责从Flink的ResourceManager申请处理槽。</seg>
       </tuv>
     </tu>
     <tu>
