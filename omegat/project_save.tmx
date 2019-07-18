@@ -25455,6 +25455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It manages compute resources of a cluster environment—CPU and memory of the cluster’s machines— and provides them to applications that request resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T210529Z" creationid="xccui" creationdate="20190718T210529Z">
+        <seg>它负责管理集群环境下的计算资源——集群机器的CPU和内存，并将它们提供给请求资源的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It offers different types of state primitives and supports pluggable state backends.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T050343Z" creationid="xccui" creationdate="20190707T050343Z">
@@ -43165,6 +43173,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T041133Z" creationid="xccui" creationdate="20190710T041133Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YARN is the resource manager component of Apache Hadoop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T204052Z" creationid="xccui" creationdate="20190718T204052Z">
+        <seg>YARN是Apache Hadoop的资源管理器组件。</seg>
       </tuv>
     </tu>
     <tu>
