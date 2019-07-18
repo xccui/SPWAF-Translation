@@ -33328,6 +33328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ResourceManager assigns TaskManagers to the JobManager, which deploys the job once all required resources are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T030330Z" creationid="xccui" creationdate="20190718T030330Z">
+        <seg>ResourceManager负责将TaskManager分配给JobManager，而JobManager在所有资源备齐后会对作业进行部署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ResourceManager is responsible for managing TaskManager slots, Flink’s unit of processing resources.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062008Z" creationid="xccui" creationdate="20190418T050109Z">
