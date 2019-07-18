@@ -36072,6 +36072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The port also exposes Flink’s REST API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042322Z" creationid="xccui" creationdate="20190718T042322Z">
+        <seg>它的端口同样是Flink REST API的端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ports used by the client proxy and server and additional parameters can be con‐ figured in the ./conf/flink-conf.yaml file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055955Z" creationid="xccui" creationdate="20190706T055955Z">
