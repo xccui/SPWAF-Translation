@@ -26239,6 +26239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Members of the Flink community configure and build Docker images for Apache Flink and upload them to Docker Hub, a public repository for Docker images.2 The repository hosts Docker images for the most recent Flink versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T021136Z" creationid="xccui" creationdate="20190718T021136Z">
+        <seg>Flink社区成员已经为Apache Flink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MemoryStateBackend stores state as regular objects on the heap of the TaskMan‐ ager JVM process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221848Z" creationid="xccui" creationdate="20190703T221848Z">
