@@ -32128,6 +32128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subsequently, Flink’s ResourceManager requests containers from YARN’s ResourceManager and starts TaskManager pro‐ cesses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212751Z" creationid="xccui" creationdate="20190718T212751Z">
+        <seg>随后，Flink的ResourceManager会向YARN的ResourceManager申请容器并启动TaskManager进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subsequently, it merges all windows with overlapping ranges.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062316Z" creationid="xccui" creationdate="20190623T062316Z">
@@ -33332,6 +33340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060159Z" creationid="xccui" creationdate="20190418T034828Z">
         <seg>JobManager从ResourceManager申请执行任务的必要资源（TaskManager处理槽）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The JobManager requests the required slots from the ResourceManager to run the Flink job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212709Z" creationid="xccui" creationdate="20190718T212709Z">
+        <seg>JobManager会向ResourceManager申请运行Flink作业所需的处理槽。</seg>
       </tuv>
     </tu>
     <tu>
