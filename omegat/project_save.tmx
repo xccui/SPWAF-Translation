@@ -18239,6 +18239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a local Docker setup you have to start two types of containers, a master container that runs the Dispatcher and ResourceManager, and one or more worker containers that run the TaskManagers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T022213Z" creationid="xccui" creationdate="20190718T022213Z">
+        <seg>对于本地Docker设置，你需要启动两类容器——一个运行Dispatcher和ResourceManager的主容器（master container）以及多个运行TaskManager的工作容器（worker container）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a sliding window, you have to specify a window size and a slide interval that defines how frequently a new window is started.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055016Z" creationid="xccui" creationdate="20190623T055016Z">
@@ -34020,6 +34028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145434Z" creationid="xingcan" creationdate="20190709T145434Z">
         <seg>示例8-2中的构造方法接收三个参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The containers work together like a stand‐ alone deployment (see “Standalone Cluster”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T022325Z" creationid="xccui" creationdate="20190718T022325Z">
+        <seg>这些容器的工作原理和独立集群部署（请参阅"独立集群"）类似。</seg>
       </tuv>
     </tu>
     <tu>
