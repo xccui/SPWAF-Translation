@@ -26255,6 +26255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Master and worker containers are started from the same Docker image with different parameters as shown in Example 9-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032331Z" creationid="xccui" creationdate="20190718T032331Z">
+        <seg>如示例9-1所示，主容器和工作容器可以从同一个Docker映像启动，只不过二者的参数不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Members of the Flink community configure and build Docker images for Apache Flink and upload them to Docker Hub, a public repository for Docker images.2 The repository hosts Docker images for the most recent Flink versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T021619Z" creationid="xccui" creationdate="20190718T021136Z">
