@@ -8758,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After starting, a TaskManager registers itself at the ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T022448Z" creationid="xccui" creationdate="20190718T022448Z">
+        <seg>TaskManager在启动后会在ResourceManager上注册自己。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Again, Flink does all of this.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042759Z" creationid="xccui" creationdate="20190605T042752Z">
@@ -41669,6 +41677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182140Z" creationid="xccui" creationdate="20190606T032106Z">
         <seg>每当一个作业结束，其结果都会写入持久化存储中，同时所有算子的状态将不复存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a job is submitted to the Dispatcher, it spawns a JobManager thread, which requests processing slots from the ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T022645Z" creationid="xccui" creationdate="20190718T022645Z">
+        <seg>Dispatcher在收到一个提交的作业后，会启动一个JobManager线程用以从ResourceManager请求处理槽。</seg>
       </tuv>
     </tu>
     <tu>
