@@ -7254,6 +7254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A container is started from an image that defines the software in the container.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T015513Z" creationid="xccui" creationdate="20190718T015513Z">
+        <seg>容器可以通过定义内部软件的映像启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A container that is started from this image automati‐ cally starts a TaskManager, which connects to the ResourceManager and registers its slots.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063413Z" creationid="xccui" creationdate="20190606T143759Z">
@@ -26635,6 +26643,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T062756Z" creationid="xccui" creationdate="20190715T062756Z">
         <seg>此外，算子还需要实现一个方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, they are isolated and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T014846Z" creationid="xccui" creationdate="20190718T014846Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
