@@ -24631,6 +24631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of manually starting two (or more) containers, you can also create a Docker Compose configuration script, which automatically starts and configures a Flink clus‐ ter running in Docker containers and possibly other services such as ZooKeeper and Kafka.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043514Z" creationid="xccui" creationdate="20190718T043514Z">
+        <seg>除了手工启用两个（或更多）容器之外，你还可以创建一个Docker Compose配置脚本。它支持自动启动和配置运行在Docker容器内的Flink集群，还可以顺带启用诸如ZooKeeper和Kafka等其他服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of running analytical queries directly on the transactional databases, a com&lt;t0/&gt;‐&lt;t1/&gt; mon component in IT systems is a data warehouse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T192036Z" creationid="xccui" creationdate="20190228T184103Z">
@@ -33964,6 +33972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190710T212007Z">
         <seg>桶的选择由BucketAssigner完成，它是一个公开接口，可以为每条记录返回一个用来决定记录写入目录的BucketId。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The build scripts of the available Docker Flink images are a good starting point for customized images.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043154Z" creationid="xccui" creationdate="20190718T043154Z">
+        <seg>已有Flink Docker映像中的构建脚本可以在一定程度上帮助你快速上手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43573,6 +43589,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034128Z" creationid="xccui" creationdate="20190621T034128Z">
         <seg>换言之，可能你早就能够生成结果，但必须等待水位线来触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to build your own Docker image if you want to adjust some of the parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043025Z" creationid="xccui" creationdate="20190718T043025Z">
+        <seg>如果你想调整某些参数，需要自己构建Docker映像。</seg>
       </tuv>
     </tu>
     <tu>
