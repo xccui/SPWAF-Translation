@@ -17391,6 +17391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink can run on YARN in two modes: the job mode and the session mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T211227Z" creationid="xccui" creationdate="20190718T211227Z">
+        <seg>Flink能够以两种模式和YARN进行集成：作业模式和会话模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink does not automatically take a save‐ point, so a user (or external scheduler) has to explicitly trigger its creation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210829Z" creationid="xccui" creationdate="20190609T210829Z">
@@ -22675,6 +22683,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065815Z" creationid="xccui" creationdate="20190619T065807Z">
         <seg>通常情况下，在窗口算子中使用处理时间会导致不确定的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In job mode, a Flink cluster is started to run a single job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T211823Z" creationid="xccui" creationdate="20190718T211823Z">
+        <seg>在作业模式下，Flink集群启动后只会运行单个作业。</seg>
       </tuv>
     </tu>
     <tu>
