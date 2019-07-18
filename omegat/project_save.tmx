@@ -16847,6 +16847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 9-5 shows how a job is executed in Flink’s YARN session mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T232028Z" creationid="xccui" creationdate="20190718T232028Z">
+        <seg>图9-5展示了如何以会话模式在YARN中执行Flink作业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -27915,6 +27923,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191921Z" creationid="xccui" creationdate="20190606T034308Z">
         <seg>一旦数据从数据汇中写出，除非目标系统支持事务，否则结果的正确性将难以保证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once enough slots are available, Flink’s ResourceManager assigns them to the JobManager and the job execution starts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214748Z" creationid="xccui" creationdate="20190718T214748Z">
+        <seg>一旦有足够的处理槽，Flink的ResourceManager就会将它们分配给JobManager，使其可以运行作业。</seg>
       </tuv>
     </tu>
     <tu>
