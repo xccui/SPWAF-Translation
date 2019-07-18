@@ -27927,6 +27927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the job terminates, the Flink cluster is stopped and all resources are returned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T211938Z" creationid="xccui" creationdate="20190718T211938Z">
+        <seg>一旦作业结束，集群就会停止，全部资源都会归还。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the replay completes and the application is past the point at which it previously failed, the result will be consistent again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T072418Z" creationid="xccui" creationdate="20190708T072418Z">
