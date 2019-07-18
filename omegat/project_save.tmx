@@ -41360,6 +41360,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We refer you to Apache Flink’s documentation for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043829Z" creationid="xccui" creationdate="20190718T043829Z">
+        <seg>详细信息请参阅Apache Flink的官方文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We refer you to the Kafka documentation for details about its con‐ figuration parameters and guidelines for a suitable configuration.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033651Z" creationid="xccui" creationdate="20190710T033651Z">
@@ -41532,6 +41540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051940Z" creationid="xccui" creationdate="20190613T005758Z">
         <seg>我们会在184页"应用一致性保障"中详细讨论这一话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will not go into the details of this mode, but among other things, a Docker Compose configuration needs to specify the network configuration so that Flink pro‐ cesses that run in isolated containers can communicate with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043801Z" creationid="xccui" creationdate="20190718T043801Z">
+        <seg>在此我们不会对该模式进行深入探讨，但要说明一点——Docker Compose脚本内需要指定网络配置以便使运行在独立容器中的Flink进程可以互相通信。</seg>
       </tuv>
     </tu>
     <tu>
