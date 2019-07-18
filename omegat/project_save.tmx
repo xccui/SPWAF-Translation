@@ -16815,6 +16815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 9-3 shows how a Flink job is submitted to a YARN cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212015Z" creationid="xccui" creationdate="20190718T212015Z">
+        <seg>图9-3展示了向YARN集群提交Flink作业的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -27411,6 +27419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051916Z" creationid="xccui" creationdate="20190613T005523Z">
         <seg>注意，无论应用结果是至少一次语义还是精确一次语义，流式数据汇的选择都将影响应用端到端的一致性（end-to-end consistency）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the concept of a container in YARN is different from a container in Docker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212038Z" creationid="xccui" creationdate="20190718T212038Z">
+        <seg>注意，YARN中容器的概念和Docker中的不同。</seg>
       </tuv>
     </tu>
     <tu>
