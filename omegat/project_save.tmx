@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--link flink-jobmanager:jobmanager \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032513Z" creationid="xccui" creationdate="20190718T032513Z">
+        <seg>--link flink-jobmanager:jobmanager \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-1L</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034527Z" creationid="xccui" creationdate="20190713T034527Z">
@@ -402,6 +410,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040003Z" creationid="xccui" creationdate="20190329T040003Z">
         <seg>-c io.github.streamingwithflink.chapter1.AverageSensorReadings \ examples-scala.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-e JOB_MANAGER_RPC_ADDRESS=jobmanager \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032424Z" creationid="xccui" creationdate="20190718T032424Z">
+        <seg>-e JOB_MANAGER_RPC_ADDRESS=jobmanager \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-e JOB_MANAGER_RPC_ADDRESS=jobmanager flink:1.7 taskmanager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032516Z" creationid="xccui" creationdate="20190718T032516Z">
+        <seg>-e JOB_MANAGER_RPC_ADDRESS=jobmanager flink:1.7 taskmanager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-p 8081:8081 flink:1.7 jobmanager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032427Z" creationid="xccui" creationdate="20190718T032427Z">
+        <seg>-p 8081:8081 flink:1.7 jobmanager</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3490,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062725Z" creationid="xccui" creationdate="20190701T062725Z">
         <seg>// 将计数值分成10个子部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// start master process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032417Z" creationid="xccui" creationdate="20190718T032417Z">
+        <seg>// 启动主进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// start worker process (adjust the name to start more than one TM) docker run -d --name flink-taskmanager-1 \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032510Z" creationid="xccui" creationdate="20190718T032510Z">
+        <seg>// 启动工作进程（启动多个TM时请选用不同名称） docker run -d --name flink-taskmanager-1 \</seg>
       </tuv>
     </tu>
     <tu>
@@ -13735,6 +13783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docker will download the requested image and its dependencies from Docker Hub and start the containers running Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T033842Z" creationid="xccui" creationdate="20190718T033842Z">
+        <seg>利用上述命令，Docker将自动从Docker Hub下载所需的映像及其依赖，并启动容器来运行Flink。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Does it include the time Alice was offline or not?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190411T152409Z" creationid="xccui" creationdate="20190411T152118Z">
@@ -15635,6 +15691,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220142Z" creationid="xccui" creationdate="20190711T220142Z">
         <seg>示例8-9，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 9-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032338Z" creationid="xccui" creationdate="20190718T032338Z">
+        <seg>示例9-1，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31248,6 +31312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting a master and a worker container in Docker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032410Z" creationid="xccui" creationdate="20190718T032410Z">
+        <seg>在Docker中启动一个主容器和一个工作容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting a standalone Flink cluster</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153341Z" creationid="xccui" creationdate="20190717T153341Z">
@@ -45165,6 +45237,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052907Z" creationid="xccui" creationdate="20190612T052907Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>docker run -d --name flink-jobmanager \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032420Z" creationid="xccui" creationdate="20190718T032420Z">
+        <seg>docker run -d --name flink-jobmanager \</seg>
       </tuv>
     </tu>
     <tu>
