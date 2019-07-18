@@ -8990,6 +8990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All scripts only work for local setups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214629Z" creationid="xccui" creationdate="20190717T214629Z">
+        <seg>所有脚本都只适用于本地搭建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All state modifications due to records that</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T061818Z" creationid="xccui" creationdate="20190609T061818Z">
@@ -44613,6 +44621,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053124Z" creationid="xccui" creationdate="20190716T053124Z">
         <seg>commit(txn: TXN): Unit提交指定事务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>communicate only through well-defined channels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T014828Z" creationid="xccui" creationdate="20190718T014828Z">
+        <seg>此外，容器之间处于相互隔离的状态，它们只会通过明确定义的通道进行通信。</seg>
       </tuv>
     </tu>
     <tu>
