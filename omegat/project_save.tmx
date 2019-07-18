@@ -32568,6 +32568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The -p 8081:8081 parameter of the first command maps port 8081 of the master container to port 8081 of the host machine to make the Web UI accessible from the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T041219Z" creationid="xccui" creationdate="20190718T035511Z">
+        <seg>第一个命令中的"-p 8081:8081"参数将主容器的8081端口映射到宿主机的8081端口，使得Flink Web UI能够从外部宿主机访问到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ./bin/start-cluster.sh script starts a master process on the local machine and one or more TaskManagers on the local or remote machines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195037Z" creationid="xccui" creationdate="20190717T163010Z">
@@ -43105,6 +43113,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can access the Web UI by opening http://localhost:8081 in your browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T035549Z" creationid="xccui" creationdate="20190718T035549Z">
+        <seg>你可以在浏览器中打开http://localhost:8081来访问Web UI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can access the default paral‐ lelism of the environment as shown in the following example:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T054220Z" creationid="xccui" creationdate="20190616T054220Z">
@@ -45941,6 +45957,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033853Z" creationid="xccui" creationdate="20190626T033853Z">
         <seg>因此窗口对象中保存着用于区分窗口的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>host.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T035513Z" creationid="xccui" creationdate="20190718T035513Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
