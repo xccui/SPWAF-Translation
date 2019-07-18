@@ -16983,6 +16983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, the JobManager submits the job’s tasks to the TaskManagers for execution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T213044Z" creationid="xccui" creationdate="20190718T213044Z">
+        <seg>最后，JobManager将作业任务提交至TaskManager执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, we apply a user-defined function that computes the average temperature on each window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051325Z" creationid="xccui" creationdate="20190612T053852Z">
@@ -27919,6 +27927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once started, the TaskManagers register their slots at Flink’s ResourceMan‐ ager, which provides them to the JobManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212915Z" creationid="xccui" creationdate="20190718T212915Z">
+        <seg>一旦启动成功，TaskManager就会将自己的处理槽在Flink的ResourceManager中注册，后者会把它们提供给JobManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once that timer fires, the onTimer() method is called.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213456Z" creationid="xccui" creationdate="20190704T213456Z">
@@ -36644,6 +36660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050924Z" creationid="xccui" creationdate="20190605T233933Z">
         <seg>所谓服务延迟就是你在店内买咖啡的时间，即从你进门的一刻到抿到第一口咖啡的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The session mode starts a long-running Flink cluster that can run multiple jobs and needs to be manually stopped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T213546Z" creationid="xccui" creationdate="20190718T213546Z">
+        <seg>而在会话模式下，系统会启动一个长时间运行的Flink集群，该集群可以运行多个作业，需要我们手动停止。</seg>
       </tuv>
     </tu>
     <tu>
