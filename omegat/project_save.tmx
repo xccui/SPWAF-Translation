@@ -26199,6 +26199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manager is passed to the containers via the JOB_MANAGER_RPC_ADDRESS variable,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T034033Z" creationid="xccui" creationdate="20190718T033935Z">
+        <seg>Docker内部JobManager的主机名会通过JOB_MANAGER_RPC_ADDRESS变量传给容器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Managing Applications with the Command-Line Client</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025929Z" creationid="xccui" creationdate="20190225T025929Z">
@@ -32972,6 +32980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061537Z" creationid="xccui" creationdate="20190606T142757Z">
         <seg>Dispatcher会跨多个作业运行，它提供了一个REST接口来让我们提交需要执行的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Docker internal hostname of the Job‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T033938Z" creationid="xccui" creationdate="20190718T033938Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -51693,6 +51709,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T174317Z" creationid="xccui" creationdate="20190712T174317Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which is used in the entry point of the container to adjust Flink’s configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T035331Z" creationid="xccui" creationdate="20190718T035331Z">
+        <seg>该变量会以ENTRYPOINT的方式传给容器，用于调整Flink的配置。</seg>
       </tuv>
     </tu>
     <tu>
