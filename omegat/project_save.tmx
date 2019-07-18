@@ -16855,6 +16855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 9-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T232035Z" creationid="xccui" creationdate="20190718T232035Z">
+        <seg>示例9-5，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -18435,6 +18443,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050454Z" creationid="xccui" creationdate="20190401T150338Z">
         <seg>对批处理应用而言，我们通常会关心作业的总执行时间，或者说处理引擎读取输入、执行计算、写回结果共需多长时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For both setups—job and session mode—failed TaskManagers will be automatically restarted by Flink’s ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T232333Z" creationid="xccui" creationdate="20190718T232333Z">
+        <seg>无论是作业模式还是会话模式，Flink的ResourceManager都会自动对故障的TaskManager进行重启。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32180,6 +32196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T040827Z" creationid="xccui" creationdate="20190314T065729Z">
         <seg>一些机构的数据可能会同时存储在多个系统里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submitting a job to a Flink YARN session cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T232119Z" creationid="xccui" creationdate="20190718T232119Z">
+        <seg>向会话模式的Flink YARN集群提交作业</seg>
       </tuv>
     </tu>
     <tu>
