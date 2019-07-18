@@ -20999,6 +20999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If started in session mode, Flink connects to YARN’s ResourceManager to start an application master that runs a Dispatcher thread and a Flink ResourceManager thread.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214246Z" creationid="xccui" creationdate="20190718T214246Z">
+        <seg>如果在会话模式下启动，Flink会连接YARN的ResourceManager来启动包含一个Dispatcher线程和一个ResourceManager线程的ApplicationMaster。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If state gets lost during a failure, results will be incorrect after recovery.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T184931Z" creationid="xccui" creationdate="20190415T035644Z">
