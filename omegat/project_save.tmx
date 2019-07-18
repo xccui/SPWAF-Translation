@@ -27279,6 +27279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that it is currently not possible to pass a custom configuration into the Flink Docker images.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042916Z" creationid="xccui" creationdate="20190718T042916Z">
+        <seg>注意，目前Flink Docker映像还不支持接收自定义配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that keyBy() is different from the distribution transforma‐ tions discussed in this section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070343Z" creationid="xccui" creationdate="20190615T070343Z">
