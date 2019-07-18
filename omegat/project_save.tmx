@@ -17255,6 +17255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink Docker images are not part of the official Apache Flink release.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042550Z" creationid="xccui" creationdate="20190718T042550Z">
+        <seg>因此你也可以使用非官方发布版的Apache Flink Docker镜像来提交应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink Web UI</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030126Z" creationid="xccui" creationdate="20190225T030126Z">
@@ -18075,6 +18083,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T150414Z" creationid="xingcan" creationdate="20190709T150414Z">
         <seg>FlinkKafkaProducer还提供了很多具有不同参数组合的构造方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s CLI client at ./bin/flink, manage running applications, or request information about the cluster or running applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042807Z" creationid="xccui" creationdate="20190718T042807Z">
+        <seg>Flink的CLI（命令行界面）客户端位于./bin/flink，它可以用来管理当前正在运行的应用，或者通过请求获取有关集群或当前运行应用的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19867,6 +19883,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070235Z" creationid="xccui" creationdate="20190708T070058Z">
         <seg>所以说，它们可以在一定程度上减轻Flink检查点机制所带来的重复结果的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, you can also submit applications using</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042552Z" creationid="xccui" creationdate="20190718T042552Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
