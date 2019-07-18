@@ -16823,6 +16823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 9-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212332Z" creationid="xccui" creationdate="20190718T212332Z">
+        <seg>图9-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figures 4-1 to 4-3 illustrate the import process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041557Z" creationid="xccui" creationdate="20190611T041557Z">
@@ -31416,6 +31424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting a Flink cluster on YARN in job mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212412Z" creationid="xccui" creationdate="20190718T212412Z">
+        <seg>以作业模式启动Flink YARN集群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting a master and a worker container in Docker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032410Z" creationid="xccui" creationdate="20190718T032410Z">
@@ -42429,6 +42445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T161935Z" creationid="xccui" creationdate="20190712T161759Z">
         <seg>当应用从某个保存点或故障重新恢复时，它再从最近一次的检查点或保存点中将读取偏移取出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the client submits a job for execution, it connects to the YARN ResourceMan‐ ager to start a new YARN application master process that consists of a JobManager thread and a ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212643Z" creationid="xccui" creationdate="20190718T212643Z">
+        <seg>客户端在提交作业执行时，会连接到YARN的ResourceManager来启动一个新的YARN应用主进程，该进程包括一个JobManager线程和一个ResourceManager。</seg>
       </tuv>
     </tu>
     <tu>
