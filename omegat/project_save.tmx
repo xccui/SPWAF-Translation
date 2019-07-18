@@ -13839,6 +13839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to its origin in the Hadoop ecosystem, YARN is typically used by data processing frameworks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T211145Z" creationid="xccui" creationdate="20190718T211145Z">
+        <seg>由于源自Hadoop生态系统，YARN通常用于数据处理框架中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the append-only characteristic of a socket, it is not possi‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042636Z" creationid="xccui" creationdate="20190714T042448Z">
