@@ -33616,6 +33616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Web UI can be used to upload application JAR files and run the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042240Z" creationid="xccui" creationdate="20190718T042240Z">
+        <seg>Web UI可用来上传应用JAR包并运行应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Window Join</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023309Z" creationid="xccui" creationdate="20190225T023309Z">
