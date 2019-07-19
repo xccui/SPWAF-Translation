@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink run -m yarn-cluster ./path/to/job.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012236Z" creationid="xccui" creationdate="20190719T012236Z">
+        <seg>./bin/flink run -m yarn-cluster ./path/to/job.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.&lt;t0/&gt; &lt;t1/&gt;ix 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035437Z" creationid="xccui" creationdate="20190418T035437Z">
@@ -19467,6 +19475,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T145448Z" creationid="xccui" creationdate="20190606T145448Z">
         <seg>假设一个Flink设置包含4个TaskManager，每个TaskManager有2个处理槽，那么一个流式应用最多运行以并行度8来运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given a working and well-configured YARN and HDFS setup, a Flink job can be sub‐ mitted to be executed on YARN using Flink’s command-line client with the following command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012233Z" creationid="xccui" creationdate="20190719T012233Z">
+        <seg>在YARN和HDFS都搭建完成且能够正常工作的前提下，你可以使用Flink命令行客户端运行以下命令将作业提交到YARN上执行：</seg>
       </tuv>
     </tu>
     <tu>
