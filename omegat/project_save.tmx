@@ -18855,6 +18855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you can configure the maximum number of failed containers until an application is terminated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T010455Z" creationid="xccui" creationdate="20190719T010455Z">
+        <seg>例如，你可以配置最多有多少容器发生故障后终止应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you can create a partitioner based on a key</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035650Z" creationid="xccui" creationdate="20190710T035650Z">
@@ -37572,6 +37580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T032350Z" creationid="xccui" creationdate="20190709T032350Z">
         <seg>还有一些我们认为值得关注的配置选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a few parameters in the ./conf/flink- conf.yaml configuration file you can use to control Flink’s recovery behavior on YARN.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T232411Z" creationid="xccui" creationdate="20190718T232411Z">
+        <seg>你可以通过./conf/flink-conf.yaml配置文件来控制Flink在YARN上的故障恢复行为。</seg>
       </tuv>
     </tu>
     <tu>
