@@ -7966,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A service defines a policy for how a certain group of pods can be accessed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023939Z" creationid="xccui" creationdate="20190719T023939Z">
+        <seg>一个Service定义了一组Pod的访问策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A session window assigner places elements into nonoverlapping windows of activity of varying size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060814Z" creationid="xccui" creationdate="20190623T060814Z">
@@ -26231,6 +26239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kuber‐ netes provides services to overcome the issue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023820Z" creationid="xccui" creationdate="20190719T023820Z">
+        <seg>为此，Kubernetes提供了Service。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lambda Functions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022924Z" creationid="xccui" creationdate="20190225T022924Z">
@@ -38920,6 +38936,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is obviously a problem if pods need to communicate with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023733Z" creationid="xccui" creationdate="20190719T023733Z">
+        <seg>这显然会在Pod需要相互通信时产生问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is possible if the following two properties hold:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043047Z" creationid="xccui" creationdate="20190714T043047Z">
@@ -42365,6 +42389,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001105Z" creationid="xccui" creationdate="20190624T001105Z">
         <seg>每当收到一个新元素，都会以该元素和从窗口状态取出的当前聚合值为参数调用ReduceFunction。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a pod is restarted after a failure or when deployments are scaled up or down, the IP address can change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023656Z" creationid="xccui" creationdate="20190719T023656Z">
+        <seg>当Pod从故障中重启或Deployment进行扩缩容后，它们的IP地址可能会发生变化。</seg>
       </tuv>
     </tu>
     <tu>
