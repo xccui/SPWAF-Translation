@@ -7398,6 +7398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A deployment defines a specific number of pods, or containers, to run.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023303Z" creationid="xccui" creationdate="20190719T023303Z">
+        <seg>一个Deployment定义了一组需要运行的特定数量的Pod或容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A detached Flink session can be</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014556Z" creationid="xccui" creationdate="20190719T014430Z">
@@ -26155,6 +26163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040325Z" creationid="xccui" creationdate="20190418T040325Z">
         <seg>Kubernetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kubernetes also supports pods consisting of multiple tightly linked containers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023033Z" creationid="xccui" creationdate="20190719T023033Z">
+        <seg>Kubernetes还支持由多个紧密相连的容器组成的Pod。</seg>
       </tuv>
     </tu>
     <tu>
