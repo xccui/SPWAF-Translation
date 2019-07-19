@@ -52345,6 +52345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Integration with Hadoop Components” on page 236 describes the required configuration in detail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012023Z" creationid="xccui" creationdate="20190719T012023Z">
+        <seg>配置详情请见第236页"集成Hadoop组件"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Scaling Stateful Operators” on page 56 discusses key groups and how keyed state is scaled out and in.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053126Z" creationid="xccui" creationdate="20190703T024744Z">
