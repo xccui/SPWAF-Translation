@@ -25823,6 +25823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It takes care of updating the routing when a pod is started on a different node in the cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T024052Z" creationid="xccui" creationdate="20190719T024052Z">
+        <seg>它在Pod从集群内另一个节点启动时负责更新路由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It then starts to consume and process all data that was processed between the checkpoint and the failure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064213Z" creationid="xccui" creationdate="20190609T051830Z">
@@ -26203,6 +26211,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015346Z" creationid="xccui" creationdate="20190719T015346Z">
         <seg>Kubernetes是一个开源平台，它允许用户在分布式环境下部署容器化应用，并对其进行扩缩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kubernetes is designed for cluster operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T024158Z" creationid="xccui" creationdate="20190719T024158Z">
+        <seg>Kubernetes专为操纵集群而设计。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30268,6 +30284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T022051Z" creationid="xccui" creationdate="20190718T022051Z">
         <seg>利用Docker运行Flink是一种在本地机器上搭建Flink集群的简便方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Kubernetes on a Local Machine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T024102Z" creationid="xccui" creationdate="20190719T024102Z">
+        <seg>在本地机器上运行Kubernetes</seg>
       </tuv>
     </tu>
     <tu>
