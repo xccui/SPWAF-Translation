@@ -26127,6 +26127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kubernetes is an open source platform that enables users to deploy and scale contain‐ erized applications in a distributed environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015346Z" creationid="xccui" creationdate="20190719T015346Z">
+        <seg>Kubernetes是一个开源平台，它允许用户在分布式环境下部署容器化应用，并对其进行扩缩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lambda Functions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022924Z" creationid="xccui" creationdate="20190225T022924Z">
@@ -30796,6 +30804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030632Z" creationid="xccui" creationdate="20190622T030504Z">
         <seg>和ComFlatMapFunction类似，CoProcessFunction也提供了一对作用于每个输入的转换方法——processFunction1()和processFunction2()。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similar to job mode, Flink’s Web UI is linked from the Application Overview of YARN’s Web UI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015129Z" creationid="xccui" creationdate="20190719T015129Z">
+        <seg>和作业模式类似，Flink的Web UI链接可以从YARN Web UI的Application Overview页面上找到。</seg>
       </tuv>
     </tu>
     <tu>
