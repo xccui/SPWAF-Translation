@@ -23095,6 +23095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to recover from master failures, a highly available setup needs to be configured as described in a later section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T010759Z" creationid="xccui" creationdate="20190719T010759Z">
+        <seg>为了在主进程发生故障时可以恢复，我们需要对它进行高可用性配置，有关内容会在下节讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to run Flink on Windows, you can use a provided bat script or you can use the regular bash scripts on the Windows Subsystem for Linux (WSL) or Cygwin.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214611Z" creationid="xccui" creationdate="20190717T214611Z">
