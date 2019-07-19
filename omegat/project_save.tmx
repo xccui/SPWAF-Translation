@@ -26135,6 +26135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kubernetes can also take care of opening net‐ work ports for internal and external communication and can provide services for process discovery and load balancing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T020212Z" creationid="xccui" creationdate="20190719T020212Z">
+        <seg>Kubernetes还负责为内外网络通信打开端口，并可以提供进程发现及负载均衡服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kubernetes is an open source platform that enables users to deploy and scale contain‐ erized applications in a distributed environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015346Z" creationid="xccui" creationdate="20190719T015346Z">
