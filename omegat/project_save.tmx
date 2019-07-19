@@ -29712,6 +29712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regardless of whether you run Flink in job or session mode on YARN, it needs to have access to Hadoop dependencies in the correct version and the path to the Hadoop configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T011857Z" creationid="xccui" creationdate="20190719T011857Z">
+        <seg>无论是在YARN上以作业还是会话模式运行Flink，它都需要访问正确版本的Hadoop依赖以及Hadoop配置所在路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing State from an Application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024915Z" creationid="xccui" creationdate="20190225T024915Z">
