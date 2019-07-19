@@ -7398,6 +7398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A detached Flink session can be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014556Z" creationid="xccui" creationdate="20190719T014430Z">
+        <seg>并利用YARN的应用工具（application utilities）将其终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A failure can occur during any of these steps and the system has to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T042813Z" creationid="xccui" creationdate="20190415T042639Z">
@@ -25435,6 +25443,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053227Z" creationid="xccui" creationdate="20190628T053227Z">
         <seg>同时你也可以自定义触发器或移除器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also possible to start a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014326Z" creationid="xccui" creationdate="20190719T014326Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -43515,8 +43531,8 @@
       <tuv lang="EN-US">
         <seg>YARN session in detached mode using the -d flag.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014323Z" creationid="xccui" creationdate="20190719T014323Z">
-        <seg>你还可以使用-d选项来启动一个非连接（detached）模式的YARN会话。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014443Z" creationid="xccui" creationdate="20190719T014323Z">
+        <seg>你还可以使用-d选项来启动一个非连接（detached）模式的YARN会话，</seg>
       </tuv>
     </tu>
     <tu>
