@@ -6854,6 +6854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Flink YARN session is started with the ./bin/yarn-session.sh script, which also uses various parameters to control the size of containers, the name of the YARN</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013652Z" creationid="xccui" creationdate="20190719T013652Z">
+        <seg>你可以通过./bin/yarn-session.sh脚本启动一个Flink YARN会话，该脚本同样设有很多用于控制容器大小、YARN应用名称的参数，此外它还能够</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Flink setup consists for four different components that work together to execute streaming applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T033459Z" creationid="xccui" creationdate="20190418T033431Z">
@@ -43509,6 +43517,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T054805Z" creationid="xccui" creationdate="20190317T054517Z">
         <seg>你应该会理所当然地想到状态化流处理就是构建低延迟分析流水线的恰当技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can access it via YARN’s Web UI, which provides a link on the Application Overview page under “Tracking URL: ApplicationMaster.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013437Z" creationid="xccui" creationdate="20190719T013437Z">
+        <seg>你可以通过YARN的Web UI对其进行访问，具体链接位置在"Tracking URL: ApplicationMaster"下的Application Overview页面上。</seg>
       </tuv>
     </tu>
     <tu>
