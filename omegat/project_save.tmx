@@ -36848,6 +36848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The session is stopped and all resources are freed when the script is terminated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014049Z" creationid="xccui" creationdate="20190719T014049Z">
+        <seg>在脚本终止时，会话就会停止，一切资源得以释放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The session mode starts a long-running Flink cluster that can run multiple jobs and needs to be manually stopped.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T213546Z" creationid="xccui" creationdate="20190718T213546Z">
@@ -43501,6 +43509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T204052Z" creationid="xccui" creationdate="20190718T204052Z">
         <seg>YARN是Apache Hadoop的资源管理器组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YARN session in detached mode using the -d flag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014323Z" creationid="xccui" creationdate="20190719T014323Z">
+        <seg>你还可以使用-d选项来启动一个非连接（detached）模式的YARN会话。</seg>
       </tuv>
     </tu>
     <tu>
