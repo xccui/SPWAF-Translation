@@ -26151,6 +26151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kubernetes runs on-premise, in cloud environ‐ ments, or on hybrid infrastructure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T020335Z" creationid="xccui" creationdate="20190719T020335Z">
+        <seg>它能够运行在内部部署（on-premise）、云环境或混合基础架构之上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kubernetes will run the requested number of containers anywhere on its resources and restart them in the case of a failure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015800Z" creationid="xccui" creationdate="20190719T015800Z">
