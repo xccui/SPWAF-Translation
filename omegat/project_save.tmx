@@ -18175,6 +18175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s CLI client supports many more parameters, such as the ability to control the memory of TaskManager containers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012541Z" creationid="xccui" creationdate="20190719T012541Z">
+        <seg>Flink的CLI客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s Checkpointing Algorithm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T212839Z" creationid="xccui" creationdate="20190225T022209Z">
@@ -19603,6 +19611,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152218Z" creationid="esouser" creationdate="20190603T152218Z">
         <seg>YARN上的HA设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hadoop configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012524Z" creationid="xccui" creationdate="20190719T012524Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -21067,6 +21083,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205758Z" creationid="xccui" creationdate="20190428T205742Z">
         <seg>如果有一个TaskManager出现故障，则可用处理槽的数量就降到了6个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If set to the keyword</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012422Z" creationid="xccui" creationdate="20190719T012422Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -36300,6 +36324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052803Z" creationid="xccui" creationdate="20190616T052730Z">
         <seg>环境的并行度（即所有算子的默认并行度）会根据应用启动时所处的上下文自动初始化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The parameter -m defines the host to which the job is submitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012521Z" creationid="xccui" creationdate="20190719T012334Z">
+        <seg>参数-m用来定义提交作业的目标主机。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52245,6 +52277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130350Z" creationid="xccui" creationdate="20190605T130350Z">
         <seg>xii | 序言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yarn-cluster, the client submits the job to the YARN cluster as identified by the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012419Z" creationid="xccui" creationdate="20190719T012419Z">
+        <seg>如果加上关键字"yarn-cluster"，客户端会将作业提交到由Hadoop配置所指定的YARN集群上。</seg>
       </tuv>
     </tu>
     <tu>
