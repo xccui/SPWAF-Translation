@@ -19519,6 +19519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Given a Kubernetes cluster and an application that is packaged into a container image, you can create a deployment of the application that tells Kubernetes how many instances of the application to start.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015502Z" creationid="xccui" creationdate="20190719T015502Z">
+        <seg>给定一个Kubernetes集群以及一个打包到容器映像中的应用，你可以通过创建应用部署的方式告诉Kubernetes启动多少个应用实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Given a working and well-configured YARN and HDFS setup, a Flink job can be sub‐ mitted to be executed on YARN using Flink’s command-line client with the following command:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012551Z" creationid="xccui" creationdate="20190719T012233Z">
