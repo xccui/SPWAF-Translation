@@ -18177,8 +18177,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s CLI client supports many more parameters, such as the ability to control the memory of TaskManager containers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012830Z" creationid="xccui" creationdate="20190719T012541Z">
-        <seg>Flink的CLI客户端还支持很多参数，例如用于控制TaskManager容器内存大小的参数等，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012902Z" creationid="xccui" creationdate="20190719T012541Z">
+        <seg>Flink的CLI客户端还支持很多参数，例如用于控制TaskManager容器内存大小的参数等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29730,8 +29730,8 @@
       <tuv lang="EN-US">
         <seg>Refer to the documenta‐ tion for a reference of available parameters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012858Z" creationid="xccui" creationdate="20190719T012826Z">
-        <seg>有关参数的详细信息，请查阅文档。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012921Z" creationid="xccui" creationdate="20190719T012826Z">
+        <seg>有关它们的详细信息，请参阅文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33916,6 +33916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042240Z" creationid="xccui" creationdate="20190718T042240Z">
         <seg>Web UI可用来上传应用JAR包并运行应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Web UI of the started Flink cluster is served by the master process running on some node in the YARN cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013236Z" creationid="xccui" creationdate="20190719T013236Z">
+        <seg>Flink集群的Web UI由YARN集群某个节点上的主进程负责提供。</seg>
       </tuv>
     </tu>
     <tu>
