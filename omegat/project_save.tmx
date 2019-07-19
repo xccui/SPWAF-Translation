@@ -11655,6 +11655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the script prints the connec‐ tion information of the session cluster and does not return.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013937Z" creationid="xccui" creationdate="20190719T013937Z">
+        <seg>默认情况下，该脚本会打印出会话集群的连接信息，但并不会结束返回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, tumbling windows are aligned to the epoch time, 1970-01-01-00:00:00.000.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T053903Z" creationid="xccui" creationdate="20190623T053903Z">
@@ -44477,6 +44485,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190625T143904Z" creationid="esouser" creationdate="20190603T211838Z">
         <seg>该技术不但可用于失败恢复，还可用于应用更新、Bug修复、结果修正、集群迁移或针对不同版本应用执行A/B测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>application, or provide dynamic properties.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013812Z" creationid="xccui" creationdate="20190719T013812Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
