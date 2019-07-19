@@ -6856,8 +6856,8 @@
       <tuv lang="EN-US">
         <seg>A Flink YARN session is started with the ./bin/yarn-session.sh script, which also uses various parameters to control the size of containers, the name of the YARN</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013652Z" creationid="xccui" creationdate="20190719T013652Z">
-        <seg>你可以通过./bin/yarn-session.sh脚本启动一个Flink YARN会话，该脚本同样设有很多用于控制容器大小、YARN应用名称的参数，此外它还能够</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013808Z" creationid="xccui" creationdate="20190719T013652Z">
+        <seg>你可以通过./bin/yarn-session.sh脚本启动一个Flink YARN会话，该脚本同样设有很多用于控制容器大小及YARN应用名称或提供动态属性（dynamic property）的参数。</seg>
       </tuv>
     </tu>
     <tu>
