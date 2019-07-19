@@ -13735,6 +13735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deployments can be scaled up or down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023506Z" creationid="xccui" creationdate="20190719T023506Z">
+        <seg>Deployment可以自由伸缩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DeserializationSchema and KeyedDeserializationSchema are public interfaces so you can always implement custom deserialization logic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213727Z" creationid="xccui" creationdate="20190708T213727Z">
@@ -26191,6 +26199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kubernetes may run a pod anywhere on its cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023545Z" creationid="xccui" creationdate="20190719T023545Z">
+        <seg>Kubernetes可能会在其集群的任意位置运行Pod。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kubernetes runs on-premise, in cloud environ‐ ments, or on hybrid infrastructure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T020335Z" creationid="xccui" creationdate="20190719T020335Z">
@@ -26203,6 +26219,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015800Z" creationid="xccui" creationdate="20190719T015800Z">
         <seg>Kubernetes会利用任意位置的资源运行所需数量的容器，并在出现故障时重启它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kuber‐ netes ensures the requested number of pods is continuously running, and auto‐ matically restarts failed pods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023447Z" creationid="xccui" creationdate="20190719T023447Z">
+        <seg>Kubernetes能够确保所需数目的Pod可以持续运行，并在故障时自动重启。</seg>
       </tuv>
     </tu>
     <tu>
