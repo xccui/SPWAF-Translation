@@ -9950,6 +9950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink can be deployed on Kubernetes as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T022715Z" creationid="xccui" creationdate="20190719T022715Z">
+        <seg>Apache Flink也支持部署在它上面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink checks all these boxes and is a very good choice to run event-driven applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T064114Z" creationid="xccui" creationdate="20190314T062533Z">
@@ -11115,6 +11123,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212613Z" creationid="xccui" creationdate="20190704T211924Z">
         <seg>在对温度值进行比较并更新最近一次温度之前，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before diving into the details of how to set up Flink on Kubernetes, we need to briefly explain a few Kubernetes terms:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T022927Z" creationid="xccui" creationdate="20190719T022927Z">
+        <seg>但在深入了解部署详情之前，我们需要简要解释几个Kubernetes的常用术语：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13691,6 +13707,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234017Z" creationid="xccui" creationdate="20190605T234017Z">
         <seg>根据应用的不同，你可能会关注平均延迟，最大延迟或延迟的百分位数值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deploying data processing frameworks and applications on Kubernetes has become very popular.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T022645Z" creationid="xccui" creationdate="20190719T022645Z">
+        <seg>基于Kubernetes部署数据处理框架及应用已经变得非常流行。</seg>
       </tuv>
     </tu>
     <tu>
