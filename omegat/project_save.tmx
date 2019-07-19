@@ -18177,8 +18177,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s CLI client supports many more parameters, such as the ability to control the memory of TaskManager containers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012541Z" creationid="xccui" creationdate="20190719T012541Z">
-        <seg>Flink的CLI客户端</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012830Z" creationid="xccui" creationdate="20190719T012541Z">
+        <seg>Flink的CLI客户端还支持很多参数，例如用于控制TaskManager容器内存大小的参数等，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19489,8 +19489,8 @@
       <tuv lang="EN-US">
         <seg>Given a working and well-configured YARN and HDFS setup, a Flink job can be sub‐ mitted to be executed on YARN using Flink’s command-line client with the following command:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012233Z" creationid="xccui" creationdate="20190719T012233Z">
-        <seg>在YARN和HDFS都搭建完成且能够正常工作的前提下，你可以使用Flink命令行客户端运行以下命令将作业提交到YARN上执行：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012551Z" creationid="xccui" creationdate="20190719T012233Z">
+        <seg>在YARN和HDFS都搭建完成且能够正常工作的前提下，你可以使用Flink CLI客户端运行以下命令将作业提交到YARN上执行：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29724,6 +29724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032453Z" creationid="xccui" creationdate="20190710T032453Z">
         <seg>请查看Flink文档了解更多有关启用精确一次一致性时的特殊情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the documenta‐ tion for a reference of available parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012858Z" creationid="xccui" creationdate="20190719T012826Z">
+        <seg>有关参数的详细信息，请查阅文档。</seg>
       </tuv>
     </tu>
     <tu>
