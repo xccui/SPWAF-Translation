@@ -50041,6 +50041,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>relevant data in the persistent storage and writes a pointer to the information—the storage path—to ZooKeeper.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T043700Z" creationid="xccui" creationdate="20190720T043700Z">
+        <seg>JobManager存储了全部相关数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>remove elements from the window state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044708Z" creationid="xccui" creationdate="20190626T044708Z">
