@@ -20935,6 +20935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, with the given configuration, Kubernetes does not export any port to external environments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035035Z" creationid="xccui" creationdate="20190720T035035Z">
+        <seg>然而使用上述给定的设置，Kubernetes不会向外部环境暴露任何端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, with the growing popularity of Hadoop, companies realized that a lot of valuable data was excluded from their data analytics process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T205940Z" creationid="xccui" creationdate="20190228T203747Z">
@@ -28289,8 +28297,8 @@
       <tuv lang="EN-US">
         <seg>Once all pods are up, you will have a Flink cluster running on Kubernetes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T034755Z" creationid="xccui" creationdate="20190720T034755Z">
-        <seg>一旦所有Pod都启动完毕，Flink集群就会在Kubernetes上运行起来。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T034905Z" creationid="xccui" creationdate="20190720T034755Z">
+        <seg>待所有Pod都启动完毕，就意味着Flink集群在Kubernetes上成功运行起来。</seg>
       </tuv>
     </tu>
     <tu>
