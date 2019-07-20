@@ -25767,6 +25767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not possible to customize the configuration of the Flink deployment with the Flink Docker images we used in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042214Z" creationid="xccui" creationdate="20190720T042214Z">
+        <seg>本节中使用的Flink Docker映像是无法进行自定义部署配置的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not possible to request key ranges or even run more complex queries.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163817Z" creationid="xccui" creationdate="20190705T163422Z">
@@ -47709,6 +47717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033531Z" creationid="xccui" creationdate="20190720T033531Z">
         <seg>kubectl create -f master-deployment.yaml kubectl create -f worker-deployment.yaml kubectl create -f master-service.yaml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kubectl delete -f master-deployment.yaml kubectl delete -f worker-deployment.yaml kubectl delete -f master-service.yaml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T040228Z" creationid="xccui" creationdate="20190720T040228Z">
+        <seg>kubectl delete -f master-deployment.yaml kubectl delete -f worker-deployment.yaml kubectl delete -f master-service.yaml</seg>
       </tuv>
     </tu>
     <tu>
