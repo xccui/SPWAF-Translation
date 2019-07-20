@@ -17327,6 +17327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First of all, the worker deployment specifies two replicas, which means that two worker containers are started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025955Z" creationid="xccui" creationdate="20190720T025955Z">
+        <seg>首先，工作进程的Deployment指定了两个副本，因此会启动两个工作容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First research prototypes and com&lt;t0/&gt;‐&lt;t1/&gt; mercial products date back to the late 1990s.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190319T041319Z" creationid="xccui" creationdate="20190319T041302Z">
@@ -17451,6 +17459,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062416Z" creationid="xccui" creationdate="20190616T062416Z">
         <seg>Flink DataStream应用所处理的事件会表示为数据对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink Docker image but started with a different argument (args: -taskmanager).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T030138Z" creationid="xccui" creationdate="20190720T030054Z">
+        <seg>只是启动参数不一样（args: -taskmanager）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27123,6 +27139,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054138Z" creationid="xccui" creationdate="20190621T054138Z">
         <seg>此外，Context还支持将结果发送到副输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the deployment also opens a few ports and passes the service name of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031624Z" creationid="xccui" creationdate="20190720T031624Z">
+        <seg>此外，这个Deployment也会开启几个端口，并传入Flink主进程Deployment的信息，以便工作进程对其中的主进程进行访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37900,6 +37924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001324Z" creationid="xccui" creationdate="20190624T001324Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The worker containers are based on the same</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T030125Z" creationid="xccui" creationdate="20190720T030029Z">
+        <seg>其容器所需的Flink Docker映像完全相同，</seg>
       </tuv>
     </tu>
     <tu>
