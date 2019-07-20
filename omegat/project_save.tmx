@@ -37688,6 +37688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The two types of pods—master and worker—behave just like the processes of a standalone or Docker deployment we described before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024811Z" creationid="xccui" creationdate="20190720T024811Z">
+        <seg>这两类Pod（主进程和工作进程）的工作原理和我们之前介绍的独立集群模式以及Docker部署模式中的进程相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The type of the output stream is the same as the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061617Z" creationid="xccui" creationdate="20190614T061549Z">
@@ -38052,6 +38060,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T061719Z" creationid="xccui" creationdate="20190617T061659Z">
         <seg>其方法有二。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is also a service that exposes the ports of the master pod to the worker pods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024632Z" creationid="xccui" creationdate="20190720T024529Z">
+        <seg>此外还有一个Service，用于将主进程Pod的端口暴露给工作进程所在Pod。</seg>
       </tuv>
     </tu>
     <tu>
