@@ -18383,6 +18383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s HA mode relies on Apache ZooKeeper, a service for distributed coordination and consistent storage, and a persistent remote storage, such as HDFS, NFS, or S3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T043622Z" creationid="xccui" creationdate="20190720T043622Z">
+        <seg>Flink的HA模式需要依赖Apache ZooKeeper（一项可用于分布式协调和一致性存储的服务）以及某种持久化远程存储（例如HDFS、NFS或S3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s Java tuples and Row type and Scala’s built-in tuples and case classes are handled differently than user-defined POJO types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210359Z" creationid="xccui" creationdate="20190711T210359Z">
@@ -39148,6 +39156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T023827Z" creationid="xccui" creationdate="20190706T023827Z">
         <seg>该信息可以从负责键值组分配的JobManager上面获得，代理在一次请求过后就会将它们缓存下来。6 客户端代理从各自TaskManager的状态服务器上取得状态，然后把结果返给客户端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This information needs to be recovered in case of a master failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T043419Z" creationid="xccui" creationdate="20190720T043419Z">
+        <seg>这些信息都需要在主进程发生故障时进行恢复。</seg>
       </tuv>
     </tu>
     <tu>
