@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># RECOMMENDED: set the base path for all Flink clusters in ZooKeeper.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204920Z" creationid="xccui" creationdate="20190720T204920Z">
+        <seg># 建议参数：在ZooKeeper中为全部Flink集群设置基础路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># REQUIRED: enable HA mode via ZooKeeper high-availability: zookeeper</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203841Z" creationid="xccui" creationdate="20190720T203841Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204357Z" creationid="xccui" creationdate="20190720T204348Z">
         <seg># 必填参数：提供ZooKeeper Quorum的服务器列表 high-availability.zookeeper.quorum: address1:2181[,...],addressX:2181</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># REQUIRED: set storage location for job metadata in remote storage high-availability.storageDir: hdfs:///flink/recovery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204512Z" creationid="xccui" creationdate="20190720T204512Z">
+        <seg># 必填参数：设置作业元数据的远程存储位置 high-availability.storageDir: hdfs:///flink/recovery</seg>
       </tuv>
     </tu>
     <tu>
