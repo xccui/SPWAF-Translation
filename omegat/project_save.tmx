@@ -28287,6 +28287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all pods are up, you will have a Flink cluster running on Kubernetes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T034755Z" creationid="xccui" creationdate="20190720T034755Z">
+        <seg>一旦所有Pod都启动完毕，Flink集群就会在Kubernetes上运行起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once all tasks are up and running, the pro‐ gram starts to produce its results, which should look similar to the following lines:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043424Z" creationid="xccui" creationdate="20190611T043424Z">
@@ -43321,6 +43329,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you create the deployments for the first time, it will take a while until the Flink container image is downloaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033928Z" creationid="xccui" creationdate="20190720T033928Z">
+        <seg>在首次创建Deployment的时候需要花一些时间下载Flink容器映像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you enter the coffee shop, there might be other customers inside already.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T152836Z" creationid="xccui" creationdate="20190401T152347Z">
@@ -44205,6 +44221,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024110Z" creationid="xccui" creationdate="20190703T023949Z">
         <seg>具体方式可以像示例7-10中那样利用uid()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can show the status of all deployments by running the following command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033842Z" creationid="xccui" creationdate="20190720T033842Z">
+        <seg>你可以通过运行以下命令来查看所有Deployment的状态：</seg>
       </tuv>
     </tu>
     <tu>
@@ -47605,6 +47629,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033531Z" creationid="xccui" creationdate="20190720T033531Z">
         <seg>kubectl create -f master-deployment.yaml kubectl create -f worker-deployment.yaml kubectl create -f master-service.yaml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kubectl get deployments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033844Z" creationid="xccui" creationdate="20190720T033844Z">
+        <seg>kubectl get deployments</seg>
       </tuv>
     </tu>
     <tu>
