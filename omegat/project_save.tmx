@@ -28479,6 +28479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once that is done, you can call ./bin/ start-zookeeper-quorum.sh to start a ZooKeeper process on each configured node.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203027Z" creationid="xccui" creationdate="20190720T203027Z">
+        <seg>完成后，就可以调用./bin/start-zookeeper-quorum.sh在配置的节点上启动ZooKeeper进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once that timer fires, the onTimer() method is called.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213456Z" creationid="xccui" creationdate="20190704T213456Z">
@@ -45933,6 +45941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041604Z" creationid="xccui" creationdate="20190707T041604Z">
         <seg>client: QueryableStateClient)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cluster by adjusting the ./conf/zoo.cfg file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T161246Z" creationid="xccui" creationdate="20190720T161246Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
