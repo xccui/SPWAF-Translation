@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># Isolates Flink from other frameworks using the ZooKeeper cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204951Z" creationid="xccui" creationdate="20190720T204951Z">
+        <seg># 将Flink和其他使用ZooKeeper集群的框架进行隔离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># RECOMMENDED: set the base path for all Flink clusters in ZooKeeper.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204920Z" creationid="xccui" creationdate="20190720T204920Z">
@@ -47269,6 +47277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064256Z" creationid="xccui" creationdate="20190621T064256Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high-availability.zookeeper.path.root: /flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204954Z" creationid="xccui" creationdate="20190720T204954Z">
+        <seg>high-availability.zookeeper.path.root: /flink</seg>
       </tuv>
     </tu>
     <tu>
