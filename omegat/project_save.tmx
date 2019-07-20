@@ -43057,6 +43057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When running these commands, Kubernetes starts to deploy the requested contain‐ ers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033805Z" creationid="xccui" creationdate="20190720T033805Z">
+        <seg>运行这些命令会让Kubernetes开始部署所请求的容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When submitting an application to a running Flink cluster, the environment parallelism is set to the default parallelism of the cluster unless it is explicitly specified via the submission client (see “Running and Managing Streaming Applications” on page 245 for more details).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T053312Z" creationid="xccui" creationdate="20190616T053312Z">
@@ -46195,8 +46203,8 @@
       <tuv lang="EN-US">
         <seg>definition files, you can register them to Kubernetes using the kubectl command:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033527Z" creationid="xccui" creationdate="20190720T033435Z">
-        <seg>在拥有这些定义文件后，你就可以使用kubectl命令将它们注册到Kubernetes：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033550Z" creationid="xccui" creationdate="20190720T033435Z">
+        <seg>一旦有了这些定义文件，你就可以使用kubectl命令将它们注册到Kubernetes：</seg>
       </tuv>
     </tu>
     <tu>
@@ -47589,6 +47597,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141438Z" creationid="xccui" creationdate="20190704T141438Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kubectl create -f master-deployment.yaml kubectl create -f worker-deployment.yaml kubectl create -f master-service.yaml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033531Z" creationid="xccui" creationdate="20190720T033531Z">
+        <seg>kubectl create -f master-deployment.yaml kubectl create -f worker-deployment.yaml kubectl create -f master-service.yaml</seg>
       </tuv>
     </tu>
     <tu>
