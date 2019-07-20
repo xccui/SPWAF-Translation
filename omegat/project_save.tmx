@@ -6990,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Kubernetes service for the Flink master</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031939Z" creationid="xccui" creationdate="20190720T031939Z">
+        <seg>针对Flink主进程的Kubernetes Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A ProcessFunction that emits records to a side output</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023338Z" creationid="xccui" creationdate="20190622T023338Z">
@@ -15843,6 +15851,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025624Z" creationid="xccui" creationdate="20190720T025624Z">
         <seg>示例9-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 9-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031925Z" creationid="xccui" creationdate="20190720T031925Z">
+        <seg>示例9-4，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44873,6 +44889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>apiVersion: v1 kind: Service metadata:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031942Z" creationid="xccui" creationdate="20190720T031942Z">
+        <seg>apiVersion: v1 kind: Service metadata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>app: flink component: master</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025000Z" creationid="xccui" creationdate="20190720T025000Z">
@@ -49237,6 +49261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073305Z" creationid="xccui" creationdate="20190606T150217Z">
         <seg>在检查点即将完成的时候，如果所有任务已经将各自状态成功写入远程存储，JobManager就会将状态句柄写入远程存储，并将远程位置的路径地址写入ZooKeeper。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ports:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031945Z" creationid="xccui" creationdate="20190720T031945Z">
+        <seg>ports:</seg>
       </tuv>
     </tu>
     <tu>
