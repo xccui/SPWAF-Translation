@@ -20639,6 +20639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Kuber‐ netes project provides Minikube, an environment to run a single- node Kubernetes cluster locally on a single machine for testing or daily development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023512Z" creationid="xccui" creationdate="20190720T023512Z">
+        <seg>但它的项目内提供了一个可以在一台机器上本地运行单节点Kubernetes集群的环境——MiniKube，你可以用它来进行测试或日常开发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the application might emit results twice because all results that have been emitted after the last successful checkpoint (the one to which the application falls back in the case of a recovery) will be emitted again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T062101Z" creationid="xccui" creationdate="20190708T062101Z">
@@ -26217,8 +26225,8 @@
       <tuv lang="EN-US">
         <seg>Kubernetes is designed for cluster operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T024158Z" creationid="xccui" creationdate="20190719T024158Z">
-        <seg>Kubernetes专为操纵集群而设计。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023117Z" creationid="xccui" creationdate="20190719T024158Z">
+        <seg>虽然Kubernetes是为操纵集群而设计的，</seg>
       </tuv>
     </tu>
     <tu>
