@@ -17855,6 +17855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink master deployment so that the workers can access the master.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031626Z" creationid="xccui" creationdate="20190720T031626Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink needs to create a suitable serializer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071403Z" creationid="xccui" creationdate="20190630T071403Z">
@@ -37140,6 +37148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143452Z" creationid="xccui" creationdate="20190606T143434Z">
         <seg>这里的服务可以是Flink Dispatcher，Flink JobManager或是YARN的ResourceManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The service defi‐ nition that exposes the master process and makes it accessible to the worker contain‐ ers is shown in Example 9-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031729Z" creationid="xccui" creationdate="20190720T031729Z">
+        <seg>示例9-4中展示的Service定义会将主进程暴露出来以供工作进程容器访问。</seg>
       </tuv>
     </tu>
     <tu>
