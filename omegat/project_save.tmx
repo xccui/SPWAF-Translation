@@ -43017,6 +43017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When port forwarding is running, you can access the Web UI at http://localhost:8081.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035626Z" creationid="xccui" creationdate="20190720T035626Z">
+        <seg>在端口转发运行过程中，你可以通过http://localhost:8081访问Web UI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When presenting the transformations of the DataStream API, we show the interfaces for all function classes, but mostly use lambda functions instead of function classes in code examples for brevity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053453Z" creationid="xccui" creationdate="20190613T022648Z">
@@ -47669,6 +47677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033844Z" creationid="xccui" creationdate="20190720T033844Z">
         <seg>kubectl get deployments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kubectl port-forward deployment/flink-master 8081:8081</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035417Z" creationid="xccui" creationdate="20190720T035417Z">
+        <seg>kubectl port-forward deployment/flink-master 8081:8081</seg>
       </tuv>
     </tu>
     <tu>
