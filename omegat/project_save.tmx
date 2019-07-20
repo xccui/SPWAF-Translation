@@ -27287,6 +27287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, you can submit applications using the Flink CLI client (./bin/flink) and access the REST interface to request information about the Flink cluster or manage running applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035931Z" creationid="xccui" creationdate="20190720T035931Z">
+        <seg>此外，你还可以使用Flink的CLI客户端（./bin/flink）提交应用，并访问REST接口获取有关Flink集群的信息或管理正在运行的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More‐ over, applications that read from the sink system might observe unexpected results during the time when an application recovers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200935Z" creationid="xccui" creationdate="20190708T071536Z">
@@ -28043,6 +28051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T142729Z" creationid="xccui" creationdate="20190401T142257Z">
         <seg>现在你已经对dataflow编程的基础有所了解，接下来我们看一下这些概念如何应用于并行数据流处理中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now you can upload and submit jobs to the Flink cluster running on Kubernetes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035805Z" creationid="xccui" creationdate="20190720T035746Z">
+        <seg>现在你就能够将作业上传并提交至Kubernetes上的Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
