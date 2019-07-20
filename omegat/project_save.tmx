@@ -13879,6 +13879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do Not Use start-zookeeper-quorum.sh for Production Setups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203047Z" creationid="xccui" creationdate="20190720T203047Z">
+        <seg>不要将start-zookeeper-quorum.sh用于生产环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not evaluate per element</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200646Z" creationid="xccui" creationdate="20190626T200646Z">
@@ -44661,6 +44669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033432Z" creationid="xccui" creationdate="20190710T033420Z">
         <seg>你需要仔细检查Kafka的设置，特别要留意以下参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should not use Flink’s ZooKeeper script for production environments but instead carefully configure and deploy a Zoo‐ Keeper cluster yourself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203454Z" creationid="xccui" creationdate="20190720T203454Z">
+        <seg>请不要将Flink的ZooKeeper脚本用于生产环境，而应该自己仔细配置并部署ZooKeeper集群。</seg>
       </tuv>
     </tu>
     <tu>
