@@ -17455,6 +17455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you need to configure the hosts and ports of all ZooKeeper processes involved in the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T161243Z" creationid="xccui" creationdate="20190720T161243Z">
+        <seg>首先，你需要在./conf/zoo.cfg文件里配置集群中全部ZooKeeper进程的主机和端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FlatMap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T053224Z" creationid="xccui" creationdate="20190613T053224Z">
