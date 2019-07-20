@@ -6846,6 +6846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Flink HA setup requires a running Apache ZooKeeper cluster and a persistent remote storage, such as HDFS, NFS, or S3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T160844Z" creationid="xccui" creationdate="20190720T160844Z">
+        <seg>Flink的HA设置需要运行一个Apache ZooKeeper集群和一个持久化远程存储（例如HDFS、NFS或S3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Flink Kafka consumer can be configured to automatically discover new topics that match the regular expression or new partitions that were added to a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042240Z" creationid="xccui" creationdate="20190709T042240Z">
@@ -40292,6 +40300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033058Z" creationid="xccui" creationdate="20190620T032816Z">
         <seg>为了保证事件时间操作能够正常工作，必须将分配器放在任何依赖事件时间的转换之前（例如，在第一个事件时间窗口之前）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To help users start a ZooKeeper cluster quickly for testing purposes, Flink provides a helper script for bootstrapping.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T161130Z" creationid="xccui" creationdate="20190720T161130Z">
+        <seg>为了帮助用户快速启动ZooKeeper集群进行测试，Flink提供了一个自启动帮助脚本。</seg>
       </tuv>
     </tu>
     <tu>
