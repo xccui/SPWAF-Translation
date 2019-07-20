@@ -23335,6 +23335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to recover from a master pod failure, you need to configure a highly available setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T040135Z" creationid="xccui" creationdate="20190720T040135Z">
+        <seg>为了从主进程Pod的故障中恢复，你需要进行一些高可用设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to recover from master failures, a highly available setup needs to be configured as described in a later section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T010759Z" creationid="xccui" creationdate="20190719T010759Z">
@@ -42801,6 +42809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a worker pod fails, Kubernetes will automatically restart the failed pod and the application will be recovered (given that checkpointing was activated and properly configured).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T040036Z" creationid="xccui" creationdate="20190720T040036Z">
+        <seg>当工作进程Pod发生故障时，Kubernetes会自动重启故障的Pod并恢复应用（前提是已经配置好并激活检查点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When all records have been successfully emitted, the corresponding checkpoint must be inter‐ nally committed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T051412Z" creationid="xccui" creationdate="20190715T051412Z">
@@ -44277,6 +44293,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033842Z" creationid="xccui" creationdate="20190720T033842Z">
         <seg>你可以通过运行以下命令来查看所有Deployment的状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can shut down a Flink cluster running on Kubernetes by running the following commands:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T040226Z" creationid="xccui" creationdate="20190720T040226Z">
+        <seg>你可以运行以下命令来关闭运行在Kubernetes之上的Flink集群：</seg>
       </tuv>
     </tu>
     <tu>
