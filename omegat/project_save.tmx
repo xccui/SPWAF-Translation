@@ -18399,6 +18399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s JobManager holds metadata about an application and its execution, such as the application JAR file, the JobGraph, and pointers to completed checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T043352Z" creationid="xccui" creationdate="20190720T043352Z">
+        <seg>Flink的JobManager中存放了应用以及和它执行有关的元数据，例如应用的JAR文件、JobGraph以及已完成检查点的路径信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s batch processing API, the DataSet API, and the runtime are separate from their corresponding stream&lt;t0/&gt;‐&lt;t1/&gt; ing counterparts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T060914Z" creationid="xccui" creationdate="20190328T060503Z">
@@ -43725,6 +43733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041545Z" creationid="esouser" creationdate="20190603T153220Z">
         <seg>尽管我们在写书的时候是按照预期阅读顺序进行的章节编排，但如果你已经对某些章节的内容很熟悉，仍可以选择跳过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While worker failures are handled by the ResourceManager, failures of the JobManager component require the configura‐ tion of a highly available (HA) setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T043135Z" creationid="xccui" creationdate="20190720T043135Z">
+        <seg>虽然工作进程的故障可以由ResourceManager来解决，但JobManager组件的故障就需要额外的高可用（HA）配置。</seg>
       </tuv>
     </tu>
     <tu>
