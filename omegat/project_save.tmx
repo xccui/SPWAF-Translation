@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># REQUIRED: enable HA mode via ZooKeeper high-availability: zookeeper</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203841Z" creationid="xccui" creationdate="20190720T203841Z">
+        <seg># 必填参数：通过ZooKeeper开启HA模式 high-availability: zookeeper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#OnTimerContext, out: Collector[SensorReading]): Unit = {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032607Z" creationid="xccui" creationdate="20190622T032607Z">
@@ -12503,6 +12511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuration of a HA Flink cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203643Z" creationid="xccui" creationdate="20190720T203643Z">
+        <seg>配置Flink HA集群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration parameter is only used by the DataSet API and not by the Data‐ Stream API.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061335Z" creationid="xccui" creationdate="20190618T061320Z">
@@ -15875,6 +15891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031925Z" creationid="xccui" creationdate="20190720T031925Z">
         <seg>示例9-4，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 9-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203635Z" creationid="xccui" creationdate="20190720T203635Z">
+        <seg>示例9-5，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33788,6 +33812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T052914Z" creationid="xccui" creationdate="20190613T052914Z">
         <seg>FilterFunction接口的类型为输入流的类型，它的filter()方法会接收一个输入事件，返回一个布尔值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Flink HA mode is configured in the ./conf/flink-conf.yaml file by setting the parameters as shown in Example 9-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203631Z" creationid="xccui" creationdate="20190720T203631Z">
+        <seg>你可以像示例9-5那样在./conf/flink-conf.yaml文件中设置参数来配置Flink HA模式。</seg>
       </tuv>
     </tu>
     <tu>
