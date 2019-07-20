@@ -27391,6 +27391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most streaming applications are ideally executed continuously with as little downtime as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042814Z" creationid="xccui" creationdate="20190720T042814Z">
+        <seg>大多数流式应用都会尽可能减少停机时间来连续地执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most streaming applications require that failures not affect the correctness of the computed results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203714Z" creationid="xccui" creationdate="20190702T203714Z">
@@ -38348,6 +38356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T064100Z" creationid="xccui" creationdate="20190617T063903Z">
         <seg>因此，没必要为键和值再单独定义数据类型，这样省去了很多样板代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, many applications must be able to automatically recover from failure of any process involved in the execution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042936Z" creationid="xccui" creationdate="20190720T042936Z">
+        <seg>因此，很多应用必须能够从执行过程所涉及的任意应用故障中自动恢复。</seg>
       </tuv>
     </tu>
     <tu>
