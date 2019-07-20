@@ -6982,6 +6982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Kubernetes deployment for two Flink workers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025716Z" creationid="xccui" creationdate="20190720T025716Z">
+        <seg>针对两个Flink工作进程的Kubernetes Deployment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A ProcessFunction that emits records to a side output</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023338Z" creationid="xccui" creationdate="20190622T023338Z">
@@ -15819,6 +15827,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024832Z" creationid="xccui" creationdate="20190720T024832Z">
         <seg>示例9-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 9-3 shows the deployment for worker pods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025620Z" creationid="xccui" creationdate="20190720T025620Z">
+        <seg>示例9-3展示了工作进程Pod的配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 9-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025624Z" creationid="xccui" creationdate="20190720T025624Z">
+        <seg>示例9-3，</seg>
       </tuv>
     </tu>
     <tu>
@@ -37880,6 +37904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The worker deployment looks almost identical to the master deployment with a few differences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025926Z" creationid="xccui" creationdate="20190720T025926Z">
+        <seg>工作进程的Deployment和主进程的Deployment几乎一模一样，二者只有几点不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The “Extract hashtags" and “Count" operators have two parallel operator tasks, each performing a computation on a subset of the input data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T021422Z" creationid="xccui" creationdate="20190401T003521Z">
@@ -44801,6 +44833,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>app: flink component: worker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025724Z" creationid="xccui" creationdate="20190720T025724Z">
+        <seg>app: flink component: worker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>application is represented by the StreamExecutionEnvironment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044952Z" creationid="xccui" creationdate="20190612T044952Z">
@@ -45653,6 +45693,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
         <seg>你可以使用tail命令监控持续产生的结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>containerPort: 6121 name: data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025736Z" creationid="xccui" creationdate="20190720T025736Z">
+        <seg>containerPort: 6121 name: data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>containerPort: 6122 name: rpc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025739Z" creationid="xccui" creationdate="20190720T025739Z">
+        <seg>containerPort: 6122 name: rpc</seg>
       </tuv>
     </tu>
     <tu>
@@ -47913,10 +47969,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name: flink-worker spec:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025718Z" creationid="xccui" creationdate="20190720T025718Z">
+        <seg>name: flink-worker spec:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name: master image: flink:1.7 args:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025011Z" creationid="xccui" creationdate="20190720T025011Z">
         <seg>name: master image: flink:1.7 args:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name: worker image: flink:1.7 args:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025730Z" creationid="xccui" creationdate="20190720T025730Z">
+        <seg>name: worker image: flink:1.7 args:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49625,6 +49697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>replicas: 2 template: metadata:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025721Z" creationid="xccui" creationdate="20190720T025721Z">
+        <seg>replicas: 2 template: metadata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>repository to your local machine:1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040104Z" creationid="xccui" creationdate="20190611T040104Z">
@@ -50197,6 +50277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162627Z" creationid="xccui" creationdate="20190717T162627Z">
         <seg>tar xfz ./flink-1.7.1-bin-scala_2.12.tgz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>taskmanager ports:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025733Z" creationid="xccui" creationdate="20190720T025733Z">
+        <seg>taskmanager ports:</seg>
       </tuv>
     </tu>
     <tu>
