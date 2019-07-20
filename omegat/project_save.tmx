@@ -44073,6 +44073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can create a Flink deployment for Kubernetes by storing each definition in a sep‐ arate file, such as master-deployment.yaml, worker-deployment.yaml, or master- service.yaml.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033302Z" creationid="xccui" creationdate="20190720T033302Z">
+        <seg>为了创建Flink的Kubernetes Deployment，你可以将每个定义单独存为一个文件，例如master-deployment.yaml，worker-deployment.yaml或master-service.yaml。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can define breakpoints in the code and debug your application as you would normally do.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092944Z" creationid="xccui" creationdate="20190611T053048Z">
@@ -45725,6 +45733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T041706Z" creationid="xccui" creationdate="20190504T041706Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>component: master</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T032005Z" creationid="xccui" creationdate="20190720T032005Z">
+        <seg>component: master</seg>
       </tuv>
     </tu>
     <tu>
@@ -48033,6 +48049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name: blob port: 6124</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031954Z" creationid="xccui" creationdate="20190720T031954Z">
+        <seg>name: blob port: 6124</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name: flink-master spec:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024950Z" creationid="xccui" creationdate="20190720T024950Z">
@@ -48053,6 +48077,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025011Z" creationid="xccui" creationdate="20190720T025011Z">
         <seg>name: master image: flink:1.7 args:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name: query port: 6125</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031957Z" creationid="xccui" creationdate="20190720T031957Z">
+        <seg>name: query port: 6125</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name: rpc port: 6123</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031950Z" creationid="xccui" creationdate="20190720T031950Z">
+        <seg>name: rpc port: 6123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name: ui port: 8081 selector: app: flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T032001Z" creationid="xccui" creationdate="20190720T032001Z">
+        <seg>name: ui port: 8081 selector: app: flink</seg>
       </tuv>
     </tu>
     <tu>
