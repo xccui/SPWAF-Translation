@@ -34632,6 +34632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The build script for the provided image is a good starting point for a custom image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042618Z" creationid="xccui" creationdate="20190720T042618Z">
+        <seg>我们提供的映像构建脚本对你构建自定义映像而言是一个很好的参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The build scripts of the available Docker Flink images are a good starting point for customized images.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043154Z" creationid="xccui" creationdate="20190718T043154Z">
@@ -44629,6 +44637,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T151708Z" creationid="xccui" creationdate="20190405T151603Z">
         <seg>在本章末尾，你将了解更多有关状态化流处理、错误场景和一致性的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You would need to build custom Docker images with an adjusted configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042251Z" creationid="xccui" creationdate="20190720T042251Z">
+        <seg>你需要使用调整后的配置构建自定义的Docker映像。</seg>
       </tuv>
     </tu>
     <tu>
