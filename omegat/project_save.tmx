@@ -27231,6 +27231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More‐ over, the deployment configures which ports of the container to open for RPC com‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025451Z" creationid="xccui" creationdate="20190720T025451Z">
+        <seg>此外该Deployment配置了容器需要开放哪些用于RPC通信的端口，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most DataStream API methods accept lambda functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055922Z" creationid="xccui" creationdate="20190618T055552Z">
@@ -47861,6 +47869,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065044Z" creationid="xccui" creationdate="20190715T065044Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>munication, the blob manager (to exchange large files), the queryable state server, and the Web UI and REST interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025608Z" creationid="xccui" creationdate="20190720T025608Z">
+        <seg>二进制管理器（blob manager用于交换大文件），可查询式状态服务器，以及Web UI（REST接口）。</seg>
       </tuv>
     </tu>
     <tu>
