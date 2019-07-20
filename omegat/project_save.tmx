@@ -28471,6 +28471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033437Z" creationid="xccui" creationdate="20190720T033437Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you obtain a state client, you can query the state of an application by calling the getKvState() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T034126Z" creationid="xccui" creationdate="20190707T033408Z">
@@ -35172,6 +35180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T044155Z" creationid="xccui" creationdate="20190504T044155Z">
         <seg>其中包含了4个发送端和4个接收端任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The files are also provided in our repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033342Z" creationid="xccui" creationdate="20190720T033342Z">
+        <seg>你可以从我们的代码库中找到这些文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46173,6 +46189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070302Z" creationid="xccui" creationdate="20190615T070302Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>definition files, you can register them to Kubernetes using the kubectl command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033527Z" creationid="xccui" creationdate="20190720T033435Z">
+        <seg>在拥有这些定义文件后，你就可以使用kubectl命令将它们注册到Kubernetes：</seg>
       </tuv>
     </tu>
     <tu>
