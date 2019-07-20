@@ -24719,6 +24719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we will configure this mode for different deployment options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045453Z" creationid="xccui" creationdate="20190720T045453Z">
+        <seg>本节我们将介绍如何针对不同部署选项来配置该模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we will see how to use watermarks to configure event-time window behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160859Z" creationid="xccui" creationdate="20190606T025254Z">
@@ -42194,8 +42202,8 @@
       <tuv lang="EN-US">
         <seg>We pre‐ sented the mode of operation and internals of Flink’s HA setup in more detail in “Highly Available Setup” on page 42.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045358Z" creationid="xccui" creationdate="20190720T045358Z">
-        <seg>有关Flink HA设置的操纵模式及内部原理的详情已经在第42页"高可用性设置"中介绍过。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T050042Z" creationid="xccui" creationdate="20190720T045358Z">
+        <seg>有关操作模式及Flink HA设置的内部原理已经在第42页"高可用性设置"中详细介绍过。</seg>
       </tuv>
     </tu>
     <tu>
