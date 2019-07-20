@@ -33944,6 +33944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The JobManager stores all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T044922Z" creationid="xccui" creationdate="20190720T044922Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Job‐ Manager receives an application for execution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T055934Z" creationid="xccui" creationdate="20190606T141542Z">
@@ -50043,8 +50051,8 @@
       <tuv lang="EN-US">
         <seg>relevant data in the persistent storage and writes a pointer to the information—the storage path—to ZooKeeper.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T043700Z" creationid="xccui" creationdate="20190720T043700Z">
-        <seg>JobManager存储了全部相关数据</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045038Z" creationid="xccui" creationdate="20190720T043700Z">
+        <seg>JobManager</seg>
       </tuv>
     </tu>
     <tu>
