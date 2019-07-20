@@ -20199,6 +20199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, you cannot access the master con‐ tainer to submit an application or access the Web UI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035153Z" creationid="xccui" creationdate="20190720T035153Z">
+        <seg>因此你无法连接主进程容器来提交应用或访问Web UI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, you do not need to add a dependency to your build file to use it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T204756Z" creationid="xccui" creationdate="20190710T204756Z">
@@ -39168,6 +39176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is done by running the following command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035244Z" creationid="xccui" creationdate="20190720T035244Z">
+        <seg>该工作可以通过以下命令完成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is fine for some applications, but what if you are only interested in the most recent data?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T043032Z" creationid="xccui" creationdate="20190406T042859Z">
@@ -44333,6 +44349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210817Z" creationid="esouser" creationdate="20190603T210817Z">
         <seg>You do not need to contact us for permission unless you’re reproducing a significant portion of the code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You first need to tell Kubernetes to create a port forwarding from the master container to your local machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035411Z" creationid="xccui" creationdate="20190720T035411Z">
+        <seg>为此，首先需要告诉Kubernetes来创建从主进程容器到本地机器的端口转发。</seg>
       </tuv>
     </tu>
     <tu>
