@@ -6886,6 +6886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Flink setup for Kubernetes is defined with two deployments—one for the pod run‐ ning the master process and the other for the worker process pods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024521Z" creationid="xccui" creationdate="20190720T024521Z">
+        <seg>在Kubernetes上搭建Flink需要通过两个Deployment来完成——一个用于运行主进程的Pod，另一个用于工作进程的Pod。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Function Cannot Choose Which ConnectedStreams to Read</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T043536Z" creationid="xccui" creationdate="20190615T043536Z">
@@ -44877,6 +44885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065849Z" creationid="xccui" creationdate="20190619T065849Z">
         <seg>这是因为窗口内容取决于元素到达的速率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>before deploying Flink: minikube ssh 'sudo ip link set docker0 promisc on'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024301Z" creationid="xccui" creationdate="20190720T024301Z">
+        <seg>minikube ssh 'sudo ip link set docker() promisc on'。</seg>
       </tuv>
     </tu>
     <tu>
