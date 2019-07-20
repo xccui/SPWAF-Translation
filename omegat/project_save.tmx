@@ -22647,6 +22647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case of a failure, a new JobManager looks up the pointer from ZooKeeper and loads the metadata from the persistent storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045210Z" creationid="xccui" creationdate="20190720T045210Z">
+        <seg>一旦发生故障，新的JobManager就可以从ZooKeeper中查找相关路径并根据它从持久化存储中加载元数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case of a failure, the state of the application is restored from the latest completed checkpoint and processing continues.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T052008Z" creationid="xccui" creationdate="20190708T052008Z">
@@ -42184,6 +42192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We pre‐ sented the mode of operation and internals of Flink’s HA setup in more detail in “Highly Available Setup” on page 42.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045358Z" creationid="xccui" creationdate="20190720T045358Z">
+        <seg>有关Flink HA设置的操纵模式及内部原理的详情已经在第42页"高可用性设置"中介绍过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We recommend setting up Minikube if you would like to try to run Flink on Kubernetes and do not have a Kubernetes cluster at hand.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023610Z" creationid="xccui" creationdate="20190720T023610Z">
@@ -50051,8 +50067,8 @@
       <tuv lang="EN-US">
         <seg>relevant data in the persistent storage and writes a pointer to the information—the storage path—to ZooKeeper.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045038Z" creationid="xccui" creationdate="20190720T043700Z">
-        <seg>JobManager</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045122Z" creationid="xccui" creationdate="20190720T043700Z">
+        <seg>JobManager会将所有相关数据存储持久化存储并将这些信息的存储路径写入ZooKeeper。</seg>
       </tuv>
     </tu>
     <tu>
