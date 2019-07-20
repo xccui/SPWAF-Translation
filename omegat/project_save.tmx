@@ -36072,6 +36072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The master container is started from the Flink 1.7 Docker image (image: flink: 1.7) with an argument that starts the master process (args: - jobmanager).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025352Z" creationid="xccui" creationdate="20190720T025352Z">
+        <seg>主进程容器从Flink 1.7 Docker映像（image: flink: 1.7）启动主进程（需要配置参数args: - jobmanager）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The master deployment configuration is shown in Example 9-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024937Z" creationid="xccui" creationdate="20190720T024826Z">
@@ -38796,6 +38804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063821Z" creationid="xccui" creationdate="20190606T144242Z">
         <seg>后者常用于微服务架构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This deployment specifies that a single master container should be run (replicas: 1).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025146Z" creationid="xccui" creationdate="20190720T025146Z">
+        <seg>这个Deployment指定了我们需要运行一个主进程容器（replicas: 1）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44761,6 +44777,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>apiVersion: extensions/v1beta1 kind: Deployment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024942Z" creationid="xccui" creationdate="20190720T024942Z">
+        <seg>apiVersion: extensions/v1beta1 kind: Deployment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>app: flink component: master</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025000Z" creationid="xccui" creationdate="20190720T025000Z">
+        <seg>app: flink component: master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>application is represented by the StreamExecutionEnvironment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T044952Z" creationid="xccui" creationdate="20190612T044952Z">
@@ -45617,6 +45649,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>containerPort: 6123 name: rpc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025021Z" creationid="xccui" creationdate="20190720T025021Z">
+        <seg>containerPort: 6123 name: rpc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>containerPort: 6124 name: blob</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025025Z" creationid="xccui" creationdate="20190720T025025Z">
+        <seg>containerPort: 6124 name: blob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>containerPort: 6125 name: query</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025029Z" creationid="xccui" creationdate="20190720T025029Z">
+        <seg>containerPort: 6125 name: query</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>containerPort: 8081 name: ui</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025033Z" creationid="xccui" creationdate="20190720T025033Z">
+        <seg>containerPort: 8081 name: ui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>containers:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025007Z" creationid="xccui" creationdate="20190720T025007Z">
+        <seg>containers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contains the key-value pair.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T064803Z" creationid="xccui" creationdate="20190708T064803Z">
@@ -46197,6 +46269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041940Z" creationid="xccui" creationdate="20190612T041940Z">
         <seg>env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025038Z" creationid="xccui" creationdate="20190720T025038Z">
+        <seg>env:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47289,6 +47369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>jobmanager ports:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025015Z" creationid="xccui" creationdate="20190720T025015Z">
+        <seg>jobmanager ports:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>join is defined as shown in Example 6-18.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025803Z" creationid="xccui" creationdate="20190628T025803Z">
@@ -47325,6 +47413,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141438Z" creationid="xccui" creationdate="20190704T141438Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>labels:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024956Z" creationid="xccui" creationdate="20190720T024956Z">
+        <seg>labels:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47641,6 +47737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>metadata:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024946Z" creationid="xccui" creationdate="20190720T024946Z">
+        <seg>metadata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>method assembles the operator state from possibly multiple parts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060711Z" creationid="xccui" creationdate="20190701T060517Z">
@@ -47773,6 +47877,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T064647Z" creationid="xccui" creationdate="20190613T064647Z">
         <seg>mvn clean package -Pbuild-jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name: JOB_MANAGER_RPC_ADDRESS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025042Z" creationid="xccui" creationdate="20190720T025042Z">
+        <seg>name: JOB_MANAGER_RPC_ADDRESS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name: flink-master spec:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024950Z" creationid="xccui" creationdate="20190720T024950Z">
+        <seg>name: flink-master spec:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name: master image: flink:1.7 args:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025011Z" creationid="xccui" creationdate="20190720T025011Z">
+        <seg>name: master image: flink:1.7 args:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49473,6 +49601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>replicas: 1 template: metadata:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024953Z" creationid="xccui" creationdate="20190720T024953Z">
+        <seg>replicas: 1 template: metadata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>repository to your local machine:1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T040104Z" creationid="xccui" creationdate="20190611T040104Z">
@@ -49789,6 +49925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T205039Z" creationid="xccui" creationdate="20190710T205039Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>spec:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025003Z" creationid="xccui" creationdate="20190720T025003Z">
+        <seg>spec:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52197,6 +52341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011820Z" creationid="xccui" creationdate="20190606T011820Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value: flink-master</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025045Z" creationid="xccui" creationdate="20190720T025045Z">
+        <seg>value: flink-master</seg>
       </tuv>
     </tu>
     <tu>
