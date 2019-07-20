@@ -20641,8 +20641,8 @@
       <tuv lang="EN-US">
         <seg>However, the Kuber‐ netes project provides Minikube, an environment to run a single- node Kubernetes cluster locally on a single machine for testing or daily development.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023512Z" creationid="xccui" creationdate="20190720T023512Z">
-        <seg>但它的项目内提供了一个可以在一台机器上本地运行单节点Kubernetes集群的环境——MiniKube，你可以用它来进行测试或日常开发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023646Z" creationid="xccui" creationdate="20190720T023512Z">
+        <seg>但它的项目内提供了一个可以在一台机器上本地运行单节点Kubernetes集群的环境——MiniKube，该环境可用于测试或日常开发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23291,6 +23291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195810Z" creationid="xccui" creationdate="20190717T193734Z">
         <seg>为了将Flink集群搭建在多台机器上，你需要调整一下默认的配置并完成一些额外步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to successfully run applications on a Flink cluster that is deployed on Minikube, you need to run the following command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024235Z" creationid="xccui" creationdate="20190720T024235Z">
+        <seg>为了在基于Minukube的Flink集群上运行应用，你需要在部署Flink前执行以下命令：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41868,6 +41876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214016Z" creationid="xccui" creationdate="20190716T214016Z">
         <seg>我们介绍了Flink中最为常用的内置数据源及数据汇连接器。事实上，它们还分别代表了不同类型的存储系统，例如消息队列、文件系统及键值存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend setting up Minikube if you would like to try to run Flink on Kubernetes and do not have a Kubernetes cluster at hand.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023610Z" creationid="xccui" creationdate="20190720T023610Z">
+        <seg>如果你想尝试在Kubernetes上运行Flink但手头没有Kubernetes集群，我们建议你搭建一个Minikube。</seg>
       </tuv>
     </tu>
     <tu>
