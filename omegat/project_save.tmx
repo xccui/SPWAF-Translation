@@ -11351,6 +11351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides starting standby TaskManagers, a standalone deployment does not need addi‐ tional configuration to be able to recover from TaskManager failures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025623Z" creationid="xccui" creationdate="20190721T025411Z">
+        <seg>有了后备TaskManager，独立集群部署无需额外配置就可以从TaskManager故障中恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides the much shorter time needed for an event to be incorporated into an analyt‐ ics result, there is another, less obvious, advantage of streaming analytics applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155621Z" creationid="xccui" creationdate="20190605T044658Z">
@@ -38482,8 +38490,8 @@
       <tuv lang="EN-US">
         <seg>Therefore, a stand‐ alone Flink cluster requires standby Dispatcher and TaskManager processes that can take over the work of failed processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025348Z" creationid="xccui" creationdate="20190721T025348Z">
-        <seg>因此，在独立集群模式下Flink需要后备Dispatcher和TaskManager进程，用来接管故障进程的工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025430Z" creationid="xccui" creationdate="20190721T025348Z">
+        <seg>因此，在独立集群模式下，Flink需要后备Dispatcher和TaskManager进程，用来接管故障进程的工作。</seg>
       </tuv>
     </tu>
     <tu>
