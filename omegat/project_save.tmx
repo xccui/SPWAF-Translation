@@ -11815,6 +11815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, it automatically restarts failed master and TaskManager containers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051655Z" creationid="xccui" creationdate="20190721T051655Z">
+        <seg>默认情况下它会自动重启发生故障的主进程容器和TaskManager容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, only the core API dependencies (DataStream and DataSet APIs) are loaded by a Flink cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035728Z" creationid="xccui" creationdate="20190619T035618Z">
@@ -18639,6 +18647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s master process is started as a YARN ApplicationMaster.5 YARN automatically restarts a failed ApplicationMaster but tracks and limits the number of restarts to pre‐ vent infinite recovery cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052210Z" creationid="xccui" creationdate="20190721T052210Z">
+        <seg>Flink的主进程是作为YARN ApplicationMaster启动的。5 YARN会自动重启故障的ApplicationMaster，但会跟踪并限制重启次数以防出现无限次的恢复循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s queryable state service consists of three processes:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T195155Z" creationid="xccui" creationdate="20190705T195155Z">
@@ -20379,6 +20395,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184121Z" creationid="xccui" creationdate="20190710T184121Z">
         <seg>因此你在用它的时候无需添加任何其他依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, you do not need to run standby processes in a YARN setup to achieve HA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051731Z" creationid="xccui" creationdate="20190721T051731Z">
+        <seg>因此你无须在YARN中设置后备进程就能实现HA。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44349,6 +44373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T210712Z" creationid="xccui" creationdate="20190718T210712Z">
         <seg>YARN以容器3 的形式发放资源，这些容器分布在集群之上并允许应用在其中运行自己的进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YARN is a cluster resource and container manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051626Z" creationid="xccui" creationdate="20190721T051626Z">
+        <seg>YARN是一个集群资源和容器的管理器。</seg>
       </tuv>
     </tu>
     <tu>
