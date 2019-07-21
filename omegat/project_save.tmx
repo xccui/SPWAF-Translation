@@ -39720,6 +39720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is suffi‐ cient to recover from worker failures, which are handled by the ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061926Z" creationid="xccui" creationdate="20190721T061926Z">
+        <seg>这足以让ResourceManager对工作进程进行故障恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the default behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161027Z" creationid="xingcan" creationdate="20190709T154425Z">
