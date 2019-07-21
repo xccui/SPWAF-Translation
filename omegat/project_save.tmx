@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># Restart an application at most 3 times (+ the initial start).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052826Z" creationid="xccui" creationdate="20190721T052826Z">
+        <seg># 应用最多重启3次（包括首次启动）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># The cluster id is required to look up the metadata of a failed cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051140Z" creationid="xccui" creationdate="20190721T051109Z">
@@ -6542,6 +6550,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/description&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052546Z" creationid="xccui" creationdate="20190721T052546Z">
+        <seg>&lt;/description&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/property&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052550Z" creationid="xccui" creationdate="20190721T052550Z">
+        <seg>&lt;/property&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;S extends State&gt; S getPartitionedState(StateDescriptor&lt;S, ?&gt; stateDescriptor);</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192924Z" creationid="xccui" creationdate="20190626T192924Z">
@@ -6578,6 +6602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124831Z" creationid="xccui" creationdate="20190706T124831Z">
         <seg>&lt;dependency&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;description&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052541Z" creationid="xccui" creationdate="20190721T052541Z">
+        <seg>&lt;description&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6762,6 +6794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T172840Z" creationid="xccui" creationdate="20190228T172718Z">
         <seg>图1-2描绘了微服务的架构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;value&gt;4&lt;/value&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052537Z" creationid="xccui" creationdate="20190721T052537Z">
+        <seg>&lt;value&gt;4&lt;/value&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13643,6 +13683,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024537Z" creationid="xccui" creationdate="20190225T024537Z">
         <seg>在RuntimeContext中声明Keyed State</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default value is 2, i.e., an application is restarted at most once.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052653Z" creationid="xccui" creationdate="20190721T052653Z">
+        <seg>默认值是2，即应用最多重启一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27575,6 +27623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, you need to adjust Flink’s configuration file ./conf/flink-conf.yaml and con‐ figure the number of application restart attempts:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052757Z" creationid="xccui" creationdate="20190721T052757Z">
+        <seg>此外，你需要在./conf/flink-conf.yaml中配置应用尝试重启的最大次数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More‐ over, applications that read from the sink system might observe unexpected results during the time when an application recovers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200935Z" creationid="xccui" creationdate="20190708T071536Z">
@@ -36564,6 +36620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153534Z" creationid="xccui" creationdate="20190717T153534Z">
         <seg>主进程会启动单独的线程来运行Dispatcher和ResourceManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum number of application master execution attempts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052636Z" creationid="xccui" creationdate="20190721T052636Z">
+        <seg>ApplicationMaster尝试执行的最大次数。</seg>
       </tuv>
     </tu>
     <tu>
