@@ -21593,8 +21593,8 @@
       <tuv lang="EN-US">
         <seg>If the master process that runs the active Dispatcher and JobManager fails, ZooKeeper elects a new Dispatcher as the leader.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050133Z" creationid="xccui" creationdate="20190721T050133Z">
-        <seg>如果运行活动Dispatcher及JobManager的主进程出现故障，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050222Z" creationid="xccui" creationdate="20190721T050133Z">
+        <seg>如果运行活动的Dispatcher和JobManager的主进程出现故障，ZooKeeper就会选出一个新的Dispatcher作为领导者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36368,6 +36368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The leading Dis‐ patcher recovers the failed application by starting a new JobManager thread that looks up the metadata pointer in ZooKeeper and loads the metadata from the persis‐ tent storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050503Z" creationid="xccui" creationdate="20190721T050503Z">
+        <seg>该Dispatcher会启动一个新的JobManager线程来恢复故障应用。新的JobManager会从ZooKeeper中查找元数据的存储路径，并依此从持久化存储中读取元数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list entries can be of arbitrary type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T220045Z" creationid="xccui" creationdate="20190607T220045Z">
@@ -43131,8 +43139,8 @@
       <tuv lang="EN-US">
         <seg>When an application is submitted, the responsible Dispatcher starts a JobManager thread that stores its metadata in the configured persistent storage and a pointer in Zoo‐ Keeper as discussed before.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T045941Z" creationid="xccui" creationdate="20190721T045941Z">
-        <seg>应用提交时，当前负责的Dispatcher会启动一个JobManager线程。该线程会向之前介绍的那样将它的元数据存储在配置好的持久化存储中，并将路径写入ZooKeeper。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050147Z" creationid="xccui" creationdate="20190721T045941Z">
+        <seg>在应用提交时，当前负责的Dispatcher会启动一个JobManager线程。该线程会像之前介绍的那样将它的元数据存储在配置好的持久化存储中，并将路径写入ZooKeeper。</seg>
       </tuv>
     </tu>
     <tu>
