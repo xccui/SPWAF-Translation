@@ -43121,6 +43121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When an application is submitted, the responsible Dispatcher starts a JobManager thread that stores its metadata in the configured persistent storage and a pointer in Zoo‐ Keeper as discussed before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T045941Z" creationid="xccui" creationdate="20190721T045941Z">
+        <seg>应用提交时，当前负责的Dispatcher会启动一个JobManager线程。该线程会向之前介绍的那样将它的元数据存储在配置好的持久化存储中，并将路径写入ZooKeeper。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an application receives an event, it can perform arbitrary computations that involve reading data from or writing data to the state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T030804Z" creationid="xccui" creationdate="20190305T030739Z">
