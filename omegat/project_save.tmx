@@ -6598,6 +6598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;name&gt;yarn.resourcemanager.am.max-attempts&lt;/name&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052509Z" creationid="xccui" creationdate="20190721T052509Z">
+        <seg>&lt;name&gt;yarn.resourcemanager.am.max-attempts&lt;/name&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;property&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052505Z" creationid="xccui" creationdate="20190721T052505Z">
+        <seg>&lt;property&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Eager &lt;t1/&gt;watermarks ensure low latency but provide lower confidence.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T210541Z" creationid="xccui" creationdate="20190412T210445Z">
@@ -10298,6 +10314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T024603Z" creationid="xccui" creationdate="20190423T024603Z">
         <seg>应用提交及组件交互。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ApplicationMaster is YARN’s master process of an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052535Z" creationid="xccui" creationdate="20190721T052535Z">
+        <seg>ApplicationMaster是YARN中应用的主进程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18649,8 +18673,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s master process is started as a YARN ApplicationMaster.5 YARN automatically restarts a failed ApplicationMaster but tracks and limits the number of restarts to pre‐ vent infinite recovery cycles.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052210Z" creationid="xccui" creationdate="20190721T052210Z">
-        <seg>Flink的主进程是作为YARN ApplicationMaster启动的。5 YARN会自动重启故障的ApplicationMaster，但会跟踪并限制重启次数以防出现无限次的恢复循环。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052458Z" creationid="xccui" creationdate="20190721T052210Z">
+        <seg>Flink的主进程是作为YARN ApplicationMaster启动的。5 YARN会自动重启故障的ApplicationMaster，但会跟踪并限制重启次数以防出现无限制的恢复循环。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44885,6 +44909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043025Z" creationid="xccui" creationdate="20190718T043025Z">
         <seg>如果你想调整某些参数，需要自己构建Docker映像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to configure the number of maximum Appli‐ cationManager restarts in the YARN configuration file yarn-site.xml as shown:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052502Z" creationid="xccui" creationdate="20190721T052451Z">
+        <seg>你需要像下面这样在YARN配置文件yarn-site.xml中配置ApplicationMaster的最大重启次数：</seg>
       </tuv>
     </tu>
     <tu>
