@@ -28361,8 +28361,8 @@
       <tuv lang="EN-US">
         <seg>Note that you must configure different cluster IDs for all Flink ses‐ sion clusters that connect to the same ZooKeeper cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061217Z" creationid="xccui" creationdate="20190721T061217Z">
-        <seg>注意，你必须为连接同一个ZooKeeper集群的所有处于会话模式的Flink集群配置不同的集群ID。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061513Z" creationid="xccui" creationdate="20190721T061217Z">
+        <seg>注意，连接同一个ZooKeeper集群的所有处于会话模式的Flink集群都必须配置不同的集群ID。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43601,6 +43601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When running Flink on Kubernetes with a master deployment and a worker deploy‐ ment as described in “Kubernetes” on page 228, Kubernetes will automatically restart failed containers to ensure the right number of pods is up and running.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061832Z" creationid="xccui" creationdate="20190721T061832Z">
+        <seg>像228页"Kubernetes"一节中介绍的那样，当在Kubernetes上使用主进程Deployment及工作进程Deployment启动Flink时，Kubernetes将自动重启故障容器以确保Pod运行数目的正确性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When running an application as a library deployment in a container environment, such as Kubernetes, failed JobManager or TaskManager containers are usually auto&lt;t0/&gt;‐&lt;t1/&gt; matically restarted by the container orchestration service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T035643Z" creationid="xccui" creationdate="20190504T035046Z">
@@ -43643,8 +43651,8 @@
       <tuv lang="EN-US">
         <seg>When starting a Flink cluster in job mode, the cluster ID is automatically set to the ID of the started application and is therefore unique.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061357Z" creationid="xccui" creationdate="20190721T061357Z">
-        <seg>而在作业模式下启动Flink集群，集群ID会被自动设置为启动应用的ID，因此会是唯一的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061540Z" creationid="xccui" creationdate="20190721T061357Z">
+        <seg>而在作业模式下启动Flink集群，集群ID会被自动设置为启动应用的ID，因此无须担心唯一性问题。</seg>
       </tuv>
     </tu>
     <tu>
