@@ -34312,6 +34312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ResourceManager hands out the previously idling processing slots and the application restarts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T034524Z" creationid="xccui" creationdate="20190721T034524Z">
+        <seg>ResourceManager将之前空闲的处理槽分发出去，应用就会重新启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ResourceManager is responsible for managing TaskManager slots, Flink’s unit of processing resources.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062008Z" creationid="xccui" creationdate="20190418T050109Z">
