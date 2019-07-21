@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg># The cluster id is required to look up the metadata of a failed cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051109Z" creationid="xccui" creationdate="20190721T051109Z">
-        <seg># 需要集群ID才可以查找故障集群的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051140Z" creationid="xccui" creationdate="20190721T051109Z">
+        <seg># 集群ID是查找故障集群元数据的必要信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21963,6 +21963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034216Z" creationid="xccui" creationdate="20190621T033944Z">
         <seg>如果生成的水位线过于宽松，即水位线远落后于已处理记录的时间戳，那么将导致产生结果的延迟增大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have a ZooKeeper quorum running and Flink properly configured, you can use the regular ./bin/start-cluster.sh script to start a HA standalone cluster by adding addi‐ tional hostnames and ports to the ./conf/masters file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051606Z" creationid="xccui" creationdate="20190721T051606Z">
+        <seg>你如果有一个正在运行的ZooKeeper Quorum且已经配置好Flink，就可以通过向./conf/masters文件中添加额外的主机名和端口号的方式，使用常规的./bin/start-cluster.sh脚本来启动HA的独立集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47421,6 +47429,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064256Z" creationid="xccui" creationdate="20190621T064256Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high-availability.cluster-id: /cluster-1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051143Z" creationid="xccui" creationdate="20190721T051143Z">
+        <seg>high-availability.cluster-id: /cluster-1</seg>
       </tuv>
     </tu>
     <tu>
