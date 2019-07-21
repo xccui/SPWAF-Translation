@@ -28359,6 +28359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that you must configure different cluster IDs for all Flink ses‐ sion clusters that connect to the same ZooKeeper cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061217Z" creationid="xccui" creationdate="20190721T061217Z">
+        <seg>注意，你必须为连接同一个ZooKeeper集群的所有处于会话模式的Flink集群配置不同的集群ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that you need to start a process that listens on the socket before starting the pro‐ gram.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T023519Z" creationid="xccui" creationdate="20190714T023519Z">
@@ -43633,6 +43641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When starting a Flink cluster in job mode, the cluster ID is automatically set to the ID of the started application and is therefore unique.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061357Z" creationid="xccui" creationdate="20190721T061357Z">
+        <seg>而在作业模式下启动Flink集群，集群ID会被自动设置为启动应用的ID，因此会是唯一的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When submitting an application to a running Flink cluster, the environment parallelism is set to the default parallelism of the cluster unless it is explicitly specified via the submission client (see “Running and Managing Streaming Applications” on page 245 for more details).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T053312Z" creationid="xccui" creationdate="20190616T053312Z">
@@ -45868,6 +45884,14 @@
         <seg>by a session gap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061314Z" creationid="xccui" creationdate="20190623T061314Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by using ./bin/flink run -m yarn-cluster and ./bin/yarn-session.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061121Z" creationid="xccui" creationdate="20190721T061121Z">
         <seg></seg>
       </tuv>
     </tu>
