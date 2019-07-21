@@ -21319,6 +21319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If configured for HA, all Dispatchers of a standalone setup register at ZooKeeper.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T034617Z" creationid="xccui" creationdate="20190721T034617Z">
+        <seg>如果进行了HA配置，则所有独立集群设置下的Dispatcher都会在ZooKeeper中注册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If events take a long time to travel in the data processing pipeline, we cannot easily ensure high throughput.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T053856Z" creationid="xccui" creationdate="20190605T234945Z">
@@ -44909,6 +44917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052928Z" creationid="xccui" creationdate="20190618T052830Z">
         <seg>目前位置，你已经在本章的代码示例中见到过如何使用用户自定义函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZooKeeper elects a leader Dispatcher responsible for executing applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T034954Z" creationid="xccui" creationdate="20190721T034954Z">
+        <seg>ZooKeeper会在所有Dispatcher中选出一个负责执行应用的领导者。</seg>
       </tuv>
     </tu>
     <tu>
