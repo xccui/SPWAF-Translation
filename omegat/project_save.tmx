@@ -38480,6 +38480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, a stand‐ alone Flink cluster requires standby Dispatcher and TaskManager processes that can take over the work of failed processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025348Z" creationid="xccui" creationdate="20190721T025348Z">
+        <seg>因此，在独立集群模式下Flink需要后备Dispatcher和TaskManager进程，用来接管故障进程的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, all configuration values are preserved after the object is deserialized.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054924Z" creationid="xccui" creationdate="20190618T054924Z">
