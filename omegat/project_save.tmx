@@ -13287,6 +13287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom Configuration in Flink Images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060705Z" creationid="xccui" creationdate="20190721T060705Z">
+        <seg>在Flink映像中自定义配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom Partitioning and Writing Message Timestamps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033746Z" creationid="xccui" creationdate="20190710T033746Z">
@@ -17857,8 +17865,8 @@
       <tuv lang="EN-US">
         <seg>Flink configures the interval to the same value as the akka.ask.timeout parameter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060516Z" creationid="xccui" creationdate="20190721T060516Z">
-        <seg>Flink将这个间隔配置得和akka.ask.timeout参数的值相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060603Z" creationid="xccui" creationdate="20190721T060516Z">
+        <seg>Flink将这个间隔配置得和./conf/flink-conf.yaml中akka.ask.timeout参数的值（默认10秒）相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19923,6 +19931,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015502Z" creationid="xccui" creationdate="20190719T015502Z">
         <seg>给定一个Kubernetes集群以及一个打包到容器映像中的应用，你可以通过创建应用部署的方式告诉Kubernetes启动多少个应用实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given a running ZooKeeper cluster and properly configured YARN and Flink setups, you can start a Flink cluster in job mode or session mode as if HA were not enabled—</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061117Z" creationid="xccui" creationdate="20190721T061117Z">
+        <seg>给一个运行的ZooKeeper集群，如果已经配置好YARN和Flink，你就可以和非HA模式一样，通过./bin/flink run -m yarn-cluster和./bin/yarn-session.sh分别在作业模式和会话模式下启动Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47885,6 +47901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054850Z" creationid="xccui" creationdate="20190617T054850Z">
         <seg>import org.apache.flink.streaming.api.scala._</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in ./conf/flink-conf.yaml with a default value of 10 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060605Z" creationid="xccui" creationdate="20190721T060605Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
