@@ -22239,6 +22239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In ./conf/flink-conf.yaml you need to set a cluster identifier for each running cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050643Z" creationid="xccui" creationdate="20190721T050643Z">
+        <seg>在./conf/flink-conf.yaml中为每个运行的集群设置集群标识符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;t0/&gt;Chapter 10&lt;t1/&gt;, we show how to disable task chaining for an application and how to control the chaining behavior of individual opera&lt;t2/&gt;‐&lt;t3/&gt; tors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T155735Z" creationid="esouser" creationdate="20190514T155247Z">
@@ -22587,6 +22595,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T062029Z" creationid="xccui" creationdate="20190706T062029Z">
         <seg>除了这种将任意类型的键值分区状态设置为可查询式的通用方法外，Flink还提供了一种简便方法，支持利用数据汇将流中所有事件都存到可查询式状态中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the previously discussed configuration, an HA standalone deployment requires the following configuration changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050615Z" creationid="xccui" creationdate="20190721T050615Z">
+        <seg>除了上面讨论的配置外，独立集群模式的HA设置还需要修改以下配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39484,6 +39500,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T043047Z" creationid="xccui" creationdate="20190714T043047Z">
         <seg>该类型的连接器有以下两个实施前提：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is required if multiple Flink clusters rely on the same ZooKeeper instance for failure recovery:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050846Z" creationid="xccui" creationdate="20190721T050846Z">
+        <seg>该配置只有在多个Flink集群依赖同一个ZooKeeper实例来进行故障恢复时才是必需的：</seg>
       </tuv>
     </tu>
     <tu>
