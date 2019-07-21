@@ -72,16 +72,16 @@
       <tuv lang="EN-US">
         <seg># Isolates Flink from other frameworks using the ZooKeeper cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204951Z" creationid="xccui" creationdate="20190720T204951Z">
-        <seg># 将Flink和其他使用ZooKeeper集群的框架进行隔离</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T205022Z" creationid="xccui" creationdate="20190720T204951Z">
+        <seg># 将Flink和其他使用ZooKeeper集群的框架进行隔离。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg># RECOMMENDED: set the base path for all Flink clusters in ZooKeeper.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204920Z" creationid="xccui" creationdate="20190720T204920Z">
-        <seg># 建议参数：在ZooKeeper中为全部Flink集群设置基础路径</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T205006Z" creationid="xccui" creationdate="20190720T204920Z">
+        <seg># 建议参数：在ZooKeeper中为全部Flink集群设置基础路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6938,6 +6938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024521Z" creationid="xccui" creationdate="20190720T024521Z">
         <seg>在Kubernetes上搭建Flink需要通过两个Deployment来完成——一个用于运行主进程的Pod，另一个用于工作进程的Pod。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Flink standalone deployment does not rely on a resource provider, such as YARN or Kubernetes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T024844Z" creationid="xccui" creationdate="20190721T024844Z">
+        <seg>Flink独立集群部署模式无须依赖YARN或Kubernetes这样的资源提供者。</seg>
       </tuv>
     </tu>
     <tu>
