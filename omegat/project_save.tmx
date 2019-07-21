@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># Must be less or equal to the configured maximum number of attempts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052916Z" creationid="xccui" creationdate="20190721T052916Z">
+        <seg># 该值必须小于或等于配置的最大尝试次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># RECOMMENDED: set the base path for all Flink clusters in ZooKeeper.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T205006Z" creationid="xccui" creationdate="20190720T204920Z">
@@ -44481,6 +44489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>YARN only counts the number of restarts due to application failures—restarts due to preemption, hardware failures, or reboots are not taken into account for the number of application attempts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T053201Z" creationid="xccui" creationdate="20190721T053201Z">
+        <seg>YARN只会计算因为应用故障导致重启的次数，而由于抢占、硬件故障或重启等因素导致的重启将不会计算在应用尝试次数内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>YARN session in detached mode using the -d flag.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014628Z" creationid="xccui" creationdate="20190719T014323Z">
@@ -53725,6 +53741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012419Z" creationid="xccui" creationdate="20190719T012419Z">
         <seg>如果加上关键字"yarn-cluster"，客户端会将作业提交到由Hadoop配置所指定的YARN集群上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yarn.application-attempts: 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052919Z" creationid="xccui" creationdate="20190721T052919Z">
+        <seg>yarn.application-attempts: 4</seg>
       </tuv>
     </tu>
     <tu>
