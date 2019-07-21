@@ -22097,8 +22097,8 @@
       <tuv lang="EN-US">
         <seg>If you run Hadoop YARN version 2.6 or later, Flink automat‐ ically configures an attempt failure’s validity interval.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T053353Z" creationid="xccui" creationdate="20190721T053353Z">
-        <seg>如果你使用的是Hadoop YARN 2.6或之后的版本，Flink会自动配置尝试失败后的等待时间间隔。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T053443Z" creationid="xccui" creationdate="20190721T053353Z">
+        <seg>如果你使用的是Hadoop YARN 2.6或之后的版本，Flink会自动配置尝试失败后的有效时间间隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39898,8 +39898,8 @@
       <tuv lang="EN-US">
         <seg>This parameter specifies that an application is only completely canceled if it exceeds its restart attempts within the val‐ idity interval, meaning attempts that predate the interval are not taken into account.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T053431Z" creationid="xccui" creationdate="20190721T053431Z">
-        <seg>该参数指定应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060149Z" creationid="xccui" creationdate="20190721T053431Z">
+        <seg>该参数指定应用只有在有效间隔内重启次数超过了最大尝试数才会被完全取消，也就是说早于该时间间隔的尝试都不会被计算在内。</seg>
       </tuv>
     </tu>
     <tu>
