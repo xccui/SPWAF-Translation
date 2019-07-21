@@ -78,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># Isolates multiple Flink clusters from each other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051004Z" creationid="xccui" creationdate="20190721T051004Z">
+        <seg># 将多个Flink集群相互隔离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># RECOMMENDED: set the base path for all Flink clusters in ZooKeeper.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T205006Z" creationid="xccui" creationdate="20190720T204920Z">
         <seg># 建议参数：在ZooKeeper中为全部Flink集群设置基础路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># RECOMMENDED: set the path for the Flink cluster in ZooKeeper.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050950Z" creationid="xccui" creationdate="20190721T050950Z">
+        <seg># 建议参数：在ZooKeeper中为Flink集群设置路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T204512Z" creationid="xccui" creationdate="20190720T204512Z">
         <seg># 必填参数：设置作业元数据的远程存储位置 high-availability.storageDir: hdfs:///flink/recovery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># The cluster id is required to look up the metadata of a failed cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051109Z" creationid="xccui" creationdate="20190721T051109Z">
+        <seg># 需要集群ID才可以查找故障集群的元数据。</seg>
       </tuv>
     </tu>
     <tu>
