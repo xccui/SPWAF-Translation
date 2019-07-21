@@ -9206,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All started TaskManager processes register themselves at the active ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025708Z" creationid="xccui" creationdate="20190721T025708Z">
+        <seg>所有启动后的TaskManager进程都会将自己在活动的ResourceManager中注册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All state modifications due to records that</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T061818Z" creationid="xccui" creationdate="20190609T061818Z">
@@ -9522,6 +9530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T063318Z" creationid="xccui" creationdate="20190706T063318Z">
         <seg>具有可查询式状态的函数并不会改变应用的执行方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An appli‐ cation can recover from a TaskManager failure as long as enough processing slots are on standby to compensate for the lost TaskManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T034334Z" creationid="xccui" creationdate="20190721T034334Z">
+        <seg>只要有足够多的处理槽随时来接替那些无法工作的TaskManager，应用就可以从TaskManager故障中恢复。</seg>
       </tuv>
     </tu>
     <tu>
