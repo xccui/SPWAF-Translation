@@ -9150,6 +9150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All processes are manually started, and there is no component that monitors these processes and restarts them in case of a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025125Z" creationid="xccui" creationdate="20190721T025125Z">
+        <seg>所有进程都是手动启动，不存在用于监视和在它们发生故障时将其重启的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All processes run as regular Java JVM processes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153224Z" creationid="xccui" creationdate="20190717T153224Z">
