@@ -21591,6 +21591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the master process that runs the active Dispatcher and JobManager fails, ZooKeeper elects a new Dispatcher as the leader.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050133Z" creationid="xccui" creationdate="20190721T050133Z">
+        <seg>如果运行活动Dispatcher及JobManager的主进程出现故障，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the method is invoked from a submission cli‐ ent with a connection to a remote cluster, a remote execution environment is returned.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045413Z" creationid="xccui" creationdate="20190612T045413Z">
