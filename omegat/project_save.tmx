@@ -10304,8 +10304,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink uses filesystems for various tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030921Z" creationid="xccui" creationdate="20190722T030921Z">
-        <seg>文件系统在Apache Flink中有很多用途。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031426Z" creationid="xccui" creationdate="20190722T030921Z">
+        <seg>文件系统在Apache Flink中用途很多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10448,8 +10448,8 @@
       <tuv lang="EN-US">
         <seg>Applications can read their input from and write their results to files (see “Filesystem Source Connector”), application checkpoints and metadata are persisted in remote filesystems for recovery (see “Checkpoints, Savepoints, and State Recovery”), and some internal components lev‐ erage filesystems to distribute data to tasks, such as application JAR files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031405Z" creationid="xccui" creationdate="20190722T031405Z">
-        <seg>应用可以从文件读取输入或将结果写入文件（请见"文件系统数据源连接器"），应用检查点和元数据会保存在远程文件系统中以供恢复使用（请见"检查点，保存点及状态恢复"），一些内部组件会使用文件系统将数据分发到各任务中（例如应用的JAR文件）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031446Z" creationid="xccui" creationdate="20190722T031405Z">
+        <seg>应用可以从文件读取输入或将结果写入文件（请见"文件系统数据源连接器"），应用检查点和元数据会保存在远程文件系统中以供恢复使用（请见"检查点，保存点及状态恢复"），一些内部组件会使用文件系统将数据（例如应用的JAR文件）分发到各任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18499,6 +18499,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040631Z" creationid="xccui" creationdate="20190617T040631Z">
         <seg>Flink对Scala样例类也提供了相应支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink supports a wide variety of filesystems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031543Z" creationid="xccui" creationdate="20190722T031543Z">
+        <seg>Flink支持多种文件系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31756,6 +31764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T052416Z" creationid="xccui" creationdate="20190714T052004Z">
         <seg>Apache Derby没有内置UPSERT语句。为此，示例中的数据汇是通过尝试更新、并在对应键值的数据不存在时执行插入的方式模拟UPSERT操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since Flink is a distributed system and runs processes on cluster or cloud environments, filesystems typically need to be globally accessible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031715Z" creationid="xccui" creationdate="20190722T031715Z">
+        <seg>作为一个分布式系统，Flink需要把进程运行在集群或云端环境中，因此相应地文件系统通常需要支持全局访问。</seg>
       </tuv>
     </tu>
     <tu>
