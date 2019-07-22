@@ -10302,6 +10302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink uses filesystems for various tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030921Z" creationid="xccui" creationdate="20190722T030921Z">
+        <seg>文件系统在Apache Flink中有很多用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Hadoop YARN</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040315Z" creationid="xccui" creationdate="20190418T040315Z">
@@ -10434,6 +10442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190308T073447Z" creationid="xccui" creationdate="20190308T073358Z">
         <seg>同时，全部应用都支持独立操作和扩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applications can read their input from and write their results to files (see “Filesystem Source Connector”), application checkpoints and metadata are persisted in remote filesystems for recovery (see “Checkpoints, Savepoints, and State Recovery”), and some internal components lev‐ erage filesystems to distribute data to tasks, such as application JAR files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031405Z" creationid="xccui" creationdate="20190722T031405Z">
+        <seg>应用可以从文件读取输入或将结果写入文件（请见"文件系统数据源连接器"），应用检查点和元数据会保存在远程文件系统中以供恢复使用（请见"检查点，保存点及状态恢复"），一些内部组件会使用文件系统将数据分发到各任务中（例如应用的JAR文件）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18163,6 +18179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T045323Z" creationid="esouser" creationdate="20190603T162828Z">
         <seg>Flink于2014年4月以孵化项目的形式进入Apache软件基金会，并在次年一月就成为了顶级项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink knows about Hadoop’s configuration, it can connect to YARN’s ResourceMan‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030850Z" creationid="xccui" creationdate="20190722T030835Z">
+        <seg>一旦知道Hadoop的配置，Flink就可以连接YARN的ResourceManager和HDFS。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28771,6 +28795,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200605Z" creationid="xccui" creationdate="20190708T171112Z">
         <seg>在数据汇一端，数据流中的事件经常会写入消息队列中，以支撑后续流式应用；或是会写入文件系统，实现归档或支撑后续离线分析及批处理应用；也可以插入到键值存储或数据库系统中（如Cassandra、ElasticSearch或MySQL），以供查询、搜索或仪表盘应用使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030837Z" creationid="xccui" creationdate="20190722T030837Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -40192,6 +40224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This should be done by exporting either the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030751Z" creationid="xccui" creationdate="20190722T030751Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This situation can be problematic for time-based operators that rely on an advancing clock to perform computations and clean up   their state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T032609Z" creationid="xccui" creationdate="20190607T032609Z">
@@ -45636,6 +45676,14 @@
         <seg>aged state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053027Z" creationid="xccui" creationdate="20190615T053027Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ager and HDFS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030852Z" creationid="xccui" creationdate="20190722T030852Z">
         <seg></seg>
       </tuv>
     </tu>
