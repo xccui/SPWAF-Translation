@@ -20233,8 +20233,8 @@
       <tuv lang="EN-US">
         <seg>HDFS paths are prefixed with the hdfs:// scheme.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042353Z" creationid="xccui" creationdate="20190722T042353Z">
-        <seg>HDFS路径会以hdfs://模式开头。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042626Z" creationid="xccui" creationdate="20190722T042353Z">
+        <seg>HDFS路径会以hdfs://协议开头。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27265,8 +27265,8 @@
       <tuv lang="EN-US">
         <seg>Local filesystems are referenced by the file:// URI scheme.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041900Z" creationid="xccui" creationdate="20190722T041900Z">
-        <seg>本地文件系统的URI模式是file://。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042623Z" creationid="xccui" creationdate="20190722T041900Z">
+        <seg>本地文件系统的URI协议是file://。</seg>
       </tuv>
     </tu>
     <tu>
