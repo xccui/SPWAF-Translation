@@ -18311,6 +18311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides a connector to Swift FS, which is based on Apache Hadoop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044022Z" creationid="xccui" creationdate="20190722T044022Z">
+        <seg>Flink提供了一个基于Apache Hadoop的Swift FS连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides a mechanism to avoid such situations by marking source functions as temporarily idle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043818Z" creationid="xccui" creationdate="20190713T043818Z">
@@ -26359,6 +26367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is installed by moving the swift-connector JAR file from the ./opt to the ./lib folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044209Z" creationid="xccui" creationdate="20190722T044209Z">
+        <seg>你可以通过将swift-connector JAR文件从./opt中移动到./lib目录来安装它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not accessible while the application is restarted due to an error, for rescaling the application, or to migrate it to another cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T170238Z" creationid="xccui" creationdate="20190705T170238Z">
@@ -29438,6 +29454,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>OpenStack Swift FS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T043924Z" creationid="xccui" creationdate="20190722T043924Z">
+        <seg>OpenStack Swift FS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>TODO</note>
       <tuv lang="EN-US">
         <seg>Operating Flink and Streaming Applications.</seg>
@@ -31172,6 +31196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025908Z" creationid="xccui" creationdate="20190225T025908Z">
         <seg>运行并管理流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S3 paths are specified with the s3:// scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T043921Z" creationid="xccui" creationdate="20190722T043921Z">
+        <seg>S3路径的协议是s3://。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35580,6 +35612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062436Z" creationid="xccui" creationdate="20190615T045206Z">
         <seg>本节讨论的connect转换以及协处理函数（cofunction）通用性更强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The connector is fully self-contained and does not expose any dependencies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044108Z" creationid="xccui" creationdate="20190722T044108Z">
+        <seg>该连接器同样可以独立工作，没有暴露任何对外的依赖。</seg>
       </tuv>
     </tu>
     <tu>
