@@ -7568,8 +7568,8 @@
       <tuv lang="EN-US">
         <seg>A dependency that is added to the classpath like this is available to (and might interfere with) all applications that run on the Flink setup.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T042001Z" creationid="xccui" creationdate="20190619T042001Z">
-        <seg>像这样加入classpath的依赖会对一个Flink设置中所有运行的应用可见（可能会产生干扰）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010114Z" creationid="xccui" creationdate="20190619T042001Z">
+        <seg>像这样加入Classpath的依赖会对一个Flink设置中所有运行的应用可见（可能会产生干扰）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13817,8 +13817,8 @@
       <tuv lang="EN-US">
         <seg>Dependencies included in the classpath of Flink processes by default are automatically excluded from the JAR file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043234Z" creationid="xccui" creationdate="20190619T043140Z">
-        <seg>默认情况下，JAR包中会自动排除那些Flink进程的classpath中所包含的依赖。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010114Z" creationid="xccui" creationdate="20190619T043140Z">
+        <seg>默认情况下，JAR包中会自动排除那些Flink进程的Classpath中所包含的依赖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22919,6 +22919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In all of these cases, Flink requires Hadoop dependencies on its classpath.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010039Z" creationid="xccui" creationdate="20190722T010039Z">
+        <seg>上述情况都需要将Hadoop依赖加入Flink的Classpath中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In any case, there is a service running that accepts the Flink application and ensures it is executed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143501Z" creationid="xccui" creationdate="20190606T143501Z">
@@ -24665,8 +24673,8 @@
       <tuv lang="EN-US">
         <seg>In this case, the dependencies are loaded into the classpath when Flink processes are started.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T041732Z" creationid="xccui" creationdate="20190619T041732Z">
-        <seg>这样在Flink进程启动时就会将依赖加载到classpath中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010114Z" creationid="xccui" creationdate="20190619T041732Z">
+        <seg>这样在Flink进程启动时就会将依赖加载到Classpath中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38692,6 +38700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T045447Z" creationid="xccui" creationdate="20190705T045352Z">
         <seg>有一些思路是通过提供一个用来转换保存点的离线工具来支持这种情况，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three ways to provide Flink with Hadoop dependencies:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010251Z" creationid="xccui" creationdate="20190722T010251Z">
+        <seg>为Flink添加Hadoop依赖的方式有三种：</seg>
       </tuv>
     </tu>
     <tu>
