@@ -37328,6 +37328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of connections are tracked per TaskManager process and path authority</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050055Z" creationid="xccui" creationdate="20190722T050055Z">
+        <seg>连接数会以每个TaskManager进程、每个路径为单位分别追踪，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of key groups limits the maximum number of parallel tasks to which keyed state can be scaled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024550Z" creationid="xccui" creationdate="20190703T024550Z">
@@ -54525,6 +54533,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T043616Z" creationid="xccui" creationdate="20190625T043616Z">
         <seg>},</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>—hdfs://nnode1:50010 and hdfs://nnode2:50010 are separately tracked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050127Z" creationid="xccui" creationdate="20190722T045903Z">
+        <seg>例如，hdfs://nnode1:50010和hdfs://nnode2:50010会分别追踪。</seg>
       </tuv>
     </tu>
     <tu>
