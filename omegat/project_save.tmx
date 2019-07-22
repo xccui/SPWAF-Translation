@@ -34456,6 +34456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Flink docu‐ mentation provides more details on the configuration of S3 filesystems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T043852Z" creationid="xccui" creationdate="20190722T043852Z">
+        <seg>你可以Flink文档中找到更多有关S3文件系统配置的详细信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GenericWriteAheadSink template collects all outgoing records per check‐ point and stores them in the operator state of the sink task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T035547Z" creationid="xccui" creationdate="20190715T035307Z">
@@ -41092,6 +41100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T205857Z" creationid="xccui" creationdate="20190711T205756Z">
         <seg>为了说明Cassandra数据汇连接器的使用方法，我们以一个简单的Cassandra表为例，表中包含了两个列，分别用来保存传感器读数的传感器ID和温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install either of both connectors, move the respective JAR file from the ./opt folder into the ./lib folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T043731Z" creationid="xccui" creationdate="20190722T043731Z">
+        <seg>要安装它们中的一个，请将对应的JAR文件从./opt文件夹移动到./lib中。</seg>
       </tuv>
     </tu>
     <tu>
