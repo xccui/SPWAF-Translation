@@ -35640,6 +35640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The configuration can be defined per URI scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045601Z" creationid="xccui" creationdate="20190722T045601Z">
+        <seg>该配置支持为每个URI协议单独定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The connect transformation and the cofunctions discussed in this section are more generic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062436Z" creationid="xccui" creationdate="20190615T045206Z">
@@ -37876,6 +37884,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061250Z" creationid="xccui" creationdate="20190614T061250Z">
         <seg>reduce转换是滚动聚合转换的泛化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The relevant configu‐ ration keys are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045625Z" creationid="xccui" creationdate="20190722T045625Z">
+        <seg>相关配置的键是：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45305,6 +45321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can limit the number of connections that read from (input) and write to (output) a filesystem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045531Z" creationid="xccui" creationdate="20190722T045531Z">
+        <seg>你可以限制读（输入）写（输出）文件系统的连接数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can look up its implementation in the repository that contains the examples of the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063821Z" creationid="xccui" creationdate="20190715T063821Z">
@@ -48077,6 +48101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T034958Z" creationid="xccui" creationdate="20190715T034958Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fs.&lt;scheme&gt;.limit.total: (number, 0/-1 mean no limit) fs.&lt;scheme&gt;.limit.input: (number, 0/-1 mean no limit) fs.&lt;scheme&gt;.limit.output: (number, 0/-1 mean no limit) fs.&lt;scheme&gt;.limit.timeout: (milliseconds, 0 means infinite) fs.&lt;scheme&gt;.limit.stream-timeout: (milliseconds, 0 means infinite)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045812Z" creationid="xccui" creationdate="20190722T045812Z">
+        <seg>fs.&lt;scheme&gt;.limit.total:（数字，0或-1表示无限制） fs.&lt;scheme&gt;.limit.input:（数字，0或-1表示无限制） fs.&lt;scheme&gt;.limit.output:（数字，0或-1表示无限制） fs.&lt;scheme&gt;.limit.timeout:（毫秒数，0表示无限） fs.&lt;scheme&gt;.limit.stream-timeout:（毫秒数，0表示无限）</seg>
       </tuv>
     </tu>
     <tu>
