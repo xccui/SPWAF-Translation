@@ -2110,6 +2110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// build Flink for a Hadoop version of a distributor mvn clean install -DskipTests -Pvendor-repos \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025251Z" creationid="xccui" creationdate="20190722T025251Z">
+        <seg>// 针对某一发行商版本的Hadoop构建Flink mvn clean install -DskipTests -Pvendor-repos \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// build Flink for a specific official Hadoop version mvn clean install -DskipTests -Dhadoop.version=2.6.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025224Z" creationid="xccui" creationdate="20190722T025224Z">
+        <seg>// 针对某一特定官方版本的Hadoop构建Flink mvn clean install -DskipTests -Dhadoop.version=2.6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// caching execution context used to handle the query threads private lazy val cachingPoolExecCtx = ExecutionContext.fromExecutor(Executors.newCachedThreadPool())</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205528Z" creationid="xccui" creationdate="20190716T205528Z">
@@ -14737,8 +14753,8 @@
       <tuv lang="EN-US">
         <seg>Enter the base folder of Flink’s source code and run one of the commands in the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025136Z" creationid="xccui" creationdate="20190722T025136Z">
-        <seg>准备好后就可以进入Flink源码根目录，运行以下命令之一：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025150Z" creationid="xccui" creationdate="20190722T025136Z">
+        <seg>准备好后就可以进入Flink源码根目录，运行下列命令之一：</seg>
       </tuv>
     </tu>
     <tu>
