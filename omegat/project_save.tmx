@@ -18505,8 +18505,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports a wide variety of filesystems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031543Z" creationid="xccui" creationdate="20190722T031543Z">
-        <seg>Flink支持多种文件系统。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031826Z" creationid="xccui" creationdate="20190722T031543Z">
+        <seg>Flink支持的文件系统种类繁多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20259,6 +20259,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T022632Z" creationid="xccui" creationdate="20190704T022405Z">
         <seg>因此，FsStateBackend既让本地访问拥有了内存的速度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, Hadoop HDFS, S3, and NFS are commonly used filesys‐ tems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032006Z" creationid="xccui" creationdate="20190722T032006Z">
+        <seg>因而会常用到Hadoop HDFS、S3以及NFS。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31770,8 +31778,8 @@
       <tuv lang="EN-US">
         <seg>Since Flink is a distributed system and runs processes on cluster or cloud environments, filesystems typically need to be globally accessible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031715Z" creationid="xccui" creationdate="20190722T031715Z">
-        <seg>作为一个分布式系统，Flink需要把进程运行在集群或云端环境中，因此相应地文件系统通常需要支持全局访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031939Z" creationid="xccui" creationdate="20190722T031715Z">
+        <seg>作为一个分布式系统，Flink需要把进程运行在集群或云端环境中，因此相应地文件系统通常需要支持全局访问，</seg>
       </tuv>
     </tu>
     <tu>
