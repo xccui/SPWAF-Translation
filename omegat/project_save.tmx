@@ -6992,8 +6992,8 @@
       <tuv lang="EN-US">
         <seg>A FileSystem class implements file‐ system operations, such as reading from and writing to files, creating directories or</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041118Z" creationid="xccui" creationdate="20190722T041118Z">
-        <seg>一个FileSystem类实现了文件系统的基本操作，例如读写文件、创建文件或目录，以及列出目录内容等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041302Z" creationid="xccui" creationdate="20190722T041118Z">
+        <seg>每个FileSystem类都实现了文件系统的基本操作，包括读写文件、创建文件或目录，以及列出目录内容等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T013808Z" creationid="xccui" creationdate="20190719T013652Z">
         <seg>你可以通过./bin/yarn-session.sh脚本启动一个Flink YARN会话，该脚本同样设有很多用于控制容器大小及YARN应用名称或提供动态属性（dynamic property）的参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Flink process (JobManager or Task‐ Manager) instantiates one FileSystem object for each configured filesystem and shares it across all local tasks to guarantee that configured constraints such as limits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041520Z" creationid="xccui" creationdate="20190722T041520Z">
+        <seg>Flink进程（JobManager或TaskManager）会为每个配置的文件系统实例化一个FileSystem对象，并让它们在所有本地任务之间共享以保证</seg>
       </tuv>
     </tu>
     <tu>
@@ -47780,6 +47788,14 @@
         <seg>file formats, such as Apache Orc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183045Z" creationid="xccui" creationdate="20190711T183045Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>files, and listing the contents of a directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041120Z" creationid="xccui" creationdate="20190722T041120Z">
         <seg></seg>
       </tuv>
     </tu>
