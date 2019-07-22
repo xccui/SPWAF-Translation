@@ -41504,6 +41504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, the Flink Docker image we used in the Docker and Kubernetes examples before does not support setting custom con‐ figuration parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005028Z" creationid="xccui" creationdate="20190722T005028Z">
+        <seg>很可惜，我们在先前Docker和Kubernetes示例中用到的Flink Docker映像还不支持自定义配置参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, there are no standard interfaces for most of these storage systems, except JDBC for relational DBMS.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T193852Z" creationid="xccui" creationdate="20190708T193531Z">
