@@ -19519,6 +19519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For filesystems for which Flink does not provide a dedicated connector, Flink can del‐ egate to the Hadoop filesystem connector if it is correctly configured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044533Z" creationid="xccui" creationdate="20190722T044533Z">
+        <seg>对于那些Flink没有提供特定连接器支持的文件系统，如果正确配置，都可以利用Hadoop文件系统连接器进行代理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, Flink’s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T061010Z" creationid="xccui" creationdate="20190716T061010Z">
@@ -33532,6 +33540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022807Z" creationid="xccui" creationdate="20190225T022807Z">
         <seg>支持的数据类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swift FS paths are identified by the swift:// scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044245Z" creationid="xccui" creationdate="20190722T044245Z">
+        <seg>Swift FS路径协议是swift://。</seg>
       </tuv>
     </tu>
     <tu>
