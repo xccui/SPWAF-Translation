@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-Dhadoop.version=2.6.1-cdh5.0.0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025254Z" creationid="xccui" creationdate="20190722T025254Z">
+        <seg>-Dhadoop.version=2.6.1-cdh5.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-DinteractiveMode=false</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T004854Z" creationid="xccui" creationdate="20190612T004854Z">
@@ -35328,6 +35336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The completed build is located in the ./build-target folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025335Z" creationid="xccui" creationdate="20190722T025335Z">
+        <seg>完整的构建结果将位于./build-target文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The completed checkpoint can be used to recover the appli‐ cation from a failure as described before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T194512Z" creationid="xccui" creationdate="20190609T194447Z">
@@ -39898,8 +39914,8 @@
       <tuv lang="EN-US">
         <seg>This is useful if none of Flink’s binary distributions works with the Hadoop version deployed in your environment; for example, if you run a patched Hadoop version or a Hadoop version of a distribu‐ tor, such as Cloudera, Hortonworks, or MapR.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T023816Z" creationid="xccui" creationdate="20190722T023816Z">
-        <seg>该方法可用于你环境中的Hadoop版本和所有Flink二进制发布版都不匹配的情况。例如，你运行的是打过补丁的Hadoop版本或使用了某个发行商（如Cloudera、Hortonworks或MapR）的Hadoop版本。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025459Z" creationid="xccui" creationdate="20190722T023816Z">
+        <seg>该方法可用于你环境中的Hadoop版本和所有Flink二进制发行版都不匹配的情况。例如，你运行的是打过补丁的Hadoop版本或使用了某个发行商（如Cloudera、Hortonworks或MapR）的Hadoop版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41746,8 +41762,8 @@
       <tuv lang="EN-US">
         <seg>Use a binary distribution of Flink that was built for a particular Hadoop version.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010348Z" creationid="xccui" creationdate="20190722T010348Z">
-        <seg>使用针对特定Hadoop版本构建的Flink二进制发布版。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025442Z" creationid="xccui" creationdate="20190722T010348Z">
+        <seg>使用针对特定Hadoop版本构建的Flink二进制发行版。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41756,6 +41772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210741Z" creationid="esouser" creationdate="20190603T210741Z">
         <seg>Use of the information and instructions contained in this work is at your own risk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Hadoop-free distribution of Flink and manually configure the classpath for Hadoop’s dependencies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025555Z" creationid="xccui" creationdate="20190722T025432Z">
+        <seg>使用不带Hadoop的Flink发行版并为Hadoop依赖手动配置Classpath。</seg>
       </tuv>
     </tu>
     <tu>
