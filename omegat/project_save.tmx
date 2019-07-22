@@ -7032,8 +7032,8 @@
       <tuv lang="EN-US">
         <seg>A Flink process (JobManager or Task‐ Manager) instantiates one FileSystem object for each configured filesystem and shares it across all local tasks to guarantee that configured constraints such as limits</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041520Z" creationid="xccui" creationdate="20190722T041520Z">
-        <seg>Flink进程（JobManager或TaskManager）会为每个配置的文件系统实例化一个FileSystem对象，并让它们在所有本地任务之间共享以保证</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041622Z" creationid="xccui" creationdate="20190722T041520Z">
+        <seg>Flink进程（JobManager或TaskManager）会为每个配置的文件系统实例化一个FileSystem对象，并让它们在所有本地任务之间共享以保证配置的约束（例如开启的最大连接数）可以生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18111,6 +18111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink has built-in support for local filesystems, including locally mounted net‐ work filesystems, such as NFS or SAN, and does not require additional configu‐ ration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041833Z" creationid="xccui" creationdate="20190722T041833Z">
+        <seg>Flink内部支持本地文件系统，其中还包括本地挂载的网络文件系统（例如NFS或SAN），你无须对它们进行额外配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink implements a credit-based flow control mechanism that works as follows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T202657Z" creationid="xccui" creationdate="20190606T202654Z">
@@ -18387,6 +18395,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071300Z" creationid="xccui" creationdate="20190616T071153Z">
         <seg>Flink提供了Java元组的高效实现，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides implementations for the most commonly used filesystems as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041700Z" creationid="xccui" creationdate="20190722T041700Z">
+        <seg>Flink为一些常用的文件系统都提供了对应的实现，具体如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49629,6 +49645,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034124Z" creationid="xccui" creationdate="20190713T034124Z">
         <seg>offsetState.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on the number of open connections are enforced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041624Z" creationid="xccui" creationdate="20190722T041624Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
