@@ -10182,6 +10182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink can be easily integrated with Hadoop YARN and HDFS and other com‐ ponents of the Hadoop ecosystem, such as HBase.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005906Z" creationid="xccui" creationdate="20190722T005906Z">
+        <seg>Apache Flink可以很容易地与Hadoop YARN、HDFS及其他Hadoop生态组件（例如HBase）相集成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink checks all these boxes and is a very good choice to run event-driven applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T064114Z" creationid="xccui" creationdate="20190314T062533Z">
@@ -37892,6 +37900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T005710Z" creationid="xccui" creationdate="20190612T005710Z">
         <seg>src/目录的结构如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The standard Flink Docker images are a good starting point to customize your own Flink images.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005506Z" creationid="xccui" creationdate="20190722T005506Z">
+        <seg>标准的Flink Docker映像可以帮助你快速上手定制自己的Flink映像。</seg>
       </tuv>
     </tu>
     <tu>
