@@ -18239,6 +18239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides builds for the most commonly used vanilla Hadoop versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010850Z" creationid="xccui" creationdate="20190722T010850Z">
+        <seg>Flink为最常使用的Vanilla Hadoop版本都提供了相应的构建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides built-in window assigners for the most common windowing use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T024503Z" creationid="xccui" creationdate="20190623T024503Z">
@@ -41684,6 +41692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190502T051010Z" creationid="xccui" creationdate="20190502T050555Z">
         <seg>在checkpoint即将完成之际，如果所有任务已经将各自状态成功写入远程存储，JobManager就会将状态句柄写入远程存储，并将远程位置的指针写入ZooKeeper。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use a binary distribution of Flink that was built for a particular Hadoop version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010348Z" creationid="xccui" creationdate="20190722T010348Z">
+        <seg>使用针对特定Hadoop版本构建的Flink二进制发布版。</seg>
       </tuv>
     </tu>
     <tu>
