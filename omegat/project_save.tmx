@@ -20423,6 +20423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the image cannot be used to set up a HA Flink cluster on Kubernetes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005205Z" creationid="xccui" creationdate="20190722T005127Z">
+        <seg>所以说该映像无法直接用在Kubernetes上设置Flink HA集群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the sink should be able to write to the sink system, but the written data must not be made visible to the outside before it is committed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T024605Z" creationid="xccui" creationdate="20190715T213707Z">
@@ -25651,6 +25659,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041248Z" creationid="xccui" creationdate="20190629T041248Z">
         <seg>虽说如此，你仍可以利用记录时间戳、水位线和定时器等功能来实现必要的迟到数据处理逻辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, you need to build a cus‐ tom image that either “hardcodes” the required parameters or is flexible enough to adjust the configuration dynamically through parameters or environment variables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005359Z" creationid="xccui" creationdate="20190722T005201Z">
+        <seg>为此，你需要构建一个自定义映像，要么就把所需参数"硬编码"进去，要么就灵活一些，可以通过参数或环境变量动态调整配置。</seg>
       </tuv>
     </tu>
     <tu>
