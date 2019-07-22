@@ -6990,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A FileSystem class implements file‐ system operations, such as reading from and writing to files, creating directories or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041118Z" creationid="xccui" creationdate="20190722T041118Z">
+        <seg>一个FileSystem类实现了文件系统的基本操作，例如读写文件、创建文件或目录，以及列出目录内容等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Flink DataStream application can assign timestamps and generate watermarks to a stream in three ways:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T033951Z" creationid="xccui" creationdate="20190607T033951Z">
@@ -27187,6 +27195,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034541Z" creationid="xccui" creationdate="20190704T034541Z">
         <seg>如果经常要在列表后面添加元素且列表元素的访问频率很低，那么ListState[X]会比ValueState[List[X]]更有优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local filesystem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041001Z" creationid="xccui" creationdate="20190722T041001Z">
+        <seg>本地文件系统</seg>
       </tuv>
     </tu>
     <tu>
