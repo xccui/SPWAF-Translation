@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(fs.&lt;scheme&gt;.limit.timeout) and how long to wait until an idle connection is closed (fs.&lt;scheme&gt;.limit.stream-timeout).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050647Z" creationid="xccui" creationdate="20190722T050647Z">
+        <seg>超时参数可用来控制连接请求失败前的等待时间（fs.&lt;schema&gt;.limit.timeout）以及空闲连接关闭的等待时间（fs.&lt;scheme&gt;.limit.stream-timeout）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(more on this in “Checkpoints, Savepoints, and State Recovery” on page 58), RocksDBStateBackend is a good choice for applications with very large state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T024258Z" creationid="xccui" creationdate="20190704T024258Z">
@@ -33656,6 +33664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take a look at the Flink docu‐ mentation to learn how to implement and register a custom filesystem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050756Z" creationid="xccui" creationdate="20190722T050756Z">
+        <seg>有关实现和注册自定义文件系统的内容请查阅Flink文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take for example a rolling aggregation operator that outputs the current sum of all the events it has seen so far.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T052032Z" creationid="xccui" creationdate="20190414T052003Z">
@@ -38642,8 +38658,8 @@
       <tuv lang="EN-US">
         <seg>The timeout parameters define how long to wait until a connection request fails</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050556Z" creationid="xccui" creationdate="20190722T050556Z">
-        <seg>超时参数可用来控制连接请求失败前的等待时间（fs.&lt;schema&gt;.limit.timeout）以及</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050649Z" creationid="xccui" creationdate="20190722T050649Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -45237,6 +45253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060440Z" creationid="xccui" creationdate="20190616T060440Z">
         <seg>你也可以覆盖环境的默认并行度，然而一旦如此，将再无法通过提交客户端控制应用并行度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also provide a custom filesystem connector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050715Z" creationid="xccui" creationdate="20190722T050715Z">
+        <seg>你也可以提供自定义的文件系统连接器。</seg>
       </tuv>
     </tu>
     <tu>
