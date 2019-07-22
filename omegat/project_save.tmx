@@ -39864,6 +39864,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is useful if none of Flink’s binary distributions works with the Hadoop version deployed in your environment; for example, if you run a patched Hadoop version or a Hadoop version of a distribu‐ tor, such as Cloudera, Hortonworks, or MapR.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T023816Z" creationid="xccui" creationdate="20190722T023816Z">
+        <seg>该方法可用于你环境中的Hadoop版本和所有Flink二进制发布版都不匹配的情况。例如，你运行的是打过补丁的Hadoop版本或使用了某个发行商（如Cloudera、Hortonworks或MapR）的Hadoop版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is very attractive especially in combination with Flink’s savepoint feature which can reset the state of an application to a previous consistent savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190313T005726Z" creationid="xccui" creationdate="20190312T214059Z">
