@@ -21993,8 +21993,8 @@
       <tuv lang="EN-US">
         <seg>If the variable is not configured,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025933Z" creationid="xccui" creationdate="20190722T025817Z">
-        <seg>如果该变量未配置，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030159Z" creationid="xccui" creationdate="20190722T025817Z">
+        <seg>如果该变量没有配置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22803,6 +22803,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032021Z" creationid="xccui" creationdate="20190630T032021Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to configuring the Hadoop dependencies, you need to provide the loca‐ tion of Hadoop’s configuration directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030354Z" creationid="xccui" creationdate="20190722T030348Z">
+        <seg>除了配置Hadoop依赖，还需要提供Hadoop配置目录的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35280,6 +35288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The classpath option of the hadoop command prints its configured classpath.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030321Z" creationid="xccui" creationdate="20190722T030321Z">
+        <seg>hadoop命令的classpath选项会打印出它所配置的Classpath。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The clean-up time is computed by adding one hour to the timestamp of the current record.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212741Z" creationid="xccui" creationdate="20190704T212741Z">
@@ -40164,6 +40180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070153Z" creationid="xccui" creationdate="20190619T070153Z">
         <seg>在该配置下，由于处理任务无须等待水位线来驱动事件时间前进，所以可以提供极低的延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This should be done by exporting either the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030448Z" creationid="xccui" creationdate="20190722T030448Z">
+        <seg>这可以通过导出HADOOP_CONF_DIR或HADOOP_CONF_PATH环境变量的方式来完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54043,8 +54067,8 @@
       <tuv lang="EN-US">
         <seg>you can automatically set it with the following command if the hadoop command is accessible: export HADOOP_CLASSPATH=`hadoop classpath`.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030151Z" creationid="xccui" creationdate="20190722T025858Z">
-        <seg>则可以在能访问hadoop命令的前提下，使用以下指令自动设置它：export HADOOP_CLASSPATH=`hadoop classpath`。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030228Z" creationid="xccui" creationdate="20190722T025858Z">
+        <seg>则可以在能访问hadoop命令的前提下，通过以下指令自动设置该变量：export HADOOP_CLASSPATH=`hadoop classpath`。</seg>
       </tuv>
     </tu>
     <tu>
