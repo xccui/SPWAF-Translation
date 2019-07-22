@@ -18841,8 +18841,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s connector for HDFS is always in the classpath of Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042028Z" creationid="xccui" creationdate="20190722T042028Z">
-        <seg>虽然Flink的HDFS连接器始终会被加入Classpath中，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042126Z" creationid="xccui" creationdate="20190722T042028Z">
+        <seg>虽然Flink的HDFS连接器始终存在于Classpath中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20231,6 +20231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HDFS paths are prefixed with the hdfs:// scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042353Z" creationid="xccui" creationdate="20190722T042353Z">
+        <seg>HDFS路径会以hdfs://模式开头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hadoop HDFS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041903Z" creationid="xccui" creationdate="20190722T041903Z">
@@ -21115,6 +21123,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T072135Z" creationid="xccui" creationdate="20190607T031937Z">
         <seg>然而，这依赖于一个事实——所有分区都会持续提供自增的水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it requires Hadoop dependencies on the classpath in order to work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042300Z" creationid="xccui" creationdate="20190722T042106Z">
+        <seg>但为了让它工作，还必须在Classpath里加入Hadoop依赖，</seg>
       </tuv>
     </tu>
     <tu>
@@ -54365,6 +54381,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012023Z" creationid="xccui" creationdate="20190719T012023Z">
         <seg>配置详情请见第236页"集成Hadoop组件"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Integration with Hadoop Components” on page 236 explains how to ensure Hadoop depen‐ dencies are loaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042256Z" creationid="xccui" creationdate="20190722T042256Z">
+        <seg>详细内容请参阅"集成Hadoop组件"一节。</seg>
       </tuv>
     </tu>
     <tu>
