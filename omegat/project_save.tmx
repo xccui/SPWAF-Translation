@@ -19231,6 +19231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, file:///home/user/data.txt points to a file in the local filesystem and hdfs:///namenode:50010/home/user/data.txt to a file in the specified HDFS cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032241Z" creationid="xccui" creationdate="20190722T032241Z">
+        <seg>例如，file:///home/user/data.txt指向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, given a base path of "/johndoe/demo" and a part prefix of "part", the path "/johndoe/demo/2018-07-22--17/part-4-8" points to the eight file that was written by the fifth (0-indexed) sink task to bucket "2018-07-22--17"—the 5 p.m. bucket of July 22, 2018.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T020100Z" creationid="xccui" creationdate="20190710T214013Z">
@@ -20265,8 +20273,8 @@
       <tuv lang="EN-US">
         <seg>Hence, Hadoop HDFS, S3, and NFS are commonly used filesys‐ tems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032006Z" creationid="xccui" creationdate="20190722T032006Z">
-        <seg>因而会常用到Hadoop HDFS、S3以及NFS。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032046Z" creationid="xccui" creationdate="20190722T032006Z">
+        <seg>因此常用的文件系统包括Hadoop HDFS、S3以及NFS。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31704,6 +31712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similar to other data processing systems, Flink looks at the URI scheme of a path to identify the filesystem the path refers to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032343Z" creationid="xccui" creationdate="20190722T032221Z">
+        <seg>和其他数据处理系统类似，Flink通过检查路径URI的模式来识别目标文件系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similar to the Kafka source connector, you can pass a Properties object to pro‐ vide custom options to the internal Kafka client.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T151114Z" creationid="xingcan" creationdate="20190709T151114Z">
@@ -31778,8 +31794,8 @@
       <tuv lang="EN-US">
         <seg>Since Flink is a distributed system and runs processes on cluster or cloud environments, filesystems typically need to be globally accessible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031939Z" creationid="xccui" creationdate="20190722T031715Z">
-        <seg>作为一个分布式系统，Flink需要把进程运行在集群或云端环境中，因此相应地文件系统通常需要支持全局访问，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032104Z" creationid="xccui" creationdate="20190722T031715Z">
+        <seg>作为一个分布式系统，Flink需要在集群或云端环境中运行进程，而相应地文件系统通常需要支持全局访问，</seg>
       </tuv>
     </tu>
     <tu>
