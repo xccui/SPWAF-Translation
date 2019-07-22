@@ -7630,6 +7630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A filesystem is represented in Flink by an implementation of the org.apache.flink.core.fs.FileSystem class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032556Z" creationid="xccui" creationdate="20190722T032556Z">
+        <seg>Flink中，每个文件系统都由org.apache.flink.core.fs.FileSystem类的一个实现来表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A filter operation that only retains white values</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055741Z" creationid="xccui" creationdate="20190613T052343Z">
@@ -19233,8 +19241,8 @@
       <tuv lang="EN-US">
         <seg>For example, file:///home/user/data.txt points to a file in the local filesystem and hdfs:///namenode:50010/home/user/data.txt to a file in the specified HDFS cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032241Z" creationid="xccui" creationdate="20190722T032241Z">
-        <seg>例如，file:///home/user/data.txt指向</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032446Z" creationid="xccui" creationdate="20190722T032241Z">
+        <seg>例如，file:///home/user/data.txt指向本地文件系统中的文件，hdfs:///namenode:50010/home/user/data.txt指向某HDFS集群中的一个文件。</seg>
       </tuv>
     </tu>
     <tu>
