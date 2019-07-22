@@ -21991,6 +21991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the variable is not configured,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025817Z" creationid="xccui" creationdate="20190722T025817Z">
+        <seg>你如果没有配置该变量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the window only has an incremetal aggregation function (ReduceFunction or AggregateFunction) the current aggregation result is emit‐ ted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184600Z" creationid="xccui" creationdate="20190626T184537Z">
@@ -35264,6 +35272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The classpath of the Hadoop dependencies must be declared</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025757Z" creationid="xccui" creationdate="20190722T025757Z">
+        <seg>Hadoop依赖的Classpath需要在HADOOP_CLASSPATH环境变量中声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The clean-up time is computed by adding one hour to the timestamp of the current record.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212741Z" creationid="xccui" creationdate="20190704T212741Z">
@@ -39332,6 +39348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053337Z" creationid="esouser" creationdate="20190603T195919Z">
         <seg>该设计在应用需要更新或扩缩容时，容易导致问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This approach is useful if none of the provided builds work for your setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025725Z" creationid="xccui" creationdate="20190722T025725Z">
+        <seg>本方法适用于上面所提供的构建方式都无法满足你所需设置的情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48129,6 +48153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in the HADOOP_CLASSPATH environment variable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025803Z" creationid="xccui" creationdate="20190722T025803Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in time, usually the point in time at which the event that is represented by the record happened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204807Z" creationid="xccui" creationdate="20190606T204807Z">
@@ -54005,6 +54037,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052919Z" creationid="xccui" creationdate="20190721T052919Z">
         <seg>yarn.application-attempts: 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you can automatically set it with the following command if the hadoop command is accessible: export HADOOP_CLASSPATH=`hadoop classpath`.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025858Z" creationid="xccui" creationdate="20190722T025858Z">
+        <seg>则可以：export HADOOP_CLASSPATH=`hadoop classpath`。</seg>
       </tuv>
     </tu>
     <tu>
