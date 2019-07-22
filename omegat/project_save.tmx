@@ -22407,6 +22407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you, for example, specify fs.default-scheme: hdfs://nnode1:9000, the path /result will be extended to hdfs://nnode1:9000/result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045346Z" creationid="xccui" creationdate="20190722T045346Z">
+        <seg>举例而言，如果指定了fs.default-scheme:hdfs://nnode1:9000，则/result路径将自动被扩充为hdfs://nnode1:9000/result。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your application requires keyed state for a moving key domain, it should ensure the state of keys is cleared when it is not needed anymore.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T201452Z" creationid="xccui" creationdate="20190704T201452Z">
