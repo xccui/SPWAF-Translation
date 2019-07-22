@@ -19521,8 +19521,8 @@
       <tuv lang="EN-US">
         <seg>For filesystems for which Flink does not provide a dedicated connector, Flink can del‐ egate to the Hadoop filesystem connector if it is correctly configured.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044533Z" creationid="xccui" creationdate="20190722T044533Z">
-        <seg>对于那些Flink没有提供特定连接器支持的文件系统，如果正确配置，都可以利用Hadoop文件系统连接器进行代理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044843Z" creationid="xccui" creationdate="20190722T044533Z">
+        <seg>对于那些在Flink中没有提供特定连接器支持的文件系统，如果正确配置，Flink都能以Hadoop文件系统连接器为代理对其进行操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40212,6 +40212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190313T005726Z" creationid="xccui" creationdate="20190312T214059Z">
         <seg>这在Flink保存点（savepoint）功能的加持下，尤为引人注目。所谓保存点功能是指在保证一致性的前提下，允许将应用状态重置到先前某个保存的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is why Flink is able to support all HCFSs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044637Z" creationid="xccui" creationdate="20190722T044637Z">
+        <seg>这也是为何Flink可以支持任意HCFS（Hadoop Compatible File System，兼容Hadoop的文件系统）。</seg>
       </tuv>
     </tu>
     <tu>
