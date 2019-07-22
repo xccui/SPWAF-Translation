@@ -21993,8 +21993,8 @@
       <tuv lang="EN-US">
         <seg>If the variable is not configured,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025817Z" creationid="xccui" creationdate="20190722T025817Z">
-        <seg>你如果没有配置该变量，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025933Z" creationid="xccui" creationdate="20190722T025817Z">
+        <seg>如果该变量未配置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -54043,8 +54043,8 @@
       <tuv lang="EN-US">
         <seg>you can automatically set it with the following command if the hadoop command is accessible: export HADOOP_CLASSPATH=`hadoop classpath`.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025858Z" creationid="xccui" creationdate="20190722T025858Z">
-        <seg>则可以：export HADOOP_CLASSPATH=`hadoop classpath`。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030151Z" creationid="xccui" creationdate="20190722T025858Z">
+        <seg>则可以在能访问hadoop命令的前提下，使用以下指令自动设置它：export HADOOP_CLASSPATH=`hadoop classpath`。</seg>
       </tuv>
     </tu>
     <tu>
