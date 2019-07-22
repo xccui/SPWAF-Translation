@@ -14735,6 +14735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the base folder of Flink’s source code and run one of the commands in the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T025136Z" creationid="xccui" creationdate="20190722T025136Z">
+        <seg>准备好后就可以进入Flink源码根目录，运行以下命令之一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Essentially, it is the time interval between receiving an event and seeing the effect of processing this event in the output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050738Z" creationid="xccui" creationdate="20190401T151641Z">
