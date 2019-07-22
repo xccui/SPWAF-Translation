@@ -35664,6 +35664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The connec‐ tion limits can be configured either separately for input and output connections or as the total number of connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050237Z" creationid="xccui" creationdate="20190722T050237Z">
+        <seg>你既可以为输入和输出单独限制连接数，也可以对总的连接数加以限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The consistency guarantees that Flink’s Kafka sink provides depend on its configura‐ tion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T153919Z" creationid="xingcan" creationdate="20190709T153919Z">
@@ -38628,6 +38636,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042758Z" creationid="xccui" creationdate="20190623T042741Z">
         <seg>时间间隔允许以毫秒、秒、分钟、小时或天数来表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The timeout parameters define how long to wait until a connection request fails</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050556Z" creationid="xccui" creationdate="20190722T050556Z">
+        <seg>超时参数可用来控制连接请求失败前的等待时间（fs.&lt;schema&gt;.limit.timeout）以及</seg>
       </tuv>
     </tu>
     <tu>
@@ -44245,6 +44261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T212643Z" creationid="xccui" creationdate="20190718T212643Z">
         <seg>客户端在提交作业执行时，会连接到YARN的ResourceManager来启动一个新的YARN应用主进程，该进程包括一个JobManager线程和一个ResourceManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the filesystem reaches its connection limit and tries to open a new connection, it will block and wait for another connection to close.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050402Z" creationid="xccui" creationdate="20190722T050402Z">
+        <seg>当文件系统已经达到最大连接数并还要尝试创建新连接时，请求会被阻塞，直到某个已有连接关闭。</seg>
       </tuv>
     </tu>
     <tu>
