@@ -18319,6 +18319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides a few configuration options in ./conf/flink-conf.yaml to specify a default filesystem and limit the number of filesystem connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044954Z" creationid="xccui" creationdate="20190722T044954Z">
+        <seg>Flink在./conf/flink-conf.yaml中提供了一些配置项，可用来指定默认的文件系统并限制文件系统连接数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides a mechanism to avoid such situations by marking source functions as temporarily idle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043818Z" creationid="xccui" creationdate="20190713T043818Z">
@@ -45341,6 +45349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T151733Z" creationid="xingcan" creationdate="20190709T151733Z">
         <seg>你可以指定一个FlinkKafkaPartitioner来控制记录如何映射到Kafka的不同分区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can specify a default filesystem scheme (fs.default-scheme) that is automatically added as a prefix if a path does not provide a scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045236Z" creationid="xccui" creationdate="20190722T045236Z">
+        <seg>如果指定了默认文件系统协议（fs.default-scheme），那么在路径本身不包含协议的情况下，Flink会自动将默认协议作为其前缀。</seg>
       </tuv>
     </tu>
     <tu>
