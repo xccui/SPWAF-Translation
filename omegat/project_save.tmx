@@ -18839,6 +18839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s connector for HDFS is always in the classpath of Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042028Z" creationid="xccui" creationdate="20190722T042028Z">
+        <seg>虽然Flink的HDFS连接器始终会被加入Classpath中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s default configuration for network buffers is sufficient for small to medium-sized setups.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045743Z" creationid="xccui" creationdate="20190504T045713Z">
@@ -20219,6 +20227,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030748Z" creationid="xccui" creationdate="20190722T030748Z">
         <seg>该工作可以通过导出HADOOP_CONF_DIR（建议选项）或HADOOP_CONF_PATH环境变量的方式来完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hadoop HDFS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041903Z" creationid="xccui" creationdate="20190722T041903Z">
+        <seg>Hadoop HDFS</seg>
       </tuv>
     </tu>
     <tu>
@@ -27227,6 +27243,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041001Z" creationid="xccui" creationdate="20190722T041001Z">
         <seg>本地文件系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local filesystems are referenced by the file:// URI scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041900Z" creationid="xccui" creationdate="20190722T041900Z">
+        <seg>本地文件系统的URI模式是file://。</seg>
       </tuv>
     </tu>
     <tu>
