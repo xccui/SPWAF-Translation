@@ -7632,8 +7632,8 @@
       <tuv lang="EN-US">
         <seg>A filesystem is represented in Flink by an implementation of the org.apache.flink.core.fs.FileSystem class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032556Z" creationid="xccui" creationdate="20190722T032556Z">
-        <seg>Flink中，每个文件系统都由org.apache.flink.core.fs.FileSystem类的一个实现来表示。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032602Z" creationid="xccui" creationdate="20190722T032556Z">
+        <seg>在Flink中，每个文件系统都由org.apache.flink.core.fs.FileSystem类的一个实现来表示。</seg>
       </tuv>
     </tu>
     <tu>
