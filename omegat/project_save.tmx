@@ -11631,6 +11631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both connectors are fully self-contained and do not expose any dependencies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T043541Z" creationid="xccui" creationdate="20190722T043541Z">
+        <seg>这两个连接器都可以独立工作，没有暴露任何对外的依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both context objects offer a method getBroad castState(MapStateDescriptor) that provides access to a broadcast state handle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051303Z" creationid="xccui" creationdate="20190702T051303Z">
@@ -18483,6 +18491,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T194912Z" creationid="xccui" creationdate="20190715T194552Z">
         <seg>我们可以利用Flink内置的TwoPhaseCommitSinkFunction接口来方便地实现提供端到端精确一次语义保障的数据汇函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides two alternative filesystem connectors to connect to S3, which are based on Apache Hadoop and Presto.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042715Z" creationid="xccui" creationdate="20190722T042715Z">
+        <seg>Flink分别基于Apache Hadoop和Presto实现了两个可选的S3文件系统连接器。</seg>
       </tuv>
     </tu>
     <tu>
