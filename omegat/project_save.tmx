@@ -28647,6 +28647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that some classes are always resolved first in the parent class‐ loader (classloader.parent-first-patterns.default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060730Z" creationid="xccui" creationdate="20190723T060730Z">
+        <seg>注意，有些类总是会优先在父类加载器（classloader.parent-first-patterns.default）中解析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that stateful transformations and keyed aggregates have to be used with care.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044921Z" creationid="xccui" creationdate="20190614T044921Z">
