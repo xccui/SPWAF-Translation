@@ -37552,6 +37552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of slots a TaskManager offers is controlled with the taskmanager.num berOfTaskSlots key in the configuration file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062226Z" creationid="xccui" creationdate="20190723T062226Z">
+        <seg>TaskManager所提供的处理槽数量是由配置文件中的taskmanager.numberOfTaskSlots项来指定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of slots limits the number of tasks a TaskManager can execute.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T142537Z" creationid="xccui" creationdate="20190606T142537Z">
