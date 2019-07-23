@@ -11975,6 +11975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, Flink looks up user-code classes first in the child (user-code) classloader and then in parent (system) classloader to prevent version clashes in case a job uses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T055953Z" creationid="xccui" creationdate="20190723T055953Z">
+        <seg>为了默认情况下，Flink首先从用户类加载器中查找用户类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, Flink starts JVM processes using the Java executable linked by the PATH environment variable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T043646Z" creationid="xccui" creationdate="20190723T043646Z">
@@ -19027,6 +19035,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195721Z" creationid="xccui" creationdate="20190328T044231Z">
         <seg>而Flink的关系型API——SQL及LINQ风格的Table API，并没有在书中过多涉及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s system class loader loads all JAR files in the ./lib folder and the user-code classloaders are derived from the sys‐ tem classloader.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T050829Z" creationid="xccui" creationdate="20190723T050829Z">
+        <seg>Flink的系统类加载器会从./lib文件夹中加载全部JAR文件，用户代码类加载器也是由它衍生而出的。</seg>
       </tuv>
     </tu>
     <tu>
