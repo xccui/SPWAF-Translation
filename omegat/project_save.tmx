@@ -18591,6 +18591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink registers the classes of every job into a separate user-code classloader to ensure the dependencies of the job do not infer with Flink’s runtime dependencies or the dependencies of other jobs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T045138Z" creationid="xccui" creationdate="20190723T045138Z">
+        <seg>Flink会将每个作业的类注册到一个独立的用户代码类加载器中，这样可以保证作业依赖不会对Flink运行时或其他作业的依赖带来干扰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink restricts access to timestamps or watermarks through the DataStream API.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052705Z" creationid="xccui" creationdate="20190607T012506Z">
@@ -23907,6 +23915,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061921Z" creationid="xccui" creationdate="20190606T012044Z">
         <seg>为了在无限数据流上高效地执行这些操作，必须对操作所维持的数据量加以限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to execute a Flink application, all classes in the application’s JAR file must be loaded by a classloader.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T044358Z" creationid="xccui" creationdate="20190723T044358Z">
+        <seg>为了执行Flink应用，所有应用JAR包中的类都需要由一个类加载器进行加载。</seg>
       </tuv>
     </tu>
     <tu>
