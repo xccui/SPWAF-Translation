@@ -21663,6 +21663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Java is not on the PATH or if you want to use a different Java version you can specify the root folder of a Java installation via the JAVA_HOME envi‐ ronment variable or the env.java.home key in the configuration file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T043919Z" creationid="xccui" creationdate="20190723T043919Z">
+        <seg>如果PATH中没有配置Java或者想要使用其他Java版本，你可以利用配置文件中的JAVA_HOME环境变量或env.java.home键对应的参数来指定Java安装目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195137Z" creationid="xccui" creationdate="20190626T195137Z">
