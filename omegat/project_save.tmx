@@ -7102,6 +7102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A JobManager requests one or more slots to execute an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061536Z" creationid="xccui" creationdate="20190723T061536Z">
+        <seg>JobManager需要请求一个或多个处理槽来执行应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Kafka sink is added to a DataStream application as shown in Example 8-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T171245Z" creationid="xccui" creationdate="20190708T171245Z">
@@ -7330,6 +7338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T042642Z" creationid="xccui" creationdate="20190423T042443Z">
         <seg>TaskManager通过提供一定数量的处理槽来控制可以并发执行的任务数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A TaskManager provides a certain number of slots that are registered at and governed by the ResourceManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061440Z" creationid="xccui" creationdate="20190723T061440Z">
+        <seg>每个TaskManager都能提供一定数量的处理槽，这些处理槽由ResourceManager统一注册和管理。</seg>
       </tuv>
     </tu>
     <tu>
