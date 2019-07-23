@@ -12055,6 +12055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, it is started with 1 GB JVM heap memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062949Z" creationid="xccui" creationdate="20190723T062949Z">
+        <seg>它默认的JVM堆内存数量只有1GB。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, only the core API dependencies (DataStream and DataSet APIs) are loaded by a Flink cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035728Z" creationid="xccui" creationdate="20190619T035618Z">
@@ -22155,6 +22163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060910Z" creationid="xccui" creationdate="20190614T045513Z">
         <seg>如果键值域（key domain）会持续增长（例如将唯一的事务ID作为键值），则必须对那些不再活跃的键值进行清理，以避免出现内存问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the master process needs to manage several applications or an application with many operators, you might need to increase the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T063059Z" creationid="xccui" creationdate="20190723T063059Z">
+        <seg>但如果主进程需要管理多个应用或某个应用具有很多算子，你可能需要利用jobmanager.heap.size配置项来增加JVM堆的容量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42516,6 +42532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024655Z" creationid="xccui" creationdate="20190714T024537Z">
         <seg>通常我们会使用RichSinkFunction抽象类，因为数据汇函数经常需要在RichFunction.open()方法里建立和外部系统的连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually, the master process has moderate memory requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062952Z" creationid="xccui" creationdate="20190723T062915Z">
+        <seg>通常，主进程对于内存的要求并不苛刻，</seg>
       </tuv>
     </tu>
     <tu>
