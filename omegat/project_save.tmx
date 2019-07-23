@@ -9294,6 +9294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All parameters can be defined in the ./conf/flink-conf.yaml file, which is organized as a flat YAML file of key-value pairs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T041745Z" creationid="xccui" creationdate="20190723T041632Z">
+        <seg>所有这些参数都可以定义在./conf/flink-conf.yaml文件中定义。该文件是一个扁平化的键值对YAML文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All process functions implement the RichFunction interface and hence offer open(), close(), and getRuntimeContext() methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053257Z" creationid="xccui" creationdate="20190621T053257Z">
@@ -10298,6 +10306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T054018Z" creationid="xccui" creationdate="20190605T054018Z">
         <seg>Apache Flink是一个集众多具有竞争力的特性于一身的第三代流处理引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apache Flink offers many parameters to configure its behavior and tweak its perfor‐ mance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T041638Z" creationid="xccui" creationdate="20190723T041547Z">
+        <seg>Apache Flink提供了很多用来配置行为和调节性能的参数。</seg>
       </tuv>
     </tu>
     <tu>
