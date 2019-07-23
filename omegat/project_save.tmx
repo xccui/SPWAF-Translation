@@ -12663,6 +12663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classloading issues are not uncommon when running jobs with external dependen‐ cies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T044246Z" creationid="xccui" creationdate="20190723T044246Z">
+        <seg>当你运行具有外部依赖关系的作业时，可能会经常遇到类加载方面的问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CoMapFunction and CoFlatMapFunction as argument respectively.2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T041022Z" creationid="xccui" creationdate="20190615T041022Z">
@@ -18843,6 +18851,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T043622Z" creationid="xccui" creationdate="20190720T043622Z">
         <seg>Flink的HA模式需要依赖Apache ZooKeeper（一项可用于分布式协调和一致性存储的服务）以及某种持久化远程存储（例如HDFS、NFS或S3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s JVM</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T044101Z" creationid="xccui" creationdate="20190723T044101Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -50917,6 +50933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053527Z" creationid="xccui" creationdate="20190621T053527Z">
         <seg>processElement(v: IN, ctx: Context, out: Collector[OUT])会针对流中的每条记录都调用一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>processes can be started with custom Java options—for example, to fine-tune the garbage collector or to enable remote debugging, with the keys env.java.opts, env.java.opts.jobmanager, and env.java.opts.taskmanager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T044132Z" creationid="xccui" creationdate="20190723T044059Z">
+        <seg>Flink的JVM进程支持在启动时自定义Java选项。举例而言，你可以使用env.java.opts、evn.java.opts.jobmanager及env.java.opts.taskmanager来对垃圾收集器进行微调或开启远程调试。</seg>
       </tuv>
     </tu>
     <tu>
