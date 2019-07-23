@@ -42288,6 +42288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User-code class loaders are disposed of when the corresponding job terminates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T050648Z" creationid="xccui" creationdate="20190723T050648Z">
+        <seg>用户代码类加载器会在相应的作业结束时销毁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User-defined timestamp assignment functions are usually applied as close to a source operator as possible because it can be very difficult to reason about the order of records and their timestamps after they have been processed by an operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T041030Z" creationid="xccui" creationdate="20190607T040633Z">
