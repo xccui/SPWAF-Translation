@@ -11977,8 +11977,8 @@
       <tuv lang="EN-US">
         <seg>By default, Flink looks up user-code classes first in the child (user-code) classloader and then in parent (system) classloader to prevent version clashes in case a job uses</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T055953Z" creationid="xccui" creationdate="20190723T055953Z">
-        <seg>为了默认情况下，Flink首先从用户类加载器中查找用户类</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060311Z" creationid="xccui" creationdate="20190723T055953Z">
+        <seg>为了防止作业和Flink使用相同依赖而引起冲突，Flink在默认情况下会先从用户类加载器中查找用户类，如果没有发现再去父（系统）类加载器中查找。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21579,6 +21579,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T205940Z" creationid="xccui" creationdate="20190228T203747Z">
         <seg>但随着Hadoop的流行，不少公司开始意识到他们现有的数据分析流程会遗漏很多有价值的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you can also invert the lookup order with the classloader.resolve-order configuration key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060603Z" creationid="xccui" creationdate="20190723T060603Z">
+        <seg>但你也可以使用classloader.resolve-order配置项颠倒这一顺序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52229,6 +52237,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T201015Z" creationid="xccui" creationdate="20190716T201015Z">
         <seg>第二个参数是用来返回函数结果或异常的回调对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the same dependency as Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060315Z" creationid="xccui" creationdate="20190723T060315Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
