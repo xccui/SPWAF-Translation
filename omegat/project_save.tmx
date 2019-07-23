@@ -11975,6 +11975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, Flink starts JVM processes using the Java executable linked by the PATH environment variable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T043646Z" creationid="xccui" creationdate="20190723T043646Z">
+        <seg>Flink默认会使用PATH环境变量中的Java执行文件来启动JVM进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, Flink will not start applications that do not restore all states that are con‐ tained in a savepoint to avoid losing the state in the savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043338Z" creationid="xccui" creationdate="20190705T043338Z">
@@ -43260,6 +43268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T033651Z" creationid="xccui" creationdate="20190710T033651Z">
         <seg>我们建议你参阅Kafka文档来详细了解有关配置属性的信息以及配置指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We refer you to the official documentation for a comprehensive list and detailed descriptions of all parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T043506Z" creationid="xccui" creationdate="20190723T043506Z">
+        <seg>你可以查看官方文档获取全部配置参数列表及详细说明。</seg>
       </tuv>
     </tu>
     <tu>
