@@ -14703,6 +14703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each slot can process one slice of an application, one parallel task of every operator of the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061717Z" creationid="xccui" creationdate="20190723T061717Z">
+        <seg>每个处理槽可以处理应用的一个"切片"，即应用程序每个算子的一个并行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each state backend provides imple‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221558Z" creationid="xccui" creationdate="20190703T221558Z">
@@ -20715,6 +20723,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T053954Z" creationid="xccui" creationdate="20190615T053954Z">
         <seg>因此，split也可以用来过滤或复制事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, the JobManager needs to acquire at least as many slots as the application’s maximum operator parallelism.6 Tasks are executed as threads within the worker (TaskManager) process and take as much CPU resources as they need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062029Z" creationid="xccui" creationdate="20190723T062029Z">
+        <seg>因此，JobManager至少需要获取和应用算子最大并行度等量的处理槽。6 任务会在工作进程（TaskManager）中以线程方式执行，它们可以按需获取足够的CPU资源。</seg>
       </tuv>
     </tu>
     <tu>
