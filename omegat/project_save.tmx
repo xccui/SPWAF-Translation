@@ -18031,6 +18031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink does not actively limit the amount of CPU resources it consumes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061158Z" creationid="xccui" creationdate="20190723T061125Z">
+        <seg>Flink不会主动限制自身消耗的CPU资源量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink does not automatically take a save‐ point, so a user (or external scheduler) has to explicitly trigger its creation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210829Z" creationid="xccui" creationdate="20190609T210829Z">
@@ -21267,6 +21275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T012247Z" creationid="xccui" creationdate="20190702T214012Z">
         <seg>但它需要初始版本应用的全部状态化算子都指定好两个参数，才能在将来正常工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it uses processing slots (see “Task Execution” on page 40 for a detailed discussion) to control the number of tasks that can be assigned to a worker process (TaskManager).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061322Z" creationid="xccui" creationdate="20190723T061155Z">
+        <seg>但采用处理槽（详细信息请参阅第40页"任务执行"一节）来控制可以分配给工作进程（TaskManager）的任务数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46437,6 +46453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T203838Z" creationid="xccui" creationdate="20190627T203838Z">
         <seg>且没有对窗口内容使用ReduceFunction或AggregateFunction进行增量聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>are first resolved from the parent classloader (classloader.parent-first-patterns.additional).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061039Z" creationid="xccui" creationdate="20190723T061039Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
