@@ -45505,6 +45505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can extend the list by providing a whitelist of classname patterns that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061031Z" creationid="xccui" creationdate="20190723T061031Z">
+        <seg>你可以通过提供类名模式白名单的方式，来扩展优先从父类加载器中解析的类列表（classloader.parent-first-patterns.additional）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can find more information about the other connectors in the documentation for Apache Flink or Apache Bahir.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201408Z" creationid="xccui" creationdate="20190708T201408Z">
