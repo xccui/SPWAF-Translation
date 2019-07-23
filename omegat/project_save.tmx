@@ -9296,8 +9296,8 @@
       <tuv lang="EN-US">
         <seg>All parameters can be defined in the ./conf/flink-conf.yaml file, which is organized as a flat YAML file of key-value pairs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T041745Z" creationid="xccui" creationdate="20190723T041632Z">
-        <seg>所有这些参数都可以定义在./conf/flink-conf.yaml文件中定义。该文件是一个扁平化的键值对YAML文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T041926Z" creationid="xccui" creationdate="20190723T041632Z">
+        <seg>所有这些参数都可以定义在./conf/flink-conf.yaml文件中定义。该文件是一个存储键值的扁平化YAML文件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19483,6 +19483,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T170819Z" creationid="xccui" creationdate="20190705T165020Z">
         <seg>例如，它只有在应用运行过程中才可以访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the start scripts, such as ./bin/start-cluster.sh, parse the configuration file to extract JVM parameters and heap size settings, and the CLI client (./bin/flink) extracts the connection information to access the master process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T042154Z" creationid="xccui" creationdate="20190723T042001Z">
+        <seg>举例而言，启动脚本（如./bin/start-cluster.sh）会解析该配置文件获得JVM参数以及堆大小设置，CLI客户端（./bin/flink）会从中获得连接信息以访问主进程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35676,6 +35684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045601Z" creationid="xccui" creationdate="20190722T045601Z">
         <seg>该配置支持为每个URI协议单独定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The configuration file is read by dif‐ ferent components, such as the start scripts, the master and worker JVM processes, and the CLI client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T042020Z" creationid="xccui" creationdate="20190723T041916Z">
+        <seg>会供不同组件（如启动脚本、主进程和工作进程以及CLI客户端）读取使用。</seg>
       </tuv>
     </tu>
     <tu>
