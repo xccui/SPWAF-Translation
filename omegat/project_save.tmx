@@ -36000,6 +36000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default is one slot per TaskMan‐ ager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062245Z" creationid="xccui" creationdate="20190723T062245Z">
+        <seg>它的默认值是每个TaskManager一个处理槽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default maximum parallelism of an operator depends on the operator’s parallel‐ ism in the application’s first version:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025347Z" creationid="xccui" creationdate="20190703T025347Z">
@@ -37572,6 +37580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190424T062053Z" creationid="xccui" creationdate="20190418T051544Z">
         <seg>处理槽的数目限制了一个TaskManager可执行的任务数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of slots usually only needs to be configured for standalone setups as</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062316Z" creationid="xccui" creationdate="20190723T062316Z">
+        <seg>通常你只需要在独立集群模式下设置处理槽的数量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -51613,6 +51629,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T052007Z" creationid="xccui" creationdate="20190714T052007Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>running Flink on a cluster resource manager (YARN, Kubernetes, Mesos) makes it easy to spin up multiple TaskManagers (each with one slot) per compute node.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062531Z" creationid="xccui" creationdate="20190723T062531Z">
+        <seg>因为基于资源管理器（YARN、Kuberanetes、Mesos）运行Flink可以轻松在每个计算节点上启动多个（单处理槽的）TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
