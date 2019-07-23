@@ -12951,6 +12951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring the memory of a worker process is a bit more involved because there are multiple components that allocate different types of memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T063400Z" creationid="xccui" creationdate="20190723T063400Z">
+        <seg>配置工作进程的内存要复杂一些，因为会有多个组件分别占用不同类型的内存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect, coMap, and coFlatMap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065150Z" creationid="xccui" creationdate="20190614T065132Z">
@@ -26687,6 +26695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to assign operators to different slot-sharing groups and thus assign their tasks to distinct slots.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T063300Z" creationid="xccui" creationdate="20190723T063300Z">
+        <seg>也可以将算子分配到不同的处理槽共享组（slot-sharing group），从而实现将其任务分配到不同处理槽上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is pos‐ sible that a task misses the notification.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202947Z" creationid="xccui" creationdate="20190702T202947Z">
@@ -26931,6 +26947,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T053802Z" creationid="xccui" creationdate="20190329T053732Z">
         <seg>其目的在于介绍流处理的基础概念，讨论流处理框架的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JVM heap size with the jobmanager.heap.size configuration key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T063101Z" creationid="xccui" creationdate="20190723T063101Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
