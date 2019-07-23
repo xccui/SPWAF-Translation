@@ -25271,6 +25271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we discuss different aspects that typically need to be config‐ ured when setting up a Flink cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T043234Z" creationid="xccui" creationdate="20190723T043234Z">
+        <seg>本节我们将讨论搭建Flink集群时针对不同方面的典型配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we discuss how operators process watermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T070333Z" creationid="xccui" creationdate="20190529T040632Z">
@@ -45685,6 +45693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034128Z" creationid="xccui" creationdate="20190621T034128Z">
         <seg>换言之，可能你早就能够生成结果，但必须等待水位线来触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to adjust the configuration to successfully run Flink in distributed environ‐ ments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T042456Z" creationid="xccui" creationdate="20190723T042456Z">
+        <seg>如果想让它在分布式环境中运行，你需要调整部分配置。</seg>
       </tuv>
     </tu>
     <tu>
