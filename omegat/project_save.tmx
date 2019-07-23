@@ -7846,6 +7846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A master process mainly manages compute resources (ResourceManager) and coordinates the execution of applications (JobManager), while a worker process takes care of the heavy lifting and processes potentially large amounts of data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062835Z" creationid="xccui" creationdate="20190723T062835Z">
+        <seg>主进程主要管理计算资源（ResourceManager）和协调应用（JobManager）执行；而工作进程要负责繁重的工作以及处理潜在庞大规模的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A microservice architecture</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T172821Z" creationid="xccui" creationdate="20190228T172821Z">
@@ -19019,6 +19027,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072755Z" creationid="xccui" creationdate="20190606T145941Z">
         <seg>Flink中的高可用模式是基于能够提供分布式协调和共识服务的Apache ZooKeeper来完成的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s master and worker processes have different memory requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062548Z" creationid="xccui" creationdate="20190723T062548Z">
+        <seg>Flink的主进程和工作进程对内存有着不同需求。</seg>
       </tuv>
     </tu>
     <tu>
