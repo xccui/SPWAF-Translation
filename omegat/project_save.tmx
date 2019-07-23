@@ -12343,6 +12343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes in the configuration file are not effective until Flink is restarted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T042221Z" creationid="xccui" creationdate="20190723T042221Z">
+        <seg>所有对于该配置文件的修改都需要重启Flink才能生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing the Input Data Type of Built-in Stateful Operators</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041125Z" creationid="xccui" creationdate="20190705T041125Z">
@@ -41268,6 +41276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T205857Z" creationid="xccui" creationdate="20190711T205756Z">
         <seg>为了说明Cassandra数据汇连接器的使用方法，我们以一个简单的Cassandra表为例，表中包含了两个列，分别用来保存传感器读数的传感器ID和温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To improve the out-of-the-box experience, Flink is preconfigured for a local setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T042356Z" creationid="xccui" creationdate="20190723T042356Z">
+        <seg>为了让用户快速上手，Flink已经预先配置好本地运行模式。</seg>
       </tuv>
     </tu>
     <tu>
