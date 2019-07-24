@@ -31424,6 +31424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RocksDB is another memory consumer that needs to be taken into consideration when configuring the memory of a worker process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041259Z" creationid="xccui" creationdate="20190724T041259Z">
+        <seg>我们在we在工作进程配置内存时还需要考虑RocksDB的占用量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RocksDB state backend with incremental checkpoints and storing the timers on the heap (default setting), they are checkpointed synchronously.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065821Z">
@@ -45715,8 +45723,8 @@
       <tuv lang="EN-US">
         <seg>You can also specify a minimum (taskmanager.network.memory.min) and a maxi‐ mum (taskmanager.network.memory.max) amount of memory that is used for net‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041054Z" creationid="xccui" creationdate="20190724T041054Z">
-        <seg>你也可以指定一个用于网络缓冲区的最小（taskmanager.network.meamory.min）和最大（taskmanager.network.memory.max）内存量（二者的默认值分别是64MB和1G）</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041157Z" creationid="xccui" creationdate="20190724T041054Z">
+        <seg>你也可以指定一个用于网络缓冲区的最小（taskmanager.network.meamory.min）和最大（taskmanager.network.memory.max）内存量（二者的默认值分别是64MB和1G），从而可以为上述的相对配置加上绝对限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51745,6 +51753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>relative configuration value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041203Z" creationid="xccui" creationdate="20190724T041203Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>relevant data in the persistent storage and writes a pointer to the information—the storage path—to ZooKeeper.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T045122Z" creationid="xccui" creationdate="20190720T043700Z">
@@ -54965,6 +54981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060813Z" creationid="xccui" creationdate="20190614T044414Z">
         <seg>这意味着所有键值相同的事件可以访问相同的状态，因此它们可以被一并处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>work buffers (by default 64 MB and 1 GB, respectively) to set absolute limits for the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041200Z" creationid="xccui" creationdate="20190724T041200Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
