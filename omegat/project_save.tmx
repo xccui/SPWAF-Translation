@@ -9870,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An important choice that affects the performance of an application is the state back‐ end that maintains its state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044328Z" creationid="xccui" creationdate="20190724T044231Z">
+        <seg>影响应用程序性能的一个重要方面是用以维护状态的状态后端的选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An input split defines a range on a file,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191725Z" creationid="xccui" creationdate="20190710T191725Z">
@@ -45973,6 +45981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092944Z" creationid="xccui" creationdate="20190611T053048Z">
         <seg>如同往常一般，在代码里设置断点，开启调试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can define the default state backend of a cluster with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044300Z" creationid="xccui" creationdate="20190724T044300Z">
+        <seg>你可以利用state.backend参数定义集群的默认状态后端。</seg>
       </tuv>
     </tu>
     <tu>
