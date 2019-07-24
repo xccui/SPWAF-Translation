@@ -39088,6 +39088,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The storage location of the local state copy can be specified as well (taskmanager.state.local.root-dirs).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T045130Z" creationid="xccui" creationdate="20190724T045130Z">
+        <seg>本地状态副本的存储位置同样可配（taskmanager.state.local.root-dirs）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The straightforward approach for such use cases is to implement a MapFunction that queries the datastore for every processed record, waits for the query to return a result,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T191848Z" creationid="xccui" creationdate="20190716T191458Z">
