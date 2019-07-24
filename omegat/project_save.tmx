@@ -22263,6 +22263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the number of buffers is not appropri‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040047Z" creationid="xccui" creationdate="20190724T040047Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the number of partitions is larger than the number of subtasks, the default configuration results in empty parti‐ tions, which can cause problems for Flink applications consuming the topic in event- time mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035237Z" creationid="xccui" creationdate="20190710T035040Z">
@@ -46733,6 +46741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T050619Z" creationid="xccui" creationdate="20190626T050619Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ately configured, a job submission will fail with a java.io.IOException: Insufficient number of network buffers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040034Z" creationid="xccui" creationdate="20190724T040034Z">
+        <seg>如果缓冲区数量配置有问题，在提交作业时可能会抛出异常java.io.IOException: Insufficient number of network buffers（缓冲区数量不足）。</seg>
       </tuv>
     </tu>
     <tu>
