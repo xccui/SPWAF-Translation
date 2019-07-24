@@ -17783,6 +17783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, you can enable and configure local recovery for a Flink cluster by default.7 To enable local recovery, set the parameter state.backend.local-recovery to true.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T045102Z" creationid="xccui" creationdate="20190724T045102Z">
+        <seg>最后，你可以通过将参数state.backend.local-recovery设置true，来让Flink集群默认启用和配置本地恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, you have seen why state is important in streaming applications and how you can guard it against failures and guarantee correct results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T051729Z" creationid="xccui" creationdate="20190416T051720Z">
@@ -20083,6 +20091,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052854Z" creationid="xccui" creationdate="20190620T052854Z">
         <seg>针对这种情况，Flink提供了BoundedOutOfOrdernessTimeStampExtractor，它接收一个表示最大预期延迟的参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the RocksDB state backend you can define one or more paths at which RocksDB stores its local files (state.back end.rocksdb.localdir) and whether timer state is stored on the heap (default) or in RocksDB (state.backend.rocksdb.timer-service.factory).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044853Z" creationid="xccui" creationdate="20190724T044853Z">
+        <seg>对于RocksDB状态后端，你可以定义用于本地文件存储的路径（state.backend.rocksdb.localdir）以及是将计时器存放在堆中（默认配置）还是RocksDB中（state.backedn.rocksdb.timer-service.factory）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32994,8 +33010,8 @@
       <tuv lang="EN-US">
         <seg>Some checkpointing options are backend specific.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044639Z" creationid="xccui" creationdate="20190724T044639Z">
-        <seg>一些检查点的选项是某些状态后端所特有的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044656Z" creationid="xccui" creationdate="20190724T044639Z">
+        <seg>部分检查点的选项是某些状态后端所特有的。</seg>
       </tuv>
     </tu>
     <tu>
