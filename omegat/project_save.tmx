@@ -12063,6 +12063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, data is written to the default tem‐ porary directory as determined by the Java system property java.io.tmpdir, or /tmp on Linux and MacOS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042752Z" creationid="xccui" creationdate="20190724T042752Z">
+        <seg>默认情况下，数据会写入默认临时目录（由Java系统变量java.io.tmpdir决定，或Linux及MacOS下的/tmp目录）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, it automatically restarts failed master and TaskManager containers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T051655Z" creationid="xccui" creationdate="20190721T051655Z">
@@ -37296,6 +37304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The io.tmp.dirs parameter is used as the default value for the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042920Z" creationid="xccui" creationdate="20190724T042920Z">
+        <seg>io.tmp.dirs参数值路径会用于Flink大多数有本地存储需求的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The iterator returned by get() returns an Iterable with a single entry, which is</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061108Z" creationid="xccui" creationdate="20190630T060432Z">
@@ -45561,6 +45577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the io.tmp.dirs configu‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042542Z" creationid="xccui" creationdate="20190724T042542Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With this book, we hope to reach developers, engineers, and streaming enthusiasts around the world and grow the Flink community even larger.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062952Z" creationid="xccui" creationdate="20190605T132916Z">
@@ -53253,6 +53277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045420Z" creationid="xccui" creationdate="20190714T045420Z">
         <seg>updateStmt.execute()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>used to store data in the local filesystem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042548Z" creationid="xccui" creationdate="20190724T042548Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
