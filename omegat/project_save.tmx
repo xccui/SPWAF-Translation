@@ -17655,6 +17655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, the RocksDB state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043650Z" creationid="xccui" creationdate="20190724T043650Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, we apply a user-defined function that computes the average temperature on each window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051325Z" creationid="xccui" creationdate="20190612T053852Z">
@@ -36384,6 +36392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The env.log.dir key configures the directory into which a TaskManager writes its log files (by default, the ./log directory in the Flink setup).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043623Z" creationid="xccui" creationdate="20190724T043623Z">
+        <seg>env.log.dir参数用于配置TaskManager的日志文件目录（默认值是Flink安装位置的./log目录）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The event log decouples senders and receivers and provides asynchronous, non-blocking event transfer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190308T072837Z" creationid="xccui" creationdate="20190308T072837Z">
@@ -47001,6 +47017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>backend maintains application state in the local filesystem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043648Z" creationid="xccui" creationdate="20190724T043648Z">
+        <seg>最后，RocksDB状态后端会将应用状态维护在本地文件系统中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>balancing, retry, and reconnection policies; and provide access credentials.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221636Z" creationid="xccui" creationdate="20190711T221515Z">
@@ -53341,6 +53365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T045420Z" creationid="xccui" creationdate="20190714T045420Z">
         <seg>updateStmt.execute()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ured using the state.backend.rocksdb.localdir key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043720Z" creationid="xccui" creationdate="20190724T043720Z">
+        <seg>其维护目录可以利用state.backend.rocksdb.localdir参数来设置。</seg>
       </tuv>
     </tu>
     <tu>
