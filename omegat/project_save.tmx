@@ -27759,6 +27759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure to disable this behavior or configure a differ‐ ent directory if you plan to run continuous Flink applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043250Z" creationid="xccui" creationdate="20190724T043250Z">
+        <seg>如果你的应用需要长时间地持续运行，请确保上述行为已被禁用或选择一个其他目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manager is passed to the containers via the JOB_MANAGER_RPC_ADDRESS variable,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T034033Z" creationid="xccui" creationdate="20190718T033935Z">
@@ -30188,6 +30196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041613Z" creationid="esouser" creationdate="20190603T153223Z">
         <seg>或者如果你迫不及待地想开始编写Flink代码，也可以先阅读实践章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise job recovery might miss metadata that was stored in the temporary directory and fail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043324Z" creationid="xccui" creationdate="20190724T043324Z">
+        <seg>否则作业在进行恢复时可能会因为找不到临时目录中的元数据而失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35796,6 +35812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012714Z" creationid="xccui" creationdate="20190606T012714Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The blob.storage.directory key configures the local storage directory of the blob server, which is used to exchange larger files such as the application JAR files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043446Z" creationid="xccui" creationdate="20190724T043446Z">
+        <seg>blob.storage.directory参数项用于配置Blob服务器的本地存储目录，该目录常用于大文件（例如应用JAR包）交换。</seg>
       </tuv>
     </tu>
     <tu>
