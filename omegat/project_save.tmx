@@ -18679,6 +18679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink requires a sufficient number of network buffers to be able to ship records from one worker process to the other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035258Z" creationid="xccui" creationdate="20190724T035258Z">
+        <seg>为了顺利将记录在工作进程之间传输，Flink需要足够数量的网络缓冲区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink restricts access to timestamps or watermarks through the DataStream API.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052705Z" creationid="xccui" creationdate="20190607T012506Z">
@@ -19075,6 +19083,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052458Z" creationid="xccui" creationdate="20190721T052210Z">
         <seg>Flink的主进程是作为YARN ApplicationMaster启动的。5 YARN会自动重启故障的ApplicationMaster，但会跟踪并限制重启次数以防出现无限制的恢复循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s network stack is based on the Netty library, which allocates network buffers from native (off-heap) memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035137Z" creationid="xccui" creationdate="20190724T035137Z">
+        <seg>Flink的网络栈基于Netty库，它会从本地（堆外）内存分配网络缓冲区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23227,6 +23243,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040914Z" creationid="xccui" creationdate="20190523T040914Z">
         <seg>除了记录的时间戳，Flink基于事件时间的应用还必须提供水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the JVM, there are two other major memory consumers, Flink’s net‐ work stack and RocksDB, when it is used as a state backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035101Z" creationid="xccui" creationdate="20190724T035054Z">
+        <seg>除了JVM，还有两个组件同样会消耗很多内存——Flink的网络栈和RocksDB（如果用它作为状态后端）。</seg>
       </tuv>
     </tu>
     <tu>
