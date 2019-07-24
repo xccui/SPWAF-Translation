@@ -19047,6 +19047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s default configuration is only suitable for a smaller scale distributed setup and needs to be adjusted for more serious scale.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035918Z" creationid="xccui" creationdate="20190724T035918Z">
+        <seg>Flink默认配置仅适用于规模较小的分布式环境，若想正式地扩容则需要一定调整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s design aims to reduce synchronization points.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163613Z" creationid="xccui" creationdate="20190702T163613Z">
@@ -19243,6 +19251,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065745Z" creationid="xccui" creationdate="20190609T204517Z">
         <seg>对于那些需要极低延迟且能容忍至少一次状态保障的应用，可以通过配置让Flink在分隔符对齐的过程中不缓冲那些已收到分隔符所对应分区的记录，而是直接处理它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For appli‐ cations with several partitioning steps, this quadratic dependency can quickly sum up to a significant amount of memory that is required for network transfer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035645Z" creationid="xccui" creationdate="20190724T035645Z">
+        <seg>而对于包含多次分区的应用，这样的平方依赖会很快占用大量的网络传输内存。</seg>
       </tuv>
     </tu>
     <tu>
