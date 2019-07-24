@@ -20047,6 +20047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For two operators con‐ nected by a partitioning or broadcasting connection the number of network buffers depends on the product of the sending and receiving operator parallelism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035510Z" creationid="xccui" creationdate="20190724T035510Z">
+        <seg>对于通过分区或广播策略连接的两个算子，其网络缓冲区的需求量取决于发送和接收算子并行度的乘积。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fortunately, in many cases, you can partition the state by a key and manage the state of each partition independently.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183735Z" creationid="xccui" creationdate="20190415T033542Z">
@@ -37652,6 +37660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185340Z" creationid="xccui" creationdate="20190710T185340Z">
         <seg>示例8-3中TextInputFormat的null参数表示要单独设置读取路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of buffers depends on the total number of network connections between operator tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035333Z" creationid="xccui" creationdate="20190724T035333Z">
+        <seg>其数目取决于算子任务之间的网络连接总数。</seg>
       </tuv>
     </tu>
     <tu>
