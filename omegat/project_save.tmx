@@ -36944,6 +36944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The heap memory is used for all objects, including the TaskMan‐ ager runtime, operators and functions of the application, and in-flight data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034239Z" creationid="xccui" creationdate="20190724T034239Z">
+        <seg>堆内存需要供所有对象使用，包括TaskManager运行时，应用的算子和函数，以及处理中的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hostname (or IP address) of the machine that runs the master process needs to be configured in the ./conf/flink-conf.yaml file with the config key jobman ager.rpc.address.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200756Z" creationid="xccui" creationdate="20190717T200756Z">
@@ -37516,6 +37524,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185608Z" creationid="xccui" creationdate="20190710T185608Z">
         <seg>目标路径的读取模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most important</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034145Z" creationid="xccui" creationdate="20190724T034145Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -50901,6 +50917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052214Z" creationid="xccui" creationdate="20190701T052214Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>parameter is the size of the JVM heap memory, which is set with the key taskman ager.heap.size.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034142Z" creationid="xccui" creationdate="20190724T034142Z">
+        <seg>其中所涉及最重要的参数是JVM堆内存大小，它可以利用taskmanager.heap.size配置项设置。</seg>
       </tuv>
     </tu>
     <tu>
