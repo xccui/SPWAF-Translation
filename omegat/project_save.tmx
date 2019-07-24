@@ -25231,6 +25231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, you should provide more memory to the network stack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040203Z" creationid="xccui" creationdate="20190724T040203Z">
+        <seg>在该情况下，你就需要给网络栈分配更多内存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter we discuss why stateful stream processing is becoming so popular and assess its potential.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T222743Z" creationid="xccui" creationdate="20190225T222138Z">
@@ -35484,6 +35492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064446Z" creationid="xccui" creationdate="20190609T055752Z">
         <seg>该算法不会暂停整个应用，而是会把生成检查点的过程和处理过程分离，这样在部分任务持久化状态的过程中，其他任务还可以继续执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of memory assigned for network buffers is configured with the taskman ager.network.memory.fraction key, which determines the fraction of the JVM size allocated for network buffers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040358Z" creationid="xccui" creationdate="20190724T040358Z">
+        <seg>设置内存分配量的配置项是taskmanager.network.memory.fraction，它的值决定了JVM为网络缓冲区分配的内存比例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46747,8 +46763,8 @@
       <tuv lang="EN-US">
         <seg>ately configured, a job submission will fail with a java.io.IOException: Insufficient number of network buffers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040034Z" creationid="xccui" creationdate="20190724T040034Z">
-        <seg>如果缓冲区数量配置有问题，在提交作业时可能会抛出异常java.io.IOException: Insufficient number of network buffers（缓冲区数量不足）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040137Z" creationid="xccui" creationdate="20190724T040034Z">
+        <seg>如果缓冲区数量配置有问题，在提交作业时可能会因异常而失败：java.io.IOException: Insufficient number of network buffers（缓冲区数量不足）。</seg>
       </tuv>
     </tu>
     <tu>
