@@ -9334,6 +9334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All parameters can be explicitly specified within the code of an application as described in “Tuning Checkpointing and Recovery”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043954Z" creationid="xccui" creationdate="20190724T043954Z">
+        <seg>所有参数都可以在应用代码中显式指定（详见"调整检查点和恢复"一节）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All process functions implement the RichFunction interface and hence offer open(), close(), and getRuntimeContext() methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053257Z" creationid="xccui" creationdate="20190621T053257Z">
@@ -18431,6 +18439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink offers a few options to configure how state backends checkpoint their state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043901Z" creationid="xccui" creationdate="20190724T043901Z">
+        <seg>Flink针对状态后端如何将状态写入检查点提供了很多配置项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink offers different strategies to handle such late events, and we discuss those later in “Handling Late Data” on page 148.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053636Z" creationid="xccui" creationdate="20190620T053636Z">
@@ -21783,6 +21799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you can also provide default set‐ tings for a Flink cluster through Flink’s configuration file, which are applied if job- specific options are not declared.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044128Z" creationid="xccui" creationdate="20190724T044128Z">
+        <seg>但你也可以通过Flink配置文件为整个Flink集群提供默认设置，它们会在作业未显式声明时起到作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you can be quite cer‐ tain all relevant data is available when you perform a computation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T040233Z" creationid="xccui" creationdate="20190621T040233Z">
@@ -22427,6 +22451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T140136Z" creationid="xccui" creationdate="20190704T130702Z">
         <seg>应用状态如果不断增加，总有一天会变得过大并"杀死"应用，除非我们有什么办法能为应用不断扩充资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the storage directory is not explicitly configured, RocksDB uses the value of the io.tmp.dirs parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043812Z" creationid="xccui" creationdate="20190724T043812Z">
+        <seg>如果没有显式指定该配置参数，RocksDB会使用io.tmp.dirs的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36332,6 +36364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065722Z" creationid="xccui" creationdate="20190630T065617Z">
         <seg>ReducingState和AggregatingState的描述符（descriptor）还需要接收一个ReduceFunction或AggregateFunction对象，以此来对加入的值进行聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The directory is config‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043722Z" creationid="xccui" creationdate="20190724T043722Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
