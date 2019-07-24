@@ -27215,6 +27215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep in mind that some resource managers, such as YARN, will immediately kill a container if it exceeds its memory budget.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042209Z" creationid="xccui" creationdate="20190724T042209Z">
+        <seg>最后请牢记，某些资源管理器（如YARN）会在容器超过内存限制时立即将其终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Selectors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T145630Z" creationid="esouser" creationdate="20190603T145630Z">
@@ -28499,6 +28507,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T045900Z" creationid="xccui" creationdate="20190618T045900Z">
         <seg>如需选择POJO和元组中嵌套字段，可以利用"." (英文句号)来区分嵌套级别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network memory is automatically subtracted from the configured JVM heap size.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042042Z" creationid="xccui" creationdate="20190724T042042Z">
+        <seg>网络内存会自动从配置的JVM堆内存中抽调出来。</seg>
       </tuv>
     </tu>
     <tu>
