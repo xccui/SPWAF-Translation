@@ -31144,6 +31144,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reducing the size of a network buffer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040843Z" creationid="xccui" creationdate="20190724T040843Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ReducingState[T] offers the same methods as ListState[T] (except for addAll() and update()), but instead of appending values to a list, Reducing State.add(value: T) immediately aggregates value using a ReduceFunction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T060310Z" creationid="xccui" creationdate="20190630T060310Z">
@@ -36004,6 +36012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T042020Z" creationid="xccui" creationdate="20190723T041916Z">
         <seg>会供不同组件（如启动脚本、主进程和工作进程以及CLI客户端）读取使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The configuration key taskmanager.memory.segment-size determines the size of a network buffer, which is 32 KB by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040733Z" creationid="xccui" creationdate="20190724T040733Z">
+        <seg>配置项taskmanager.memory.segment-size决定了网络缓冲区的大小，其默认值是32KB。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45697,6 +45713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also specify a minimum (taskmanager.network.memory.min) and a maxi‐ mum (taskmanager.network.memory.max) amount of memory that is used for net‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041054Z" creationid="xccui" creationdate="20190724T041054Z">
+        <seg>你也可以指定一个用于网络缓冲区的最小（taskmanager.network.meamory.min）和最大（taskmanager.network.memory.max）内存量（二者的默认值分别是64MB和1G）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can change the Flink version, group and artifact IDs, version, and generated package by changing the respective parameters of the above mvn command.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T094539Z" creationid="xccui" creationdate="20190612T005349Z">
@@ -49101,6 +49125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061840Z" creationid="xccui" creationdate="20190701T061840Z">
         <seg>如果我们增加算子的并行度，那么部分新的子任务就只能得到空的状态，从而需要从零开始计数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>increases the number of buffers but can reduce the efficiency of the network stack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040902Z" creationid="xccui" creationdate="20190724T040837Z">
+        <seg>降低单个网络缓冲区的大小可以增加其数量，但会降低网络栈整体的工作效率。</seg>
       </tuv>
     </tu>
     <tu>
