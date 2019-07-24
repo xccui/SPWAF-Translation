@@ -18095,6 +18095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink does not guarantee or grant heap memory per task or slot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034600Z" creationid="xccui" creationdate="20190724T034600Z">
+        <seg>Flink无法保证按任务或处理槽分配堆内存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink does not implement all this functionality by itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T031440Z" creationid="xccui" creationdate="20190418T031424Z">
@@ -38616,6 +38624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034421Z" creationid="xccui" creationdate="20190724T034421Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The state backend is responsible for storing the local state of each task instance and persisting it to remote storage when a checkpoint is taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T213832Z" creationid="xccui" creationdate="20190703T213832Z">
@@ -50173,6 +50189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T142522Z" creationid="esouser" creationdate="20190603T142522Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of an application that uses the in-memory or filesystem state backend is also stored on the JVM. Note that a single task can potentially consume the whole heap memory of the JVM that it is running on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034418Z" creationid="xccui" creationdate="20190724T034418Z">
+        <seg>应用中基于内存或文件系统后端的状态同样会存到JVM中。注意，单个任务可能会耗尽其所在JVM的所有内存。</seg>
       </tuv>
     </tu>
     <tu>
