@@ -28143,6 +28143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover,  you  can  enable  asynchronous  checkpointing (state.backend.async) and incremental checkpointing (state.backend.incremen tal).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044427Z" creationid="xccui" creationdate="20190724T044427Z">
+        <seg>此外，还可以启用异步检查点（state.backend.async）和增量检查点（state.backend.incremental）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, AsyncFunction properly works with event-time pro‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T195828Z" creationid="xccui" creationdate="20190716T194643Z">
@@ -32972,6 +32980,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035212Z" creationid="xccui" creationdate="20190619T035212Z">
         <seg>还有一些应用需要用到Flink一些特定领域的库（例如：Table API、SQL或CEP库）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some backends do not support all options and might ignore them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044514Z" creationid="xccui" creationdate="20190724T044514Z">
+        <seg>如果状态后端不支持某些选项，则可能会自动忽略它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some checkpointing options are backend specific.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044639Z" creationid="xccui" creationdate="20190724T044639Z">
+        <seg>一些检查点的选项是某些状态后端所特有的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45881,6 +45905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also configure the root directories at the remote storage to which checkpoints (state.checkpoints.dir) and savepoints (state.savepoints.dir) are written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044608Z" creationid="xccui" creationdate="20190724T044608Z">
+        <seg>你还可以配置用于写入检查点（state.checkpoints.dir）和保存点（state.savepoints.dir）的远程存储路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also configure the sink to log write only failures by calling setLogFailuresOnly(true) on the sink object.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161428Z" creationid="xingcan" creationdate="20190709T155322Z">
@@ -52757,6 +52789,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213216Z" creationid="xccui" creationdate="20190704T213038Z">
         <seg>随后，方法就会比较两个相邻的温度值，依照逻辑决定是否发出警报，并更新最近一次温度的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the  state.backend key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044331Z" creationid="xccui" creationdate="20190724T044331Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
