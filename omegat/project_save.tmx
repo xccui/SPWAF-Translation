@@ -44505,6 +44505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When configuring the memory setting of a TaskManager, you should size the JVM heap memory so there is enough memory left for the JVM nonheap memory (classes and metadata) and RocksDB if it is configured as a state backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041954Z" creationid="xccui" creationdate="20190724T041954Z">
+        <seg>在为TaskManager配置内存时，你应该适当调整JVM堆内存的大小，以便为JVM非堆内存（用于类和元数据）和RocksDB（如果选它作状态后端）留下足够多的内存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When dealing with a potentially unbounded stream of continuously arriving events, time becomes a central aspect of applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T153413Z" creationid="xccui" creationdate="20190409T210522Z">
@@ -45513,6 +45521,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the default configuration, each column family requires about 200 MB to 240 MB of off- heap memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041649Z" creationid="xccui" creationdate="20190724T041649Z">
+        <seg>默认配置的情况下，每个列簇需要大约200MB到240MB的堆外内存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the exception of being nonparallel and parallel, both interfaces are identical.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T145958Z" creationid="xccui" creationdate="20190712T145819Z">
@@ -45669,6 +45685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210843Z" creationid="esouser" creationdate="20190603T210843Z">
         <seg>You can access this page at http://bit.ly/stream-proc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can adjust RocksDB’s configuration and tweak its performance with many parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041733Z" creationid="xccui" creationdate="20190724T041733Z">
+        <seg>和调整RocksDB配置及性能相关的参数有很多。</seg>
       </tuv>
     </tu>
     <tu>
