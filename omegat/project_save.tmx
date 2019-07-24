@@ -18095,6 +18095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink creates a separate (embedded) RocksDB instance for each task of a keyed operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041511Z" creationid="xccui" creationdate="20190724T041440Z">
+        <seg>Flink会为每个键值分区算子的任务创建一个单独的（嵌入式）RocksDB实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink does not actively limit the amount of CPU resources it consumes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061158Z" creationid="xccui" creationdate="20190723T061125Z">
@@ -31426,8 +31434,8 @@
       <tuv lang="EN-US">
         <seg>RocksDB is another memory consumer that needs to be taken into consideration when configuring the memory of a worker process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041259Z" creationid="xccui" creationdate="20190724T041259Z">
-        <seg>我们在we在工作进程配置内存时还需要考虑RocksDB的占用量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041338Z" creationid="xccui" creationdate="20190724T041259Z">
+        <seg>我们在为工作进程配置内存时还需要考虑RocksDB的占用量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42440,6 +42448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, figuring out the memory consumption of RocksDB is not straightforward because it depends on the number of keyed states in an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041415Z" creationid="xccui" creationdate="20190724T041331Z">
+        <seg>但遗憾的是它的内存占用量没有什么直观的计算方法，因为具体值取决于应用中键值分区状态的数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, the Flink Docker image we used in the Docker and Kubernetes examples before does not support setting custom con‐ figuration parameters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005028Z" creationid="xccui" creationdate="20190722T005028Z">
@@ -45517,6 +45533,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033758Z" creationid="xccui" creationdate="20190621T033758Z">
         <seg>知道这点，你就可以使用水位线来平衡结果的延迟和完成整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within each instance, every dis‐ tinct state of the operator is stored in a separate column family (or table).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041618Z" creationid="xccui" creationdate="20190724T041618Z">
+        <seg>每个实例都会将其独有的算子状态存入单独的列簇（或表）中。</seg>
       </tuv>
     </tu>
     <tu>
