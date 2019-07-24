@@ -11991,6 +11991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, 10% of the JVM heap size is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040658Z" creationid="xccui" creationdate="20190724T040507Z">
+        <seg>默认配置是使用JVM堆内存的10%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, Flink assigns unique operator identifiers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T023152Z" creationid="xccui" creationdate="20190609T220319Z">
@@ -32528,6 +32536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040616Z" creationid="xccui" creationdate="20190724T040616Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the aggregation is performed by the ReduceFunction, the ProcessWindowFunction only needs to append the window end timestamp to the incrementally computed result as shown in Example 6-14.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045016Z" creationid="xccui" creationdate="20190625T045016Z">
@@ -35498,8 +35514,8 @@
       <tuv lang="EN-US">
         <seg>The amount of memory assigned for network buffers is configured with the taskman ager.network.memory.fraction key, which determines the fraction of the JVM size allocated for network buffers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040358Z" creationid="xccui" creationdate="20190724T040358Z">
-        <seg>设置内存分配量的配置项是taskmanager.network.memory.fraction，它的值决定了JVM为网络缓冲区分配的内存比例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040642Z" creationid="xccui" creationdate="20190724T040358Z">
+        <seg>设置内存分配量的配置项是taskmanager.network.memory.fraction，它的值决定了JVM为网络缓冲区分配的内存比例，</seg>
       </tuv>
     </tu>
     <tu>
@@ -46925,6 +46941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T204046Z" creationid="xccui" creationdate="20190606T204046Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>buffers are allocated as off-heap memory, the JVM heap is reduced by that amount.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T040613Z" creationid="xccui" creationdate="20190724T040613Z">
+        <seg>由于分配后会以堆外内存的方式使用，所以JVM堆内存会有相应的减少。</seg>
       </tuv>
     </tu>
     <tu>
