@@ -14911,6 +14911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure Temporary Directories Are Not Automatically Cleaned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043056Z" creationid="xccui" creationdate="20190724T043056Z">
+        <seg>请确保临时目录不会被自动清除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensuring low latency is critical for many streaming applications, such as fraud detec&lt;t0/&gt;‐&lt;t1/&gt; tion, raising alarms, network monitoring, and offering services with strict service level agreements (SLAs).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T191615Z" creationid="xccui" creationdate="20190401T191318Z">
@@ -21667,6 +21675,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T191638Z" creationid="xccui" creationdate="20190711T191141Z">
         <seg>但这些文件不会被自动清理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, these paths can also be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043036Z" creationid="xccui" creationdate="20190724T042932Z">
+        <seg>但这些组件各自的路径也可以分别设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32880,6 +32896,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some Linux distribution periodically clean the temporary direc‐ tory /tmp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043123Z" creationid="xccui" creationdate="20190724T043123Z">
+        <seg>部分Linux发行版会定期清理/tmp临时目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some applications also leverage Flink’s domain-specific libraries, such as the Table API, SQL, or the CEP library.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035212Z" creationid="xccui" creationdate="20190619T035212Z">
@@ -37306,8 +37330,8 @@
       <tuv lang="EN-US">
         <seg>The io.tmp.dirs parameter is used as the default value for the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042920Z" creationid="xccui" creationdate="20190724T042920Z">
-        <seg>io.tmp.dirs参数值路径会用于Flink大多数有本地存储需求的组件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043024Z" creationid="xccui" creationdate="20190724T042920Z">
+        <seg>io.tmp.dirs参数值路径会默认用于Flink大多数有本地存储需求的组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49249,6 +49273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>individually configured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043038Z" creationid="xccui" creationdate="20190724T043038Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>information between multiple windows on the same key.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T024913Z" creationid="xccui" creationdate="20190624T024913Z">
@@ -49693,6 +49725,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214524Z" creationid="xccui" creationdate="20190716T214410Z">
         <seg>最后，你学习了Flink的AsyncFunction，它可以通过异步处理请求显著提高与外界系统交互的性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>local storage path of most components of Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042923Z" creationid="xccui" creationdate="20190724T042923Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
