@@ -12887,6 +12887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configurations with a single slot per TaskManager have better resource isolation and can prevent a misbehaving application from interfering with unrelated applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034828Z" creationid="xccui" creationdate="20190724T034828Z">
+        <seg>如果将每个TaskManager配置成只有单个处理槽可以更好地隔离资源，防止行为不当的应用对其他无关应用的干扰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuring Checkpointing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T213355Z" creationid="xccui" creationdate="20190225T030042Z">
@@ -18097,8 +18105,8 @@
       <tuv lang="EN-US">
         <seg>Flink does not guarantee or grant heap memory per task or slot.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034600Z" creationid="xccui" creationdate="20190724T034600Z">
-        <seg>Flink无法保证按任务或处理槽分配堆内存。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034643Z" creationid="xccui" creationdate="20190724T034600Z">
+        <seg>Flink无法实现按任务或处理槽分配堆内存。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22579,6 +22587,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060205Z" creationid="xccui" creationdate="20190721T053353Z">
         <seg>如果你使用的是Hadoop YARN 2.6或之后的版本，Flink会自动配置尝试失败的有效时间间隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you run applications with many dependencies, the JVM’s nonheap memory can also grow significantly because it stores all TaskManager and user-code classes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034954Z" creationid="xccui" creationdate="20190724T034954Z">
+        <seg>如果你运行的应用有很多依赖，则JVM的堆外内存也会增长比较严重，因为它需要存储所有TaskManager和用户代码类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50195,8 +50211,8 @@
       <tuv lang="EN-US">
         <seg>of an application that uses the in-memory or filesystem state backend is also stored on the JVM. Note that a single task can potentially consume the whole heap memory of the JVM that it is running on.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034418Z" creationid="xccui" creationdate="20190724T034418Z">
-        <seg>应用中基于内存或文件系统后端的状态同样会存到JVM中。注意，单个任务可能会耗尽其所在JVM的所有内存。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034603Z" creationid="xccui" creationdate="20190724T034418Z">
+        <seg>应用中基于内存或文件系统后端的状态同样会存到JVM中。注意，单个任务可能会耗尽其所在JVM的所有内存，</seg>
       </tuv>
     </tu>
     <tu>
