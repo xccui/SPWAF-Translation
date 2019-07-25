@@ -10598,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043128Z" creationid="xccui" creationdate="20190725T043128Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applications are usually connected to external services or face human users and con‐ tinuously process incoming events such as orders, email, or clicks on a website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T052224Z" creationid="esouser" creationdate="20190603T195414Z">
@@ -12339,6 +12347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T191706Z" creationid="xccui" creationdate="20190225T191706Z">
         <seg>第1章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043126Z" creationid="xccui" creationdate="20190725T043126Z">
+        <seg>第10章</seg>
       </tuv>
     </tu>
     <tu>
@@ -30190,6 +30206,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Operating Flink and Streaming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043122Z" creationid="xccui" creationdate="20190725T043122Z">
+        <seg>操纵Flink和流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>TODO</note>
       <tuv lang="EN-US">
         <seg>Operating Flink and Streaming Applications.</seg>
@@ -34052,6 +34076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T062410Z" creationid="xccui" creationdate="20190609T062410Z">
         <seg>拥有两个状态化数据源、两个状态化任务以及两个无状态数据汇的流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Streaming applications are long-running and their workloads are often unpredicta‐ ble.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043644Z" creationid="xccui" creationdate="20190725T043644Z">
+        <seg>流式应用通常都需要长时间运行，这就导致了它的工作负载往往难以预测。</seg>
       </tuv>
     </tu>
     <tu>
