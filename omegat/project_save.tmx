@@ -14919,6 +14919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Encryption and authentication for communication to queryable state is not sup‐ ported yet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T035813Z" creationid="xccui" creationdate="20190725T035813Z">
+        <seg>Flini暂不支持对于可查询式状态通信进行加密和身份验证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End- to-end guarantees refer to result correctness across the whole data processing pipe‐ line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035307Z" creationid="xccui" creationdate="20190606T035307Z">
@@ -38620,6 +38628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T040303Z" creationid="xccui" creationdate="20190619T035840Z">
         <seg>之所以这么做是为了保持默认依赖的简洁性，4 因为大多数连接器或库还需要依赖其他库，而这些库通常又会级联引用更多的依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reason is that proxy services offer more authentication and configuration options than Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T035641Z" creationid="xccui" creationdate="20190725T035622Z">
+        <seg>其原因在于代理服务和Flink相比，提供了更多的身份验证及配置选项。</seg>
       </tuv>
     </tu>
     <tu>
