@@ -13471,6 +13471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Con‐ sider a scenario where you detect a bug in your deployed application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T044430Z" creationid="xccui" creationdate="20190725T044430Z">
+        <seg>考虑这样一种场景——你在已部署的应用中发现一个Bug。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright 2019 Fabian Hueske and Vasiliki Kalavri, 978-1-491-97429-2.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210826Z" creationid="esouser" creationdate="20190603T210826Z">
@@ -23023,6 +23031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your applica‐ tion is a batch job, you can easily fix the bug offline and then redeploy the new application code once the current job instance finishes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T045340Z" creationid="xccui" creationdate="20190725T045340Z">
+        <seg>如果应用是一个批处理作业，则你可以轻松离线修复Bug然后等当前作业实例结束后部署新的应用代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your function requires a nonserializable object instance, you can either implement it as a rich function and initialize the nonserializ‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055521Z" creationid="xccui" creationdate="20190618T055329Z">
@@ -27121,8 +27137,8 @@
       <tuv lang="EN-US">
         <seg>It is not uncommon for a streaming job to be continuously running for months, so its operational needs are quite different than those of short-lived batch jobs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043830Z" creationid="xccui" creationdate="20190725T043830Z">
-        <seg>流式作业长年累月运行的情况并不少见，因此其运营需求和短期批处理作业大不相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T044306Z" creationid="xccui" creationdate="20190725T043830Z">
+        <seg>流式作业长年累月运行的情况并不少见，因此其运维需求和短期批处理作业大不相同。</seg>
       </tuv>
     </tu>
     <tu>
