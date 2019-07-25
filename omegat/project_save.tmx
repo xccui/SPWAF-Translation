@@ -10400,8 +10400,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink supports Kerberos authentication and can be configured to encrypt all network communication with SSL.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022331Z" creationid="xccui" creationdate="20190725T022331Z">
-        <seg>Apache Flink支持Kerberos验证，可以利用SSL对网络通信进行加密。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022650Z" creationid="xccui" creationdate="20190725T022331Z">
+        <seg>Apache Flink支持Kerberos身份验证，可以利用SSL对网络通信进行加密。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18257,8 +18257,8 @@
       <tuv lang="EN-US">
         <seg>Flink features Kerberos integration with Hadoop and its components (YARN, HDFS, HBase), ZooKeeper, and Kafka.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022534Z" creationid="xccui" creationdate="20190725T022534Z">
-        <seg>它同时支持Kerberos与Hadoop及相关组件（YARN、HDFS、HBase）、ZooKeeper以及Kafka的集成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022700Z" creationid="xccui" creationdate="20190725T022534Z">
+        <seg>它还支持Kerberos与Hadoop及相关组件（YARN、HDFS、HBase）、ZooKeeper以及Kafka的集成，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18891,6 +18891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035413Z" creationid="xccui" creationdate="20190705T022928Z">
         <seg>Flink可以通过为运行的应用生成保存点，停止该应用，重启新版本等三个步骤来实现此类更新。5 然而这种保留状态的应用更新对应用改动也有一些限制——原始应用和新版本应用的检查点必须兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink supports two authentication modes—keytabs and Hadoop delegation tokens.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022808Z" creationid="xccui" creationdate="20190725T022633Z">
+        <seg>Flink支持两种身份验证模式——keytabs和Hadoop委托令牌（delegation token）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27435,6 +27443,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T044002Z" creationid="xccui" creationdate="20190614T044002Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keytabs are the preferred approach because tokens expire after some time, which can cause problems for long-running stream processing appli‐ cations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022943Z" creationid="xccui" creationdate="20190725T022943Z">
+        <seg>其中Keytabs应该是首选方法，因为令牌会在一段时间后过期，这可能会为长时间运行的流处理应用带来问题。</seg>
       </tuv>
     </tu>
     <tu>
