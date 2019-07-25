@@ -9248,8 +9248,8 @@
       <tuv lang="EN-US">
         <seg>All external communication with Flink services—submitting and controlling applica‐ tions and accessing the REST interface—happens over REST/HTTP endpoints.8 You can enable SSL encryption for these connections as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T030729Z" creationid="xccui" creationdate="20190725T030243Z">
-        <seg>所有访问Flink服务的外部通信（提交和控制应用以及访问REST接口）都是通过REST/HTTP端点来进行，8 你同样可以为这些连接启用SSL加密，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T035339Z" creationid="xccui" creationdate="20190725T030243Z">
+        <seg>所有访问Flink服务的外部通信（提交和控制应用以及访问REST接口）都是通过REST/HTTP端点来进行。8 你同样可以为这些连接启用SSL加密或相互验证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21735,6 +21735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the recommended approach is setting up and configuring a dedicated proxy service that controls access to the REST endpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T035551Z" creationid="xccui" creationdate="20190725T035551Z">
+        <seg>但我们建议的方法是搭建和配置专用的代理服务来控制对于REST端点的访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the state of a window that</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034348Z" creationid="xccui" creationdate="20190625T034215Z">
@@ -28665,8 +28673,8 @@
       <tuv lang="EN-US">
         <seg>Mutual authentication can also be enabled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T030745Z" creationid="xccui" creationdate="20190725T030745Z">
-        <seg>或相互验证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T035342Z" creationid="xccui" creationdate="20190725T035342Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
