@@ -10398,6 +10398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink supports Kerberos authentication and can be configured to encrypt all network communication with SSL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022331Z" creationid="xccui" creationdate="20190725T022331Z">
+        <seg>Apache Flink支持Kerberos验证，可以利用SSL对网络通信进行加密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink uses filesystems for various tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031426Z" creationid="xccui" creationdate="20190722T030921Z">
@@ -13787,6 +13795,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T042639Z" creationid="xccui" creationdate="20190605T042639Z">
         <seg>它需要在短时间内处理大批量数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data processing frameworks are sensitive components of a company’s IT infrastruc‐ ture and need to be secured against unauthorized use and access to data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022213Z" creationid="xccui" creationdate="20190725T022213Z">
+        <seg>数据处理框架属于公司IT基础架构中的敏感组件，我们需要保护它们，以防出现未经授权的使用或数据访问。</seg>
       </tuv>
     </tu>
     <tu>
