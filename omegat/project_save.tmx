@@ -25463,6 +25463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter we discussed how Flink is set up in different environments and how to configure HA setups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T041520Z" creationid="xccui" creationdate="20190725T041510Z">
+        <seg>本章我们主要讨论了如何针对不同环境搭建Flink以及如何进行HA设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter we give a high-level introduc&lt;t0/&gt;‐&lt;t1/&gt; tion to Flink’s architecture and describe how Flink addresses the aspects of stream processing that we discussed before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T054045Z" creationid="xccui" creationdate="20190416T053847Z">
@@ -43860,6 +43868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041548Z" creationid="xccui" creationdate="20190629T041449Z">
         <seg>我们解释了如何为流式应用配置时间特征以及如何分配时间戳和水位线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We explained how to enable support for various filesystems and how to integrate them with Hadoop and its components.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T041942Z" creationid="xccui" creationdate="20190725T041942Z">
+        <seg>我们解释了如何支持多种文件系统以及如何与Hadoop及其组件进行集成。</seg>
       </tuv>
     </tu>
     <tu>
