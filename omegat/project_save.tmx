@@ -36584,6 +36584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The documentation also includes how-tos and tips for different environments, such as standalone clusters, Kubernetes, and YARN.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T041443Z" creationid="xccui" creationdate="20190725T041443Z">
+        <seg>文档中还包含了针对不同环境（例如独立集群、Kubernetes和YARN）的方法和小窍门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The earliest offset of each individual partition:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040246Z" creationid="xccui" creationdate="20190709T035343Z">
