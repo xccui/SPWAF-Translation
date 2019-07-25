@@ -17759,6 +17759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, we discussed the most important configuration options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042039Z" creationid="xccui" creationdate="20190725T042039Z">
+        <seg>最后我们讨论了几个重要的配置选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, we explain how Flink’s highly available mode works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T045240Z" creationid="xccui" creationdate="20190606T141208Z">
@@ -25465,8 +25473,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter we discussed how Flink is set up in different environments and how to configure HA setups.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T041520Z" creationid="xccui" creationdate="20190725T041510Z">
-        <seg>本章我们主要讨论了如何针对不同环境搭建Flink以及如何进行HA设置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042013Z" creationid="xccui" creationdate="20190725T041510Z">
+        <seg>本章我们首先讨论了如何针对不同环境搭建Flink集群以及如何进行HA设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43632,6 +43640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We did not provide a comprehensive configu‐ ration guide; instead, we refer you to the official documentation of Apache Flink for a complete list and detailed descriptions of all configuration options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042222Z" creationid="xccui" creationdate="20190725T042222Z">
+        <seg>虽然我们没有提供完整的配置指南，但所有内容都可以从Apache Flink官方文档找到，在那里你可以获取完整配置列表以及所有配置项的详细说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We discuss CoProcessFunction in Chapter 6.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045349Z" creationid="xccui" creationdate="20190615T045349Z">
@@ -43874,8 +43890,8 @@
       <tuv lang="EN-US">
         <seg>We explained how to enable support for various filesystems and how to integrate them with Hadoop and its components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T041942Z" creationid="xccui" creationdate="20190725T041942Z">
-        <seg>我们解释了如何支持多种文件系统以及如何与Hadoop及其组件进行集成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042018Z" creationid="xccui" creationdate="20190725T041942Z">
+        <seg>随后我们解释了如何支持多种文件系统以及如何与Hadoop及其组件进行集成。</seg>
       </tuv>
     </tu>
     <tu>
