@@ -30217,8 +30217,8 @@
       <tuv lang="EN-US">
         <seg>Operating Flink and Streaming</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043843Z" creationid="xccui" creationdate="20190725T043122Z">
-        <seg>Flink和流式应用运营</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T044237Z" creationid="xccui" creationdate="20190725T043122Z">
+        <seg>Flink和流式应用运维</seg>
       </tuv>
     </tu>
     <tu>
