@@ -19111,6 +19111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink will do all the hard work so you can easily monitor, operate, and reconfigure your jobs with minimal effort while preserving exactly-once state semantics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T050842Z" creationid="xccui" creationdate="20190725T050842Z">
+        <seg>Flink将替你完成全部棘手的工作，你可以在轻松地监控、操作并重新配置作业的同时享受精确一次状态语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink will exclude stream partitions produced by idle source functions from the watermark computation of subsequent operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T034703Z" creationid="xccui" creationdate="20190607T034613Z">
