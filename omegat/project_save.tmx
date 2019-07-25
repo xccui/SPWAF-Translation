@@ -5238,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>222 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042339Z" creationid="xccui" creationdate="20190725T042339Z">
+        <seg>222 | 第9章：搭建Flink运行零食应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>223</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152140Z" creationid="esouser" creationdate="20190603T152140Z">
@@ -12515,6 +12523,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070234Z" creationid="xccui" creationdate="20190609T211058Z">
         <seg>第10章介绍了如何生成和删除保存点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 10 discusses job submission and the REST interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042321Z" creationid="xccui" creationdate="20190725T042240Z">
+        <seg>第10章将讨论作业提交和REST接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32378,8 +32394,8 @@
       <tuv lang="EN-US">
         <seg>Setting Up Flink for Streaming Applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152129Z" creationid="esouser" creationdate="20190603T152129Z">
-        <seg>配置Flink运行流式应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042400Z" creationid="esouser" creationdate="20190603T152129Z">
+        <seg>搭建Flink运行流式应用</seg>
       </tuv>
     </tu>
     <tu>
