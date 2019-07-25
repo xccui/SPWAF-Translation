@@ -44480,6 +44480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will show you how to collect metrics and monitor your applications and how to preserve result consistency when you want to update application code or adjust the resources of your application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T051224Z" creationid="xccui" creationdate="20190725T051224Z">
+        <seg>我们将向你展示如何收集指标（metrics）和监控应用，以及如何在更新应用代码或调整应用资源时保持结果的一致性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will start by discussing the required software and where you can get the code examples of this book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014744Z" creationid="xccui" creationdate="20190610T040332Z">
