@@ -5302,6 +5302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>230 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042730Z" creationid="xccui" creationdate="20190725T042730Z">
+        <seg>230 | 第9章：搭建Flink运行流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>231</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040244Z" creationid="xccui" creationdate="20190418T040244Z">
@@ -5314,6 +5322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152149Z" creationid="esouser" creationdate="20190603T152149Z">
         <seg>232</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>232 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042741Z" creationid="xccui" creationdate="20190725T042741Z">
+        <seg>232 | 第9章：搭建Flink运行流式应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>238 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042839Z" creationid="xccui" creationdate="20190725T042839Z">
+        <seg>238 | 第9章：搭建Flink运行流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>239</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152259Z" creationid="esouser" creationdate="20190603T152259Z">
@@ -5390,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>240 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042853Z" creationid="xccui" creationdate="20190725T042853Z">
+        <seg>240 | 第9章：搭建Flink运行流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>241</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040252Z" creationid="xccui" creationdate="20190418T040252Z">
@@ -5406,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>242 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042909Z" creationid="xccui" creationdate="20190725T042909Z">
+        <seg>242 | 第9章：搭建Flink运行流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>243</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040304Z" creationid="xccui" creationdate="20190418T040304Z">
@@ -5418,6 +5458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152336Z" creationid="esouser" creationdate="20190603T152336Z">
         <seg>244</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>244 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042922Z" creationid="xccui" creationdate="20190725T042922Z">
+        <seg>244 | 第9章：搭建Flink运行流式应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -14295,6 +14343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deployment Modes | 231</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042737Z" creationid="xccui" creationdate="20190725T042737Z">
+        <seg>部署模式 | 231</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deployments can be scaled up or down.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023506Z" creationid="xccui" creationdate="20190719T023506Z">
@@ -17635,6 +17691,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152252Z" creationid="esouser" creationdate="20190603T152252Z">
         <seg>文件系统配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem Configuration | 237</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042834Z" creationid="xccui" creationdate="20190725T042834Z">
+        <seg>文件系统配置 | 237</seg>
       </tuv>
     </tu>
     <tu>
@@ -21235,6 +21299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152146Z" creationid="esouser" creationdate="20190603T152146Z">
         <seg>高可用性设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highly Available Setups | 233</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042826Z" creationid="xccui" creationdate="20190725T042826Z">
+        <seg>高可用设置 | 233</seg>
       </tuv>
     </tu>
     <tu>
@@ -34284,6 +34356,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025523Z" creationid="xccui" creationdate="20190225T025523Z">
         <seg>系统配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Configuration | 239</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042848Z" creationid="xccui" creationdate="20190725T042848Z">
+        <seg>系统配置 | 239</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Configuration | 241</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042858Z" creationid="xccui" creationdate="20190725T042858Z">
+        <seg>系统配置 | 241</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Configuration | 243</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042914Z" creationid="xccui" creationdate="20190725T042914Z">
+        <seg>系统配置 | 243</seg>
       </tuv>
     </tu>
     <tu>
