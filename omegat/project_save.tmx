@@ -29095,6 +29095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the credentials are tied to a Flink cluster and not to a running job;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023050Z" creationid="xccui" creationdate="20190725T023050Z">
+        <seg>注意，授权证书是和Flink集群绑定的，而非某个运行的作业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the keys of both streams should</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151936Z" creationid="xccui" creationdate="20190615T050826Z">
@@ -31996,6 +32004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210735Z" creationid="esouser" creationdate="20190603T210735Z">
         <seg>See http://oreilly.com/catalog/errata.csp?isbn=9781491974292 for release details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “Configuring Recovery” for details on this feature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023128Z" creationid="xccui" creationdate="20190725T023128Z">
+        <seg>有关该功能的详细信息，请参阅"配置故障恢复"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46829,6 +46845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T183348Z" creationid="xccui" creationdate="20190704T183348Z">
         <seg>例如，当我们在一个KeyedStream上计算聚合时，无论采用的是内置聚合函数（例如min、max、sum、minBy或maxBy）还是自定义的ReduceFunction或AggregateFunction，都会为每个键值保存状态并且永不丢弃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>all applications that run on the same cluster use the same authentication token.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023221Z" creationid="xccui" creationdate="20190725T023221Z">
+        <seg>在同一集群上运行的所有应用都会使用相同的验证令牌。.</seg>
       </tuv>
     </tu>
     <tu>
