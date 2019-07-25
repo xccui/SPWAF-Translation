@@ -25727,6 +25727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter, we present the tools Flink offers for operating and maintaining continuously running streaming applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T051116Z" creationid="xccui" creationdate="20190725T051116Z">
+        <seg>本章我们将介绍Flink所提供的、用于持续运行流式应用的运维工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter, we will cover DataStream API methods for time handling and time- based operators, like windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T050036Z" creationid="xccui" creationdate="20190619T050036Z">
