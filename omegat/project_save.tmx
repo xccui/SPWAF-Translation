@@ -9246,6 +9246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All external communication with Flink services—submitting and controlling applica‐ tions and accessing the REST interface—happens over REST/HTTP endpoints.8 You can enable SSL encryption for these connections as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T030243Z" creationid="xccui" creationdate="20190725T030243Z">
+        <seg>所有访问Flink服务的外部通信（提交和控制应用以及访问REST接口）都是通过REST/HTTP端点来进行，8 你同样可以为它们启用SSL加密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All fields are public or accessible through getters and setters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T043446Z" creationid="xccui" creationdate="20190617T043446Z">
@@ -36100,6 +36108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050145Z" creationid="xccui" creationdate="20190617T050145Z">
         <seg>Flink类型系统的核心类是TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The certificate acts as a shared secret and can be embedded into containers or attached to a YARN setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T024629Z" creationid="xccui" creationdate="20190725T024629Z">
+        <seg>证书的作用相当于密钥，可以嵌入到容器里或附加到YARN的设置上。</seg>
       </tuv>
     </tu>
     <tu>
