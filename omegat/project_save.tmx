@@ -9694,6 +9694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amazon S3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042940Z" creationid="xccui" creationdate="20190725T042940Z">
+        <seg>Amazon S3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Among other APIs, Cassandra fea‐ tures the Cassandra Query Language (CQL), a SQL-like language to read and write records and create, modify, and delete database objects, such as keyspaces and tables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T201429Z" creationid="xccui" creationdate="20190711T201429Z">
