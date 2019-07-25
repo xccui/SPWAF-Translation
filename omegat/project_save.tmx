@@ -27119,6 +27119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not uncommon for a streaming job to be continuously running for months, so its operational needs are quite different than those of short-lived batch jobs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043830Z" creationid="xccui" creationdate="20190725T043830Z">
+        <seg>流式作业长年累月运行的情况并不少见，因此其运营需求和短期批处理作业大不相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is often necessary to fix a bug or to evolve the business logic of a long-running stateful streaming application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T214053Z" creationid="xccui" creationdate="20190704T214053Z">
@@ -30209,8 +30217,8 @@
       <tuv lang="EN-US">
         <seg>Operating Flink and Streaming</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043122Z" creationid="xccui" creationdate="20190725T043122Z">
-        <seg>操纵Flink和流式应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043843Z" creationid="xccui" creationdate="20190725T043122Z">
+        <seg>Flink和流式应用运营</seg>
       </tuv>
     </tu>
     <tu>
