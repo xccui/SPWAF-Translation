@@ -5240,8 +5240,8 @@
       <tuv lang="EN-US">
         <seg>222 | Chapter 9: Setting Up Flink for Streaming Applications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042339Z" creationid="xccui" creationdate="20190725T042339Z">
-        <seg>222 | 第9章：搭建Flink运行零食应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042707Z" creationid="xccui" creationdate="20190725T042339Z">
+        <seg>222 | 第9章：搭建Flink运行流式应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -14283,6 +14283,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025408Z" creationid="xccui" creationdate="20190225T025402Z">
         <seg>部署模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deployment Modes | 223</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042717Z" creationid="xccui" creationdate="20190725T042717Z">
+        <seg>部署模式 | 223</seg>
       </tuv>
     </tu>
     <tu>
