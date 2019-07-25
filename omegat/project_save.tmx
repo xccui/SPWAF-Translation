@@ -12071,6 +12071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, SSL authentication and encryption is not enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T040015Z" creationid="xccui" creationdate="20190725T040015Z">
+        <seg>SSL验证和加密在默认情况下都处于关闭状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, StreamingFileSink uses a DefaultRollingPolicy, which is configured to roll part files when they exceed 128 MB or are older than 60 seconds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T022546Z" creationid="xccui" creationdate="20190711T021952Z">
@@ -32900,6 +32908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070034Z" creationid="xccui" creationdate="20190609T205625Z">
         <seg>检查点的目的是保证应用可以在出现故障的时候顺利重启，因此当应用被手动停止后，检查点也会随之删除。4 但应用状态的一致性快照除了故障恢复外，还有很多其他用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the setup requires several steps, such as generating certificates, setting up TrustStores and KeyStores, and configuring cipher suites, we refer you to the official Flink documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T040938Z" creationid="xccui" creationdate="20190725T040938Z">
+        <seg>由于启用步骤较为繁琐（需要生成证书，设置TrustStores和KeyStores，并配置密码套件等），我们建议你查阅Flink官方文档。</seg>
       </tuv>
     </tu>
     <tu>
