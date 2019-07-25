@@ -21399,6 +21399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do you apply a reconfiguration with low effort while guaranteeing correctness?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T045605Z" creationid="xccui" creationdate="20190725T045605Z">
+        <seg>如何在保证正确的同时以低成本应用新的配置？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How exactly the state is stored, accessed, and maintained is determined by a pluggable component</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061553Z" creationid="xccui" creationdate="20190608T051306Z">
@@ -22899,6 +22907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T205517Z" creationid="xccui" creationdate="20190401T205243Z">
         <seg>如果你是早晨咖啡店开门后第一个顾客，将立即得到服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are using Flink, you have nothing to worry about.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T045826Z" creationid="xccui" creationdate="20190725T045826Z">
+        <seg>如果你用了Flink那一切都无需担心。</seg>
       </tuv>
     </tu>
     <tu>
