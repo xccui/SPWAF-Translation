@@ -13303,6 +13303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consult the Flink documentation for detailed instructions on enabling and configuring Kerberos authentication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023402Z" creationid="xccui" creationdate="20190725T023402Z">
+        <seg>有关启用和配置Kerberos身份验证的详细说明，请参阅Flink文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consult the Kafka documentation for additional configuration properties.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T020145Z" creationid="xccui" creationdate="20190709T020145Z">
@@ -18879,6 +18887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink supports mutual authentication of communication partners and encryption of network communication with SSL for internal and external communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023545Z" creationid="xccui" creationdate="20190725T023545Z">
+        <seg>Flink支持通信伙伴之间的身份验证，还允许对内部或外部的网络通信进行SSL加密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink supports several special-purpose types, such as primitive and object Array types; Java’s ArrayList, HashMap, and Enum types; and Hadoop Writable types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T045914Z" creationid="xccui" creationdate="20190617T045914Z">
@@ -22771,6 +22787,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043657Z" creationid="xccui" creationdate="20190713T043037Z">
         <seg>你如果了解了Flink的水位线传播和更新原理就会发现，一旦应用中引入了Shuffle操作（keyBy()和rebalance()等），那么单个算子水位线的停滞就将导致整个应用都停止工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you need to work with different credentials, you should start a new cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023330Z" creationid="xccui" creationdate="20190725T023330Z">
+        <seg>如果你需要使用不同的证书，请启动一个新的集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29097,8 +29121,8 @@
       <tuv lang="EN-US">
         <seg>Note that the credentials are tied to a Flink cluster and not to a running job;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023050Z" creationid="xccui" creationdate="20190725T023050Z">
-        <seg>注意，授权证书是和Flink集群绑定的，而非某个运行的作业。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023228Z" creationid="xccui" creationdate="20190725T023050Z">
+        <seg>注意，授权证书是和Flink集群绑定的，而非某个运行的作业；</seg>
       </tuv>
     </tu>
     <tu>
@@ -46851,8 +46875,8 @@
       <tuv lang="EN-US">
         <seg>all applications that run on the same cluster use the same authentication token.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023221Z" creationid="xccui" creationdate="20190725T023221Z">
-        <seg>在同一集群上运行的所有应用都会使用相同的验证令牌。.</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023240Z" creationid="xccui" creationdate="20190725T023221Z">
+        <seg>在同一集群上运行的所有应用都会使用相同的验证令牌。</seg>
       </tuv>
     </tu>
     <tu>
