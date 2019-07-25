@@ -18255,6 +18255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink features Kerberos integration with Hadoop and its components (YARN, HDFS, HBase), ZooKeeper, and Kafka.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022534Z" creationid="xccui" creationdate="20190725T022534Z">
+        <seg>它同时支持Kerberos与Hadoop及相关组件（YARN、HDFS、HBase）、ZooKeeper以及Kafka的集成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink features an optimization technique called task chaining that reduces the over‐ head of local communication under certain conditions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200205Z" creationid="xccui" creationdate="20190606T203214Z">
@@ -46085,6 +46093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201525Z" creationid="xccui" creationdate="20190605T124408Z">
         <seg>取消的方式是在Web UI中选定作业，然后点击页面上方的Cancel按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can enable and configure the Kerberos support for each service separately.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022601Z" creationid="xccui" creationdate="20190725T022601Z">
+        <seg>你可以单独为每个服务启用和配置Kerberos。</seg>
       </tuv>
     </tu>
     <tu>
