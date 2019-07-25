@@ -20007,6 +20007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For internal communication (RPC calls, data transfer, and blob service communication to distribute libraries or other artifacts) all Flink processes (Dispatcher, ResourceMan‐ ager, JobManager, and TaskManager) perform mutual authentication— senders and receivers validate each other via an SSL certificate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T024315Z" creationid="xccui" creationdate="20190725T024315Z">
+        <seg>对于内部通信（RPC调用，数据传输，用以分发类库或其他工件（Artifact）的Blob服务通信），所有Flink进程（Dispatcher，ResourceManager，JobManager及TaskManager）都会相互验证身份——发送者和接受者会通过SSL证书完成验证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For larger setups, you need to tune the configuration as described in &lt;t2/&gt;Chapter 9&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190504T045859Z" creationid="xccui" creationdate="20190504T045853Z">
