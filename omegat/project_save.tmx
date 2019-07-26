@@ -11583,6 +11583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because the paths in the metadata file are absolute, moving a savepoint to a different path will render it unusable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020421Z" creationid="xccui" creationdate="20190726T020421Z">
+        <seg>由于元数据文件中存储的是绝对路径，所以将保存点移动到其他路径会使其失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because this strategy replicates data and involves network communication, it is fairly expensive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233449Z" creationid="xccui" creationdate="20190401T135000Z">
