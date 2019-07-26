@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-m flag:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032201Z" creationid="xccui" creationdate="20190726T032201Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-p 8081:8081 flink:1.7 jobmanager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032427Z" creationid="xccui" creationdate="20190718T032427Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030909Z" creationid="xccui" creationdate="20190726T030909Z">
         <seg>./bin/flink run -d ~/myApp.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>./bin/flink run -m myMasterHost:9876 ~/myApp.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032205Z" creationid="xccui" creationdate="20190726T032205Z">
+        <seg>./bin/flink run -m myMasterHost:9876 ~/myApp.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -29687,6 +29703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the state of an application will be empty if you start it for the first time or do not provide a savepoint or checkpoint to initial‐ ize the state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032443Z" creationid="xccui" creationdate="20190726T032443Z">
+        <seg>注意，如果你是第一次启动应用，或没有提供保存点（检查点）来初始化状态，那么应用的状态将为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the trigger uses custom state, which is cleaned up using the clear() method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201046Z" creationid="xccui" creationdate="20190626T201046Z">
@@ -41360,6 +41384,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This command submits the application to the master that runs on host myMasterHost</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032318Z" creationid="xccui" creationdate="20190726T032318Z">
+        <seg>上述命令会将应用提交到myMasterHost主机、9876端口上的主进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This conversion is based on the data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T050222Z" creationid="xccui" creationdate="20190705T050131Z">
@@ -48004,6 +48036,14 @@
         <seg>asynchronously.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T214540Z" creationid="xccui" creationdate="20190716T214540Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>at port 9876.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032322Z" creationid="xccui" creationdate="20190726T032322Z">
         <seg></seg>
       </tuv>
     </tu>
