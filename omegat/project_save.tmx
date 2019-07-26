@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># Path of a particular savepoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020544Z" creationid="xccui" creationdate="20190726T020508Z">
+        <seg># 某一具体保存点的路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># RECOMMENDED: set the base path for all Flink clusters in ZooKeeper.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T205006Z" creationid="xccui" creationdate="20190720T204920Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052826Z" creationid="xccui" creationdate="20190721T052826Z">
         <seg># 应用最多重启3次（包括首次启动）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Savepoint root path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020445Z" creationid="xccui" creationdate="20190726T020445Z">
+        <seg># 保存点根路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -3970,6 +3986,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064228Z" creationid="xccui" creationdate="20190715T064228Z">
         <seg>// 利用WAL将传感器读数写入标准输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/savepoints/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020448Z" creationid="xccui" creationdate="20190726T020448Z">
+        <seg>/savepoints/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/savepoints/savepoint-:shortjobid-:savepointid/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020546Z" creationid="xccui" creationdate="20190726T020546Z">
+        <seg>/savepoints/savepoint-:shortjobid-:savepointid/</seg>
       </tuv>
     </tu>
     <tu>
@@ -21339,6 +21371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070614Z" creationid="xccui" creationdate="20190616T070438Z">
         <seg>下面的示例处理一条Long值组成的数据流，对每个元素加一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here is the structure of a savepoint:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020437Z" creationid="xccui" creationdate="20190726T020437Z">
+        <seg>以下展示了保存点的目录结构：</seg>
       </tuv>
     </tu>
     <tu>
