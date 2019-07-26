@@ -4022,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/savepoints/savepoint-:shortjobid-:savepointid/:xxx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021254Z" creationid="xccui" creationdate="20190726T021254Z">
+        <seg>/savepoints/savepoint-:shortjobid-:savepointid/:xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/savepoints/savepoint-:shortjobid-:savepointid/_metadata</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020643Z" creationid="xccui" creationdate="20190726T020643Z">
@@ -19415,6 +19423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s command-line client provides the functionality to start, stop, and manage Flink applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021401Z" creationid="xccui" creationdate="20190726T021401Z">
+        <seg>Flink命令行客户端支持启动、停止和管理Flink应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s connector for HDFS is always in the classpath of Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T042126Z" creationid="xccui" creationdate="20190722T042028Z">
@@ -27427,6 +27443,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050322Z" creationid="xccui" creationdate="20190617T050322Z">
         <seg>它为系统生成序列化器和比较器提供了必要的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It reads its configuration from the ./conf/flink-conf.yaml file (see “System Configuration”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021452Z" creationid="xccui" creationdate="20190726T021452Z">
+        <seg>它从./conf/flink-conf.yaml文件中（见"系统配置"一节）读取配置。</seg>
       </tuv>
     </tu>
     <tu>
