@@ -26791,6 +26791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be accessed by users and scripts and provides access to all system and application metrics as well as endpoints to submit and manage appli‐ cations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T013818Z" creationid="xccui" creationdate="20190726T013818Z">
+        <seg>它可以通过用户或脚本访问，还可用于获取所有系统和应用指标以及作为提交和管理应用的端点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be configured to preserve the order of records (requests might</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T193552Z" creationid="xccui" creationdate="20190716T192600Z">
@@ -35796,6 +35804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T201531Z" creationid="xccui" creationdate="20190705T201531Z">
         <seg>QueryableStateServer用于处理客户端代理的请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The REST API is the underlying interface that is used by the command-line cli‐ ent and Web UI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T012401Z" creationid="xccui" creationdate="20190726T012401Z">
+        <seg>一套用于命令行客户端和Web UI的底层REST API。</seg>
       </tuv>
     </tu>
     <tu>
