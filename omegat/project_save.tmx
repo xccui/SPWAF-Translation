@@ -19887,6 +19887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a Kafka source needs to choose the partition offsets from which it consumes a topic if no restored read positions are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032721Z" creationid="xccui" creationdate="20190726T032721Z">
+        <seg>举例而言，Kafka数据源会在没有可供恢复的读取位置时从它消费的主题中决定分区偏移。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a MapFunction does</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043236Z" creationid="xccui" creationdate="20190621T043236Z">
@@ -25819,6 +25827,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190412T210653Z" creationid="xccui" creationdate="20190412T210653Z">
         <seg>该情况下，延迟事件可能会在水位线之后到来，我们必须额外加一些代码来处理它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, some stateful operators run special logic to initialize their state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032536Z" creationid="xccui" creationdate="20190726T032536Z">
+        <seg>在该情况下，部分状态化算子会运行一些特殊逻辑来对状态进行初始化。</seg>
       </tuv>
     </tu>
     <tu>
