@@ -23247,6 +23247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you explic‐ itly specify a savepoint path, it is stored in the provided directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033505Z" creationid="xccui" creationdate="20190726T033505Z">
+        <seg>如果你显式指定了保存点路径，它就会存到你所提供的目录中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at permissions@oreilly.com.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210827Z" creationid="esouser" creationdate="20190603T210827Z">
@@ -31004,6 +31012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045422Z" creationid="xccui" creationdate="20190612T045422Z">
         <seg>否则会返回一个本地环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, the default savepoint directory as configured in the flink-conf.yaml file is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033545Z" creationid="xccui" creationdate="20190726T033545Z">
+        <seg>否则，Flink会使用flink-conf.yaml文件中配置的默认保存点路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42996,6 +43012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T045708Z" creationid="xccui" creationdate="20190612T043456Z">
         <seg>构建一个典型的Flink流式应用需要以下几步：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To trigger a savepoint for the job bc0b2ad61ecd4a615d92ce25390f61ad and store it in the directory hdfs:///xxx:50070/savepoints, we call the command-line client:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033839Z" creationid="xccui" creationdate="20190726T033839Z">
+        <seg>我们可以像下面那样调用命令行客户端来为作业bc0b2ad61ecd4a615d92ce25390f61ad生成一次保存点，并将其存储到hdfs:///xxx:50070/savepoints目录中：</seg>
       </tuv>
     </tu>
     <tu>
