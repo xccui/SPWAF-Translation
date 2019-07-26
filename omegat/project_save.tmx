@@ -13007,6 +13007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command-Line Client on Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021654Z" creationid="xccui" creationdate="20190726T021654Z">
+        <seg>Windows系统中的命令行客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Committing a transaction must be an idempotent operation—the sink or exter‐ nal system should be able to notice that a transaction was already committed or a repeated commit must have no effect.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T031447Z" creationid="xccui" creationdate="20190716T031447Z">
@@ -27449,8 +27457,8 @@
       <tuv lang="EN-US">
         <seg>It reads its configuration from the ./conf/flink-conf.yaml file (see “System Configuration”).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021452Z" creationid="xccui" creationdate="20190726T021452Z">
-        <seg>它从./conf/flink-conf.yaml文件中（见"系统配置"一节）读取配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021549Z" creationid="xccui" creationdate="20190726T021452Z">
+        <seg>它会从./conf/flink-conf.yaml文件中（见"系统配置"一节）读取配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35136,6 +35144,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ./bin/ flink.bat script for the Windows command line provides only very limited functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021808Z" creationid="xccui" creationdate="20190726T021808Z">
+        <seg>针对Windows系统的./bin/flink.bat脚本功能有限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ./bin/start-cluster.sh script starts a master process on the local machine and one or more TaskManagers on the local or remote machines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195037Z" creationid="xccui" creationdate="20190717T163010Z">
@@ -36796,6 +36812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T012314Z" creationid="xccui" creationdate="20190726T012314Z">
         <seg>一个用于提交和控制应用的命令行客户端工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The command-line client is based on a bash script.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021717Z" creationid="xccui" creationdate="20190726T021717Z">
+        <seg>命令行客户端是基于Bash脚本完成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40532,6 +40556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183725Z" creationid="xccui" creationdate="20190710T183725Z">
         <seg>因此，我们通常会用它来"连接"流式应用和批处理应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, it does not work with the Windows command line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021735Z" creationid="xccui" creationdate="20190726T021735Z">
+        <seg>因此，它无法在Windows命令行下运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45513,6 +45545,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When run without additional parameters, the client prints a help message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021639Z" creationid="xccui" creationdate="20190726T021639Z">
+        <seg>如果在调用时没有提供额外运行参数，客户端会打印帮助消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When running Flink on Kubernetes with a master deployment and a worker deploy‐ ment as described in “Kubernetes” on page 228, Kubernetes will automatically restart failed containers to ensure the right number of pods is up and running.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061832Z" creationid="xccui" creationdate="20190721T061832Z">
@@ -46669,6 +46709,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041157Z" creationid="xccui" creationdate="20190724T041054Z">
         <seg>你也可以指定一个用于网络缓冲区的最小（taskmanager.network.meamory.min）和最大（taskmanager.network.memory.max）内存量（二者的默认值分别是64MB和1G），从而可以为上述的相对配置加上绝对限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can call it from the root directory of a Flink setup with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021545Z" creationid="xccui" creationdate="20190726T021545Z">
+        <seg>你可以在Flink安装根目录下通过命令./bin/flink来调用它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53548,6 +53596,14 @@
         <seg>the checkpoint interval of a Flink application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T031052Z" creationid="xccui" creationdate="20190710T031052Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the command./bin/flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021553Z" creationid="xccui" creationdate="20190726T021553Z">
         <seg></seg>
       </tuv>
     </tu>
