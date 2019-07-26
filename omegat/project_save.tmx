@@ -662,6 +662,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink savepoint -d &lt;savepointPath&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035128Z" creationid="xccui" creationdate="20190726T035128Z">
+        <seg>./bin/flink savepoint -d &lt;savepointPath&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>./bin/flink savepoint -d \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035201Z" creationid="xccui" creationdate="20190726T035201Z">
+        <seg>./bin/flink savepoint -d \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink savepoint &lt;jobId&gt; [savepointPath]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033255Z" creationid="xccui" creationdate="20190726T033255Z">
@@ -12711,6 +12727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canceling an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035354Z" creationid="xccui" creationdate="20190726T035354Z">
+        <seg>取消应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Case class fields are accessed by name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040708Z" creationid="xccui" creationdate="20190617T040708Z">
@@ -14415,6 +14439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting a Savepoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035217Z" creationid="xccui" creationdate="20190726T035217Z">
+        <seg>删除保存点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depend&lt;t0/&gt;‐&lt;t1/&gt; ing on the application, you might care about &lt;t2/&gt;average&lt;t3/&gt; latency, &lt;t4/&gt;maximum&lt;t5/&gt; latency, or &lt;t6/&gt;percentile &lt;t7/&gt;latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T154750Z" creationid="xccui" creationdate="20190401T154546Z">
@@ -14691,6 +14723,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025610Z" creationid="xccui" creationdate="20190225T025610Z">
         <seg>磁盘存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disposing savepoint 'hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035208Z" creationid="xccui" creationdate="20190726T035208Z">
+        <seg>Disposing savepoint 'hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24975,6 +25015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to remove the savepoint we triggered before, call the command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035159Z" creationid="xccui" creationdate="20190726T035159Z">
+        <seg>为了删除之前生成的保存点，我们可以使用以下命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to run Flink on Windows, you can use a provided bat script or you can use the regular bash scripts on the Windows Subsystem for Linux (WSL) or Cygwin.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214611Z" creationid="xccui" creationdate="20190717T214611Z">
@@ -32484,6 +32532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T043921Z" creationid="xccui" creationdate="20190722T043921Z">
         <seg>S3路径的协议是s3://。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Savepoint 'hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8' disposed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035212Z" creationid="xccui" creationdate="20190726T035212Z">
+        <seg>Savepoint 'hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8' disposed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47537,6 +47593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must not delete a savepoint before another checkpoint or save‐ point is completed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035428Z" creationid="xccui" creationdate="20190726T035347Z">
+        <seg>请不要在另一个检查点或保存点生成过程中删除保存点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to adjust the configuration to successfully run Flink in distributed environ‐ ments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T042456Z" creationid="xccui" creationdate="20190723T042456Z">
@@ -50237,6 +50301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033847Z" creationid="xccui" creationdate="20190726T033847Z">
         <seg>hdfs:///xxx:50070/savepoints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035205Z" creationid="xccui" creationdate="20190726T035205Z">
+        <seg>hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8</seg>
       </tuv>
     </tu>
     <tu>
