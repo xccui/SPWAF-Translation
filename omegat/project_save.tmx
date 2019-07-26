@@ -23023,6 +23023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are a Windows user, we recommend using the regular command-line client and running it on WSL or Cygwin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025112Z" creationid="xccui" creationdate="20190726T025112Z">
+        <seg>如果你是一名Windows用户，我们建议你在WSL或Cygwin下使用常规命令行客户端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are familiar with batch data processing APIs, functional programming languages, or SQL you will find the API concepts very easy to grasp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T024103Z" creationid="xccui" creationdate="20190613T024059Z">
