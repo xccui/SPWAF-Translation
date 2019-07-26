@@ -26015,6 +26015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we explain the practical aspects of savepoints and discuss how to start, stop, pause and resume, scale, and upgrade stateful streaming applications using Flink’s command-line client and Flink’s REST API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014322Z" creationid="xccui" creationdate="20190726T014322Z">
+        <seg>本节我们将解释保存点的实际应用场景，并讨论如何使用Flink命令行客户端和REST API来完成对于状态化流式应用的启动、停止、暂停、恢复、扩缩容和升级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we introduce time semantics and describe the different notions of time in streaming.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T152542Z" creationid="xccui" creationdate="20190409T205917Z">
@@ -26767,6 +26775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also offers basic functionality to submit and manage applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014043Z" creationid="xccui" creationdate="20190726T014043Z">
+        <seg>它同时提供了基本的应用提交和管理功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also shows how to use Flink’s queryable state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T162155Z" creationid="esouser" creationdate="20190603T162155Z">
@@ -26793,8 +26809,8 @@
       <tuv lang="EN-US">
         <seg>It can be accessed by users and scripts and provides access to all system and application metrics as well as endpoints to submit and manage appli‐ cations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T013818Z" creationid="xccui" creationdate="20190726T013818Z">
-        <seg>它可以通过用户或脚本访问，还可用于获取所有系统和应用指标以及作为提交和管理应用的端点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T013909Z" creationid="xccui" creationdate="20190726T013818Z">
+        <seg>它可以由用户或脚本访问，还可用于获取所有系统和应用指标以及作为提交和管理应用的端点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36052,6 +36068,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042240Z" creationid="xccui" creationdate="20190718T042240Z">
         <seg>Web UI可用来上传应用JAR包并运行应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Web UI is a web interface that provides details and metrics about a Flink cluster and running applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014020Z" creationid="xccui" creationdate="20190726T014020Z">
+        <seg>一个用于提供有关Flink集群和当前运行应用详细信息及指标的Web UI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Web UI is described in “Flink Web UI”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014113Z" creationid="xccui" creationdate="20190726T014113Z">
+        <seg>有关Web UI的信息请参照"Flink Web UI"一节。</seg>
       </tuv>
     </tu>
     <tu>
