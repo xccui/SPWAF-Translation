@@ -7912,8 +7912,8 @@
       <tuv lang="EN-US">
         <seg>A failure recovery would fail if Flink attempted to recover from a savepoint that was removed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181849Z" creationid="xccui" creationdate="20190726T181849Z">
-        <seg>如果Flink尝试从一个已经删除的保存点恢复，则故障恢复过程将会失败。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T182024Z" creationid="xccui" creationdate="20190726T181849Z">
+        <seg>如果恢复的目标保存点已经删除，则故障恢复过程将会失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9970,6 +9970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T062315Z" creationid="xccui" creationdate="20190604T062308Z">
         <seg>另一个替代方案是使用事件日志系统来分发更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An application can be canceled in two ways: with or without a savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183231Z" creationid="xccui" creationdate="20190726T183231Z">
+        <seg>你可以通过两种方式取消应用：使用或不使用保存点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30337,8 +30345,8 @@
       <tuv lang="EN-US">
         <seg>Once another check‐ point (or savepoint) completes, you can safely remove a savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181939Z" creationid="xccui" creationdate="20190726T181939Z">
-        <seg>在另一个检查点（或保存点）完成后，你就可以安全地删除保存点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T182125Z" creationid="xccui" creationdate="20190726T181939Z">
+        <seg>在当前检查点（或保存点）完成后，你就可以安全地删除旧的保存点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42970,8 +42978,8 @@
       <tuv lang="EN-US">
         <seg>To guarantee exactly-once output, Flink must recover from the latest completed checkpoint or savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181732Z" creationid="xccui" creationdate="20190726T181732Z">
-        <seg>为了确保精确一次地输出，Flink需要从最近一次的检查点或保存点恢复。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181944Z" creationid="xccui" creationdate="20190726T181732Z">
+        <seg>为了确保精确一次输出，Flink需要从最近一次的检查点或保存点恢复。</seg>
       </tuv>
     </tu>
     <tu>
