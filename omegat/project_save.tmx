@@ -37136,6 +37136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default parallelism of an execution environment is overwritten by all settings explicitly specified by the source code of the application—the parallelism that is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031441Z" creationid="xccui" creationdate="20190726T031347Z">
+        <seg>执行环境的默认并行度可以被代码中显式设置的并行度所覆盖，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default parallelism of an operator can be overridden by specifying it explicitly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060553Z" creationid="xccui" creationdate="20190616T060553Z">
@@ -49157,6 +49165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T070302Z" creationid="xccui" creationdate="20190615T070302Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>defined by calling setParallelism() on StreamExecutionEnvironment or on an</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031532Z" creationid="xccui" creationdate="20190726T031424Z">
+        <seg>即通过StreamExecutionEnvironment或算子的setParallelism()方法定义的并行度比默认值优先级更高。</seg>
       </tuv>
     </tu>
     <tu>
