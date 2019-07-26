@@ -574,10 +574,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink run -d ~/myApp.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030909Z" creationid="xccui" creationdate="20190726T030909Z">
+        <seg>./bin/flink run -d ~/myApp.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink run -m yarn-cluster ./path/to/job.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012236Z" creationid="xccui" creationdate="20190719T012236Z">
         <seg>./bin/flink run -m yarn-cluster ./path/to/job.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>./bin/flink run -p 16 ~/myApp.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031153Z" creationid="xccui" creationdate="20190726T031153Z">
+        <seg>./bin/flink run -p 16 ~/myApp.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -26575,6 +26591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of waiting for the application to terminate, the client returns and prints the JobID of the submitted job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030953Z" creationid="xccui" creationdate="20190726T030953Z">
+        <seg>此时客户端不会再等应用结束，而会立即返回并打印提交作业的JobID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of waiting to be periodically trig&lt;t0/&gt;‐&lt;t1/&gt; gered, a streaming analytics application continuously ingests streams of events and maintains an updating result by incorporating the latest events with low latency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T062449Z" creationid="xccui" creationdate="20190317T055651Z">
@@ -35768,6 +35792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The JobID is used to specify the job when taking a save‐ point, canceling, or rescaling an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031120Z" creationid="xccui" creationdate="20190726T031120Z">
+        <seg>我们可以在生成保存点、取消或对应用进行扩缩容时使用JobID来指定作业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The JobManager can then assign tasks to the slots to execute them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T061320Z" creationid="xccui" creationdate="20190606T142633Z">
@@ -36332,6 +36364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033551Z" creationid="xccui" creationdate="20190626T033551Z">
         <seg>WindowAssigner会返回零个、一个或多个窗口对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The above command sets the default parallelism of the execution environment to 16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031213Z" creationid="xccui" creationdate="20190726T031213Z">
+        <seg>上述命令会把执行环境的默认并行度设置为16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46993,6 +47033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can specify the default parallelism of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031148Z" creationid="xccui" creationdate="20190726T031128Z">
+        <seg>你可以利用-p参数指定某个应用的默认并行度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can start a different but compatible application from a savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212000Z" creationid="xccui" creationdate="20190609T212000Z">
@@ -47644,6 +47692,14 @@
         <seg>an OutOfMemoryError.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T222743Z" creationid="xccui" creationdate="20190703T222743Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an application with the -p flag:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031150Z" creationid="xccui" creationdate="20190726T031150Z">
         <seg></seg>
       </tuv>
     </tu>
