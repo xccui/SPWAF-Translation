@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink savepoint bc0b2ad61ecd4a615d92ce25390f61ad \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033842Z" creationid="xccui" creationdate="20190726T033842Z">
+        <seg>./bin/flink savepoint bc0b2ad61ecd4a615d92ce25390f61ad \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.&lt;t0/&gt; &lt;t1/&gt;ix 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035437Z" creationid="xccui" creationdate="20190418T035437Z">
@@ -43312,6 +43320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Triggering savepoint for job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033855Z" creationid="xccui" creationdate="20190726T033855Z">
+        <seg>Triggering savepoint for job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Triggers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T213643Z" creationid="xccui" creationdate="20190625T213643Z">
@@ -44036,6 +44052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223921Z" creationid="xccui" creationdate="20190608T223647Z">
         <seg>等待已经流入系统的数据被完全处理，即所有任务已经处理完所有的输入数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for response...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033900Z" creationid="xccui" creationdate="20190726T033900Z">
+        <seg>Waiting for response...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50157,6 +50181,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190622T031158Z">
         <seg>在被调用时都会传入一个Context对象，可用于访问当前元素或计时器时间戳，TimerService，以及副输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hdfs:///xxx:50070/savepoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033847Z" creationid="xccui" creationdate="20190726T033847Z">
+        <seg>hdfs:///xxx:50070/savepoints</seg>
       </tuv>
     </tu>
     <tu>
