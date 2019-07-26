@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink run ~/myApp.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025246Z" creationid="xccui" creationdate="20190726T025246Z">
+        <seg>./bin/flink run ~/myApp.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.&lt;t0/&gt; &lt;t1/&gt;ix 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035437Z" creationid="xccui" creationdate="20190418T035437Z">
@@ -36312,6 +36320,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The above command starts the application from the main() method of the class that is referenced in the program-class property of the JAR file’s META-INF/MANI‐ FEST.MF file without passing any arguments to the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030217Z" creationid="xccui" creationdate="20190726T025302Z">
+        <seg>上述命令会从JAR包中META-INF/MANIFEST.MF文件内program-class属性所引用的main()方法启动应用，但不会向其传递任何参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The accumulator maintains a running sum and count and the getResult() method computes the average value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005407Z" creationid="xccui" creationdate="20190624T005407Z">
@@ -46955,8 +46971,8 @@
       <tuv lang="EN-US">
         <seg>You can start an application with the run command of the command-line client:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025243Z" creationid="xccui" creationdate="20190726T025243Z">
-        <seg>你可以使用命令行客户端的run指令来启动应用：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025335Z" creationid="xccui" creationdate="20190726T025243Z">
+        <seg>你可以使用命令行客户端的run命令来启动应用：</seg>
       </tuv>
     </tu>
     <tu>
