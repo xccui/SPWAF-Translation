@@ -46611,8 +46611,8 @@
       <tuv lang="EN-US">
         <seg>YARN session in detached mode using the -d flag.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T014628Z" creationid="xccui" creationdate="20190719T014323Z">
-        <seg>你还可以通过添加-d参数来启动一个非连接（detached）模式的YARN会话，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030850Z" creationid="xccui" creationdate="20190719T014323Z">
+        <seg>你还可以通过添加-d参数来启动一个分离（detached）模式的YARN会话，</seg>
       </tuv>
     </tu>
     <tu>
@@ -47021,6 +47021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062610Z" creationid="xccui" creationdate="20190609T212609Z">
         <seg>你可以用不同的并行度启动原应用，从而实现应用的扩缩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can submit an application in detached mode with the -d flag as shown here:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030611Z" creationid="xccui" creationdate="20190726T030611Z">
+        <seg>你可以像下面那样使用-d参数以分离模式提交应用：</seg>
       </tuv>
     </tu>
     <tu>
