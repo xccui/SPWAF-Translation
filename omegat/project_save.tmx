@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink run -c my.app.MainClass ~/myApp.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031653Z" creationid="xccui" creationdate="20190726T031653Z">
+        <seg>./bin/flink run -c my.app.MainClass ~/myApp.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink run -d ~/myApp.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030909Z" creationid="xccui" creationdate="20190726T030909Z">
@@ -12367,6 +12375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the client submits an application to the Flink master specified by the ./conf/flink-conf.yaml file (see the configuration for different setups in “System Configuration”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031820Z" creationid="xccui" creationdate="20190726T031820Z">
+        <seg>默认情况下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the parallelism of all operators of an application is set as the parallelism of the application’s execution environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051647Z" creationid="xccui" creationdate="20190616T051647Z">
@@ -22763,6 +22779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060910Z" creationid="xccui" creationdate="20190614T045513Z">
         <seg>如果键值域（key domain）会持续增长（例如将唯一的事务ID作为键值），则必须对那些不再活跃的键值进行清理，以避免出现内存问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the manifest file of your application JAR file does not specify an entry class, you can specify the class using the -c parameter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031651Z" creationid="xccui" creationdate="20190726T031651Z">
+        <seg>如果应用JAR包的manifest文件没有指定入口类，则你可以使用-c参数指定它：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36836,6 +36860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030304Z" creationid="xccui" creationdate="20190726T030304Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The client will try to start the static main() method of the my.app.MainClass class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031802Z" creationid="xccui" creationdate="20190726T031802Z">
+        <seg>客户端将尝试启动my.app.MainClass类的静态main()方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51669,6 +51701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061103Z" creationid="xccui" creationdate="20190618T061103Z">
         <seg>open()通常用于那些只需进行一次的设置工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>operator has precedence over the default value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031536Z" creationid="xccui" creationdate="20190726T031536Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
