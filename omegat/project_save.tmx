@@ -33848,6 +33848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025115Z" creationid="xccui" creationdate="20190726T025115Z">
+        <seg>启动应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting an application from a savepoint</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213449Z" creationid="xccui" creationdate="20190609T213449Z">
@@ -46941,6 +46949,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T212000Z" creationid="xccui" creationdate="20190609T212000Z">
         <seg>你可以从保存点启动一个不同但相互兼容的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can start an application with the run command of the command-line client:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025243Z" creationid="xccui" creationdate="20190726T025243Z">
+        <seg>你可以使用命令行客户端的run指令来启动应用：</seg>
       </tuv>
     </tu>
     <tu>
