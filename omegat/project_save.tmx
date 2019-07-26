@@ -12377,8 +12377,8 @@
       <tuv lang="EN-US">
         <seg>By default, the client submits an application to the Flink master specified by the ./conf/flink-conf.yaml file (see the configuration for different setups in “System Configuration”).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031820Z" creationid="xccui" creationdate="20190726T031820Z">
-        <seg>默认情况下</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032048Z" creationid="xccui" creationdate="20190726T031820Z">
+        <seg>默认情况下，客户端会将应用提交到./conf/flink-conf.yaml文件中所指定的Flink主进程（有关其他配置请参阅"系统配置"一节）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28315,6 +28315,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034541Z" creationid="xccui" creationdate="20190704T034541Z">
         <seg>如果经常要在列表后面添加元素且列表元素的访问频率很低，那么ListState[X]会比ValueState[List[X]]更有优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Listing running applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031832Z" creationid="xccui" creationdate="20190726T031832Z">
+        <seg>列出正在运行的应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -47117,6 +47125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030611Z" creationid="xccui" creationdate="20190726T030611Z">
         <seg>你可以像下面那样使用-d参数以分离模式提交应用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can submit an application to a specific master process using the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032159Z" creationid="xccui" creationdate="20190726T032159Z">
+        <seg>你可以使用-m参数将应用提交到特定的主进程：</seg>
       </tuv>
     </tu>
     <tu>
