@@ -21471,6 +21471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, Apache Flink has many features to significantly ease the maintenance of streaming applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005910Z" creationid="xccui" creationdate="20190726T005910Z">
+        <seg>但Flink自身提供的很多功能可以极大简化流式应用的维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, Flink currently does not support changing the primitive (or structure) of a state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T044641Z" creationid="xccui" creationdate="20190705T044641Z">
@@ -28819,6 +28827,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053424Z" creationid="xccui" creationdate="20190613T022250Z">
         <seg>大多数函数接口都被设计为SAM（single abstract method 单一抽象方法）形式的，因此可以通过Java 8的Labmda函数实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of these features are based on savepoints.1 Flink exposes the following interfaces to monitor and control its master and worker processes, and applications:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T010049Z" creationid="xccui" creationdate="20190726T010049Z">
+        <seg>这些功能大都基于保存点机制。1 为了对主进程和工作进程以及应用进行监控，Flink暴露了以下接口：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36564,6 +36580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051518Z" creationid="xccui" creationdate="20190707T051354Z">
         <seg>开发人员利用我们在第6章介绍的基于时间的计算以及可伸缩的状态管理，能够实现复杂的流式应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The command-line client is a tool used to submit and control applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T012314Z" creationid="xccui" creationdate="20190726T012314Z">
+        <seg>一个用于提交和控制应用的命令行客户端工具。</seg>
       </tuv>
     </tu>
     <tu>
