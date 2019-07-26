@@ -68,3 +68,4 @@ state descriptor	状态描述符
 key group	键值组
 parallelism	并行度
 public interface	公开接口
+detached mode	分离模式
