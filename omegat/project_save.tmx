@@ -8454,6 +8454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A savepoint is removed with the command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035126Z" creationid="xccui" creationdate="20190726T035120Z">
+        <seg>删除保存点的的命令是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second, job-independent image is used to deploy TaskManager containers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143748Z" creationid="xccui" creationdate="20190606T143748Z">
@@ -31232,6 +31240,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Path: hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T034945Z" creationid="xccui" creationdate="20190726T034945Z">
+        <seg>Path: hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-63cf5d5ccef8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pattern detection or complex event processing (CEP), e.g., for fraud detection in credit card transactions, and</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190315T012134Z" creationid="xccui" creationdate="20190307T151505Z">
@@ -32472,10 +32488,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Savepoint completed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T034942Z" creationid="xccui" creationdate="20190726T034942Z">
+        <seg>Savepoint completed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Savepoints</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144644Z" creationid="xccui" creationdate="20190418T035333Z">
         <seg>保存点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Savepoints can occupy a significant amount of space and are not automatically deleted by Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035034Z" creationid="xccui" creationdate="20190726T035034Z">
+        <seg>保存点可能占用大量空间，且Flink不会自动将其删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47233,6 +47265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can resume your program from this savepoint with the run command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T034958Z" creationid="xccui" creationdate="20190726T034958Z">
+        <seg>You can resume your program from this savepoint with the run command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can set the identifier with the uid() method as shown in Example 7-10.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024110Z" creationid="xccui" creationdate="20190703T023949Z">
@@ -47517,6 +47557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052502Z" creationid="xccui" creationdate="20190721T052451Z">
         <seg>你需要像下面这样在YARN配置文件yarn-site.xml中配置ApplicationMaster的最大重启次数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to manually remove them to free the consumed storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035103Z" creationid="xccui" creationdate="20190726T035103Z">
+        <seg>为了释放存储空间，你需要手工删除它们。</seg>
       </tuv>
     </tu>
     <tu>
