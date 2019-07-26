@@ -23345,8 +23345,8 @@
       <tuv lang="EN-US">
         <seg>If you do not specify a savepointPath, the default savepoint directory as configured in the ./conf/flink-conf.yaml file is used (see “System Configuration”).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183555Z" creationid="xccui" creationdate="20190726T183450Z">
-        <seg>如果你没有指定savepointPath，则系统会使用./conf/flink-conf.yaml文件中配置的默认保存点目录（请参阅"系统配置"一节）：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183605Z" creationid="xccui" creationdate="20190726T183450Z">
+        <seg>如果你没有指定savepointPath，则系统会使用./conf/flink-conf.yaml文件中配置的默认保存点目录（请参阅"系统配置"一节）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37256,6 +37256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183744Z" creationid="xccui" creationdate="20190726T183744Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The command triggers a savepoint for the job with the provided JobID.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033419Z" creationid="xccui" creationdate="20190726T033419Z">
@@ -48497,6 +48505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>bc0b2ad61ecd4a615d92ce25390f61ad and store the savepoint at hdfs:///xxx:50070/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184627Z" creationid="xccui" creationdate="20190726T184627Z">
+        <seg>你可以使用如下命令取消JobID为bc0b2ad61ecd4a615d92ce25390f61ad的应用并在hdfs:///xxx:50070/savepoints位置生成一个保存点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>because the contents of the windows depend on the speed at which the elements arrive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065849Z" creationid="xccui" creationdate="20190619T065849Z">
@@ -50125,6 +50141,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054810Z" creationid="xccui" creationdate="20190620T054810Z">
         <seg>extractedTS: Long): Watermark = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fails if the savepoint folder is neither explicitly specified in the command nor avail‐ able  from  the  configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183741Z" creationid="xccui" creationdate="20190726T183741Z">
+        <seg>如果保存点文件夹既没有在命令中指定，也无法从配置中获取，则命令会失败。</seg>
       </tuv>
     </tu>
     <tu>
