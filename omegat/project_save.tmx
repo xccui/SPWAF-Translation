@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># Binary metadata file of a savepoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020604Z" creationid="xccui" creationdate="20190726T020604Z">
+        <seg># 某一保存点的二进制元数据文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Checkpointed operator states</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021251Z" creationid="xccui" creationdate="20190726T021251Z">
+        <seg># 存储的算子状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># Isolates Flink from other frameworks using the ZooKeeper cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T205022Z" creationid="xccui" creationdate="20190720T204951Z">
@@ -4002,6 +4018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020546Z" creationid="xccui" creationdate="20190726T020546Z">
         <seg>/savepoints/savepoint-:shortjobid-:savepointid/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/savepoints/savepoint-:shortjobid-:savepointid/_metadata</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020643Z" creationid="xccui" creationdate="20190726T020643Z">
+        <seg>/savepoints/savepoint-:shortjobid-:savepointid/_metadata</seg>
       </tuv>
     </tu>
     <tu>
@@ -32404,6 +32428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071938Z" creationid="xccui" creationdate="20190702T071938Z">
         <seg>有关算子列表状态在实例上进行分配的详细信息请参阅第3章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 3 to learn about savepoints and what you can do with them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020639Z" creationid="xccui" creationdate="20190726T020639Z">
+        <seg>有关保存点及其用途请参阅第3章。</seg>
       </tuv>
     </tu>
     <tu>
