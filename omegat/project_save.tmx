@@ -8270,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A savepoint is basically identical to a checkpoint—it is a consistent and complete snapshot of an application’s state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014417Z" creationid="xccui" creationdate="20190726T014417Z">
+        <seg>保存点和检查点基本相同，二者都是应用状态的一致性完整快照。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second, job-independent image is used to deploy TaskManager containers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143748Z" creationid="xccui" creationdate="20190606T143748Z">
@@ -21915,6 +21923,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T064902Z" creationid="esouser" creationdate="20190603T204255Z">
         <seg>然而，这些基础设施所用的架构只是和传统数据仓库大同小异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the lifecycles of checkpoints and save‐ points differ.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014459Z" creationid="xccui" creationdate="20190726T014459Z">
+        <seg>但他们的生命周期有所差异。</seg>
       </tuv>
     </tu>
     <tu>
