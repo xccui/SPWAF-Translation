@@ -31520,6 +31520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reconfiguring, scaling, or updating a batch application can be done between executions, which is a lot easier than upgrading an application that is continuously ingesting, processing, and emit‐ ting data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005834Z" creationid="xccui" creationdate="20190726T005656Z">
+        <seg>批处理应用的配置调整、扩缩容或更新可以在它执行间隙完成；而升级一个持续接收和处理数据、并发出结果的应用则要困难很多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Records can be emitted together with an associated timestamp, and watermarks can be emitted at any point in time as special records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054705Z" creationid="xccui" creationdate="20190607T034317Z">
@@ -45819,8 +45827,8 @@
       <tuv lang="EN-US">
         <seg>While streaming applications are stateful and contin‐ uously running, batch applications are periodically executed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005526Z" creationid="xccui" creationdate="20190726T005526Z">
-        <seg>流式应用需要连续运行和维护状态；而批处理应用则会定期执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005701Z" creationid="xccui" creationdate="20190726T005526Z">
+        <seg>流式应用需要连续运行和维护状态，而批处理应用则会定期执行。</seg>
       </tuv>
     </tu>
     <tu>
