@@ -26895,6 +26895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It consists of a subdirectory that holds the data files containing the states of all tasks and a binary metadata file that includes absolute paths to all data files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020228Z" creationid="xccui" creationdate="20190726T020228Z">
+        <seg>它由一个包含了所有任务状态数据文件的子目录，和一个包含了全部数据文件绝对路径的二进制元数据文件组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It consists of three operators that are all configured for a task parallelism of two and are connected with local forward connec&lt;t2/&gt;‐&lt;t3/&gt; tions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152332Z" creationid="esouser" creationdate="20190514T152332Z">
