@@ -598,6 +598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink cancel -s [savepointPath] &lt;jobId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183437Z" creationid="xccui" creationdate="20190726T183437Z">
+        <seg>./bin/flink cancel -s [savepointPath] &lt;jobId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>./bin/flink cancel &lt;jobId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183310Z" creationid="xccui" creationdate="20190726T183310Z">
+        <seg>./bin/flink cancel &lt;jobId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink list -r Waiting for response...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033021Z" creationid="xccui" creationdate="20190726T033021Z">
@@ -23327,6 +23343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not specify a savepointPath, the default savepoint directory as configured in the ./conf/flink-conf.yaml file is used (see “System Configuration”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183555Z" creationid="xccui" creationdate="20190726T183450Z">
+        <seg>如果你没有指定savepointPath，则系统会使用./conf/flink-conf.yaml文件中配置的默认保存点目录（请参阅"系统配置"一节）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you explic‐ itly specify a savepoint path, it is stored in the provided directory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033505Z" creationid="xccui" creationdate="20190726T033505Z">
@@ -25107,6 +25131,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024235Z" creationid="xccui" creationdate="20190720T024235Z">
         <seg>为了在基于Minukube的Flink集群上运行应用，你需要在部署Flink前执行以下命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to take a savepoint before canceling a running application add the -s flag to the cancel command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183431Z" creationid="xccui" creationdate="20190726T183431Z">
+        <seg>如果要在取消当前运行的应用之前生成一个保存点，请在cancel命令后面加上-s参数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42924,6 +42956,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052628Z" creationid="xccui" creationdate="20190605T234611Z">
         <seg>为了更好地理解峰值吞吐的概念，我们先假设某个流处理应用没有在接收任何数据，也因此无需占用任何系统资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To cancel a running application without taking a savepoint run the following command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183308Z" creationid="xccui" creationdate="20190726T183308Z">
+        <seg>如果要在不使用保存点的情况下取消当前运行的应用，请运行以下命令：</seg>
       </tuv>
     </tu>
     <tu>
