@@ -446,6 +446,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>------------------ Running/Restarting Jobs ------------------- 17.10.2018 21:13:14 : bc0b2ad61ecd4a615d92ce25390f61ad :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033025Z" creationid="xccui" creationdate="20190726T033025Z">
+        <seg>------------------ Running/Restarting Jobs ------------------- 17.10.2018 21:13:14 : bc0b2ad61ecd4a615d92ce25390f61ad :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--------------------------------------------------------------</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033034Z" creationid="xccui" creationdate="20190726T033034Z">
+        <seg>--------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--link flink-jobmanager:jobmanager \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032513Z" creationid="xccui" creationdate="20190718T032513Z">
@@ -582,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink list -r Waiting for response...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033021Z" creationid="xccui" creationdate="20190726T033021Z">
+        <seg>./bin/flink list -r Waiting for response...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink run -c my.app.MainClass ~/myApp.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031653Z" creationid="xccui" creationdate="20190726T031653Z">
@@ -634,6 +658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030417Z" creationid="xccui" creationdate="20190726T030417Z">
         <seg>./bin/flink run ~/myApp.jar my-arg1 my-arg2 my-arg3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>./bin/flink savepoint &lt;jobId&gt; [savepointPath]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033255Z" creationid="xccui" creationdate="20190726T033255Z">
+        <seg>./bin/flink savepoint &lt;jobId&gt; [savepointPath]</seg>
       </tuv>
     </tu>
     <tu>
@@ -8378,6 +8410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052657Z" creationid="xccui" creationdate="20190614T052657Z">
         <seg>滚动计算输入流中指定字段的和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A savepoint can be taken for a running application with the command-line client as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033252Z" creationid="xccui" creationdate="20190726T033252Z">
+        <seg>你可以在命令行客户端使用如下命令为正在运行的应用生成一个保存点：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26071,6 +26111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this example, the JobID is bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033120Z" creationid="xccui" creationdate="20190726T033120Z">
+        <seg>上述例子中，JobID是bc0b2ad61ecd4a615d92ce25390f61ad。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this mode, Flink applications are packaged into a JAR file and submitted by a client to a running service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143428Z" creationid="xccui" creationdate="20190606T143415Z">
@@ -33688,6 +33736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Socket Window WordCount (RUNNING)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033029Z" creationid="xccui" creationdate="20190726T033029Z">
+        <seg>Socket Window WordCount (RUNNING)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some Linux distribution periodically clean the temporary direc‐ tory /tmp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043123Z" creationid="xccui" creationdate="20190724T043123Z">
@@ -34948,6 +35004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215136Z" creationid="xccui" creationdate="20190609T215136Z">
         <seg>为应用生成保存点和从保存点恢复应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taking and disposing of a savepoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033154Z" creationid="xccui" creationdate="20190726T033154Z">
+        <seg>生成和清除保存点</seg>
       </tuv>
     </tu>
     <tu>
@@ -37004,6 +37068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051518Z" creationid="xccui" creationdate="20190707T051354Z">
         <seg>开发人员利用我们在第6章介绍的基于时间的计算以及可伸缩的状态管理，能够实现复杂的流式应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The command triggers a savepoint for the job with the provided JobID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033419Z" creationid="xccui" creationdate="20190726T033419Z">
+        <seg>该命令会触发JobID所指定的作业生成一个保存点。</seg>
       </tuv>
     </tu>
     <tu>
