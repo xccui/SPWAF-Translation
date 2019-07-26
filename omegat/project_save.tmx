@@ -12831,6 +12831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checkpoints are automatically created, loaded in case of a failure, and automatically removed by Flink (depending on the configuration of the application).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014616Z" creationid="xccui" creationdate="20190726T014616Z">
+        <seg>检查点会自动创建，在发生故障时自动加载并由Flink自动删除（取决于应用具体配置）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checkpoints are implemented based on barriers that flow with the data and therefore avoid global synchronization across all operators of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163830Z" creationid="xccui" creationdate="20190702T163830Z">
@@ -24119,6 +24127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast, savepoints must be manually triggered by a user or an external service and are never automati‐ cally removed by Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014821Z" creationid="xccui" creationdate="20190726T014821Z">
+        <seg>而保存点则与之相反，它们需要由用户或外部服务手动触发，且永远不会被Flink自动删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, stateful operators may main‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235838Z" creationid="xccui" creationdate="20190605T235838Z">
@@ -28563,6 +28579,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165654Z" creationid="xccui" creationdate="20190708T165646Z">
         <seg>此外，2PC数据汇可以持续平稳地将记录写入接收系统，而不会像WAL数据汇那样经历周期性的"波峰式"写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, checkpoints are automatically deleted when an application is canceled, unless the application explicitly enabled checkpoint retention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014727Z" creationid="xccui" creationdate="20190726T014727Z">
+        <seg>此外，除非应用显式指定要保留检查点，否则它们会在应用取消时自动删除。</seg>
       </tuv>
     </tu>
     <tu>
