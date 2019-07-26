@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink cancel -s \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184651Z" creationid="xccui" creationdate="20190726T184651Z">
+        <seg>./bin/flink cancel -s \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink cancel &lt;jobId&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183310Z" creationid="xccui" creationdate="20190726T183310Z">
@@ -12759,10 +12767,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canceling an Application Might Fail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T185221Z" creationid="xccui" creationdate="20190726T185221Z">
+        <seg>应用可能会取消失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canceling an application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035354Z" creationid="xccui" creationdate="20190726T035354Z">
         <seg>取消应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancelled job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184701Z" creationid="xccui" creationdate="20190726T184701Z">
+        <seg>Cancelled job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32616,6 +32640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Savepoint stored in hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-d08de07fbb10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184704Z" creationid="xccui" creationdate="20190726T184704Z">
+        <seg>Savepoint stored in hdfs:///xxx:50070/savepoints/savepoint-bc0b2a-d08de07fbb10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Savepoints</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144644Z" creationid="xccui" creationdate="20190418T035333Z">
@@ -42928,6 +42960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To   cancel  the  application  with  the JobID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184636Z" creationid="xccui" creationdate="20190726T184636Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the createTypeInformation macro function, make sure to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054745Z" creationid="xccui" creationdate="20190617T054731Z">
@@ -48507,8 +48547,8 @@
       <tuv lang="EN-US">
         <seg>bc0b2ad61ecd4a615d92ce25390f61ad and store the savepoint at hdfs:///xxx:50070/</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184627Z" creationid="xccui" creationdate="20190726T184627Z">
-        <seg>你可以使用如下命令取消JobID为bc0b2ad61ecd4a615d92ce25390f61ad的应用并在hdfs:///xxx:50070/savepoints位置生成一个保存点：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184648Z" creationid="xccui" creationdate="20190726T184627Z">
+        <seg>你可以使用以下命令取消JobID为bc0b2ad61ecd4a615d92ce25390f61ad的应用并在hdfs:///xxx:50070/savepoints位置生成一个保存点：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50413,6 +50453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033847Z" creationid="xccui" creationdate="20190726T033847Z">
         <seg>hdfs:///xxx:50070/savepoints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hdfs:///xxx:50070/savepoints d5fdaff43022954f5f02fcd8f25ef855 Cancelling job bc0b2ad61ecd4a615d92ce25390f61ad</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184655Z" creationid="xccui" creationdate="20190726T184655Z">
+        <seg>hdfs:///xxx:50070/savepoints d5fdaff43022954f5f02fcd8f25ef855 Cancelling job bc0b2ad61ecd4a615d92ce25390f61ad</seg>
       </tuv>
     </tu>
     <tu>
@@ -53633,6 +53681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>savepoints, run the command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184630Z" creationid="xccui" creationdate="20190726T184630Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>scenarios in more detail later in this section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T043211Z" creationid="xccui" creationdate="20190715T043211Z">
@@ -56717,6 +56773,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205851Z" creationid="xccui" creationdate="20190716T205851Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with savepoint to hdfs:///xxx:50070/savepoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184659Z" creationid="xccui" creationdate="20190726T184659Z">
+        <seg>with savepoint to hdfs:///xxx:50070/savepoints.</seg>
       </tuv>
     </tu>
     <tu>
