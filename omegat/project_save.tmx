@@ -11167,6 +11167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you might expect, maintaining streaming applications is more challenging than maintaining batch applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005338Z" creationid="xccui" creationdate="20190726T005338Z">
+        <seg>可能你已经想到，维护流式应用要比维护批处理应用更具挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you might imagine, supporting stateful operators comes with a few implementa‐ tion challenges:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T032848Z" creationid="xccui" creationdate="20190606T032848Z">
@@ -45805,6 +45813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T153029Z" creationid="esouser" creationdate="20190603T152715Z">
         <seg>书中部分章节会侧重描述高层次的设计理念，而其余章节会更加注重实践并包含了很多示例代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While streaming applications are stateful and contin‐ uously running, batch applications are periodically executed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005526Z" creationid="xccui" creationdate="20190726T005526Z">
+        <seg>流式应用需要连续运行和维护状态；而批处理应用则会定期执行。</seg>
       </tuv>
     </tu>
     <tu>
