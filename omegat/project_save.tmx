@@ -20271,6 +20271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, transactional sinks commit changes to external systems when a savepoint completes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181640Z" creationid="xccui" creationdate="20190726T181640Z">
+        <seg>例如，事务性数据汇在保存点完成后会将修改提交到外部系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, user interactions with a series of news articles one after the other could be considered a session.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T025919Z" creationid="xccui" creationdate="20190407T025745Z">
