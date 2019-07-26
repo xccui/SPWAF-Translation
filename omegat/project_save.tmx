@@ -8270,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A savepoint is a directory in a persistent data storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T015355Z" creationid="xccui" creationdate="20190726T015355Z">
+        <seg>每个保存点都对应一个持久化数据存储上的目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A savepoint is basically identical to a checkpoint—it is a consistent and complete snapshot of an application’s state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014417Z" creationid="xccui" creationdate="20190726T014417Z">
