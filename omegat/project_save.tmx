@@ -33488,6 +33488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since savepoints are handled by the system similarly to regular checkpoints, operators also receive checkpoint completion notifications for completed savepoints and act on them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035625Z" creationid="xccui" creationdate="20190726T035625Z">
+        <seg>由于系统对于保存点的处理和常规的检查点类似，所以算子还需要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since savepoints are such a powerful feature, many users periodically create save‐ points to be able to go back in time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070839Z" creationid="xccui" creationdate="20190609T213645Z">
