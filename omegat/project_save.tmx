@@ -19719,6 +19719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For all actions you want to apply to a running job, you need to provide a JobID that identifies the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032838Z" creationid="xccui" creationdate="20190726T032838Z">
+        <seg>为了对正在运行的作业执行任何操作，你都需要提供一个用来指定应用的JobID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For almost 40 years, O’Reilly has provided technology and    business training, knowledge, and insight to help companies</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210829Z" creationid="esouser" creationdate="20190603T210829Z">
@@ -35824,6 +35832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ID of a job can be obtained from the Web UI, the REST API, or using the command-line client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032913Z" creationid="xccui" creationdate="20190726T032913Z">
+        <seg>作业ID可以通过Web UI、REST API或命令行客户端获取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Interval Join</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023305Z" creationid="xccui" creationdate="20190225T023305Z">
@@ -36900,6 +36916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212741Z" creationid="xccui" creationdate="20190704T212741Z">
         <seg>清理时间被设置为比当前记录时间晚一小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The client prints a list of all running jobs, including their JobIDs, when you run the following command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033016Z" creationid="xccui" creationdate="20190726T033016Z">
+        <seg>你可以利用以下命令让客户端打印出所有正在运行作业（包括其JobID）的列表：</seg>
       </tuv>
     </tu>
     <tu>
