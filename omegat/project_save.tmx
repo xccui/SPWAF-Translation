@@ -33490,8 +33490,8 @@
       <tuv lang="EN-US">
         <seg>Since savepoints are handled by the system similarly to regular checkpoints, operators also receive checkpoint completion notifications for completed savepoints and act on them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035625Z" creationid="xccui" creationdate="20190726T035625Z">
-        <seg>由于系统对于保存点的处理和常规的检查点类似，所以算子还需要</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T180037Z" creationid="xccui" creationdate="20190726T035625Z">
+        <seg>由于系统对于保存点的处理和常规的检查点类似，所以在保存点完成后算子同样会收到检查点完成完成通知并据其做出反应。</seg>
       </tuv>
     </tu>
     <tu>
