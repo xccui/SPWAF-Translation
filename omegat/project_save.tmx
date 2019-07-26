@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink run ~/myApp.jar my-arg1 my-arg2 my-arg3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030417Z" creationid="xccui" creationdate="20190726T030417Z">
+        <seg>./bin/flink run ~/myApp.jar my-arg1 my-arg2 my-arg3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.&lt;t0/&gt; &lt;t1/&gt;ix 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035437Z" creationid="xccui" creationdate="20190418T035437Z">
@@ -12331,6 +12339,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125222Z" creationid="xccui" creationdate="20190706T125222Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the client does not return after submitting the application but waits for it to terminate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030500Z" creationid="xccui" creationdate="20190726T030500Z">
+        <seg>默认情况下，客户端在提交应用后不会立即返回，而是等待其终止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36322,8 +36338,8 @@
       <tuv lang="EN-US">
         <seg>The above command starts the application from the main() method of the class that is referenced in the program-class property of the JAR file’s META-INF/MANI‐ FEST.MF file without passing any arguments to the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030217Z" creationid="xccui" creationdate="20190726T025302Z">
-        <seg>上述命令会从JAR包中META-INF/MANIFEST.MF文件内program-class属性所引用的main()方法启动应用，但不会向其传递任何参数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030338Z" creationid="xccui" creationdate="20190726T025302Z">
+        <seg>上述命令会从JAR包中META-INF/MANIFEST.MF文件内program-class属性所引用的main()方法启动应用，且不会向其传递任何参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36772,6 +36788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T212741Z" creationid="xccui" creationdate="20190704T212741Z">
         <seg>清理时间被设置为比当前记录时间晚一小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The client submits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030304Z" creationid="xccui" creationdate="20190726T030304Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -46921,6 +46945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can pass arguments to the main() method of an application by appending them at the end of the command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030415Z" creationid="xccui" creationdate="20190726T030415Z">
+        <seg>你可以通过在命令末尾附加参数而将其传递给应用的main()方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can set the identifier with the uid() method as shown in Example 7-10.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024110Z" creationid="xccui" creationdate="20190703T023949Z">
@@ -53605,6 +53637,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044331Z" creationid="xccui" creationdate="20190724T044331Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the JAR file to the master process, which distributes it to the worker nodes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030259Z" creationid="xccui" creationdate="20190726T030259Z">
+        <seg>客户端会将JAR包提交到主进程，随后再由主进程分发至工作节点。</seg>
       </tuv>
     </tu>
     <tu>
