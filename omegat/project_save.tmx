@@ -7910,6 +7910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A failure recovery would fail if Flink attempted to recover from a savepoint that was removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181849Z" creationid="xccui" creationdate="20190726T181849Z">
+        <seg>如果Flink尝试从一个已经删除的保存点恢复，则故障恢复过程将会失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A filesystem is represented in Flink by an implementation of the org.apache.flink.core.fs.FileSystem class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032602Z" creationid="xccui" creationdate="20190722T032556Z">
@@ -30327,6 +30335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once another check‐ point (or savepoint) completes, you can safely remove a savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181939Z" creationid="xccui" creationdate="20190726T181939Z">
+        <seg>在另一个检查点（或保存点）完成后，你就可以安全地删除保存点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once data has been emitted to a sink, it is difficult to guarantee result correctness, unless the sink system supports transactions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191921Z" creationid="xccui" creationdate="20190606T034308Z">
@@ -42948,6 +42964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033058Z" creationid="xccui" creationdate="20190620T032816Z">
         <seg>为了保证事件时间操作能够正常工作，必须将分配器放在任何依赖事件时间的转换之前（例如，在第一个事件时间窗口之前）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To guarantee exactly-once output, Flink must recover from the latest completed checkpoint or savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T181732Z" creationid="xccui" creationdate="20190726T181732Z">
+        <seg>为了确保精确一次地输出，Flink需要从最近一次的检查点或保存点恢复。</seg>
       </tuv>
     </tu>
     <tu>
