@@ -11215,6 +11215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As mentioned, an application can only be started from a savepoint if it is compatible with the savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050523Z" creationid="xccui" creationdate="20190727T050523Z">
+        <seg>之前我们提到过，应用只有和保存点兼容时才可以从该保存点启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As motivated in &lt;t2/&gt;Chapter 2&lt;t3/&gt;, a certain degree of timestamp out-of-orderness is given in basically all real-world use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040054Z" creationid="xccui" creationdate="20190523T040054Z">
@@ -32740,6 +32748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T032530Z" creationid="xccui" creationdate="20190225T022106Z">
         <seg>状态化算子扩缩容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaling an Application In and Out</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050414Z" creationid="xccui" creationdate="20190727T050414Z">
+        <seg>应用的扩缩容</seg>
       </tuv>
     </tu>
     <tu>
@@ -56965,6 +56981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030228Z" creationid="xccui" creationdate="20190722T025858Z">
         <seg>则可以在能访问hadoop命令的前提下，通过以下指令自动设置该变量：export HADOOP_CLASSPATH=`hadoop classpath`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you do not manually assign operator identifiers using uid().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050346Z" creationid="xccui" creationdate="20190727T050346Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
