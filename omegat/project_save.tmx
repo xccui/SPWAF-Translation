@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink run -s &lt;savepointPath&gt; [options] &lt;jobJar&gt; [arguments]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T040216Z" creationid="xccui" creationdate="20190727T040216Z">
+        <seg>./bin/flink run -s &lt;savepointPath&gt; [options] &lt;jobJar&gt; [arguments]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink run ~/myApp.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025246Z" creationid="xccui" creationdate="20190726T025246Z">
@@ -9800,8 +9808,8 @@
       <tuv lang="EN-US">
         <seg>All you have to do is start an application with the run command and additionally provide a path to a savepoint</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T040200Z" creationid="xccui" creationdate="20190727T040200Z">
-        <seg>你只需在使用run命令启动应用时利用-s选项提供额外的保存点路径即可。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T040206Z" creationid="xccui" creationdate="20190727T040200Z">
+        <seg>你只需在使用run命令启动应用时利用-s选项提供额外的保存点路径即可：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46273,6 +46281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the job is started, Flink matches the individual state snapshots of the savepoint to all states of the started application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T042028Z" creationid="xccui" creationdate="20190727T042028Z">
+        <seg>作业启动后，Flink会将保存点内的每个状态快照和应用的全部状态进行匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the local copy is finished, the task continues its regular processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T203350Z" creationid="xccui" creationdate="20190609T203350Z">
@@ -56813,6 +56829,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T184659Z" creationid="xccui" creationdate="20190726T184659Z">
         <seg>with savepoint to hdfs:///xxx:50070/savepoints.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with the -s option:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T040213Z" creationid="xccui" creationdate="20190727T040213Z">
+        <seg>with the -s option:</seg>
       </tuv>
     </tu>
     <tu>
