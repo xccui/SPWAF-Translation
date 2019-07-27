@@ -10342,6 +10342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An unmodified application can always be restarted from its save‐ point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050615Z" creationid="xccui" creationdate="20190727T050615Z">
+        <seg>如果没有被修改过，应用总是可以从之前生成的保存点重启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analytical Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T142900Z" creationid="esouser" creationdate="20190603T142900Z">
@@ -22039,6 +22047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if the restarted application is not identical to the application from which the savepoint was taken, there are three cases to consider:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T051000Z" creationid="xccui" creationdate="20190727T050708Z">
+        <seg>然而，如果要重启的应用和之前生成保存点时的应用有所不同，那么就会有三种结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, in certain situations, such as lambda functions or generic types, it is necessary to explicitly provide type information to make an application work or improve its performance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055918Z" creationid="xccui" creationdate="20190616T064538Z">
@@ -23307,6 +23323,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T040408Z" creationid="xccui" creationdate="20190705T040408Z">
         <seg>如果你向应用中添加了新的状态化算子或为已有算子增加了状态，那么在应用从保存点启动时，这些状态都会被初始化为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you added a new state to the application or changed the unique identifier of a stateful operator, Flink will not find a corresponding state snapshot in the save‐ point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050721Z" creationid="xccui" creationdate="20190727T050721Z">
+        <seg>如果你向应用中添加了</seg>
       </tuv>
     </tu>
     <tu>
