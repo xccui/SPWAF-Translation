@@ -29911,6 +29911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the job will continue to run if taking the savepoint fails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T185250Z" creationid="xccui" creationdate="20190726T185250Z">
+        <seg>注意，如果生成保存点失败，作业将继续运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the keys of both streams should</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151936Z" creationid="xccui" creationdate="20190615T050826Z">
@@ -47885,6 +47893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T151708Z" creationid="xccui" creationdate="20190405T151603Z">
         <seg>在本章末尾，你将了解更多有关状态化流处理、错误场景和一致性的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need to make another attempt at canceling the job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T034813Z" creationid="xccui" creationdate="20190727T034813Z">
+        <seg>你需要再次尝试取消。</seg>
       </tuv>
     </tu>
     <tu>
