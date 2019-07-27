@@ -23385,8 +23385,8 @@
       <tuv lang="EN-US">
         <seg>If you do not assign unique IDs to your operators with the uid()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045809Z" creationid="xccui" creationdate="20190727T045809Z">
-        <seg>如果你没有使用uid()方法为你的算子分配唯一ID，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045952Z" creationid="xccui" creationdate="20190727T045809Z">
+        <seg>如果你没有使用uid()方法为算子分配唯一ID，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33564,6 +33564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T014717Z" creationid="xccui" creationdate="20190626T014717Z">
         <seg>由于需要遍历所有元素，移除器只有在未指定增量聚合函数的时候才能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since it is not possible to change the identifiers in a savepoint, you will have fewer options to update and evolve your application if</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050344Z" creationid="xccui" creationdate="20190727T050344Z">
+        <seg>保存点中的标识是无法修改的，因此你如果没有使用uid()手动分配算子标识，那么在更新或改进应用时就会受到一定限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49801,6 +49809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>depend on the type of the operator and all previous operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045924Z" creationid="xccui" creationdate="20190727T045924Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deploying Flink applications and the way each distributes and executes tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T045209Z" creationid="xccui" creationdate="20190606T141058Z">
@@ -51675,8 +51691,8 @@
       <tuv lang="EN-US">
         <seg>method, Flink assigns default identifiers, which are hash values that</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045922Z" creationid="xccui" creationdate="20190727T045922Z">
-        <seg>Flink会根据算子类型和它所有前置算子计算出的哈希值作为默认标识。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050037Z" creationid="xccui" creationdate="20190727T045922Z">
+        <seg>则Flink会根据算子类型和它所有前置算子计算一个哈希值作为其默认标识。</seg>
       </tuv>
     </tu>
     <tu>
