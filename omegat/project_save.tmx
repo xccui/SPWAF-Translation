@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See “Modifying the State of an Operator”.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T054644Z" creationid="xccui" creationdate="20190727T054644Z">
+        <seg>（见"修改算子的状态"一节。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(TumblingEventTimeWindows.of(size)) or for window.(TumblingProcessing TimeWindows.of(size)) depending on the configured time characteristic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051459Z" creationid="xccui" creationdate="20190623T051459Z">
@@ -14435,6 +14443,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024537Z" creationid="xccui" creationdate="20190225T024537Z">
         <seg>在RuntimeContext中声明Keyed State</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decreasing or increasing the parallelism of an application is not difficult.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T054946Z" creationid="xccui" creationdate="20190727T054946Z">
+        <seg>减少或增加应用的并行度并不困难。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36204,6 +36220,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043037Z" creationid="xccui" creationdate="20190619T043037Z">
         <seg>我们在第76页"创建Flink Maven项目"中介绍了利用Flink Maven模板生成Maven项目，其中就加入了生成包含全部所需依赖的胖JAR的配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Flink commu‐ nity is currently working on improving the support for state evolution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T054631Z" creationid="xccui" creationdate="20190727T054614Z">
+        <seg>Flink社区正在努力改善对状态变化的支持。</seg>
       </tuv>
     </tu>
     <tu>
