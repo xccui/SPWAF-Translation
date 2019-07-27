@@ -23535,6 +23535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you require exactly-once results, you should take the savepoint and stop the appli‐ cation with the integrated savepoint-and-cancel command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055550Z" creationid="xccui" creationdate="20190727T055550Z">
+        <seg>你如果需要精确一次的结果，则应该使用集成命令savepoint-and-cancel来生成保存点并停止应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you run Hadoop YARN version 2.6 or later, Flink automat‐ ically configures an attempt failure’s validity interval.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060205Z" creationid="xccui" creationdate="20190721T053353Z">
@@ -42484,6 +42492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045954Z" creationid="xccui" creationdate="20190616T045912Z">
         <seg>使用此分区策略时务必小心，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This prevents another checkpoint from completing after the savepoint, which would trigger exactly-once sinks to emit data after the savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055841Z" creationid="xccui" creationdate="20190727T055841Z">
+        <seg>这可以防止在生成保存点后又出现一次检查点的情况，该情况会触发精确一次的数据汇在保存点后发出额外数据。</seg>
       </tuv>
     </tu>
     <tu>
