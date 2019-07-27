@@ -23329,8 +23329,8 @@
       <tuv lang="EN-US">
         <seg>If you added a new state to the application or changed the unique identifier of a stateful operator, Flink will not find a corresponding state snapshot in the save‐ point.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050721Z" creationid="xccui" creationdate="20190727T050721Z">
-        <seg>如果你向应用中添加了</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053306Z" creationid="xccui" creationdate="20190727T050721Z">
+        <seg>如果你向应用中添加了新的状态或改变了某个状态化算子的唯一标识，那么Flink将无法在保存点中找到相应的状态快照。</seg>
       </tuv>
     </tu>
     <tu>
