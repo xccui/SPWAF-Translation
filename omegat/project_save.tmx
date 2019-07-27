@@ -9798,6 +9798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All you have to do is start an application with the run command and additionally provide a path to a savepoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T040200Z" creationid="xccui" creationdate="20190727T040200Z">
+        <seg>你只需在使用run命令启动应用时利用-s选项提供额外的保存点路径即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allowed lateness can be specified using the allowedLateness() method as Example 6-22 demonstrates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T165139Z" creationid="xingcan" creationdate="20190628T165139Z">
@@ -34276,6 +34284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T211859Z" creationid="xccui" creationdate="20190609T211810Z">
         <seg>而将应用从某个保存点启动还能让你做更多事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting an application from a savepoint is fairly simple.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T040029Z" creationid="xccui" creationdate="20190727T040029Z">
+        <seg>从保存点启动应用非常简单。</seg>
       </tuv>
     </tu>
     <tu>
