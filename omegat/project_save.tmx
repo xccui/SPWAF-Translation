@@ -18407,6 +18407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, Flink compares the unique operator identifiers of the savepoint and application’s operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045334Z" creationid="xccui" creationdate="20190727T045334Z">
+        <seg>首先，Flink会对保存点中的唯一算子标识和应用算子内的进行比较。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, a savepoint of a running application is taken and then it is used to restore the state in a starting application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T214317Z" creationid="xccui" creationdate="20190609T214237Z">
@@ -42176,6 +42184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This matching is done in two steps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045125Z" creationid="xccui" creationdate="20190727T045125Z">
+        <seg>具体匹配过程分为两步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means a file is completely reprocessed if</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T200312Z" creationid="xccui" creationdate="20190710T200312Z">
@@ -46283,8 +46299,8 @@
       <tuv lang="EN-US">
         <seg>When the job is started, Flink matches the individual state snapshots of the savepoint to all states of the started application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T042028Z" creationid="xccui" creationdate="20190727T042028Z">
-        <seg>作业启动后，Flink会将保存点内的每个状态快照和应用的全部状态进行匹配。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045112Z" creationid="xccui" creationdate="20190727T042028Z">
+        <seg>作业启动后，Flink会将保存点内的各个状态快照和应用所有状态进行匹配。</seg>
       </tuv>
     </tu>
     <tu>
