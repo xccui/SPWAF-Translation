@@ -23329,8 +23329,8 @@
       <tuv lang="EN-US">
         <seg>If you added a new state to the application or changed the unique identifier of a stateful operator, Flink will not find a corresponding state snapshot in the save‐ point.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053533Z" creationid="xccui" creationdate="20190727T050721Z">
-        <seg>如果你向应用中添加了新的状态或改变了某个状态化算子的唯一标识，导致Flink无法在保存点中找到相应的状态快照。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053545Z" creationid="xccui" creationdate="20190727T050721Z">
+        <seg>如果你向应用中添加了新的状态或改变了某个状态化算子的唯一标识，导致Flink无法在保存点中找到相应的状态快照，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23497,8 +23497,8 @@
       <tuv lang="EN-US">
         <seg>If you removed a state from the application or changed the unique identifier of a stateful operator, there is state in the savepoint that cannot be matched to the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053418Z" creationid="xccui" creationdate="20190727T053418Z">
-        <seg>如果你从应用中删除了某个状态或改变了某个状态化算子的唯一标识</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053630Z" creationid="xccui" creationdate="20190727T053418Z">
+        <seg>如果你从应用中删除了某个状态或改变了某个状态化算子的唯一标识，导致保存点中存在无法和应用匹配的状态，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26079,6 +26079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, Flink does not start the application to avoid losing the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053706Z" creationid="xccui" creationdate="20190727T053706Z">
+        <seg>那么Flink将不会启动应用，以防保存点中的状态丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, any custom states of the triggers also need to be merged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194925Z" creationid="xccui" creationdate="20190626T194925Z">
@@ -26121,8 +26129,8 @@
       <tuv lang="EN-US">
         <seg>In this case, the new state is initialized as empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053330Z" creationid="xccui" creationdate="20190727T053330Z">
-        <seg>在该情况下，新的状态会被初始化为空。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053538Z" creationid="xccui" creationdate="20190727T053330Z">
+        <seg>那么在该情况下，新的状态会被初始化为空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47489,6 +47497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can disable this safety check by adding the -n option</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053749Z" creationid="xccui" creationdate="20190727T053749Z">
+        <seg>你可以通过在run命令后增加-n选项来禁用此安全检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can do this by selecting the job in the web dashboard and clicking on the CANCEL button on the top of the page.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T045547Z" creationid="xccui" creationdate="20190329T045547Z">
@@ -54137,6 +54153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>state in the savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053709Z" creationid="xccui" creationdate="20190727T053709Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T034403Z" creationid="xccui" creationdate="20190630T034400Z">
@@ -54916,6 +54940,14 @@
         <seg>to read the file as a whole.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T192032Z" creationid="xccui" creationdate="20190710T192032Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to the run command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053751Z" creationid="xccui" creationdate="20190727T053751Z">
         <seg></seg>
       </tuv>
     </tu>
