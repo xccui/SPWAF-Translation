@@ -32848,6 +32848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Second, it matches for each operator the state identifiers (see “Savepoints” for details) of the savepoint and the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045605Z" creationid="xccui" creationdate="20190727T045605Z">
+        <seg>然后，它会对每个算子比较保存点和应用内的状态标识符（详细信息请参阅"保存点"一节）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Second, the latest results computed by the stream processor are not accurate but only approximated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T030945Z" creationid="xccui" creationdate="20190327T030820Z">
