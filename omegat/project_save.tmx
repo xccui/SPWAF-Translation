@@ -23383,6 +23383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not assign unique IDs to your operators with the uid()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045809Z" creationid="xccui" creationdate="20190727T045809Z">
+        <seg>如果你没有使用uid()方法为你的算子分配唯一ID，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not explicitly set unique identifiers to the operators of your stateful applica‐ tion, you will face significant limitations when you have to evolve the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023250Z" creationid="xccui" creationdate="20190703T023053Z">
@@ -32850,8 +32858,8 @@
       <tuv lang="EN-US">
         <seg>Second, it matches for each operator the state identifiers (see “Savepoints” for details) of the savepoint and the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045605Z" creationid="xccui" creationdate="20190727T045605Z">
-        <seg>然后，它会对每个算子比较保存点和应用内的状态标识符（详细信息请参阅"保存点"一节）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045659Z" creationid="xccui" creationdate="20190727T045605Z">
+        <seg>其次，它会针对每个算子比较保存点和应用内的状态标识符（详细信息请参阅"保存点"一节）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47185,6 +47193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You Should Define Unique Operator IDs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045744Z" creationid="xccui" creationdate="20190727T045744Z">
+        <seg>应该为每个算子定义唯一ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You also know a little bit about the evolution of the open source stream processing space and what a Flink streaming application looks like.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T042338Z" creationid="xccui" creationdate="20190605T224647Z">
@@ -51653,6 +51669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055530Z" creationid="xccui" creationdate="20190630T055530Z">
         <seg>该方法将使用给定列表的值替换已有值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method, Flink assigns default identifiers, which are hash values that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045922Z" creationid="xccui" creationdate="20190727T045922Z">
+        <seg>Flink会根据算子类型和它所有前置算子计算出的哈希值作为默认标识。</seg>
       </tuv>
     </tu>
     <tu>
