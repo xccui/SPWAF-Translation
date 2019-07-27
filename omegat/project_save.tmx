@@ -22415,6 +22415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there are a few things to consider.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055328Z" creationid="xccui" creationdate="20190727T055328Z">
+        <seg>虽然容易，但扩缩容过程中还是有一些需要考虑的问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there is also a mode in which the call of the execute() method starts a Job‐ Manager and a TaskManager (by default with as many slots as available CPU threads) as separate threads within the same JVM. Consequently, the whole Flink application is multithreaded and executed within the same JVM process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093215Z" creationid="xccui" creationdate="20190611T052546Z">
@@ -33048,6 +33056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “Scaling Stateful Operators” on page 56 for details on how the different types of operator state and keyed state are scaled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055239Z" creationid="xccui" creationdate="20190727T055239Z">
+        <seg>有关不同类型的算子状态和键值分区状态是如何伸缩的，请参见第56页"状态化算子扩缩容"一节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See “Scaling Stateful Operators” on page 56 for details on the distribution behavior of operator list state and union list state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T163240Z" creationid="xccui" creationdate="20190712T163240Z">
@@ -40372,6 +40388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212148Z" creationid="xccui" creationdate="20190702T211747Z">
         <seg>在应用运行较长一段时间后，其状态就会变得成本十分昂贵，甚至无法重新计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state of the application is automatically redistributed to the larger or smaller number of parallel operator tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055120Z" creationid="xccui" creationdate="20190727T055120Z">
+        <seg>应用的状态会自动重新分配到更多或更少的并行算子任务上。</seg>
       </tuv>
     </tu>
     <tu>
