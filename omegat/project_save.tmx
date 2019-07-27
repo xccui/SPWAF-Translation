@@ -47969,6 +47969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to take a savepoint, cancel the application, and restart it with an adjusted parallelism from the savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055046Z" creationid="xccui" creationdate="20190727T055046Z">
+        <seg>你只需生成一个保存点，取消应用，然后再将并行度调整后的应用从保存点启动起来即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to use whatever information you have about the sources, the network, and the partitions to estimate progress and an upper bound for the lateness of your input records.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033709Z" creationid="xccui" creationdate="20190621T032302Z">
