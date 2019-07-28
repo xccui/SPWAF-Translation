@@ -12527,6 +12527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, operators run with the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T041857Z" creationid="xccui" creationdate="20190728T041857Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the Flink Kafka</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T030942Z" creationid="xccui" creationdate="20190710T030942Z">
@@ -37728,6 +37736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default parallelism can be specified when starting an application (e.g., using the -p parameter in the CLI client).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T041947Z" creationid="xccui" creationdate="20190728T041947Z">
+        <seg>该默认并行度可以在启动应用时指定（例如：在CLI客户端中使用-p参数）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default parallelism of an execution environment is overwritten by all settings explicitly specified by the source code of the application—the parallelism that is</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031441Z" creationid="xccui" creationdate="20190726T031347Z">
@@ -49925,6 +49941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220258Z" creationid="xccui" creationdate="20190711T220258Z">
         <seg>def this() = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>default parallelism of their associated StreamExecutionEnvironment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T041901Z" creationid="xccui" creationdate="20190728T041848Z">
+        <seg>默认情况下，算子会以其关联的StreamExecutionEnvironment中的默认并行度来运行。</seg>
       </tuv>
     </tu>
     <tu>
