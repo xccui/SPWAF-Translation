@@ -23159,6 +23159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the parallelism of your application depends on the environment’s default parallel‐ ism, Flink provides an atomic rescale command that takes a savepoint, cancels the application, and restarts it with a new default parallelism:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T044517Z" creationid="xccui" creationdate="20190728T044517Z">
+        <seg>针对应用程序并行度依赖环境默认并行度的情况，Flink提供了一个原子性的扩缩容命令，它可以生成一个保存点，取消应用，随后以新的并行度将它重启：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the path refers to a file, the single file is read.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T185450Z" creationid="xccui" creationdate="20190710T185450Z">
@@ -48565,6 +48573,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032018Z" creationid="xccui" creationdate="20190630T032018Z">
         <seg>除了内置算子和提供的数据源及数据汇之外，Flink DataStream API也在用户自定义函数里暴露了状态的注册、维护及访问接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and repackage your application before submitting it for execution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T044052Z" creationid="xccui" creationdate="20190728T044052Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
