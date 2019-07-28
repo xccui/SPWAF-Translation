@@ -23527,6 +23527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you implement the application such that the parallelism of its</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T042255Z" creationid="xccui" creationdate="20190728T042255Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you look at how Flink propagates and updates watermarks (see “Watermark Propagation and Event Time”), you can see that a single operator that does not advance watermarks can grind all watermarks of an</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043657Z" creationid="xccui" creationdate="20190713T043037Z">
