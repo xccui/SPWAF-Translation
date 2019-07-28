@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink modify &lt;jobId&gt; -p &lt;newParallelism&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T044520Z" creationid="xccui" creationdate="20190728T044520Z">
+        <seg>./bin/flink modify &lt;jobId&gt; -p &lt;newParallelism&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink run -c my.app.MainClass ~/myApp.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031653Z" creationid="xccui" creationdate="20190726T031653Z">
@@ -43476,6 +43484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T072106Z" creationid="xccui" creationdate="20190606T145331Z">
         <seg>为了从故障中恢复，系统首先要重启故障进程，随后需要重启应用并恢复其状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To rescale the application with the jobId bc0b2ad61ecd4a615d92ce25390f61ad to a parallelism of 16, run the command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T071908Z" creationid="xccui" creationdate="20190728T071908Z">
+        <seg>为了将JobId为bc0b2ad61ecd4a615d92ce25390f61ad的应用设置为并行度等于16，你可以运行以下命令：</seg>
       </tuv>
     </tu>
     <tu>
