@@ -11183,6 +11183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As discussed in “Setting the Parallelism” on page 96, the parallelism of an application and its operators can be specified in different ways.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T041741Z" creationid="xccui" creationdate="20190728T041741Z">
+        <seg>我们在第96页"设置并行度"一节介绍过，应用程序及其算子的并行度有多种指定方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As discussed, the end-to-end consistency guarantees of an application depend on the properties of its sink connectors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T024944Z" creationid="xccui" creationdate="20190714T024944Z">
