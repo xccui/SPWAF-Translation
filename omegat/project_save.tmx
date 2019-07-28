@@ -22087,6 +22087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if you hardcoded the parallelism on the StreamExecutionEnvironment or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T043331Z" creationid="xccui" creationdate="20190728T043331Z">
+        <seg>但如果你是通过硬编码的方式设置了StreamExecutionEnvironment或部分算子的并行度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, in certain situations, such as lambda functions or generic types, it is necessary to explicitly provide type information to make an application work or improve its performance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055918Z" creationid="xccui" creationdate="20190616T064538Z">
@@ -52531,8 +52539,8 @@
       <tuv lang="EN-US">
         <seg>operators depends on the default environment parallelism, you can simply scale an application by starting it from the same JAR file and specifying a new parallelism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T042252Z" creationid="xccui" creationdate="20190728T042252Z">
-        <seg>如果你实现的应用其算子并行度是基于环境默认并行度计算而来，则你可以在使用相同JAR文件运行应用的同时指定一个新的并行度，来实现对应用的扩缩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T043132Z" creationid="xccui" creationdate="20190728T042252Z">
+        <seg>如果你的应用算子并行度是基于环境默认并行度计算而来，则你可以在使用相同JAR文件运行应用的同时指定一个新的并行度，来实现对应用的扩缩容。</seg>
       </tuv>
     </tu>
     <tu>
