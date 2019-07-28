@@ -22089,8 +22089,8 @@
       <tuv lang="EN-US">
         <seg>However, if you hardcoded the parallelism on the StreamExecutionEnvironment or</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T043331Z" creationid="xccui" creationdate="20190728T043331Z">
-        <seg>但如果你是通过硬编码的方式设置了StreamExecutionEnvironment或部分算子的并行度，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T043415Z" creationid="xccui" creationdate="20190728T043331Z">
+        <seg>但你如果是通过硬编码的方式设置了StreamExecutionEnvironment或部分算子的并行度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -52461,6 +52461,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T034124Z" creationid="xccui" creationdate="20190713T034124Z">
         <seg>offsetState.clear()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on some of the operators, you might need to adjust the source code and recompile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T044020Z" creationid="xccui" creationdate="20190728T044020Z">
+        <seg>那么可能就需要修改源码，重新编译、打包</seg>
       </tuv>
     </tu>
     <tu>
