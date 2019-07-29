@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-X POST http://localhost:8081/v1/savepoint-disposal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200903Z" creationid="xccui" creationdate="20190729T200903Z">
+        <seg>-X POST http://localhost:8081/v1/savepoint-disposal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-c io.github.streamingwithflink.chapter1.AverageSensorReadings \ examples-scala.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040003Z" creationid="xccui" creationdate="20190329T040003Z">
@@ -31824,6 +31832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PATCH /jobs/&lt;jobID&gt;/rescaling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200947Z" creationid="xccui" creationdate="20190729T200947Z">
+        <seg>PATCH /jobs/&lt;jobID&gt;/rescaling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PATCH /jobs/&lt;jobId&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161809Z" creationid="xccui" creationdate="20190729T161809Z">
@@ -31964,6 +31980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162234Z" creationid="xccui" creationdate="20190729T050229Z">
         <seg>参数 jarId：启动应用的JAR文件ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters jobID: The ID of a job as provided by the list application command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201101Z" creationid="xccui" creationdate="20190729T201101Z">
+        <seg>参数 jobID：使用列出应用命令所得到的应用ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -32676,6 +32700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044652Z" creationid="xccui" creationdate="20190729T044652Z">
         <seg>列出TaskManager可用指标的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to rescale an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200944Z" creationid="xccui" creationdate="20190729T200944Z">
+        <seg>用于应用扩缩容的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -36140,6 +36172,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193831Z" creationid="xccui" creationdate="20190729T193831Z">
         <seg>表10-15，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-16 shows the REST call to rescale an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200926Z" creationid="xccui" creationdate="20190729T200926Z">
+        <seg>表10-16展示了对应用进行扩缩容的REST调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200931Z" creationid="xccui" creationdate="20190729T200931Z">
+        <seg>表10-16，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44360,6 +44408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To dispose a savepoint with curl, run:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200832Z" creationid="xccui" creationdate="20190729T200832Z">
+        <seg>要使用curl删除某个保存点，请运行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To ensure that event-time operations behave as expected, the assigner should be called before any event-time dependent transformation (e.g., before the first event- time window).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033058Z" creationid="xccui" creationdate="20190620T032816Z">
@@ -51005,6 +51061,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152620Z" creationid="xccui" creationdate="20190729T152620Z">
         <seg>curl -d '{"parallelism":"4"}' -X POST \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curl -d '{"savepoint-path":"file:///savepoints/savepoint-e99cdb-34410597"}'\</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200834Z" creationid="xccui" creationdate="20190729T200834Z">
+        <seg>curl -d '{"savepoint-path":"file:///savepoints/savepoint-e99cdb-34410597"}'\</seg>
       </tuv>
     </tu>
     <tu>
@@ -58485,6 +58549,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042107Z" creationid="xccui" creationdate="20190729T042107Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{"request-id":"217a4ffe935ceac2c281bdded76729d6"}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200908Z" creationid="xccui" creationdate="20190729T200908Z">
+        <seg>{"request-id":"217a4ffe935ceac2c281bdded76729d6"}</seg>
       </tuv>
     </tu>
     <tu>
