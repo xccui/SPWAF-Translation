@@ -31872,6 +31872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POST /savepoint-disposal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193850Z" creationid="xccui" creationdate="20190729T193850Z">
+        <seg>POST /savepoint-disposal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PURGE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184625Z" creationid="xccui" creationdate="20190626T184625Z">
@@ -31916,6 +31924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162456Z" creationid="xccui" creationdate="20190729T045622Z">
         <seg>参数 文件必须以Multipart数据形式上传 行为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters The path of the savepoint to dispose needs to be provided as a parameter in a JSON object Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200727Z" creationid="xccui" creationdate="20190729T200727Z">
+        <seg>参数 需要以JSON对象的形式提供要删除的保存点路径 行为</seg>
       </tuv>
     </tu>
     <tu>
@@ -32580,6 +32596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045855Z" creationid="xccui" creationdate="20190729T045855Z">
         <seg>删除JAR文件的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to dispose a savepoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193847Z" creationid="xccui" creationdate="20190729T193847Z">
+        <seg>删除保存点的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -36092,6 +36116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162554Z" creationid="xccui" creationdate="20190729T162554Z">
         <seg>表10-14，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193831Z" creationid="xccui" creationdate="20190729T193831Z">
+        <seg>表10-15，</seg>
       </tuv>
     </tu>
     <tu>
