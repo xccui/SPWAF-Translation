@@ -25385,8 +25385,8 @@
       <tuv lang="EN-US">
         <seg>In order to retrieve one or more JobManager metrics, add the get query parameter with all the requested metrics to the request:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044531Z" creationid="xccui" creationdate="20190729T044531Z">
-        <seg>为了得到一个或多个JobManager指标，请将所有请求指标以get查询参数的形式加入到请求中：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044937Z" creationid="xccui" creationdate="20190729T044531Z">
+        <seg>为了得到一个或多个JobManager指标，请将它们以get查询参数的形式加入到请求中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32800,6 +32800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Response</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044723Z" creationid="xccui" creationdate="20190729T044723Z">
+        <seg>Response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Response Basic information about the cluster as shown above</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043835Z" creationid="xccui" creationdate="20190729T043835Z">
@@ -32900,6 +32908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T040646Z" creationid="xccui" creationdate="20190609T040646Z">
         <seg>恢复所有任务的处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns a list of metrics available for the chosen TaskManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044753Z" creationid="xccui" creationdate="20190729T044753Z">
+        <seg>返回指定TaskManager上可获得的指标</seg>
       </tuv>
     </tu>
     <tu>
@@ -43896,6 +43912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To retrieve one or more metrics for a TaskManager, add the get query parameter with all the requested metrics to the request:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044844Z" creationid="xccui" creationdate="20190729T044844Z">
+        <seg>为了得到一个或多个TaskManager指标，请将它们以get查询参数的形式加入到请求中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To some extent, the latency can be reduced by importing data into the data store with data pipeline applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T032021Z" creationid="xccui" creationdate="20190317T032021Z">
@@ -47969,6 +47993,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also shutdown a cluster using the REST call that is shown in Table 10-6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045036Z" creationid="xccui" creationdate="20190729T045036Z">
+        <seg>你还可以使用表10-6中的REST调用停止集群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also specify a minimum (taskmanager.network.memory.min) and a maxi‐ mum (taskmanager.network.memory.max) amount of memory that is used for net‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041157Z" creationid="xccui" creationdate="20190724T041054Z">
@@ -50277,6 +50309,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044534Z" creationid="xccui" creationdate="20190729T044534Z">
         <seg>curl -X GET http://hostname:port/v1/jobmanager/metrics?get=metric1,metric2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curl -X GET http://hostname:port/v1/taskmanagers/&lt;tmId&gt;/metrics?get=metric1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044926Z" creationid="xccui" creationdate="20190729T044926Z">
+        <seg>curl -X GET http://hostname:port/v1/taskmanagers/&lt;tmId&gt;/metrics?get=metric1</seg>
       </tuv>
     </tu>
     <tu>
