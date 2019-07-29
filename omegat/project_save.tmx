@@ -9328,8 +9328,8 @@
       <tuv lang="EN-US">
         <seg>Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045103Z" creationid="xccui" creationdate="20190729T045103Z">
-        <seg>Action</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162126Z" creationid="xccui" creationdate="20190729T045103Z">
+        <seg>行为</seg>
       </tuv>
     </tu>
     <tu>
@@ -31882,8 +31882,8 @@
       <tuv lang="EN-US">
         <seg>Parameters tmId: The ID of a connected TaskManager</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044720Z" creationid="xccui" creationdate="20190729T044720Z">
-        <seg>Parameters tmId：相连TaskManager的ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162113Z" creationid="xccui" creationdate="20190729T044720Z">
+        <seg>参数 tmId：相连TaskManager的ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -32954,8 +32954,8 @@
       <tuv lang="EN-US">
         <seg>Request</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044322Z" creationid="xccui" creationdate="20190729T044322Z">
-        <seg>Request</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162052Z" creationid="xccui" creationdate="20190729T044322Z">
+        <seg>请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -32970,24 +32970,24 @@
       <tuv lang="EN-US">
         <seg>Request GET /jobmanager/config</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043908Z" creationid="xccui" creationdate="20190729T043908Z">
-        <seg>Request GET /jobmanager/config</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162040Z" creationid="xccui" creationdate="20190729T043908Z">
+        <seg>请求 GET /jobmanager/config</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Request GET /overview</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043801Z" creationid="xccui" creationdate="20190729T043801Z">
-        <seg>Request GET /overview</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162023Z" creationid="xccui" creationdate="20190729T043801Z">
+        <seg>请求 GET /overview</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Request GET /taskmanagers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044024Z" creationid="xccui" creationdate="20190729T044024Z">
-        <seg>Request GET /taskmanagers</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162004Z" creationid="xccui" creationdate="20190729T044024Z">
+        <seg>请求 GET /taskmanagers</seg>
       </tuv>
     </tu>
     <tu>
@@ -33042,8 +33042,8 @@
       <tuv lang="EN-US">
         <seg>Response</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044723Z" creationid="xccui" creationdate="20190729T044723Z">
-        <seg>Response</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162115Z" creationid="xccui" creationdate="20190729T044723Z">
+        <seg>响应</seg>
       </tuv>
     </tu>
     <tu>
@@ -33058,8 +33058,8 @@
       <tuv lang="EN-US">
         <seg>Response Basic information about the cluster as shown above</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043835Z" creationid="xccui" creationdate="20190729T043835Z">
-        <seg>Response 上面展示的基本的集群信息</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162036Z" creationid="xccui" creationdate="20190729T043835Z">
+        <seg>响应 上方展示的基本的集群信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -33074,24 +33074,24 @@
       <tuv lang="EN-US">
         <seg>Response Returns a list of all TaskManagers including their IDs and basic information, such as memory statistics and connection ports</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044145Z" creationid="xccui" creationdate="20190729T044145Z">
-        <seg>Response 返回一个涵盖所有TaskManager的列表，其中包括它们的ID以及基本信息，例如内存统计数据以及连接的端口</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162015Z" creationid="xccui" creationdate="20190729T044145Z">
+        <seg>响应 返回一个涵盖所有TaskManager的列表，其中包括它们的ID以及基本信息，例如内存统计数据以及连接的端口</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Response Returns a list of metrics that are available for the JobManager</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044403Z" creationid="xccui" creationdate="20190729T044403Z">
-        <seg>Response 返回JobManager上可获得的指标</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162103Z" creationid="xccui" creationdate="20190729T044403Z">
+        <seg>响应 返回JobManager上可获得的指标</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Response Returns the configuration of the JobManager as defined in ./conf/flink-conf.yaml</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043934Z" creationid="xccui" creationdate="20190729T043934Z">
-        <seg>Response 返回./conf/flink-conf/yaml中定义的JobManager配置</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162048Z" creationid="xccui" creationdate="20190729T043934Z">
+        <seg>响应 返回./conf/flink-conf/yaml中定义的JobManager配置</seg>
       </tuv>
     </tu>
     <tu>
