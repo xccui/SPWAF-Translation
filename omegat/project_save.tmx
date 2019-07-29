@@ -57633,6 +57633,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Managing Applications with the Command-Line Client” on page 247 provides more details about some of the operations, such as upgrading or scaling an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043014Z" creationid="xccui" creationdate="20190729T043014Z">
+        <seg>第247页"通过命令行客户端管理应用"一节提供了有关某些操作的更多详情，例如升级应用或对应用进行扩缩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Scaling Stateful Operators” on page 56 discusses key groups and how keyed state is scaled out and in.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053126Z" creationid="xccui" creationdate="20190703T024744Z">
