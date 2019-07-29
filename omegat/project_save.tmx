@@ -11855,6 +11855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backpressure metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161706Z" creationid="xccui" creationdate="20190729T161706Z">
+        <seg>背压指标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on the key, the events of the stream are assigned to partitions, so that all</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061101Z" creationid="xccui" creationdate="20190614T050345Z">
@@ -13291,6 +13299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154914Z" creationid="xccui" creationdate="20190225T025624Z">
         <seg>检查点和状态后端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkpointing metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161643Z" creationid="xccui" creationdate="20190729T161643Z">
+        <seg>检查点指标</seg>
       </tuv>
     </tu>
     <tu>
@@ -31744,6 +31760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PATCH /jobs/&lt;jobId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161809Z" creationid="xccui" creationdate="20190729T161809Z">
+        <seg>PATCH /jobs/&lt;jobId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POJO class with Cassandra Object Mapper annotations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220246Z" creationid="xccui" creationdate="20190711T220246Z">
@@ -32468,6 +32492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041917Z" creationid="xccui" creationdate="20190729T041917Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to cancel an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161800Z" creationid="xccui" creationdate="20190729T161800Z">
+        <seg>取消应用的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -35968,6 +36000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-13.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161752Z" creationid="xccui" creationdate="20190729T161752Z">
+        <seg>表10-13，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 10-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043846Z" creationid="xccui" creationdate="20190729T043846Z">
@@ -36116,6 +36156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050756Z" creationid="xccui" creationdate="20190722T050756Z">
         <seg>有关实现和注册自定义文件系统的内容请查阅Flink文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a look at the official documentation for details about how to access this informa‐ tion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161749Z" creationid="xccui" creationdate="20190729T161749Z">
+        <seg>获取这些信息的详细途径请查阅官方文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38740,6 +38788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064946Z" creationid="xccui" creationdate="20190715T064946Z">
         <seg>示例仓库中还包含了一个应用，它会周期性地发生故障并执行恢复，我们以此来展示StdOutWriteAheadSink和常规的DataStream.print()数据汇在故障时的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The exception that caused an application to fail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161718Z" creationid="xccui" creationdate="20190729T161718Z">
+        <seg>导致应用失败的异常信息</seg>
       </tuv>
     </tu>
     <tu>
