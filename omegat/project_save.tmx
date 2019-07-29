@@ -9326,6 +9326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045103Z" creationid="xccui" creationdate="20190729T045103Z">
+        <seg>Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actually, every 5 seconds, Flink invokes the getCurrentWatermark() method of AssignerWithPeriodicWatermarks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045929Z" creationid="xccui" creationdate="20190620T045929Z">
@@ -29015,6 +29023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Managing and montioring Flink applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045225Z" creationid="xccui" creationdate="20190729T045225Z">
+        <seg>管理和监控Flink应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many applications ingest multiple streams that need to be jointly processed or split a stream in order to apply different logic to different substreams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060719Z" creationid="xccui" creationdate="20190614T063301Z">
@@ -30123,6 +30139,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T202432Z" creationid="xccui" creationdate="20190710T202432Z">
         <seg>注意，PROCESS_ONCE模式下的数据源在扫描完所有文件并创建好输入划分之后，不会生成任何检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that in standalone mode, only the master process will be terminated and the worker processes will continue to run.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045217Z" creationid="xccui" creationdate="20190729T045217Z">
+        <seg>注意，在独立集群模式下，只有主进程会被终止，其他工作进程将继续运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32368,6 +32392,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST request to show details of an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045313Z" creationid="xccui" creationdate="20190729T045313Z">
+        <seg>展示应用详细信息的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to shutdown the cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045058Z" creationid="xccui" creationdate="20190729T045058Z">
+        <seg>关闭集群的REST调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043113Z" creationid="xccui" creationdate="20190614T064954Z">
@@ -32724,6 +32764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044322Z" creationid="xccui" creationdate="20190729T044322Z">
         <seg>Request</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Request DELETE /cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045100Z" creationid="xccui" creationdate="20190729T045100Z">
+        <seg>Request DELETE /cluster</seg>
       </tuv>
     </tu>
     <tu>
@@ -33804,6 +33852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210808Z" creationid="esouser" creationdate="20190603T210808Z">
         <seg>Shows text that should be replaced with user-supplied values or by values deter‐ mined by context.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuts down the Flink cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045125Z" creationid="xccui" creationdate="20190729T045125Z">
+        <seg>关闭Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35704,6 +35760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-12.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045252Z" creationid="xccui" creationdate="20190729T045252Z">
+        <seg>表10-12，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 10-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043846Z" creationid="xccui" creationdate="20190729T043846Z">
@@ -35748,6 +35812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044609Z" creationid="xccui" creationdate="20190729T044609Z">
         <seg>表10-5，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045041Z" creationid="xccui" creationdate="20190729T045041Z">
+        <seg>表10-6，</seg>
       </tuv>
     </tu>
     <tu>
@@ -47995,8 +48067,8 @@
       <tuv lang="EN-US">
         <seg>You can also shutdown a cluster using the REST call that is shown in Table 10-6.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045036Z" creationid="xccui" creationdate="20190729T045036Z">
-        <seg>你还可以使用表10-6中的REST调用停止集群。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045051Z" creationid="xccui" creationdate="20190729T045036Z">
+        <seg>你还可以使用表10-6中的REST调用关闭集群。</seg>
       </tuv>
     </tu>
     <tu>
