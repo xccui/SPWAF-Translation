@@ -37960,6 +37960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The application will continue running if the savepoint command failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193338Z" creationid="xccui" creationdate="20190729T193338Z">
+        <seg>反之如果保存点命令失败，则应用将继续运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The application will replay (and fast for‐ ward) the input events from the event log until it reaches the tail of the stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T211749Z" creationid="esouser" creationdate="20190603T211749Z">
@@ -44236,6 +44244,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183308Z" creationid="xccui" creationdate="20190726T183308Z">
         <seg>如果要在不使用保存点的情况下取消当前运行的应用，请运行以下命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check if the request with the ID ebde90836b8b9dc2da90e9e7655f4179 was suc‐ cessful and to retrieve the path of the savepoint run:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193624Z" creationid="xccui" creationdate="20190729T193624Z">
+        <seg>可以通过以下命令检查ID为ebde90836b8b9dc2da90e9e7655f4179的请求是否成功并获取保存点的路径：</seg>
       </tuv>
     </tu>
     <tu>
