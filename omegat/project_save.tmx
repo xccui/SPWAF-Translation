@@ -24631,6 +24631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, you need to provide a JSON object with the path to the savepoint folder and a flag telling whether or not to terminate the application with the savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181027Z" creationid="xccui" creationdate="20190729T181027Z">
+        <seg>此外，你需要提供一个包含了保存点文件夹路径的JSON对象和一个是否在生成保存点后终止应用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In all of these cases, Flink requires Hadoop dependencies on its classpath.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010039Z" creationid="xccui" creationdate="20190722T010039Z">
