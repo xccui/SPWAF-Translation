@@ -32296,6 +32296,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST request to get basic cluster information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043758Z" creationid="xccui" creationdate="20190729T043758Z">
+        <seg>获取集群基本信息的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043113Z" creationid="xccui" creationdate="20190614T064954Z">
@@ -32648,6 +32656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Request GET /overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043801Z" creationid="xccui" creationdate="20190729T043801Z">
+        <seg>Request GET /overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required Software</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022254Z" creationid="xccui" creationdate="20190225T022254Z">
@@ -32692,6 +32708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055036Z" creationid="xccui" creationdate="20190225T025236Z">
         <seg>可重置的数据源函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Response Basic information about the cluster as shown above</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043835Z" creationid="xccui" creationdate="20190729T043835Z">
+        <seg>Response 上面展示的基本的集群信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -35544,6 +35568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043745Z" creationid="xccui" creationdate="20190729T043745Z">
+        <seg>表10-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 8-1 shows the end-to-end consistency guarantees for different types of source and sink connectors that can be achieved in the best case; depending on the imple‐ mentation of the sink, the actual consistency might be worse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165942Z" creationid="xccui" creationdate="20190708T165942Z">
@@ -35572,6 +35604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T013833Z" creationid="xccui" creationdate="20190225T013833Z">
         <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tables 10-1, 10-2, and 10-3 show the REST requests to obtain infor‐ mation about a Flink cluster, such as the number of task slots, running and finished jobs, the configuration of the JobManager, or a list of all connected TaskManagers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043740Z" creationid="xccui" creationdate="20190729T043740Z">
+        <seg>表10-1，10-2和10-3所展示的REST请求可用来获取Flink集群信息，例如：任务槽的数量，正在运行和已结束的作业，JobManager的配置以及所有连接的TaskManager列表。</seg>
       </tuv>
     </tu>
     <tu>
