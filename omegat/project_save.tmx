@@ -21135,6 +21135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GET /jobmanager/metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044326Z" creationid="xccui" creationdate="20190729T044326Z">
+        <seg>GET /jobmanager/metrics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelly for Graph Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152554Z" creationid="esouser" creationdate="20190603T152554Z">
@@ -25363,6 +25371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035159Z" creationid="xccui" creationdate="20190726T035159Z">
         <seg>为了删除之前生成的保存点，我们可以使用以下命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to retrieve one or more JobManager metrics, add the get query parameter with all the requested metrics to the request:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044531Z" creationid="xccui" creationdate="20190729T044531Z">
+        <seg>为了得到一个或多个JobManager指标，请将所有请求指标以get查询参数的形式加入到请求中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32320,6 +32336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST request to list available JobManager metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044317Z" creationid="xccui" creationdate="20190729T044317Z">
+        <seg>列出JobManager可用指标的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043113Z" creationid="xccui" creationdate="20190614T064954Z">
@@ -32672,6 +32696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Request</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044322Z" creationid="xccui" creationdate="20190729T044322Z">
+        <seg>Request</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request GET /jobmanager/config</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043908Z" creationid="xccui" creationdate="20190729T043908Z">
@@ -32756,6 +32788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044145Z" creationid="xccui" creationdate="20190729T044145Z">
         <seg>Response 返回一个涵盖所有TaskManager的列表，其中包括它们的ID以及基本信息，例如内存统计数据以及连接的端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Response Returns a list of metrics that are available for the JobManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044403Z" creationid="xccui" creationdate="20190729T044403Z">
+        <seg>Response 返回JobManager上可获得的指标</seg>
       </tuv>
     </tu>
     <tu>
@@ -35636,6 +35676,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043937Z" creationid="xccui" creationdate="20190729T043937Z">
         <seg>表10-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-4 shows the REST request to list all metrics that are collected for the Job‐ Manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044251Z" creationid="xccui" creationdate="20190729T044251Z">
+        <seg>表10-4展示的REST请求可以列出JobManager中收集的全部指标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044255Z" creationid="xccui" creationdate="20190729T044255Z">
+        <seg>表10-4，</seg>
       </tuv>
     </tu>
     <tu>
