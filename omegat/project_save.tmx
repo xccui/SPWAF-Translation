@@ -21183,6 +21183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GET /jobs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152721Z" creationid="xccui" creationdate="20190729T152721Z">
+        <seg>GET /jobs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GET /taskmanagers/&lt;tmId&gt;/metrics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044655Z" creationid="xccui" creationdate="20190729T044655Z">
@@ -32456,6 +32464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST request to list all applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152718Z" creationid="xccui" creationdate="20190729T152718Z">
+        <seg>列出所有应用程序的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REST request to list all connected TaskManagers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044013Z" creationid="xccui" creationdate="20190729T044013Z">
@@ -32980,6 +32996,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043835Z" creationid="xccui" creationdate="20190729T043835Z">
         <seg>Response 上面展示的基本的集群信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Response Lists the job IDs of all running applications and the job IDs of the most recently failed, canceled, and finished</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152905Z" creationid="xccui" creationdate="20190729T152905Z">
+        <seg>Response 所有正在运行应用的作业ID列表以及近期失败的、取消的和结束应用的作业ID列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35896,6 +35920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152653Z" creationid="xccui" creationdate="20190729T152653Z">
+        <seg>表10-11，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 10-12.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045252Z" creationid="xccui" creationdate="20190729T045252Z">
@@ -36020,6 +36052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044022Z" creationid="xccui" creationdate="20190729T043740Z">
         <seg>表10-1，10-2和10-3所展示的REST请求可用来获取Flink集群信息，例如：任务槽的数量，正在运行和已结束的作业，JobManager的配置以及所有相连的TaskManager列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tables 10-11, 10-12, and 10-13 show how to manage running applications using the REST API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152650Z" creationid="xccui" creationdate="20190729T152650Z">
+        <seg>表10-11、10-12和10-13展示了如何使用REST API管理正在运行的应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38332,6 +38372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T060359Z" creationid="xccui" creationdate="20190613T055004Z">
         <seg>对应的FlatMapFunction定义了flatMap()方法，你可以在其中通过向Collector对象传递数据的方式返回零个、一个或多个事件作为结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The curl command to start an application with a default parallelism of 4 is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152618Z" creationid="xccui" creationdate="20190729T152600Z">
+        <seg>一下curl命令可以启动应用并将默认并行度设置为4：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50641,6 +50689,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>curl -d '{"parallelism":"4"}' -X POST \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152620Z" creationid="xccui" creationdate="20190729T152620Z">
+        <seg>curl -d '{"parallelism":"4"}' -X POST \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>currentProcessingTime(): Long returns the current processing time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060006Z" creationid="xccui" creationdate="20190621T060006Z">
@@ -51677,6 +51733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045726Z" creationid="xccui" creationdate="20190729T045726Z">
         <seg>http://hostname:port/v1/jars/upload</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://localhost:8081/v1/jars/43e844ef-382f-45c3-aa2f-00549acd961e_App.jar/run</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152624Z" creationid="xccui" creationdate="20190729T152624Z">
+        <seg>http://localhost:8081/v1/jars/43e844ef-382f-45c3-aa2f-00549acd961e_App.jar/run</seg>
       </tuv>
     </tu>
     <tu>
