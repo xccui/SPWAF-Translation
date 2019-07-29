@@ -31704,6 +31704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POST /jars/upload</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045512Z" creationid="xccui" creationdate="20190729T045512Z">
+        <seg>POST /jars/upload</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PURGE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184625Z" creationid="xccui" creationdate="20190626T184625Z">
@@ -31732,6 +31740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183657Z" creationid="xccui" creationdate="20190606T032919Z">
         <seg>由于结果需要同时依赖状态和到来的事件，所以状态并行化会变得异常复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters The file must be sent as multipart data Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045622Z" creationid="xccui" creationdate="20190729T045622Z">
+        <seg>Parameters 文件必须以Multipart数据形式上传 Action</seg>
       </tuv>
     </tu>
     <tu>
@@ -32404,6 +32420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045058Z" creationid="xccui" creationdate="20190729T045058Z">
         <seg>关闭集群的REST调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to upload a JAR file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045508Z" creationid="xccui" creationdate="20190729T045508Z">
+        <seg>上传JAR包的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -35824,6 +35848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045456Z" creationid="xccui" creationdate="20190729T045456Z">
+        <seg>表10-7，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 8-1 shows the end-to-end consistency guarantees for different types of source and sink connectors that can be achieved in the best case; depending on the imple‐ mentation of the sink, the actual consistency might be worse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165942Z" creationid="xccui" creationdate="20190708T165942Z">
@@ -35860,6 +35892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044022Z" creationid="xccui" creationdate="20190729T043740Z">
         <seg>表10-1，10-2和10-3所展示的REST请求可用来获取Flink集群信息，例如：任务槽的数量，正在运行和已结束的作业，JobManager的配置以及所有相连的TaskManager列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tables 10-7, 10-8, and 10-9 show the REST endpoints to manage these JAR files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045449Z" creationid="xccui" creationdate="20190729T045436Z">
+        <seg>表10-7、10-8和10-9展示了用于管理这些JAR包的REST端点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37124,6 +37164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T201531Z" creationid="xccui" creationdate="20190705T201531Z">
         <seg>QueryableStateServer用于处理客户端代理的请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The REST API can also be used to manage and monitor Flink applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045336Z" creationid="xccui" creationdate="20190729T045336Z">
+        <seg>REST API还可用于管理和监控Flink应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44004,6 +44052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T043556Z" creationid="xccui" creationdate="20190605T043556Z">
         <seg>在某种程度上，使用数据管道应用来导入数据可以降低延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start an application, you first need to upload the application’s JAR file to the cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045440Z" creationid="xccui" creationdate="20190729T045411Z">
+        <seg>要启动一个应用，你必须先将应用的JAR包传到集群。</seg>
       </tuv>
     </tu>
     <tu>
