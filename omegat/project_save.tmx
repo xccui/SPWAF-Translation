@@ -39834,8 +39834,8 @@
       <tuv lang="EN-US">
         <seg>The image can be started in two ways—as a JobMaster con‐ tainer or a TaskManager container.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T214549Z" creationid="xccui" creationdate="20190729T214549Z">
-        <seg>该映像可以以两种方式启动——作为JobManager容器或TaskManager容器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T215357Z" creationid="xccui" creationdate="20190729T214549Z">
+        <seg>该映像可以以两种方式启动——作为主容器或TaskManager容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47741,6 +47741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052653Z" creationid="xccui" creationdate="20190605T234653Z">
         <seg>当首个事件进入时，系统会立刻以尽可能低的延迟进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the image is deployed as a JobMaster, the container starts a Flink master process that immediately picks up the bundled appli‐ cation to start it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T214608Z" creationid="xccui" creationdate="20190729T214608Z">
+        <seg>当映像作为JobMaster</seg>
       </tuv>
     </tu>
     <tu>
