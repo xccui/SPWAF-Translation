@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-X POST http://localhost:8081/v1/jobs/e99cdb41b422631c8ee2218caa6af1cc/savepoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181405Z" creationid="xccui" creationdate="20190729T181405Z">
+        <seg>-X POST http://localhost:8081/v1/jobs/e99cdb41b422631c8ee2218caa6af1cc/savepoints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-c io.github.streamingwithflink.chapter1.AverageSensorReadings \ examples-scala.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T040003Z" creationid="xccui" creationdate="20190329T040003Z">
@@ -8438,6 +8446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A request to cancel the application will only succeed if the save‐ point was successfully taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193305Z" creationid="xccui" creationdate="20190729T193305Z">
+        <seg>只有在保存点成功创建后，取消应用的请求才会生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A resettable SourceFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033917Z" creationid="xccui" creationdate="20190713T033917Z">
@@ -12961,8 +12977,8 @@
       <tuv lang="EN-US">
         <seg>Canceling an Application with a Savepoint Might Fail</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043501Z" creationid="xccui" creationdate="20190729T043501Z">
-        <seg>取消需要生成保存点的应用可能会失败</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181458Z" creationid="xccui" creationdate="20190729T043501Z">
+        <seg>生成保存点并取消应用可能会失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -50905,6 +50921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>curl -d '{"target-directory":"file:///savepoints", "cancel-job":"false"}'\</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181402Z" creationid="xccui" creationdate="20190729T181402Z">
+        <seg>curl -d '{"target-directory":"file:///savepoints", "cancel-job":"false"}'\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>currentProcessingTime(): Long returns the current processing time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060006Z" creationid="xccui" creationdate="20190621T060006Z">
@@ -58373,6 +58397,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042107Z" creationid="xccui" creationdate="20190729T042107Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{"request-id":"ebde90836b8b9dc2da90e9e7655f4179"}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181408Z" creationid="xccui" creationdate="20190729T181408Z">
+        <seg>{"request-id":"ebde90836b8b9dc2da90e9e7655f4179"}</seg>
       </tuv>
     </tu>
     <tu>
