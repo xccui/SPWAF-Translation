@@ -12975,6 +12975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancels the application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162409Z" creationid="xccui" creationdate="20190729T162409Z">
+        <seg>取消应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Case class fields are accessed by name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T040708Z" creationid="xccui" creationdate="20190617T040708Z">
@@ -31882,8 +31890,8 @@
       <tuv lang="EN-US">
         <seg>Parameters jobId: The ID of a job as provided by the list application command Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162341Z" creationid="xccui" creationdate="20190729T162341Z">
-        <seg>参数 jobId：使用列出应用命令所得到的作业ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162415Z" creationid="xccui" creationdate="20190729T162341Z">
+        <seg>参数 jobId：使用列出应用命令所得到的作业ID 行为</seg>
       </tuv>
     </tu>
     <tu>
