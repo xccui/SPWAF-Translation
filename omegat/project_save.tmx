@@ -39832,6 +39832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The image can be started in two ways—as a JobMaster con‐ tainer or a TaskManager container.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T214549Z" creationid="xccui" creationdate="20190729T214549Z">
+        <seg>该映像可以以两种方式启动——作为JobManager容器或TaskManager容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The implementation details of SensorTimeAssigner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051005Z" creationid="xccui" creationdate="20190612T052147Z">
