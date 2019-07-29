@@ -51433,6 +51433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is configured per operator using the setMaxParallelism() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T031609Z" creationid="xccui" creationdate="20190729T031609Z">
+        <seg>为了设置该键值组的数值，我们可以针对每个算子调用setMaxParallelism()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is defined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T024915Z" creationid="xccui" creationdate="20190626T024915Z">
