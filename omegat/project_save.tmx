@@ -7782,6 +7782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A common command-line tool to interact with REST API is curl.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040925Z" creationid="xccui" creationdate="20190729T040925Z">
+        <seg>curl是一个在命令行模式下与REST API进行交互的常见工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A common pattern is to write results into a database or key-value store and have other applications retrieve the result from that datastore.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T141914Z" creationid="xccui" creationdate="20190705T141914Z">
@@ -9042,6 +9050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T064258Z" creationid="xccui" creationdate="20190614T064258Z">
         <seg>将两条输入流合二为一的union操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A value of -1 disables the REST API and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040837Z" creationid="xccui" creationdate="20190729T040837Z">
+        <seg>值为-1意味着禁用REST API和Web UI。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32200,6 +32216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST command looks like:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041108Z" creationid="xccui" creationdate="20190729T041108Z">
+        <seg>一个典型的curl REST命令如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043113Z" creationid="xccui" creationdate="20190614T064954Z">
@@ -45724,6 +45748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T160115Z" creationid="xccui" creationdate="20190605T131312Z">
         <seg>在此由衷地感谢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web UI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040839Z" creationid="xccui" creationdate="20190729T040839Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
