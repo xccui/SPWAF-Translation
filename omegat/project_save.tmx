@@ -21191,6 +21191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GET /jobs/&lt;jobId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152914Z" creationid="xccui" creationdate="20190729T152914Z">
+        <seg>GET /jobs/&lt;jobId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GET /taskmanagers/&lt;tmId&gt;/metrics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044655Z" creationid="xccui" creationdate="20190729T044655Z">
@@ -31810,8 +31818,8 @@
       <tuv lang="EN-US">
         <seg>Parameters jarId: The ID of the JAR file as provided by the list JAR file command</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050007Z" creationid="xccui" creationdate="20190729T050007Z">
-        <seg>Parameters jarId：使用列出JAR文件命令所给出的JAR文件ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153028Z" creationid="xccui" creationdate="20190729T050007Z">
+        <seg>Parameters jarId：使用列出JAR文件命令所得到的JAR文件ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -31820,6 +31828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050229Z" creationid="xccui" creationdate="20190729T050229Z">
         <seg>Parameters jarId：启动应用的JAR文件ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters jobId: The ID of a job as provided by the list application command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153011Z" creationid="xccui" creationdate="20190729T153011Z">
+        <seg>Parameters jarId：使用列出应用命令所得到的JAR文件ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -49516,6 +49532,14 @@
         <seg>application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T032948Z" creationid="xccui" creationdate="20190418T032948Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152907Z" creationid="xccui" creationdate="20190729T152907Z">
         <seg></seg>
       </tuv>
     </tu>
