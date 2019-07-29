@@ -21143,6 +21143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GET /taskmanagers/&lt;tmId&gt;/metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044655Z" creationid="xccui" creationdate="20190729T044655Z">
+        <seg>GET /taskmanagers/&lt;tmId&gt;/metrics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelly for Graph Processing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152554Z" creationid="esouser" creationdate="20190603T152554Z">
@@ -31704,6 +31712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameters tmId: The ID of a connected TaskManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044720Z" creationid="xccui" creationdate="20190729T044720Z">
+        <seg>Parameters tmId：相连TaskManager的ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Partitioning transformations correspond to the data exchange strategies we intro‐ duced in “Data Exchange Strategies” on page 19.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065003Z" creationid="xccui" creationdate="20190615T064707Z">
@@ -32340,6 +32356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044317Z" creationid="xccui" creationdate="20190729T044317Z">
         <seg>列出JobManager可用指标的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to list available TaskManager metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044652Z" creationid="xccui" creationdate="20190729T044652Z">
+        <seg>列出TaskManager可用指标的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -35692,6 +35716,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044255Z" creationid="xccui" creationdate="20190729T044255Z">
         <seg>表10-4，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-5 shows the REST request to list all metrics that are collected for the Task‐ Managers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044604Z" creationid="xccui" creationdate="20190729T044604Z">
+        <seg>表10-5展示的REST请求可以列出TaskManager中收集的全部指标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044609Z" creationid="xccui" creationdate="20190729T044609Z">
+        <seg>表10-5，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50229,6 +50269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041212Z" creationid="xccui" creationdate="20190729T041120Z">
         <seg>curl -X &lt;HTTP-Method&gt; [-d &lt;parameters&gt;] http://hostname:port/v1/&lt;REST-point&gt; v1表示REST API的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curl -X GET http://hostname:port/v1/jobmanager/metrics?get=metric1,metric2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044534Z" creationid="xccui" creationdate="20190729T044534Z">
+        <seg>curl -X GET http://hostname:port/v1/jobmanager/metrics?get=metric1,metric2</seg>
       </tuv>
     </tu>
     <tu>
