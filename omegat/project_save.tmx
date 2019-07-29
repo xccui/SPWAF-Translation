@@ -47673,6 +47673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can configure a different port at the ./conf/flink-conf.yaml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040455Z" creationid="xccui" creationdate="20190729T040433Z">
+        <seg>你可以通过./conf/flink-conf.yaml文件内的rest.port配置项对该端口进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can configure the RollingPolicy with the withRollingPolicy() method on the builder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T021655Z" creationid="xccui" creationdate="20190711T021355Z">
@@ -50660,6 +50668,14 @@
         <seg>file formats, such as Apache Orc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T183045Z" creationid="xccui" creationdate="20190711T183045Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>file with the configuration key rest.port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040436Z" creationid="xccui" creationdate="20190729T040436Z">
         <seg></seg>
       </tuv>
     </tu>
