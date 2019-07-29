@@ -28975,6 +28975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Managing and monitoring a Flink cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043033Z" creationid="xccui" creationdate="20190729T043033Z">
+        <seg>管理和监控Flink集群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many applications ingest multiple streams that need to be jointly processed or split a stream in order to apply different logic to different substreams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060719Z" creationid="xccui" creationdate="20190614T063301Z">
@@ -36828,6 +36836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T035942Z" creationid="xccui" creationdate="20190729T035942Z">
         <seg>REST API可以由用户或脚本直接访问，它能够对外暴露有关Flink集群和应用的信息，包括指标数据及用于提交和控制应用程序的端点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The REST API exposes endpoints to query information about a running cluster and to shut it down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043219Z" creationid="xccui" creationdate="20190729T043219Z">
+        <seg>REST API公开的一些端点</seg>
       </tuv>
     </tu>
     <tu>
