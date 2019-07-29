@@ -34882,8 +34882,8 @@
       <tuv lang="EN-US">
         <seg>So far we have explained how to start an application on a running Flink cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T202209Z" creationid="xccui" creationdate="20190729T202209Z">
-        <seg>到目前为止，我们已经解释过如何在一个运行的Flink集群上启动一个应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T202219Z" creationid="xccui" creationdate="20190729T202209Z">
+        <seg>到目前为止，我们已经解释过如何在一个运行的Flink集群上启动一个应用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -43476,6 +43476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190313T005726Z" creationid="xccui" creationdate="20190312T214059Z">
         <seg>这在Flink保存点（savepoint）功能的加持下，尤为引人注目。所谓保存点功能是指在保证一致性的前提下，允许将应用状态重置到先前某个保存的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is what we call the framework style of deploying applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T202333Z" creationid="xccui" creationdate="20190729T202333Z">
+        <seg>即我们称作框架模式的应用部署模式。</seg>
       </tuv>
     </tu>
     <tu>
