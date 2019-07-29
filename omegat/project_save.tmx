@@ -32544,6 +32544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to the official documentation of Apache Flink for a complete list of supported calls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042817Z" creationid="xccui" creationdate="20190729T042817Z">
+        <seg>请参阅Apache Flink官方文档以获取所支持的完整调用列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to “Filesystem Configuration” on page 237 to learn how to configure filesystems in Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T184814Z" creationid="xccui" creationdate="20190710T184814Z">
