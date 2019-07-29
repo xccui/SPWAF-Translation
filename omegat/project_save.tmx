@@ -32304,6 +32304,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST request to get the JobManager configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043905Z" creationid="xccui" creationdate="20190729T043905Z">
+        <seg>获取JobManager配置的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to list all connected TaskManagers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044013Z" creationid="xccui" creationdate="20190729T044013Z">
+        <seg>列出所有相连的TaskManager的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043113Z" creationid="xccui" creationdate="20190614T064954Z">
@@ -32656,10 +32672,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Request GET /jobmanager/config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043908Z" creationid="xccui" creationdate="20190729T043908Z">
+        <seg>Request GET /jobmanager/config</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request GET /overview</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043801Z" creationid="xccui" creationdate="20190729T043801Z">
         <seg>Request GET /overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Request GET /taskmanagers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044024Z" creationid="xccui" creationdate="20190729T044024Z">
+        <seg>Request GET /taskmanagers</seg>
       </tuv>
     </tu>
     <tu>
@@ -32716,6 +32748,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043835Z" creationid="xccui" creationdate="20190729T043835Z">
         <seg>Response 上面展示的基本的集群信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Response Returns a list of all TaskManagers including their IDs and basic information, such as memory statistics and connection ports</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044145Z" creationid="xccui" creationdate="20190729T044145Z">
+        <seg>Response 返回一个涵盖所有TaskManager的列表，其中包括它们的ID以及基本信息，例如内存统计数据以及连接的端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Response Returns the configuration of the JobManager as defined in ./conf/flink-conf.yaml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043934Z" creationid="xccui" creationdate="20190729T043934Z">
+        <seg>Response 返回./conf/flink-conf/yaml中定义的JobManager配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -35576,6 +35624,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043846Z" creationid="xccui" creationdate="20190729T043846Z">
+        <seg>表10-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043937Z" creationid="xccui" creationdate="20190729T043937Z">
+        <seg>表10-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 8-1 shows the end-to-end consistency guarantees for different types of source and sink connectors that can be achieved in the best case; depending on the imple‐ mentation of the sink, the actual consistency might be worse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165942Z" creationid="xccui" creationdate="20190708T165942Z">
@@ -35610,8 +35674,8 @@
       <tuv lang="EN-US">
         <seg>Tables 10-1, 10-2, and 10-3 show the REST requests to obtain infor‐ mation about a Flink cluster, such as the number of task slots, running and finished jobs, the configuration of the JobManager, or a list of all connected TaskManagers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043740Z" creationid="xccui" creationdate="20190729T043740Z">
-        <seg>表10-1，10-2和10-3所展示的REST请求可用来获取Flink集群信息，例如：任务槽的数量，正在运行和已结束的作业，JobManager的配置以及所有连接的TaskManager列表。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044022Z" creationid="xccui" creationdate="20190729T043740Z">
+        <seg>表10-1，10-2和10-3所展示的REST请求可用来获取Flink集群信息，例如：任务槽的数量，正在运行和已结束的作业，JobManager的配置以及所有相连的TaskManager列表。</seg>
       </tuv>
     </tu>
     <tu>
