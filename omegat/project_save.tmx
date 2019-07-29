@@ -9038,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A typical curl</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041111Z" creationid="xccui" creationdate="20190729T041111Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A typical example is a stream of click events where clicks have a session id attribute that expires after some time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T141432Z" creationid="xccui" creationdate="20190704T141225Z">
@@ -11579,6 +11587,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045615Z" creationid="xccui" creationdate="20190620T045615Z">
         <seg>周期性分配水位线的含义是我们会指示系统以固定的机器时间间隔来发出水位线并推动事件时间前进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assuming you are running a local Flink setup that exposes its REST API</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041500Z" creationid="xccui" creationdate="20190729T041500Z">
+        <seg>假设你所搭建和运行的本地Flink其REST API使用的端口是8081，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18643,6 +18659,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T042933Z" creationid="xccui" creationdate="20190606T205759Z">
         <seg>为了处理迟到记录，Flink提供了不同的机制，我们将在148页"处理迟到数据"一节讨论它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink 1.7 exposes the first version (v1) of the API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041305Z" creationid="xccui" creationdate="20190729T041305Z">
+        <seg>Flink 1.7中公开的是第一版本（v1）的API。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32218,8 +32242,8 @@
       <tuv lang="EN-US">
         <seg>REST command looks like:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041108Z" creationid="xccui" creationdate="20190729T041108Z">
-        <seg>一个典型的curl REST命令如下所示：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041142Z" creationid="xccui" creationdate="20190729T041108Z">
+        <seg>一个典型的curl REST命令会像下面这样：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49965,6 +49989,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042723Z" creationid="xccui" creationdate="20190626T042723Z">
         <seg>ctx: WindowAssigner.WindowAssignerContext): java.util.List[TimeWindow] = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curl -X &lt;HTTP-Method&gt; [-d &lt;parameters&gt;] http://hostname:port/v1/&lt;REST-point&gt; The v1 indicates the version of the REST API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041212Z" creationid="xccui" creationdate="20190729T041120Z">
+        <seg>curl -X &lt;HTTP-Method&gt; [-d &lt;parameters&gt;] http://hostname:port/v1/&lt;REST-point&gt; v1表示REST API的版本。</seg>
       </tuv>
     </tu>
     <tu>
