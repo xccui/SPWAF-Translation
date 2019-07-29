@@ -14199,6 +14199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELETE /jars/&lt;jarId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045858Z" creationid="xccui" creationdate="20190729T045858Z">
+        <seg>DELETE /jars/&lt;jarId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050347Z" creationid="xccui" creationdate="20190612T051345Z">
@@ -21139,6 +21147,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212359Z" creationid="xccui" creationdate="20190716T212359Z">
         <seg>Future[String]保存了JDBC查询的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GET /jars</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045752Z" creationid="xccui" creationdate="20190729T045752Z">
+        <seg>GET /jars</seg>
       </tuv>
     </tu>
     <tu>
@@ -31752,6 +31768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameters jarId: The ID of the JAR file as provided by the list JAR file command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050007Z" creationid="xccui" creationdate="20190729T050007Z">
+        <seg>Parameters jarId：使用列出JAR文件命令所给出的JAR文件ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameters tmId: The ID of a connected TaskManager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044720Z" creationid="xccui" creationdate="20190729T044720Z">
@@ -32368,6 +32392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST request to delete a JAR file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045855Z" creationid="xccui" creationdate="20190729T045855Z">
+        <seg>删除JAR文件的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REST request to get basic cluster information</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043758Z" creationid="xccui" creationdate="20190729T043758Z">
@@ -32388,6 +32420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044013Z" creationid="xccui" creationdate="20190729T044013Z">
         <seg>列出所有相连的TaskManager的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to list all uploaded JAR files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045749Z" creationid="xccui" creationdate="20190729T045749Z">
+        <seg>列出所有上传的JAR文件的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -32876,6 +32916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044723Z" creationid="xccui" creationdate="20190729T044723Z">
         <seg>Response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Response A list of all uploaded JAR files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045818Z" creationid="xccui" creationdate="20190729T045818Z">
+        <seg>Response 所有上传的JAR文件列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35856,6 +35904,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045737Z" creationid="xccui" creationdate="20190729T045737Z">
+        <seg>表10-8，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-9.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045848Z" creationid="xccui" creationdate="20190729T045848Z">
+        <seg>表10-9，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 8-1 shows the end-to-end consistency guarantees for different types of source and sink connectors that can be achieved in the best case; depending on the imple‐ mentation of the sink, the actual consistency might be worse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T165942Z" creationid="xccui" creationdate="20190708T165942Z">
@@ -35898,8 +35962,8 @@
       <tuv lang="EN-US">
         <seg>Tables 10-7, 10-8, and 10-9 show the REST endpoints to manage these JAR files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045449Z" creationid="xccui" creationdate="20190729T045436Z">
-        <seg>表10-7、10-8和10-9展示了用于管理这些JAR包的REST端点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045705Z" creationid="xccui" creationdate="20190729T045436Z">
+        <seg>表10-7、10-8和10-9展示了用于管理这些JAR文件的REST端点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38208,6 +38272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The curl command to upload a JAR file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045720Z" creationid="xccui" creationdate="20190729T045720Z">
+        <seg>用于上传JAR文件的curl命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dashboard will</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T045936Z" creationid="xccui" creationdate="20190707T045936Z">
@@ -39548,6 +39620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T220045Z" creationid="xccui" creationdate="20190607T220045Z">
         <seg>列表中的条目可以是任意类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list includes the internal ID of a JAR file, its original name, and the time when it was uploaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045843Z" creationid="xccui" creationdate="20190729T045843Z">
+        <seg>该列表包含了JAR文件的内部ID、其原始名称以及上传时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41052,6 +41132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T045130Z" creationid="xccui" creationdate="20190724T045130Z">
         <seg>本地状态副本的存储位置同样可配（taskmanager.state.local.root-dirs）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The storage location of the uploaded JAR file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045656Z" creationid="xccui" creationdate="20190729T045656Z">
+        <seg>上传JAR文件的存储位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -44058,8 +44146,8 @@
       <tuv lang="EN-US">
         <seg>To start an application, you first need to upload the application’s JAR file to the cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045440Z" creationid="xccui" creationdate="20190729T045411Z">
-        <seg>要启动一个应用，你必须先将应用的JAR包传到集群。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045659Z" creationid="xccui" creationdate="20190729T045411Z">
+        <seg>要启动一个应用，你必须先将应用的JAR文件传到集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44836,6 +44924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T025639Z" creationid="xccui" creationdate="20190607T025639Z">
         <seg>利用水位线更新任务的事件时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uploads a JAR file to the cluster</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045633Z" creationid="xccui" creationdate="20190729T045633Z">
+        <seg>将JAR文件上传到集群</seg>
       </tuv>
     </tu>
     <tu>
@@ -50457,6 +50553,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>curl -X POST -H "Expect:" -F "jarfile=@path/to/flink-job.jar" \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045723Z" creationid="xccui" creationdate="20190729T045723Z">
+        <seg>curl -X POST -H "Expect:" -F "jarfile=@path/to/flink-job.jar" \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>currentProcessingTime(): Long returns the current processing time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060006Z" creationid="xccui" creationdate="20190621T060006Z">
@@ -51477,6 +51581,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T035513Z" creationid="xccui" creationdate="20190718T035513Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://hostname:port/v1/jars/upload</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045726Z" creationid="xccui" creationdate="20190729T045726Z">
+        <seg>http://hostname:port/v1/jars/upload</seg>
       </tuv>
     </tu>
     <tu>
