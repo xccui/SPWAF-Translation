@@ -8454,6 +8454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A request ID to check whether the savepoint was successfully disposed or not</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200802Z" creationid="xccui" creationdate="20190729T200802Z">
+        <seg>用于检查保存点是否已经成功删除的请求ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A request to cancel the application will only succeed if the save‐ point was successfully taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193305Z" creationid="xccui" creationdate="20190729T193305Z">
@@ -15051,6 +15059,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025610Z" creationid="xccui" creationdate="20190225T025610Z">
         <seg>磁盘存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disposes of a savepoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200737Z" creationid="xccui" creationdate="20190729T200737Z">
+        <seg>删除保存点</seg>
       </tuv>
     </tu>
     <tu>
