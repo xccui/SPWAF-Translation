@@ -19441,8 +19441,8 @@
       <tuv lang="EN-US">
         <seg>Flink serves the REST API and the Web UI from the same web server, which runs as part of the Dispatcher process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040341Z" creationid="xccui" creationdate="20190729T040050Z">
-        <seg>Flink使用一个Web服务器来同时提供REST API和Web UI，该服务器会作为Dispatcher进程的一部分来运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040748Z" creationid="xccui" creationdate="20190729T040050Z">
+        <seg>Flink使用一个Web服务器来同时支持REST API和Web UI，该服务器会作为Dispatcher进程的一部分来运行。</seg>
       </tuv>
     </tu>
     <tu>
