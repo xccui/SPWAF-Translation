@@ -12919,6 +12919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canceling an Application with a Savepoint Might Fail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043501Z" creationid="xccui" creationdate="20190729T043501Z">
+        <seg>取消需要生成保存点的应用可能会失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canceling an application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T035354Z" creationid="xccui" creationdate="20190726T035354Z">
@@ -36842,8 +36850,8 @@
       <tuv lang="EN-US">
         <seg>The REST API exposes endpoints to query information about a running cluster and to shut it down.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043219Z" creationid="xccui" creationdate="20190729T043219Z">
-        <seg>REST API公开的一些端点</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043359Z" creationid="xccui" creationdate="20190729T043219Z">
+        <seg>REST API公开的一些端点可用来查询有关正在运行集群的信息或将其关闭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52739,8 +52747,8 @@
       <tuv lang="EN-US">
         <seg>on port 8081, the following curl command submits a GET request to the /overview</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041914Z" creationid="xccui" creationdate="20190729T041914Z">
-        <seg>以下curl命令将向/overview的REST路径提交一个GET请求：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043226Z" creationid="xccui" creationdate="20190729T041914Z">
+        <seg>以下curl命令将向/overview的REST端点提交一个GET请求：</seg>
       </tuv>
     </tu>
     <tu>
