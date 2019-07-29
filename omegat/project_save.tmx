@@ -32248,6 +32248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST point:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041917Z" creationid="xccui" creationdate="20190729T041917Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043113Z" creationid="xccui" creationdate="20190614T064954Z">
@@ -37644,6 +37652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183744Z" creationid="xccui" creationdate="20190726T183744Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The command returns some basic information about the cluster, such as the Flink version, the number of TaskManagers, slots, and jobs that are running, finished, can‐ celled, or failed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042102Z" creationid="xccui" creationdate="20190729T042102Z">
+        <seg>该命令会返回集群的一些基本信息，例如：Flink版本，TaskManager和处理槽的数量，以及当前正在运行、已完成、已取消或已失败的作业：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49997,6 +50013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041212Z" creationid="xccui" creationdate="20190729T041120Z">
         <seg>curl -X &lt;HTTP-Method&gt; [-d &lt;parameters&gt;] http://hostname:port/v1/&lt;REST-point&gt; v1表示REST API的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curl -X GET http://localhost:8081/v1/overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041921Z" creationid="xccui" creationdate="20190729T041921Z">
+        <seg>curl -X GET http://localhost:8081/v1/overview</seg>
       </tuv>
     </tu>
     <tu>
