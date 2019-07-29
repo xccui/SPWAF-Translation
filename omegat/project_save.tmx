@@ -8430,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A request ID to check whether the savepoint trigger action completed successfully</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181216Z" creationid="xccui" creationdate="20190729T181216Z">
+        <seg>一个用于检查保存点所触发的操作是否已经成功完成的请求ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A resettable SourceFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T033917Z" creationid="xccui" creationdate="20190713T033917Z">
@@ -24633,8 +24641,8 @@
       <tuv lang="EN-US">
         <seg>In addition, you need to provide a JSON object with the path to the savepoint folder and a flag telling whether or not to terminate the application with the savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181027Z" creationid="xccui" creationdate="20190729T181027Z">
-        <seg>此外，你需要提供一个包含了保存点文件夹路径的JSON对象和一个是否在生成保存点后终止应用的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181108Z" creationid="xccui" creationdate="20190729T181027Z">
+        <seg>此外，你需要提供一个包含了保存点文件夹路径的JSON对象和一个是否在生成保存点后终止应用的标志。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36240,6 +36248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Takes a savepoint of the application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181124Z" creationid="xccui" creationdate="20190729T181124Z">
+        <seg>为指定应用生成一个保存点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taking a savepoint from an application and restoring an application from a savepoint</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T215136Z" creationid="xccui" creationdate="20190609T215136Z">
@@ -38532,6 +38548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152618Z" creationid="xccui" creationdate="20190729T152600Z">
         <seg>一下curl命令可以启动应用并将默认并行度设置为4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The curl command to trigger a savepoint without canceling is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181400Z" creationid="xccui" creationdate="20190729T181400Z">
+        <seg>生成保存点而不取消应用的curl命令是：</seg>
       </tuv>
     </tu>
     <tu>
