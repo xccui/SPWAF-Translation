@@ -39408,6 +39408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of key groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T031615Z" creationid="xccui" creationdate="20190729T031615Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of key groups limits the maximum number of parallel tasks to which keyed state can be scaled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024550Z" creationid="xccui" creationdate="20190703T024550Z">
@@ -54709,6 +54717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T020537Z" creationid="xccui" creationdate="20190704T020537Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Maximum Parallelism of Keyed State Operators”.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T031711Z" creationid="xccui" creationdate="20190729T031711Z">
+        <seg>（见"为使用键值分区状态的算子定义最大并行度"。）</seg>
       </tuv>
     </tu>
     <tu>
