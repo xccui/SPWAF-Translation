@@ -11879,6 +11879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic statistics such as the name of the application, the start time (and end time), and information about the executed tasks including the number of ingested and emitted records and bytes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153232Z" creationid="xccui" creationdate="20190729T153232Z">
+        <seg>基本统计信息，例如：应用名称，开始时间（和结束时间），有关执行任务的信息（包括接收我发出的记录数和字节数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic transformations are transformations on individual events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054628Z" creationid="xccui" creationdate="20190613T024209Z">
@@ -37348,6 +37356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T201531Z" creationid="xccui" creationdate="20190705T201531Z">
         <seg>QueryableStateServer用于处理客户端代理的请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The REST API also provides more detailed information about the following aspects of an application:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153448Z" creationid="xccui" creationdate="20190729T153448Z">
+        <seg>REST API还提供了和应用以下方面相关的更多详细信息：</seg>
       </tuv>
     </tu>
     <tu>
