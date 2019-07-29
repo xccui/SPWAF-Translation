@@ -31858,8 +31858,8 @@
       <tuv lang="EN-US">
         <seg>Parameters The file must be sent as multipart data Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162205Z" creationid="xccui" creationdate="20190729T045622Z">
-        <seg>参数 文件必须以Multipart数据形式上传 Action</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162456Z" creationid="xccui" creationdate="20190729T045622Z">
+        <seg>参数 文件必须以Multipart数据形式上传 行为</seg>
       </tuv>
     </tu>
     <tu>
