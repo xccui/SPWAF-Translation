@@ -39544,6 +39544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The job ID of the started application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050607Z" creationid="xccui" creationdate="20190729T050607Z">
+        <seg>应用启动后的作业ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The join in Figure 6-7 stores all records with timestamps larger than the current watermark—15 minutes from stream A—and all records with timestamps larger than the current watermark—one hour from stream B. You should be aware that the storage requirements of the interval join may significantly increase if the event time of both input streams is not synchronized because the watermark is deter‐ mined by the “slower” stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T034102Z" creationid="xccui" creationdate="20190628T034102Z">
