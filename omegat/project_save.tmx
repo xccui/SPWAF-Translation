@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./bin/flink modify bc0b2ad61ecd4a615d92ce25390f61ad -p 16 Modify job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T071911Z" creationid="xccui" creationdate="20190728T071911Z">
+        <seg>./bin/flink modify bc0b2ad61ecd4a615d92ce25390f61ad -p 16 Modify job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>./bin/flink run -c my.app.MainClass ~/myApp.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031653Z" creationid="xccui" creationdate="20190726T031653Z">
@@ -11131,6 +11139,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T034140Z" creationid="xccui" creationdate="20190715T034140Z">
         <seg>如前所述，由于事务性数据汇连接器可能只会在检查点成功完成后才将数据写入外部系统，所以它需要与Flink的检查点机制做好集成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As described in “Scaling Stateful Operators” on page 56, Flink distributes keyed state on the granularity of so-called key groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T020220Z" creationid="xccui" creationdate="20190729T020220Z">
+        <seg>我们在第56页"状态化算子扩缩容"一节介绍过，Flink以键值组为单位分配键值状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28135,6 +28151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its new parallelism is 16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T071925Z" creationid="xccui" creationdate="20190728T071925Z">
+        <seg>Its new parallelism is 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JVM heap size with the jobmanager.heap.size configuration key.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T063101Z" creationid="xccui" creationdate="20190723T063101Z">
@@ -32508,6 +32532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T043443Z" creationid="xccui" creationdate="20190616T043443Z">
         <seg>重调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rescaled job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T071916Z" creationid="xccui" creationdate="20190728T071916Z">
+        <seg>Rescaled job bc0b2ad61ecd4a615d92ce25390f61ad.</seg>
       </tuv>
     </tu>
     <tu>
