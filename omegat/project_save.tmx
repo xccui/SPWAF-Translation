@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"operation":{"location":"file:///savepoints/savepoint-e99cdb-34410597dec0"}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193633Z" creationid="xccui" creationdate="20190729T193633Z">
+        <seg>"operation":{"location":"file:///savepoints/savepoint-e99cdb-34410597dec0"}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"path/to/jarFile.jar") // JAR file to ship to the JobManager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045648Z" creationid="xccui" creationdate="20190612T045648Z">
@@ -44296,6 +44304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To dispose a savepoint use the REST call that is shown in Table 10-15 .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193826Z" creationid="xccui" creationdate="20190729T193826Z">
+        <seg>请使用表10-15中的REST调用删除保存点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To ensure that event-time operations behave as expected, the assigner should be called before any event-time dependent transformation (e.g., before the first event- time window).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033058Z" creationid="xccui" creationdate="20190620T032816Z">
@@ -50909,6 +50925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044926Z" creationid="xccui" creationdate="20190729T044926Z">
         <seg>curl -X GET http://hostname:port/v1/taskmanagers/&lt;tmId&gt;/metrics?get=metric1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curl -X GET http://localhost:8081/v1/jobs/e99cdb41b422631c8ee2218caa6af1cc/\ savepoints/ebde90836b8b9dc2da90e9e7655f4179</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193627Z" creationid="xccui" creationdate="20190729T193627Z">
+        <seg>curl -X GET http://localhost:8081/v1/jobs/e99cdb41b422631c8ee2218caa6af1cc/\ savepoints/ebde90836b8b9dc2da90e9e7655f4179</seg>
       </tuv>
     </tu>
     <tu>
@@ -58421,6 +58445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181408Z" creationid="xccui" creationdate="20190729T181408Z">
         <seg>{"request-id":"ebde90836b8b9dc2da90e9e7655f4179"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{"status":{"id":"COMPLETED"}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193630Z" creationid="xccui" creationdate="20190729T193630Z">
+        <seg>{"status":{"id":"COMPLETED"}</seg>
       </tuv>
     </tu>
     <tu>
