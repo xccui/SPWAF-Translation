@@ -31850,32 +31850,40 @@
       <tuv lang="EN-US">
         <seg>Parameters The file must be sent as multipart data Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045622Z" creationid="xccui" creationdate="20190729T045622Z">
-        <seg>Parameters 文件必须以Multipart数据形式上传 Action</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162205Z" creationid="xccui" creationdate="20190729T045622Z">
+        <seg>参数 文件必须以Multipart数据形式上传 Action</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Parameters jarId: The ID of the JAR file as provided by the list JAR file command</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153028Z" creationid="xccui" creationdate="20190729T050007Z">
-        <seg>Parameters jarId：使用列出JAR文件命令所得到的JAR文件ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162219Z" creationid="xccui" creationdate="20190729T050007Z">
+        <seg>参数 jarId：使用列出JAR文件命令所得到的JAR文件ID</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Parameters jarId: The ID of the JAR file from which the application is started.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050229Z" creationid="xccui" creationdate="20190729T050229Z">
-        <seg>Parameters jarId：启动应用的JAR文件ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162234Z" creationid="xccui" creationdate="20190729T050229Z">
+        <seg>参数 jarId：启动应用的JAR文件ID</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Parameters jobId: The ID of a job as provided by the list application command</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153011Z" creationid="xccui" creationdate="20190729T153011Z">
-        <seg>Parameters jarId：使用列出应用命令所得到的JAR文件ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162348Z" creationid="xccui" creationdate="20190729T153011Z">
+        <seg>参数 jarId：使用列出应用命令所得到的作业ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters jobId: The ID of a job as provided by the list application command Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162341Z" creationid="xccui" creationdate="20190729T162341Z">
+        <seg>参数 jobId：使用列出应用命令所得到的作业ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -33050,8 +33058,8 @@
       <tuv lang="EN-US">
         <seg>Response A list of all uploaded JAR files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045818Z" creationid="xccui" creationdate="20190729T045818Z">
-        <seg>Response 所有上传的JAR文件列表。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162211Z" creationid="xccui" creationdate="20190729T045818Z">
+        <seg>响应 所有上传的JAR文件列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33066,8 +33074,8 @@
       <tuv lang="EN-US">
         <seg>Response Lists the job IDs of all running applications and the job IDs of the most recently failed, canceled, and finished</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152905Z" creationid="xccui" creationdate="20190729T152905Z">
-        <seg>Response 所有正在运行应用的作业ID列表以及近期失败的、取消的和结束应用的作业ID列表。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162243Z" creationid="xccui" creationdate="20190729T152905Z">
+        <seg>响应 所有正在运行应用的作业ID列表以及近期失败的、取消的和结束应用的作业ID列表。</seg>
       </tuv>
     </tu>
     <tu>
