@@ -25217,8 +25217,8 @@
       <tuv lang="EN-US">
         <seg>In library mode, the application is bundled into a Docker image that also includes the required Flink binaries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T211104Z" creationid="xccui" creationdate="20190729T210717Z">
-        <seg>在库模式下，应用和所需的Flink二进制文件都会被打包到一个Docker映像中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T211134Z" creationid="xccui" creationdate="20190729T210717Z">
+        <seg>在库模式下，应用和所需的Flink二进制文件会被一起打包到一个Docker映像中。</seg>
       </tuv>
     </tu>
     <tu>
