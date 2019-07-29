@@ -22887,6 +22887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a savepoint path is provided, the application state is initialized from the savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050547Z" creationid="xccui" creationdate="20190729T050547Z">
+        <seg>如果提供了保存点路径，会使用该保存点初始化应用状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a source function (temporarily) does not emit anymore watermarks, it can declare itself idle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054734Z" creationid="xccui" creationdate="20190607T034439Z">
@@ -35012,6 +35020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T025415Z" creationid="xccui" creationdate="20190329T025415Z">
         <seg>Starting taskexecutor daemon on host xxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starts the application defined by the JAR file (and entry-class) with the provided parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050513Z" creationid="xccui" creationdate="20190729T050513Z">
+        <seg>使用指定参数启动JAR文件（以及入口类）所指定的应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48473,6 +48489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can pass additional parameters such as the job arguments, the entry class, the default parallelism, a savepoint path, and the allow-nonrestored-state</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050433Z" creationid="xccui" creationdate="20190729T050433Z">
+        <seg>你还可以传入一些额外参数，例如作业参数、入口类、默认并行度、保存点路径以及以一个JSON对象形式的allow-nonrestored-state标志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can pass arguments to the main() method of an application by appending them at the end of the command:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030415Z" creationid="xccui" creationdate="20190726T030415Z">
@@ -51365,6 +51389,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T025119Z" creationid="esouser" creationdate="20190603T203039Z">
         <seg>第一类是定期报告查询。它可用于计算业务相关的统计数据，如收入、用户增长、产出等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flag as a JSON object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050436Z" creationid="xccui" creationdate="20190729T050436Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
