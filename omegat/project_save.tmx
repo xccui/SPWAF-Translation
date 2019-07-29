@@ -36720,6 +36720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The REST API can be directly accessed by users or scripts and exposes information about the Flink cluster and its applications, including metrics as well as endpoints to submit and control applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T035942Z" creationid="xccui" creationdate="20190729T035942Z">
+        <seg>REST API可以由用户或脚本直接访问，它能够对外暴露有关Flink集群和应用的信息，包括指标数据及用于提交和控制应用程序的端点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The REST API is the underlying interface that is used by the command-line cli‐ ent and Web UI.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T012401Z" creationid="xccui" creationdate="20190726T012401Z">
