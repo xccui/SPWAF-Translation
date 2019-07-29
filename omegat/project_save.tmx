@@ -12519,6 +12519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, both are exposed on port 8081.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040130Z" creationid="xccui" creationdate="20190729T040130Z">
+        <seg>默认情况下，二者都会使用8081端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, connect() does not establish a relationship</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045619Z" creationid="xccui" creationdate="20190615T045619Z">
@@ -19427,6 +19435,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055202Z" creationid="xccui" creationdate="20190618T055202Z">
         <seg>Flink会利用Java序列化机制将所有函数对象序列化后发送到对应的工作进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink serves the REST API and the Web UI from the same web server, which runs as part of the Dispatcher process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040341Z" creationid="xccui" creationdate="20190729T040050Z">
+        <seg>Flink使用一个Web服务器来同时提供REST API和Web UI，该服务器会作为Dispatcher进程的一部分来运行。</seg>
       </tuv>
     </tu>
     <tu>
