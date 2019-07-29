@@ -8454,6 +8454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A request ID to check whether the rescaling request was successful or not</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201714Z" creationid="xccui" creationdate="20190729T201714Z">
+        <seg>一个用于检查扩缩容操作是否成功完成的请求ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A request ID to check whether the savepoint trigger action completed successfully</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181216Z" creationid="xccui" creationdate="20190729T181216Z">
@@ -24695,6 +24703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, you need to provide the new parallelism of the application as an URL parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201538Z" creationid="xccui" creationdate="20190729T201538Z">
+        <seg>此外，你还需要以URL参数的形式提供一个新的应用并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In all of these cases, Flink requires Hadoop dependencies on its classpath.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010039Z" creationid="xccui" creationdate="20190722T010039Z">
@@ -36372,6 +36388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181124Z" creationid="xccui" creationdate="20190729T181124Z">
         <seg>为指定应用生成一个保存点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Takes a savepoint, cancels the application, and restarts it with the new default parallelism from the savepoint Response</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201651Z" creationid="xccui" creationdate="20190729T201651Z">
+        <seg>生成一个保存点，取消应用，并将它以新的默认并行度从保存点中重启 响应</seg>
       </tuv>
     </tu>
     <tu>
