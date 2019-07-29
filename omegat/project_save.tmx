@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See “Defining</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T031713Z" creationid="xccui" creationdate="20190729T031713Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See “Modifying the State of an Operator”.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T054644Z" creationid="xccui" creationdate="20190727T054644Z">
