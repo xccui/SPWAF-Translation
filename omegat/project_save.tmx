@@ -10118,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An application is started from an uploaded JAR file using the REST call that is shown in Table 10-10 .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050116Z" creationid="xccui" creationdate="20190729T050055Z">
+        <seg>你可以使用表10-10中的REST调用利用上传的JAR文件启动应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An application receiving game events would experience a gap when the train goes through a tunnel and network con&lt;t0/&gt;‐&lt;t1/&gt; nection is lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190411T152946Z" creationid="xccui" creationdate="20190411T152813Z">
@@ -14675,6 +14683,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190225T024714Z">
         <seg>为使用键值分区状态的算子定义最大并行度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the JAR file referenced by the provided ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050025Z" creationid="xccui" creationdate="20190729T050025Z">
+        <seg>删除给定ID对应的JAR文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -31720,6 +31736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POST /jars/&lt;jarId&gt;/run</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050136Z" creationid="xccui" creationdate="20190729T050136Z">
+        <seg>POST /jars/&lt;jarId&gt;/run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POST /jars/upload</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045512Z" creationid="xccui" creationdate="20190729T045512Z">
@@ -31772,6 +31796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050007Z" creationid="xccui" creationdate="20190729T050007Z">
         <seg>Parameters jarId：使用列出JAR文件命令所给出的JAR文件ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters jarId: The ID of the JAR file from which the application is started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050229Z" creationid="xccui" creationdate="20190729T050229Z">
+        <seg>Parameters jarId：启动应用的JAR文件ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -32460,6 +32492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045058Z" creationid="xccui" creationdate="20190729T045058Z">
         <seg>关闭集群的REST调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to start an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050132Z" creationid="xccui" creationdate="20190729T050132Z">
+        <seg>启动应用的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -35828,6 +35868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043745Z" creationid="xccui" creationdate="20190729T043745Z">
         <seg>表10-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050122Z" creationid="xccui" creationdate="20190729T050122Z">
+        <seg>表10-10，</seg>
       </tuv>
     </tu>
     <tu>
