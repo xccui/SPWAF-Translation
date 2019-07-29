@@ -27087,6 +27087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “Application Deploy‐ ment” on page 39, we briefly explained an alternative—the library mode that does not require a running Flink cluster to submit a job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T210600Z" creationid="xccui" creationdate="20190729T210600Z">
+        <seg>在第39页"应用部署"一节，我们还简要减少了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Checkpoints, Savepoints, and State Recovery”, we explained Flink’s mechanism to create consistent checkpoints of a stateful application, a snapshot of the state of all built-in and user-defined stateful functions at a point in time when all operators pro‐ cessed all events up to a specific position in the application’s input streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052137Z" creationid="xccui" creationdate="20190702T204418Z">
