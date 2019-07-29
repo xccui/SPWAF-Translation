@@ -13375,6 +13375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collected metrics of an application at various levels of detail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161637Z" creationid="xccui" creationdate="20190729T161637Z">
+        <seg>以不同详细程度收集的应用程序指标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collections.singletonList(new TimeWindow(startTime, endTime))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044135Z" creationid="xccui" creationdate="20190626T044135Z">
@@ -38320,6 +38328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The configuration of the application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153517Z" creationid="xccui" creationdate="20190729T153517Z">
+        <seg>应用的配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The connect transformation and the cofunctions discussed in this section are more generic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T062436Z" creationid="xccui" creationdate="20190615T045206Z">
@@ -40292,6 +40308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200313Z" creationid="xccui" creationdate="20190606T203341Z">
         <seg>图3-5中算子所组成的流水线就满足上述条件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The operator plan of the application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153513Z" creationid="xccui" creationdate="20190729T153513Z">
+        <seg>应用的算子计划（operator plan）</seg>
       </tuv>
     </tu>
     <tu>
