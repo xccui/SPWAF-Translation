@@ -7270,6 +7270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>?parallelism=16</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201801Z" creationid="xccui" creationdate="20190729T201801Z">
+        <seg>?parallelism=16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>@Column(name = "sensorId") var id: String, @Column(name = "temperature") var temp: Float) {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220255Z" creationid="xccui" creationdate="20190711T220255Z">
@@ -34872,6 +34880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So far we have explained how to start an application on a running Flink cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T202209Z" creationid="xccui" creationdate="20190729T202209Z">
+        <seg>到目前为止，我们已经解释过如何在一个运行的Flink集群上启动一个应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So far we have explained what timestamps and watermarks are and how they are internally handled by Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054525Z" creationid="xccui" creationdate="20190607T033537Z">
@@ -36840,6 +36856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Application Might Not Rescale</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201821Z" creationid="xccui" creationdate="20190729T201821Z">
+        <seg>应用扩缩容可能失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Architecture of Apache Flink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T053550Z" creationid="xccui" creationdate="20190416T053550Z">
@@ -38092,6 +38116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193338Z" creationid="xccui" creationdate="20190729T193338Z">
         <seg>反之如果保存点命令失败，则应用将继续运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The application will continue to run with the original parallelism if the triggered savepoint failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201858Z" creationid="xccui" creationdate="20190729T201858Z">
+        <seg>如果触发生成保存点失败，应用会以原并行度继续运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44600,6 +44632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To rescale an application with curl to a new default parallelism of 16 run:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201754Z" creationid="xccui" creationdate="20190729T201754Z">
+        <seg>要使用curl将应用的默认并行度调整为16，请运行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To rescale the application with the jobId bc0b2ad61ecd4a615d92ce25390f61ad to a parallelism of 16, run the command:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T071908Z" creationid="xccui" creationdate="20190728T071908Z">
@@ -48753,6 +48793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can check the status of the rescale request using the request ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201926Z" creationid="xccui" creationdate="20190729T201926Z">
+        <seg>你可以使用请求ID检查扩缩容请求的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can configure a different port at the ./conf/flink-conf.yaml</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040455Z" creationid="xccui" creationdate="20190729T040433Z">
@@ -51069,6 +51117,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041921Z" creationid="xccui" creationdate="20190729T041921Z">
         <seg>curl -X GET http://localhost:8081/v1/overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curl -X PATCH http://localhost:8081/v1/jobs/129ced9aacf1618ebca0ba81a4b222c6/rescaling\</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201756Z" creationid="xccui" creationdate="20190729T201756Z">
+        <seg>curl -X PATCH http://localhost:8081/v1/jobs/129ced9aacf1618ebca0ba81a4b222c6/rescaling\</seg>
       </tuv>
     </tu>
     <tu>
@@ -58581,6 +58637,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200908Z" creationid="xccui" creationdate="20190729T200908Z">
         <seg>{"request-id":"217a4ffe935ceac2c281bdded76729d6"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{"request-id":"39584c2f742c3594776653f27833e3eb"}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201805Z" creationid="xccui" creationdate="20190729T201805Z">
+        <seg>{"request-id":"39584c2f742c3594776653f27833e3eb"}</seg>
       </tuv>
     </tu>
     <tu>
