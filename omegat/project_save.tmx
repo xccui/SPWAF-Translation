@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"flink-version":"1.7.1", "flink-commit":"89eafb4"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042114Z" creationid="xccui" creationdate="20190729T042114Z">
+        <seg>"flink-version":"1.7.1", "flink-commit":"89eafb4"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"maxTemperature", key, Types.STRING,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041618Z" creationid="xccui" creationdate="20190707T041618Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T045648Z" creationid="xccui" creationdate="20190612T045648Z">
         <seg>"path/to/jarFile.jar") // 需要传输到JobManager的JAR包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"taskmanagers":2, "slots-total":8, "slots-available":6, "jobs-running":1, "jobs-finished":2, "jobs-cancelled":1, "jobs-failed":0,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042110Z" creationid="xccui" creationdate="20190729T042110Z">
+        <seg>"taskmanagers":2, "slots-total":8, "slots-available":6, "jobs-running":1, "jobs-finished":2, "jobs-cancelled":1, "jobs-failed":0,</seg>
       </tuv>
     </tu>
     <tu>
@@ -26019,6 +26035,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041041Z" creationid="xccui" creationdate="20190611T040830Z">
         <seg>下文我们会以IntelliJ为例对该步骤进行详细解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following, we list and briefly describe the most important REST calls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042522Z" creationid="xccui" creationdate="20190729T042522Z">
+        <seg>接下来我们将列举并简单描述一些最为重要的REST调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57461,6 +57485,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T031932Z" creationid="xccui" creationdate="20190709T031932Z">
         <seg>这种情况下，你仍然需要生成水位线，并利用AssignerWithPeriodicWatermark或AssignerWithPunctuatedWatermark来转发之前分配的Kafka时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042107Z" creationid="xccui" creationdate="20190729T042107Z">
+        <seg>{</seg>
       </tuv>
     </tu>
     <tu>
