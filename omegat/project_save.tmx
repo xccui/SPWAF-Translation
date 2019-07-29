@@ -31824,6 +31824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POST /jobs/&lt;jobId&gt;/savepoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162612Z" creationid="xccui" creationdate="20190729T162612Z">
+        <seg>POST /jobs/&lt;jobId&gt;/savepoints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PURGE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184625Z" creationid="xccui" creationdate="20190626T184625Z">
@@ -31852,6 +31860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T183657Z" creationid="xccui" creationdate="20190606T032919Z">
         <seg>由于结果需要同时依赖状态和到来的事件，所以状态并行化会变得异常复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters The ID of a job as provided by the list application command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162708Z" creationid="xccui" creationdate="20190729T162708Z">
+        <seg>参数 使用列出应用命令所得到的作业ID。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32604,6 +32620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T050132Z" creationid="xccui" creationdate="20190729T050132Z">
         <seg>启动应用的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST request to take a savepoint of an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162609Z" creationid="xccui" creationdate="20190729T162609Z">
+        <seg>为应用生成保存点的REST请求</seg>
       </tuv>
     </tu>
     <tu>
@@ -36020,6 +36044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161752Z" creationid="xccui" creationdate="20190729T161752Z">
         <seg>表10-13，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-14.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162554Z" creationid="xccui" creationdate="20190729T162554Z">
+        <seg>表10-14，</seg>
       </tuv>
     </tu>
     <tu>
@@ -48477,6 +48509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041157Z" creationid="xccui" creationdate="20190724T041054Z">
         <seg>你也可以指定一个用于网络缓冲区的最小（taskmanager.network.meamory.min）和最大（taskmanager.network.memory.max）内存量（二者的默认值分别是64MB和1G），从而可以为上述的相对配置加上绝对限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also take a savepoint of a running application via the REST call that is shown in Table 10-14 .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162550Z" creationid="xccui" creationdate="20190729T162550Z">
+        <seg>你还可以利用表10-14中展示的REST调用为当前正在运行的应用生成一个保存点。</seg>
       </tuv>
     </tu>
     <tu>
