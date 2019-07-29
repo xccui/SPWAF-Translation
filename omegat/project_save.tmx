@@ -13607,6 +13607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, the number of key groups of a stateful operator determines its maximum parallelism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T031137Z" creationid="xccui" creationdate="20190729T031137Z">
+        <seg>因此状态化算子键值组的数量决定了其最大并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, the processing latencies and state size of time-based opera‐ tors can significantly increase if a task does not receive new watermarks from all input tasks at regular intervals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T032904Z" creationid="xccui" creationdate="20190607T032902Z">
