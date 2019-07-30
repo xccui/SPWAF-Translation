@@ -286,10 +286,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>${FLINK_IMAGE_NAME}: The name of the job-specific image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044035Z" creationid="xccui" creationdate="20190730T044035Z">
+        <seg>${FLINK_IMAGE_NAME}：特定作业镜像的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>${FLINK_JOB_PARALLELISM}: The degree of parallelism for the job.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035554Z" creationid="xccui" creationdate="20190730T035554Z">
         <seg>${FLINK_JOB_PARALLELISM}：作业的并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${FLINK_JOB}: The main class of the job to start.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044105Z" creationid="xccui" creationdate="20190730T044105Z">
+        <seg>${FLINK_JOB}：用于启动作业的主类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11687,6 +11703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you can see, these are the same parameters we used when deploying the job- specific image with docker-compose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044305Z" creationid="xccui" creationdate="20190730T044305Z">
+        <seg>如你所见，此处使用的参数和使用docker-compose部署针对特定作业的镜像相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you learned in “Time Semantics”, Flink’s time- based operators can be applied with different notions of time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T050236Z" creationid="xccui" creationdate="20190619T050204Z">
@@ -12427,6 +12451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T202203Z" creationid="xccui" creationdate="20190716T202203Z">
         <seg>它们二者都提供了多个不同参数组合的重载方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both template files contain placeholders that need to be replaced with actual values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044015Z" creationid="xccui" creationdate="20190730T044015Z">
+        <seg>两个模板文件都包含需要用实际值替换的占位符：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43932,6 +43964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060330Z" creationid="xccui" creationdate="20190721T053431Z">
         <seg>该参数指定应用只有在有效间隔内重启次数超过了最大尝试数才会被完全取消，换句话说，该时间间隔之前的尝试次数都不会被计算在内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This parame‐ ter also determines the number of started worker containers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044139Z" creationid="xccui" creationdate="20190730T044139Z">
+        <seg>该参数还用于决定启动工作容器的数量。</seg>
       </tuv>
     </tu>
     <tu>
