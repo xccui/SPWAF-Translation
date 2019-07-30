@@ -30039,6 +30039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, you need to set the ImagePullPolicy in the YAML files to Never to ensure Minikube fetches the image from its own registry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045338Z" creationid="xccui" creationdate="20190730T045338Z">
+        <seg>此外，你还需要将YAML文件中的ImagePullPolicy设置为Never，以确保Minikube从自己的注册表中获取镜像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More‐ over, applications that read from the sink system might observe unexpected results during the time when an application recovers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T200935Z" creationid="xccui" creationdate="20190708T071536Z">
@@ -31291,6 +31299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T211938Z" creationid="xccui" creationdate="20190718T211938Z">
         <seg>一旦作业结束，集群就会停止，全部资源都会归还。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the job-specific containers are running, you can treat the cluster as a regular Flink cluster as described in “Kubernetes” on page 228.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045515Z" creationid="xccui" creationdate="20190730T045515Z">
+        <seg>在针对特定作业的容器运行后，你就可以像228页"Kubernetes"所介绍的那样，将集群视为常规的Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
