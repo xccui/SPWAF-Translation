@@ -31335,6 +31335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have copied the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044607Z" creationid="xccui" creationdate="20190730T044607Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033437Z" creationid="xccui" creationdate="20190720T033437Z">
@@ -53273,10 +53281,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>kubectl create -f job-cluster-service.yaml kubectl create -f job-cluster-job.yaml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044613Z" creationid="xccui" creationdate="20190730T044613Z">
+        <seg>kubectl create -f job-cluster-service.yaml kubectl create -f job-cluster-job.yaml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>kubectl create -f master-deployment.yaml kubectl create -f worker-deployment.yaml kubectl create -f master-service.yaml</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033531Z" creationid="xccui" creationdate="20190720T033531Z">
         <seg>kubectl create -f master-deployment.yaml kubectl create -f worker-deployment.yaml kubectl create -f master-service.yaml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kubectl create -f task-manager-deployment.yaml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044617Z" creationid="xccui" creationdate="20190730T044617Z">
+        <seg>kubectl create -f task-manager-deployment.yaml</seg>
       </tuv>
     </tu>
     <tu>
