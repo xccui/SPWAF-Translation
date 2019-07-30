@@ -27167,6 +27167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section, we dis‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T161325Z" creationid="xccui" creationdate="20190730T161325Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, we explain how to configure and start Flink in different environments—including standalone clusters, Docker, Apache Hadoop YARN, and Kubernetes—and how Flink’s compo‐ nents are assembled in each setup.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T152301Z" creationid="xccui" creationdate="20190717T152301Z">
@@ -36788,6 +36796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T154339Z" creationid="esouser" creationdate="20190514T154032Z">
         <seg>虽然任务链接可以有效地降低本地任务之间的通信开销，但并不意味着所有的流水线执行都要启用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Task chaining fuses the parallel tasks of two or more operators into a single task that is executed by a single thread.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T161613Z" creationid="xccui" creationdate="20190730T161613Z">
+        <seg>任务链接将两个或多个算子的并行任务融合在一起，从而可以让它们在一个线程中执行。</seg>
       </tuv>
     </tu>
     <tu>
