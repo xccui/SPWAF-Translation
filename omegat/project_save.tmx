@@ -28799,6 +28799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just like in many other distributed systems, the performance of a Flink application depends a lot on how the tasks are scheduled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T160751Z" creationid="xccui" creationdate="20190730T160751Z">
+        <seg>和很多其他分布式系统一样，Flink应用的性能在很大程度上取决于任务的调度方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just like many DataStream applications, the source, sink, and opera‐ tors of the program are assembled in the main() method of the AverageSensorRead ings class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T092019Z" creationid="xccui" creationdate="20190611T042751Z">
@@ -42516,6 +42524,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025926Z" creationid="xccui" creationdate="20190720T025926Z">
         <seg>工作进程的Deployment和主进程的Deployment几乎一模一样，二者只有几点不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The worker process to which a task is assigned, the tasks that are colocated with a task, and the number of tasks that are assigned to a worker process can have a significant impact on an application’s performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T160953Z" creationid="xccui" creationdate="20190730T160953Z">
+        <seg>分配任务的工作进程，任务的共存情况以及工作进程中的任务数都会对应用性能带来显著影响。</seg>
       </tuv>
     </tu>
     <tu>
