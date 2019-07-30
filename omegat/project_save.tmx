@@ -502,6 +502,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--from-archive &lt;path-to-Flink-1.7.1-archive&gt; \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034507Z" creationid="xccui" creationdate="20190730T034507Z">
+        <seg>--from-archive &lt;path-to-Flink-1.7.1-archive&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--image-name flink-book-apps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034514Z" creationid="xccui" creationdate="20190730T034514Z">
+        <seg>--image-name flink-book-apps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--job-jar &lt;path-to-example-apps-JAR-file&gt; \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034511Z" creationid="xccui" creationdate="20190730T034511Z">
+        <seg>--job-jar &lt;path-to-example-apps-JAR-file&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--link flink-jobmanager:jobmanager \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032513Z" creationid="xccui" creationdate="20190718T032513Z">
@@ -794,6 +818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033842Z" creationid="xccui" creationdate="20190726T033842Z">
         <seg>./bin/flink savepoint bc0b2ad61ecd4a615d92ce25390f61ad \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>./build.sh \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034504Z" creationid="xccui" creationdate="20190730T034504Z">
+        <seg>./build.sh \</seg>
       </tuv>
     </tu>
     <tu>
@@ -23963,6 +23995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T062232Z" creationid="xccui" creationdate="20190616T062221Z">
         <seg>如果你在一台8核的机器上以本地环境中运行（例如在IDE里），那么数据源将会运行8个任务，map将运行16个任务，数据汇将运行2个任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you run the docker images command after the build script finishes, you should see a new Docker image called flink-book-apps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034812Z" creationid="xccui" creationdate="20190730T034812Z">
+        <seg>如果在构建脚本完成后运行docker images命令，你应该能看到一个名为flink-book-apps的新的Docker映像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50573,6 +50613,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043512Z" creationid="xccui" creationdate="20190705T043512Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cd ./flink-container/docker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034500Z" creationid="xccui" creationdate="20190730T034500Z">
+        <seg>cd ./flink-container/docker</seg>
       </tuv>
     </tu>
     <tu>
