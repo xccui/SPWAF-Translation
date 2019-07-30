@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.filter(new Filter2())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203635Z" creationid="xccui" creationdate="20190730T203635Z">
+        <seg>.filter(new Filter2())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.flatMap(id =&gt; id.split(" "))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005229Z" creationid="xccui" creationdate="20190613T005229Z">
@@ -28311,6 +28319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to start a new chain with an operator by calling its startNewChain()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203931Z" creationid="xccui" creationdate="20190730T203915Z">
+        <seg>你还可以调用startNewChain()方法为算子开启一个新的链接（示例10-2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is best practice to assign timestamps and generate watermarks as close to the sour‐ ces as possible or even within the SourceFunction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031544Z" creationid="xccui" creationdate="20190620T031544Z">
@@ -38956,6 +38972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T091102Z" creationid="xccui" creationdate="20190611T035214Z">
         <seg>书中的示例代码托管在GitHub上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The code in Example 10-1 results in three tasks—a chained task for Filter1 and Map1, an individual task for Map2, and a task for Filter2, which is not allowed to be chained to Map2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203822Z" creationid="xccui" creationdate="20190730T203822Z">
+        <seg>示例10-1中的代码会生成三个任务——一个Filter1和Map1的链接任务，一个针对Map2单独任务以及一个Filter2的任务（不允许和Map2进行链接）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53909,6 +53933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024946Z" creationid="xccui" creationdate="20190720T024946Z">
         <seg>metadata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method (Example 10-2).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203934Z" creationid="xccui" creationdate="20190730T203934Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
