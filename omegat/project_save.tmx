@@ -24719,6 +24719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to disabling chaining for the whole application, you can also control the chaining behavior of individual operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203106Z" creationid="xccui" creationdate="20190730T203106Z">
+        <seg>除了对整个应用禁用任务链接，你还可以控制单个算子的链接行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to joining two streams, it is also possible to cogroup two streams on a window by starting the operator definition with coGroup() instead of join().</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053729Z" creationid="xccui" creationdate="20190628T053610Z">
@@ -36108,6 +36116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204734Z" creationid="xccui" creationdate="20190702T204734Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StreamExecutionEnvironment.disableOperatorChaining()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203003Z" creationid="xccui" creationdate="20190730T203003Z">
+        <seg>StreamExecutionEnvironment.disableOperatorChaining()</seg>
       </tuv>
     </tu>
     <tu>
@@ -49307,8 +49323,8 @@
       <tuv lang="EN-US">
         <seg>You can completely disable task chaining for an application via the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191748Z" creationid="xccui" creationdate="20190730T191748Z">
-        <seg>你可以利用StreamExecutionEnvironment来完全禁用应用内的任务链接：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203025Z" creationid="xccui" creationdate="20190730T191748Z">
+        <seg>你可以通过StreamExecutionEnvironment来完全禁用应用内的任务链接：</seg>
       </tuv>
     </tu>
     <tu>
