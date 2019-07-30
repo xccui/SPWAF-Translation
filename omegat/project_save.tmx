@@ -35344,6 +35344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting from the base folder of the distribution, the script is located at ./ flink-container/docker/build.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T033921Z" creationid="xccui" creationdate="20190730T033921Z">
+        <seg>从发行版的根目录开始计算，脚本位于./flink-container/docker/build.sh。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting standalonesession daemon on host xxx.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T025401Z" creationid="xccui" creationdate="20190329T025401Z">
@@ -38380,6 +38388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212830Z" creationid="xccui" creationdate="20190710T212007Z">
         <seg>桶的选择由BucketAssigner完成，它是一个公开接口，可以为每条记录返回一个用来决定记录写入目录的BucketId。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The build script creates and registers a new Docker image that is based on a Java Alpine image, a minimal base image that provides Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034222Z" creationid="xccui" creationdate="20190730T034222Z">
+        <seg>该构建脚本会基于一个提供Java的最小基本映像Java Alpine，来创建并注册一个新的Docker映像。</seg>
       </tuv>
     </tu>
     <tu>
