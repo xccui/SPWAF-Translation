@@ -33776,6 +33776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Running a job-specific image on a Minikube cluster requires a few more steps than those discussed in “Kubernetes” on page 228.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044836Z" creationid="xccui" creationdate="20190730T044836Z">
+        <seg>在Minikube集群上运行针对特定作业的镜像比我们在228页"Kubernetes"一节中所讨论的步骤要多一些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running and Managing Streaming Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025908Z" creationid="xccui" creationdate="20190225T025908Z">
@@ -41196,6 +41204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T154529Z" creationid="xccui" creationdate="20190606T014945Z">
         <seg>然而有个问题：爱丽丝住在柏林，每天乘地铁上班，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem is that Minikube tries to fetch the custom image from a public Docker image registry instead of the local Docker registry of your machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045005Z" creationid="xccui" creationdate="20190730T045005Z">
+        <seg>主要问题是Minikube会尝试从公共Docker镜像注册表而不是本地机器的Docker注册表获取自定义镜像。</seg>
       </tuv>
     </tu>
     <tu>
