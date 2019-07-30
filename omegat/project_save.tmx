@@ -11511,6 +11511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As soon as enough slots become available, the JobMaster con‐ tainer deploys the application for execution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T224520Z" creationid="xccui" creationdate="20190729T224520Z">
+        <seg>一旦有了足够多的处理槽，JobMaster容器就会部署并执行应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As soon as one parti‐ tion does not advance its watermarks or becomes completely idle and does not ship any records or watermarks, the event-time clock of a task will not advance and the timers of the task will not trigger.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054409Z" creationid="xccui" creationdate="20190607T032231Z">
@@ -40132,6 +40140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T050503Z" creationid="xccui" creationdate="20190721T050503Z">
         <seg>该Dispatcher会启动一个新的JobManager线程来恢复故障应用。新的JobManager会从ZooKeeper中查找元数据的存储路径，并依此从持久化存储中读取元数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library style of running Flink applications resembles the deployment of micro‐ services in a containerized environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030404Z" creationid="xccui" creationdate="20190730T030404Z">
+        <seg>以库模式运行Flink应用有些类似于容器化环境中的微服务部署。</seg>
       </tuv>
     </tu>
     <tu>
