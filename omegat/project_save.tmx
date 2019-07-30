@@ -10870,6 +10870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink provides a script to build job-specific Flink Docker images.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030740Z" creationid="xccui" creationdate="20190730T030740Z">
+        <seg>Apache Flink提供了一个用于针对特定作业构建Flink Docker映像的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink provides connectors to read data from and write data to a variety of storage systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170457Z" creationid="xccui" creationdate="20190708T170457Z">
@@ -12475,6 +12483,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T023004Z" creationid="xccui" creationdate="20190722T023004Z">
         <seg>针对特定版本的Hadoop构建Flink。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building a job-specific Flink Docker image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030659Z" creationid="xccui" creationdate="20190730T030659Z">
+        <seg>针对特定作业构建Flink Docker映像</seg>
       </tuv>
     </tu>
     <tu>
@@ -26875,6 +26891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T070941Z" creationid="xccui" creationdate="20190609T214356Z">
         <seg>本节我们将介绍Flink在从保存点启动时如何去初始化应用状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, we describe how to build a job-specific Docker image and how to deploy a library-style bundled application on Kubernetes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030634Z" creationid="xccui" creationdate="20190730T030634Z">
+        <seg>在本节中，我们将介绍如何针对特定作业构建Docker映像，以及如何在Kubernetes上以库模式部署绑定的应用。</seg>
       </tuv>
     </tu>
     <tu>
