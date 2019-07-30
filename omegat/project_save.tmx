@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.filter(new Filter1())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203603Z" creationid="xccui" creationdate="20190730T203603Z">
+        <seg>.filter(new Filter1())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.flatMap(id =&gt; id.split(" "))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T005229Z" creationid="xccui" creationdate="20190613T005229Z">
@@ -1242,6 +1250,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042255Z" creationid="xccui" creationdate="20190612T042255Z">
         <seg>.map( r =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.map(new Map1())</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203606Z" creationid="xccui" creationdate="20190730T203606Z">
+        <seg>.map(new Map1())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.map(new Map2()).disableChaining()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203631Z" creationid="xccui" creationdate="20190730T203631Z">
+        <seg>.map(new Map2()).disableChaining()</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205822Z" creationid="xccui" creationdate="20190716T205736Z">
         <seg>// 用于将结果Future转发给回调对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// disable chaining for Map2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203629Z" creationid="xccui" creationdate="20190730T203629Z">
+        <seg>// 禁止Map2进行任务链接</seg>
       </tuv>
     </tu>
     <tu>
@@ -15215,6 +15247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable task chaining for an operator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203552Z" creationid="xccui" creationdate="20190730T203552Z">
+        <seg>禁用算子的任务链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disk Storage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025610Z" creationid="xccui" creationdate="20190225T025610Z">
@@ -16467,6 +16507,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T170130Z" creationid="xccui" creationdate="20190708T170130Z">
         <seg>精确一次*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203544Z" creationid="xccui" creationdate="20190730T203544Z">
+        <seg>示例10-1，</seg>
       </tuv>
     </tu>
     <tu>
@@ -57817,6 +57865,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val input: DataStream[X] = ...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203555Z" creationid="xccui" creationdate="20190730T203555Z">
+        <seg>val input: DataStream[X] = ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val inputStream: DataStream[(Int, Int, Int)] = env.fromElements( (1, 2, 2), (2, 3, 1), (2, 2, 4), (1, 5, 3))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T054427Z" creationid="xccui" creationdate="20190614T054427Z">
@@ -58309,6 +58365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061619Z" creationid="xccui" creationdate="20190616T061619Z">
         <seg>val result: = env.addSource(new CustomSource)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val result: DataStream[Y] = input</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203559Z" creationid="xccui" creationdate="20190730T203559Z">
+        <seg>val result: DataStream[Y] = input</seg>
       </tuv>
     </tu>
     <tu>
