@@ -36112,6 +36112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StreamExecutionEnvironment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191753Z" creationid="xccui" creationdate="20190730T191753Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Streaming Analytics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T014658Z" creationid="xccui" creationdate="20190225T014658Z">
@@ -49293,6 +49301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201926Z" creationid="xccui" creationdate="20190729T201926Z">
         <seg>你可以使用请求ID检查扩缩容请求的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can completely disable task chaining for an application via the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191748Z" creationid="xccui" creationdate="20190730T191748Z">
+        <seg>你可以利用StreamExecutionEnvironment来完全禁用应用内的任务链接：</seg>
       </tuv>
     </tu>
     <tu>
