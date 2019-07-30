@@ -8302,6 +8302,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A path to a Flink archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034300Z" creationid="xccui" creationdate="20190730T034251Z">
+        <seg>Flink归档文件路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A path to an application JAR file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034313Z" creationid="xccui" creationdate="20190730T034313Z">
+        <seg>应用程序JAR文件路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A periodic watermark assigner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051030Z" creationid="xccui" creationdate="20190620T051030Z">
@@ -40496,6 +40512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The name for the new image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034326Z" creationid="xccui" creationdate="20190730T034326Z">
+        <seg>新映像的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The name of a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060732Z" creationid="xccui" creationdate="20190618T060732Z">
@@ -41268,6 +41292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030847Z" creationid="xccui" creationdate="20190730T030819Z">
         <seg>你可以从源码发行版或Flink的Git仓库中找到它，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The script requires the fol‐ lowing parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034231Z" creationid="xccui" creationdate="20190730T034231Z">
+        <seg>脚本所需参数如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44508,6 +44540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T052628Z" creationid="xccui" creationdate="20190605T234611Z">
         <seg>为了更好地理解峰值吞吐的概念，我们先假设某个流处理应用没有在接收任何数据，也因此无需占用任何系统资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To build an image with Flink 1.7.1 that contains the example applications of this book, execute the script as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034458Z" creationid="xccui" creationdate="20190730T034458Z">
+        <seg>如果要构建一个包含了本书示例应用的Flink 1.7.1版本映像，请执行以下脚本：</seg>
       </tuv>
     </tu>
     <tu>
