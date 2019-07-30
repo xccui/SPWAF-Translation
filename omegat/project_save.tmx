@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>./flink-container/kubernetes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T043821Z" creationid="xccui" creationdate="20190730T043821Z">
+        <seg>./flink-container/kubernetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.&lt;t0/&gt; &lt;t1/&gt;ix 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035437Z" creationid="xccui" creationdate="20190418T035437Z">
@@ -35456,6 +35464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting from the base directory, the templates are located in:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T043818Z" creationid="xccui" creationdate="20190730T043818Z">
+        <seg>从根目录开始，模板位于：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting from the base folder of the distribution, the script is located at ./ flink-container/docker/build.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T033921Z" creationid="xccui" creationdate="20190730T033921Z">
@@ -39084,6 +39100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065722Z" creationid="xccui" creationdate="20190630T065617Z">
         <seg>ReducingState和AggregatingState的描述符（descriptor）还需要接收一个ReduceFunction或AggregateFunction对象，以此来对加入的值进行聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The directory contains two template files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T043831Z" creationid="xccui" creationdate="20190730T043831Z">
+        <seg>该目录包含了两个模板文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53137,6 +53161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>job-cluster-job.yaml.template configures the master container as a Kubernetes job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T043856Z" creationid="xccui" creationdate="20190730T043856Z">
+        <seg>job-cluster-job.yaml.template将主容器配置为Kubernetes作业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>jobmanager ports:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025015Z" creationid="xccui" creationdate="20190720T025015Z">
@@ -56181,6 +56213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162627Z" creationid="xccui" creationdate="20190717T162627Z">
         <seg>tar xfz ./flink-1.7.1-bin-scala_2.12.tgz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>task-manager-deployment.yaml.template configures the worker container as a Kubernetes deployment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T043925Z" creationid="xccui" creationdate="20190730T043904Z">
+        <seg>task-manager-deployment.yaml.template将工作容器配置为Kubernetes Deployment。</seg>
       </tuv>
     </tu>
     <tu>
