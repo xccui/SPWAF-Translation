@@ -27391,6 +27391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “Task Execution”, we described how Flink assigns tasks to slots and how it lever‐ ages task chaining to reduce the cost of local data exchange.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T161047Z" creationid="xccui" creationdate="20190730T161047Z">
+        <seg>在"任务执行"一节，我们描述了Flink如何将任务分配到处理槽以及如何利用任务链接来降低本地数据交换的成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Time Semantics” on page 27, we highlighted the importance of time semantics for stream processing applications and explained the differences between processing time and event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T063507Z" creationid="xccui" creationdate="20190606T204144Z">
@@ -51645,6 +51653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T060023Z" creationid="xccui" creationdate="20190621T060023Z">
         <seg>currentWatermark(): Long返回当前水位线的时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cuss how you can tweak the default behavior and control task chaining and the assignment of tasks to slots to improve the performance of your applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T161323Z" creationid="xccui" creationdate="20190730T161323Z">
+        <seg>在本节，我们将讨论如何调整默认行以及如何控制任务链接和作业分配以提高应用的性能。</seg>
       </tuv>
     </tu>
     <tu>
