@@ -47481,6 +47481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When being deployed on a container orchestration framework, such as Kubernetes, the framework restarts failed contain‐ ers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030456Z" creationid="xccui" creationdate="20190730T030456Z">
+        <seg>当部署在容器编排框架（例如Kubernetes）上时，框架会重启失败的容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When building applications with the DataStream API the sys‐ tem automatically chooses data partitioning strategies and routes data to the correct destination depending on the operation semantics and the configured parallelism.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065209Z" creationid="xccui" creationdate="20190615T065209Z">
