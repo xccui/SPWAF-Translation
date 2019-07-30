@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.map(new Map2()).startNewChain()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204405Z" creationid="xccui" creationdate="20190730T204405Z">
+        <seg>.map(new Map2()).startNewChain()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.map(new MyMapper).setParallelism(defaultP * 2)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T061721Z" creationid="xccui" creationdate="20190616T061721Z">
@@ -3962,6 +3970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062725Z" creationid="xccui" creationdate="20190701T062725Z">
         <seg>// 将计数值分成10个子部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// start a new chain for Map2 and Filter2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204402Z" creationid="xccui" creationdate="20190730T204402Z">
+        <seg>// 为Map2和Filter2开启一个新的链接</seg>
       </tuv>
     </tu>
     <tu>
@@ -24543,6 +24559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Example 10-2 two chained tasks are created: one task for Filter1 and Map1 and another task for Map2 and Filter2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204505Z" creationid="xccui" creationdate="20190730T204505Z">
+        <seg>示例10-2中会创建两个链接任务：一个由Filter1和Map1组成，另一个由Map2和Filter2组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Example 8-15, this is a Tuple2 with a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T043949Z" creationid="xccui" creationdate="20190716T043949Z">
@@ -30819,6 +30843,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151936Z" creationid="xccui" creationdate="20190615T050826Z">
         <seg>注意，就像SQL查询中Join的谓词一样，两条流中的键值类型需要是同一类实体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the new chained task starts with the operator on which the startNewChain() method is called—Map2 in our example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204628Z" creationid="xccui" creationdate="20190730T204628Z">
+        <seg>请注意，新的链接任务会从调用startNewChain()方法的算子开始，在我们的示例中是Map2。</seg>
       </tuv>
     </tu>
     <tu>
