@@ -9814,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All images you build afterwards in this shell are deployed to Mini‐ kube’s image registry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045158Z" creationid="xccui" creationdate="20190730T045158Z">
+        <seg>之后你在此Shell中构建的所有镜像都会部署到Minikube的镜像注册表中了，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All issues related to state consistency, failure handling, and efficient storage and access are taken care of by Flink so that developers can focus on the logic of their applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060233Z" creationid="xccui" creationdate="20190607T055712Z">
@@ -23023,6 +23031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you can configure Docker to deploy its images to Mini‐ kube’s own registry by running the following command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045102Z" creationid="xccui" creationdate="20190730T045102Z">
+        <seg>为此，你可以使用以下命令配置Docker，让它将镜像部署到Minikube自己的注册表中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you can configure the RocksDB state backend to also store the timers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065154Z">
@@ -29603,6 +29619,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T195359Z" creationid="xccui" creationdate="20190605T055840Z">
         <seg>在每秒处理数百万条事件的同时保持毫秒级延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minikube needs to be running.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045240Z" creationid="xccui" creationdate="20190730T045240Z">
+        <seg>但前提是Minikube需要处在运行状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52029,6 +52053,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212559Z" creationid="xccui" creationdate="20190711T212559Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>eval $(minikube docker-env)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045105Z" creationid="xccui" creationdate="20190730T045105Z">
+        <seg>eval $(minikube docker-env)</seg>
       </tuv>
     </tu>
     <tu>
