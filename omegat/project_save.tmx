@@ -19655,6 +19655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides templates for the YAML files provided in the source distribution or found in the project’s Git repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T043757Z" creationid="xccui" creationdate="20190730T043757Z">
+        <seg>Flink在源码发行版以及项目Git仓库中提供了YAML文件模板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides the AssignerWithPunctuatedWatermarks interface for such cases, or when watermarks can be defined based on some other property of</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054051Z" creationid="xccui" creationdate="20190620T054023Z">
