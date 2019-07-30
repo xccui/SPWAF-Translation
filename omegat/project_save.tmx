@@ -17375,6 +17375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FLINK_DOCKER_IMAGE_NAME=flink-book-jobs \ FLINK_JOB=io.github.streamingwithflink.chapter1.AverageSensorReadings \ DEFAULT_PARALLELISM=3 \</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035221Z" creationid="xccui" creationdate="20190730T035221Z">
+        <seg>FLINK_DOCKER_IMAGE_NAME=flink-book-jobs \ FLINK_JOB=io.github.streamingwithflink.chapter1.AverageSensorReadings \ DEFAULT_PARALLELISM=3 \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabian Hueske and Vasiliki Kalavri</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T062527Z" creationid="esouser" creationdate="20190603T142832Z">
@@ -33672,6 +33680,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Running a job-specific Docker image on Kubernetes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035411Z" creationid="xccui" creationdate="20190730T035348Z">
+        <seg>在Kubernetes上运行针对特定作业的Docker镜像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running a job-specific Docker image on Kubernetes is very similar to starting a Flink cluster on Kubernetes as described in “Kubernetes” on page 228.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035515Z" creationid="xccui" creationdate="20190730T035408Z">
+        <seg>在Kubernetes上运行针对特定作业的Docker镜像和第228页"Kubernetes"中描述的在Kubernetes上启动Flink集群非常类似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running and Managing Streaming Applications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025908Z" creationid="xccui" creationdate="20190225T025908Z">
@@ -49185,6 +49209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can monitor and control the application by accessing the Web UI running a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035325Z" creationid="xccui" creationdate="20190730T035325Z">
+        <seg>你还可以通过运行在http://localhost:8081上面的Web UI来对应用进行监控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can monitor the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T130301Z" creationid="xccui" creationdate="20190605T130301Z">
@@ -51657,6 +51689,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>docker-compose up -d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035234Z" creationid="xccui" creationdate="20190730T035234Z">
+        <seg>docker-compose up -d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>does not automatically clean up savepoints.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210957Z" creationid="xccui" creationdate="20190609T210957Z">
@@ -52437,6 +52477,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045726Z" creationid="xccui" creationdate="20190729T045726Z">
         <seg>http://hostname:port/v1/jars/upload</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://localhost:8081.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035328Z" creationid="xccui" creationdate="20190730T035328Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
