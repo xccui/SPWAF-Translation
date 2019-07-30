@@ -20271,6 +20271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s default task scheduling strategy assigns a complete slice of a program—up to one task of each operator of an application to a single processing slot.2 Depending on the complexity of the application and the computational costs of the operators, this default strategy can overload a processing slot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T205903Z" creationid="xccui" creationdate="20190730T205903Z">
+        <seg>Flink默认任务调度策略会将一个完整的程序分片（包含每个应用算子最多一个任务）分配到一个处理槽中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s design aims to reduce synchronization points.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163613Z" creationid="xccui" creationdate="20190702T163613Z">
