@@ -44408,6 +44408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will prevent the tasks of the opera‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203300Z" creationid="xccui" creationdate="20190730T203300Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This window type essentially represents a time interval between the two timestamps, where start is</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041614Z" creationid="xccui" creationdate="20190623T041614Z">
@@ -44956,6 +44964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T054852Z" creationid="xccui" creationdate="20190619T054843Z">
         <seg>为了在分布式流处理应用中定义时间操作，准确理解时间的含义非常关键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To disable chaining for a specific operator,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203201Z" creationid="xccui" creationdate="20190730T203201Z">
+        <seg>具体而言，可以通过调用算子的disableChaining()方法禁用其链接功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57153,6 +57169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tor from being chained to preceding and succeeding tasks (Example 10-1).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203257Z" creationid="xccui" creationdate="20190730T203257Z">
+        <seg>这会让算子的任务不会和前后的其他任务进行链接（示例10-1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tors collect and process records with possibly unordered timestamps and finalize a computation when their event-time clock, which is advanced by the received water‐ marks, indicates that no more records with relevant timestamps are expected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052104Z" creationid="xccui" creationdate="20190606T205535Z">
@@ -59229,6 +59253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030228Z" creationid="xccui" creationdate="20190722T025858Z">
         <seg>则可以在能访问hadoop命令的前提下，通过以下指令自动设置该变量：export HADOOP_CLASSPATH=`hadoop classpath`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you can call its disableChaining() method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203204Z" creationid="xccui" creationdate="20190730T203204Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
