@@ -40072,6 +40072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fused tasks exchange records by method calls and thus with basically no communication costs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191248Z" creationid="xccui" creationdate="20190730T191248Z">
+        <seg>融合的任务只需通过方法调用就可以进行记录交换，因此几乎没有通信成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The generated pom.xml file also contains instructions on how to add new dependencies to your project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010743Z" creationid="xccui" creationdate="20190612T010743Z">
