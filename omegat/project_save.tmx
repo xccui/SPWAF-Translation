@@ -7960,16 +7960,16 @@
       <tuv lang="EN-US">
         <seg>A container is started from an image that defines the software in the container.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T021217Z" creationid="xccui" creationdate="20190718T015513Z">
-        <seg>容易需要通过定义其内部软件的映像启动。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T015513Z">
+        <seg>容易需要通过定义其内部软件的镜像启动。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A container that is started from this image automati‐ cally starts a TaskManager, which connects to the ResourceManager and registers its slots.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063413Z" creationid="xccui" creationdate="20190606T143759Z">
-        <seg>容器通过映像启动后会自动运行TaskManager，后者可以连接ResourceManager并注册处理槽。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190606T143759Z">
+        <seg>容器通过镜像启动后会自动运行TaskManager，后者可以连接ResourceManager并注册处理槽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8696,8 +8696,8 @@
       <tuv lang="EN-US">
         <seg>A second, job-independent image is used to deploy TaskManager containers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143748Z" creationid="xccui" creationdate="20190606T143748Z">
-        <seg>另一个和作业无关的映像负责部署TaskManager容器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190606T143748Z">
+        <seg>另一个和作业无关的镜像负责部署TaskManager容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10920,8 +10920,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink provides a script to build job-specific Flink Docker images.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030740Z" creationid="xccui" creationdate="20190730T030740Z">
-        <seg>Apache Flink提供了一个用于针对特定作业构建Flink Docker映像的脚本。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190730T030740Z">
+        <seg>Apache Flink提供了一个用于针对特定作业构建Flink Docker镜像的脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12537,8 +12537,8 @@
       <tuv lang="EN-US">
         <seg>Building a job-specific Flink Docker image</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030659Z" creationid="xccui" creationdate="20190730T030659Z">
-        <seg>针对特定作业构建Flink Docker映像</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190730T030659Z">
+        <seg>针对特定作业构建Flink Docker镜像</seg>
       </tuv>
     </tu>
     <tu>
@@ -14345,8 +14345,8 @@
       <tuv lang="EN-US">
         <seg>Custom Configuration in Flink Images</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060705Z" creationid="xccui" creationdate="20190721T060705Z">
-        <seg>在Flink映像中自定义配置</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190721T060705Z">
+        <seg>在Flink镜像中自定义配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -15257,8 +15257,8 @@
       <tuv lang="EN-US">
         <seg>Docker will download the requested image and its dependencies from Docker Hub and start the containers running Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T033842Z" creationid="xccui" creationdate="20190718T033842Z">
-        <seg>利用上述命令，Docker将自动从Docker Hub下载所需的映像及其依赖，并启动容器来运行Flink。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T033842Z">
+        <seg>利用上述命令，Docker将自动从Docker Hub下载所需的镜像及其依赖，并启动容器来运行Flink。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21465,8 +21465,8 @@
       <tuv lang="EN-US">
         <seg>Given a Kubernetes cluster and an application that is packaged into a container image, you can create a deployment of the application that tells Kubernetes how many instances of the application to start.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015502Z" creationid="xccui" creationdate="20190719T015502Z">
-        <seg>给定一个Kubernetes集群以及一个打包到容器映像中的应用，你可以通过创建应用部署的方式告诉Kubernetes启动多少个应用实例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190719T015502Z">
+        <seg>给定一个Kubernetes集群以及一个打包到容器镜像中的应用，你可以通过创建应用部署的方式告诉Kubernetes启动多少个应用实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21993,8 +21993,8 @@
       <tuv lang="EN-US">
         <seg>Hence, the image cannot be used to set up a HA Flink cluster on Kubernetes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005205Z" creationid="xccui" creationdate="20190722T005127Z">
-        <seg>所以说该映像无法直接用在Kubernetes上设置Flink HA集群。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190722T005127Z">
+        <seg>所以说该镜像无法直接用在Kubernetes上设置Flink HA集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24001,8 +24001,8 @@
       <tuv lang="EN-US">
         <seg>If you run the docker images command after the build script finishes, you should see a new Docker image called flink-book-apps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034812Z" creationid="xccui" creationdate="20190730T034812Z">
-        <seg>如果在构建脚本完成后运行docker images命令，你应该能看到一个名为flink-book-apps的新的Docker映像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034823Z" creationid="xccui" creationdate="20190730T034812Z">
+        <seg>如果在构建脚本完成后运行docker images命令，你应该能看到一个名为flink-book-apps的新的Docker镜像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25305,8 +25305,8 @@
       <tuv lang="EN-US">
         <seg>In library mode, the application is bundled into a Docker image that also includes the required Flink binaries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T215914Z" creationid="xccui" creationdate="20190729T210717Z">
-        <seg>在库模式下，绑定的应用和所需的Flink二进制文件会一起放入Docker映像中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190729T210717Z">
+        <seg>在库模式下，绑定的应用和所需的Flink二进制文件会一起放入Docker镜像中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26889,8 +26889,8 @@
       <tuv lang="EN-US">
         <seg>In this mode, the Flink application is bundled in an application-specific con‐ tainer image, such as a Docker image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143707Z" creationid="xccui" creationdate="20190606T143646Z">
-        <seg>在该模式下，Flink应用会绑定到一个特定应用的容器映像（如Docker映像）中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190606T143646Z">
+        <seg>在该模式下，Flink应用会绑定到一个特定应用的容器镜像（如Docker镜像）中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26953,8 +26953,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we describe how to build a job-specific Docker image and how to deploy a library-style bundled application on Kubernetes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030634Z" creationid="xccui" creationdate="20190730T030634Z">
-        <seg>在本节中，我们将介绍如何针对特定作业构建Docker映像，以及如何在Kubernetes上以库模式部署绑定的应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190730T030634Z">
+        <seg>在本节中，我们将介绍如何针对特定作业构建Docker镜像，以及如何在Kubernetes上以库模式部署绑定的应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27521,8 +27521,8 @@
       <tuv lang="EN-US">
         <seg>Instead, Flink is bundled as a library together with the application in a container image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063806Z" creationid="xccui" creationdate="20190423T040832Z">
-        <seg>而是以库的形式绑定在应用所在的容器映像中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190423T040832Z">
+        <seg>而是以库的形式绑定在应用所在的容器镜像中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27729,8 +27729,8 @@
       <tuv lang="EN-US">
         <seg>Instead, you need to build a cus‐ tom image that either “hardcodes” the required parameters or is flexible enough to adjust the configuration dynamically through parameters or environment variables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005359Z" creationid="xccui" creationdate="20190722T005201Z">
-        <seg>为此，你需要构建一个自定义映像，要么就把所需参数"硬编码"进去，要么就灵活一些，可以通过参数或环境变量动态调整配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190722T005201Z">
+        <seg>为此，你需要构建一个自定义镜像，要么就把所需参数"硬编码"进去，要么就灵活一些，可以通过参数或环境变量动态调整配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28265,8 +28265,8 @@
       <tuv lang="EN-US">
         <seg>It is not possible to customize the configuration of the Flink deployment with the Flink Docker images we used in this section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042214Z" creationid="xccui" creationdate="20190720T042214Z">
-        <seg>本节中使用的Flink Docker映像是无法进行自定义部署配置的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T042214Z">
+        <seg>本节中使用的Flink Docker镜像是无法进行自定义部署配置的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29441,16 +29441,16 @@
       <tuv lang="EN-US">
         <seg>Master and worker containers are started from the same Docker image with different parameters as shown in Example 9-1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T032331Z" creationid="xccui" creationdate="20190718T032331Z">
-        <seg>如示例9-1所示，主容器和工作容器可以从同一个Docker映像启动，只不过二者的参数不同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T032331Z">
+        <seg>如示例9-1所示，主容器和工作容器可以从同一个Docker镜像启动，只不过二者的参数不同。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Members of the Flink community configure and build Docker images for Apache Flink and upload them to Docker Hub, a public repository for Docker images.2 The repository hosts Docker images for the most recent Flink versions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T021619Z" creationid="xccui" creationdate="20190718T021136Z">
-        <seg>Flink社区成员已经为Apache Flink配置和构建了Docker映像，并把它们上传到了Docker Hub（一个用于存放Docker映像的公共仓库）上面。仓库内包含了Flink最新几个版本的Docker映像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T021136Z">
+        <seg>Flink社区成员已经为Apache Flink配置和构建了Docker镜像，并把它们上传到了Docker Hub（一个用于存放Docker镜像的公共仓库）上面。仓库内包含了Flink最新几个版本的Docker镜像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30457,8 +30457,8 @@
       <tuv lang="EN-US">
         <seg>Note that it is currently not possible to pass a custom configuration into the Flink Docker images.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042916Z" creationid="xccui" creationdate="20190718T042916Z">
-        <seg>注意，目前Flink Docker映像还不支持接收自定义配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T042916Z">
+        <seg>注意，目前Flink Docker镜像还不支持接收自定义配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38450,24 +38450,24 @@
       <tuv lang="EN-US">
         <seg>The build script creates and registers a new Docker image that is based on a Java Alpine image, a minimal base image that provides Java.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034222Z" creationid="xccui" creationdate="20190730T034222Z">
-        <seg>该构建脚本会基于一个提供Java的最小基本映像Java Alpine，来创建并注册一个新的Docker映像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190730T034222Z">
+        <seg>该构建脚本会基于一个提供Java的最小基本镜像Java Alpine，来创建并注册一个新的Docker镜像。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The build script for the provided image is a good starting point for a custom image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042618Z" creationid="xccui" creationdate="20190720T042618Z">
-        <seg>我们提供的映像构建脚本对你构建自定义映像而言是一个很好的参考。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T042618Z">
+        <seg>我们提供的镜像构建脚本对你构建自定义镜像而言是一个很好的参考。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The build scripts of the available Docker Flink images are a good starting point for customized images.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043154Z" creationid="xccui" creationdate="20190718T043154Z">
-        <seg>已有Flink Docker映像中的构建脚本可以在一定程度上帮助你快速上手。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T043154Z">
+        <seg>已有Flink Docker镜像中的构建脚本可以在一定程度上帮助你快速上手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39946,16 +39946,16 @@
       <tuv lang="EN-US">
         <seg>The image also includes the code to run a JobManager and ResourceManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T030328Z" creationid="xccui" creationdate="20190423T030328Z">
-        <seg>映像中还包含着运行JobManager以及ResourceManager的代码。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190423T030328Z">
+        <seg>镜像中还包含着运行JobManager以及ResourceManager的代码。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The image can be started in two ways—as a JobMaster con‐ tainer or a TaskManager container.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T215429Z" creationid="xccui" creationdate="20190729T214549Z">
-        <seg>该映像可以以两种方式启动——作为JobMaster容器或TaskManager容器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190729T214549Z">
+        <seg>该镜像可以以两种方式启动——作为JobMaster容器或TaskManager容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40338,8 +40338,8 @@
       <tuv lang="EN-US">
         <seg>The master container is started from the Flink 1.7 Docker image (image: flink: 1.7) with an argument that starts the master process (args: - jobmanager).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025352Z" creationid="xccui" creationdate="20190720T025352Z">
-        <seg>主进程容器从Flink 1.7 Docker映像（image: flink: 1.7）启动主进程（需要配置参数args: - jobmanager）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T025352Z">
+        <seg>主进程容器从Flink 1.7 Docker镜像（image: flink: 1.7）启动主进程（需要配置参数args: - jobmanager）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40554,8 +40554,8 @@
       <tuv lang="EN-US">
         <seg>The name for the new image</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034326Z" creationid="xccui" creationdate="20190730T034326Z">
-        <seg>新映像的名称</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190730T034326Z">
+        <seg>新镜像的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -41642,8 +41642,8 @@
       <tuv lang="EN-US">
         <seg>The standard Flink Docker images are a good starting point to customize your own Flink images.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005506Z" creationid="xccui" creationdate="20190722T005506Z">
-        <seg>标准的Flink Docker映像可以帮助你快速上手定制自己的Flink映像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190722T005506Z">
+        <seg>标准的Flink Docker镜像可以帮助你快速上手定制自己的Flink镜像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42298,8 +42298,8 @@
       <tuv lang="EN-US">
         <seg>The worker containers are based on the same</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T030125Z" creationid="xccui" creationdate="20190720T030029Z">
-        <seg>其容器所需的Flink Docker映像完全相同，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T030029Z">
+        <seg>其容器所需的Flink Docker镜像完全相同，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44586,8 +44586,8 @@
       <tuv lang="EN-US">
         <seg>To build an image with Flink 1.7.1 that contains the example applications of this book, execute the script as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034458Z" creationid="xccui" creationdate="20190730T034458Z">
-        <seg>如果要构建一个包含了本书示例应用的Flink 1.7.1版本映像，请执行以下脚本：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190730T034458Z">
+        <seg>如果要构建一个包含了本书示例应用的Flink 1.7.1版本镜像，请执行以下脚本：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45426,8 +45426,8 @@
       <tuv lang="EN-US">
         <seg>Typically, an external resource manager such as Kubernetes takes care of starting the images and ensures that containers are restarted in case of a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T063504Z" creationid="xccui" creationdate="20190606T143951Z">
-        <seg>通常情况下，外部资源管理器（如：Kubernetes）负责启动映像，并确保在发生故障时可以重启容器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190606T143951Z">
+        <seg>通常情况下，外部资源管理器（如：Kubernetes）负责启动镜像，并确保在发生故障时可以重启容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45530,8 +45530,8 @@
       <tuv lang="EN-US">
         <seg>Unfortunately, the Flink Docker image we used in the Docker and Kubernetes examples before does not support setting custom con‐ figuration parameters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005028Z" creationid="xccui" creationdate="20190722T005028Z">
-        <seg>很可惜，我们在先前Docker和Kubernetes示例中用到的Flink Docker映像还不支持自定义配置参数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190722T005028Z">
+        <seg>很可惜，我们在先前Docker和Kubernetes示例中用到的Flink Docker镜像还不支持自定义配置参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47235,8 +47235,8 @@
       <tuv lang="EN-US">
         <seg>When a container is started from the image, it automatically launches the ResourceManager and JobManager and submits the bundled job for execution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T143744Z" creationid="xccui" creationdate="20190606T143716Z">
-        <seg>当容器从映像启动后会自动加载ResourceManager和JobManager，并将绑定的作业提交执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190606T143716Z">
+        <seg>当容器从镜像启动后会自动加载ResourceManager和JobManager，并将绑定的作业提交执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47915,8 +47915,8 @@
       <tuv lang="EN-US">
         <seg>When the image is deployed as a JobMaster, the container starts a Flink master process that immediately picks up the bundled appli‐ cation to start it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T215814Z" creationid="xccui" creationdate="20190729T214608Z">
-        <seg>当映像作为JobMaster部署时，容器会启动一个Flink主进程，该进程会立即获取并启动绑定的应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190729T214608Z">
+        <seg>当镜像作为JobMaster部署时，容器会启动一个Flink主进程，该进程会立即获取并启动绑定的应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48115,8 +48115,8 @@
       <tuv lang="EN-US">
         <seg>When you create the deployments for the first time, it will take a while until the Flink container image is downloaded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033928Z" creationid="xccui" creationdate="20190720T033928Z">
-        <seg>在首次创建Deployment的时候需要花一些时间下载Flink容器映像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T033928Z">
+        <seg>在首次创建Deployment的时候需要花一些时间下载Flink容器镜像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49491,8 +49491,8 @@
       <tuv lang="EN-US">
         <seg>You need to build your own Docker image if you want to adjust some of the parameters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043025Z" creationid="xccui" creationdate="20190718T043025Z">
-        <seg>如果你想调整某些参数，需要自己构建Docker映像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T043025Z">
+        <seg>如果你想调整某些参数，需要自己构建Docker镜像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49651,8 +49651,8 @@
       <tuv lang="EN-US">
         <seg>You would need to build custom Docker images with an adjusted configuration.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T042251Z" creationid="xccui" creationdate="20190720T042251Z">
-        <seg>你需要使用调整后的配置构建自定义的Docker映像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T042251Z">
+        <seg>你需要使用调整后的配置构建自定义的Docker镜像。</seg>
       </tuv>
     </tu>
     <tu>
