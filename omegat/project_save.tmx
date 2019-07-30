@@ -33728,6 +33728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Running Job-Specific Images on Minikube</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044429Z" creationid="xccui" creationdate="20190730T044429Z">
+        <seg>在Minikube上运行针对特定作业的镜像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running Kubernetes on a Local Machine</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T024102Z" creationid="xccui" creationdate="20190719T024102Z">
@@ -39132,6 +39140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065722Z" creationid="xccui" creationdate="20190630T065617Z">
         <seg>ReducingState和AggregatingState的描述符（descriptor）还需要接收一个ReduceFunction或AggregateFunction对象，以此来对加入的值进行聚合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The directory also contains a YAML file job- cluster-service.yaml that defines a Kubernetes service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044406Z" creationid="xccui" creationdate="20190730T044406Z">
+        <seg>该目录中还包含了一个YAML文件job-cluster-service.yaml，可用于定义Kubernetes的Service。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56301,6 +56317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061940Z" creationid="xccui" creationdate="20190630T061940Z">
         <seg>该示例应用会在传感器测量的温度和前一个测量值相比变化超出一定阈值时发出警报。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>template files and configured required values, you can deploy the application to Kubernetes as before with kubectl:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044605Z" creationid="xccui" creationdate="20190730T044605Z">
+        <seg>一旦将模板文件复制好并完成必要配置，你就可以像之前那样使用kubectl将应用部署到Kubernetes上：</seg>
       </tuv>
     </tu>
     <tu>
