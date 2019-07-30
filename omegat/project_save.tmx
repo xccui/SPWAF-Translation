@@ -24007,6 +24007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you run the following command, the example application from “A Quick Look at Flink” on page 12 is deployed on one master and three worker containers to Docker:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035218Z" creationid="xccui" creationdate="20190730T035218Z">
+        <seg>如果运行以下命令，就可以将第12页"Flink快览"中的示例应用部署在Docker的一个主容器和三个工作容器上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you take a step back and read the introductory example once more, you hopefully have a better idea about what is going on.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044441Z" creationid="xccui" creationdate="20190619T044357Z">
@@ -36908,6 +36916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195037Z" creationid="xccui" creationdate="20190717T163010Z">
         <seg>./bin/start-cluster.sh脚本会在本地机器上启动一个主进程，并在本地或远程机器上启动一个或多个TaskManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ./flink-container/docker directory also contains a docker-compose.yml file to deploy a Flink application with docker-compose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035047Z" creationid="xccui" creationdate="20190730T035047Z">
+        <seg>./flink-container/docker目录还包含了一个docker-compose.yml文件，可用于通过docker-compose部署Flink应用。</seg>
       </tuv>
     </tu>
     <tu>
