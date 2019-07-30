@@ -28175,6 +28175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not part of Flink’s binary distributions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030854Z" creationid="xccui" creationdate="20190730T030839Z">
+        <seg>但该脚本没有包含在Flink的二进制发行版中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not possible to clean up state in a timer callback method, since these methods are not called after a window is</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T194739Z" creationid="xccui" creationdate="20190626T194739Z">
@@ -41240,6 +41248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The script is included in the source distribution and Flink’s Git repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030847Z" creationid="xccui" creationdate="20190730T030819Z">
+        <seg>你可以从源码发行版或Flink的Git仓库中找到它，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The script will start a local JobManager and start one TaskMan‐ ager for each entry in the slaves file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T203839Z" creationid="xccui" creationdate="20190717T203728Z">
@@ -48973,6 +48989,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T201525Z" creationid="xccui" creationdate="20190605T124408Z">
         <seg>取消的方式是在Web UI中选定作业，然后点击页面上方的Cancel按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can either download and extract a source distribution of Flink or clone the Git repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T033727Z" creationid="xccui" creationdate="20190730T033727Z">
+        <seg>你可以下载并解压Flink源码发行版或将Git仓库克隆下来。</seg>
       </tuv>
     </tu>
     <tu>
