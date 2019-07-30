@@ -16527,6 +16527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 10-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204055Z" creationid="xccui" creationdate="20190730T204055Z">
+        <seg>示例10-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 5-1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035805Z" creationid="xccui" creationdate="20190612T035805Z">
@@ -35600,6 +35608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start a new task chain with an operator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204340Z" creationid="xccui" creationdate="20190730T204340Z">
+        <seg>为算子开启一个新的链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Started the Queryable State Proxy Server @ …</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T055830Z" creationid="xccui" creationdate="20190706T055830Z">
@@ -42300,6 +42316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T054214Z" creationid="xccui" creationdate="20190607T025821Z">
         <seg>对于那些有着两条或多条输入数据流的算子，如Union或CoFlatMap（详见"多流转换"一节），它们的任务同样是利用全部分区水位线中的最小值来计算事件时间时钟，并没有考虑分区是否来自不同的输入流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tasks of the operator will not be chained to preceding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204033Z" creationid="xccui" creationdate="20190730T204023Z">
+        <seg>对应算子的任务不会和之前的任务链接，</seg>
       </tuv>
     </tu>
     <tu>
@@ -56589,6 +56613,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025733Z" creationid="xccui" creationdate="20190720T025733Z">
         <seg>taskmanager ports:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tasks but will be chained to succeeding tasks if the requirements for chaining are met.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204049Z" creationid="xccui" creationdate="20190730T204049Z">
+        <seg>而是会在满足链接条件时和链接到后续任务。</seg>
       </tuv>
     </tu>
     <tu>
