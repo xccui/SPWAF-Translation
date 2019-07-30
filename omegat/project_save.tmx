@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>${FLINK_JOB_PARALLELISM}: The degree of parallelism for the job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035554Z" creationid="xccui" creationdate="20190730T035554Z">
+        <seg>${FLINK_JOB_PARALLELISM}：作业的并行度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>("Sarah", 23))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T071033Z" creationid="xccui" creationdate="20190616T071033Z">
@@ -25947,6 +25955,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T031625Z" creationid="esouser" creationdate="20190603T205858Z">
         <seg>原则上，需要在应用中访问的状态有多种可选的存储位置，例如：程序变量、本地文件、嵌入式或外部数据库等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In principle, you only need to adjust the YAML files that describe your deployments to use an image that contains the job code and configure it to automatically start the job when the container is started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035910Z" creationid="xccui" creationdate="20190730T035910Z">
+        <seg>原则上，你只需要调整YAML文件把Deployment设置为使用包含作业代码的镜像，并将它配置为在容器启动时自动启动作业即可。</seg>
       </tuv>
     </tu>
     <tu>
