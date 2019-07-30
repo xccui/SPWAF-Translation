@@ -22471,6 +22471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, certain applications might not benefit from task chaining.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191407Z" creationid="xccui" creationdate="20190730T191407Z">
+        <seg>然而，也有特定的应用可能无法从中受益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, counting how many times a specific event occurs in the input stream might return the wrong result under at-least-once guarantees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T042923Z" creationid="xccui" creationdate="20190416T042900Z">
@@ -31503,6 +31511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One reason is to break a chain of expensive functions in order to execute them on different processing slots.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191708Z" creationid="xccui" creationdate="20190730T191708Z">
+        <seg>其原因之一在于有时我们希望将一连串负载较重的函数拆开，让它们执行在不同的处理槽内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One restriction of the split transformation is that all outgoing streams are of the same type as the input type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T064345Z" creationid="xccui" creationdate="20190615T064224Z">
@@ -34932,6 +34948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182956Z" creationid="xccui" creationdate="20190414T054737Z">
         <seg>由于流式算子处理的都是潜在无穷无尽的数据，因此必须小心避免内部状态无限增长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since task chaining improves the perfor‐ mance of most applications, it is enabled by default in Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191338Z" creationid="xccui" creationdate="20190730T191338Z">
+        <seg>由于任务链接可以提高大多数应用的性能，因此Flink默认会启动它。</seg>
       </tuv>
     </tu>
     <tu>
