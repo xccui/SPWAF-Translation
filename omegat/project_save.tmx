@@ -19175,6 +19175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, it means that the regular data processing of the application will always compete for resources with the concurrent checkpoint‐ ing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T200953Z" creationid="xccui" creationdate="20190731T200953Z">
+        <seg>首先它意味着应用内常规的数据处理将始终和并发的检查点生成过程争夺资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, it needs to restart failed pro&lt;t2/&gt;‐&lt;t3/&gt; cesses and second, it needs to restart the application and recover its state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205013Z" creationid="xccui" creationdate="20190428T204413Z">
