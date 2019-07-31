@@ -22639,6 +22639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, they are sufficient to restart an application after it failed but provide less flexibility than savepoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205806Z" creationid="xccui" creationdate="20190731T205806Z">
+        <seg>因此它们虽然足以让应用在失败后重启，但无法提供保存点那样的灵活性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, they can to some extent mitigate the effect of replayed results as caused by Flink’s checkpointing mechanism.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T070235Z" creationid="xccui" creationdate="20190708T070058Z">
@@ -31979,6 +31987,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213456Z" creationid="xccui" creationdate="20190704T213456Z">
         <seg>一旦该计时器触发，就会调用onTimer()方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the application is run‐ ning again, you can take a savepoint.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205849Z" creationid="xccui" creationdate="20190731T205849Z">
+        <seg>一旦应用再次运行，你就可以为其生成保存点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42756,6 +42772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T154433Z" creationid="xccui" creationdate="20190609T154111Z">
         <seg>状态后端会在状态存为检查点完成后通知任务，然后任务会给JobManager发送确认消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state backend of an application is responsible for maintaining the local state, per‐ forming checkpoints and savepoints, and recovering the application state after a fail‐ ure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T212359Z" creationid="xccui" creationdate="20190731T212359Z">
+        <seg>应用状态后端负责维护本地状态、生成检查点和保存点以及在故障时恢复应用状态。</seg>
       </tuv>
     </tu>
     <tu>
