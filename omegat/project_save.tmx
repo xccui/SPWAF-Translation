@@ -14033,8 +14033,8 @@
       <tuv lang="EN-US">
         <seg>Configuring these options is important to ensure reliable and smooth operation of</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025846Z" creationid="xccui" creationdate="20190731T025821Z">
-        <seg>配置好这些选项，对于保证生产环境中流式应用可靠、稳定地运行非常重要。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030232Z" creationid="xccui" creationdate="20190731T025821Z">
+        <seg>配置好这些选项，对于保证生产环境中流式应用的可靠、稳定运维非常重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27419,6 +27419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235815Z" creationid="xccui" creationdate="20190402T213018Z">
         <seg>在本节中，我们来介绍最常见的流式操作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, we describe the parameters used to control checkpointing and recovery of applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030316Z" creationid="xccui" creationdate="20190731T030316Z">
+        <seg>本节我们将介绍一些用于控制生成检查点和应用恢复的参数。</seg>
       </tuv>
     </tu>
     <tu>
