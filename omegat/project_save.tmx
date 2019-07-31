@@ -3478,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// make sure we process at least 30s without checkpointing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202718Z" creationid="xccui" creationdate="20190731T202718Z">
+        <seg>// 确保我们至少可以在没有检查点的情况下处理30秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// merge two accumulators and return the result.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004856Z" creationid="xccui" creationdate="20190624T004856Z">
@@ -25503,6 +25511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In certain situations you might want to ensure that checkpoints are taken in the con‐ figured checkpointing interval even though a checkpoint takes longer than the inter‐ val.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202851Z" creationid="xccui" creationdate="20190731T202851Z">
+        <seg>在某些情况下，你可能希望即使检查点的生成时间久于间隔，也要保证检查点严格按照配置的间隔生成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In combination with advanced file formats, such as Apache Par‐ quet or Apache ORC, filesystems can efficiently serve analytical query engines such as Apache Hive, Apache Impala, or Presto.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T183533Z" creationid="xccui" creationdate="20190710T183533Z">
@@ -31979,6 +31995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T045808Z" creationid="xccui" creationdate="20190626T045703Z">
         <seg>一个例子就是我们之前讨论过的EventTimeSessionWindows分配器，它需要为每个到来的元素创建一个新的窗口并在之后合并那些重叠的窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One example would be when checkpoints take a long time but do not consume much resources; for example, due to operations with high-latency calls to external systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203055Z" creationid="xccui" creationdate="20190731T203055Z">
+        <seg>一个例子是当生成检查点耗时较长但不会消耗太多资源（例如由于涉及外部系统调用的操作延迟很高）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52141,6 +52165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031006Z" creationid="xccui" creationdate="20190731T031006Z">
         <seg>cpConfig.setCheckpointingMode(CheckpointingMode.AT_LEAST_ONCE);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cpConfig.setMinPauseBetweenCheckpoints(30000);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202720Z" creationid="xccui" creationdate="20190731T202720Z">
+        <seg>cpConfig.setMinPauseBetweenCheckpoints(30000);</seg>
       </tuv>
     </tu>
     <tu>
