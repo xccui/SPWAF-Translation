@@ -41408,6 +41408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The operators are assigned to three slot-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T020050Z" creationid="xccui" creationdate="20190731T020050Z">
+        <seg>它们分别被分配到处理槽共享组green，yellow和blue中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The options are ignored if the sink emits tuples, case classes, or rows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T223047Z" creationid="xccui" creationdate="20190711T223047Z">
