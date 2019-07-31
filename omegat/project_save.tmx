@@ -24399,6 +24399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you configure the minimum pause to be 30 seconds, then no new checkpoint will be started within the first 30 seconds after a checkpoint completed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202329Z" creationid="xccui" creationdate="20190731T202329Z">
+        <seg>如果你配置了30秒的最小暂停时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not assign unique IDs to your operators with the uid()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045952Z" creationid="xccui" creationdate="20190727T045809Z">
@@ -45570,8 +45578,8 @@
       <tuv lang="EN-US">
         <seg>To ensure an application can make enough progress, you can configure a minimum pause between checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202019Z" creationid="xccui" creationdate="20190731T202019Z">
-        <seg>为了</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202311Z" creationid="xccui" creationdate="20190731T202019Z">
+        <seg>为了保证应用可以取得足够多的进展，Flink允许你配置一个检查点之间的最小暂停。</seg>
       </tuv>
     </tu>
     <tu>
