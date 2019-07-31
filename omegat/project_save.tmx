@@ -8910,6 +8910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A savepoint will always be started regardless of how many checkpoints are in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203547Z" creationid="xccui" creationdate="20190731T203547Z">
+        <seg>无论有多少检查点生成操作正在进行，Flink都会开始生成保存点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second, job-independent image is used to deploy TaskManager containers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190606T143748Z">
@@ -19507,6 +19515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T210829Z" creationid="xccui" creationdate="20190609T210829Z">
         <seg>保存点的生成不是由Flink自动完成，而是需要由用户（或外部调度器）显式触发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink does not delay explicitly triggered savepoints due to checkpointing opera‐ tions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203406Z" creationid="xccui" creationdate="20190731T203406Z">
+        <seg>Flink不会因为生成检查点而推迟显式触发的保存点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34466,8 +34482,8 @@
       <tuv lang="EN-US">
         <seg>Savepoints are taken concurrently with checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203245Z" creationid="xccui" creationdate="20190731T203245Z">
-        <seg>保存点的生成也会和检查点并发执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203423Z" creationid="xccui" creationdate="20190731T203245Z">
+        <seg>保存点的生成会和检查点并发进行。</seg>
       </tuv>
     </tu>
     <tu>
