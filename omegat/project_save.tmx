@@ -23727,6 +23727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If many or all checkpoints take longer than the checkpointing interval, this behavior might not be optimal for two reasons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T200634Z" creationid="xccui" creationdate="20190731T200634Z">
+        <seg>如果很多或全部检查点的生成时间都长于生成间隔，那么该行为可能欠妥，具体原因有二：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no BucketAssigner is explicitly specified, it uses a DateTimeBucketAssigner that assigns records to hourly buckets based on the pro‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213030Z" creationid="xccui" creationdate="20190710T212826Z">
