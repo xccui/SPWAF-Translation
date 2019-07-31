@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.setParallelism(4)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015245Z" creationid="xccui" creationdate="20190731T015245Z">
+        <seg>.setParallelism(4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.setQuery(</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210817Z" creationid="xccui" creationdate="20190711T210817Z">
@@ -1522,6 +1530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154958Z" creationid="xingcan" creationdate="20190628T154958Z">
         <seg>.sideOutputLateData(new OutputTag[SensorReading]("late-readings"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.slotSharingGroup("green")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015241Z" creationid="xccui" creationdate="20190731T015241Z">
+        <seg>.slotSharingGroup("green")</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060157Z" creationid="xccui" creationdate="20190623T060157Z">
         <seg>// 使用窗口分配器简写方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// slot-sharing group "green"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015235Z" creationid="xccui" creationdate="20190731T015235Z">
+        <seg>// 处理槽共享组"green"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10616,8 +10640,8 @@
       <tuv lang="EN-US">
         <seg>An operator inherits the slot-sharing group of its input operators if they are</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014949Z" creationid="xccui" creationdate="20190731T014949Z">
-        <seg>如果一个算子所有输入都属于同一处理槽共享组，那么该算子也将继承该组。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015144Z" creationid="xccui" creationdate="20190731T014949Z">
+        <seg>如果一个算子所有输入都属于同一处理槽共享组，那么该算子也会将这个组继承；</seg>
       </tuv>
     </tu>
     <tu>
@@ -14287,6 +14311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Controlling task scheduling with slot-sharing groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015221Z" creationid="xccui" creationdate="20190731T015221Z">
+        <seg>通过处理槽共享组控制任务调度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conventions Used in This Book</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210758Z" creationid="esouser" creationdate="20190603T210758Z">
@@ -16579,6 +16611,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204055Z" creationid="xccui" creationdate="20190730T204055Z">
         <seg>示例10-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-3 shows how to specify slot-sharing groups in a Flink DataStream application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015204Z" creationid="xccui" creationdate="20190731T015204Z">
+        <seg>示例10-3展示了如何在Flink DataStream应用中指定处理槽共享组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015209Z" creationid="xccui" creationdate="20190731T015209Z">
+        <seg>示例10-3，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23691,6 +23739,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054414Z" creationid="xccui" creationdate="20190613T054359Z">
         <seg>如果输入是白色方块，则不加改动直接输出；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the input operators are in different groups, the operator is in the "default" group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015113Z" creationid="xccui" creationdate="20190731T015113Z">
+        <seg>如果输入算子属于不同的处理槽共享组，那么该算子则会被加入"default"组中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50465,6 +50521,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>all members of the same group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014952Z" creationid="xccui" creationdate="20190731T014952Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>allows reading and writing values per key—only those keys and values are de/serial‐ ized that are read or written.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T033400Z" creationid="xccui" creationdate="20190704T033038Z">
@@ -57625,6 +57689,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val a: DataStream[A] = env.createInput(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015237Z" creationid="xccui" creationdate="20190731T015237Z">
+        <seg>val a: DataStream[A] = env.createInput(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val alerts: DataStream[(String, Double, Double)] = keyedData</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T062427Z" creationid="xccui" creationdate="20190630T062427Z">
@@ -57677,6 +57749,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005450Z" creationid="xccui" creationdate="20190624T005450Z">
         <seg>val avgTempPerWindow: DataStream[(String, Double)] = sensorData</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val b: DataStream[B] = a.map(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015248Z" creationid="xccui" creationdate="20190731T015248Z">
+        <seg>val b: DataStream[B] = a.map(...)</seg>
       </tuv>
     </tu>
     <tu>
