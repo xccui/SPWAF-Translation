@@ -14031,6 +14031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring these options is important to ensure reliable and smooth operation of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025821Z" creationid="xccui" creationdate="20190731T025821Z">
+        <seg>配置好这些选项，对于保证生产环境中流式应用可靠和稳定地运行非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect, coMap, and coFlatMap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065150Z" creationid="xccui" creationdate="20190614T065132Z">
@@ -19779,6 +19787,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T044022Z" creationid="xccui" creationdate="20190722T044022Z">
         <seg>Flink提供了一个基于Apache Hadoop的Swift FS连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides a couple of parameters to tune checkpointing and state backends.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025614Z" creationid="xccui" creationdate="20190731T025614Z">
+        <seg>Flink提供了一系列用于调整检查点和状态后端的参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56861,6 +56877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T145410Z" creationid="xingcan" creationdate="20190709T145410Z">
         <seg>stream.addSink(myProducer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>streaming applications in production.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025824Z" creationid="xccui" creationdate="20190731T025824Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
