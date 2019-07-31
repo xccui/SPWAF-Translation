@@ -13703,6 +13703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checkpoints are enabled on the StreamExecutionEnvironment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030649Z" creationid="xccui" creationdate="20190731T030649Z">
+        <seg>检查点可以通过StreamExecutionEnvironment来启用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checkpoints are implemented based on barriers that flow with the data and therefore avoid global synchronization across all operators of an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163830Z" creationid="xccui" creationdate="20190702T163830Z">
@@ -48885,6 +48893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T033928Z">
         <seg>在首次创建Deployment的时候需要花一些时间下载Flink容器镜像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you enable checkpointing for an application, you have to specify the check‐ pointing interval—the interval in which the JobManager will initiate checkpoints at the sources of the application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030602Z" creationid="xccui" creationdate="20190731T030602Z">
+        <seg>当你在应用中启用检查点后，必须指定检查点生成间隔，即JobManager通过应用数据源初始化检查点的间隔。</seg>
       </tuv>
     </tu>
     <tu>
