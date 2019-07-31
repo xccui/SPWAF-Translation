@@ -20321,8 +20321,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s mechanism to manually con‐ trol the assignment of tasks to slots is slot-sharing groups.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T205910Z" creationid="xccui" creationdate="20190730T205910Z">
-        <seg>Flink的</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T011343Z" creationid="xccui" creationdate="20190730T205910Z">
+        <seg>Flink所提供的手工将任务分配到处理槽的机制是处理槽共享组（slot-sharing group）。</seg>
       </tuv>
     </tu>
     <tu>
