@@ -10046,6 +10046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All tasks of operators that are members of the same slot-sharing group are processed by the same slots.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T011941Z" creationid="xccui" creationdate="20190731T011941Z">
+        <seg>所属同一处理槽共享组的算子，其任务都会由相同的处理槽处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All the window types that you have seen so far are &lt;t0/&gt;global&lt;t1/&gt; windows and operate on the full stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T193652Z" creationid="xccui" creationdate="20190409T193652Z">
@@ -15723,6 +15731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T071020Z" creationid="xccui" creationdate="20190609T214500Z">
         <seg>而每个算子又可以定义一个或多个的键值或算子状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each operator is a member of a slot-sharing group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T011438Z" creationid="xccui" creationdate="20190731T011438Z">
+        <seg>每个算子都属于一个处理槽共享组。</seg>
       </tuv>
     </tu>
     <tu>
