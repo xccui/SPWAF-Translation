@@ -49209,6 +49209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Within a slot-sharing group, the tasks are assigned to slots as described in “Task Execution” on page 40—each slot processes up to one task of each operator that is a member.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T013542Z" creationid="xccui" creationdate="20190731T013542Z">
+        <seg>在同一处理槽共享组内，所有任务都会像第40页"任务执行"一节中所描述的那样，分配到同一处理槽中——每个处理槽最多只能处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Within each instance, every dis‐ tinct state of the operator is stored in a separate column family (or table).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041618Z" creationid="xccui" creationdate="20190724T041618Z">
