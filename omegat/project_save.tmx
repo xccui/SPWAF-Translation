@@ -20273,8 +20273,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s default task scheduling strategy assigns a complete slice of a program—up to one task of each operator of an application to a single processing slot.2 Depending on the complexity of the application and the computational costs of the operators, this default strategy can overload a processing slot.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T205903Z" creationid="xccui" creationdate="20190730T205903Z">
-        <seg>Flink默认任务调度策略会将一个完整的程序分片（包含每个应用算子最多一个任务）分配到一个处理槽中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T002208Z" creationid="xccui" creationdate="20190730T205903Z">
+        <seg>Flink默认任务调度策略会将一个完整的程序分片（包含每个应用算子最多一个任务）分配到一个处理槽中。2 根据应用的复杂度以及算子的计算成本，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20315,6 +20315,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052458Z" creationid="xccui" creationdate="20190721T052210Z">
         <seg>Flink的主进程是作为YARN ApplicationMaster启动的。5 YARN会自动重启故障的ApplicationMaster，但会跟踪并限制重启次数以防出现无限制的恢复循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink’s mechanism to manually con‐ trol the assignment of tasks to slots is slot-sharing groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T205910Z" creationid="xccui" creationdate="20190730T205910Z">
+        <seg>Flink的</seg>
       </tuv>
     </tu>
     <tu>
