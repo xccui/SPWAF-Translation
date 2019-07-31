@@ -7582,6 +7582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Flink application that runs with fault tolerance enabled periodically takes a check‐ point of its state.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T020419Z" creationid="xccui" creationdate="20190731T020419Z">
+        <seg>在启用容错的情况下，Flink应用会周期性地将状态存储检查点中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Flink process (JobManager or Task‐ Manager) instantiates one FileSystem object for each configured filesystem and shares it across all local tasks to guarantee that configured constraints such as limits</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T041622Z" creationid="xccui" creationdate="20190722T041520Z">
@@ -13667,6 +13675,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154914Z" creationid="xccui" creationdate="20190225T025624Z">
         <seg>检查点和状态后端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkpointing can be an expensive operation since the amount of data that needs to be copied to a persistent storage can be quite large.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025121Z" creationid="xccui" creationdate="20190731T025121Z">
+        <seg>由于生成检查点时可能需要将大量数据复制到持久化存储中，所以其代价可能非常昂贵</seg>
       </tuv>
     </tu>
     <tu>
