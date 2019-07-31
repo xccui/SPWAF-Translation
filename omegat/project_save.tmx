@@ -20095,6 +20095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink pro‐ vides parameters to address these situations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202016Z" creationid="xccui" creationdate="20190731T201805Z">
+        <seg>Flink提供了一系列参数来处理这些情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink registers the classes of every job into a separate user-code classloader to ensure the dependencies of the job do not infer with Flink’s runtime dependencies or the dependencies of other jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T045138Z" creationid="xccui" creationdate="20190723T045138Z">
@@ -34578,8 +34586,8 @@
       <tuv lang="EN-US">
         <seg>Second, a checkpoint may be delayed because we need to wait for another checkpoint to complete results in a lower check‐ pointing interval, leading to longer catch-up processing during recovery.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T201726Z" creationid="xccui" creationdate="20190731T201726Z">
-        <seg>其次，检查点生成会被推迟，因为等待当前正在进行的检查点完成会导致更高的生成间隔，继而导致在恢复时需要更长事件去处理和追赶进度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T201744Z" creationid="xccui" creationdate="20190731T201726Z">
+        <seg>其次，检查点生成会被推迟，因为等待当前正在进行的检查点完成会导致更高的生成间隔，继而导致在恢复时需要更长时间去处理数据和追赶进度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45556,6 +45564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200832Z" creationid="xccui" creationdate="20190729T200832Z">
         <seg>要使用curl删除某个保存点，请运行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure an application can make enough progress, you can configure a minimum pause between checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202019Z" creationid="xccui" creationdate="20190731T202019Z">
+        <seg>为了</seg>
       </tuv>
     </tu>
     <tu>
