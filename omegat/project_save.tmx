@@ -2598,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// checkpoints have to complete within five minutes, or are discarded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203918Z" creationid="xccui" creationdate="20190731T203918Z">
+        <seg>// 检查点生成必须在五分钟内完成，否则就会放弃执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// clear all state for the key lastTempState.clear() lastTimerState.clear()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210846Z" creationid="xccui" creationdate="20190704T210846Z">
@@ -13027,6 +13035,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040130Z" creationid="xccui" creationdate="20190729T040130Z">
         <seg>默认情况下，二者都会使用8081端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, checkpoints are canceled after 10 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203747Z" creationid="xccui" creationdate="20190731T203747Z">
+        <seg>默认情况下，检查点生成操作会在10分钟后被取消。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45532,6 +45548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045840Z" creationid="xccui" creationdate="20190416T045830Z">
         <seg>为了评估它，需要考虑应用处理管道上的所有组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To avoid long-running checkpoints, you can configure a timeout interval after which a checkpoint is canceled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203755Z" creationid="xccui" creationdate="20190731T203717Z">
+        <seg>为了避免生成检查点时间过长，你可以配置一个超时间隔，在该间隔后检查点生成会被取消。</seg>
       </tuv>
     </tu>
     <tu>
