@@ -12927,6 +12927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, Flink allows only one checkpoint to be in progress at a time to avoid checkpointing takeing away too many resources needed for regular processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031718Z" creationid="xccui" creationdate="20190731T031718Z">
+        <seg>默认情况下，Flink一次只允许生成一个检查点，以免它占用常规处理太多资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, Flink assigns unique operator identifiers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T023152Z" creationid="xccui" creationdate="20190609T220319Z">
@@ -24555,6 +24563,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051515Z" creationid="xccui" creationdate="20190620T051433Z">
         <seg>如果你输入元素的时间戳是单调增加的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If—according to the configured checkpointing interval—a checkpoint needs to be started, but there is another checkpoint in progress, the sec‐ ond checkpoint will be put on hold until the first checkpoint completes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031941Z" creationid="xccui" creationdate="20190731T031941Z">
+        <seg>如果（根据配置的检查点生成间隔）需要生成一个检查点时，另一个检查点正在生成过程中，则后一个检查点会延后，直至前一个完成。</seg>
       </tuv>
     </tu>
     <tu>
