@@ -14767,6 +14767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELETE_ON_CANCELLATION retains the checkpoint only after the application com‐ pletely fails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205522Z" creationid="xccui" creationdate="20190731T205522Z">
+        <seg>DELETE_ON_CANCELLATION只有在应用完全失败后才会保留检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050347Z" creationid="xccui" creationdate="20190612T051345Z">
@@ -17763,6 +17771,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163156Z" creationid="xccui" creationdate="20190705T163156Z">
         <seg>外部应用可以在流式应用运行过程中访问某一键值的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Externalized checkpoints do not replace savepoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205605Z" creationid="xccui" creationdate="20190731T205605Z">
+        <seg>外化检查点不能替代保存点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23979,6 +23995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060937Z" creationid="xccui" creationdate="20190418T050826Z">
         <seg>如果ResourceManager的处理槽数无法满足JobManager的请求，则ResourceManager可以和资源提供者通信，让它们提供额外容器来启动更多TaskManager进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the application is explicitly canceled, the checkpoint is deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205554Z" creationid="xccui" creationdate="20190731T205554Z">
+        <seg>如果应用被显式取消，则检查点会删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33724,6 +33748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045508Z" creationid="xccui" creationdate="20190729T045508Z">
         <seg>上传JAR包的REST请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RETAIN_ON_CANCELLATION retains the checkpoint after the application completely fails and when it is explicitly canceled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205443Z" creationid="xccui" creationdate="20190731T205443Z">
+        <seg>RETAIN_ON_CANCELLATION在应用完全失败和显式取消时保留检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44044,6 +44076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063508Z" creationid="xccui" creationdate="20190616T063508Z">
         <seg>出于网络传输，读写状态、检查点和保存点等目的，需要对它们进行序列化和反序列化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They use a state backend–specific storage format and do not support rescaling.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205713Z" creationid="xccui" creationdate="20190731T205713Z">
+        <seg>它们会使用特定于某个状态后端的存储格式，且不支持伸缩。</seg>
       </tuv>
     </tu>
     <tu>
