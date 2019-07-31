@@ -22567,6 +22567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the choice and configuration of the application’s state backend has a large impact on the performance of the checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T212448Z" creationid="xccui" creationdate="20190731T212448Z">
+        <seg>因此，应用状态后端的选择和配置对检查点相关操作的性能有很大影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the client can send out multi‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T035215Z" creationid="xccui" creationdate="20190707T035215Z">
@@ -35544,6 +35552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since it holds all state in memory and checkpoints are completely stored in the volatile and JVM-size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T213711Z" creationid="xccui" creationdate="20190731T213711Z">
+        <seg>由于它将所有状态保存在内存中，且检查点全部存储在易失及受JVM大小约束的JobManager堆存储中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since it is not possible to change the identifiers in a savepoint, you will have fewer options to update and evolve your application if</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050344Z" creationid="xccui" creationdate="20190727T050344Z">
@@ -40040,6 +40056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default state backend of an application is MemoryStateBackend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T212636Z" creationid="xccui" creationdate="20190731T212636Z">
+        <seg>应用默认的状态后端是MemoryStateBackend。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dependency for Flink’s universal Kafka connector is added to a Maven project as shown in the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T043637Z" creationid="xccui" creationdate="20190709T043637Z">
@@ -41068,6 +41092,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031746Z" creationid="xccui" creationdate="20190606T031623Z">
         <seg>在使用批处理系统分析有限数据集的情况下，状态的重要性会越发凸显。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The individual state backends are described in more detail in “Choosing a State Backend” on page 169.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T212621Z" creationid="xccui" creationdate="20190731T212621Z">
+        <seg>我们已经在第169页"选择状态后端"一节对每个状态后端都进行了详细的描述。</seg>
       </tuv>
     </tu>
     <tu>
