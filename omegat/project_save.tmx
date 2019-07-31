@@ -3046,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// enable checkpoint compression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204755Z" creationid="xccui" creationdate="20190731T204755Z">
+        <seg>// 开启检查点压缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// enable checkpointing with an interval of 10 seconds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030721Z" creationid="xccui" creationdate="20190731T030721Z">
@@ -22615,6 +22623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, they clean up when a job stops running, either due to a failure or explicit cancellation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205129Z" creationid="xccui" creationdate="20190731T205129Z">
+        <seg>因此它们会在作业停止运行时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, you can also submit applications using</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042552Z" creationid="xccui" creationdate="20190718T042552Z">
@@ -31183,6 +31199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that checkpoint compression is not supported for incremental RocksDB checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204852Z" creationid="xccui" creationdate="20190731T204852Z">
+        <seg>注意，RocksDB增量检查点不支持压缩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that guaranteeing the consistency of an application’s state is not the same a guarantee‐ ing consistency of its output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191638Z" creationid="xccui" creationdate="20190606T034216Z">
@@ -34252,6 +34276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T040646Z" creationid="xccui" creationdate="20190609T040646Z">
         <seg>恢复所有任务的处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retaining checkpoints after an application has stopped</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204910Z" creationid="xccui" creationdate="20190731T204910Z">
+        <seg>应用停止后保留检查点</seg>
       </tuv>
     </tu>
     <tu>
@@ -42116,6 +42148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T031720Z" creationid="xccui" creationdate="20190716T031720Z">
         <seg>为了理解数据汇系统的协议和需求，我们来看一个具体的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of checkpoints is to recover an application after a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204953Z" creationid="xccui" creationdate="20190731T204953Z">
+        <seg>检查点的目的是用于应用故障恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50203,8 +50243,8 @@
       <tuv lang="EN-US">
         <seg>You can enable compressed checkpoints and savepoints as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204734Z" creationid="xccui" creationdate="20190731T204734Z">
-        <seg>你可以像下面这样开启对于检查点和保存点的压缩：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204817Z" creationid="xccui" creationdate="20190731T204734Z">
+        <seg>你可以像下面这样为检查点和保存点开启压缩：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52973,6 +53013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045802Z" creationid="xccui" creationdate="20190620T045802Z">
         <seg>env.getConfig.setAutoWatermarkInterval(5000)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.getConfig.setUseSnapshotCompression(true)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204819Z" creationid="xccui" creationdate="20190731T204819Z">
+        <seg>env.getConfig.setUseSnapshotCompression(true)</seg>
       </tuv>
     </tu>
     <tu>
