@@ -19177,8 +19177,8 @@
       <tuv lang="EN-US">
         <seg>First, it means that the regular data processing of the application will always compete for resources with the concurrent checkpoint‐ ing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T200953Z" creationid="xccui" creationdate="20190731T200953Z">
-        <seg>首先它意味着应用内常规的数据处理将始终和并发的检查点生成过程争夺资源。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T201223Z" creationid="xccui" creationdate="20190731T200953Z">
+        <seg>首先它意味着应用内常规的数据处理将始终和并发的检查点生成争夺资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34572,6 +34572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210641Z" creationid="esouser" creationdate="20190603T210641Z">
         <seg>Sebastopol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, a checkpoint may be delayed because we need to wait for another checkpoint to complete results in a lower check‐ pointing interval, leading to longer catch-up processing during recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T201726Z" creationid="xccui" creationdate="20190731T201726Z">
+        <seg>其次，检查点生成会被推迟，因为等待当前正在进行的检查点完成会导致更高的生成间隔，继而导致在恢复时需要更长事件去处理和追赶进度。</seg>
       </tuv>
     </tu>
     <tu>
