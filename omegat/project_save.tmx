@@ -16135,6 +16135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enabling checkpoint compression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204509Z" creationid="xccui" creationdate="20190731T204509Z">
+        <seg>启用检查点压缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enabling checkpointing for an application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204806Z" creationid="xccui" creationdate="20190702T204806Z">
@@ -20243,6 +20251,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T064957Z" creationid="xccui" creationdate="20190616T064910Z">
         <seg>Flink支持Java和Scala中所有常见数据类型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink supports compressed checkpoints and savepoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204526Z" creationid="xccui" creationdate="20190731T204526Z">
+        <seg>Flink支持对检查点和保存点进行压缩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46632,6 +46648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Until Flink 1.7, the only sup‐ ported compression algorithm is Snappy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204706Z" creationid="xccui" creationdate="20190731T204706Z">
+        <seg>截至1.7版本，Flink还只支持Snappy压缩算法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Until the rise of Apache Hadoop, specialized analytical database systems and data warehouses were the predominant solutions for data analytics workloads.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T203754Z" creationid="xccui" creationdate="20190228T194848Z">
@@ -50177,6 +50201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can enable compressed checkpoints and savepoints as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204734Z" creationid="xccui" creationdate="20190731T204734Z">
+        <seg>你可以像下面这样开启对于检查点和保存点的压缩：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can expect improved support for these scenarios in future versions of Apache Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T053708Z" creationid="xccui" creationdate="20190705T053708Z">
@@ -52269,6 +52301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031006Z" creationid="xccui" creationdate="20190731T031006Z">
         <seg>cpConfig.setCheckpointingMode(CheckpointingMode.AT_LEAST_ONCE);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cpConfig.setFailOnCheckpointingErrors(false);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204451Z" creationid="xccui" creationdate="20190731T204451Z">
+        <seg>cpConfig.setFailOnCheckpointingErrors(false);</seg>
       </tuv>
     </tu>
     <tu>
