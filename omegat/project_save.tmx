@@ -13031,6 +13031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, a failing checkpoint causes an exception that results in an application restart.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204107Z" creationid="xccui" creationdate="20190731T204030Z">
+        <seg>默认情况下，检查点生成失败会抛出异常导致应用重启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, both are exposed on port 8081.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040130Z" creationid="xccui" creationdate="20190729T040130Z">
@@ -19123,6 +19131,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T051729Z" creationid="xccui" creationdate="20190416T051720Z">
         <seg>最后你明白了状态对流式应用的重要性，以及如何在故障时保证结果正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, you might also want to configure what happens if a checkpoint fails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204040Z" creationid="xccui" creationdate="20190731T204022Z">
+        <seg>最后，你可能还希望在检查点失败后会发生些什么。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50105,6 +50121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can disable this behavior and let the application continue after a checkpointing error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204131Z" creationid="xccui" creationdate="20190731T204131Z">
+        <seg>你可以禁用此行为，让应用在检查点错误后继续运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can disable this safety check by adding the -n option</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053749Z" creationid="xccui" creationdate="20190727T053749Z">
@@ -52221,6 +52245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212347Z" creationid="xccui" creationdate="20190716T212236Z">
         <seg>这会非常耗时，需要在实际应用中避免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cpConfig.setCheckpointTimeout(300000);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203920Z" creationid="xccui" creationdate="20190731T203920Z">
+        <seg>cpConfig.setCheckpointTimeout(300000);</seg>
       </tuv>
     </tu>
     <tu>
