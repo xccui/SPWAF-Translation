@@ -38768,6 +38768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The application in Example 10-3 consists of five operators, two sources, two inter‐ mediate operators, and a sink operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T020016Z" creationid="xccui" creationdate="20190731T020016Z">
+        <seg>示例10-3中的应用包含了5个算子——2个数据源，2个中间算子和1个数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The application is depicted in Figure 3-19.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T063223Z" creationid="xccui" creationdate="20190609T062323Z">
