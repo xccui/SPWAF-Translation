@@ -24401,8 +24401,8 @@
       <tuv lang="EN-US">
         <seg>If you configure the minimum pause to be 30 seconds, then no new checkpoint will be started within the first 30 seconds after a checkpoint completed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202329Z" creationid="xccui" creationdate="20190731T202329Z">
-        <seg>如果你配置了30秒的最小暂停时间</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202444Z" creationid="xccui" creationdate="20190731T202329Z">
+        <seg>如果你配置了30秒的最小暂停时间，那么在检查点完成后的30秒内不会开始生成新的检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43928,6 +43928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This also means the effective checkpointing interval is at least 30 seconds and there is at most one checkpoint happening at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202637Z" creationid="xccui" creationdate="20190731T202637Z">
+        <seg>而这也意味着有效检查点生成间隔至少要为30秒，且同时最多只可以生成一个检查点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This application design can cause problems when applications need to evolve or scale.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053337Z" creationid="esouser" creationdate="20190603T195919Z">
@@ -45578,8 +45586,8 @@
       <tuv lang="EN-US">
         <seg>To ensure an application can make enough progress, you can configure a minimum pause between checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202311Z" creationid="xccui" creationdate="20190731T202019Z">
-        <seg>为了保证应用可以取得足够多的进展，Flink允许你配置一个检查点之间的最小暂停。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202335Z" creationid="xccui" creationdate="20190731T202019Z">
+        <seg>为了保证应用可以取得足够多的进展，Flink允许你配置一个检查点之间的最小暂停时间。</seg>
       </tuv>
     </tu>
     <tu>
