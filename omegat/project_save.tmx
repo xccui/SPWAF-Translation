@@ -22359,6 +22359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, its processing slows down and it might not be able to make enough pro‐ gress to keep up with the incoming data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T201213Z" creationid="xccui" creationdate="20190731T201213Z">
+        <seg>因此，数据处理可能会变慢，导致跟不上数据接入的速率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, its storage must be considered volatile.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T061854Z" creationid="xccui" creationdate="20190608T053557Z">
