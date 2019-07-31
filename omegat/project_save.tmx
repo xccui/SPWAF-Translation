@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// allow three checkpoint to be in progress at the same time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203219Z" creationid="xccui" creationdate="20190731T203219Z">
+        <seg>// 允许同时生成三个检查点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// alternative: connect two keyed streams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T205951Z" creationid="xccui" creationdate="20190615T050418Z">
@@ -27183,6 +27191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case you can configure the maximum number of concurrent check‐ points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203131Z" creationid="xccui" creationdate="20190731T203131Z">
+        <seg>在该情况下，你可以为生成检查点配置最大并发数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T031806Z" creationid="xccui" creationdate="20190709T031806Z">
@@ -34444,6 +34460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T144644Z" creationid="xccui" creationdate="20190418T035333Z">
         <seg>保存点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Savepoints are taken concurrently with checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203245Z" creationid="xccui" creationdate="20190731T203245Z">
+        <seg>保存点的生成也会和检查点并发执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52165,6 +52189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031006Z" creationid="xccui" creationdate="20190731T031006Z">
         <seg>cpConfig.setCheckpointingMode(CheckpointingMode.AT_LEAST_ONCE);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cpConfig.setMaxConcurrentCheckpoints(3);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203222Z" creationid="xccui" creationdate="20190731T203222Z">
+        <seg>cpConfig.setMaxConcurrentCheckpoints(3);</seg>
       </tuv>
     </tu>
     <tu>
