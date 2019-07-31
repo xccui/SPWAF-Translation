@@ -3022,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// enable checkpointing with an interval of 10 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030721Z" creationid="xccui" creationdate="20190731T030721Z">
+        <seg>// 启用10秒为间隔的检查点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// enable queryable state and set its external identifier</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T061042Z" creationid="xccui" creationdate="20190706T061042Z">
@@ -3234,6 +3242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T211850Z" creationid="xccui" creationdate="20190716T211551Z">
         <seg>// 如果有剩余房间就获取一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// get the CheckpointConfig from the StreamExecutionEnvironment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030833Z" creationid="xccui" creationdate="20190731T030833Z">
+        <seg>// 从StreamExecutionEnvironment中获取CheckpointConfig</seg>
       </tuv>
     </tu>
     <tu>
@@ -12911,6 +12927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, Flink creates checkpoints to guarantee exactly-once state consistency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030913Z" creationid="xccui" creationdate="20190731T030913Z">
+        <seg>默认情况下，Flink创建的检查点会保证内部状态的精确一次语义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, Flink looks up user-code classes first in the child (user-code) classloader and then in parent (system) classloader to prevent version clashes in case a job uses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060311Z" creationid="xccui" creationdate="20190723T055953Z">
@@ -21719,6 +21743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further options to configure the checkpointing behavior are provided by the Check pointConfig, which can be obtained from the StreamExecutionEnvironment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030820Z" creationid="xccui" creationdate="20190731T030820Z">
+        <seg>你还可以利用从StreamExecutionEnvironment中获取的CheckpointConfig对检查点进行更多配置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further, it includes methods for accessing partitioned state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033725Z" creationid="xccui" creationdate="20190619T033527Z">
@@ -22923,6 +22955,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T195737Z" creationid="xccui" creationdate="20190609T195737Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it can also be configured to provide at-least-once guarantees:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030953Z" creationid="xccui" creationdate="20190731T030953Z">
+        <seg>但你也可以将其调整为至少一次保障：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52601,6 +52641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>env.enableCheckpointing(10000);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030724Z" creationid="xccui" creationdate="20190731T030724Z">
+        <seg>env.enableCheckpointing(10000);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>env.enableCheckpointing(10000L)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204850Z" creationid="xccui" creationdate="20190702T204850Z">
@@ -58121,6 +58169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val cpConfig: CheckpointConfig = env.getCheckpointConfig</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030835Z" creationid="xccui" creationdate="20190731T030835Z">
+        <seg>val cpConfig: CheckpointConfig = env.getCheckpointConfig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val curTimer = lastTimerState.value()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T210609Z" creationid="xccui" creationdate="20190704T210609Z">
@@ -58221,6 +58277,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025646Z" creationid="xccui" creationdate="20190704T025646Z">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment val checkpointPath: String = ???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val env: StreamExecutionEnvironment = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030652Z" creationid="xccui" creationdate="20190731T030652Z">
+        <seg>val env: StreamExecutionEnvironment = ???</seg>
       </tuv>
     </tu>
     <tu>
