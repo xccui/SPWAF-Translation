@@ -20337,8 +20337,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s mechanism to manually con‐ trol the assignment of tasks to slots is slot-sharing groups.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T011343Z" creationid="xccui" creationdate="20190730T205910Z">
-        <seg>Flink所提供的手工将任务分配到处理槽的机制是处理槽共享组（slot-sharing group）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T013715Z" creationid="xccui" creationdate="20190730T205910Z">
+        <seg>Flink提供了处理槽共享组（slot-sharing group）机制，可以手工将任务分配到处理槽中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49211,8 +49211,8 @@
       <tuv lang="EN-US">
         <seg>Within a slot-sharing group, the tasks are assigned to slots as described in “Task Execution” on page 40—each slot processes up to one task of each operator that is a member.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T013542Z" creationid="xccui" creationdate="20190731T013542Z">
-        <seg>在同一处理槽共享组内，所有任务都会像第40页"任务执行"一节中所描述的那样，分配到同一处理槽中——每个处理槽最多只能处理</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014130Z" creationid="xccui" creationdate="20190731T013542Z">
+        <seg>在同一处理槽共享组内，任务会像第40页"任务执行"一节中所描述的那样分配到不同处理槽中——每个处理槽只能处理共享组内每个算子至多一个任务。</seg>
       </tuv>
     </tu>
     <tu>
