@@ -22879,6 +22879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it also increases the amount of data a job needs to reprocess after recovering from a failure before it catches up to the tail of the stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025506Z" creationid="xccui" creationdate="20190731T025506Z">
+        <seg>但它同时会使作业在故障恢复过程中需要重新处理更多数据，才能到达数据流的尾部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it can</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T195737Z" creationid="xccui" creationdate="20190609T195737Z">
@@ -27747,6 +27755,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210821Z" creationid="esouser" creationdate="20190603T210821Z">
         <seg>Incorporating a signifi‐ cant amount of example code from this book into your product’s documentation does require permission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increasing the checkpointing interval reduces the overhead of fault tolerance during regular pro‐ cessing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025215Z" creationid="xccui" creationdate="20190731T025215Z">
+        <seg>增大检查点的生成间隔可以降低常规处理过程中的容错开销。</seg>
       </tuv>
     </tu>
     <tu>
