@@ -21959,6 +21959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, a slot-sharing group requires as many processing slots as the maximum parallelism of its operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014658Z" creationid="xccui" creationdate="20190731T014658Z">
+        <seg>因此，一个处理槽共享组所需的处理槽数需要和它内部算子的最大并行度一样多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, a trigger must clear all of its state in the Trigger.clear() method to prevent</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040852Z" creationid="xccui" creationdate="20190626T040750Z">
