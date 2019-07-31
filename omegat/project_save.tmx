@@ -10614,6 +10614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An operator inherits the slot-sharing group of its input operators if they are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014949Z" creationid="xccui" creationdate="20190731T014949Z">
+        <seg>如果一个算子所有输入都属于同一处理槽共享组，那么该算子也将继承该组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An operator pipeline that complies with the requirements of task chaining</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T200254Z" creationid="xccui" creationdate="20190606T203431Z">
@@ -12883,6 +12891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042752Z" creationid="xccui" creationdate="20190724T042752Z">
         <seg>默认情况下，数据会写入默认临时目录（由Java系统变量java.io.tmpdir决定，或Linux及MacOS下的/tmp目录）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, each operator is in the "default" slot-sharing group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014805Z" creationid="xccui" creationdate="20190731T014805Z">
+        <seg>默认情况下，所有算子都属于"default"处理槽共享组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20603,6 +20619,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T064209Z">
         <seg>对于每个键值和时间戳只能注册一个计时器。换言之，每个键值可以有多个计时器，但对应每个时间戳只能有一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each operator, you can explicitly specify its slot-sharing group with the slotSharingGroup(String) method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014913Z" creationid="xccui" creationdate="20190731T014913Z">
+        <seg>对于每个算子，你都可以利用slotSharingGroup(String)方法显式指定其处理槽共享组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37092,6 +37116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052518Z" creationid="xccui" creationdate="20190606T210238Z">
         <seg>任务内部的时间服务（time service）会维护一些计时器（timer），它们依靠接收到水位线来激活。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tasks of operators that are in different slot-sharing groups are not exe‐ cuted by the same slots.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014732Z" creationid="xccui" creationdate="20190731T014732Z">
+        <seg>属于不同处理槽共享组的算子，其任务会由不同的处理槽执行。</seg>
       </tuv>
     </tu>
     <tu>
