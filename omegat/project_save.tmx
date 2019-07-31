@@ -3894,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set mode to at-least-once</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031003Z" creationid="xccui" creationdate="20190731T031003Z">
+        <seg>// 设置为至少一次模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set parallelism of the environment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060453Z" creationid="xccui" creationdate="20190616T060453Z">
@@ -15243,6 +15251,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T154732Z" creationid="xingcan" creationdate="20190628T154732Z">
         <seg>根据业务需求，迟到数据可通过定期回填过程（backfill process）集成到流式应用的结果中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the characteristics of an application, the size of its state, and the state backend and its configuration, a checkpoint can take up to a few minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031134Z" creationid="xccui" creationdate="20190731T031134Z">
+        <seg>根据应用自身特征、状态大小、状态后端及其配置，生成一次检查点可能需要几分钟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30387,6 +30403,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200128Z" creationid="xccui" creationdate="20190715T195951Z">
         <seg>且TwoPhaseCommitSinkFunction的协议本就是建立在Flink常规的检查点机制之上，因此它并没有带来很多额外开销。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the size of the state can grow and shrink over time, perhaps due to long-running win‐ dows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031312Z" creationid="xccui" creationdate="20190731T031312Z">
+        <seg>此外，状态大小可能会随时间推移而增大或缩小，这可能是由长期运行的窗口而导致的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52021,6 +52045,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212347Z" creationid="xccui" creationdate="20190716T212236Z">
         <seg>这会非常耗时，需要在实际应用中避免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cpConfig.setCheckpointingMode(CheckpointingMode.AT_LEAST_ONCE);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031006Z" creationid="xccui" creationdate="20190731T031006Z">
+        <seg>cpConfig.setCheckpointingMode(CheckpointingMode.AT_LEAST_ONCE);</seg>
       </tuv>
     </tu>
     <tu>
