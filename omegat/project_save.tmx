@@ -2958,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// do not fail the job on a checkpointing error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204448Z" creationid="xccui" creationdate="20190731T204448Z">
+        <seg>// 不要因为检查点生成错误导致作业失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// do some cleanup, e.g., close connections to external systems</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034545Z" creationid="xccui" creationdate="20190619T034545Z">
