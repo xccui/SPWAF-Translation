@@ -14033,8 +14033,8 @@
       <tuv lang="EN-US">
         <seg>Configuring these options is important to ensure reliable and smooth operation of</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025821Z" creationid="xccui" creationdate="20190731T025821Z">
-        <seg>配置好这些选项，对于保证生产环境中流式应用可靠和稳定地运行非常重要。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025846Z" creationid="xccui" creationdate="20190731T025821Z">
+        <seg>配置好这些选项，对于保证生产环境中流式应用可靠、稳定地运行非常重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21283,6 +21283,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T062709Z" creationid="xccui" creationdate="20190606T143258Z">
         <seg>例如：独立集群设置下没有资源提供者，因此ResourceManager只能分配现有TaskManager中的处理槽而无法自己启动新的TaskManager。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, reducing the overhead of each checkpoint can facilitate a higher checkpointing frequency, leading to faster recovery cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030146Z" creationid="xccui" creationdate="20190731T025921Z">
+        <seg>例如，减小每个检查点的生成开销会增加其生成频率，继而导致恢复周期加快。</seg>
       </tuv>
     </tu>
     <tu>
