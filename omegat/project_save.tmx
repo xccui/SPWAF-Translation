@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.setParallelism(2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015403Z" creationid="xccui" creationdate="20190731T015403Z">
+        <seg>.setParallelism(2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.setParallelism(4)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015245Z" creationid="xccui" creationdate="20190731T015245Z">
@@ -1534,10 +1542,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.slotSharingGroup("blue")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015419Z" creationid="xccui" creationdate="20190731T015419Z">
+        <seg>.slotSharingGroup("blue")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.slotSharingGroup("green")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015241Z" creationid="xccui" creationdate="20190731T015241Z">
         <seg>.slotSharingGroup("green")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.slotSharingGroup("yellow")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015327Z" creationid="xccui" creationdate="20190731T015327Z">
+        <seg>.slotSharingGroup("yellow")</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,10 +3982,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// slot-sharing group "blue"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015414Z" creationid="xccui" creationdate="20190731T015414Z">
+        <seg>// 处理槽共享组"blue"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// slot-sharing group "blue" is inherited from d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015437Z" creationid="xccui" creationdate="20190731T015437Z">
+        <seg>//从d继承处理槽共享组"blue"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// slot-sharing group "green"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015235Z" creationid="xccui" creationdate="20190731T015235Z">
         <seg>// 处理槽共享组"green"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// slot-sharing group "green" is inherited from a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015307Z" creationid="xccui" creationdate="20190731T015307Z">
+        <seg>// 从a继承处理槽共享组"green"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// slot-sharing group "yellow"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015322Z" creationid="xccui" creationdate="20190731T015322Z">
+        <seg>// 处理槽共享组"yellow"</seg>
       </tuv>
     </tu>
     <tu>
@@ -39512,6 +39568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default scheduling behavior was explained in Chapter 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015401Z" creationid="xccui" creationdate="20190731T015401Z">
+        <seg>第3章介绍了默认的调度行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dependency for Flink’s universal Kafka connector is added to a Maven project as shown in the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T043637Z" creationid="xccui" creationdate="20190709T043637Z">
@@ -57809,6 +57873,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val c: DataStream[C] = env.createInput(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015324Z" creationid="xccui" creationdate="20190731T015324Z">
+        <seg>val c: DataStream[C] = env.createInput(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val cFilePath = Paths.get(s"$targetPath/$transaction") Files.move(tFilePath, cFilePath)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T042143Z" creationid="xccui" creationdate="20190716T042143Z">
@@ -57913,6 +57985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val d: DataStream[D] = b.connect(c.broadcast(...)).process(...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015416Z" creationid="xccui" creationdate="20190731T015416Z">
+        <seg>val d: DataStream[D] = b.connect(c.broadcast(...)).process(...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val defaultP = env.env.getParallelism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T060244Z" creationid="xccui" creationdate="20190616T060244Z">
@@ -57941,6 +58021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T062728Z" creationid="xccui" creationdate="20190701T062728Z">
         <seg>val div = highTempCnt / 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val e = d.addSink()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015422Z" creationid="xccui" creationdate="20190731T015422Z">
+        <seg>val e = d.addSink()</seg>
       </tuv>
     </tu>
     <tu>
