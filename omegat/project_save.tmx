@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// Enable externalized checkpoints cpConfig.enableExternalizedCheckpoints( ExternalizedCheckpointCleanup.RETAIN_ON_CANCELLATION)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205329Z" creationid="xccui" creationdate="20190731T205329Z">
+        <seg>// 启用外化检查点 cpConfig.enableExternalizedCheckpoints( ExternalizedCheckpointCleanup.RETAIN_ON_CANCELLATION)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// Evaluates the window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010513Z" creationid="xccui" creationdate="20190624T010513Z">
@@ -22625,8 +22633,8 @@
       <tuv lang="EN-US">
         <seg>Hence, they clean up when a job stops running, either due to a failure or explicit cancellation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205129Z" creationid="xccui" creationdate="20190731T205129Z">
-        <seg>因此它们会在作业停止运行时</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205204Z" creationid="xccui" creationdate="20190731T205129Z">
+        <seg>因此它们会在作业停止运行时（无论由于故障还是显式取消）被清理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23539,6 +23547,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T205940Z" creationid="xccui" creationdate="20190228T203747Z">
         <seg>但随着Hadoop的流行，不少公司开始意识到他们现有的数据分析流程会遗漏很多有价值的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you can also enable a feature called externalized checkpoints to retain checkpoints after the application has stopped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205305Z" creationid="xccui" creationdate="20190731T205305Z">
+        <seg>但你可以启用一个名为外化检查点（externalized checkpoint）的功能，在应用停止后保留检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43540,6 +43556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T065037Z" creationid="xccui" creationdate="20190715T065037Z">
         <seg>有两种故障会导致记录发出多次：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two options for externalized checkpoints:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205338Z" creationid="xccui" creationdate="20190731T205338Z">
+        <seg>外化检查点有两个选项：</seg>
       </tuv>
     </tu>
     <tu>
