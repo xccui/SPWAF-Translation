@@ -12649,8 +12649,8 @@
       <tuv lang="EN-US">
         <seg>Besides resource considerations for the recovery, there are two other recovery-related topics we will discuss: restart strategies and local recovery.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150907Z" creationid="xingcan" creationdate="20190801T150907Z">
-        <seg>在恢复时</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T151126Z" creationid="xingcan" creationdate="20190801T150907Z">
+        <seg>恢复过程除了资源因素，还有两个值得讨论的主题：重启策略和本地恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34452,6 +34452,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162048Z" creationid="xccui" creationdate="20190729T043934Z">
         <seg>响应 返回./conf/flink-conf/yaml中定义的JobManager配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart strategies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T151131Z" creationid="xingcan" creationdate="20190801T151131Z">
+        <seg>重启策略</seg>
       </tuv>
     </tu>
     <tu>
