@@ -46000,6 +46000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To be able to catch up with the stream—reach its tail—the application must process the accumulated data at a higher rate than new data is arriving.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145912Z" creationid="xingcan" creationdate="20190801T145912Z">
+        <seg>为了能够追赶上数据流（到达其尾部），应用处理积累数据的速率必须要高于新数据到来的速率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To better understand the con&lt;t4/&gt;‐&lt;t5/&gt; cept of peak throughput, let us consider that system resources are completely unused.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T204336Z" creationid="xccui" creationdate="20190401T204219Z">
