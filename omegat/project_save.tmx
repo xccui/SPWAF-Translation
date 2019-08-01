@@ -12647,6 +12647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides resource considerations for the recovery, there are two other recovery-related topics we will discuss: restart strategies and local recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150907Z" creationid="xingcan" creationdate="20190801T150907Z">
+        <seg>在恢复时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides starting standby TaskManagers, a standalone deployment does not need addi‐ tional configuration to be able to recover from TaskManager failures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025623Z" creationid="xccui" creationdate="20190721T025411Z">
@@ -41848,6 +41856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The more resources available for recovery, the faster the catch-up phase completes and the faster processing latencies go back to normal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150822Z" creationid="xingcan" creationdate="20190801T150822Z">
+        <seg>用于恢复的资源越多，追赶阶段的时长就会越短，处理延迟也就恢复得越快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most important</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034145Z" creationid="xccui" creationdate="20190724T034145Z">
@@ -45130,8 +45146,8 @@
       <tuv lang="EN-US">
         <seg>This means an application should not run close to 100% resource consumption during regular processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150629Z" creationid="xingcan" creationdate="20190801T150629Z">
-        <seg>这意味着应用在常规处理时不应该消耗近100%的资源。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150948Z" creationid="xingcan" creationdate="20190801T150629Z">
+        <seg>这意味着应用在常规处理时不应该接近100%的资源消耗。</seg>
       </tuv>
     </tu>
     <tu>
