@@ -23503,6 +23503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there are constructors that take parameters to enable or disable asynchronous checkpointing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022556Z" creationid="xccui" creationdate="20190801T022556Z">
+        <seg>但它有一些构造函数，可以通过一些参数来决定是否开启异步检查点（默认开启）及限制状态大小（默认5MB）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there is also a mode in which the call of the execute() method starts a Job‐ Manager and a TaskManager (by default with as many slots as available CPU threads) as separate threads within the same JVM. Consequently, the whole Flink application is multithreaded and executed within the same JVM process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T093215Z" creationid="xccui" creationdate="20190611T052546Z">
@@ -30275,6 +30283,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T021136Z">
         <seg>Flink社区成员已经为Apache Flink配置和构建了Docker镜像，并把它们上传到了Docker Hub（一个用于存放Docker镜像的公共仓库）上面。仓库内包含了Flink最新几个版本的Docker镜像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MemoryStateBackend does not require any parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022322Z" creationid="xccui" creationdate="20190801T022322Z">
+        <seg>MemoryStateBackend无需任何参数。</seg>
       </tuv>
     </tu>
     <tu>
