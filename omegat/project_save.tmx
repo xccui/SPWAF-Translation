@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create a RocksDBStateBackend that writes incremental checkpoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025100Z" creationid="xccui" creationdate="20190801T025100Z">
+        <seg>// 创建一个将检查点增量写入/tmp/ckp目录的RocksDBStateBackend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create a local stream execution environment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050137Z" creationid="xccui" creationdate="20190612T045528Z">
@@ -4418,6 +4426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T192549Z" creationid="xccui" creationdate="20190626T192549Z">
         <seg>// 使其可以注册计时器回调并处理状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// to the /tmp/ckp folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025102Z" creationid="xccui" creationdate="20190801T025102Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -34520,6 +34536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RocksDBStateBackend is always writing checkpoints asynchronously:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025002Z" creationid="xccui" creationdate="20190801T025002Z">
+        <seg>RocksDBStateBackend生成检查点的过程总是异步进行的：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RocksDBStateBackend only requires a path to define the storage location for check‐ points and takes an optional parameter to enable incremental checkpoints (disabled by default).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T024938Z" creationid="xccui" creationdate="20190801T024938Z">
@@ -59573,6 +59597,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T062227Z" creationid="xccui" creationdate="20190614T062227Z">
         <seg>val resultStream: DataStream[(String, List[String])] = inputStream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val rocksBackend = new RocksDBStateBackend("file:///tmp/ckp", true)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025106Z" creationid="xccui" creationdate="20190801T025106Z">
+        <seg>val rocksBackend = new RocksDBStateBackend("file:///tmp/ckp", true)</seg>
       </tuv>
     </tu>
     <tu>
