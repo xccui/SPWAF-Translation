@@ -21735,6 +21735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025640Z" creationid="xccui" creationdate="20190801T025640Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the RocksDB state backend you can define one or more paths at which RocksDB stores its local files (state.back end.rocksdb.localdir) and whether timer state is stored on the heap (default) or in RocksDB (state.backend.rocksdb.timer-service.factory).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044853Z" creationid="xccui" creationdate="20190724T044853Z">
@@ -35036,6 +35044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210735Z" creationid="esouser" creationdate="20190603T210735Z">
         <seg>See http://oreilly.com/catalog/errata.csp?isbn=9781491974292 for release details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “Checkpointing and State Backends” on page 243 for a description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025815Z" creationid="xccui" creationdate="20190801T025728Z">
+        <seg>（有关可用的配置项，请参见第243页"检查点和状态后端"一节）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -55625,6 +55641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>of the available configuration options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025731Z" creationid="xccui" creationdate="20190801T025731Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of the parallel partitions of a DataStream is skewed, we might want to rebalance the data to evenly distribute the computation load of subsequent operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065820Z" creationid="xccui" creationdate="20190615T065415Z">
@@ -57493,6 +57517,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052002Z" creationid="xccui" creationdate="20190705T052002Z">
         <seg>根据状态后端是将数据序列化后存储（如RocksDBStateBackend）还是以堆中对象的形式存储（如FSStateBackend），反序列化过程可能发生在函数读取状态时或应用从保存点重启时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>state backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025643Z" creationid="xccui" creationdate="20190801T025643Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -60573,6 +60605,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050346Z" creationid="xccui" creationdate="20190727T050346Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you have to create a new backend object by passing a Configuration object to your</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025804Z" creationid="xccui" creationdate="20190801T025638Z">
+        <seg>为此，你必须在创建状态后端对象时将一个Configuration对象传给它</seg>
       </tuv>
     </tu>
     <tu>
