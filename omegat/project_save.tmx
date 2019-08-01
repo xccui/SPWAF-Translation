@@ -20463,6 +20463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink supports a feature called local recovery to significantly speed up recovery if the application can be restarted on the same machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T155729Z" creationid="xingcan" creationdate="20190801T155729Z">
+        <seg>Flink支持一种称为本地恢复的特性，能够在应用从相同机器重启时显著提高恢复速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink supports a wide variety of filesystems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031826Z" creationid="xccui" creationdate="20190722T031543Z">
@@ -30867,6 +30875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035050Z" creationid="xccui" creationdate="20190619T035050Z">
         <seg>此外，大多数Flink应用都会依赖一个或多个Flink的连接器来读写外部系统（例如：Apache Kafka、文件系统或Apache Cassandra）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, on recovery, it might be possible to restart an application on the same workers it was running before the failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T155506Z" creationid="xingcan" creationdate="20190801T155506Z">
+        <seg>此外，恢复时还可能让应用重新运行在故障发生之前的工作节点上。</seg>
       </tuv>
     </tu>
     <tu>
