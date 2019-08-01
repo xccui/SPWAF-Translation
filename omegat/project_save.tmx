@@ -24255,6 +24255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that suc‐ ceeds, the tasks first try to load the checkpoint data from the local disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T162616Z" creationid="xingcan" creationdate="20190801T162616Z">
+        <seg>如果成功，则任务会优先尝试从本地磁盘加载检查点数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the JobManager runs remotely, the JobGraph must be shipped together with a JAR file that contains all classes and required dependencies of the application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052351Z" creationid="xccui" creationdate="20190613T012656Z">
@@ -49589,6 +49597,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052027Z" creationid="xccui" creationdate="20190613T005845Z">
         <seg>在应用定义完成后，你就可以调用StreamExecutionEnvironment.execute()来执行它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the application is restarted, Flink tries to schedule the same tasks to the same worker nodes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T162520Z" creationid="xingcan" creationdate="20190801T162520Z">
+        <seg>当应用需要重启时，Flink会尝试将相同的任务调度到和之前相同的工作节点执行。</seg>
       </tuv>
     </tu>
     <tu>
