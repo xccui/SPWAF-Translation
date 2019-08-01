@@ -2430,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// all of Flink's built-in backends are configurable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030007Z" creationid="xccui" creationdate="20190801T030007Z">
+        <seg>// 所有Flink内置的状态后端都是可配置的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// allow three checkpoint to be in progress at the same time</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203219Z" creationid="xccui" creationdate="20190731T203219Z">
@@ -2878,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create a configured copy of the backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030138Z" creationid="xccui" creationdate="20190801T030138Z">
+        <seg>// 为配置后的的状态后端创建一个副本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create a local stream execution environment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050137Z" creationid="xccui" creationdate="20190612T045528Z">
@@ -2906,6 +2922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022104Z" creationid="xccui" creationdate="20190801T022104Z">
         <seg>// 创建并配置所选的状态后端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create configuration and set options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030030Z" creationid="xccui" creationdate="20190801T030030Z">
+        <seg>// 创建配置并设置选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -58713,6 +58737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>val backend: ConfigurableStateBackend = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030010Z" creationid="xccui" creationdate="20190801T030010Z">
+        <seg>val backend: ConfigurableStateBackend = ???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>val bound: Long = 60 * 1000</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051040Z" creationid="xccui" creationdate="20190620T051040Z">
@@ -59669,6 +59701,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T210223Z" creationid="xccui" creationdate="20190716T210223Z">
         <seg>val room: Future[String] = Future {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val sbConfig = new Configuration() sbConfig.setBoolean("state.backend.async", true) sbConfig.setString("state.savepoints.dir", "file:///tmp/svp")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030043Z" creationid="xccui" creationdate="20190801T030043Z">
+        <seg>val sbConfig = new Configuration() sbConfig.setBoolean("state.backend.async", true) sbConfig.setString("state.savepoints.dir", "file:///tmp/svp")</seg>
       </tuv>
     </tu>
     <tu>
