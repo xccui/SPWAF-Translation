@@ -15487,6 +15487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the failure that caused an application to crash, the application could be killed by the same failure again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T152035Z" creationid="xingcan" creationdate="20190801T152035Z">
+        <seg>根据导致应用崩溃的故障不同，应用有可能被相同的故障再次"杀死"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the scheduling intervals it may take hours or days until a data point is included in a report.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190317T031535Z" creationid="xccui" creationdate="20190317T031535Z">
