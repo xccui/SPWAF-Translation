@@ -35554,8 +35554,8 @@
       <tuv lang="EN-US">
         <seg>Since it holds all state in memory and checkpoints are completely stored in the volatile and JVM-size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T213711Z" creationid="xccui" creationdate="20190731T213711Z">
-        <seg>由于它将所有状态保存在内存中，且检查点全部存储在易失及受JVM大小约束的JobManager堆存储中，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T021734Z" creationid="xccui" creationdate="20190731T213711Z">
+        <seg>由于它将所有状态保存在内存中，而且检查点全部位于易失且受JVM大小约束的JobManager堆存储内，</seg>
       </tuv>
     </tu>
     <tu>
