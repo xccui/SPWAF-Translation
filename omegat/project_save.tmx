@@ -28055,6 +28055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “Checkpointing and State Backends” on page 243, we discussed the configuration options for state backends.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025405Z" creationid="xccui" creationdate="20190801T025405Z">
+        <seg>在第243页"检查点和状态后端"一节，我们讨论了不同状态后端的配置选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Checkpoints, Savepoints, and State Recovery”, we explained Flink’s mechanism to create consistent checkpoints of a stateful application, a snapshot of the state of all built-in and user-defined stateful functions at a point in time when all operators pro‐ cessed all events up to a specific position in the application’s input streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052137Z" creationid="xccui" creationdate="20190702T204418Z">
@@ -50749,6 +50757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175811Z" creationid="xccui" creationdate="20190717T175811Z">
         <seg>你可以通过http://localhost:8081地址访问Flink Web UI并检查相连的TaskManager及剩余处理槽的数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can, of course, also configure the state backend in your application, overriding the default values or cluster-wide configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025527Z" creationid="xccui" creationdate="20190801T025527Z">
+        <seg>你当然也可以在应用中对状态后端进行配置，从而覆盖其默认值或针对整个集群的配置。</seg>
       </tuv>
     </tu>
     <tu>
