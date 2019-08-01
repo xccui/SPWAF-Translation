@@ -9414,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A task only acknowledges a checkpoint if the remote write succeeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T163544Z" creationid="xingcan" creationdate="20190801T163544Z">
+        <seg>只有当远程写入成功后，任务才会确认检查点完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A task receives some input data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T054300Z" creationid="xccui" creationdate="20190607T054300Z">
@@ -30315,6 +30323,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154711Z" creationid="xingcan" creationdate="20190801T154711Z">
         <seg>本地恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local recovery is implemented so that the state copy in the remote system is the source of truth.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T163705Z" creationid="xingcan" creationdate="20190801T163510Z">
+        <seg>本地恢复的实现使得远程系统中的状态副本成为用于参照的真实数据（the source of truth）。</seg>
       </tuv>
     </tu>
     <tu>
