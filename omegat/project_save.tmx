@@ -20943,6 +20943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s state backends (except for MemoryStateBackend) store checkpoints in a remote filesystem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154901Z" creationid="xingcan" creationdate="20190801T154901Z">
+        <seg>Flink的状态后端（MemoryStateBackend除外）都会将检查点存到远程文件系统中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s system class loader loads all JAR files in the ./lib folder and the user-code classloaders are derived from the sys‐ tem classloader.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060022Z" creationid="xccui" creationdate="20190723T050829Z">
@@ -44924,6 +44932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210811Z" creationid="esouser" creationdate="20190603T210811Z">
         <seg>This element signifies a warning or caution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ensures first that the state is saved and persistent and second that it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T155019Z" creationid="xingcan" creationdate="20190801T155019Z">
+        <seg>这不但可以确保状态存储的持久化，</seg>
       </tuv>
     </tu>
     <tu>
