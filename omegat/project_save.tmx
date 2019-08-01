@@ -10454,6 +10454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, a checkpoint will not fail because a local state copy failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T163804Z" creationid="xingcan" creationdate="20190801T163804Z">
+        <seg>同时，检查点也不会因为本地状态副本出现问题而失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, the ProcessWindowFunction.clear() method is invoked to clean up all custom per-window state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184923Z" creationid="xccui" creationdate="20190626T184905Z">
@@ -36124,6 +36132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145810Z" creationid="xingcan" creationdate="20190801T145810Z">
         <seg>由于应用的数据源任务被重置到一个较早的输入位置，所以它会处理故障发生前以及应用在停止工作期间积累的一些数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the checkpoint data is written twice, local recovery adds overhead to checkpointing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T163950Z" creationid="xingcan" creationdate="20190801T163950Z">
+        <seg>由于检查点数据需要被写入两次，所以本地恢复会为检查点生成带来一定额外开销。</seg>
       </tuv>
     </tu>
     <tu>
