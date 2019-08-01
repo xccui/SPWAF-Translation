@@ -3638,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// number of restart attempts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154437Z" creationid="xingcan" creationdate="20190801T154437Z">
+        <seg>// 重启尝试次数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// obtain the keyed state handle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041843Z" creationid="xccui" creationdate="20190702T041843Z">
@@ -6770,6 +6778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T043432Z" creationid="xccui" creationdate="20190611T043432Z">
         <seg>4&gt; SensorReading(sensor_32,1515014051000,4.118569049862492)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154425Z" creationid="xingcan" creationdate="20190801T154425Z">
+        <seg>5,</seg>
       </tuv>
     </tu>
     <tu>
@@ -14271,6 +14287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring the restart strategy of an application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154416Z" creationid="xingcan" creationdate="20190801T154416Z">
+        <seg>配置应用重启策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuring these options is important to ensure reliable and smooth operation of</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030232Z" creationid="xccui" creationdate="20190731T025821Z">
@@ -16987,6 +17011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015209Z" creationid="xccui" creationdate="20190731T015209Z">
         <seg>示例10-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154404Z" creationid="xingcan" creationdate="20190801T154404Z">
+        <seg>示例10-4，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34528,6 +34560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RestartStrategies.fixedDelayRestart(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154422Z" creationid="xingcan" creationdate="20190801T154422Z">
+        <seg>RestartStrategies.fixedDelayRestart(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restoring the state of an application is described in a later section of this chapter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205243Z" creationid="xccui" creationdate="20190428T205226Z">
@@ -42018,8 +42058,8 @@
       <tuv lang="EN-US">
         <seg>The no-restart strategy does not restart an application, but fails it immediately.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154135Z" creationid="xingcan" creationdate="20190801T154135Z">
-        <seg>no-restart侧率</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154226Z" creationid="xingcan" creationdate="20190801T154135Z">
+        <seg>no-restart策略不会重启应用，而是让它立即失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42708,6 +42748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030241Z" creationid="xccui" creationdate="20190225T030241Z">
         <seg>Flink生态的其他组成部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The restart strategy of an application is configured via StreamExecutionEnvironment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154355Z" creationid="xingcan" creationdate="20190801T154355Z">
+        <seg>你可以像示例10-4那样使用StreamExecutionEnvironment配置应用重启策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51881,6 +51929,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>as shown in Example 10-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154358Z" creationid="xingcan" creationdate="20190801T154358Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>assignTimestampsAndWatermarks() method where we define the timestamp assigner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044558Z" creationid="xccui" creationdate="20190620T044558Z">
@@ -59205,6 +59261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T041917Z" creationid="xccui" creationdate="20190612T041917Z">
         <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment env.setRestartStrategy(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154418Z" creationid="xingcan" creationdate="20190801T154418Z">
+        <seg>val env = StreamExecutionEnvironment.getExecutionEnvironment env.setRestartStrategy(</seg>
       </tuv>
     </tu>
     <tu>
