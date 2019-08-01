@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(enabled by default) and limit the size of state (5 MB by default):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022635Z" creationid="xccui" creationdate="20190801T022615Z">
+        <seg>可以通过接收参数来决定是否开启异步检查点（默认开启）及限制状态大小（默认5MB）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(for (i &lt;- 0 until numSensors) yield "sensor_" + (i + 1))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040221Z" creationid="xccui" creationdate="20190707T040221Z">
@@ -2834,6 +2842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042034Z" creationid="xccui" creationdate="20190612T042034Z">
         <seg>// 从流式数据源中创建DataStream[SensorReading]对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create a MemoryStateBackend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022641Z" creationid="xccui" creationdate="20190801T022641Z">
+        <seg>// 创建一个MemoryStateBackend</seg>
       </tuv>
     </tu>
     <tu>
@@ -21799,6 +21815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FsStateBackend only requires a path to define the storage location for checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022748Z" creationid="xccui" creationdate="20190801T022748Z">
+        <seg>FsStateBackend只需一个用于定义检查点存储位置的路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FsStateBackend stores the local state on the TaskManager’s JVM heap, just like MemoryStateBackend.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T021829Z" creationid="xccui" creationdate="20190704T021829Z">
@@ -23505,8 +23529,8 @@
       <tuv lang="EN-US">
         <seg>However, there are constructors that take parameters to enable or disable asynchronous checkpointing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022556Z" creationid="xccui" creationdate="20190801T022556Z">
-        <seg>但它有一些构造函数，可以通过一些参数来决定是否开启异步检查点（默认开启）及限制状态大小（默认5MB）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022604Z" creationid="xccui" creationdate="20190801T022556Z">
+        <seg>但它有一些构造函数，</seg>
       </tuv>
     </tu>
     <tu>
@@ -43608,6 +43632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are also constructor variants to enable or disable asynchronous checkpointing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022823Z" creationid="xccui" creationdate="20190801T022823Z">
+        <seg>其他一些构造函数可用来选择是否开启异步检查点（默认开启）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are different types of transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051051Z" creationid="xccui" creationdate="20190612T052303Z">
@@ -59229,6 +59261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T044907Z" creationid="xccui" creationdate="20190612T045612Z">
         <seg>val localEnv = StreamExecutionEnvironment.createLocalEnvironment()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val memBackend = new MemoryStateBackend()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022644Z" creationid="xccui" creationdate="20190801T022644Z">
+        <seg>val memBackend = new MemoryStateBackend()</seg>
       </tuv>
     </tu>
     <tu>
