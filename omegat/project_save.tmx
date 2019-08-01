@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(enabled by default):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022826Z" creationid="xccui" creationdate="20190801T022826Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(for (i &lt;- 0 until numSensors) yield "sensor_" + (i + 1))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040221Z" creationid="xccui" creationdate="20190707T040221Z">
@@ -2842,6 +2850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042034Z" creationid="xccui" creationdate="20190612T042034Z">
         <seg>// 从流式数据源中创建DataStream[SensorReading]对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// create a FsStateBackend that checkpoints to the /tmp/ckp folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022904Z" creationid="xccui" creationdate="20190801T022904Z">
+        <seg>//创建一个检查点路径为/tmp/ckp的FsStateBackend</seg>
       </tuv>
     </tu>
     <tu>
@@ -58957,6 +58973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031647Z" creationid="xccui" creationdate="20190622T031647Z">
         <seg>val forwardedReadings = readings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val fsBackend = new FsStateBackend("file:///tmp/ckp", true)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022907Z" creationid="xccui" creationdate="20190801T022907Z">
+        <seg>val fsBackend = new FsStateBackend("file:///tmp/ckp", true)</seg>
       </tuv>
     </tu>
     <tu>
