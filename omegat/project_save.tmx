@@ -34576,6 +34576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right after the application was restarted it is in a catch-up phase.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145606Z" creationid="xingcan" creationdate="20190801T145606Z">
+        <seg>在应用刚刚重启过后，它还处在一个追赶阶段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RocksDB is an embedded key-value store that persists data to the local disk.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T023628Z" creationid="xccui" creationdate="20190704T023628Z">
@@ -35924,6 +35932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045016Z" creationid="xccui" creationdate="20190625T045016Z">
         <seg>由于聚合逻辑是由ReduceFunction执行的，ProcessWindowFunction只需要像示例6-14那样，将窗口的结束时间戳加到递增计算结果后面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the application’s source tasks were reset to an earlier input position, it processes data that it processed before the failure and data that accumulated while the applica‐ tion was down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145810Z" creationid="xingcan" creationdate="20190801T145810Z">
+        <seg>由于应用的数据源任务被重置到一个较早的输入位置，所以它会处理故障发生前以及应用在停止工作期间积累的一些数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48661,6 +48677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T202934Z" creationid="xccui" creationdate="20190609T202934Z">
         <seg>当检查点生成过程触发时，状态后端会为当前状态创建一个本地拷贝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a checkpointed application fails, it will be restarted by bringing up its tasks, recovering their states, including the reading offsets of the source tasks, and continu‐ ing the processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145530Z" creationid="xingcan" creationdate="20190801T145530Z">
+        <seg>当一个生成过检查点的应用发生故障时，它会经过一系列步骤重启，具体包括：启动任务、恢复状态（包括数据源任务的读取偏移）和继续处理。</seg>
       </tuv>
     </tu>
     <tu>
