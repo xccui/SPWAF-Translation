@@ -23231,6 +23231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it serves well for locally developing Flink applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T021824Z" creationid="xccui" creationdate="20190801T021824Z">
+        <seg>但它对在本地开发Flink应用是一个很好的选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it uses processing slots (see “Task Execution” on page 40 for a detailed discussion) to control the number of tasks that can be assigned to a worker process (TaskManager).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061322Z" creationid="xccui" creationdate="20190723T061155Z">
@@ -60541,6 +60549,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T050127Z" creationid="xccui" creationdate="20190722T045903Z">
         <seg>例如，hdfs://nnode1:50010和hdfs://nnode2:50010会分别追踪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Checkpoint‐ ing and State Backends” on page 243 describes how you can configure a default state backend of a Flink cluster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T021953Z" creationid="xccui" creationdate="20190801T021953Z">
+        <seg>第243页"检查点和状态后端"一节介绍了如何为Flink集群配置默认状态后端。</seg>
       </tuv>
     </tu>
     <tu>
