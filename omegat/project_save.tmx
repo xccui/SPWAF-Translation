@@ -13119,6 +13119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, RocksDB is optimized for SSD storage and does not provide great performance if state is stored on spinning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030556Z" creationid="xccui" creationdate="20190801T030556Z">
+        <seg>默认情况下，RocksDB针对SSD存储做出了很多优化，因此在使用传统机械硬盘存储状态时性能可能并不出色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, SSL authentication and encryption is not enabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T040015Z" creationid="xccui" creationdate="20190725T040015Z">
@@ -35652,6 +35660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212747Z" creationid="xccui" creationdate="20190711T212747Z">
         <seg>由于POJO的字段不存在顺序，它需要被区别对待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since RocksDB is an external component, it brings its own set of tuning parameters that can also be tweaked for your application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030303Z" creationid="xccui" creationdate="20190801T030303Z">
+        <seg>由于RocksDB是一个外部组件，你也可以根据自己的应用对它自身的一些参数进行调整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58837,6 +58853,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T034120Z" creationid="xccui" creationdate="20190629T034120Z">
         <seg>val cnt = elements.count(_ =&gt; true)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val configuredBackend = backend.configure(sbConfig)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030141Z" creationid="xccui" creationdate="20190801T030141Z">
+        <seg>val configuredBackend = backend.configure(sbConfig)</seg>
       </tuv>
     </tu>
     <tu>
