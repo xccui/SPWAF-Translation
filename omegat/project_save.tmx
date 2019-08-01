@@ -4054,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// set predefined options for spinning disk storage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030935Z" creationid="xccui" creationdate="20190801T030935Z">
+        <seg>// 设置针对机械磁盘存储的预定义选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// set processing time timer for now + 1 second</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071708Z">
@@ -50433,6 +50441,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can apply predefined options to RocksDBStateBackend as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030850Z" creationid="xccui" creationdate="20190801T030850Z">
+        <seg>你可以像下面这样为RocksDBStateBackend配置预定义选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can call it from the root directory of a Flink setup with</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021545Z" creationid="xccui" creationdate="20190726T021545Z">
@@ -51805,6 +51821,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T043648Z" creationid="xccui" creationdate="20190724T043648Z">
         <seg>最后，RocksDB状态后端会将应用状态维护在本地文件系统中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>backend.setPredefinedOptions(PredefinedOptions.SPINNING_DISK_OPTIMIZED)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030937Z" creationid="xccui" creationdate="20190801T030937Z">
+        <seg>backend.setPredefinedOptions(PredefinedOptions.SPINNING_DISK_OPTIMIZED)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58281,6 +58305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030751Z" creationid="xccui" creationdate="20190801T030751Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tion functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211423Z" creationid="xccui" creationdate="20190623T211423Z">
@@ -58781,6 +58813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030010Z" creationid="xccui" creationdate="20190801T030010Z">
         <seg>val backend: ConfigurableStateBackend = ???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val backend: RocksDBStateBackend = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030852Z" creationid="xccui" creationdate="20190801T030852Z">
+        <seg>val backend: RocksDBStateBackend = ???</seg>
       </tuv>
     </tu>
     <tu>
