@@ -20079,6 +20079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink provides a few predefined settings to improve the performance for com‐ mon hardware setups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030722Z" creationid="xccui" creationdate="20190801T030722Z">
+        <seg>为了提高针对常见硬件的性能，Flink提供了一系列预定义设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink provides a mechanism to avoid such situations by marking source functions as temporarily idle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043818Z" creationid="xccui" creationdate="20190713T043818Z">
@@ -35076,6 +35084,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210735Z" creationid="esouser" creationdate="20190603T210735Z">
         <seg>See http://oreilly.com/catalog/errata.csp?isbn=9781491974292 for release details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the documentation to learn more about the available set‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030748Z" creationid="xccui" creationdate="20190801T030748Z">
+        <seg>有关这些设置的具体信息，请参阅文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53157,6 +53173,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032948Z" creationid="xccui" creationdate="20190626T032948Z">
         <seg>窗口包含的不同状态如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030600Z" creationid="xccui" creationdate="20190801T030600Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
