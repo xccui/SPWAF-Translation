@@ -40776,6 +40776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fixed-delay restart strategy restarts an application a fixed number of times and waits a configured time before a restart attempt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T153809Z" creationid="xingcan" creationdate="20190801T153809Z">
+        <seg>fixed-delay重启策略会以配置的固定间隔尝试将应用重启某个固定次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The flatMap transformation applies a function on each incoming event.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T055027Z" creationid="xccui" creationdate="20190613T054855Z">
