@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154515Z" creationid="xingcan" creationdate="20190801T154515Z">
+        <seg>))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>);</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210053Z" creationid="xccui" creationdate="20190711T210053Z">
@@ -30263,6 +30271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local recovery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154711Z" creationid="xingcan" creationdate="20190801T154711Z">
+        <seg>本地恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local state access provides very good performance compared to reading and writing queries against remote datastores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T034032Z" creationid="xccui" creationdate="20190604T023347Z">
@@ -40368,6 +40384,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default restart strategy used if no restart strategy is explicitly defined is a fixed- delay restart strategy with Integer.MAX_VALUE restart attempts and a 10-second delay.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154706Z" creationid="xingcan" creationdate="20190801T154706Z">
+        <seg>如果没有显式指定重启策略，默认的策略是以10秒延迟尝试Integer.MAX_VALUE次的固定延迟重启策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default scheduling behavior was explained in Chapter 3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015401Z" creationid="xccui" creationdate="20190731T015401Z">
@@ -45956,6 +45980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T053506Z" creationid="xccui" creationdate="20190613T013033Z">
         <seg>基于时间的算子（如窗口算子）以及其他一些特殊转换会在后面章节介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time.of(30, TimeUnit.SECONDS) // delay between attempts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154512Z" creationid="xingcan" creationdate="20190801T154512Z">
+        <seg>Time.of(30, TimeUnit.SECONDS) // 尝试之间的延迟</seg>
       </tuv>
     </tu>
     <tu>
