@@ -54641,6 +54641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>limited JobManager heap storage, it is not recommended for production environ‐ ments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T021527Z" creationid="xccui" creationdate="20190801T021527Z">
+        <seg>所以不建议将其用于生产环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>local storage path of most components of Flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042923Z" creationid="xccui" creationdate="20190724T042923Z">
