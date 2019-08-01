@@ -19881,8 +19881,8 @@
       <tuv lang="EN-US">
         <seg>Flink features three restart strategies to address this problem:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T152752Z" creationid="xingcan" creationdate="20190801T152752Z">
-        <seg>为解决该问题，Flink提供了三种重启策略：</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T153919Z" creationid="xingcan" creationdate="20190801T152752Z">
+        <seg>为应对该问题，Flink提供了三种重启策略：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21483,6 +21483,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210818Z" creationid="esouser" creationdate="20190603T210818Z">
         <seg>For example, writing a program that uses several chunks of code from this book does not require permission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can configure that an applica‐ tion be restarted as long as it did not fail more than three times in the last ten minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154123Z" creationid="xingcan" creationdate="20190801T154123Z">
+        <seg>例如，你可以配置应用只要在过去十分钟内失败次数没超过三次，就可以一直重启。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40640,6 +40648,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The failure rate is specified as the maximum number of failures within a time interval.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154021Z" creationid="xingcan" creationdate="20190801T154021Z">
+        <seg>故障率被定义为某个时间间隔内的最大故障数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The failure-rate restart strategy restarts an application as long as a configurable failure rate is not exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154156Z" creationid="xingcan" creationdate="20190801T153906Z">
+        <seg>failure-rate重启策略允许在未超过故障率的前提下不断重启应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fields are mapped to the parameters based on their position; the first value is converted to the first parameter and so on.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T212714Z" creationid="xccui" creationdate="20190711T212714Z">
@@ -41988,6 +42012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063259Z" creationid="xccui" creationdate="20190615T051632Z">
         <seg>下面的例子展示了如何联结一个（未按照键值分区的）DataStream和一个广播流：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The no-restart strategy does not restart an application, but fails it immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154135Z" creationid="xingcan" creationdate="20190801T154135Z">
+        <seg>no-restart侧率</seg>
       </tuv>
     </tu>
     <tu>
