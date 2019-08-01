@@ -14311,6 +14311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, an application needs enough spare resources for the catch-up phase after the application was restarted to successfully resume its regular processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150454Z" creationid="xingcan" creationdate="20190801T150454Z">
+        <seg>因此，应用在从重启到成功恢复常规处理的进度追赶期间需要足够多的备用资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, each instance of the source function multiplexes the records of three stream partitions to emit them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T041825Z" creationid="xccui" creationdate="20190713T040757Z">
@@ -49821,6 +49829,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005701Z" creationid="xccui" creationdate="20190726T005526Z">
         <seg>流式应用需要连续运行和维护状态，而批处理应用则会定期执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the application is catching up, the processing latency—the time at which input is available until it is actually processed—increases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150150Z" creationid="xingcan" creationdate="20190801T150150Z">
+        <seg>应用在追赶进度期间，其处理延迟（输入从可用到实际处理的时间间隔）会有所增加。</seg>
       </tuv>
     </tu>
     <tu>
