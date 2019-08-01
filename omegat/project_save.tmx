@@ -34520,6 +34520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RocksDBStateBackend only requires a path to define the storage location for check‐ points and takes an optional parameter to enable incremental checkpoints (disabled by default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T024938Z" creationid="xccui" creationdate="20190801T024938Z">
+        <seg>RocksDBStateBackend只需一个用于定义检查点存储位置的路径，此外还有一个可选参数可用来启用增量检查点（默认关闭）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RocksDBStateBackend stores all state into local RocksDB instances.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T023459Z" creationid="xccui" creationdate="20190704T023459Z">
