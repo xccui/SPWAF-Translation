@@ -45128,6 +45128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means an application should not run close to 100% resource consumption during regular processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150629Z" creationid="xingcan" creationdate="20190801T150629Z">
+        <seg>这意味着应用在常规处理时不应该消耗近100%的资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means if the difference between an element’s event time and the maximum timestamp of all previous elements is greater than 10 seconds, the element might arrive for processing after its corresponding computation has completed and the result has been emitted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053515Z" creationid="xccui" creationdate="20190620T053515Z">
