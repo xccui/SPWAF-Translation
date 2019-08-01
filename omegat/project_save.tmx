@@ -19879,6 +19879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink features three restart strategies to address this problem:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T152752Z" creationid="xingcan" creationdate="20190801T152752Z">
+        <seg>为解决该问题，Flink提供了三种重启策略：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink for a while without ever needing to worry about TypeInformation for your data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052704Z" creationid="xccui" creationdate="20190617T052631Z">
@@ -26891,6 +26899,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190414T053531Z" creationid="xccui" creationdate="20190414T053446Z">
         <seg>在以往的场景中，作业会在批量传入的事件上重复执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In such a situation, an application would end up in an infinite recovery cycle consuming lots of resources without a chance of ever get‐ ting back into regular processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T152719Z" creationid="xingcan" creationdate="20190801T152719Z">
+        <seg>在该情况下，应用将陷入无休止的恢复周期，虽然消耗大量资源但无法恢复常规处理。</seg>
       </tuv>
     </tu>
     <tu>
