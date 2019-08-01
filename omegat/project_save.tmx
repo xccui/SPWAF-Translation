@@ -2862,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create and configure state backend of your choice</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022104Z" creationid="xccui" creationdate="20190801T022104Z">
+        <seg>// 创建并配置所选的状态后端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create event-time session windows with a 15 min gap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061512Z" creationid="xccui" creationdate="20190623T061512Z">
@@ -3986,6 +3994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T071708Z">
         <seg>// 以当前时间+1秒设置处理时间计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// set state backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022114Z" creationid="xccui" creationdate="20190801T022114Z">
+        <seg>// 设置状态后端</seg>
       </tuv>
     </tu>
     <tu>
@@ -40096,6 +40112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The different state backends can be created with minimum settings as shown in the following.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022306Z" creationid="xccui" creationdate="20190801T022306Z">
+        <seg>你可以像下面那样以最少的配置创建不同的状态后端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The directory also contains a YAML file job- cluster-service.yaml that defines a Kubernetes service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044406Z" creationid="xccui" creationdate="20190730T044406Z">
@@ -50177,6 +50201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also explicitly choose the state backend of an application:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022052Z" creationid="xccui" creationdate="20190801T022052Z">
+        <seg>你也可以针对某个应用显式指定状态后端：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also just take a savepoint to version and archive the state of an applica‐ tion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T213419Z" creationid="xccui" creationdate="20190609T213419Z">
@@ -53173,6 +53205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025736Z" creationid="xccui" creationdate="20190704T025736Z">
         <seg>env.setStateBackend(backend)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.setStateBackend(stateBackend)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022118Z" creationid="xccui" creationdate="20190801T022118Z">
+        <seg>env.setStateBackend(stateBackend)</seg>
       </tuv>
     </tu>
     <tu>
@@ -59629,6 +59669,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044101Z" creationid="xccui" creationdate="20190626T044101Z">
         <seg>val startTime = ts - (ts % windowSize)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val stateBackend: StateBackend = ???</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022107Z" creationid="xccui" creationdate="20190801T022107Z">
+        <seg>val stateBackend: StateBackend = ???</seg>
       </tuv>
     </tu>
     <tu>
