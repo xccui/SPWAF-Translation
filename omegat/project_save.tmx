@@ -23519,6 +23519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, reading state from remote storage during recovery is not very efficient.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T155326Z" creationid="xingcan" creationdate="20190801T155326Z">
+        <seg>然而在恢复期间从远程存储读取状态效率并不高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, recovering from master failures requires additional configuration as dis‐ cussed before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T062018Z" creationid="xccui" creationdate="20190721T062018Z">
@@ -52261,6 +52269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T053259Z" creationid="xccui" creationdate="20190716T053259Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>can be redistributed if a worker node is lost or the application is rescaled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T155247Z" creationid="xingcan" creationdate="20190801T155206Z">
+        <seg>还允许在工作节点丢失或应用扩缩容时对状态进行重新分发。</seg>
       </tuv>
     </tu>
     <tu>
