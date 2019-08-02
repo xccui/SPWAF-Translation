@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30331,6 +30331,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154711Z" creationid="xingcan" creationdate="20190801T154711Z">
         <seg>本地恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local recovery can be enabled and configured for a cluster in the flink-conf.yaml file or per application by including the following in the state backend configuration:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T022037Z" creationid="xccui" creationdate="20190802T022037Z">
+        <seg>你可以通过在flink-conf.yaml文件中加入以下内容为集群开启和配置本地恢复，也可以在状态后端配置中加入以下内容为每个应用单独开启和配置本地恢复：</seg>
       </tuv>
     </tu>
     <tu>
