@@ -12431,6 +12431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back-pressured tasks will display a HIGH sign; otherwise you should see a nice green OK message displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152459Z" creationid="xingcan" creationdate="20190802T152459Z">
+        <seg>如果任务已经触发背压将显示一个HIGH标志，否则你会看到一个漂亮的绿色OK信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backpressure metrics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T161706Z" creationid="xccui" creationdate="20190729T161706Z">
@@ -24927,6 +24935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you click on a row, you trigger back-pressure sampling and you will see the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152228Z" creationid="xingcan" creationdate="20190802T152228Z">
+        <seg>点击某一行可以触发背压采样，你将看到持续约5秒钟的Sampling in progress...信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you click on a running job, you can get a quick glimpse of running statistics per task or subtask as shown in Figure 10-3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034734Z" creationid="xccui" creationdate="20190802T034734Z">
@@ -32467,6 +32483,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T060207Z" creationid="xccui" creationdate="20190606T141755Z">
         <seg>一旦它收到了足够数量的TaskManager处理槽（slot），就会将ExecutionGraph中的任务分发给TaskManager来执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once sampling is complete, you will see the back-pressure status in the second column.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152248Z" creationid="xingcan" creationdate="20190802T152248Z">
+        <seg>一旦采样结束，你就可以在第二列中看到背压状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55748,6 +55772,14 @@
         <seg>merges black and gray events into a single output stream.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T065114Z" creationid="xccui" creationdate="20190614T065114Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>message Sampling in progress... for about five seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152231Z" creationid="xingcan" creationdate="20190802T152231Z">
         <seg></seg>
       </tuv>
     </tu>
