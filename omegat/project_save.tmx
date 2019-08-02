@@ -18183,6 +18183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 10-2 shows an instance of the dashboard home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034213Z" creationid="xccui" creationdate="20190802T034152Z">
+        <seg>图10-2展示了一个仪表盘主界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 2-1 shows a dataflow program that extracts and counts hashtags from an input stream of tweets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043916Z" creationid="xccui" creationdate="20190605T224942Z">
@@ -32127,6 +32135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the home screen, you will see an overview of your cluster configuration including the number of TaskManagers, number of configured and available task slots, and run‐ ning and completed jobs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034205Z" creationid="xccui" creationdate="20190802T034135Z">
+        <seg>在主界面上，你将看到有关集群配置的概览信息，其中包括TaskManager的数量、配置和可用的任务处理槽以及正在运行和已完成的作业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the left hand side you see a JobGraph - the non-parallel representation of an application - consisting of five operators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T043357Z" creationid="xccui" creationdate="20190423T043236Z">
@@ -42032,6 +42048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The menu on the left links to more detailed information on jobs and configu‐ ration parameters and also allows job submission by uploading a JAR.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034406Z" creationid="xccui" creationdate="20190802T034406Z">
+        <seg>你可以通过左侧菜单访问作业的详细信息和配置参数页面，还可以上传JAR来提交作业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The metadata of the window typically contains information that can be used</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023219Z" creationid="xccui" creationdate="20190624T011756Z">
@@ -43170,8 +43194,8 @@
       <tuv lang="EN-US">
         <seg>The simplest way to get an overview of your Flink cluster as well as a glimpse of what your jobs are doing internally is to use Flink’s Web UI.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T033812Z" creationid="xccui" creationdate="20190802T033812Z">
-        <seg>了解你的Flink集群和内部作业工作情况概览最简单的方法就是使用Flink Web UI。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034006Z" creationid="xccui" creationdate="20190802T033812Z">
+        <seg>了解Flink集群和内部作业工作情况概要最简单的方法就是使用Flink Web UI。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50717,6 +50741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T035549Z" creationid="xccui" creationdate="20190718T035549Z">
         <seg>你可以在浏览器中打开http://localhost:8081来访问Web UI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can access the dashboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T033923Z" creationid="xccui" creationdate="20190802T033923Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
