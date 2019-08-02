@@ -30767,6 +30767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monitoring your streaming job is essential to ensure its healthy operation and to detect potential symptoms of misconfigurations, underprovisioning, or unexpected behavior early.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T030002Z" creationid="xccui" creationdate="20190802T030002Z">
+        <seg>监控流式作业对于保证它的健康运行和尽早发现由于配置错误、资源不足或其他异常行为所导致的潜在症状十分关键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More complex applications are built by connecting several microservices with each other that only communicate over stand&lt;t2/&gt;‐&lt;t3/&gt; ardized interfaces such as RESTful HTTP connections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190227T233910Z" creationid="xccui" creationdate="20190227T233910Z">
