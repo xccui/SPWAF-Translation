@@ -24935,6 +24935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you click on the History view, you can retrieve more fine-grained information, such as the status, trig‐ ger time, state size, and how many bytes were buffered during the checkpoint’s align‐ ment phase.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T151751Z" creationid="xingcan" creationdate="20190802T151751Z">
+        <seg>点击History视图可以获取更多细粒度的信息，例如任务状态、触发时间、状态大小以及在检查点对齐阶段缓冲的字节数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you click on the Task Metrics tab, you can select more metrics from a dropdown menu, as shown in Figure 10-4.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T144425Z" creationid="xingcan" creationdate="20190802T144425Z">
@@ -39588,6 +39596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T060916Z" creationid="xccui" creationdate="20190615T060916Z">
         <seg>针对某记录所返回的一系列String值指定了该记录需要被发往哪些输出流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Summary view aggregates checkpoint statistics and provides minimum, maximum, and average values over all completed checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T151903Z" creationid="xingcan" creationdate="20190802T151903Z">
+        <seg>Summary页面会对检查点的统计信息进行聚合，提供所有已完成检查点的最小、最大和平均值。</seg>
       </tuv>
     </tu>
     <tu>
