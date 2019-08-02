@@ -19847,6 +19847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink collects several system and application metrics by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152717Z" creationid="xingcan" creationdate="20190802T152717Z">
+        <seg>Flink在默认情况下会收集很多系统及应用指标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink configures the interval to the same value as the akka.ask.timeout parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T060603Z" creationid="xccui" creationdate="20190721T060516Z">
@@ -23099,6 +23107,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020437Z" creationid="xccui" creationdate="20190726T020437Z">
         <seg>以下展示了保存点的目录结构：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here we describe some of the most commonly used metrics and refer you to Flink’s documentation for a full list of available metrics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152833Z" creationid="xingcan" creationdate="20190802T152833Z">
+        <seg>接下来我们将向你介绍一些最长用到的指标。有关可用指标的完整列表请参阅Flink文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30767,6 +30783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metrics are gathered per operator, TaskManager, or JobManager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152749Z" creationid="xingcan" creationdate="20190802T152749Z">
+        <seg>指标的收集时按照每个算子、每个TaskManager或JobManager来进行的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metzger, Sebastian Schelter, Shaoxuan Wang, Shuyi Chen, Stefan Richter, Stephan Ewen, Theodore Vasiloudis, Thomas Weise, Till Rohrmann, Timo Walther, Tzu-Li (Gordon) Tai, Ufuk Celebi, Xiaogang Shi, Xiaowei Jiang, Xingcan Cui.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T025914Z" creationid="xccui" creationdate="20190605T132801Z">
@@ -35340,6 +35364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T144717Z" creationid="xccui" creationdate="20190606T144717Z">
         <seg>将任务以切片的形式调度至处理槽中有一个好处：TaskManager中的多个任务可以在同一进程内高效地执行数据交换而无须访问网络。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scoping and formatting metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152539Z" creationid="xingcan" creationdate="20190802T152539Z">
+        <seg>范围和格式指标</seg>
       </tuv>
     </tu>
     <tu>
@@ -49813,6 +49845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061832Z" creationid="xccui" creationdate="20190721T061832Z">
         <seg>像228页"Kubernetes"一节中介绍的那样，当在Kubernetes上使用主进程Deployment及工作进程Deployment启动Flink时，Kubernetes将自动重启故障容器以确保Pod运行数目的正确性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When running a data processing system such as Flink in production, it is essential to monitor its behavior to be able to discover and diagnose the cause of performance degradations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152702Z" creationid="xingcan" creationdate="20190802T152702Z">
+        <seg>当你在生产环境中运行像Flink这样的数据处理系统时，必须监控其行为，以便能发现并诊断性能下降的原因。</seg>
       </tuv>
     </tu>
     <tu>
