@@ -11262,6 +11262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink Web UI home screen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034421Z" creationid="xccui" creationdate="20190802T034421Z">
+        <seg>Apache Flink Web UI主界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink can be deployed on Kubernetes as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T022715Z" creationid="xccui" creationdate="20190719T022715Z">
@@ -18191,6 +18199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 10-2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034412Z" creationid="xccui" creationdate="20190802T034412Z">
+        <seg>图10-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 2-1 shows a dataflow program that extracts and counts hashtags from an input stream of tweets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043916Z" creationid="xccui" creationdate="20190605T224942Z">
@@ -24867,6 +24883,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T054254Z" creationid="xccui" creationdate="20190727T054254Z">
         <seg>如果你对应用中的状态进行了修改，无论是改变了状态原语还是状态类型，都将导致应用无法启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you click on a running job, you can get a quick glimpse of running statistics per task or subtask as shown in Figure 10-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034734Z" creationid="xccui" creationdate="20190802T034734Z">
+        <seg>如果点击一个正在运行的作业，你就可以打开像图10-3中所示的界面，继而快速了解每个任务或子任务的运行统计信息。</seg>
       </tuv>
     </tu>
     <tu>
