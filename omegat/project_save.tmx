@@ -23455,6 +23455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it is typically much smaller than keyed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025332Z" creationid="xccui" creationdate="20190802T025332Z">
+        <seg>但它通常要比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it makes many applications much easier to realize, such as real-time dashboards or other monitoring applica‐ tions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T170437Z" creationid="xccui" creationdate="20190705T170437Z">
@@ -32860,6 +32868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T060735Z" creationid="xccui" creationdate="20190607T060228Z">
         <seg>算子状态的作用域是某个算子任务，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operator state will not be stored locally and needs to be retrieved from the remote storage system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025325Z" creationid="xccui" creationdate="20190802T025325Z">
+        <seg>算子状态不会存储在本地，而是需要从远程存储系统中获取。</seg>
       </tuv>
     </tu>
     <tu>
