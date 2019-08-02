@@ -23457,8 +23457,8 @@
       <tuv lang="EN-US">
         <seg>However, it is typically much smaller than keyed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025332Z" creationid="xccui" creationdate="20190802T025332Z">
-        <seg>但它通常要比</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025410Z" creationid="xccui" creationdate="20190802T025332Z">
+        <seg>但它通常要比键值分区状态小得多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30369,8 +30369,8 @@
       <tuv lang="EN-US">
         <seg>Local recovery only affects keyed state, which is always partitioned and usually accounts for most of the state size.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025254Z" creationid="xccui" creationdate="20190802T025254Z">
-        <seg>本地恢复只会影响键值分区状态，此类状态总是会被分区且通常在状态中占的比例最高。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025538Z" creationid="xccui" creationdate="20190802T025254Z">
+        <seg>本地恢复只会影响键值分区状态，此类状态总是会被分区且通常在状态中占据的比例非常高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30939,6 +30939,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050116Z" creationid="xccui" creationdate="20190617T050116Z">
         <seg>此外，它还为Scala的Either、Option、Try类型以及Flink内部Java版本的Either类型提供了相应的类型信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, local recovery is not supported by the MemorySta teBackend, which does not support large state anyway.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025653Z" creationid="xccui" creationdate="20190802T025653Z">
+        <seg>此外，不支持大状态的MemoryStateBackend无法进行本地恢复。</seg>
       </tuv>
     </tu>
     <tu>
