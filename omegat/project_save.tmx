@@ -58001,6 +58001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>state.backend.local-recovery: This flag enables or disables local recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T024821Z" creationid="xccui" creationdate="20190802T024821Z">
+        <seg>state.backend.local-recovery：用于启用或禁用本地恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>state: util.List[java.lang.Long]): Unit = { highTempCnt = 0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052709Z" creationid="xccui" creationdate="20190701T052709Z">
