@@ -51121,6 +51121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can inspect the duration, bytes, and records exchanged, and aggregate those per TaskManager if you prefer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T042349Z" creationid="xccui" creationdate="20190802T042349Z">
+        <seg>你可以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can limit the number of connections that read from (input) and write to (output) a filesystem.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045531Z" creationid="xccui" creationdate="20190722T045531Z">
