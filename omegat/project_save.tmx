@@ -52417,6 +52417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>by visiting http://&lt;jobmanager-hostname&gt;:8081.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T033919Z" creationid="xccui" creationdate="20190802T033919Z">
+        <seg>你可以通过地址http://&lt;jobmanager-hostname&gt;:8081访问仪表盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>called for each combination of elements from the first and the second input—the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053148Z" creationid="xccui" creationdate="20190628T052848Z">
