@@ -19967,6 +19967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink gathers a set of predefined metrics during runtime and also provides a frame‐ work that allows you to define and track your own metrics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T032335Z" creationid="xccui" creationdate="20190802T032335Z">
+        <seg>Flink在运行时会收集一些预定义的指标，此外还供了一个框架供你定义和追踪自定义指标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink guarantees this by periodically writing a consistent checkpoint of the application state to a remote and durable storage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073626Z" creationid="xccui" creationdate="20190305T032707Z">
