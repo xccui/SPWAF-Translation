@@ -19319,6 +19319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, under Configuration, you can inspect the configuration properties of checkpoints, such as the interval and the timeout values set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152038Z" creationid="xingcan" creationdate="20190802T152038Z">
+        <seg>最后在Configuration中，你可以查看有关检查点的配置属性，例如设置的检查点间隔和超时值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, we apply a user-defined function that computes the average temperature on each window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T051325Z" creationid="xccui" creationdate="20190612T053852Z">
@@ -35968,6 +35976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similarly, the Back Pressure tab displays back-pressure statistics per operator and sub‐ task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T152126Z" creationid="xingcan" creationdate="20190802T152126Z">
+        <seg>同样，Back Pressure选项卡内展示了每个算子和子任务的背压统计信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple value conversions, splitting of records, or filtering of records are examples of common basic functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053528Z" creationid="xccui" creationdate="20190613T025145Z">
@@ -38706,8 +38722,8 @@
       <tuv lang="EN-US">
         <seg>The Checkpoints tab (Figure 10-3) displays statistics about previous and current checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T145540Z" creationid="xingcan" creationdate="20190802T145453Z">
-        <seg>检查点选项卡（图10-3）展示了有关以往和现在检查点的统计信息。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T151923Z" creationid="xingcan" creationdate="20190802T145453Z">
+        <seg>Checkpoints选项卡（图10-3）展示了有关以往和现在检查点的统计信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47482,8 +47498,8 @@
       <tuv lang="EN-US">
         <seg>Under Overview you can see how many checkpoints have been trig‐ gered, are in progress, have completed successfully, or have failed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T150137Z" creationid="xingcan" creationdate="20190802T150137Z">
-        <seg>在Overview页面中，你可以查看已触发正在进行中、已经成功完成和已经失败的检查点的数目。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T151927Z" creationid="xingcan" creationdate="20190802T150137Z">
+        <seg>在Overview中，你可以查看已触发正在进行中、已经成功完成和已经失败的检查点的数目。</seg>
       </tuv>
     </tu>
     <tu>
