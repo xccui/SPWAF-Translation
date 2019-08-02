@@ -43168,6 +43168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The simplest way to get an overview of your Flink cluster as well as a glimpse of what your jobs are doing internally is to use Flink’s Web UI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T033812Z" creationid="xccui" creationdate="20190802T033812Z">
+        <seg>了解你的Flink集群和内部作业工作情况概览最简单的方法就是使用Flink Web UI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sink achieves this by a commit protocol that moves files through different stages, in progress, pending,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192247Z" creationid="xccui" creationdate="20190711T183631Z">
