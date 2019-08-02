@@ -13687,6 +13687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Categories include CPU utilization, memory used, number of active threads, garbage collection statistics, network metrics such as the number of queued input/output buf‐ fers, cluster-wide metrics such as the number or running jobs and available resources, job metrics including runtime, the number of retries and checkpointing information, I/O statistics including the number of record exchanges locally and remotely, water‐ mark information, connector-specific metrics, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T153015Z" creationid="xingcan" creationdate="20190802T153015Z">
+        <seg>指标类别包括CPU利用率，内存使用情况，活动的线程数，垃圾回收统计，网络指标（例如排队进行输入或输出的缓冲区），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chained task execution with fused function in a single thread and data pass&lt;t0/&gt;‐&lt;t1/&gt; ing via method calls.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T153822Z" creationid="esouser" creationdate="20190514T153152Z">
