@@ -13279,6 +13279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, local recovery is deactivated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T024846Z" creationid="xccui" creationdate="20190802T024846Z">
+        <seg>默认情况下，本地恢复处于禁用状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, only the core API dependencies (DataStream and DataSet APIs) are loaded by a Flink cluster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T035728Z" creationid="xccui" creationdate="20190619T035618Z">
@@ -30347,6 +30355,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T163705Z" creationid="xingcan" creationdate="20190801T163510Z">
         <seg>本地恢复的实现使得远程系统中的状态副本成为用于参照的真实数据（the source of truth）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local recovery only affects keyed state, which is always partitioned and usually accounts for most of the state size.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025254Z" creationid="xccui" creationdate="20190802T025254Z">
+        <seg>本地恢复只会影响键值分区状态，此类状态总是会被分区且通常在状态中占的比例最高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58189,6 +58205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T025733Z" creationid="xccui" creationdate="20190720T025733Z">
         <seg>taskmanager ports:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>taskmanager.state.local.root-dirs: This parameter specifies one or more local paths at which the local state copies are stored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T024922Z" creationid="xccui" creationdate="20190802T024922Z">
+        <seg>taskmanager.state.local.root-dirs：该参数用于指定用于存储本地状态副本的一个或多个本地路径。</seg>
       </tuv>
     </tu>
     <tu>
