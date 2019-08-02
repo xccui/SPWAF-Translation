@@ -47464,6 +47464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Under Overview you can see how many checkpoints have been trig‐ gered, are in progress, have completed successfully, or have failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T150137Z" creationid="xingcan" creationdate="20190802T150137Z">
+        <seg>在Overview页面中，你可以查看已触发正在进行中、已经成功完成和已经失败的检查点的数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, figuring out the memory consumption of RocksDB is not straightforward because it depends on the number of keyed states in an application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041415Z" creationid="xccui" creationdate="20190724T041331Z">
