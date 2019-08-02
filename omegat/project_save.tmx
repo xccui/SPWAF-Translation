@@ -38696,6 +38696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Checkpoints tab (Figure 10-3) displays statistics about previous and current checkpoints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T145540Z" creationid="xingcan" creationdate="20190802T145453Z">
+        <seg>检查点选项卡（图10-3）展示了有关以往和现在检查点的统计信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CoProcessFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T023132Z" creationid="xccui" creationdate="20190225T023132Z">
