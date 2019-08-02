@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18207,6 +18207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 10-3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T144249Z" creationid="xingcan" creationdate="20190802T144249Z">
+        <seg>图10-3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 2-1 shows a dataflow program that extracts and counts hashtags from an input stream of tweets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T043916Z" creationid="xccui" creationdate="20190605T224942Z">
@@ -24899,6 +24907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190329T042154Z" creationid="xccui" creationdate="20190329T041245Z">
         <seg>点击那个作业，你会看到和图1-9中的截图类似的数据流程及运行作业中算子的实时指标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you click on the Task Metrics tab, you can select more metrics from a dropdown menu, as shown in Figure 10-4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T144425Z" creationid="xingcan" creationdate="20190802T144425Z">
+        <seg>如果点击Task Metrics选项卡，你可以从下拉菜单中选择更多指标，具体如图10-4所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37232,6 +37248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Statistics for a running job</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T144301Z" creationid="xingcan" creationdate="20190802T144301Z">
+        <seg>作业运行的统计信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stores a key-value map per key.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T221802Z" creationid="xccui" creationdate="20190607T220156Z">
@@ -44512,6 +44536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These include more fine-grained statistics about your tasks, such as buffer usage, watermarks, and input/output rates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T144528Z" creationid="xingcan" creationdate="20190802T144528Z">
+        <seg>这些指标包含了有关任务细粒度的统计信息，例如缓冲区的使用情况、水位线以及输入输出速率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These metrics are assembled into reports that help the management to assess the business’s overall health.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T025100Z" creationid="esouser" creationdate="20190603T203141Z">
@@ -51123,8 +51155,8 @@
       <tuv lang="EN-US">
         <seg>You can inspect the duration, bytes, and records exchanged, and aggregate those per TaskManager if you prefer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T042349Z" creationid="xccui" creationdate="20190802T042349Z">
-        <seg>你可以</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T144239Z" creationid="xccui" creationdate="20190802T042349Z">
+        <seg>你可以查看任务的持续时间、交换的字节和记录数，并根据需求对它们按照TaskManager进行聚合。</seg>
       </tuv>
     </tu>
     <tu>
