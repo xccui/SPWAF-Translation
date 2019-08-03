@@ -21079,6 +21079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s histogram is especially implemented for reporting metrics on long values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032606Z" creationid="xccui" creationdate="20190803T032606Z">
+        <seg>Flink的直方图特别适合用来报告Long类型的指标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s master and worker processes have different memory requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T062548Z" creationid="xccui" creationdate="20190723T062548Z">
@@ -30897,8 +30905,8 @@
       <tuv lang="EN-US">
         <seg>Metric reporters will turn the Gauge value into a String, so make sure you provide a meaningful toString() implementation if it is not provided by the type you use.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032332Z" creationid="xccui" creationdate="20190803T032156Z">
-        <seg>指标报告器会将Gauge值转换为String，因此如果使用的类型没有提供有意义的toString()实现，请将它加上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032456Z" creationid="xccui" creationdate="20190803T032156Z">
+        <seg>指标报告器会将Gauge值转换为String，因此如果你用到的类型没有提供有意义的toString()实现，请将它加上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51669,6 +51677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T054049Z" creationid="xccui" creationdate="20190607T054049Z">
         <seg>你可以把状态想象成任务的业务逻辑所需要访问的本地或实例变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use a histogram to represent the distribution of numerical data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032438Z" creationid="xccui" creationdate="20190803T032438Z">
+        <seg>你可以使用直方图来表示数值类型数据的分布。</seg>
       </tuv>
     </tu>
     <tu>
