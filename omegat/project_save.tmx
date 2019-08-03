@@ -7374,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;artifactId&gt;flink-metrics-dropwizard&lt;/artifactId&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033002Z" creationid="xccui" creationdate="20190803T033002Z">
+        <seg>&lt;artifactId&gt;flink-metrics-dropwizard&lt;/artifactId&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;artifactid&gt;flink-queryable-state-client-java_2.12&lt;/artifactid&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124900Z" creationid="xccui" creationdate="20190706T124900Z">
@@ -7594,6 +7602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T124904Z" creationid="xccui" creationdate="20190706T124904Z">
         <seg>&lt;version&gt;1.7.1&lt;/version&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;version&gt;flink-version&lt;/version&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033005Z" creationid="xccui" creationdate="20190803T033005Z">
+        <seg>&lt;version&gt;flink-version&lt;/version&gt;</seg>
       </tuv>
     </tu>
     <tu>
