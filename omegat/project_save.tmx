@@ -2950,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// create and register histogram DropwizardHistogramWrapper histogramWrapper = new DropwizardHistogramWrapper(</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033645Z" creationid="xccui" creationdate="20190803T033645Z">
+        <seg>// 创建并注册直方图 DropwizardHistogramWrapper histogramWrapper = new DropwizardHistogramWrapper(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// create configuration and set options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030030Z" creationid="xccui" creationdate="20190801T030030Z">
@@ -4498,6 +4506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T025102Z" creationid="xccui" creationdate="20190801T025102Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>// update histogram</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033656Z" creationid="xccui" creationdate="20190803T033656Z">
+        <seg>// 更新直方图</seg>
       </tuv>
     </tu>
     <tu>
@@ -15983,6 +15999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DropwizardHistogramWrapper class as shown in Example 10-7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033600Z" creationid="xccui" creationdate="20190803T033600Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to its checkpointing mechanism, Flink can achieve very good performance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163923Z" creationid="xccui" creationdate="20190702T163923Z">
@@ -17171,6 +17195,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031737Z" creationid="xccui" creationdate="20190803T031737Z">
         <seg>示例10-6，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-7.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033607Z" creationid="xccui" creationdate="20190803T033607Z">
+        <seg>示例10-7，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30911,6 +30943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033705Z" creationid="xccui" creationdate="20190803T033705Z">
+        <seg>Meter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metric System</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030134Z" creationid="xccui" creationdate="20190225T030134Z">
@@ -42872,6 +42912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The org.apache.flink.metrics.Meter interface pro‐ vides methods to mark the occurrence of one or more events, get the current rate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033947Z" creationid="xccui" creationdate="20190803T033856Z">
+        <seg>org.apache.flink.metrics.Meter接口提供的方法可用于标记一个或多个事件发生、获取每秒事件发生的速率以及获取当前meter标记的事件数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The original goals of this architecture were to improve the high result latency of the original batch analytics architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193729Z" creationid="xccui" creationdate="20190605T052749Z">
@@ -48056,6 +48104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the DropwizardHistogramWrapper</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033620Z" creationid="xccui" creationdate="20190803T033620Z">
+        <seg>使用DropwizardHistogramWrapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the interval join</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025827Z" creationid="xccui" creationdate="20190628T025827Z">
@@ -51689,6 +51745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can then register a &gt;DropWizard histogram in your Flink program using the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033556Z" creationid="xccui" creationdate="20190803T033550Z">
+        <seg>你可以像示例10-7中那样在Flink程序中使用DropwizardHistogramWrapper类注册DropWizard直方图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can think of keyed state as a key-value map that is partitioned (or sharded) on  the key across all parallel tasks of an operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190607T192001Z">
@@ -51701,6 +51765,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T054049Z" creationid="xccui" creationdate="20190607T054049Z">
         <seg>你可以把状态想象成任务的业务逻辑所需要访问的本地或实例变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use a Meter metric to measure the rate (in events per second) at which certain events happen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033739Z" creationid="xccui" creationdate="20190803T033739Z">
+        <seg>你可以使用Meter指标来衡量某些事件发生的速率（每秒的事件数）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54977,6 +55049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>histogramWrapper.update(value)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033659Z" creationid="xccui" creationdate="20190803T033659Z">
+        <seg>histogramWrapper.update(value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>holds the information used to distinguish windows from each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033853Z" creationid="xccui" creationdate="20190626T033853Z">
@@ -56565,6 +56645,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T191143Z" creationid="xccui" creationdate="20190710T191143Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new com.codahale.metrics.Histogram(new SlidingWindowReservoir(500))) metricGroup.histogram("myHistogram", histogramWrapper)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T033647Z" creationid="xccui" creationdate="20190803T033647Z">
+        <seg>new com.codahale.metrics.Histogram(new SlidingWindowReservoir(500))) metricGroup.histogram("myHistogram", histogramWrapper)</seg>
       </tuv>
     </tu>
     <tu>
