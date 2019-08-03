@@ -20335,6 +20335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink metrics belong to a scope, which can be either the system scope, for system- provided metrics, or the user scope for custom, user-defined metrics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T215424Z" creationid="xccui" creationdate="20190803T215424Z">
+        <seg>Flink的指标都有各自所属的域（scope），系统指标所属的域被称为系统域，用户自定义指标所属的域被称为用户域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink needs to create a suitable serializer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T071403Z" creationid="xccui" creationdate="20190630T071403Z">
@@ -56773,6 +56781,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T202748Z" creationid="xccui" creationdate="20190627T202748Z">
         <seg>窗口内的元素数量、窗口对象以及一个用于访问当前处理时间和水位线的EvictorContext。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of events per second, and get the current number of events marked on the meter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T215245Z" creationid="xccui" creationdate="20190803T215245Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
