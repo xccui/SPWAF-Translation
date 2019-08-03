@@ -11494,6 +11494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apart from creating your own histogram implementation, Flink also allows you to use a DropWizard histogram by adding the dependency in the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032959Z" creationid="xccui" creationdate="20190803T032959Z">
+        <seg>除了创建你自己的直方图实现外，Flink还允许你通过添加以下依赖使用DropWizard直方图：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apart from having a practical value, windows also enable semantically interesting queries on streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065640Z" creationid="xccui" creationdate="20190406T042112Z">
@@ -56841,6 +56849,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>org.apache.flink.metrics.Histogram interface allows you to collect values, get</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032810Z" creationid="xccui" creationdate="20190803T032810Z">
+        <seg>你可以通过org.apache.flink.metrics.Histogram接口来收集数值，获取收集值的数量并为到目前为止收集的值生成统计信息（例如最小值、最大值、标准差、均值等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>org.apache.flink.runtime.concurrent.Executors.directExecutor())</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T205742Z" creationid="xccui" creationdate="20190716T205742Z">
@@ -59036,6 +59052,14 @@
         <seg>the command./bin/flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021553Z" creationid="xccui" creationdate="20190726T021553Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the current count of collected values, and create statistics, such as min, max, stan‐ dard deviation, and mean, for the values seen so far.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032812Z" creationid="xccui" creationdate="20190803T032812Z">
         <seg></seg>
       </tuv>
     </tu>
