@@ -12151,6 +12151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As with histograms, you can use DropWizard meters by adding the flink- metrics-dropwizard dependency in your pom.xml and wrapping the meter in a DropwizardMeterWrapper class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T034136Z" creationid="xccui" creationdate="20190803T034136Z">
+        <seg>和直方图一样，你可以通过在pom.xml中添加flink-metrics-dropwizard依赖并将meter包在DropwizardMeterWrapper类中来使用DropWizard meter。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you can see in Example 6-13, the ReduceFunction and ProcessWindowFunction are both defined in the reduce() method call.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T044915Z" creationid="xccui" creationdate="20190625T044805Z">
