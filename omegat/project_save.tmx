@@ -7694,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>@Override</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031854Z" creationid="xccui" creationdate="20190803T031854Z">
+        <seg>@Override</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>@Table(keyspace = "example", name = "sensors")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T220249Z" creationid="xccui" creationdate="20190711T220249Z">
@@ -17135,6 +17143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 10-6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031737Z" creationid="xccui" creationdate="20190803T031737Z">
+        <seg>示例10-6，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 5-1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035805Z" creationid="xccui" creationdate="20190612T035805Z">
@@ -23287,6 +23303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Histogram</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031907Z" creationid="xccui" creationdate="20190803T031907Z">
+        <seg>Histogram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can you ensure that such failures are handled transparently so that your streaming job can continue to run?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T185857Z" creationid="xccui" creationdate="20190415T041907Z">
@@ -25323,6 +25347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045132Z" creationid="xccui" creationdate="20190625T045132Z">
         <seg>用于将窗口结束时间戳分配到递增计算结果的ProcessWindowFunction实现：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation of a WatermarkGauge metric that exposes the current watermark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031839Z" creationid="xccui" creationdate="20190803T031839Z">
+        <seg>对外提供当前水位线的WatermarkGauge指标的实现</seg>
       </tuv>
     </tu>
     <tu>
@@ -40484,6 +40516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203822Z" creationid="xccui" creationdate="20190730T203822Z">
         <seg>示例10-1中的代码会生成三个任务——一个Filter1和Map1的链接任务，一个针对Map2单独任务以及一个Filter2的任务（不允许和Map2进行链接）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The code in Example 10-6 shows the implementation of the WatermarkGauge metric,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031728Z" creationid="xccui" creationdate="20190803T031728Z">
+        <seg>示例10-6中的代码展示了如何实现WatermarkGauge指标，它会对外提供当前的水位线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57585,6 +57625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>private long currentWatermark = Long.MIN_VALUE;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031845Z" creationid="xccui" creationdate="20190803T031845Z">
+        <seg>private long currentWatermark = Long.MIN_VALUE;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>private var highTempCnt = 0L</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052439Z" creationid="xccui" creationdate="20190701T052439Z">
@@ -57661,6 +57709,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T125209Z" creationid="xccui" creationdate="20190706T125209Z">
         <seg>客户端代理的默认监听端口是9067，你可以在./conf/flink- conf.yaml文件中对它进行配置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public Long getValue() {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031857Z" creationid="xccui" creationdate="20190803T031857Z">
+        <seg>public Long getValue() {</seg>
       </tuv>
     </tu>
     <tu>
@@ -57825,6 +57881,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>public class WatermarkGauge implements Gauge&lt;Long&gt; {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031842Z" creationid="xccui" creationdate="20190803T031842Z">
+        <seg>public class WatermarkGauge implements Gauge&lt;Long&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public interface AggregateFunction&lt;IN, ACC, OUT&gt; extends Function, Serializable {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T003529Z" creationid="xccui" creationdate="20190624T003529Z">
@@ -57869,6 +57933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T190951Z" creationid="xccui" creationdate="20190626T190951Z">
         <seg>public void onMerge(W window, OnMergeContext ctx);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public void setCurrentWatermark(long watermark) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031848Z" creationid="xccui" creationdate="20190803T031848Z">
+        <seg>public void setCurrentWatermark(long watermark) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -58141,6 +58213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155135Z" creationid="xingcan" creationdate="20190709T155135Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>return currentWatermark;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031902Z" creationid="xccui" creationdate="20190803T031902Z">
+        <seg>return currentWatermark;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59101,6 +59181,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T044901Z" creationid="xccui" creationdate="20190617T044901Z">
         <seg>this.age = age;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this.currentWatermark = watermark;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031851Z" creationid="xccui" creationdate="20190803T031851Z">
+        <seg>this.currentWatermark = watermark;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61421,6 +61509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T195116Z" creationid="xccui" creationdate="20190715T194754Z">
         <seg>但这种2PC数据汇函数对于保障的支持与否并非取决于它的实现细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which exposes the current watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031730Z" creationid="xccui" creationdate="20190803T031730Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
