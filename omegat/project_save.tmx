@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.counter("droppedElements")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015239Z" creationid="xccui" creationdate="20190803T015239Z">
+        <seg>.counter("droppedElements")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.createSerializer(new ExecutionConfig),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T064325Z" creationid="xccui" creationdate="20190715T064325Z">
@@ -1170,6 +1178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T041615Z" creationid="xccui" creationdate="20190707T041615Z">
         <seg>.getKvState[String, ValueState[(String, Double)], (String, Double)]( JobID.fromHexString(jobId),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.getMetricGroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015235Z" creationid="xccui" creationdate="20190803T015235Z">
+        <seg>.getMetricGroup</seg>
       </tuv>
     </tu>
     <tu>
@@ -17083,6 +17099,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154404Z" creationid="xingcan" creationdate="20190801T154404Z">
         <seg>示例10-4，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015215Z" creationid="xccui" creationdate="20190803T015215Z">
+        <seg>示例10-5，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34656,6 +34680,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Registering and using metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015102Z" creationid="xccui" creationdate="20190803T015102Z">
+        <seg>注册和使用指标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registering and using metrics in a FilterFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015226Z" creationid="xccui" creationdate="20190803T015226Z">
+        <seg>在FilterFunction中注册和使用指标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing State from an Application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024915Z" creationid="xccui" creationdate="20190225T024915Z">
@@ -46864,6 +46904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To register metrics you have to retrieve a MetricGroup by calling the getMetrics()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015205Z" creationid="xccui" creationdate="20190803T015205Z">
+        <seg>为了注册指标，你需要像示例10-5那样调用RuntimeContext的getMetrics()方法获取一个MetricGroup对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To rescale an application with curl to a new default parallelism of 16 run:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T201754Z" creationid="xccui" creationdate="20190729T201754Z">
@@ -53041,6 +53089,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class PositiveFilter extends RichFilterFunction[Int] { @transient private var counter: Counter = _</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015229Z" creationid="xccui" creationdate="20190803T015229Z">
+        <seg>class PositiveFilter extends RichFilterFunction[Int] { @transient private var counter: Counter = _</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class PunctuatedAssigner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054750Z" creationid="xccui" creationdate="20190620T054750Z">
@@ -54937,6 +54993,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if (value &gt; 0) {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015246Z" creationid="xccui" creationdate="20190803T015246Z">
+        <seg>if (value &gt; 0) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if you changed the ValueState[String] to a ValueState[Double], Flink would cre‐ ate a DoubleSerializer to access the state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052252Z" creationid="xccui" creationdate="20190705T052252Z">
@@ -55869,6 +55933,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071731Z" creationid="xccui" creationdate="20190702T071538Z">
         <seg>snapshotState()方法的目的是确保检查点开始之前所有状态对象都已更新完毕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method on the RuntimeContext, as shown in Example 10-5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015207Z" creationid="xccui" creationdate="20190803T015207Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -56817,6 +56889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>override def filter(value: Int): Boolean = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015243Z" creationid="xccui" creationdate="20190803T015243Z">
+        <seg>override def filter(value: Int): Boolean = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>override def filter(value: String): Boolean = { value.contains("flink")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T054238Z" creationid="xccui" creationdate="20190618T054238Z">
@@ -57037,6 +57117,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064229Z" creationid="xccui" creationdate="20190630T064229Z">
         <seg>override def open(parameters: Configuration): Unit = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>override def open(parameters: Configuration): Unit = { counter = getRuntimeContext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015232Z" creationid="xccui" creationdate="20190803T015232Z">
+        <seg>override def open(parameters: Configuration): Unit = { counter = getRuntimeContext</seg>
       </tuv>
     </tu>
     <tu>
