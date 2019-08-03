@@ -7862,6 +7862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Gauge metric calculates a value of any type at a point in time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T025258Z" creationid="xccui" creationdate="20190803T025258Z">
+        <seg>Gauge指标用于计算在某个时间点一个任意类型的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Java JRE is not sufficient.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T072139Z" creationid="xccui" creationdate="20190611T015626Z">
@@ -10986,6 +10994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063240Z" creationid="xccui" creationdate="20190615T051502Z">
         <seg>作用在已经按照键值分区且已联结的数据流上的算子可以访问键值分区状态。3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An org.apache.flink.metrics.Counter metric measures a count and provides methods for increment and decrement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T025025Z" creationid="xccui" creationdate="20190803T025025Z">
+        <seg>org.apache.flink.metrics.Counter指标用于测量计数并提供了相应的增减方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14803,6 +14819,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063415Z" creationid="xccui" creationdate="20190406T051102Z">
         <seg>基于数量的（count-based）滚动窗口定义了在触发计算前需要集齐多少条事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Counter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T024929Z" creationid="xccui" creationdate="20190803T024929Z">
+        <seg>Counter</seg>
       </tuv>
     </tu>
     <tu>
@@ -22363,6 +22387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044655Z" creationid="xccui" creationdate="20190729T044655Z">
         <seg>GET /taskmanagers/&lt;tmId&gt;/metrics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gauge</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T025138Z" creationid="xccui" creationdate="20190803T025138Z">
+        <seg>Gauge</seg>
       </tuv>
     </tu>
     <tu>
@@ -51445,6 +51477,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030415Z" creationid="xccui" creationdate="20190726T030415Z">
         <seg>你可以通过在命令末尾附加参数而将其传递给应用的main()方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can register a counter metric using the counter(String name, Counter counter) method on MetricGroup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T025109Z" creationid="xccui" creationdate="20190803T025109Z">
+        <seg>你可以使用MetricGroup上的counter(String name, Counter counter)方法注册一个Counter指标。</seg>
       </tuv>
     </tu>
     <tu>
