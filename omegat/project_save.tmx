@@ -47048,6 +47048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use a Gauge you implement the org.apache.flink.metrics.Gauge interface and register it using the gauge(String name, Gauge gauge) method on MetricGroup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031640Z" creationid="xccui" creationdate="20190803T031640Z">
+        <seg>要使用Gauge，你需要实现org.apache.flink.metrics.Gauge接口并利用MetricGroup的gauge(String name, Gauge gauge)方法将其注册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To use timers on a nonkeyed stream, you can create a keyed stream by</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T062029Z">
