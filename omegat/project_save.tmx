@@ -22007,6 +22007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, the name “myCounter,” the user scope “MyMetrics,” and the system scope “localhost.taskmanager.512” would result into the identifier “localhost.task‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T034052Z" creationid="xccui" creationdate="20190804T034052Z">
+        <seg>举例而言，指标名称"myCounter"、用户域"MyMetrics"和系统域"localhost.taskmanager.512"将会生成标识"localhost.taskmanager.512.MyMetrics"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, you could implement a FlatMapFunction that emits each incoming</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T212608Z" creationid="xccui" creationdate="20190713T212608Z">
@@ -31025,8 +31033,8 @@
       <tuv lang="EN-US">
         <seg>Metrics are ref‐ erenced by a unique identifier that contains up to three parts:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T220222Z" creationid="xccui" creationdate="20190803T220222Z">
-        <seg>引用指标的唯一标识最多包含三个部分：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T033550Z" creationid="xccui" creationdate="20190803T220222Z">
+        <seg>用于引用指标的唯一标识最多包含三个部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42682,8 +42690,8 @@
       <tuv lang="EN-US">
         <seg>The name that the user specifies when registering the metric</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T033529Z" creationid="xccui" creationdate="20190804T033529Z">
-        <seg>一个用户在注册指标时指定的名称</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T033606Z" creationid="xccui" creationdate="20190804T033529Z">
+        <seg>用户在注册指标时指定的名称</seg>
       </tuv>
     </tu>
     <tu>
