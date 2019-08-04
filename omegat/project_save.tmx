@@ -14351,6 +14351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuration key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T042950Z" creationid="xccui" creationdate="20190804T042950Z">
+        <seg>配置键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration of a HA Flink cluster</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T203643Z" creationid="xccui" creationdate="20190720T203643Z">
@@ -15475,6 +15483,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T054946Z" creationid="xccui" creationdate="20190727T054946Z">
         <seg>减少或增加应用的并行度并不困难。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T042959Z" creationid="xccui" creationdate="20190804T042959Z">
+        <seg>默认值</seg>
       </tuv>
     </tu>
     <tu>
@@ -30095,6 +30111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JobManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043024Z" creationid="xccui" creationdate="20190804T043024Z">
+        <seg>JobManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JobManager failures</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T222247Z" creationid="xccui" creationdate="20190428T222247Z">
@@ -35640,6 +35664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T042944Z" creationid="xccui" creationdate="20190804T042944Z">
+        <seg>域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scoping and formatting metrics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T034217Z" creationid="xingcan" creationdate="20190802T152539Z">
@@ -38192,6 +38224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System scope configuration options and their default values</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043022Z" creationid="xccui" creationdate="20190804T043022Z">
+        <seg>系统域的配置项和它们的默认值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Systems</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T053620Z" creationid="xccui" creationdate="20190707T053620Z">
@@ -38284,6 +38324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T200931Z" creationid="xccui" creationdate="20190729T200931Z">
         <seg>表10-16，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-17.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043003Z" creationid="xccui" creationdate="20190804T043003Z">
+        <seg>表10-17，</seg>
       </tuv>
     </tu>
     <tu>
@@ -49056,6 +49104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We list some of these configuration options and their default val‐ ues in Table 10-17.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T042928Z" creationid="xccui" creationdate="20190804T042928Z">
+        <seg>我们在表10-17中列出了一些配置选项和它们的默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We looked at the dataflow programming model and learned how streaming applications can be expressed as distributed dataflow graphs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T035532Z" creationid="xccui" creationdate="20190606T035500Z">
@@ -56325,6 +56381,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050037Z" creationid="xccui" creationdate="20190727T045922Z">
         <seg>则Flink会根据算子类型和它所有前置算子计算一个哈希值作为其默认标识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metrics.scope.jm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043027Z" creationid="xccui" creationdate="20190804T043027Z">
+        <seg>metrics.scope.jm</seg>
       </tuv>
     </tu>
     <tu>
