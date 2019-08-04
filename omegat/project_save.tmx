@@ -32599,6 +32599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now that you have learned how to register, define, and group metrics, you might be wondering how to access them from external systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T054935Z" creationid="xccui" creationdate="20190804T054935Z">
+        <seg>你既然已经学会了如何注册、定义指标并对其分组，那接下来可能想知道如何从外部系统访问它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now you can upload and submit jobs to the Flink cluster running on Kubernetes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035805Z" creationid="xccui" creationdate="20190720T035746Z">
