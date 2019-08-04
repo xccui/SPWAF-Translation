@@ -31167,6 +31167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MetricGroup, as shown in Example 10-8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T044731Z" creationid="xccui" creationdate="20190804T044731Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metrics Reported as Strings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032202Z" creationid="xccui" creationdate="20190803T032122Z">
@@ -51645,6 +51653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161428Z" creationid="xingcan" creationdate="20190709T155322Z">
         <seg>你还可以在数据汇对象上调用setLogFailuresOnly(true)让它仅将故障写入日志中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also define a user scope for metrics by calling the addGroup() method of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T044728Z" creationid="xccui" creationdate="20190804T044728Z">
+        <seg>你还可以像示例10-8那样，通过调用MetricGroup的addGroup()方法为指标定义一个用户域。</seg>
       </tuv>
     </tu>
     <tu>
