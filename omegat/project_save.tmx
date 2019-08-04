@@ -17343,6 +17343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 10-8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T050147Z" creationid="xccui" creationdate="20190804T050147Z">
+        <seg>示例10-8，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 5-1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T035805Z" creationid="xccui" creationdate="20190612T035805Z">
