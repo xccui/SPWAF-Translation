@@ -7438,6 +7438,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;host&gt;.jobmanager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043030Z" creationid="xccui" creationdate="20190804T043030Z">
+        <seg>&lt;host&gt;.jobmanager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;host&gt;.jobmanager.&lt;job_name&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043055Z" creationid="xccui" creationdate="20190804T043055Z">
+        <seg>&lt;host&gt;.jobmanager.&lt;job_name&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;host&gt;.taskmanager.&lt;tm_id&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043103Z" creationid="xccui" creationdate="20190804T043103Z">
+        <seg>&lt;host&gt;.taskmanager.&lt;tm_id&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;host&gt;.taskmanager.&lt;tm_id&gt;.&lt;job_name&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043114Z" creationid="xccui" creationdate="20190804T043114Z">
+        <seg>&lt;host&gt;.taskmanager.&lt;tm_id&gt;.&lt;job_name&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;host&gt;.taskmanager.&lt;tm_id&gt;.&lt;job_name&gt;.&lt;task_name&gt;.&lt;subtask_index&gt; Operator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043128Z" creationid="xccui" creationdate="20190804T043128Z">
+        <seg>&lt;host&gt;.taskmanager.&lt;tm_id&gt;.&lt;job_name&gt;.&lt;task_name&gt;.&lt;subtask_index&gt; 算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;name&gt;yarn.resourcemanager.am.max-attempts&lt;/name&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052509Z" creationid="xccui" creationdate="20190721T052509Z">
@@ -30119,6 +30159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JobManager and job</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043049Z" creationid="xccui" creationdate="20190804T043049Z">
+        <seg>JobManager及作业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JobManager failures</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T222247Z" creationid="xccui" creationdate="20190428T222247Z">
@@ -38544,6 +38592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043118Z" creationid="xccui" creationdate="20190804T043118Z">
+        <seg>任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Task Chaining</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T021822Z" creationid="xccui" creationdate="20190225T021822Z">
@@ -38608,10 +38664,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TaskManager and job</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043109Z" creationid="xccui" creationdate="20190804T043109Z">
+        <seg>TaskManager及作业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TaskManager failures</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190428T205310Z" creationid="xccui" creationdate="20190428T205310Z">
         <seg>TaskManager故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TaskManager metrics.scope.tm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043100Z" creationid="xccui" creationdate="20190804T043100Z">
+        <seg>TaskManager metrics.scope.tm</seg>
       </tuv>
     </tu>
     <tu>
@@ -40840,6 +40912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The configuration keys contain constant strings, such as “taskmanager,” and variables shown in angle brackets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043302Z" creationid="xccui" creationdate="20190804T043302Z">
+        <seg>配置键由常量字符串（例如"taskmanager"）和尖括号中的变量组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The configuration of the application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153517Z" creationid="xccui" creationdate="20190729T153517Z">
@@ -42396,6 +42476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T022846Z" creationid="xccui" creationdate="20190406T045549Z">
         <seg>其中参与计算的决策会根据触发条件判定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The latter will be replaced at runtime with actual values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043319Z" creationid="xccui" creationdate="20190804T043319Z">
+        <seg>后者会在运行时被替换成实际的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55705,6 +55793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>instance, the default scope for TaskManager metrics might create the scope “local‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043443Z" creationid="xccui" creationdate="20190804T043443Z">
+        <seg>例如，TaskManager指标的默认域可能是"localhost.taskmanager.512"，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>instance, when you join or group by some key, TypeInformation allows Flink to per‐ form the semantic check of whether the fields used as keys are valid.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151948Z" creationid="xccui" creationdate="20190617T050559Z">
@@ -56389,6 +56485,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043027Z" creationid="xccui" creationdate="20190804T043027Z">
         <seg>metrics.scope.jm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metrics.scope.jm.job</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043051Z" creationid="xccui" creationdate="20190804T043051Z">
+        <seg>metrics.scope.jm.job</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metrics.scope.operator   &lt;host&gt;.taskmanager.&lt;tm_id&gt;.&lt;job_name&gt;.&lt;operator_name&gt;.&lt;subtask_index&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043133Z" creationid="xccui" creationdate="20190804T043133Z">
+        <seg>metrics.scope.operator   &lt;host&gt;.taskmanager.&lt;tm_id&gt;.&lt;job_name&gt;.&lt;operator_name&gt;.&lt;subtask_index&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metrics.scope.task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043121Z" creationid="xccui" creationdate="20190804T043121Z">
+        <seg>metrics.scope.task</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metrics.scope.tm.job</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043111Z" creationid="xccui" creationdate="20190804T043111Z">
+        <seg>metrics.scope.tm.job</seg>
       </tuv>
     </tu>
     <tu>
