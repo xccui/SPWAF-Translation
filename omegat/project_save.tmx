@@ -51505,6 +51505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can configure which context infor‐ mation the metric should contain by setting the corresponding metric options in the flink-conf.yaml file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T042910Z" creationid="xccui" creationdate="20190804T042910Z">
+        <seg>你可以通过在flink-conf.yaml文件中设置对应的指标选项来配置指标所包含的上下文信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can create a Flink deployment for Kubernetes by storing each definition in a sep‐ arate file, such as master-deployment.yaml, worker-deployment.yaml, or master- service.yaml.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033302Z" creationid="xccui" creationdate="20190720T033302Z">
