@@ -31039,6 +31039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metrics can be scoped to the JobManager, a TaskManager, a job, an operator, or a task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T034421Z" creationid="xccui" creationdate="20190804T034421Z">
+        <seg>它的范围可以是JobManager、某个TaskManager、某个作业、某个算子或任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metzger, Sebastian Schelter, Shaoxuan Wang, Shuyi Chen, Stefan Richter, Stephan Ewen, Theodore Vasiloudis, Thomas Weise, Till Rohrmann, Timo Walther, Tzu-Li (Gordon) Tai, Ufuk Celebi, Xiaogang Shi, Xiaowei Jiang, Xingcan Cui.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T025914Z" creationid="xccui" creationdate="20190605T132801Z">
@@ -44060,6 +44068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T033323Z" creationid="xccui" creationdate="20190415T033225Z">
         <seg>系统需要高效地管理状态并保证它们在面对并发更新时不会出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system scope declares what component of the system the metric refers to and what context information it should include.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T034301Z" creationid="xccui" creationdate="20190804T034301Z">
+        <seg>系统域用于声明指标所对应的系统组件及包含的上下文信息。</seg>
       </tuv>
     </tu>
     <tu>
