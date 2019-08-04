@@ -9454,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A system scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T220241Z" creationid="xccui" creationdate="20190803T220241Z">
+        <seg>一个系统域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A task maintains a partition watermark for each input partition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T071617Z" creationid="xccui" creationdate="20190607T024100Z">
@@ -11034,6 +11042,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063240Z" creationid="xccui" creationdate="20190615T051502Z">
         <seg>作用在已经按照键值分区且已联结的数据流上的算子可以访问键值分区状态。3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An optional user scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T220238Z" creationid="xccui" creationdate="20190803T220238Z">
+        <seg>一个可选的用户域</seg>
       </tuv>
     </tu>
     <tu>
@@ -31007,6 +31023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metrics are ref‐ erenced by a unique identifier that contains up to three parts:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T220222Z" creationid="xccui" creationdate="20190803T220222Z">
+        <seg>引用指标的唯一标识最多包含三个部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metzger, Sebastian Schelter, Shaoxuan Wang, Shuyi Chen, Stefan Richter, Stephan Ewen, Theodore Vasiloudis, Thomas Weise, Till Rohrmann, Timo Walther, Tzu-Li (Gordon) Tai, Ufuk Celebi, Xiaogang Shi, Xiaowei Jiang, Xingcan Cui.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T025914Z" creationid="xccui" creationdate="20190605T132801Z">
@@ -42652,6 +42676,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060732Z" creationid="xccui" creationdate="20190618T060732Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name that the user specifies when registering the metric</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T033529Z" creationid="xccui" creationdate="20190804T033529Z">
+        <seg>一个用户在注册指标时指定的名称</seg>
       </tuv>
     </tu>
     <tu>
