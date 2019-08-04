@@ -18287,6 +18287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposing metrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T050706Z" creationid="xccui" creationdate="20190804T050706Z">
+        <seg>暴露指标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External applications can request the state for a key while the streaming application is running.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163156Z" creationid="xccui" creationdate="20190705T163156Z">
