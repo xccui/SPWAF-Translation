@@ -45712,6 +45712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be easily handled by including the &lt;job_id&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T044514Z" creationid="xccui" creationdate="20190804T044514Z">
+        <seg>为此你可以将&lt;job_id&gt;加入到标识中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be ensured by running one or more standby workers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T162301Z" creationid="xccui" creationdate="20190717T162301Z">
@@ -60244,6 +60252,14 @@
         <seg>undesirable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T045748Z" creationid="xccui" creationdate="20190615T045748Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unique.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T044219Z" creationid="xccui" creationdate="20190804T044219Z">
         <seg></seg>
       </tuv>
     </tu>
