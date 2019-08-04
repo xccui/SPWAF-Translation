@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.addGroup("MyMetrics")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T050218Z" creationid="xccui" creationdate="20190804T050218Z">
+        <seg>.addGroup("MyMetrics")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.addSource(new SensorSource)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T042142Z" creationid="xccui" creationdate="20190612T042142Z">
@@ -1050,6 +1058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T015239Z" creationid="xccui" creationdate="20190803T015239Z">
         <seg>.counter("droppedElements")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.counter("myCounter")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T050224Z" creationid="xccui" creationdate="20190804T050224Z">
+        <seg>.counter("myCounter")</seg>
       </tuv>
     </tu>
     <tu>
@@ -15675,6 +15691,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190225T024714Z">
         <seg>为使用键值分区状态的算子定义最大并行度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining the user scope “MyMetrics”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T050204Z" creationid="xccui" creationdate="20190804T050204Z">
+        <seg>定义用户域"MyMetrics"</seg>
       </tuv>
     </tu>
     <tu>
@@ -54069,6 +54093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202707Z" creationid="xccui" creationdate="20190702T202707Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>counter = getRuntimeContext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T050221Z" creationid="xccui" creationdate="20190804T050221Z">
+        <seg>counter = getRuntimeContext</seg>
       </tuv>
     </tu>
     <tu>
