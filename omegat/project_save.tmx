@@ -10134,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all, you probably gather metrics because you want to create a real-time dashboard or feed the measurements to another application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055046Z" creationid="xccui" creationdate="20190804T055046Z">
+        <seg>毕竟收集指标的目的可能是要创建实时仪表盘或将测量数据发往另一个应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After an application is restarted from a checkpoint, its internal state is exactly the same as when the checkpoint was taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064059Z" creationid="xccui" creationdate="20190609T051324Z">
