@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9020-9040:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055900Z" creationid="xccui" creationdate="20190804T055900Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>92</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T035652Z" creationid="xccui" creationdate="20190418T035652Z">
@@ -10054,6 +10062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding the following lines to your configuration will define a JMX reporter “my_reporter” that listens to ports</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055858Z" creationid="xccui" creationdate="20190804T055858Z">
+        <seg>你可以通过在配置中添加以下几行来定义一个名为"my_reporter"、监听端口9020-9040的JMX汇报器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional parameters specify</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T202617Z" creationid="xccui" creationdate="20190716T202617Z">
@@ -10136,8 +10152,8 @@
       <tuv lang="EN-US">
         <seg>After all, you probably gather metrics because you want to create a real-time dashboard or feed the measurements to another application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055046Z" creationid="xccui" creationdate="20190804T055046Z">
-        <seg>毕竟收集指标的目的可能是要创建实时仪表盘或将测量数据发往另一个应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055133Z" creationid="xccui" creationdate="20190804T055046Z">
+        <seg>毕竟你收集指标的目的可能是要创建实时仪表盘或将测量数据发往另一个应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14895,6 +14911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consult the Flink documentation for a full list of configuration options per supported reporter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T060030Z" creationid="xccui" creationdate="20190804T060030Z">
+        <seg>要获得每个所支持汇报器的完整配置选项，请参阅Flink文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consult the Flink documentation for detailed instructions on enabling and configuring Kerberos authentication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T023402Z" creationid="xccui" creationdate="20190725T023402Z">
@@ -15515,6 +15539,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T043408Z" creationid="xccui" creationdate="20190618T043408Z">
         <seg>DataStream&lt;Tuple3&lt;Integer, String, Long&gt;&gt; javaInput = ... javaInput.keyBy("f2") // Java元组以第3个字段为键值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Datadog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055529Z" creationid="xccui" creationdate="20190804T055529Z">
+        <seg>Datadog</seg>
       </tuv>
     </tu>
     <tu>
@@ -22855,6 +22887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graphite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055505Z" creationid="xccui" creationdate="20190804T055505Z">
+        <seg>Graphite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gravenstein Highway North Sebastopol, CA 95472</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210839Z" creationid="esouser" creationdate="20190603T210839Z">
@@ -25527,6 +25567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to use a metrics backend that is not included in the above list, you can also define your own reporter by implementing the org.apache.flink.met‐ rics.reporter.MetricReporter interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055722Z" creationid="xccui" creationdate="20190804T055722Z">
+        <seg>如果你想使用的指标后端没有在上表中列出，则可以通过实现org.apache.flink.metrics.reporter.MetricReporter接口来自定义汇报器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you, for example, specify fs.default-scheme: hdfs://nnode1:9000, the path /result will be extended to hdfs://nnode1:9000/result.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045346Z" creationid="xccui" creationdate="20190722T045346Z">
@@ -25603,6 +25651,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024734Z" creationid="xccui" creationdate="20190705T024319Z">
         <seg>实现应用时须长远考虑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055442Z" creationid="xccui" creationdate="20190804T055442Z">
+        <seg>实现</seg>
       </tuv>
     </tu>
     <tu>
@@ -30223,6 +30279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JMX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055459Z" creationid="xccui" creationdate="20190804T055459Z">
+        <seg>JMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JVM heap size with the jobmanager.heap.size configuration key.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T063101Z" creationid="xccui" creationdate="20190723T063101Z">
@@ -30823,6 +30887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of available metrics reporters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055454Z" creationid="xccui" creationdate="20190804T055454Z">
+        <seg>指标汇报器列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List state</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T060531Z" creationid="xccui" creationdate="20190607T184048Z">
@@ -31251,6 +31323,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T034421Z" creationid="xccui" creationdate="20190804T034421Z">
         <seg>它的范围可以是JobManager、某个TaskManager、某个作业、某个算子或任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Metrics.reporter.my_jmx_reporter.class: org.apache.flink.metrics.jmx.JMXReporter metrics.reporter.my_jmx_reporter.port: 9020-9040</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055908Z" creationid="xccui" creationdate="20190804T055908Z">
+        <seg>Metrics.reporter.my_jmx_reporter.class: org.apache.flink.metrics.jmx.JMXReporter metrics.reporter.my_jmx_reporter.port: 9020-9040</seg>
       </tuv>
     </tu>
     <tu>
@@ -32609,8 +32689,8 @@
       <tuv lang="EN-US">
         <seg>Now that you have learned how to register, define, and group metrics, you might be wondering how to access them from external systems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T054935Z" creationid="xccui" creationdate="20190804T054935Z">
-        <seg>你既然已经学会了如何注册、定义指标并对其分组，那接下来可能想知道如何从外部系统访问它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055104Z" creationid="xccui" creationdate="20190804T054935Z">
+        <seg>你既然已经学会了如何注册、定义指标并对其分组，那接下来可能就想了解如何从外部系统访问它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34536,6 +34616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prometheus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055512Z" creationid="xccui" creationdate="20190804T055512Z">
+        <seg>Prometheus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Properties object.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T042451Z" creationid="xccui" creationdate="20190709T042451Z">
@@ -35156,6 +35244,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035722Z" creationid="xccui" creationdate="20190705T035722Z">
         <seg>从应用中移除某个状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reporter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055440Z" creationid="xccui" creationdate="20190804T055440Z">
+        <seg>汇报器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reporters need to be configured in flink-conf.yaml.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055733Z" creationid="xccui" creationdate="20190804T055733Z">
+        <seg>汇报器需要在flink-conf.yaml中配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37088,6 +37192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slf4j</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055536Z" creationid="xccui" creationdate="20190804T055536Z">
+        <seg>Slf4j</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sliding &lt;t0/&gt;windows assign events into overlapping buckets of fixed size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190407T024655Z" creationid="xccui" creationdate="20190407T023648Z">
@@ -38556,6 +38668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043637Z" creationid="xccui" creationdate="20190804T043637Z">
         <seg>表10-18，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-19.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055446Z" creationid="xccui" creationdate="20190804T055446Z">
+        <seg>表10-19</seg>
       </tuv>
     </tu>
     <tu>
@@ -51977,6 +52097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can expose metrics to external backends through report‐ ers and Flink provides implementation for several of them (see Table 10-19 ).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055436Z" creationid="xccui" creationdate="20190804T055436Z">
+        <seg>你可以通过汇报器（reporter）将指标暴露给外部后端，Flink内部为它们提供了几种实现（见表10-19）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can extend the list by providing a whitelist of classname patterns that</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061031Z" creationid="xccui" creationdate="20190723T061031Z">
@@ -56713,6 +56841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>metrics.reporters: my_reporter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055904Z" creationid="xccui" creationdate="20190804T055904Z">
+        <seg>metrics.reporters: my_reporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>metrics.scope.jm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043027Z" creationid="xccui" creationdate="20190804T043027Z">
@@ -57477,6 +57613,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032810Z" creationid="xccui" creationdate="20190803T032810Z">
         <seg>你可以通过org.apache.flink.metrics.Histogram接口来收集数值，获取收集值的数量并为到目前为止收集的值生成统计信息（例如最小值、最大值、标准差、均值等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>org.apache.flink.metrics.datadog.DatadogHttpReporter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055532Z" creationid="xccui" creationdate="20190804T055532Z">
+        <seg>org.apache.flink.metrics.datadog.DatadogHttpReporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>org.apache.flink.metrics.graphite.GraphiteReporter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055508Z" creationid="xccui" creationdate="20190804T055508Z">
+        <seg>org.apache.flink.metrics.graphite.GraphiteReporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>org.apache.flink.metrics.jmx.JMXReporter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055502Z" creationid="xccui" creationdate="20190804T055502Z">
+        <seg>org.apache.flink.metrics.jmx.JMXReporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>org.apache.flink.metrics.prometheus.PrometheusReporter PrometheusPushGateway org.apache.flink.metrics.prometheus.PrometheusPushGatewayReporter StatsD</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055516Z" creationid="xccui" creationdate="20190804T055516Z">
+        <seg>org.apache.flink.metrics.prometheus.PrometheusReporter PrometheusPushGateway org.apache.flink.metrics.prometheus.PrometheusPushGatewayReporter StatsD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>org.apache.flink.metrics.slf4j.Slf4jReporter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055539Z" creationid="xccui" creationdate="20190804T055539Z">
+        <seg>org.apache.flink.metrics.slf4j.Slf4jReporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>org.apache.flink.metrics.statsd.StatsDReporter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055526Z" creationid="xccui" creationdate="20190804T055526Z">
+        <seg>org.apache.flink.metrics.statsd.StatsDReporter</seg>
       </tuv>
     </tu>
     <tu>
