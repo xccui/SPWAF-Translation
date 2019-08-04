@@ -7438,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;host&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043711Z" creationid="xccui" creationdate="20190804T043711Z">
+        <seg>&lt;host&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;host&gt;.jobmanager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043030Z" creationid="xccui" creationdate="20190804T043030Z">
@@ -7478,6 +7486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;job_id&gt;, &lt;job_name&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043723Z" creationid="xccui" creationdate="20190804T043723Z">
+        <seg>&lt;job_id&gt;, &lt;job_name&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;name&gt;yarn.resourcemanager.am.max-attempts&lt;/name&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052509Z" creationid="xccui" creationdate="20190721T052509Z">
@@ -7486,10 +7502,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;operator_id&gt;, &lt;operator_name&gt;, &lt;subtask_index&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043741Z" creationid="xccui" creationdate="20190804T043741Z">
+        <seg>&lt;operator_id&gt;, &lt;operator_name&gt;, &lt;subtask_index&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;property&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T052505Z" creationid="xccui" creationdate="20190721T052505Z">
         <seg>&lt;property&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;subtask_index&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043733Z" creationid="xccui" creationdate="20190804T043733Z">
+        <seg>&lt;subtask_index&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7642,6 +7674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190228T172840Z" creationid="xccui" creationdate="20190228T172718Z">
         <seg>图1-2描绘了微服务的架构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;task_id&gt;, &lt;task_name&gt;, &lt;task_attempt_id&gt;, &lt;task_attempt_num&gt;,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043730Z" creationid="xccui" creationdate="20190804T043730Z">
+        <seg>&lt;task_id&gt;, &lt;task_name&gt;, &lt;task_attempt_id&gt;, &lt;task_attempt_num&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -12555,6 +12595,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190415T184428Z" creationid="xccui" creationdate="20190415T184345Z">
         <seg>至多一次也是最简单的情况，它保证每个事件至多被处理一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available Variables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043623Z" creationid="xccui" creationdate="20190804T043623Z">
+        <seg>可用变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available variables to configure the formatting of metrics scopes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043702Z" creationid="xccui" creationdate="20190804T043702Z">
+        <seg>用于配置指标域格式的可用变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -24559,6 +24615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If multiple copies of the same job are run concurrently, metrics might become inaccurate, due to string conflicts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043855Z" creationid="xccui" creationdate="20190804T043855Z">
+        <seg>如果相同作业同时运行了多个副本，那么由于字符串冲突，度量标准可能会不准确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no BucketAssigner is explicitly specified, it uses a DateTimeBucketAssigner that assigns records to hourly buckets based on the pro‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T213030Z" creationid="xccui" creationdate="20190710T212826Z">
@@ -30151,6 +30215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Job:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043720Z" creationid="xccui" creationdate="20190804T043720Z">
+        <seg>作业：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JobManager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043024Z" creationid="xccui" creationdate="20190804T043024Z">
@@ -30179,6 +30251,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T065052Z" creationid="xccui" creationdate="20190608T063329Z">
         <seg>JobManager通过向所有数据源发送消息来启动检查点生成流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JobManager:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043709Z" creationid="xccui" creationdate="20190804T043709Z">
+        <seg>JobManager：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33384,6 +33464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operator:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043737Z" creationid="xccui" creationdate="20190804T043737Z">
+        <seg>算子：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operators A and C are sources and operator E is a sink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190423T043400Z" creationid="xccui" creationdate="20190423T043347Z">
@@ -35716,6 +35804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T042944Z" creationid="xccui" creationdate="20190804T042944Z">
         <seg>域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scope Identifiers per Job Must Be Unique</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043806Z" creationid="xccui" creationdate="20190804T043806Z">
+        <seg>每个作业的域标识必须唯一</seg>
       </tuv>
     </tu>
     <tu>
@@ -38384,6 +38480,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 10-18</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043548Z" creationid="xccui" creationdate="20190804T043548Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10-18.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043637Z" creationid="xccui" creationdate="20190804T043637Z">
+        <seg>表10-18，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 10-2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043846Z" creationid="xccui" creationdate="20190729T043846Z">
@@ -38664,6 +38776,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Task:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043728Z" creationid="xccui" creationdate="20190804T043728Z">
+        <seg>任务：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TaskManager and job</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043109Z" creationid="xccui" creationdate="20190804T043109Z">
@@ -38684,6 +38804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043100Z" creationid="xccui" creationdate="20190804T043100Z">
         <seg>TaskManager metrics.scope.tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TaskManager: &lt;host&gt;, &lt;tm_id&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043715Z" creationid="xccui" creationdate="20190804T043715Z">
+        <seg>TaskManager： &lt;host&gt;, &lt;tm_id&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47024,6 +47152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To avoid such risk, you should make sure that scope identifiers per job are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043927Z" creationid="xccui" creationdate="20190804T043927Z">
+        <seg>为了避免类似状况，你需要确保每个作业的域标识都是唯一的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To be able to catch up with the stream—reach its tail—the application must process the accumulated data at a higher rate than new data is arriving.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145912Z" creationid="xingcan" creationdate="20190801T145912Z">
@@ -55297,6 +55433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>host.taskmanager.512” where “localhost” and “512” are parameter values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043449Z" creationid="xccui" creationdate="20190804T043449Z">
+        <seg>其中"localhost"和"512"是参数值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://hostname:port/v1/jars/upload</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045726Z" creationid="xccui" creationdate="20190729T045726Z">
@@ -58829,6 +58973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190514T152232Z" creationid="esouser" creationdate="20190514T152232Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shows all variables that are available to configure metrics scopes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T043543Z" creationid="xccui" creationdate="20190804T043543Z">
+        <seg>表10-18展示了指标域配置中的所有变量。</seg>
       </tuv>
     </tu>
     <tu>
