@@ -11254,6 +11254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And what if a window triggers multiple times?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052851Z" creationid="xccui" creationdate="20190806T052851Z">
+        <seg>进一步，如果窗口会多次触发计算又该如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anomaly detection (e.g., to detect attempts to intrude a computer network)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T055449Z" creationid="esouser" creationdate="20190603T213713Z">
@@ -14897,8 +14905,8 @@
       <tuv lang="EN-US">
         <seg>Considering window operators complicate latency tracking even further, if an event contributes to several windows, do we need to report the latency of the first invocation or do we need to wait until we evaluate all windows an event might belong to?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052758Z" creationid="xccui" creationdate="20190806T052332Z">
-        <seg>而窗口算子将会使延迟追踪变得更加复杂。如果事件被同时分配到多个窗口，那么我们应该以第一次窗口调用的延迟为准还是等它所有参与的窗口都计算完后再来测量？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T053003Z" creationid="xccui" creationdate="20190806T052332Z">
+        <seg>而窗口算子会使延迟追踪变得更加复杂。如果事件被同时分配到多个窗口，那么我们应该以第一次窗口调用时的延迟为准还是等它所有参与的窗口都计算完后再来测量？</seg>
       </tuv>
     </tu>
     <tu>
@@ -52163,8 +52171,8 @@
       <tuv lang="EN-US">
         <seg>You can imagine how a precise implementation of this definition can get problematic in practice if we try to track the latency per event in a high-rate streaming job with a complex dataflow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052359Z" creationid="xccui" creationdate="20190806T052204Z">
-        <seg>但如果想在Dataflow十分复杂的高速流式作业中追踪每个事件的延迟，那么实现精准测量所带来的问题可想而知。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052933Z" creationid="xccui" creationdate="20190806T052204Z">
+        <seg>但如果想在Dataflow十分复杂的高速流式作业中追踪每个事件的延迟，那么实现精准测量的难度可想而知。</seg>
       </tuv>
     </tu>
     <tu>
