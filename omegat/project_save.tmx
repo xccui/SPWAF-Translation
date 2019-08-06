@@ -30783,6 +30783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Latency is probably one of the first metrics you want to monitor to assess the perfor‐ mance characteristics of your streaming job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T050020Z" creationid="xccui" creationdate="20190806T050020Z">
+        <seg>延迟可能是你用于评估流式作业性能的首要指标之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Latency vs. throughput</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T202243Z" creationid="xccui" creationdate="20190402T202238Z">
