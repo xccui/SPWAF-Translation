@@ -11256,8 +11256,8 @@
       <tuv lang="EN-US">
         <seg>And what if a window triggers multiple times?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052851Z" creationid="xccui" creationdate="20190806T052851Z">
-        <seg>进一步，如果窗口会多次触发计算又该如何？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T053030Z" creationid="xccui" creationdate="20190806T052851Z">
+        <seg>再进一步，如果窗口会多次触发计算又该如何处理？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20403,6 +20403,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T153919Z" creationid="xingcan" creationdate="20190801T152752Z">
         <seg>为应对该问题，Flink提供了三种重启策略：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink follows a simple and low-overhead approach to provide useful latency metric measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T053350Z" creationid="xccui" creationdate="20190806T053350Z">
+        <seg>为了提供一个实用的延迟指标测量手段，Flink选取了一个非常简单且开销低的方法。</seg>
       </tuv>
     </tu>
     <tu>
