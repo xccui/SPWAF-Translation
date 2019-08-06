@@ -52153,6 +52153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can imagine how a precise implementation of this definition can get problematic in practice if we try to track the latency per event in a high-rate streaming job with a complex dataflow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052204Z" creationid="xccui" creationdate="20190806T052204Z">
+        <seg>但如果我们想在Dataflow十分复杂的高速流式作业中追踪每个事件的延迟，那么实现精准测量所带来的问题可想而知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can import the project in your IDE following the steps we described in the previ‐ ous section or you can execute the following command to build a JAR file:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T010443Z" creationid="xccui" creationdate="20190612T010248Z">
