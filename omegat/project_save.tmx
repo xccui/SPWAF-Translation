@@ -14895,6 +14895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Considering window operators complicate latency tracking even further, if an event contributes to several windows, do we need to report the latency of the first invocation or do we need to wait until we evaluate all windows an event might belong to?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052332Z" creationid="xccui" creationdate="20190806T052332Z">
+        <seg>而窗口算子将会使延迟追踪变得更加复杂：如果事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consistent Checkpoints</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T154728Z" creationid="xccui" creationdate="20190225T022145Z">
@@ -52155,8 +52163,8 @@
       <tuv lang="EN-US">
         <seg>You can imagine how a precise implementation of this definition can get problematic in practice if we try to track the latency per event in a high-rate streaming job with a complex dataflow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052204Z" creationid="xccui" creationdate="20190806T052204Z">
-        <seg>但如果我们想在Dataflow十分复杂的高速流式作业中追踪每个事件的延迟，那么实现精准测量所带来的问题可想而知。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052359Z" creationid="xccui" creationdate="20190806T052204Z">
+        <seg>但如果想在Dataflow十分复杂的高速流式作业中追踪每个事件的延迟，那么实现精准测量所带来的问题可想而知。</seg>
       </tuv>
     </tu>
     <tu>
