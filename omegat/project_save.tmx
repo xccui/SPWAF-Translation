@@ -29183,6 +29183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of trying to strictly measure latency for each and every event, it approximates latency by periodically emitting a special record at the sources and allowing users to track how long it takes for this record to arrive at the sinks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T054442Z" creationid="xccui" creationdate="20190806T054442Z">
+        <seg>它没有严格测量每个事件的延迟，而是通过在数据源周期性地发出一些特殊记录并允许用户跟踪它们到达数据汇的时间来近似估计延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of using a SerializationSchema to convert records into byte arrays, you can also specify a KeyedSerializationSchema, which serializes a record into two byte arrays—one for the key and one for the value of a Kafka message.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T152718Z" creationid="xingcan" creationdate="20190709T152718Z">
