@@ -37256,6 +37256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sink operators keep statistics on latency markers received per parallel source instance, thus checking the latency marker at sinks can be used to approximate how long it takes for records to traverse the dataflow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T063345Z" creationid="xccui" creationdate="20190806T063345Z">
+        <seg>数据汇算子会为每个数据源的并行实例分别保存延迟标记的统计信息，因此通过检查数据汇的延迟标记可以估计出记录流遍整个Dataflow所需的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SinkFunction in Example 8-12 neither performs idempotent writes nor features</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T032219Z" creationid="xccui" creationdate="20190714T032219Z">
