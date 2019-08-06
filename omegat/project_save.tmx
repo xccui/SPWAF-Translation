@@ -28919,6 +28919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In “Latency” on page 20, we defined latency broadly as the time it takes to process an event.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T050546Z" creationid="xccui" creationdate="20190806T050546Z">
+        <seg>在第20页的"延迟"一节中，我们宽泛地将延迟定义为处理事件所需的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In “Savepoints”, we explained that each state in a savepoint can be addressed by a composite identifier consisting of a unique operator identifier and the state name declared by the state descriptor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T023759Z" creationid="xccui" creationdate="20190705T023759Z">
