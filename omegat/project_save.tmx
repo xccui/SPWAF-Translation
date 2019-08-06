@@ -30839,6 +30839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Latency markers use the same dataflow channels and queues as normal stream records, thus their tracked latency reflects the time records wait to be processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T062630Z" creationid="xccui" creationdate="20190806T062630Z">
+        <seg>延迟标记和普通流记录共享Dataflow通道和队列，因此它们所追踪的延迟能够反映出记录等待处理的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Latency vs. throughput</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T202243Z" creationid="xccui" creationdate="20190402T202238Z">
@@ -48580,6 +48588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T150247Z" creationid="xccui" creationdate="20190606T150247Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upon receiving a latency marker, all opera‐ tors except sinks forward it downstream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T055151Z" creationid="xccui" creationdate="20190806T055151Z">
+        <seg>在收到延迟标记后，除数据汇以外的所有算子都会将它们转发到下游。</seg>
       </tuv>
     </tu>
     <tu>
