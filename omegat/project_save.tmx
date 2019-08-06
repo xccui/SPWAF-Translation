@@ -47528,6 +47528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To enable latency tracking, you need to configure how often latency markers are emitted from the sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T054824Z" creationid="xccui" creationdate="20190806T054824Z">
+        <seg>为了启用延迟追踪，你需要配置从数据源发出延迟标记的频率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To ensure an application can make enough progress, you can configure a minimum pause between checkpoints.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202335Z" creationid="xccui" creationdate="20190731T202019Z">
