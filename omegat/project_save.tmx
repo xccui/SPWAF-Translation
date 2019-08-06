@@ -46752,6 +46752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This special record is called a latency marker, and it bears a timestamp indicating when it was emitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T054715Z" creationid="xccui" creationdate="20190806T054715Z">
+        <seg>这些特殊的记录被称为延迟标记（latency marker），每个延迟标记都带有一个表明它们何时发出的时间戳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This state can be updated by incoming events and can be used in the processing logic of future events.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190405T040548Z" creationid="xccui" creationdate="20190405T040313Z">
