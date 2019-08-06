@@ -24327,6 +24327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, they do not measure the time it takes for records to be processed or the time that records wait in state until they are processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T062842Z" creationid="xccui" creationdate="20190806T062842Z">
+        <seg>然而，它们无法测量记录处理所需的时间或记录在状态中等待处理的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they do not meet the latency requirements for many of today’s use cases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T153957Z" creationid="xccui" creationdate="20190604T055430Z">
