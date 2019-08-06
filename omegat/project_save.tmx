@@ -33728,6 +33728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operators keep latency statistics in a latency gauge that contains min, max, and mean values, as well as 50, 95, and 99 percentile values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T063100Z" creationid="xccui" creationdate="20190806T063100Z">
+        <seg>算子会将延迟统计信息保存在Gauge指标中，其中包含最小值，最大值，平均值以及50、95和99百分位数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operators that extend GenericWriteAheadSink need to provide three constructor parameters:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060843Z" creationid="xccui" creationdate="20190715T060843Z">
