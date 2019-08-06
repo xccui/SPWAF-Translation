@@ -69,3 +69,4 @@ key group	键值组
 parallelism	并行度
 public interface	公开接口
 detached mode	分离模式
+latency marker	延迟标记
