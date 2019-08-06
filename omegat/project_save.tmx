@@ -25615,6 +25615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you would like to customize the handling the latency marker at opera‐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T063411Z" creationid="xccui" creationdate="20190806T063411Z">
+        <seg>如果你想在算子中自定义延迟标记处理逻辑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you, for example, specify fs.default-scheme: hdfs://nnode1:9000, the path /result will be extended to hdfs://nnode1:9000/result.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045346Z" creationid="xccui" creationdate="20190722T045346Z">
@@ -60517,6 +60525,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T052104Z" creationid="xccui" creationdate="20190606T205535Z">
         <seg>对基于时间的算子任务而言，其收集和处理的记录可能会包含乱序的时间戳。这些算子只有当自己的事件时间时钟（由接收的水位线驱动）指示不必再等那些包含相关时间戳的记录时，才会最终触发计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tors, you can override the processLatencyMarker() method and retrieve the relevant information using the LatencyMarker’s methods getMarkedTime(), getVertexId(), and getSubTaskIndex().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T063606Z" creationid="xccui" creationdate="20190806T063606Z">
+        <seg>可以覆盖processLatencyMarker()方法，在其中使用LatencyMarker的getMarkedTime()、getVertexId()和getSubTaskIndex()方法获取相关信息。</seg>
       </tuv>
     </tu>
     <tu>
