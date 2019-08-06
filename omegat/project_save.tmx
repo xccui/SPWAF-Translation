@@ -42672,6 +42672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The interval is specified in milliseconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T055102Z" creationid="xccui" creationdate="20190806T055102Z">
+        <seg>间隔以毫秒为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The interval join currently only supports event time and operates with INNER JOIN</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025409Z" creationid="xccui" creationdate="20190628T025409Z">
@@ -52129,6 +52137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can do this by setting the latencyTrackingInterval in the ExecutionConfig as shown here:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T055029Z" creationid="xccui" creationdate="20190806T055029Z">
+        <seg>该工作可以像下面这样，通过在ExecutionConfig中设置latencyTrackingInterval来完成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can either download and extract a source distribution of Flink or clone the Git repository.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T033727Z" creationid="xccui" creationdate="20190730T033727Z">
@@ -55053,6 +55069,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045802Z" creationid="xccui" creationdate="20190620T045802Z">
         <seg>env.getConfig.setAutoWatermarkInterval(5000)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>env.getConfig.setLatencyTrackingInterval(500L)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T055032Z" creationid="xccui" creationdate="20190806T055032Z">
+        <seg>env.getConfig.setLatencyTrackingInterval(500L)</seg>
       </tuv>
     </tu>
     <tu>
