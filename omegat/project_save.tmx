@@ -14897,8 +14897,8 @@
       <tuv lang="EN-US">
         <seg>Considering window operators complicate latency tracking even further, if an event contributes to several windows, do we need to report the latency of the first invocation or do we need to wait until we evaluate all windows an event might belong to?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052332Z" creationid="xccui" creationdate="20190806T052332Z">
-        <seg>而窗口算子将会使延迟追踪变得更加复杂：如果事件</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T052758Z" creationid="xccui" creationdate="20190806T052332Z">
+        <seg>而窗口算子将会使延迟追踪变得更加复杂。如果事件被同时分配到多个窗口，那么我们应该以第一次窗口调用的延迟为准还是等它所有参与的窗口都计算完后再来测量？</seg>
       </tuv>
     </tu>
     <tu>
