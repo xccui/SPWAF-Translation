@@ -15679,6 +15679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DataSet programs are speci‐ fied as a series of transformations just like DataStream programs with the difference that a DataSet is a bounded data collection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T153613Z" creationid="xingcan" creationdate="20190807T153613Z">
+        <seg>DataSet程序和DataStream程序一样，都是由一系列转换操作组成；但二者的不同在于DataSet是一个有界的数据集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DataStream but reorganize it by partitioning or grouping.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052753Z" creationid="xccui" creationdate="20190612T052753Z">
