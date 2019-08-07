@@ -22265,8 +22265,8 @@
       <tuv lang="EN-US">
         <seg>For instance, the following line sets the root logging level to “warning”:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034553Z" creationid="xccui" creationdate="20190807T034553Z">
-        <seg>例如，下面一行配置将根日志记录级别设置为"warning"：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035203Z" creationid="xccui" creationdate="20190807T034553Z">
+        <seg>例如，下面一行配置会将根日志记录级别设置为"warning"：</seg>
       </tuv>
     </tu>
     <tu>
@@ -47866,8 +47866,8 @@
       <tuv lang="EN-US">
         <seg>To set a custom filename and location of this file, pass the -Dlog4j.configuration= parameter to the JVM. Flink also provides the log4j-cli.properties file used by the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035004Z" creationid="xccui" creationdate="20190807T035004Z">
-        <seg>如果要使用自定义文件名和位置的配置文件，可以通过-Dlog4j.configuration=parameter的方式将参数传递给JVM。Flink还为命令行客户端提供了log4j-cli.properties文件以及为启用YARN会话的命令行客户端提供了log4j-yarn-session.properties文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035306Z" creationid="xccui" creationdate="20190807T035004Z">
+        <seg>如果要使用自定义文件名和位置的配置文件，可以通过-Dlog4j.configuration=parameter的方式将参数传递给JVM。Flink还为命令行客户端提供了log4j-cli.properties文件，为启用YARN会话的命令行客户端提供了log4j-yarn-session.properties文件。</seg>
       </tuv>
     </tu>
     <tu>
