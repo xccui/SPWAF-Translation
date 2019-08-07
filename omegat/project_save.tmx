@@ -10318,6 +10318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again, we hope you walk away from this book with a better understanding of the capabilities and possibilities of Apache Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T053855Z" creationid="xccui" creationdate="20190807T053855Z">
+        <seg>我们希望在读完本书后能够对Apache Flink的功能和潜力有一个更好的理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AggregateFunction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002621Z" creationid="xccui" creationdate="20190624T002621Z">
