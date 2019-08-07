@@ -13007,6 +13007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beware of Clock Skew</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T032712Z" creationid="xccui" creationdate="20190807T032712Z">
+        <seg>小心时钟偏差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black squares are duplicated, and gray squares are filtered out.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054533Z" creationid="xccui" creationdate="20190613T054410Z">
