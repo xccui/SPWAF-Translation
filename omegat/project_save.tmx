@@ -12863,6 +12863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch jobs are internally represented as dataflow programs and run on the same underlying execution runtime as streaming jobs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T154250Z" creationid="xingcan" creationdate="20190807T154250Z">
+        <seg>在内部，批处理作业同样会表示为Dataflow程序并和流式作业共享底层运行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T200742Z" creationid="esouser" creationdate="20190603T200742Z">
@@ -49124,6 +49132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024618Z" creationid="xccui" creationdate="20190225T024618Z">
         <seg>使用CheckpointedFunction接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the DataSet API you can also define iterative Flink programs that exe‐ cute a loop function for a fixed number of steps or until a convergence criterion is met.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T154201Z" creationid="xingcan" creationdate="20190807T154201Z">
+        <seg>你还可以使用DataSet API定义用于迭代的Flink程序，它们可以以固定次数执行循环函数或直至满足收敛调节。</seg>
       </tuv>
     </tu>
     <tu>
