@@ -20663,6 +20663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink is a full-fledged batch processor and can be used to implement use cases requir‐ ing one-off or periodic queries on bounded input data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T153249Z" creationid="xingcan" creationdate="20190807T153249Z">
+        <seg>Flink其实还是一个成熟的批处理引擎，我们可以用它来实现对有界数据的一次性或定期查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink is able to run streaming applications 24/7 with very little downtime due to its highly-available setup (no single point of failure), a tight integration with Kubernetes, YARN, and Apache Mesos, fast recovery from failures, and the abil&lt;t0/&gt;‐&lt;t1/&gt; ity to dynamically scale jobs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T052002Z" creationid="xccui" creationdate="20190328T051545Z">
