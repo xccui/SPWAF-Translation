@@ -10320,8 +10320,8 @@
       <tuv lang="EN-US">
         <seg>Again, we hope you walk away from this book with a better understanding of the capabilities and possibilities of Apache Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T053855Z" creationid="xccui" creationdate="20190807T053855Z">
-        <seg>我们希望在读完本书后能够对Apache Flink的功能和潜力有一个更好的理解。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T054701Z" creationid="xccui" creationdate="20190807T053855Z">
+        <seg>我们希望你在读完本书后能够对Apache Flink的功能和潜力有一个更深的理解。</seg>
       </tuv>
     </tu>
     <tu>
