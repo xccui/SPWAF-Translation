@@ -13455,6 +13455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, Flink uses the SLF4J logging abstraction together with the log4j logging framework.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T033042Z" creationid="xccui" creationdate="20190807T033042Z">
+        <seg>默认情况下，Flink使用SLF4J日志抽象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, Flink will not start applications that do not restore all states that are con‐ tained in a savepoint to avoid losing the state in the savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043338Z" creationid="xccui" creationdate="20190705T043338Z">
@@ -28327,6 +28335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, latency-tracking estimation will not be reliable, as its current implementation assumes synchronized clocks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T032936Z" creationid="xccui" creationdate="20190807T032936Z">
+        <seg>在该情况下，延迟追踪的估计值将变得不可靠，因为目前的实现是以时钟同步为前提。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, some stateful operators run special logic to initialize their state.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032536Z" creationid="xccui" creationdate="20190726T032536Z">
@@ -31099,6 +31115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190312T212225Z" creationid="xccui" creationdate="20190308T074008Z">
         <seg>只需要访问本地状态。和查询远程数据存储系统相比，读写本地内存或磁盘性能会更好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logging is another essential tool for debugging and understanding the behavior of your applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T033020Z" creationid="xccui" creationdate="20190807T033020Z">
+        <seg>日志是你调试和理解应用行为的另一个重要工具。</seg>
       </tuv>
     </tu>
     <tu>
