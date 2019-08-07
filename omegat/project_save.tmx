@@ -17063,6 +17063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though the underlying DataStream and DataSet APIs are separate, you can implement unified stream and batch analytics in Flink using its higher-level relational APIs: Table API and SQL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T160611Z" creationid="xingcan" creationdate="20190807T160611Z">
+        <seg>虽然Flink底层DataStream和DataSet的API是分开的，但你可以使用高层次的关系型API——Table API和SQL，实现流批一体的分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though time information and watermarks are crucial to many streaming appli‐ cations, you might have noticed that we cannot access them through the basic Data‐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043212Z" creationid="xccui" creationdate="20190621T043212Z">
@@ -35088,6 +35096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queries can be executed for batch or streaming analysis without modification.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T160754Z" creationid="xingcan" creationdate="20190807T160754Z">
+        <seg>你无须修改查询就可以将它们用于批或流的分析之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Queryable State</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T151202Z" creationid="xccui" creationdate="20190225T024940Z">
@@ -40820,6 +40836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T151903Z" creationid="xingcan" creationdate="20190802T151903Z">
         <seg>Summary页面会对检查点的统计信息进行聚合，提供所有已完成检查点的最小、最大和平均值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Table API is a language-integrated query (LINQ) API for Scala and Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T160709Z" creationid="xingcan" creationdate="20190807T160709Z">
+        <seg>Table API是一个在Scala和Java之上的LINQ（language-integrated query语言集成查询） API。</seg>
       </tuv>
     </tu>
     <tu>
