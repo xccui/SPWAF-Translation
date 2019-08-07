@@ -16407,6 +16407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to extensive support for user-defined functions, a wide variety of use cases can be covered by SQL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161258Z" creationid="xingcan" creationdate="20190807T161258Z">
+        <seg>由于支持广泛的用户自定义函数，很多用例都可以直接用SQL来完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to its checkpointing mechanism, Flink can achieve very good performance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163923Z" creationid="xccui" creationdate="20190702T163923Z">
@@ -52685,6 +52693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T033727Z" creationid="xccui" creationdate="20190730T033727Z">
         <seg>你可以下载并解压Flink源码发行版或将Git仓库克隆下来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can embed SQL queries into regular Flink DataSet and DataStream programs or directly submit SQL queries to a Flink cluster using the SQL CLI client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161354Z" creationid="xingcan" creationdate="20190807T161354Z">
+        <seg>你可以将SQL查询嵌入到常规的Flink DataSet或DataStream程序中，或使用SQL CLI客户端直接将SQL查询提交到Flink集群上。</seg>
       </tuv>
     </tu>
     <tu>
