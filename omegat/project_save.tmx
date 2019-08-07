@@ -26695,6 +26695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, you can use the CLI client to submit detached queries that directly write their results into external storage systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161705Z" creationid="xingcan" creationdate="20190807T161705Z">
+        <seg>此外，你还可以使用CLI客户端提交分离式查询，让其直接将结果写入外部存储系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, you need to provide a JSON object with the path to the savepoint folder and a flag telling whether or not to terminate the application with the savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181108Z" creationid="xccui" creationdate="20190729T181027Z">
@@ -39884,6 +39892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T212110Z" creationid="xccui" creationdate="20190710T212110Z">
         <seg>我们可以使用构建器的withBucketAssigner()方法配置BucketAssigner。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The CLI client lets you retrieve and visualize query results in the command line, which makes it a great tool to try out and debug Flink SQL queries or run exploratory queries on streaming or batch data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161536Z" creationid="xingcan" creationdate="20190807T161536Z">
+        <seg>CLI客户端允许你在命令行中获取和可视化查询结果，这使它成为一个在流式或批式数据上调试Flink SQL查询或运行探索式查询的绝佳工具。</seg>
       </tuv>
     </tu>
     <tu>
