@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8384,8 +8384,8 @@
       <tuv lang="EN-US">
         <seg>A Welcoming Community | 283</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040640Z" creationid="xccui" creationdate="20190807T040640Z">
-        <seg>社区欢迎你 | 283</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T152359Z" creationid="xccui" creationdate="20190807T040640Z">
+        <seg>欢迎加入社区 | 283</seg>
       </tuv>
     </tu>
     <tu>
