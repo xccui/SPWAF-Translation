@@ -45616,6 +45616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There exists a vibrant community around Flink and we encourage you to connect with other users, start contributing, or find out what companies are building with Flink to help inspire your own work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T052109Z" creationid="xccui" creationdate="20190807T052109Z">
+        <seg>围绕Flink有一个充满活力的社区，我们鼓励你接触一下其他用户，开始为社区做一些贡献或从别的Flink公司用户那里寻求一些启发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is also a service that exposes the ports of the master pod to the worker pods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T024632Z" creationid="xccui" creationdate="20190720T024529Z">
@@ -50290,8 +50298,8 @@
       <tuv lang="EN-US">
         <seg>We will provide you with a brief tour of the additional Flink function‐ ality not included in this book and give you some pointers to further Flink resources.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T042000Z" creationid="xccui" creationdate="20190807T042000Z">
-        <seg>我们将向你简要介绍书中没有涵盖的Flink其他功能，并为你提供更多额外的Flink资源信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T042143Z" creationid="xccui" creationdate="20190807T042000Z">
+        <seg>我们将向你简要介绍书中没有涵盖的Flink其他功能，并为你提供更多Flink相关资源的信息。</seg>
       </tuv>
     </tu>
     <tu>
