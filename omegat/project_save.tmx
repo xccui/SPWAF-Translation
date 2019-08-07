@@ -25359,6 +25359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are not using an automatic clock synchronization service such as NTP, your machines' clocks might suffer from clock skew.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T032811Z" creationid="xccui" creationdate="20190807T032811Z">
+        <seg>如果你没有使用类似NTP的自动时钟同步服务，那么你机器的时钟可能会受到时钟偏差的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are running Windows, we recom&lt;t2/&gt;‐&lt;t3/&gt; mend to set up a virtual machine with Linux, Cygwin (a Linux environment for Win&lt;t4/&gt;‐&lt;t5/&gt; dows), or the Windows Subsystem for Linux, which was introduced with Windows 10.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T060249Z" creationid="xccui" creationdate="20190328T055732Z">
