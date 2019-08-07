@@ -23831,6 +23831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here are a few resources you can use to ask questions, attend Flink-related events, and learn what people use Flink for:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163944Z" creationid="xingcan" creationdate="20190807T163944Z">
+        <seg>下面列出的一些资源可供你提问问题，参与Flink相关的活动，并了解Flink的使用情况：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here is an example that processes a stream of Long values and increments each element:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070614Z" creationid="xccui" creationdate="20190616T070438Z">
