@@ -6198,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>246 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040121Z" creationid="xccui" creationdate="20190807T040121Z">
+        <seg>246 | 第10章：Flink和流式应用运维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>247</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040319Z" creationid="xccui" creationdate="20190418T040319Z">
