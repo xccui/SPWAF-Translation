@@ -20279,6 +20279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink SQL follows the ANSI SQL standard and leverages Apache Calcite for query parsing and optimization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161015Z" creationid="xingcan" creationdate="20190807T161015Z">
+        <seg>Flink SQL遵循ANSI SQL标准，并使用Apache Calcite来完成查询解析和优化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink Web UI</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030126Z" creationid="xccui" creationdate="20190225T030126Z">
@@ -21107,6 +21115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T053425Z" creationid="xccui" creationdate="20190617T053425Z">
         <seg>Flink为Java和Scala提供了两个工具类，其中的静态方法可以用来生成TypeInformation。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flink provides unified syntax and semantics for batch and streaming queries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161106Z" creationid="xingcan" creationdate="20190807T161106Z">
+        <seg>Flink为批式和流式查询提供了统一的语法和语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30371,6 +30387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T210529Z" creationid="xccui" creationdate="20190718T210529Z">
         <seg>它负责管理集群环境下的计算资源——集群机器的CPU和内存，并将它们提供给请求资源的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It offers com‐ mon operators to write relational queries including selection, projection, aggrega‐ tions, and joins and further has IDE support for autocompletion and syntax validation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T160918Z" creationid="xingcan" creationdate="20190807T160918Z">
+        <seg>它提供了通用的算子来完成关系型查询，包括选择、投影、聚合及连接，此外还支持IDE自动补全和语法验证。</seg>
       </tuv>
     </tu>
     <tu>
