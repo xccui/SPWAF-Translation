@@ -29935,6 +29935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It builds on top of the DataSet API and Flink’s support for efficient batch iterations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T162215Z" creationid="xingcan" creationdate="20190807T162215Z">
+        <seg>它建立在DataSet API和Flink的高效批量迭代支持之上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be accessed by users and scripts and provides access to all system and application metrics as well as endpoints to submit and manage appli‐ cations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T013909Z" creationid="xccui" creationdate="20190726T013818Z">
