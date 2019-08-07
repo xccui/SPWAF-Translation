@@ -39944,6 +39944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DataSet API provides operators to perform filtering, mapping, selection, joins, and groupings, as well as connectors to read and write datasets from and to external systems, such as filesystems and data‐ bases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T153929Z" creationid="xingcan" creationdate="20190807T153929Z">
+        <seg>DataSet API提供了用于过滤、映射、选择、连接以及分组的算子，同时还有从外部系统（如文件系统和数据库）读写数据集的连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DataStream API (v1.7)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T014854Z" creationid="xccui" creationdate="20190612T014854Z">
