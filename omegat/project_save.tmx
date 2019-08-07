@@ -8382,6 +8382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Welcoming Community | 283</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040640Z" creationid="xccui" creationdate="20190807T040640Z">
+        <seg>社区欢迎你 | 283</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A WindowAssigner is typed to the type of the incoming elements and the type of the windows to which the elements are assigned.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042056Z" creationid="xccui" creationdate="20190626T042056Z">
@@ -13103,6 +13111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040541Z" creationid="xccui" creationdate="20190807T040541Z">
+        <seg>博客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bob and Alice play the same game but have different mobile pro‐ viders.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T160457Z" creationid="xccui" creationdate="20190606T024443Z">
@@ -13835,6 +13851,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043126Z" creationid="xccui" creationdate="20190725T043126Z">
         <seg>第10章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 11</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040353Z" creationid="xccui" creationdate="20190807T040353Z">
+        <seg>第11章</seg>
       </tuv>
     </tu>
     <tu>
@@ -31295,6 +31319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040413Z" creationid="xccui" creationdate="20190807T040413Z">
+        <seg>邮件列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Memory and Network Buffers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025555Z" creationid="xccui" creationdate="20190225T025555Z">
@@ -31467,6 +31499,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T032331Z">
         <seg>如示例9-1所示，主容器和工作容器可以从同一个Docker镜像启动，只不过二者的参数不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetups and conferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040556Z" creationid="xccui" creationdate="20190807T040556Z">
+        <seg>聚会及会议</seg>
       </tuv>
     </tu>
     <tu>
@@ -49784,6 +49824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We encourage you to become an active part of its community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040757Z" creationid="xccui" creationdate="20190807T040757Z">
+        <seg>欢迎你成为社区的一员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We examined the structure of Flink programs and learned how to combine data and partitioning trans‐ formations to build streaming applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T044025Z" creationid="xccui" creationdate="20190619T044025Z">
@@ -51445,6 +51493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T033842Z" creationid="xccui" creationdate="20190715T033842Z">
         <seg>无论是幂等性数据汇不适用于应用的输出特性或所需数据汇系统属性的情况，还是出于更严格的一致性要求，我们都可以选择事务性数据汇连接器作为替代方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where to Go from Here?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040359Z" creationid="xccui" creationdate="20190807T040359Z">
+        <seg>还有什么？</seg>
       </tuv>
     </tu>
     <tu>
@@ -54529,6 +54585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>community@flink.apache.org : community news and meetups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040538Z" creationid="xccui" creationdate="20190807T040538Z">
+        <seg>community@flink.apache.org：社区新闻和聚会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>compared to event time as it does not provide deterministic results and has simi‐ lar performance as event time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071915Z" creationid="xccui" creationdate="20190619T071915Z">
@@ -55189,6 +55253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T045209Z" creationid="xccui" creationdate="20190606T141058Z">
         <seg>我们主要讨论两类部署Flink应用的方式以及它们如何分配和执行任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dev@flink.apache.org : development, release, and community discussions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040520Z" creationid="xccui" creationdate="20190807T040520Z">
+        <seg>dev@flink.apache.org：开发，发布和社区讨论</seg>
       </tuv>
     </tu>
     <tu>
@@ -56129,10 +56201,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>https://flink-forward.org</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040558Z" creationid="xccui" creationdate="20190807T040558Z">
+        <seg>https://flink-forward.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://flink.apache.org/blog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040543Z" creationid="xccui" creationdate="20190807T040543Z">
+        <seg>https://flink.apache.org/blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>https://github.com/streaming-with-flink.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210814Z" creationid="esouser" creationdate="20190603T210814Z">
         <seg>https://github.com/streaming-with-flink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://www.meetup.com/topics/apache-flink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040627Z" creationid="xccui" creationdate="20190807T040627Z">
+        <seg>https://www.meetup.com/topics/apache-flink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://www.ververica.com/blog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040546Z" creationid="xccui" creationdate="20190807T040546Z">
+        <seg>https://www.ververica.com/blog</seg>
       </tuv>
     </tu>
     <tu>
@@ -61061,6 +61165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T025350Z" creationid="xccui" creationdate="20190620T025350Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user@flink.apache.org : user support and questions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040456Z" creationid="xccui" creationdate="20190807T040456Z">
+        <seg>user@flink.apache.org：用户支持和问题提问</seg>
       </tuv>
     </tu>
     <tu>
