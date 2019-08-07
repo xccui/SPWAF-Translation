@@ -29993,8 +29993,8 @@
       <tuv lang="EN-US">
         <seg>It has been a long journey and you have made it to the end of this book!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T041235Z" creationid="xccui" creationdate="20190807T040935Z">
-        <seg>经过漫长的努力，你已接近本书的末尾！</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T041543Z" creationid="xccui" creationdate="20190807T040935Z">
+        <seg>漫长的旅途过后，你已到达本书的尾章！</seg>
       </tuv>
     </tu>
     <tu>
@@ -50284,6 +50284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T224913Z" creationid="xccui" creationdate="20190608T224902Z">
         <seg>而是使用了一种更加复杂的检查点算法，我们会在本节后面介绍该算法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will provide you with a brief tour of the additional Flink function‐ ality not included in this book and give you some pointers to further Flink resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T042000Z" creationid="xccui" creationdate="20190807T042000Z">
+        <seg>我们将向你简要介绍书中没有涵盖的Flink其他功能，并为你提供更多额外的Flink资源信息。</seg>
       </tuv>
     </tu>
     <tu>
