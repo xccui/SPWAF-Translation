@@ -14527,6 +14527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Common CEP use cases include financial applications, fraud detection, monitoring and alerting in complex systems, and detecting network intru‐ sion or suspicious user behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T162045Z" creationid="xingcan" creationdate="20190807T162045Z">
+        <seg>常见的CEP用例包括金融应用，欺诈检测，复杂系统中的监控和报警，以及检测网络入侵或可以用户行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common antipatterns that must be avoided include:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T213432Z" creationid="xccui" creationdate="20190716T213432Z">
@@ -21375,6 +21383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FlinkCEP is a high-level API and library for complex event pattern detection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161904Z" creationid="xingcan" creationdate="20190807T161904Z">
+        <seg>FlinkCEP是一个用于复杂事件模式检测的高层次的API库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FlinkKafkaConsumer.setStartFromEarliest()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190709T040250Z" creationid="xccui" creationdate="20190709T040250Z">
@@ -22995,6 +23011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152554Z" creationid="esouser" creationdate="20190603T152554Z">
         <seg>用于图计算的Gelly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gelly is Flink’s graph processing API and library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T162101Z" creationid="xingcan" creationdate="20190807T162101Z">
+        <seg>Gelly是Flink的图计算API库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30203,6 +30227,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190409T201950Z" creationid="xccui" creationdate="20190409T201839Z">
         <seg>了解如何在这种情况下提供精准、确定的结果就变得至关重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is implemented on top of the DataStream API and lets you specify patterns you want to detect in your stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161958Z" creationid="xingcan" creationdate="20190807T161958Z">
+        <seg>它基于DataStream API实现，允许你指定在数据流中期望检测到的模式。</seg>
       </tuv>
     </tu>
     <tu>
