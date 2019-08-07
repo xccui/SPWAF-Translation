@@ -15359,6 +15359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently, the two APIs use separate execution environments and cannot be mixed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T154439Z" creationid="xingcan" creationdate="20190807T154439Z">
+        <seg>目前，这两类API都有各自独立的执行环境，还无法混合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050033Z" creationid="xccui" creationdate="20190616T050033Z">
