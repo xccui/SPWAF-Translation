@@ -23023,6 +23023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gelly provides high-level program‐ ming abstractions in both Java and Scala to perform graph transformations, aggrega‐ tions, and iterative processing such as vertex-centric and gather-sum-apply.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T162701Z" creationid="xingcan" creationdate="20190807T162701Z">
+        <seg>Gelly提供了高层次的编程抽象（Java和Scala）以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GenericWriteAheadSink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T040330Z" creationid="xccui" creationdate="20190715T040330Z">
