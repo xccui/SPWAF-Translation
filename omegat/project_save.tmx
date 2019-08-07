@@ -28519,6 +28519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter, we discussed how to run, manage, and monitor Flink applications in production.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035730Z" creationid="xccui" creationdate="20190807T035730Z">
+        <seg>本章我们讨论了如何在生产环境中运行、管理和监控Flink应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this chapter, we give a high-level introduction to Flink’s architecture and describe how Flink addresses the aspects of stream processing we discussed earlier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T042917Z" creationid="xccui" creationdate="20190606T140002Z">
@@ -49696,6 +49704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We explained the Flink component that collects and exposes system and application metrics, how to configure a logging system, and how to start, stop, resume, and rescale applications with the command-line client and the REST API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040107Z" creationid="xccui" creationdate="20190807T040107Z">
+        <seg>我们介绍了用于收集和公开系统及应用指标的Flink组件，还向你展示了如何配置日志系统，如何使用命令行客户端和REST API来启动、停止、恢复应用和对其进行扩缩容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We express these performance requirements in terms of &lt;t4/&gt;latency &lt;t5/&gt;and&lt;t6/&gt; throughput&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T151521Z" creationid="xccui" creationdate="20190401T151311Z">
@@ -49860,6 +49876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T043829Z" creationid="xccui" creationdate="20190718T043829Z">
         <seg>详细信息请参阅Apache Flink的官方文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We refer you to Flink’s documentation and the logback manual for details on how to set up and configure the backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035648Z" creationid="xccui" creationdate="20190807T035625Z">
+        <seg>有关如何搭建和配置logback后端的详细信息，请参阅Flink文档和logback用户手册。</seg>
       </tuv>
     </tu>
     <tu>
