@@ -11638,6 +11638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Flink has a growing and welcoming community with contributors and users all around the world.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163849Z" creationid="xingcan" creationdate="20190807T163849Z">
+        <seg>Apache Flink拥有一个不断成长的友好社区，其中的贡献者和用户来自全球各地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apache Flink is a distributed stream processor of the third generation with a compet&lt;t0/&gt;‐&lt;t1/&gt; itive feature set.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T041127Z" creationid="xccui" creationdate="20190328T002907Z">
@@ -22507,6 +22515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T034052Z" creationid="xccui" creationdate="20190804T034052Z">
         <seg>举例而言，指标名称"myCounter"、用户域"MyMetrics"和系统域"localhost.taskmanager.512"将会生成标识"localhost.taskmanager.512.MyMetrics"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, you could extract patterns from a Data‐ Stream using the CEP library and later use SQL to analyze extrac‐ ted patterns or you could use the Table API to filter and project tables into graphs before analyzing them with a graph algorithm from the Gelly library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163720Z" creationid="xingcan" creationdate="20190807T163720Z">
+        <seg>例如，你可以使用CEP从DataStream中提取某一模式，随后用SQL来分析该模式，或者先用Table API对表进行过滤并投影到图中，再使用Gelly库中的图算法对其进行分析。</seg>
       </tuv>
     </tu>
     <tu>
