@@ -24359,6 +24359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Flink community is already working on unifying the two, and providing a single API for analysis of boun‐ ded and unbounded data streams in the same program is a priority in Flink’s future roadmap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T160413Z" creationid="xingcan" creationdate="20190807T160413Z">
+        <seg>但Flink社区正着力于将二者统一，并在未来规划中会优先提供一套API，使同一个程序能同时分析有界和无界的数据流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the Kuber‐ netes project provides Minikube, an environment to run a single- node Kubernetes cluster locally on a single machine for testing or daily development.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023646Z" creationid="xccui" creationdate="20190720T023512Z">
