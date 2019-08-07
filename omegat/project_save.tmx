@@ -21647,6 +21647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flink’s high-level APIs and interfaces are well integrated with each other and with the DataStream and DataSet APIs so that you can easily mix them and switch between libraries and APIs in the same program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163436Z" creationid="xingcan" creationdate="20190807T163436Z">
+        <seg>Flink的高层API及接口彼此之间，以及和DataStream、DataSet API都有良好的集成，因此你可以轻松将它们混在一起使用，并在同一个程序对API或库进行自由切换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flink’s histogram is especially implemented for reporting metrics on long values.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032606Z" creationid="xccui" creationdate="20190803T032606Z">
