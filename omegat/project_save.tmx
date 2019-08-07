@@ -10822,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternative to log4j is logback and Flink provides default configuration files for this backend as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035423Z" creationid="xccui" creationdate="20190807T035423Z">
+        <seg>如果不想用log4j，可将其换为logback。Flink同样为该后端提供了默认的配置文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An application can be canceled in two ways: with or without a savepoint.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183231Z" creationid="xccui" creationdate="20190726T183231Z">
@@ -47866,8 +47874,8 @@
       <tuv lang="EN-US">
         <seg>To set a custom filename and location of this file, pass the -Dlog4j.configuration= parameter to the JVM. Flink also provides the log4j-cli.properties file used by the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035306Z" creationid="xccui" creationdate="20190807T035004Z">
-        <seg>如果要使用自定义文件名和位置的配置文件，可以通过-Dlog4j.configuration=parameter的方式将参数传递给JVM。Flink还为命令行客户端提供了log4j-cli.properties文件，为启用YARN会话的命令行客户端提供了log4j-yarn-session.properties文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035313Z" creationid="xccui" creationdate="20190807T035004Z">
+        <seg>如果要使用自定义文件名和位置的配置文件，可以通过-Dlog4j.configuration=parameter的方式将参数传递给JVM。Flink还为命令行客户端提供了log4j-cli.properties文件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -47932,6 +47940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T031640Z" creationid="xccui" creationdate="20190803T031640Z">
         <seg>要使用Gauge，你需要实现org.apache.flink.metrics.Gauge接口并利用MetricGroup的gauge(String name, Gauge gauge)方法将其注册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use logback instead of log4j, you will need to remove log4j from the lib/ folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035513Z" creationid="xccui" creationdate="20190807T035513Z">
+        <seg>如果要用logback，需要从lib/文件夹中移除log4j。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54325,6 +54341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034336Z" creationid="xccui" creationdate="20190625T034336Z">
         <seg>收集全部事件的窗口其状态要大得多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>command-line client and the log4j-yarn-session.properties file used by the command- line client when starting a YARN session.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T035316Z" creationid="xccui" creationdate="20190807T035316Z">
+        <seg>为启用YARN会话的命令行客户端提供了log4j-yarn-session.properties文件。</seg>
       </tuv>
     </tu>
     <tu>
