@@ -13455,6 +13455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But your Flink journey has just started, and this chapter points to the possible paths you can take from here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T041050Z" creationid="xccui" creationdate="20190807T041050Z">
+        <seg>但你和Flink之间的故事才刚刚开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By calling setFlushOnCheck point(false) on the sink object, you can disable this waiting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161431Z" creationid="xingcan" creationdate="20190709T161357Z">
@@ -29979,6 +29987,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042929Z" creationid="xccui" creationdate="20190617T042929Z">
         <seg>有一个公有的无参默认构造函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has been a long journey and you have made it to the end of this book!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040935Z" creationid="xccui" creationdate="20190807T040935Z">
+        <seg>经过漫长的努力你已接近终点！</seg>
       </tuv>
     </tu>
     <tu>
