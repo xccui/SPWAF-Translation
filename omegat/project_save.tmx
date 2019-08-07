@@ -17457,8 +17457,16 @@
       <tuv lang="EN-US">
         <seg>Example 10-9 shows a MapFunction that logs every input record conversion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034037Z" creationid="xccui" creationdate="20190807T034037Z">
-        <seg>示例10-9展示的MapFunction会将每一个输入记录的转换写入日志。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034157Z" creationid="xccui" creationdate="20190807T034037Z">
+        <seg>示例10-9展示的MapFunction会将每一次输入记录转换都写入日志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-9.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034201Z" creationid="xccui" creationdate="20190807T034044Z">
+        <seg>示例10-9，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30779,6 +30787,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023820Z" creationid="xccui" creationdate="20190719T023820Z">
         <seg>为此，Kubernetes提供了Service。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOG.info("Converting value {} to string.", value)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034121Z" creationid="xccui" creationdate="20190807T034121Z">
+        <seg>LOG.info("Converting value {} to string.", value)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47552,6 +47568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the properties of log4j loggers, modify the log4j.properties file in the conf/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034457Z" creationid="xccui" creationdate="20190807T034457Z">
+        <seg>要修改log4j记录器的属性，请修改conf/目录中的log4j.properties文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To check if the request with the ID ebde90836b8b9dc2da90e9e7655f4179 was suc‐ cessful and to retrieve the path of the savepoint run:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T193624Z" creationid="xccui" creationdate="20190729T193624Z">
@@ -48780,6 +48804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044614Z" creationid="xccui" creationdate="20190620T044614Z">
         <seg>使用时间戳分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using logging in a MapFunction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034106Z" creationid="xccui" creationdate="20190807T034106Z">
+        <seg>在MapFunction中使用日志</seg>
       </tuv>
     </tu>
     <tu>
@@ -54065,6 +54097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class MyMapFunction extends MapFunction[Int, String] { Logger LOG = LoggerFactory.getLogger(MyMapFunction.class) override def map(value: Int): String = {</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034117Z" creationid="xccui" creationdate="20190807T034117Z">
+        <seg>class MyMapFunction extends MapFunction[Int, String] { Logger LOG = LoggerFactory.getLogger(MyMapFunction.class) override def map(value: Int): String = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>class MyMapFunction extends MapFunction[SensorReading, String] {</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T050721Z" creationid="xccui" creationdate="20190613T050721Z">
@@ -56129,10 +56169,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>import org.apache.flink.api.common.functions.MapFunction import org.slf4j.LoggerFactory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034109Z" creationid="xccui" creationdate="20190807T034109Z">
+        <seg>import org.apache.flink.api.common.functions.MapFunction import org.slf4j.LoggerFactory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>import org.apache.flink.streaming.api.scala._</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054850Z" creationid="xccui" creationdate="20190617T054850Z">
         <seg>import org.apache.flink.streaming.api.scala._</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>import org.slf4j.Logger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034114Z" creationid="xccui" creationdate="20190807T034114Z">
+        <seg>import org.slf4j.Logger</seg>
       </tuv>
     </tu>
     <tu>
@@ -62309,6 +62365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T011820Z" creationid="xccui" creationdate="20190606T011820Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value.toString</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034124Z" creationid="xccui" creationdate="20190807T034124Z">
+        <seg>value.toString</seg>
       </tuv>
     </tu>
     <tu>
