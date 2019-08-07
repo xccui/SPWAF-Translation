@@ -6214,10 +6214,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>248 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040131Z" creationid="xccui" creationdate="20190807T040131Z">
+        <seg>248 | 第10章：Flink和流式应用运维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>25</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T032750Z" creationid="xccui" creationdate="20190327T032750Z">
         <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>250 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040136Z" creationid="xccui" creationdate="20190807T040136Z">
+        <seg>250 | 第10章：Flink和流式应用运维</seg>
       </tuv>
     </tu>
     <tu>
@@ -6234,6 +6250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152340Z" creationid="esouser" creationdate="20190603T152340Z">
         <seg>252</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>252 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040143Z" creationid="xccui" creationdate="20190807T040143Z">
+        <seg>252 | 第10章：Flink和流式应用运维</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,6 +6318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>260 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040147Z" creationid="xccui" creationdate="20190807T040147Z">
+        <seg>260 | 第10章：Flink和流式应用运维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>261</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040350Z" creationid="xccui" creationdate="20190418T040350Z">
@@ -6306,6 +6338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040354Z" creationid="xccui" creationdate="20190418T040354Z">
         <seg>262</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>262 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040151Z" creationid="xccui" creationdate="20190807T040151Z">
+        <seg>262 | 第10章：Flink和流式应用运维</seg>
       </tuv>
     </tu>
     <tu>
@@ -6382,6 +6422,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>270 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040155Z" creationid="xccui" creationdate="20190807T040155Z">
+        <seg>270 | 第10章：Flink和流式应用运维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>272 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040201Z" creationid="xccui" creationdate="20190807T040201Z">
+        <seg>272 | 第10章：Flink和流式应用运维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>273</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152405Z" creationid="esouser" creationdate="20190603T152405Z">
@@ -6434,6 +6490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T152407Z" creationid="esouser" creationdate="20190603T152407Z">
         <seg>280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>280 | Chapter 10: Operating Flink and Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040206Z" creationid="xccui" creationdate="20190807T040206Z">
+        <seg>280 | 第10章：Flink和流式应用运维</seg>
       </tuv>
     </tu>
     <tu>
@@ -14631,6 +14695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring the Logging Behavior | 279</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040337Z" creationid="xccui" creationdate="20190807T040337Z">
+        <seg>配置日志行为 | 279</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuring the memory of a worker process is a bit more involved because there are multiple components that allocate different types of memory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T063400Z" creationid="xccui" creationdate="20190723T063400Z">
@@ -15027,6 +15099,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025953Z" creationid="xccui" creationdate="20190225T025953Z">
         <seg>控制任务调度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlling Task Scheduling | 261</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040234Z" creationid="xccui" creationdate="20190807T040234Z">
+        <seg>控制任务调度 | 261</seg>
       </tuv>
     </tu>
     <tu>
@@ -31599,6 +31679,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monitoring Flink Clusters and Applications | 271</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040302Z" creationid="xccui" creationdate="20190807T040302Z">
+        <seg>监控Flink集群及应用 | 271</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monitoring Flink Clusters and Applications | 273</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040315Z" creationid="xccui" creationdate="20190807T040315Z">
+        <seg>监控Flink集群及应用 | 273</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monitoring Latency</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T030141Z" creationid="xccui" creationdate="20190225T030141Z">
@@ -35980,6 +36076,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T025908Z" creationid="xccui" creationdate="20190225T025908Z">
         <seg>运行并管理流式应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running and Managing Streaming Applications | 247</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040215Z" creationid="xccui" creationdate="20190807T040215Z">
+        <seg>运行并管理流式应用 | 247</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running and Managing Streaming Applications | 251</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040220Z" creationid="xccui" creationdate="20190807T040220Z">
+        <seg>运行并管理流式应用 | 251</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running and Managing Streaming Applications | 253</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040225Z" creationid="xccui" creationdate="20190807T040225Z">
+        <seg>运行并管理流式应用 | 253</seg>
       </tuv>
     </tu>
     <tu>
@@ -48324,6 +48444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025948Z" creationid="xccui" creationdate="20190225T030028Z">
         <seg>调整检查点及恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuning Checkpointing and Recovery | 263</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040248Z" creationid="xccui" creationdate="20190807T040248Z">
+        <seg>调整检查点和恢复 | 263</seg>
       </tuv>
     </tu>
     <tu>
