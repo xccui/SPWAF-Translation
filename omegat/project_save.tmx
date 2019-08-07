@@ -13457,8 +13457,8 @@
       <tuv lang="EN-US">
         <seg>By default, Flink uses the SLF4J logging abstraction together with the log4j logging framework.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T033042Z" creationid="xccui" creationdate="20190807T033042Z">
-        <seg>默认情况下，Flink使用SLF4J日志抽象</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T033343Z" creationid="xccui" creationdate="20190807T033042Z">
+        <seg>默认情况下，Flink使用SLF4J日志抽象和log4j日志框架。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17451,6 +17451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T050147Z" creationid="xccui" creationdate="20190804T050147Z">
         <seg>示例10-8，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 10-9 shows a MapFunction that logs every input record conversion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T034037Z" creationid="xccui" creationdate="20190807T034037Z">
+        <seg>示例10-9展示的MapFunction会将每一个输入记录的转换写入日志。</seg>
       </tuv>
     </tu>
     <tu>
