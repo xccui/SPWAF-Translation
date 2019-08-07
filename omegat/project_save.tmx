@@ -6518,6 +6518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>282 | Chapter 11: Where to Go from Here?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163133Z" creationid="xingcan" creationdate="20190807T163133Z">
+        <seg>282 | 第11章：还有什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>283</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040442Z" creationid="xccui" creationdate="20190418T040442Z">
@@ -23025,8 +23033,8 @@
       <tuv lang="EN-US">
         <seg>Gelly provides high-level program‐ ming abstractions in both Java and Scala to perform graph transformations, aggrega‐ tions, and iterative processing such as vertex-centric and gather-sum-apply.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T162701Z" creationid="xingcan" creationdate="20190807T162701Z">
-        <seg>Gelly提供了高层次的编程抽象（Java和Scala）以</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163048Z" creationid="xingcan" creationdate="20190807T162701Z">
+        <seg>Gelly为执行图转换、聚合及迭代（如vertex-centric和gather-sum-apply）提供了用于Java和Scala高层次的编程抽象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29899,6 +29907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T164237Z" creationid="xccui" creationdate="20190225T164237Z">
         <seg>此外还简要介绍了如何在本地Flink实例上运行你的第一个流处理应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also includes a set of common graph algorithms ready to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163123Z" creationid="xingcan" creationdate="20190807T163123Z">
+        <seg>它还涵盖了一组方便使用的常见图算法。</seg>
       </tuv>
     </tu>
     <tu>
