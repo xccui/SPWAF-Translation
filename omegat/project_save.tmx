@@ -18687,6 +18687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fabian is cofounder and soft‐ ware engineer at Ververica (formerly data Artisans), a Berlin-based startup that fos‐ ters Flink and its community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T034603Z" creationid="xccui" creationdate="20190808T034603Z">
+        <seg>费比安是Ververica（前身为data Artisans）的联合创始人和软件工程师。该公司是一家总部位于柏林的创业公司，一直以来都为Flink项目及社区发展提供支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Farnham</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210639Z" creationid="esouser" creationdate="20190603T210639Z">
