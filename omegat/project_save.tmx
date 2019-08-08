@@ -11014,6 +11014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An early contributor to Flink, she has worked on its graph processing library, Gelly, and on early versions of the Table API and streaming SQL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T035233Z" creationid="xccui" creationdate="20190808T035233Z">
+        <seg>作为Flink早期的贡献者，她参与了图计算库Gelly以及初期版本Table API和流式SQL的建设工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An early firing trigger</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200121Z" creationid="xccui" creationdate="20190626T200121Z">
@@ -49452,6 +49460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T054334Z" creationid="xccui" creationdate="20190630T041507Z">
         <seg>ValueState[T]用于保存类型为T的单个值。你可以利用State.value()来读取该值并通过ValueState.update(value: T)来更新它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vasia is a PMC member of the Apache Flink project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T035031Z" creationid="xccui" creationdate="20190808T035031Z">
+        <seg>瓦西里基同样是Apache Flink项目的PMC成员。</seg>
       </tuv>
     </tu>
     <tu>
