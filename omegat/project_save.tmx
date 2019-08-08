@@ -10070,6 +10070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About the Authors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T033038Z" creationid="xccui" creationdate="20190808T033038Z">
+        <seg>关于作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access to timestamps and watermarks through the API</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190529T042406Z" creationid="xccui" creationdate="20190529T042406Z">
@@ -18667,6 +18675,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T062527Z" creationid="esouser" creationdate="20190603T142832Z">
         <seg>费比安·霍斯克，瓦西里基·卡拉夫里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fabian Hueske is a committer to and PMC member of the Apache Flink project and has been contributing to Flink since its earliest days.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T033204Z" creationid="xccui" creationdate="20190808T033204Z">
+        <seg>费边</seg>
       </tuv>
     </tu>
     <tu>
