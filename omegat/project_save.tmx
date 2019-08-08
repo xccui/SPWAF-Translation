@@ -40298,8 +40298,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides the connect transformation to support such use cases.1 The DataStream.connect() method receives a DataStream and returns a Connected Streams object, which represents the two connected streams:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210127Z" creationid="xccui" creationdate="20190615T040600Z">
-        <seg>DataStream API提供的connect转换可以用来完成该用例。1 DataStream.connect()方法接收一个DataStream并返回一个ConnectedStream对象，该对象表示两个联结起来（connected）的流：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T055213Z" creationid="xccui" creationdate="20190615T040600Z">
+        <seg>DataStream API提供的connect转换可以用来支持该用例。1 DataStream.connect()方法接收一个DataStream并返回一个ConnectedStream对象，该对象表示两个联结起来（connected）的流：</seg>
       </tuv>
     </tu>
     <tu>
