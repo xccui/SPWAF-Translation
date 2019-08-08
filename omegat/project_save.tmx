@@ -46522,8 +46522,8 @@
       <tuv lang="EN-US">
         <seg>This book summarizes knowledge obtained through years of design, development, and testing performed by the Apache Flink community at large.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T062759Z" creationid="xccui" creationdate="20190605T131400Z">
-        <seg>本书总结了Apache Flink社区多年来在设计、开发、测试等方面积累的知识。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T050109Z" creationid="xccui" creationdate="20190605T131400Z">
+        <seg>书中总结了Apache Flink社区多年来在设计、开发、测试等方面积累的知识。</seg>
       </tuv>
     </tu>
     <tu>
