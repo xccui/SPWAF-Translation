@@ -45482,8 +45482,8 @@
       <tuv lang="EN-US">
         <seg>The type of the output stream is the same as the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T061617Z" creationid="xccui" creationdate="20190614T061549Z">
-        <seg>因此输出流的类型永远和输入流保持一致。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T052856Z" creationid="xccui" creationdate="20190614T061549Z">
+        <seg>因此输出流的类型会永远和输入流保持一致。</seg>
       </tuv>
     </tu>
     <tu>
