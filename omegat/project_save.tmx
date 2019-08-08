@@ -55939,8 +55939,8 @@
       <tuv lang="EN-US">
         <seg>event, the operator updates the corresponding aggregate value and emits an event with the updated value.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061840Z" creationid="xccui" creationdate="20190614T052132Z">
-        <seg>每当有新事件到来，该算子都会更新相应的聚合结果，并将它以事件的形式发送出去。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T050750Z" creationid="xccui" creationdate="20190614T052132Z">
+        <seg>每当有新事件到来，该算子都会更新相应的聚合结果，并将其以事件的形式发送出去。</seg>
       </tuv>
     </tu>
     <tu>
