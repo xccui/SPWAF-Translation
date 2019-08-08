@@ -41232,6 +41232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The animal on the cover of Stream Processing with Apache Flink is a Eurasian red squirrel (Sciurus vulgaris).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T035602Z" creationid="xccui" creationdate="20190808T035602Z">
+        <seg>本书封面上的动物是欧亚红松鼠（Sciurus vulgaris）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The appli&lt;t0/&gt;‐&lt;t1/&gt; cation we are going to run converts and aggregates randomly generated temperature sensor readings by time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190328T055143Z" creationid="xccui" creationdate="20190328T054951Z">
