@@ -40306,8 +40306,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides the following rolling aggregation methods:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T052557Z" creationid="xccui" creationdate="20190614T052557Z">
-        <seg>DataStream API提供了以下滚动聚合方法：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T050806Z" creationid="xccui" creationdate="20190614T052557Z">
+        <seg>DataStream API中提供了以下滚动聚合方法：</seg>
       </tuv>
     </tu>
     <tu>
