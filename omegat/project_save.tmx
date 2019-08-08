@@ -40346,8 +40346,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream.union() method merges two or more DataStreams of the same type and produces a new DataStream of the same type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T060843Z" creationid="xccui" creationdate="20190614T063938Z">
-        <seg>DataStream.union()方法可以合并两条或多条类型相同的DataStream，并生成一个新的类型相同的DataStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T054951Z" creationid="xccui" creationdate="20190614T063938Z">
+        <seg>DataStream.union()方法可以合并两条或多条类型相同的DataStream，生成一个新的类型相同的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
