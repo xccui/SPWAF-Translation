@@ -36242,8 +36242,8 @@
       <tuv lang="EN-US">
         <seg>Rolling aggregation transformations are applied on a KeyedStream and produce a DataStream of aggregates, such as sum, minimum, and maximum.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T061731Z" creationid="xccui" creationdate="20190614T052018Z">
-        <seg>滚动聚合转换作用于KeyedStream上，生成一个包含聚合结果（例如求和、最小值、最大值等）的DataStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T045810Z" creationid="xccui" creationdate="20190614T052018Z">
+        <seg>滚动聚合转换作用于KeyedStream上，它会生成一个包含聚合结果（例如求和、最小值、最大值等）的DataStream。</seg>
       </tuv>
     </tu>
     <tu>
