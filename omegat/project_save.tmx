@@ -18681,16 +18681,16 @@
       <tuv lang="EN-US">
         <seg>Fabian Hueske is a committer to and PMC member of the Apache Flink project and has been contributing to Flink since its earliest days.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T034146Z" creationid="xccui" creationdate="20190808T033204Z">
-        <seg>费比安·霍斯克是Apache Flink项目的Committer及PMC成员，他同时也是最早参与Flink项目建设的几人之一。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T034710Z" creationid="xccui" creationdate="20190808T033204Z">
+        <seg>费比安·霍斯克是Apache Flink项目的Committer及PMC成员，是最早参与Flink项目建设的几人之一。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fabian is cofounder and soft‐ ware engineer at Ververica (formerly data Artisans), a Berlin-based startup that fos‐ ters Flink and its community.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T034603Z" creationid="xccui" creationdate="20190808T034603Z">
-        <seg>费比安是Ververica（前身为data Artisans）的联合创始人和软件工程师。该公司是一家总部位于柏林的创业公司，一直以来都为Flink项目及社区发展提供支持。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T034721Z" creationid="xccui" creationdate="20190808T034603Z">
+        <seg>他同时还是Ververica（前身为data Artisans）的联合创始人和软件工程师。该公司是一家总部位于柏林的创业公司，一直以来都为Flink项目及社区发展提供支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23387,6 +23387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T192756Z" creationid="xccui" creationdate="20190606T034436Z">
         <seg>无论如何，没有保障听上去都像是个馊主意。但如果你能接受近似结果并且一门心思地关注怎样降低延迟，这种保障似乎也可以接受。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He holds a PhD in computer science from TU Berlin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T034818Z" creationid="xccui" creationdate="20190808T034818Z">
+        <seg>费比安在柏林工业大学取得了计算机科学博士学位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49444,6 +49452,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T054334Z" creationid="xccui" creationdate="20190630T041507Z">
         <seg>ValueState[T]用于保存类型为T的单个值。你可以利用State.value()来读取该值并通过ValueState.update(value: T)来更新它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vasiliki Kalavri is a postdoctoral fellow in the Systems Group at ETH Zurich, where she uses Apache Flink extensively for streaming systems research and teaching.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T035006Z" creationid="xccui" creationdate="20190808T035006Z">
+        <seg>瓦西里基·卡拉夫里是苏黎世联邦理工学院系统组的博士后研究员，平日里会将Apache Flink广泛用于流式系统研究及教学工作。</seg>
       </tuv>
     </tu>
     <tu>
