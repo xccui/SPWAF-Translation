@@ -17441,8 +17441,8 @@
       <tuv lang="EN-US">
         <seg>Every input event is emitted to the next operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061221Z" creationid="xccui" creationdate="20190614T064709Z">
-        <seg>每个输入消息都会被发至下游算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T055033Z" creationid="xccui" creationdate="20190614T064709Z">
+        <seg>每个输入消息都会被发往下游算子。</seg>
       </tuv>
     </tu>
     <tu>
