@@ -27473,8 +27473,8 @@
       <tuv lang="EN-US">
         <seg>In order to do this efficiently, Flink requires detailed knowledge of the types of data the application processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T063647Z" creationid="xccui" creationdate="20190616T063647Z">
-        <seg>为了提高上述过程的效率，Flink需要详细了解应用处理的数据类型</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T024805Z" creationid="xccui" creationdate="20190616T063647Z">
+        <seg>为了提高上述过程的效率，Flink需要详细了解应用处理的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
