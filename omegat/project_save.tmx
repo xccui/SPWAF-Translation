@@ -53811,8 +53811,8 @@
       <tuv lang="EN-US">
         <seg>always add the following import statement to your Scala applica‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T054830Z" creationid="xccui" creationdate="20190617T054830Z">
-        <seg>请确保将以下导入语句添加到你的Scala应用中：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T035628Z" creationid="xccui" creationdate="20190617T054830Z">
+        <seg>请确保将以下导入语句添加到你的Scala程序中：</seg>
       </tuv>
     </tu>
     <tu>
