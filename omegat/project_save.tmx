@@ -37978,8 +37978,8 @@
       <tuv lang="EN-US">
         <seg>Some of the transformations you saw in the previous section require a key specifica‐ tion or field reference on the input stream type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062440Z" creationid="xccui" creationdate="20190617T062440Z">
-        <seg>你在上一节中看到的部分转换需要基于输入流的类型指定键值或引用字段。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T035957Z" creationid="xccui" creationdate="20190617T062440Z">
+        <seg>上一节中涉及的部分转换需要基于输入流的类型指定键值或引用字段。</seg>
       </tuv>
     </tu>
     <tu>
