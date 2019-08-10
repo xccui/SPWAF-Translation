@@ -20601,8 +20601,8 @@
       <tuv lang="EN-US">
         <seg>Flink exposes all interfaces for user-defined functions, such as MapFunction, Filter Function, and ProcessFunction, as interfaces or abstract classes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T053854Z" creationid="xccui" creationdate="20190618T053724Z">
-        <seg>Flink中所有用户自定义函数（例如MapFunction、FilterFunction、ProcessFunction）的接口都是以接口或抽象类的形式对外暴露，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040659Z" creationid="xccui" creationdate="20190618T053724Z">
+        <seg>Flink中所有用户自定义函数（如MapFunction、FilterFunction及ProcessFunction）的接口都是以接口或抽象类的形式对外暴露，</seg>
       </tuv>
     </tu>
     <tu>
