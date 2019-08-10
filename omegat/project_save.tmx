@@ -9432,8 +9432,8 @@
       <tuv lang="EN-US">
         <seg>A so-called type extractor analyzes the generic types and return types of all functions to obtain the respective TypeInformation objects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052355Z" creationid="xccui" creationdate="20190617T052355Z">
-        <seg>一个类型提取器会分析所有函数的泛型类型及返回类型，以获取相应的TypeInformation对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T035416Z" creationid="xccui" creationdate="20190617T052355Z">
+        <seg>一个名为类型提取器的组件会分析所有函数的泛型类型及返回类型，以获取相应的TypeInformation对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20697,8 +20697,8 @@
       <tuv lang="EN-US">
         <seg>Flink for a while without ever needing to worry about TypeInformation for your data</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T052704Z" creationid="xccui" creationdate="20190617T052631Z">
-        <seg>因此你可以先用上一段时间的Flink而无需担心数据类型的TypeInformation问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T035434Z" creationid="xccui" creationdate="20190617T052631Z">
+        <seg>因此你可以先用上一段时间Flink而无需担心数据类型的TypeInformation问题。</seg>
       </tuv>
     </tu>
     <tu>
