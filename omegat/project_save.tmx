@@ -40282,8 +40282,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides rich functions that expose more functionality than the regular functions discussed until now.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T060242Z" creationid="xccui" creationdate="20190618T060242Z">
-        <seg>DataStream API提供了一类富函数，它和我们之前见到的普通函数相比可以对外提供更多功能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041053Z" creationid="xccui" creationdate="20190618T060242Z">
+        <seg>DataStream API提供了一类富函数，它和我们之前见到的普通函数相比可对外提供更多功能。</seg>
       </tuv>
     </tu>
     <tu>
