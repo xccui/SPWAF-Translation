@@ -51507,8 +51507,8 @@
       <tuv lang="EN-US">
         <seg>When submitting an application to a running Flink cluster, the environment parallelism is set to the default parallelism of the cluster unless it is explicitly specified via the submission client (see “Running and Managing Streaming Applications” on page 245 for more details).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T053312Z" creationid="xccui" creationdate="20190616T053312Z">
-        <seg>如果应用是提交到Flink集群运行，那么除非提交客户端明确指定（详情请参阅第245页"运行和管理流式应用"），否则环境并行度将设置为集群默认并行度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T024446Z" creationid="xccui" creationdate="20190616T053312Z">
+        <seg>如果应用是提交到Flink集群运行，那么除非提交客户端明确指定（详情请参阅第245页"运行和管理流式应用"一节），否则环境并行度将设置为集群默认并行度。</seg>
       </tuv>
     </tu>
     <tu>
