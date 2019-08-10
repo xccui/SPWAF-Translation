@@ -30273,8 +30273,8 @@
       <tuv lang="EN-US">
         <seg>It is also possible to nest expressions on mixed types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050346Z" creationid="xccui" creationdate="20190618T050242Z">
-        <seg>还能够以混合类型嵌套表达式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040441Z" creationid="xccui" creationdate="20190618T050242Z">
+        <seg>你还能够在混合类型上嵌套表达式。</seg>
       </tuv>
     </tu>
     <tu>
