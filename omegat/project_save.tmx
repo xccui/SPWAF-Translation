@@ -8744,8 +8744,8 @@
       <tuv lang="EN-US">
         <seg>A full data type can be selected using the wildcard field expression "_" (underscore character):</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T050750Z" creationid="xccui" creationdate="20190618T050750Z">
-        <seg>可以使用通配符字段表达式"_"（英文下划线）选择全部字段：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040454Z" creationid="xccui" creationdate="20190618T050750Z">
+        <seg>可以使用通配符字段表达式"_"选择全部字段：</seg>
       </tuv>
     </tu>
     <tu>
