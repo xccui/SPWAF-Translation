@@ -42314,8 +42314,8 @@
       <tuv lang="EN-US">
         <seg>The events of the nonbroadcasted stream are simply forwarded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T063424Z" creationid="xccui" creationdate="20190615T052015Z">
-        <seg>而所有非广播流的事件只是会被单纯地转发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T023229Z" creationid="xccui" creationdate="20190615T052015Z">
+        <seg>而所有非广播流的事件只是会被简单地转发。</seg>
       </tuv>
     </tu>
     <tu>
