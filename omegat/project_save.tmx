@@ -48226,8 +48226,8 @@
       <tuv lang="EN-US">
         <seg>To key the stream by sensor ID we can pass the field name id to the keyBy() func‐ tion:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T042634Z" creationid="xccui" creationdate="20190618T042634Z">
-        <seg>为了将传感器ID设为数据流的键值，我们可以把字段名称id传给keyBy()函数：，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040249Z" creationid="xccui" creationdate="20190618T042634Z">
+        <seg>为了将传感器ID设为数据流的键值，我们可以把字段名称id传给keyBy()函数：</seg>
       </tuv>
     </tu>
     <tu>
