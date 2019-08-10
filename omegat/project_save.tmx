@@ -47194,8 +47194,8 @@
       <tuv lang="EN-US">
         <seg>This method receives a Par titioner object that implements the partitioning logic and the field or key posi‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T050335Z" creationid="xccui" creationdate="20190616T050245Z">
-        <seg>该方法接收一个Partitioner对象，其中可以实现分区逻辑，定义分区需要参照的字段或键值位置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T024220Z" creationid="xccui" creationdate="20190616T050245Z">
+        <seg>该方法接收一个Partitioner对象，你在其中可以实现分区逻辑，定义分区需要参照的字段或键值位置。</seg>
       </tuv>
     </tu>
     <tu>
