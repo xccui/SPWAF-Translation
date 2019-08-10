@@ -49842,8 +49842,8 @@
       <tuv lang="EN-US">
         <seg>We can key the input stream by the second and third fields as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040206Z" creationid="xccui" creationdate="20190618T041209Z">
-        <seg>我们可以像下面这样利用第二、三字段作为输入流的键值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040225Z" creationid="xccui" creationdate="20190618T041209Z">
+        <seg>可以像下面这样利用第二、三字段作为输入流的键值：</seg>
       </tuv>
     </tu>
     <tu>
