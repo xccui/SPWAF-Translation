@@ -10400,8 +10400,8 @@
       <tuv lang="EN-US">
         <seg>All Java and Scala primitive types, such as Int (or Integer for Java), String, and Double, are supported.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T070306Z" creationid="xccui" creationdate="20190616T070259Z">
-        <seg>Flink支持所有Java和Scala的原始类型，例如Int（Java中是Integer）、String、Double。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T025037Z" creationid="xccui" creationdate="20190616T070259Z">
+        <seg>Flink支持所有Java和Scala的原始类型，例如Int（Java中是Integer）、String和Double。</seg>
       </tuv>
     </tu>
     <tu>
