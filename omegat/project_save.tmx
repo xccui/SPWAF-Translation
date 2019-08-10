@@ -45994,8 +45994,8 @@
       <tuv lang="EN-US">
         <seg>Therefore, it is not necessary to define data types to hold keys and values, which avoids a lot of boilerplate code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040103Z" creationid="xccui" creationdate="20190617T063903Z">
-        <seg>因此，没有必要为键和值再单独定义数据类型，这样可以省去很多样板代码。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040116Z" creationid="xccui" creationdate="20190617T063903Z">
+        <seg>因此，没有必要为键和值再单独定义数据类型，这样可以省去大量样板代码。</seg>
       </tuv>
     </tu>
     <tu>
