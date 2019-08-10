@@ -32593,8 +32593,8 @@
       <tuv lang="EN-US">
         <seg>Nested fields in POJOs and tuples are selected by denoting the nesting level with a "." (period character).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T045900Z" creationid="xccui" creationdate="20190618T045900Z">
-        <seg>如需选择POJO和元组中嵌套字段，可以利用"." (英文句号)来区分嵌套级别。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040336Z" creationid="xccui" creationdate="20190618T045900Z">
+        <seg>如需选择POJO和元组中嵌套字段，可以利用"."来区分嵌套级别。</seg>
       </tuv>
     </tu>
     <tu>
