@@ -30593,8 +30593,8 @@
       <tuv lang="EN-US">
         <seg>It provides the system with the necessary information it needs to generate serialiazers and comparators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050322Z" creationid="xccui" creationdate="20190617T050322Z">
-        <seg>它为系统生成序列化器和比较器提供了必要的信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T034406Z" creationid="xccui" creationdate="20190617T050322Z">
+        <seg>它为系统生成序列化器和比较器提供了必需的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41594,8 +41594,8 @@
       <tuv lang="EN-US">
         <seg>The central class in Flink’s type system is TypeInformation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T050145Z" creationid="xccui" creationdate="20190617T050145Z">
-        <seg>Flink类型系统的核心类是TypeInformation。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T034353Z" creationid="xccui" creationdate="20190617T050145Z">
+        <seg>Flink类型系统的核心类是TypeInformation，</seg>
       </tuv>
     </tu>
     <tu>
