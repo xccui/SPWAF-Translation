@@ -12809,8 +12809,8 @@
       <tuv lang="EN-US">
         <seg>Avro-generated classes are automatically identified by Flink and handled as POJOs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T045142Z" creationid="xccui" creationdate="20190617T045142Z">
-        <seg>Flink还会将Avro自动生成的类识别为POJO进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T025610Z" creationid="xccui" creationdate="20190617T045142Z">
+        <seg>Flink还会将Avro自动生成的类作为POJO进行处理。</seg>
       </tuv>
     </tu>
     <tu>
