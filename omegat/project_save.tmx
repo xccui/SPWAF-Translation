@@ -23889,8 +23889,8 @@
       <tuv lang="EN-US">
         <seg>Here is an example that processes a stream of Long values and increments each element:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T025108Z" creationid="xccui" creationdate="20190616T070438Z">
-        <seg>下面的示例展示了处理一条Long值组成的数据流，对每个元素加一：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T025144Z" creationid="xccui" creationdate="20190616T070438Z">
+        <seg>下面的示例展示了如何处理一条Long值组成的数据流，对每个元素加一：</seg>
       </tuv>
     </tu>
     <tu>
