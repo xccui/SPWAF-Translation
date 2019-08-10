@@ -45778,8 +45778,8 @@
       <tuv lang="EN-US">
         <seg>There are many popular libraries out there, such as Apache Commons or Google Guava, for various use cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T034840Z" creationid="xccui" creationdate="20190619T034840Z">
-        <seg>很多流行库（例如：Apache Commons或Google Guava）会用于各种不同的用例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041422Z" creationid="xccui" creationdate="20190619T034840Z">
+        <seg>很多流行库（例如：Apache Commons或Google Guava）会用于各种不同的用例场景中。</seg>
       </tuv>
     </tu>
     <tu>
