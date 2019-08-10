@@ -12217,8 +12217,8 @@
       <tuv lang="EN-US">
         <seg>As for the tuples, we filter the DataStream by age:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T041121Z" creationid="xccui" creationdate="20190617T041008Z">
-        <seg>和元组的情况一样，我们对DataStream按照年龄进行过滤：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T025454Z" creationid="xccui" creationdate="20190617T041008Z">
+        <seg>和使用元组的情况一样，我们对DataStream按照年龄进行过滤：</seg>
       </tuv>
     </tu>
     <tu>
