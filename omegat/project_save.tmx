@@ -28097,8 +28097,8 @@
       <tuv lang="EN-US">
         <seg>In the Java DataStream API, you can also use the returns() method to explicitly specify the return type of an operator when defining the dataflow as shown in the fol‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T062203Z" creationid="xccui" creationdate="20190617T062203Z">
-        <seg>你还可以像下面这样，在定义dataflow时使用Java DataStream API中的returns()方法来显式指定某算子的返回类型：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T035846Z" creationid="xccui" creationdate="20190617T062203Z">
+        <seg>你还可以像下面这样，在定义Dataflow时使用Java DataStream API中的returns()方法来显式指定某算子的返回类型：</seg>
       </tuv>
     </tu>
     <tu>
