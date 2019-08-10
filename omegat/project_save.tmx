@@ -45786,8 +45786,8 @@
       <tuv lang="EN-US">
         <seg>There are rich versions of all the DataStream API transformation functions, and you can use them in the same places you can use a regular function or lambda function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055932Z" creationid="xccui" creationdate="20190618T060440Z">
-        <seg>DataStream API中的所有转换函数都有对应的富函数，它们能够的使用位置和普通函数以及Lambda函数相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041112Z" creationid="xccui" creationdate="20190618T060440Z">
+        <seg>DataStream API中的所有转换函数都有对应的富函数，它们允许的使用位置和普通函数以及Lambda函数相同。</seg>
       </tuv>
     </tu>
     <tu>
