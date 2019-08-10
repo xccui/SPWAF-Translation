@@ -14657,8 +14657,8 @@
       <tuv lang="EN-US">
         <seg>Composite keys consisting of more than one tuple field can also be defined.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T033803Z" creationid="xccui" creationdate="20190618T033324Z">
-        <seg>还可以利用多个元组字段定义复合键值，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040154Z" creationid="xccui" creationdate="20190618T033324Z">
+        <seg>你还可以利用多个元组字段定义复合键值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -42730,8 +42730,8 @@
       <tuv lang="EN-US">
         <seg>The following example keys the input stream by the second field of the input tuple:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T041329Z" creationid="xccui" creationdate="20190618T033243Z">
-        <seg>下方示例以输入元组的第2个字段作为输入流的键值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040148Z" creationid="xccui" creationdate="20190618T033243Z">
+        <seg>下方示例以输入元组的第二个字段作为输入流的键值：</seg>
       </tuv>
     </tu>
     <tu>
