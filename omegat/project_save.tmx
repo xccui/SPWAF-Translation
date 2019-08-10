@@ -20433,8 +20433,8 @@
       <tuv lang="EN-US">
         <seg>Flink analyzes each type that does not fall into any category and checks to see if it can be identified and handled as a POJO type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190617T042544Z" creationid="xccui" creationdate="20190617T042544Z">
-        <seg>Flink会分析那些不属于任何一类的数据类型，并尝试将它们识别为POJO类型进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T025520Z" creationid="xccui" creationdate="20190617T042544Z">
+        <seg>Flink会分析那些不属于任何一类的数据类型，并尝试将它们作为POJO类型进行处理。</seg>
       </tuv>
     </tu>
     <tu>
