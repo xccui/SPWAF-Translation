@@ -40954,8 +40954,8 @@
       <tuv lang="EN-US">
         <seg>The RuntimeContext can be used to retrieve information such as the function’s parallelism, its subtask index, and the name of the task that executes the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041316Z" creationid="xccui" creationdate="20190619T033451Z">
-        <seg>从RuntimeContext中能够获取一些信息，例如函数的并行度，它所在子任务的索引号以及执行函数的任务名称。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041323Z" creationid="xccui" creationdate="20190619T033451Z">
+        <seg>从RuntimeContext中可以获取一些信息，例如函数的并行度，它所在子任务的索引号以及执行函数的任务名称。</seg>
       </tuv>
     </tu>
     <tu>
