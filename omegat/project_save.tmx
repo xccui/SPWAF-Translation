@@ -30313,8 +30313,8 @@
       <tuv lang="EN-US">
         <seg>It is called once per task before a transformation method like filter or map is called.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T061044Z" creationid="xccui" creationdate="20190618T061044Z">
-        <seg>它在每个任务调用正式的转换方法（例如filter或map）前调用一次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041141Z" creationid="xccui" creationdate="20190618T061044Z">
+        <seg>它在每个任务调用正式的转换方法（如filter或map）前调用一次。</seg>
       </tuv>
     </tu>
     <tu>
