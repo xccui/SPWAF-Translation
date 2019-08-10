@@ -26809,8 +26809,8 @@
       <tuv lang="EN-US">
         <seg>In addition, the method getRuntimeContext() provides access to the function’s Run timeContext.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033317Z" creationid="xccui" creationdate="20190619T033317Z">
-        <seg>此外，可以利用getRuntimeContext()方法访问函数的RuntimeContext。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041303Z" creationid="xccui" creationdate="20190619T033317Z">
+        <seg>此外，你可以利用getRuntimeContext()方法访问函数的RuntimeContext。</seg>
       </tuv>
     </tu>
     <tu>
