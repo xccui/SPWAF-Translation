@@ -34738,8 +34738,8 @@
       <tuv lang="EN-US">
         <seg>Partitioning transformations correspond to the data exchange strategies we intro‐ duced in “Data Exchange Strategies” on page 19.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T065003Z" creationid="xccui" creationdate="20190615T064707Z">
-        <seg>各类分区转换对应我们在第19页"数据交换策略"一节中介绍的多种数据交换策略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T023702Z" creationid="xccui" creationdate="20190615T064707Z">
+        <seg>Flink中的各类分区转换对应我们在第19页"数据交换策略"一节中介绍的多种数据交换策略。</seg>
       </tuv>
     </tu>
     <tu>
