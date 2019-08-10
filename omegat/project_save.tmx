@@ -31209,8 +31209,8 @@
       <tuv lang="EN-US">
         <seg>Lambda functions are avail‐ able for Scala and Java and offer a simple and concise way to implement application logic when no advanced operations such as accessing state and configuration are required.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055925Z" creationid="xccui" creationdate="20190618T055802Z">
-        <seg>Lambda函数可用于Scala或Java，它在不需要进行高级操作（例如访问状态或配置）的情况下提供了一种简洁明了的方式来实现应用逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041004Z" creationid="xccui" creationdate="20190618T055802Z">
+        <seg>Lambda函数可用于Scala或Java，它在不需要进行高级操作（如访问状态或配置）的情况下提供了一种简洁明了的方式来实现应用逻辑。</seg>
       </tuv>
     </tu>
     <tu>
