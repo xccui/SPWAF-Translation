@@ -48810,8 +48810,8 @@
       <tuv lang="EN-US">
         <seg>Tuple fields are referenced either by their field name (1-offset for Scala tuples, 0-offset for Java tuples) or by their 0-offset field index:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T043248Z" creationid="xccui" creationdate="20190618T043248Z">
-        <seg>元组字段的引用既可以利用字段名称（Scala元组编号从1开始，Java元组编号从0开始）也可以利用从0开始的字段索引：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040304Z" creationid="xccui" creationdate="20190618T043248Z">
+        <seg>元组字段的引用既可以利用字段名称（Scala元组编号从1开始，Java元组编号从0开始），也可以利用从0开始的字段索引：</seg>
       </tuv>
     </tu>
     <tu>
