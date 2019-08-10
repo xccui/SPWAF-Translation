@@ -50995,8 +50995,8 @@
       <tuv lang="EN-US">
         <seg>When a program is submitted for execution, all function objects are serialized using Java serialization and shipped to all parallel tasks of their corresponding operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T055206Z" creationid="xccui" creationdate="20190618T054831Z">
-        <seg>当程序提交执行时，所有参数对象都会利用Java自身的序列化机制进行序列化，然后传发送对应算子的所有并行任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040901Z" creationid="xccui" creationdate="20190618T054831Z">
+        <seg>当程序提交执行时，所有参数对象都会利用Java自身的序列化机制进行序列化，然后发送到对应算子的所有并行任务上。</seg>
       </tuv>
     </tu>
     <tu>
