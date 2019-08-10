@@ -44210,8 +44210,8 @@
       <tuv lang="EN-US">
         <seg>The parallelism of the environment (and thus also the default parallelism of all operators) is automatically initialized based on the context in which the application is started.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T052803Z" creationid="xccui" creationdate="20190616T052730Z">
-        <seg>环境的并行度（即所有算子的默认并行度）会根据应用启动时所处的上下文自动初始化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T024422Z" creationid="xccui" creationdate="20190616T052730Z">
+        <seg>而环境的并行度（即所有算子的默认并行度）则会根据应用启动时所处的上下文自动初始化。</seg>
       </tuv>
     </tu>
     <tu>
