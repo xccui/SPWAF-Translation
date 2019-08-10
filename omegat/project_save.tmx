@@ -44258,8 +44258,8 @@
       <tuv lang="EN-US">
         <seg>The pom.xml file of a generated Maven project contains comments that explain how to add additional dependencies.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T043504Z" creationid="xccui" creationdate="20190619T043504Z">
-        <seg>生成的Maven项目中的pom.xml文件包含了教你如何添加额外依赖的注释。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T041642Z" creationid="xccui" creationdate="20190619T043504Z">
+        <seg>所生成Maven项目中的pom.xml文件包含了教你如何添加额外依赖的注释。</seg>
       </tuv>
     </tu>
     <tu>
