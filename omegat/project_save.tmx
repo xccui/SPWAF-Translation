@@ -30137,8 +30137,8 @@
       <tuv lang="EN-US">
         <seg>It determines how much the operator’s process‐ ing effort can be distributed and also how much data it can process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T051522Z" creationid="xccui" creationdate="20190616T051504Z">
-        <seg>它决定了算子处理的并行化程度和能够处理的数据规模。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T024356Z" creationid="xccui" creationdate="20190616T051504Z">
+        <seg>它决定了算子处理的并行化程度以及能够处理的数据规模。</seg>
       </tuv>
     </tu>
     <tu>
