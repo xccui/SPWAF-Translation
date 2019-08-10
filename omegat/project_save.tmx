@@ -53539,8 +53539,8 @@
       <tuv lang="EN-US">
         <seg>You’ve seen user-defined functions in action in the code examples of this chapter so far.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190618T052928Z" creationid="xccui" creationdate="20190618T052830Z">
-        <seg>目前位置，你已经在本章的代码示例中见到过如何使用用户自定义函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190810T040614Z" creationid="xccui" creationdate="20190618T052830Z">
+        <seg>到目前位置，你已经在本章的代码示例中见到过如何使用用户自定义函数。</seg>
       </tuv>
     </tu>
     <tu>
