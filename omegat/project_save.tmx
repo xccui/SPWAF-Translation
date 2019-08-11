@@ -32481,8 +32481,8 @@
       <tuv lang="EN-US">
         <seg>Most operators of the DataStream API have a single output—they produce one result stream with a specific data type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T013130Z" creationid="xccui" creationdate="20190622T013130Z">
-        <seg>大多数DataStream API的算子都只有一个输出，即只能生成一条某种数据类型的结果流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063612Z" creationid="xccui" creationdate="20190622T013130Z">
+        <seg>大多数DataStream API的算子都只有一个输出，即只能生成一条具有某种数据类型的结果流。</seg>
       </tuv>
     </tu>
     <tu>
