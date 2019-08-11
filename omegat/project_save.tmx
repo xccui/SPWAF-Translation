@@ -504,8 +504,8 @@
       <tuv lang="EN-US">
         <seg>* with a temperature below 32F.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T203216Z" creationid="xccui" creationdate="20190622T023641Z">
-        <seg>* 向副输出发送低温警报。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T203306Z" creationid="xccui" creationdate="20190622T023641Z">
+        <seg>* 向副输出发送冻结警报。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,8 +3128,8 @@
       <tuv lang="EN-US">
         <seg>// emit freezing alarm if temperature is below 32F</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T203239Z" creationid="xccui" creationdate="20190622T024013Z">
-        <seg>// 如果温度低于32F则发出低温警报</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T203300Z" creationid="xccui" creationdate="20190622T024013Z">
+        <seg>// 如果温度低于32F则发出冻结警报</seg>
       </tuv>
     </tu>
     <tu>
