@@ -11992,8 +11992,8 @@
       <tuv lang="EN-US">
         <seg>Applying a ProcessFunction that emits to a side output</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022710Z" creationid="xccui" creationdate="20190622T022702Z">
-        <seg>利用ProcessFunction将数据发送至副输出</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T203037Z" creationid="xccui" creationdate="20190622T022702Z">
+        <seg>将数据发送至副输出的ProcessFunction</seg>
       </tuv>
     </tu>
     <tu>
@@ -17969,8 +17969,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-6 shows how to emit data from a ProcessFunction via DataStream of a side output.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T022628Z" creationid="xccui" creationdate="20190622T022628Z">
-        <seg>示例6-6展示了如何从ProcessFunction利用副输出的DataStream发送数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T202948Z" creationid="xccui" creationdate="20190622T022628Z">
+        <seg>示例6-6展示了如何利用ProcessFunction向副输出的DataStream发送数据。</seg>
       </tuv>
     </tu>
     <tu>
