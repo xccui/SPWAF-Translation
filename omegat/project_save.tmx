@@ -52427,8 +52427,8 @@
       <tuv lang="EN-US">
         <seg>With this in mind, you can use watermarks to balance result latency and result completeness.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033758Z" creationid="xccui" creationdate="20190621T033758Z">
-        <seg>知道这点，你就可以使用水位线来平衡结果的延迟和完成整。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060816Z" creationid="xccui" creationdate="20190621T033758Z">
+        <seg>记住这些，你就可以使用水位线来平衡结果的延迟和完成整。</seg>
       </tuv>
     </tu>
     <tu>
