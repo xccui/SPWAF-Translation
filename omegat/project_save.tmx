@@ -24609,8 +24609,8 @@
       <tuv lang="EN-US">
         <seg>However, the reality is that we can never have perfect watermarks because that would mean we are always certain there are no delayed records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T031843Z" creationid="xccui" creationdate="20190621T031325Z">
-        <seg>但现实中永远不会有完美的水位线，因为总会存在迟到的记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060631Z" creationid="xccui" creationdate="20190621T031325Z">
+        <seg>然而现实中永远不会有完美的水位线，因为总会存在迟到的记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46306,8 +46306,8 @@
       <tuv lang="EN-US">
         <seg>They control how long to wait for data to arrive before performing a computation, such as finalizing a window computation and emitting the result.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T030937Z" creationid="xccui" creationdate="20190621T030937Z">
-        <seg>它们控制在执行某些计算（例如完成窗口计算并发出结果）前需要等待数据到达的时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060607Z" creationid="xccui" creationdate="20190621T030937Z">
+        <seg>它们控制着在执行某些计算（例如完成窗口计算并发出结果）前需要等待数据到达的时间。</seg>
       </tuv>
     </tu>
     <tu>
