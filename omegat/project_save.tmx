@@ -12169,8 +12169,8 @@
       <tuv lang="EN-US">
         <seg>As discussed in “Event-Time Processing” on page 47, your application needs to pro‐ vide two important pieces of information to Flink in order to operate in event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T014946Z" creationid="xccui" creationdate="20190620T014933Z">
-        <seg>我们在第47页"事件时间处理"一节中讲到，为了在事件时间模式下工作，应用需要向Flink提供两项重要信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T050825Z" creationid="xccui" creationdate="20190620T014933Z">
+        <seg>我们在第47页"事件时间处理"一节中讲到，为了在事件时间模式下工作，应用需要向Flink提供两项重要信息：</seg>
       </tuv>
     </tu>
     <tu>
