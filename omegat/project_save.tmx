@@ -28537,8 +28537,8 @@
       <tuv lang="EN-US">
         <seg>In the preceding example, you instruct the program to emit watermarks every 5 sec‐ onds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045838Z" creationid="xccui" creationdate="20190620T045838Z">
-        <seg>在上方示例中，你指示程序每隔5秒发出一次水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055412Z" creationid="xccui" creationdate="20190620T045838Z">
+        <seg>在上方示例中，我们指示程序每隔5秒发出一次水位线。</seg>
       </tuv>
     </tu>
     <tu>
