@@ -504,8 +504,8 @@
       <tuv lang="EN-US">
         <seg>* with a temperature below 32F.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023903Z" creationid="xccui" creationdate="20190622T023641Z">
-        <seg>* 向副输出发送冷冻警报。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T203216Z" creationid="xccui" creationdate="20190622T023641Z">
+        <seg>* 向副输出发送低温警报。</seg>
       </tuv>
     </tu>
     <tu>
