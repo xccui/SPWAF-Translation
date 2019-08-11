@@ -27953,8 +27953,8 @@
       <tuv lang="EN-US">
         <seg>In practice, you need to make an educated guess and use heuristics to generate watermarks in your applica‐ tions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033656Z" creationid="xccui" creationdate="20190621T031744Z">
-        <seg>实际操作时，你需要一些有依据的猜测并使用启发式方法为你的应用生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060706Z" creationid="xccui" creationdate="20190621T031744Z">
+        <seg>在实践中，你需要一些有依据的猜测并使用启发式方法为应用生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
