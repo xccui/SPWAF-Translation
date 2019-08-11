@@ -47882,8 +47882,8 @@
       <tuv lang="EN-US">
         <seg>Timers on Nonkeyed Streams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T061036Z">
-        <seg>在非键值流上设置计时器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062942Z" creationid="xccui" creationdate="20190621T061036Z">
+        <seg>在非键值分区流上设置计时器</seg>
       </tuv>
     </tu>
     <tu>
