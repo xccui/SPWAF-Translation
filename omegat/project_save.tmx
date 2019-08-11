@@ -57131,8 +57131,8 @@
       <tuv lang="EN-US">
         <seg>interval is set to two hundred milliseconds, but it can be configured using the Execu tionConfig.setAutoWatermarkInterval() method:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T045716Z" creationid="xccui" creationdate="20190620T045716Z">
-        <seg>默认的时间间隔为200毫秒，但可以利用ExecutionConfig.setAutoWatermarkInterval()方法来配置：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055335Z" creationid="xccui" creationdate="20190620T045716Z">
+        <seg>默认的时间间隔为200毫秒，但你可以利用ExecutionConfig.setAutoWatermarkInterval()方法对其进行配置：</seg>
       </tuv>
     </tu>
     <tu>
