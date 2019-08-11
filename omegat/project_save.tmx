@@ -28065,8 +28065,8 @@
       <tuv lang="EN-US">
         <seg>In that case, it is recom‐ mended to not use timers excessively, to avoid long checkpointing times.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T070042Z">
-        <seg>在这种情况下，建议不要使用太多计时器，以避免检查点生成时间太久。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063301Z" creationid="xccui" creationdate="20190621T070042Z">
+        <seg>在这种情况下，建议不要使用太多计时器，以避免检查点生成时间过久。</seg>
       </tuv>
     </tu>
     <tu>
