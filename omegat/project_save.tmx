@@ -16169,8 +16169,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the use case, it is possible to apply an initial filtering or transformation on the input stream before</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031942Z" creationid="xccui" creationdate="20190620T031942Z">
-        <seg>根据用例，如果某些初始化的过滤或其他转换操作不会引起元素的重新分发，那么可以考虑在分配时间戳之前将它们用于输入流上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T054947Z" creationid="xccui" creationdate="20190620T031942Z">
+        <seg>根据用例的不同，如果某些初始化的过滤或其他转换操作不会引起元素的重新分发，那么可以考虑在分配时间戳之前使用它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30305,8 +30305,8 @@
       <tuv lang="EN-US">
         <seg>It is best practice to assign timestamps and generate watermarks as close to the sour‐ ces as possible or even within the SourceFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T031544Z" creationid="xccui" creationdate="20190620T031544Z">
-        <seg>最佳做法就是在尽可能靠近数据源的地方甚至在SourceFunction内部，分配时间戳和生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T054800Z" creationid="xccui" creationdate="20190620T031544Z">
+        <seg>最佳做法就是在尽可能靠近数据源的地方，甚至是SourceFunction内部，分配时间戳并生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61195,8 +61195,8 @@
       <tuv lang="EN-US">
         <seg>tions, mixes up the timestamp order of the elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T054705Z" creationid="xccui" creationdate="20190620T031401Z">
-        <seg>都会导致元素的时间戳产生乱序。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T054733Z" creationid="xccui" creationdate="20190620T031401Z">
+        <seg>都会导致元素的时间戳混乱。</seg>
       </tuv>
     </tu>
     <tu>
