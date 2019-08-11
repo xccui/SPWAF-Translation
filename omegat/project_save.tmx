@@ -46234,8 +46234,8 @@
       <tuv lang="EN-US">
         <seg>They are called on a stream of elements and produce a new stream of timestamped elements and water‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T033231Z" creationid="xccui" creationdate="20190620T033231Z">
-        <seg>它们会作用于数据流的元素之上，生成一条带有时间戳和水位线的新数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055045Z" creationid="xccui" creationdate="20190620T033231Z">
+        <seg>它们会作用在数据流的元素之上，生成一条带有时间戳和水位线的新数据流。</seg>
       </tuv>
     </tu>
     <tu>
