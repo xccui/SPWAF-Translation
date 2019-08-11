@@ -17929,8 +17929,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-3 shows an assigner with periodic timestamps that produces watermarks by keeping track of the maximum element timestamp it has seen so far.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050837Z" creationid="xccui" creationdate="20190620T050837Z">
-        <seg>示例6-3展示了一个周期性水位线分配器，它通过跟踪至今所见最大的元素时间戳来生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055528Z" creationid="xccui" creationdate="20190620T050837Z">
+        <seg>示例6-3展示了一个周期性水位线分配器，它通过跟踪至今为止所见最大的元素时间戳来生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
