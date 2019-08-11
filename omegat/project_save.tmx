@@ -53339,8 +53339,8 @@
       <tuv lang="EN-US">
         <seg>You may have been able to generate a result earlier but you had to wait for the water‐ mark.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T034128Z" creationid="xccui" creationdate="20190621T034128Z">
-        <seg>换言之，可能你早就能够生成结果，但必须等待水位线来触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060941Z" creationid="xccui" creationdate="20190621T034128Z">
+        <seg>换言之，你可能早就能够生成结果，但却必须等待水位线来触发。</seg>
       </tuv>
     </tu>
     <tu>
