@@ -24833,8 +24833,8 @@
       <tuv lang="EN-US">
         <seg>However, you can configure the RocksDB state backend to also store the timers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065154Z">
-        <seg>同时你可以配置RocksDB状态后端来存计时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063206Z" creationid="xccui" creationdate="20190621T065154Z">
+        <seg>同时你也可以配置RocksDB状态后端来存计时器。</seg>
       </tuv>
     </tu>
     <tu>
