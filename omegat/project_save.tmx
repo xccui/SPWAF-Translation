@@ -8152,8 +8152,8 @@
       <tuv lang="EN-US">
         <seg>A KeyedProcessFunction that emits a warning if the temperature of a sensor monotonically increases for 1 second in processing time</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T055114Z" creationid="xccui" creationdate="20190620T055114Z">
-        <seg>KeyedProcessFunction，如果传感器温度在处理时间1秒内单调增加，则发出警告</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063441Z" creationid="xccui" creationdate="20190620T055114Z">
+        <seg>KeyedProcessFunction，如果传感器温度在处理时间1秒内持续增加，则发出警告</seg>
       </tuv>
     </tu>
     <tu>
