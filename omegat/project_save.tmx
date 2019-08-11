@@ -48442,8 +48442,8 @@
       <tuv lang="EN-US">
         <seg>To use timers on a nonkeyed stream, you can create a keyed stream by</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T062029Z">
-        <seg>为了在一条非键值分区的数据流上使用计时器，你可以通过在KeySelector中返回一个假的常数键值来创建一条键值分区数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063030Z" creationid="xccui" creationdate="20190621T062029Z">
+        <seg>为了在一条非键值分区的数据流上使用计时器，你可以通过在KeySelector中返回一个"假冒的"常数键值来创建一条键值分区数据流。</seg>
       </tuv>
     </tu>
     <tu>
