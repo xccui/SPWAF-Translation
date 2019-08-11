@@ -11096,8 +11096,8 @@
       <tuv lang="EN-US">
         <seg>An event-time window triggers when the watermarks declare that all timestamps for a certain time interval have been received.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071049Z" creationid="xccui" creationdate="20190619T071049Z">
-        <seg>当水位线表明某个时间间隔内所有时间戳都已接收时，事件时间窗口才会触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T045728Z" creationid="xccui" creationdate="20190619T071049Z">
+        <seg>只有依靠水位线声明某个时间间隔内所有时间戳都已接收时，事件时间窗口才会触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12481,8 +12481,8 @@
       <tuv lang="EN-US">
         <seg>As you learned in “Timestamps” on page 47, time‐ stamps either exist in the data before entering the data processing pipeline, or are assigned by the application at the sources.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070828Z" creationid="xccui" creationdate="20190619T070828Z">
-        <seg>在第47页"时间戳"一节，你了解到了时间戳在数据进入处理管道之前就已经存在其中或者由应用在数据源处分配。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T045601Z" creationid="xccui" creationdate="20190619T070828Z">
+        <seg>正如在第47页"时间戳"一节所介绍的，时间戳在数据进入处理管道之前就已经存在其中，或者需要由应用在数据源处分配。</seg>
       </tuv>
     </tu>
     <tu>
