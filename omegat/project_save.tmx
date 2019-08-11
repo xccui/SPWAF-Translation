@@ -47130,8 +47130,8 @@
       <tuv lang="EN-US">
         <seg>This means if the difference between an element’s event time and the maximum timestamp of all previous elements is greater than 10 seconds, the element might arrive for processing after its corresponding computation has completed and the result has been emitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053515Z" creationid="xccui" creationdate="20190620T053515Z">
-        <seg>这意味着如果元素的事件时间和之前到达元素的最大时间戳相差超过10秒，那么当元素到达并开始处理时，它本应参与的计算可能已经完成，结果已经发出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060040Z" creationid="xccui" creationdate="20190620T053515Z">
+        <seg>这意味着如果元素的事件时间和之前到达元素的最大时间戳相差超过10秒，那么当元素到达并开始处理时，它本应参与的计算可能已经完成并发出结果。</seg>
       </tuv>
     </tu>
     <tu>
