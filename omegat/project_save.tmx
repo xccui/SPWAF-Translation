@@ -13137,8 +13137,8 @@
       <tuv lang="EN-US">
         <seg>Besides watermarks, Flink has many features to tweak the exact behavior of time-based oper‐ ations, such as process functions and window triggers, and offers different ways to handle late data, which are discussed in “Handling Late Data” on page 148.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T043032Z" creationid="xccui" creationdate="20190621T042913Z">
-        <seg>除了水位线，Flink还有很多功能可用于调整那些时间相关操作（例如：处理函数和窗口触发器）的具体行为。此外，它还提供了不同的方法来处理迟到数据，相关内容会在148页"处理迟到数据"一节进行讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T061436Z" creationid="xccui" creationdate="20190621T042913Z">
+        <seg>除了水位线，Flink还有很多功能可用于调整时间相关相关操作（例如处理函数和窗口触发器）的具体行为。此外，它还提供了不同的方法来处理迟到数据，相关内容会在148页"处理迟到数据"一节进行讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49138,8 +49138,8 @@
       <tuv lang="EN-US">
         <seg>Unlike batch applications, which are built around the premise that all data is avail‐ able, the latency/completeness tradeoff is a fundamental characteristic of stream pro‐ cessing applications, which process unbounded data as it arrives.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T042217Z" creationid="xccui" creationdate="20190621T042217Z">
-        <seg>批处理应用构建的前提是所有数据都处于随时可用状态。而流处理应用需要处理随时到来的无限数据，因此延迟和完整性之间的取舍是它的一项基本特征。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T061402Z" creationid="xccui" creationdate="20190621T042217Z">
+        <seg>对于批处理应用而言，构建的前提是所有数据都处于可用状态。而流处理应用需要应对随时到来的无限数据，因此要在延迟和完整性之间进行取舍是它的一项基本特点。</seg>
       </tuv>
     </tu>
     <tu>
