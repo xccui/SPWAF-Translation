@@ -42650,8 +42650,8 @@
       <tuv lang="EN-US">
         <seg>The following code shows how to apply a KeyedProcessFunction to a KeyedStream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T070648Z" creationid="xccui" creationdate="20190621T070648Z">
-        <seg>以下代码展示了如何将KeyedProcessFunction用在一个KeyedStream上面：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063403Z" creationid="xccui" creationdate="20190621T070648Z">
+        <seg>以下代码展示了如何在一个KeyedStream上面使用KeyedProcessFunction：</seg>
       </tuv>
     </tu>
     <tu>
