@@ -17353,8 +17353,8 @@
       <tuv lang="EN-US">
         <seg>Event-time timers fire when the next watermark is processed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T070525Z">
-        <seg>事件时间计时器会在处理下一条水位线的时候触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063339Z" creationid="xccui" creationdate="20190621T070525Z">
+        <seg>事件时间计时器会在处理下一条水位线时触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47890,8 +47890,8 @@
       <tuv lang="EN-US">
         <seg>Timers that are registered for a timestamp in the past are not silently dropped but processed as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T070407Z">
-        <seg>以过去的时间戳注册的计时器不会被静默删除，而同样会被处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063335Z" creationid="xccui" creationdate="20190621T070407Z">
+        <seg>以过去的时间戳注册的计时器不会被静默地删除，而同样会被处理。</seg>
       </tuv>
     </tu>
     <tu>
