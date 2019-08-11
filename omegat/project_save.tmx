@@ -47218,8 +47218,8 @@
       <tuv lang="EN-US">
         <seg>This method uses the current timestamp to generate watermarks, since no earlier timestamps can appear.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051836Z" creationid="xccui" creationdate="20190620T051801Z">
-        <seg>基于时间戳不会回退，该方法使用当前时间戳生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055745Z" creationid="xccui" creationdate="20190620T051801Z">
+        <seg>基于时间戳不会回退的假设，该方法使用当前时间戳生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
