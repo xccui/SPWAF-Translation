@@ -35018,8 +35018,8 @@
       <tuv lang="EN-US">
         <seg>Process functions are com‐ monly used to build event-driven applications and to implement custom logic for which predefined windows and transformations might not be suitable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T044500Z" creationid="xccui" creationdate="20190621T044500Z">
-        <seg>处理函数常被用于构建事件驱动型应用或实现一些内置窗口及转换可能不太适合的自定义逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062009Z" creationid="xccui" creationdate="20190621T044500Z">
+        <seg>处理函数常被用于构建事件驱动型应用，或实现一些内置窗口及转换可能不太适合的自定义逻辑。</seg>
       </tuv>
     </tu>
     <tu>
