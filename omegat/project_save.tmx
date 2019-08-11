@@ -9880,8 +9880,8 @@
       <tuv lang="EN-US">
         <seg>A watermark tells operators that no more events with a timestamp less than or equal to the watermark are expected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T020532Z" creationid="xccui" creationdate="20190620T020532Z">
-        <seg>水位线告知算子不必再等那些时间戳小于或等于水位线的事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T051557Z" creationid="xccui" creationdate="20190620T020532Z">
+        <seg>水位线用于告知算子不必再等那些时间戳小于或等于水位线的事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16745,8 +16745,8 @@
       <tuv lang="EN-US">
         <seg>Each event must be associated with a timestamp that typically indicates when the event actually happened.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T015417Z" creationid="xccui" creationdate="20190620T015417Z">
-        <seg>每个事件都需要关联一个时间戳，该时间戳通常用来表示事件的实际发生时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T050841Z" creationid="xccui" creationdate="20190620T015417Z">
+        <seg>每个事件都需要关联一个时间戳，该时间戳通常用来表示事件的实际发生时间；</seg>
       </tuv>
     </tu>
     <tu>
