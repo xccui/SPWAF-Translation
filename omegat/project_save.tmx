@@ -52123,8 +52123,8 @@
       <tuv lang="EN-US">
         <seg>While this might yield incomplete or inaccurate results, the results are produced in a timely fashion with lower latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T040711Z" creationid="xccui" creationdate="20190621T040711Z">
-        <seg>虽然这会导致结果不完整或不准确，但能够做到以较低延迟及时地生成结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T061234Z" creationid="xccui" creationdate="20190621T040711Z">
+        <seg>虽然这会导致结果不完整或不准确，但相应地可以做到以较低延迟及时生成结果。</seg>
       </tuv>
     </tu>
     <tu>
