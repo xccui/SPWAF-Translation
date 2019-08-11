@@ -42802,8 +42802,8 @@
       <tuv lang="EN-US">
         <seg>The following shows how to generate watermarks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T051947Z" creationid="xccui" creationdate="20190620T051912Z">
-        <seg>下方展示了如何对递增时间戳生成水位线：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055825Z" creationid="xccui" creationdate="20190620T051912Z">
+        <seg>下方展示了如何针对递增时间戳生成水位线：</seg>
       </tuv>
     </tu>
     <tu>
