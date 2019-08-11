@@ -20889,8 +20889,8 @@
       <tuv lang="EN-US">
         <seg>Flink offers different strategies to handle such late events, and we discuss those later in “Handling Late Data” on page 148.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T053636Z" creationid="xccui" creationdate="20190620T053636Z">
-        <seg>Flink为处理此类迟到事件提供了不同的策略，我们稍后会在148页"处理迟到数据"中对它们进行介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060103Z" creationid="xccui" creationdate="20190620T053636Z">
+        <seg>Flink为处理此类迟到事件提供了不同的策略，我们稍后将在148页"处理迟到数据"中对它们进行介绍。</seg>
       </tuv>
     </tu>
     <tu>
