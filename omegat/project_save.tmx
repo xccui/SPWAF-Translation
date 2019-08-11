@@ -55579,8 +55579,8 @@
       <tuv lang="EN-US">
         <seg>deleteEventTimeTimer(timestamp: Long): Unit deletes an event-time timer that was previously registered for the current key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060658Z">
-        <seg>deleteEventTimeTimer(timestamp: Long): Unit针对当前键值删除一个过去注册的事件时间计时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062828Z" creationid="xccui" creationdate="20190621T060658Z">
+        <seg>deleteEventTimeTimer(timestamp: Long): Unit针对当前键值删除一个注册过的事件时间计时器。</seg>
       </tuv>
     </tu>
     <tu>
