@@ -33321,8 +33321,8 @@
       <tuv lang="EN-US">
         <seg>Of course, you can still use processing-time windows and timers if you choose the EventTime time characteristic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190619T073009Z">
-        <seg>当然，即便选择EventTime时间特性，仍然可以使用处理时间窗口和计时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T050731Z" creationid="xccui" creationdate="20190619T073009Z">
+        <seg>当然，即便选择EventTime时间特性，你仍然可以使用处理时间窗口和计时器。</seg>
       </tuv>
     </tu>
     <tu>
