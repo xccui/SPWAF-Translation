@@ -44106,8 +44106,8 @@
       <tuv lang="EN-US">
         <seg>The other common case of periodic watermark generation is when you know the maximum lateness that you will encounter in the input stream—the maximum differ‐ ence between an element’s timestamp and the largest timestamp of all perviously</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T052720Z" creationid="xccui" creationdate="20190620T052720Z">
-        <seg>另一个周期性生成水位线的常见情况是，你知道输入流中的延迟（任意新到元素和已到时间戳最大的元素之间的时间差）上限。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055905Z" creationid="xccui" creationdate="20190620T052720Z">
+        <seg>另一个周期性生成水位线的常见情况是，你知道输入流中的延迟（任意新到元素和已到时间戳最大元素之间的时间差）上限。</seg>
       </tuv>
     </tu>
     <tu>
