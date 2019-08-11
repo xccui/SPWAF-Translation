@@ -45354,8 +45354,8 @@
       <tuv lang="EN-US">
         <seg>The timer will fire when the watermark is updated to a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T060423Z">
-        <seg>当更新候的水位线时间戳大于或等于计时器的时间戳时，它就会触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062743Z" creationid="xccui" creationdate="20190621T060423Z">
+        <seg>当更新后的水位线时间戳大于或等于计时器的时间戳时，它就会触发。</seg>
       </tuv>
     </tu>
     <tu>
