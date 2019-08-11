@@ -12417,8 +12417,8 @@
       <tuv lang="EN-US">
         <seg>As usual, result records are emitted by passing them to the Collector.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T053914Z" creationid="xccui" creationdate="20190621T053914Z">
-        <seg>照例，在其中可以将结果记录传递给Collector发送出去。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062255Z" creationid="xccui" creationdate="20190621T053914Z">
+        <seg>照例，你可以在方法中将结果记录传递给Collector发送出去。</seg>
       </tuv>
     </tu>
     <tu>
