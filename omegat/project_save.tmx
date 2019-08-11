@@ -29361,8 +29361,8 @@
       <tuv lang="EN-US">
         <seg>In “Emitting to Side Outputs” on page 119, we present the side-output feature of the process functions, which can emit multiple streams of different types from a function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190615T064512Z" creationid="xccui" creationdate="20190615T064512Z">
-        <seg>在119页"发送至副输出"一节，我们会介绍针对处理函数的副输出功能，它可以从函数中发出多条类型不同的数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T061711Z" creationid="xccui" creationdate="20190615T064512Z">
+        <seg>在119页"向副输出发送数据"一节，我们会介绍针对处理函数的副输出功能，它可以从函数中发出多条类型不同的数据流。</seg>
       </tuv>
     </tu>
     <tu>
