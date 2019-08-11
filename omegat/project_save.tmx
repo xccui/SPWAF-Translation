@@ -17945,8 +17945,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-4 shows a punctuated watermark assigner that emits a watermark for every reading it receives from the sensor with the ID "sensor_1".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T054733Z" creationid="xccui" creationdate="20190620T054733Z">
-        <seg>示例6-4展示的定点水位线生成器为从ID为"sensor_1"的传感器接收到的所有读数产生水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060437Z" creationid="xccui" creationdate="20190620T054733Z">
+        <seg>示例6-4展示的定点水位线生成器会根据从ID为"sensor_1"的传感器接收到的所有读数产生水位线。</seg>
       </tuv>
     </tu>
     <tu>
