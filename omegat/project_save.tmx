@@ -30209,8 +30209,8 @@
       <tuv lang="EN-US">
         <seg>It gives access to the timestamp and the key of the current record and to a TimerService.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T054048Z" creationid="xccui" creationdate="20190621T054048Z">
-        <seg>通过它可以访问时间戳、当前记录的键值以及TimerService。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062552Z" creationid="xccui" creationdate="20190621T054048Z">
+        <seg>你可以通过它访问时间戳、当前记录的键值以及TimerService。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58435,8 +58435,8 @@
       <tuv lang="EN-US">
         <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT]) is a callback function that is invoked when a previously registered timer triggers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T054245Z">
-        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT])是一个回调函数，会在之前注册的计时器触发时被调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062607Z" creationid="xccui" creationdate="20190621T054245Z">
+        <seg>onTimer(timestamp: Long, ctx: OnTimerContext, out: Collector[OUT])是一个回调函数，它会在之前注册的计时器触发时被调用。</seg>
       </tuv>
     </tu>
     <tu>
