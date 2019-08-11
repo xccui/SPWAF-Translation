@@ -61075,8 +61075,8 @@
       <tuv lang="EN-US">
         <seg>timestamp larger than the timestamp of the previous watermark, the new watermark</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T050324Z" creationid="xccui" creationdate="20190620T050302Z">
-        <seg>且它的时间戳大于上一个水位线的时间戳，则算子就会发出一个新的水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055438Z" creationid="xccui" creationdate="20190620T050302Z">
+        <seg>且它的时间戳大于上一个水位线的时间戳，那么算子就会发出一个新的水位线。</seg>
       </tuv>
     </tu>
     <tu>
