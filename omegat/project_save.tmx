@@ -46642,8 +46642,8 @@
       <tuv lang="EN-US">
         <seg>This check is necessary to ensure event time continuously increases; otherwise no watermark is produced.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055451Z" creationid="xccui" creationdate="20190620T050454Z">
-        <seg>这项检查对于保证事件时间持续递增十分必要，一旦失败将不会生成水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055513Z" creationid="xccui" creationdate="20190620T050454Z">
+        <seg>这项检查对于保证事件时间持续递增十分必要，一旦检查失败将不会生成水位线。</seg>
       </tuv>
     </tu>
     <tu>
