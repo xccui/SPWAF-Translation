@@ -54099,8 +54099,8 @@
       <tuv lang="EN-US">
         <seg>assignTimestampsAndWatermarks() method where we define the timestamp assigner</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044558Z" creationid="xccui" creationdate="20190620T044558Z">
-        <seg>然后调用assignTimestampsAndWatermarks()方法传入时间戳分配器MyAssigner()。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055129Z" creationid="xccui" creationdate="20190620T044558Z">
+        <seg>然后调用assignTimestampsAndWatermarks()方法传入时间戳分配器MyAssigner。</seg>
       </tuv>
     </tu>
     <tu>
