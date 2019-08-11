@@ -17985,8 +17985,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-7 shows the FreezingMonitor function that monitors a stream of sensor readings and emits a warning to a side output for readings with a temperature below</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T023536Z" creationid="xccui" creationdate="20190622T023245Z">
-        <seg>示例6-7所示的FreezingMonitor函数用于监控传感器读数流，它对于读数温度低于32°F的记录向副输出发送警告。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T203204Z" creationid="xccui" creationdate="20190622T023245Z">
+        <seg>示例6-7所示的FreezingMonitor函数用于监控传感器读数流，它会对读数温度低于32°F的记录向副输出发送警告。</seg>
       </tuv>
     </tu>
     <tu>
