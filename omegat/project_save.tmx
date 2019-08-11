@@ -40290,8 +40290,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides the TimestampAssigner interface to extract time‐ stamps from elements after they have been ingested into the streaming application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T025925Z" creationid="xccui" creationdate="20190620T025925Z">
-        <seg>DataStream API提供了TimestampAssigner接口，用于从已读入流式应用的元素中提取时间戳。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T053716Z" creationid="xccui" creationdate="20190620T025925Z">
+        <seg>DataStream API中提供了TimestampAssigner接口，用于从已读入流式应用的元素中提取时间戳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49010,8 +49010,8 @@
       <tuv lang="EN-US">
         <seg>Typically, the timestamp assigner is called right after the source function because most assigners make assumptions about the order of elements with respect to their timestamps when generating watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T030818Z" creationid="xccui" creationdate="20190620T030818Z">
-        <seg>通常情况下，应该在数据源函数后面立即调用时间戳分配器，因为大多数分配器在生成水位线的时候都会做出一些元素顺序相对时间戳的假设。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T054548Z" creationid="xccui" creationdate="20190620T030818Z">
+        <seg>通常情况下，应该在数据源函数后面立即调用时间戳分配器，因为大多数分配器在生成水位线的时候都会做出一些有关元素顺序相对时间戳的假设。</seg>
       </tuv>
     </tu>
     <tu>
