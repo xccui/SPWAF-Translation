@@ -27337,8 +27337,8 @@
       <tuv lang="EN-US">
         <seg>In general, using processing time for window operations results in nondeterministic results</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065815Z" creationid="xccui" creationdate="20190619T065807Z">
-        <seg>通常情况下，在窗口算子中使用处理时间会导致不确定的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T045304Z" creationid="xccui" creationdate="20190619T065807Z">
+        <seg>通常情况下，在窗口算子中使用处理时间会导致不确定的结果，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35146,8 +35146,8 @@
       <tuv lang="EN-US">
         <seg>Processing- time windows trigger based on machine time and include whatever elements happen to have arrived at the operator until that point in time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065433Z" creationid="xccui" creationdate="20190619T065139Z">
-        <seg>处理时间窗口基于机器时间触发，它涵盖了触发时间点之前所有到达算子的元素。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T045243Z" creationid="xccui" creationdate="20190619T065139Z">
+        <seg>处理时间窗口基于机器时间触发，它可以涵盖触发时间点之前到达算子的任意元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47330,8 +47330,8 @@
       <tuv lang="EN-US">
         <seg>This setting offers very low latency because processing tasks do not have to wait for watermarks to advance the event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T070153Z" creationid="xccui" creationdate="20190619T070153Z">
-        <seg>在该配置下，由于处理任务无须等待水位线来驱动事件时间前进，所以可以提供极低的延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T045359Z" creationid="xccui" creationdate="20190619T070153Z">
+        <seg>在该配置下，由于处理任务无须依靠等待水位线来驱动事件时间前进，所以可以提供极低的延迟。</seg>
       </tuv>
     </tu>
     <tu>
