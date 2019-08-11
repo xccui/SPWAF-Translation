@@ -17073,8 +17073,8 @@
       <tuv lang="EN-US">
         <seg>Estimates mean there is room for errors, in which case you might gen‐ erate watermarks that are inaccurate, resulting in late data or an unnecessary increase in the application’s latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T033508Z" creationid="xccui" creationdate="20190621T033508Z">
-        <seg>既然是估计，就会有误差，这意味着你可能会生成不准确的水位线，导致出现迟到数据或应用处理延迟的无谓增加。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060756Z" creationid="xccui" creationdate="20190621T033508Z">
+        <seg>既然是估计，就会有误差，这意味着你可能会生成不准确的水位线，导致出现迟到数据或无谓增加应用处理延迟。</seg>
       </tuv>
     </tu>
     <tu>
