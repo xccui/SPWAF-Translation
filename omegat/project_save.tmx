@@ -21153,8 +21153,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides the AssignerWithPunctuatedWatermarks interface for such cases, or when watermarks can be defined based on some other property of</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060157Z" creationid="xccui" creationdate="20190620T054023Z">
-        <seg>Flink为此类情况以及可根据输入元素生成水位线的情况提供了AssignerWithPunctuatedWatermarks接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060215Z" creationid="xccui" creationdate="20190620T054023Z">
+        <seg>Flink为此类情形以及可根据输入元素生成水位线的情形提供了AssignerWithPunctuatedWatermarks接口。</seg>
       </tuv>
     </tu>
     <tu>
