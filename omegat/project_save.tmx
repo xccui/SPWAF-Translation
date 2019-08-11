@@ -17129,8 +17129,8 @@
       <tuv lang="EN-US">
         <seg>Even though time information and watermarks are crucial to many streaming appli‐ cations, you might have noticed that we cannot access them through the basic Data‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T061504Z" creationid="xccui" creationdate="20190621T043212Z">
-        <seg>虽然时间信息和水位线对于很多流式应用都至关重要，但你可能已经注意到我们无法通过前面介绍的DataStream API转换来访问它们。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T061522Z" creationid="xccui" creationdate="20190621T043212Z">
+        <seg>虽然时间信息和水位线对于很多流式应用都至关重要，但你可能已经注意到，我们无法通过前面介绍的DataStream API转换来访问它们。</seg>
       </tuv>
     </tu>
     <tu>
