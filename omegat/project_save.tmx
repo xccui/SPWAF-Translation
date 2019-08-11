@@ -47842,8 +47842,8 @@
       <tuv lang="EN-US">
         <seg>Timers are always asynchronously checkpointed, with one exception.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190621T065600Z">
-        <seg>计时器通常会以异步方式存入检查点，但有一个例外。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063240Z" creationid="xccui" creationdate="20190621T065600Z">
+        <seg>计时器通常会以异步方式存入检查点，但有一个例外：</seg>
       </tuv>
     </tu>
     <tu>
