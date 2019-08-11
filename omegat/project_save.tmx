@@ -54955,8 +54955,8 @@
       <tuv lang="EN-US">
         <seg>compared to event time as it does not provide deterministic results and has simi‐ lar performance as event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T071915Z" creationid="xccui" creationdate="20190619T071915Z">
-        <seg>和事件时间相比，它的实际价值不大，因为无法提供确定的结果且性能还和事件时间类似。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T050043Z" creationid="xccui" creationdate="20190619T071915Z">
+        <seg>和事件时间相比，摄入时间的实际价值不大，因为无法提供确定的结果且性能还和事件时间类似。</seg>
       </tuv>
     </tu>
     <tu>
