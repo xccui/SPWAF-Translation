@@ -28193,8 +28193,8 @@
       <tuv lang="EN-US">
         <seg>In the example above, MyAssigner can either be of type AssignerWithPeriodicWater marks or AssignerWithPunctuatedWatermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044801Z" creationid="xccui" creationdate="20190620T044801Z">
-        <seg>在上面的例子中，MyAssigner既可以是AssignerWithPeriodicWatermarks，也可以是AssignerWithPunctuatedWatermarks.</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055204Z" creationid="xccui" creationdate="20190620T044801Z">
+        <seg>在上面的例子中，MyAssigner既可以是AssignerWithPeriodicWatermarks，也可以是AssignerWithPunctuatedWatermarks。</seg>
       </tuv>
     </tu>
     <tu>
