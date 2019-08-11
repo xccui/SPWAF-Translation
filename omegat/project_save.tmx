@@ -55723,8 +55723,8 @@
       <tuv lang="EN-US">
         <seg>effectively executed with a parallelism of 1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T064006Z" creationid="xccui" creationdate="20190621T064006Z">
-        <seg>强制算子以并行度1来执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063114Z" creationid="xccui" creationdate="20190621T064006Z">
+        <seg>从而强制算子以并行度1来执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63403,8 +63403,8 @@
       <tuv lang="EN-US">
         <seg>will move all data to a single task such that the operator would be</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T062540Z" creationid="xccui" creationdate="20190621T062117Z">
-        <seg>注意，这样操作会使所有数据发到单个任务上，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T063110Z" creationid="xccui" creationdate="20190621T062117Z">
+        <seg>注意，该操作会使所有数据发送到单个任务上，</seg>
       </tuv>
     </tu>
     <tu>
