@@ -33953,8 +33953,8 @@
       <tuv lang="EN-US">
         <seg>Only the split operator allows splitting a stream into multiple streams of the same type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T013746Z" creationid="xccui" creationdate="20190622T013746Z">
-        <seg>只有split算子可以将一条数据流拆分成多条类型相同的流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T202733Z" creationid="xccui" creationdate="20190622T013746Z">
+        <seg>只有split算子可以将一条流拆分成多条类型相同的流。</seg>
       </tuv>
     </tu>
     <tu>
