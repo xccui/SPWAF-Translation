@@ -38770,8 +38770,8 @@
       <tuv lang="EN-US">
         <seg>StreamExecutionEnvironment and it takes the following values:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T065200Z" creationid="xccui" creationdate="20190619T055332Z">
-        <seg>时间特性是StreamExecutionEnvironment的属性，它可以接收以下值：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T033320Z" creationid="xccui" creationdate="20190619T055332Z">
+        <seg>时间特性是StreamExecutionEnvironment的一个属性，它可以接收以下值：</seg>
       </tuv>
     </tu>
     <tu>
