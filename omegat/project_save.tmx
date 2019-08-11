@@ -50506,8 +50506,8 @@
       <tuv lang="EN-US">
         <seg>We will continue dis‐ cussing these common features by looking in detail at the KeyedProcessFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190621T052436Z" creationid="xccui" creationdate="20190621T052436Z">
-        <seg>接下来我们会以KeyedProcessFunction为例来讨论这些通用的功能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062135Z" creationid="xccui" creationdate="20190621T052436Z">
+        <seg>接下来我们会以KeyedProcessFunction为例来讨论函数的通用功能。</seg>
       </tuv>
     </tu>
     <tu>
