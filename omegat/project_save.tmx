@@ -58011,8 +58011,8 @@
       <tuv lang="EN-US">
         <seg>neither the ReduceFunction nor the AggregateFunction are suitable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T010013Z" creationid="xccui" creationdate="20190624T010013Z">
-        <seg>对于此类应用，ReduceFunction和AggregateFunction都不合适。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T040332Z" creationid="xccui" creationdate="20190624T010013Z">
+        <seg>对于此类应用，ReduceFunction和AggregateFunction都不适用。</seg>
       </tuv>
     </tu>
     <tu>
