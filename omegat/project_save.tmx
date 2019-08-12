@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>("sensor_2", 10 * 1000L), // forward sensor_2 for 10 seconds</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031629Z" creationid="xccui" creationdate="20190622T031629Z">
-        <seg>("sensor_2", 10 * 1000L), // 将sensor_2转发10秒</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T014232Z" creationid="xccui" creationdate="20190622T031629Z">
+        <seg>("sensor_2", 10 * 1000L), // 转发sensor_210秒</seg>
       </tuv>
     </tu>
     <tu>
