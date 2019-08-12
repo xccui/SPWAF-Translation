@@ -3168,8 +3168,8 @@
       <tuv lang="EN-US">
         <seg>// emitting the corresponding time window</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044217Z" creationid="xccui" creationdate="20190626T044132Z">
-        <seg>// 传出相应的时间窗口</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052429Z" creationid="xccui" creationdate="20190626T044132Z">
+        <seg>// 发出相应的时间窗口</seg>
       </tuv>
     </tu>
     <tu>
