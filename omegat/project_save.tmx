@@ -19929,8 +19929,8 @@
       <tuv lang="EN-US">
         <seg>Finally, if the operator has an incremental aggregation function and a full window function, the full window function is applied on the aggregated value and the result is emitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T054251Z" creationid="xccui" creationdate="20190625T054251Z">
-        <seg>最后，如果算子同时拥有一个增量聚合函数和一个全量窗口函数，后者将作用于前者产生的聚合值上，之后便会发出结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051447Z" creationid="xccui" creationdate="20190625T054251Z">
+        <seg>最后，如果算子同时拥有一个增量聚合函数和一个全量窗口函数，那么后者将作用于前者产生的聚合值上，之后便会发出结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42330,8 +42330,8 @@
       <tuv lang="EN-US">
         <seg>The evictor is an optional component that can be injected before or after a Process WindowFunction is called.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T201552Z" creationid="xccui" creationdate="20190625T214328Z">
-        <seg>移除器作为一个可选组件，允许在ProcessWindowFunction调用前或后注入。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051523Z" creationid="xccui" creationdate="20190625T214328Z">
+        <seg>移除器作为一个可选组件，允许在ProcessWindowFunction调用之前或之后注入。</seg>
       </tuv>
     </tu>
     <tu>
