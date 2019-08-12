@@ -41194,8 +41194,8 @@
       <tuv lang="EN-US">
         <seg>The accumulator maintains a running sum and count and the getResult() method computes the average value.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005407Z" creationid="xccui" creationdate="20190624T005407Z">
-        <seg>其累加器负责维护不断变化的总和及数量，getResult()方法用来计算平均值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T040049Z" creationid="xccui" creationdate="20190624T005407Z">
+        <seg>其累加器负责维护不断变化的温度总和及数量，getResult()方法用来计算平均值。</seg>
       </tuv>
     </tu>
     <tu>
