@@ -56443,8 +56443,8 @@
       <tuv lang="EN-US">
         <seg>gives access to the element or timer timestamp, a TimerService, and side outputs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190622T031158Z">
-        <seg>在被调用时都会传入一个Context对象，可用于访问当前元素或计时器时间戳，TimerService，以及副输出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T012329Z" creationid="xccui" creationdate="20190622T031158Z">
+        <seg>在被调用时都会传入一个Context对象，用于访问当前元素或计时器时间戳、TimerService及副输出。</seg>
       </tuv>
     </tu>
     <tu>
