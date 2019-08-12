@@ -41210,8 +41210,8 @@
       <tuv lang="EN-US">
         <seg>The advantages of applying ReduceFunction on a window are the constant and small state size per window and the simple function interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T001857Z" creationid="xccui" creationdate="20190624T001857Z">
-        <seg>在窗口上应用ReduceFunction的优点是只需为每个窗口维护一个常数级别的小状态，此外函数的接口也很简单。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035612Z" creationid="xccui" creationdate="20190624T001857Z">
+        <seg>在窗口上应用ReduceFunction的优点是只须为每个窗口维护一个常数级别的小状态，此外函数的接口也很简单。</seg>
       </tuv>
     </tu>
     <tu>
