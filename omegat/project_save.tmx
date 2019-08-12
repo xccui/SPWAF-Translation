@@ -17457,8 +17457,8 @@
       <tuv lang="EN-US">
         <seg>Every time a trigger is called it produces a TriggerResult that determines what should happen to the window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184327Z" creationid="xccui" creationdate="20190626T184327Z">
-        <seg>每次调用触发器都会生成一个TriggerResult，它用于决定窗口在接下来的行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052805Z" creationid="xccui" creationdate="20190626T184327Z">
+        <seg>每次调用触发器都会生成一个TriggerResult，它用于决定窗口接下来的行为。</seg>
       </tuv>
     </tu>
     <tu>
