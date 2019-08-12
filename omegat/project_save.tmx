@@ -39002,8 +39002,8 @@
       <tuv lang="EN-US">
         <seg>Subsequently, it merges all windows with overlapping ranges.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T062316Z" creationid="xccui" creationdate="20190623T062316Z">
-        <seg>随后分配器会合并所有范围存在重叠的窗口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T032036Z" creationid="xccui" creationdate="20190623T062316Z">
+        <seg>随后分配器会将所有范围存在重叠的窗口合并。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52235,8 +52235,8 @@
       <tuv lang="EN-US">
         <seg>Window functions define the computation that is performed on the elements of a window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T205944Z" creationid="xccui" creationdate="20190623T205944Z">
-        <seg>窗口函数定义了针对窗口内每一个元素的计算逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T032101Z" creationid="xccui" creationdate="20190623T205944Z">
+        <seg>窗口函数定义了针对窗口内元素的计算逻辑。</seg>
       </tuv>
     </tu>
     <tu>
