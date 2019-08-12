@@ -48682,8 +48682,8 @@
       <tuv lang="EN-US">
         <seg>TriggerResult can take one of the following values:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184354Z" creationid="xccui" creationdate="20190626T184354Z">
-        <seg>TriggerResult允许是以下值之一：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052814Z" creationid="xccui" creationdate="20190626T184354Z">
+        <seg>TriggerResult可以是以下值之一：</seg>
       </tuv>
     </tu>
     <tu>
