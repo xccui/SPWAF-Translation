@@ -54147,8 +54147,8 @@
       <tuv lang="EN-US">
         <seg>ator does not have an incremental aggregation function, the new element is appended to a ListState that holds all assigned elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052516Z" creationid="xccui" creationdate="20190625T052516Z">
-        <seg>如果窗口算子没有配置增量聚合函数，新加入的元素会附加到一个用于存储所有窗口分配元素的ListState上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051208Z" creationid="xccui" creationdate="20190625T052516Z">
+        <seg>如果窗口算子没有配置增量聚合函数，那么新加入的元素会附加到一个用于存储所有窗口分配元素的ListState上。</seg>
       </tuv>
     </tu>
     <tu>
