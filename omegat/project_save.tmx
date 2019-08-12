@@ -29113,8 +29113,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss the different types of functions that can be applied on a window to perform aggregations or arbitrary computations on the window’s con‐ tents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211733Z" creationid="xccui" creationdate="20190623T211733Z">
-        <seg>本节我们将讨论一些可应用于窗口上的不同函数，它们可以对窗口内容执行聚合或任意计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T033628Z" creationid="xccui" creationdate="20190623T211733Z">
+        <seg>本节我们将讨论一些可用在窗口上的不同函数，它们支持对窗口内容执行聚合或任意计算。</seg>
       </tuv>
     </tu>
     <tu>
