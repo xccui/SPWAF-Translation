@@ -52371,8 +52371,8 @@
       <tuv lang="EN-US">
         <seg>Windows are common operations in streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032841Z" creationid="xccui" creationdate="20190622T032841Z">
-        <seg>窗口时流式应用中一类十分常见的操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T023004Z" creationid="xccui" creationdate="20190622T032841Z">
+        <seg>窗口是流式应用中一类十分常见的操作。</seg>
       </tuv>
     </tu>
     <tu>
