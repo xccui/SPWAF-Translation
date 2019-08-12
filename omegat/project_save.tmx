@@ -51259,8 +51259,8 @@
       <tuv lang="EN-US">
         <seg>When applied on a windowed stream, ReduceFunction incrementally aggregates the elements that are assigned to a window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T225051Z" creationid="xccui" creationdate="20190623T224934Z">
-        <seg>当应用于窗口化数据流时，ReduceFunction会对分配给窗口的元素进行增量聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T034235Z" creationid="xccui" creationdate="20190623T224934Z">
+        <seg>当被用在窗口化数据流上时，ReduceFunction会对分配给窗口的元素进行增量聚合。</seg>
       </tuv>
     </tu>
     <tu>
