@@ -49042,8 +49042,8 @@
       <tuv lang="EN-US">
         <seg>Typi‐ cally, these intervals are defined using time-based logic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033117Z" creationid="xccui" creationdate="20190622T033117Z">
-        <seg>通常情况下，这些区间都是使用时间逻辑定义的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T023041Z" creationid="xccui" creationdate="20190622T033117Z">
+        <seg>通常情况下，这些区间都是基于时间逻辑定义的。</seg>
       </tuv>
     </tu>
     <tu>
