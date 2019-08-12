@@ -10728,8 +10728,8 @@
       <tuv lang="EN-US">
         <seg>Along with the previously discussed window functions, these components work together in a window operator to group and process elements in windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T051506Z" creationid="xccui" creationdate="20190625T051506Z">
-        <seg>这些组件和之前讨论的窗口函数协同工作，一起实现对于元素的窗口化分组和处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051103Z" creationid="xccui" creationdate="20190625T051506Z">
+        <seg>这些组件可以和之前讨论的窗口函数协同工作，一起实现对于元素的窗口化分组和处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24161,8 +24161,8 @@
       <tuv lang="EN-US">
         <seg>However, as you start writing more advanced streaming applica‐ tions, you might find yourself needing to implement more complex windowing logic, such as windows that emit early results and update their results if late elements are encountered, or windows that start and end when specific records are received.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T050956Z" creationid="xccui" creationdate="20190625T050956Z">
-        <seg>然而，当你着手写一些高级的流式应用时，可能会发现自己需要实现更为复杂的窗口逻辑，例如：窗口需要提前发出结果并在之后遇到迟到元素时对结果进行更新，或者窗口需要以特定记录作为开始或结束的边界。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T050913Z" creationid="xccui" creationdate="20190625T050956Z">
+        <seg>然而，当你要着手实现一些高级的流式应用时，可能会发现自己需要完成更为复杂的窗口逻辑，例如：窗口需要提前发出结果并在之后遇到迟到元素时对结果进行更新，或者窗口需要以特定记录作为开始或结束的边界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40210,8 +40210,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API exposes interfaces and methods to define custom window oper‐ ators by allowing you to implement your own assigners, triggers, and evictors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T051229Z" creationid="xccui" creationdate="20190625T051229Z">
-        <seg>DataStream API对外暴露了自定义窗口算子的接口和方法，你可以实现自己的分配器、触发器以及移除器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051018Z" creationid="xccui" creationdate="20190625T051229Z">
+        <seg>DataStream API对外暴露了自定义窗口算子的接口和方法，你可以实现自己的分配器（assigner）、触发器（trigger）以及移除器（evictor）。</seg>
       </tuv>
     </tu>
     <tu>
