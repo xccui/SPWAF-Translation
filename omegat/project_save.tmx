@@ -54371,8 +54371,8 @@
       <tuv lang="EN-US">
         <seg>called for each combination of elements from the first and the second input—the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204356Z" creationid="xccui" creationdate="20190628T052848Z">
-        <seg>算子会遍历两个输入中元素的每种组合（叉乘积）去调用JoinFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204425Z" creationid="xccui" creationdate="20190628T052848Z">
+        <seg>算子会遍历两个输入中元素的每个组合（叉乘积）去调用JoinFunction。</seg>
       </tuv>
     </tu>
     <tu>
