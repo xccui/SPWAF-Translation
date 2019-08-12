@@ -10040,8 +10040,8 @@
       <tuv lang="EN-US">
         <seg>API, each WindowAssigner has a default trigger that is used unless an explicit trigger</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T025712Z" creationid="xccui" creationdate="20190626T024913Z">
-        <seg>对于没有显式定义触发器的WindowAssigner都会提供一个默认的触发器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051655Z" creationid="xccui" creationdate="20190626T024913Z">
+        <seg>系统对于没有显式定义触发器的WindowAssigner都会提供一个默认的触发器。</seg>
       </tuv>
     </tu>
     <tu>
