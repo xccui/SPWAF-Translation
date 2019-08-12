@@ -37226,8 +37226,8 @@
       <tuv lang="EN-US">
         <seg>Similar to the ProcessFunction, both methods are called with a Context object that</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T030809Z" creationid="xccui" creationdate="20190622T030518Z">
-        <seg>它们和ProcessFunction中的方法一样，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T012359Z" creationid="xccui" creationdate="20190622T030518Z">
+        <seg>它们和ProcessFunction中的方法类似，</seg>
       </tuv>
     </tu>
     <tu>
