@@ -61147,8 +61147,8 @@
       <tuv lang="EN-US">
         <seg>tion performs the actual window evaluation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T032323Z" creationid="xccui" creationdate="20190626T031606Z">
-        <seg>而实际的计算逻辑是由窗口函数决定。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051757Z" creationid="xccui" creationdate="20190626T031606Z">
+        <seg>而实际的计算逻辑则由窗口函数决定。</seg>
       </tuv>
     </tu>
     <tu>
