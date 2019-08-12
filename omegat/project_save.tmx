@@ -19601,8 +19601,8 @@
       <tuv lang="EN-US">
         <seg>Figure 6-3 illustrates how elements are assigned to session windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061012Z" creationid="xccui" creationdate="20190623T061012Z">
-        <seg>图6-3说明了如何将元素分配到会话窗口中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T030317Z" creationid="xccui" creationdate="20190623T061012Z">
+        <seg>图6-3解释了如何将元素分配到会话窗口中。</seg>
       </tuv>
     </tu>
     <tu>
