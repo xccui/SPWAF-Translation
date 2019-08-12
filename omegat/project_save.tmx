@@ -60099,8 +60099,8 @@
       <tuv lang="EN-US">
         <seg>semantics (events that have no matching event will not be forwarded).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T025655Z" creationid="xccui" creationdate="20190628T025655Z">
-        <seg>（不会发出未匹配成功的事件）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T203637Z" creationid="xccui" creationdate="20190628T025655Z">
+        <seg>（无法发出未匹配成功的事件）。</seg>
       </tuv>
     </tu>
     <tu>
