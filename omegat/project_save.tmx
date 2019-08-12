@@ -2456,8 +2456,8 @@
       <tuv lang="EN-US">
         <seg>// add an input element to the accumulator and return the accumulator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004439Z" creationid="xccui" creationdate="20190624T004439Z">
-        <seg>// 向累加器中添加一个输入元素并返回累加器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035912Z" creationid="xccui" creationdate="20190624T004439Z">
+        <seg>// 向累加器中添加一个输入元素并返回累加器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2752,8 +2752,8 @@
       <tuv lang="EN-US">
         <seg>// compute the result from the accumulator and return it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004735Z" creationid="xccui" creationdate="20190624T004735Z">
-        <seg>// 根据累加器计算并返回结果</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035917Z" creationid="xccui" creationdate="20190624T004735Z">
+        <seg>// 根据累加器计算并返回结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3648,8 +3648,8 @@
       <tuv lang="EN-US">
         <seg>// merge two accumulators and return the result.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T004856Z" creationid="xccui" creationdate="20190624T004856Z">
-        <seg>// 合并两个累加器并返回合并结果</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035920Z" creationid="xccui" creationdate="20190624T004856Z">
+        <seg>// 合并两个累加器并返回合并结果。</seg>
       </tuv>
     </tu>
     <tu>
