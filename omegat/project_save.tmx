@@ -40490,8 +40490,8 @@
       <tuv lang="EN-US">
         <seg>The GlobalWindows assigner maps all elements to the same global window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044319Z" creationid="xccui" creationdate="20190626T044319Z">
-        <seg>GlobalWindows分配器会将所有元素映射到同一个全局窗口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052454Z" creationid="xccui" creationdate="20190626T044319Z">
+        <seg>GlobalWindows分配器会将所有元素映射到一个全局窗口中。</seg>
       </tuv>
     </tu>
     <tu>
