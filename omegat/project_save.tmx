@@ -22113,8 +22113,8 @@
       <tuv lang="EN-US">
         <seg>For example, a window operator can group the events of a stream into windows of 5 minutes and count for each window how many events have been received.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T033648Z" creationid="xccui" creationdate="20190622T033648Z">
-        <seg>举例而言，窗口算子可以将数据流中的事件按照每5分钟的窗口进行分组，并计算每个窗口中接收的事件数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T023541Z" creationid="xccui" creationdate="20190622T033648Z">
+        <seg>举例而言，窗口算子可以将数据流中的事件按照每5分钟的窗口进行分组，并计算每个窗口中收到的事件数。</seg>
       </tuv>
     </tu>
     <tu>
