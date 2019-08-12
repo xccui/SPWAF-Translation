@@ -17753,8 +17753,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-10 shows a reduce lambda function that computes the mininum tempera‐ ture per sensor every 15 seconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T055938Z" creationid="xccui" creationdate="20190624T002241Z">
-        <seg>示例6-10展示的Lambda函数会计算每15秒的最低温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035635Z" creationid="xccui" creationdate="20190624T002241Z">
+        <seg>示例6-10中展示的Lambda函数会计算每15秒的最低温度。</seg>
       </tuv>
     </tu>
     <tu>
