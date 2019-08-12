@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46370,8 +46370,8 @@
       <tuv lang="EN-US">
         <seg>Think of user interac‐ tions on websites or in mobile apps, placements of orders, server logs, or sensor measurements; all of these are streams of events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T065738Z" creationid="esouser" creationdate="20190603T204811Z">
-        <seg>考虑一下，无论是网站或移动应用中的用户交互或订单下达，还是服务器日志或传感器测量结果，这些数据本质上都是事件流。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T160038Z" creationid="esouser" creationdate="20190603T204811Z">
+        <seg>请考虑一下，无论是网站或移动应用中的用户交互或订单下达，还是服务器日志或传感器测量结果，这些数据本质上都是事件流。</seg>
       </tuv>
     </tu>
     <tu>
