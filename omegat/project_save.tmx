@@ -45418,8 +45418,8 @@
       <tuv lang="EN-US">
         <seg>The trigger defines (fires) when a window is considered ready for evaluation and when a window is purged and its contents are cleared.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053029Z" creationid="xccui" creationdate="20190625T053029Z">
-        <seg>触发器定义了窗口何时准备好执行计算（触发），何时需要清除自身及其内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051257Z" creationid="xccui" creationdate="20190625T053029Z">
+        <seg>触发器定义了窗口何时准备好执行计算（触发），何时需要清除自身及保存的内容。</seg>
       </tuv>
     </tu>
     <tu>
