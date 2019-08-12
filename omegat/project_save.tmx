@@ -37186,8 +37186,8 @@
       <tuv lang="EN-US">
         <seg>Similar to ReduceFunction, AggregateFunction is also incrementally applied to the elements that are applied to a window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T002618Z" creationid="xccui" creationdate="20190624T002618Z">
-        <seg>和ReduceFunction类似，AggregateFunction也会以递增方式应用于窗口内的元素。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035836Z" creationid="xccui" creationdate="20190624T002618Z">
+        <seg>和ReduceFunction类似，AggregateFunction也会以增量方式应用于窗口内的元素。</seg>
       </tuv>
     </tu>
     <tu>
