@@ -2688,8 +2688,8 @@
       <tuv lang="EN-US">
         <seg>// clear trigger state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200942Z" creationid="xccui" creationdate="20190626T200942Z">
-        <seg>// 清除触发器状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T053358Z" creationid="xccui" creationdate="20190626T200942Z">
+        <seg>// 清理触发器状态</seg>
       </tuv>
     </tu>
     <tu>
