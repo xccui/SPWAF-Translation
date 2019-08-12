@@ -35714,8 +35714,8 @@
       <tuv lang="EN-US">
         <seg>ReduceFunction and AggregateFunction are incrementally applied on events that are assigned to a window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005741Z" creationid="xccui" creationdate="20190624T005741Z">
-        <seg>ReduceFunction和AggregateFunction都是递增地应用于分配到窗口的事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T040300Z" creationid="xccui" creationdate="20190624T005741Z">
+        <seg>ReduceFunction和AggregateFunction都是增量地应用于分配到窗口的事件。</seg>
       </tuv>
     </tu>
     <tu>
