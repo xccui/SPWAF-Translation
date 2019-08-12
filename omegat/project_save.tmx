@@ -50979,8 +50979,8 @@
       <tuv lang="EN-US">
         <seg>When a new element is received, the ReduceFunction is called with the new element and the current value that is read from the window’s state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035526Z" creationid="xccui" creationdate="20190624T001105Z">
-        <seg>每当收到一个新元素，窗口都会以该元素和从窗口状态取出的当前聚合值为参数调用ReduceFunction，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035545Z" creationid="xccui" creationdate="20190624T001105Z">
+        <seg>每当收到一个新元素，算子都会以该元素和从窗口状态取出的当前聚合值为参数调用ReduceFunction，</seg>
       </tuv>
     </tu>
     <tu>
