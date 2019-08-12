@@ -30353,8 +30353,8 @@
       <tuv lang="EN-US">
         <seg>It is important to note that a window is created when the first element is assigned to it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T035201Z" creationid="xccui" creationdate="20190623T033439Z">
-        <seg>请注意，窗口会随着首次为其分配元素而创建，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T024259Z" creationid="xccui" creationdate="20190623T033439Z">
+        <seg>请注意，窗口会在首次为其分配元素时创建，</seg>
       </tuv>
     </tu>
     <tu>
