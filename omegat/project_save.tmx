@@ -13241,8 +13241,8 @@
       <tuv lang="EN-US">
         <seg>Both input streams are keyed on their key attributes and the common window assigner maps events of both streams to common windows, meaning a window stores</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T052627Z" creationid="xccui" creationdate="20190628T052614Z">
-        <seg>两条的输入流都会根据各自的键值属性进行分区，公共窗口分配器会将二者的事件映射到公共窗口（其中同时存储了两条流中数据）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204325Z" creationid="xccui" creationdate="20190628T052614Z">
+        <seg>两条的输入流都会根据各自的键值属性进行分区，公共窗口分配器会将二者的事件映射到公共窗口内（其中同时存储了两条流中数据）。</seg>
       </tuv>
     </tu>
     <tu>
