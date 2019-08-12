@@ -53315,8 +53315,8 @@
       <tuv lang="EN-US">
         <seg>You learned about time-based operators, including Flink’s process functions, built-in windows, and custom win‐ dows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041643Z" creationid="xccui" creationdate="20190629T041533Z">
-        <seg>你对Flink中基于时间的算子（包括处理函数、内置窗口以及自定义窗口等）已经有所了解。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T212938Z" creationid="xccui" creationdate="20190629T041533Z">
+        <seg>你对Flink中基于时间的算子（包括处理函数、内置窗口以及自定义窗口）已经有所了解。</seg>
       </tuv>
     </tu>
     <tu>
