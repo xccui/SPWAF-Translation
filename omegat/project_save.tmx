@@ -63419,8 +63419,8 @@
       <tuv lang="EN-US">
         <seg>window to perform more complex computations, such as computing the median of values in a window or the most frequently occurring value.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005940Z" creationid="xccui" creationdate="20190624T005940Z">
-        <seg>但有些时候我们需要访问窗口内的所有元素来执行一些更加复杂的计算，例如计算窗口内数据的中值或出现频率最高的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T040308Z" creationid="xccui" creationdate="20190624T005940Z">
+        <seg>然而有些时候我们需要访问窗口内的所有元素来执行一些更加复杂的计算，例如计算窗口内数据的中值或出现频率最高的值。</seg>
       </tuv>
     </tu>
     <tu>
