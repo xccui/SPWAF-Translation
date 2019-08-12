@@ -11432,8 +11432,8 @@
       <tuv lang="EN-US">
         <seg>Another feature are per-window and per-key global states.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T040855Z" creationid="xccui" creationdate="20190624T012333Z">
-        <seg>另一项功能是访问单个窗口以及每个键值的全局状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T040921Z" creationid="xccui" creationdate="20190624T012333Z">
+        <seg>另一项功能是访问单个窗口的状态及每个键值的全局状态。</seg>
       </tuv>
     </tu>
     <tu>
