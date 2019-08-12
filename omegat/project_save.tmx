@@ -9360,8 +9360,8 @@
       <tuv lang="EN-US">
         <seg>A session window assigner places elements into nonoverlapping windows of activity of varying size.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060814Z" creationid="xccui" creationdate="20190623T060814Z">
-        <seg>会话窗口将元素放入活动长度可变且不重叠的窗口中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T030223Z" creationid="xccui" creationdate="20190623T060814Z">
+        <seg>会话窗口将元素放入长度可变且不重叠的窗口中。</seg>
       </tuv>
     </tu>
     <tu>
