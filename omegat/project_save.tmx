@@ -29465,8 +29465,8 @@
       <tuv lang="EN-US">
         <seg>Incremental aggregation functions are directly applied when an element is added to a window and hold and update a single value as window state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T211052Z" creationid="xccui" creationdate="20190623T210654Z">
-        <seg>增量聚合函数，它的应用场景是窗口内以状态形式存储某个值且需要根据每个加入窗口的元素对该值进行更新。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T032146Z" creationid="xccui" creationdate="20190623T210654Z">
+        <seg>增量聚合函数。它的应用场景是窗口内以状态形式存储某个值且需要根据每个加入窗口的元素对该值进行更新。</seg>
       </tuv>
     </tu>
     <tu>
