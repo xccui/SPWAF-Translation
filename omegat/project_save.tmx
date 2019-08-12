@@ -28177,8 +28177,8 @@
       <tuv lang="EN-US">
         <seg>In the context of an event- time window operator, an event is late if it arrives at the operator and the window assigner maps it to a window that has already been computed because the operator’s watermark passed the end timestamp of the window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152848Z" creationid="xingcan" creationdate="20190628T152848Z">
-        <seg>在事件时间窗口算子的环境下，如果事件到达算子时，窗口分配器为其分配的窗口已经因为算子水位线超过了它的结束时间而计算完毕，那么该事件就被认为是迟到的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204854Z" creationid="xingcan" creationdate="20190628T152848Z">
+        <seg>在事件时间窗口算子的环境下，如果事件到达算子时窗口分配器为其分配的窗口已经因为算子水位线超过了它的结束时间而计算完毕，那么该事件就被认为是迟到的。</seg>
       </tuv>
     </tu>
     <tu>
