@@ -12201,8 +12201,8 @@
       <tuv lang="EN-US">
         <seg>As discussed, watermarks can be used to balance result completeness and result latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T144503Z" creationid="xingcan" creationdate="20190628T144503Z">
-        <seg>如前所述，水位线可用来平衡结果的完整性和延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204808Z" creationid="xingcan" creationdate="20190628T144503Z">
+        <seg>我们在之前讲过，水位线可用来平衡结果的完整性和延迟。</seg>
       </tuv>
     </tu>
     <tu>
