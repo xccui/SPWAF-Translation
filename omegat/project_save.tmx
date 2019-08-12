@@ -10408,8 +10408,8 @@
       <tuv lang="EN-US">
         <seg>All assigners we discuss here are time-based and were introduced in “Operations on Data Streams” on page 22.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T032624Z" creationid="xccui" creationdate="20190623T032624Z">
-        <seg>所有接下来要讨论的分配器都是基于时间的，我们在第22页"数据流上的操作"对它们都有介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T024134Z" creationid="xccui" creationdate="20190623T032624Z">
+        <seg>所有接下来要讨论的分配器都是基于时间的，我们在第22页"数据流上的操作"一节对它们都有介绍。</seg>
       </tuv>
     </tu>
     <tu>
