@@ -45570,8 +45570,8 @@
       <tuv lang="EN-US">
         <seg>The window content holds the elements that have been assigned to the window or the result of the incremental aggregation in case the window operator has a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T033304Z" creationid="xccui" creationdate="20190626T033304Z">
-        <seg>窗口内容包含了分配给窗口的元素或窗口算子配置了ReduceFunction或AggregateFunction时增量聚合得到的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051944Z" creationid="xccui" creationdate="20190626T033304Z">
+        <seg>窗口内容包含了分配给窗口的元素，或当窗口算子配置了ReduceFunction或AggregateFunction时增量聚合所得到的结果。</seg>
       </tuv>
     </tu>
     <tu>
