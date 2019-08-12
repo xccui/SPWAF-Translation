@@ -51955,8 +51955,8 @@
       <tuv lang="EN-US">
         <seg>While period‐ ically loading data into a data analysis system has been the state of the art for many years, it adds considerable latency to the analytics pipeline.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T154852Z" creationid="xccui" creationdate="20190605T043429Z">
-        <seg>虽然周期性地将数据导入分析系统在多年来一直是最先进的方法，但它会给分析管道带来相当大的延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T161829Z" creationid="xccui" creationdate="20190605T043429Z">
+        <seg>虽然周期性地将数据导入分析系统在多年来一直是最先进的方法，但它会给分析流程带来相当大的延迟。</seg>
       </tuv>
     </tu>
     <tu>
