@@ -8552,8 +8552,8 @@
       <tuv lang="EN-US">
         <seg>A common requirement when working with streams is to connect or join the events of two streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T203121Z" creationid="xccui" creationdate="20190627T204650Z">
-        <seg>数据流操作中的另一个常见需求是对两条数据流中的事件进行联结或Join。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T203248Z" creationid="xccui" creationdate="20190627T204650Z">
+        <seg>数据流操作的另一个常见需求是对两条数据流中的事件进行联结（connect）或Join。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29025,8 +29025,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we describe both operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T210559Z" creationid="xccui" creationdate="20190627T210559Z">
-        <seg>本节我们会对两个算子进行介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T203334Z" creationid="xccui" creationdate="20190627T210559Z">
+        <seg>本节我们会对它们进行介绍。</seg>
       </tuv>
     </tu>
     <tu>
