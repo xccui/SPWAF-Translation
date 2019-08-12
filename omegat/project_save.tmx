@@ -52291,8 +52291,8 @@
       <tuv lang="EN-US">
         <seg>Window operators can be applied on a keyed or a nonkeyed stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T034136Z" creationid="xccui" creationdate="20190622T034136Z">
-        <seg>窗口算子可用于键值分区或非键值分区的数据流上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T023659Z" creationid="xccui" creationdate="20190622T034136Z">
+        <seg>窗口算子可用在键值分区或非键值分区的数据流上。</seg>
       </tuv>
     </tu>
     <tu>
