@@ -17825,8 +17825,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-16 shows a trigger that fires early, before the end time of the window is reached.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T195643Z" creationid="xccui" creationdate="20190626T195643Z">
-        <seg>示例6-16展示的触发器会在到达窗口结束时间之前提前触发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T053242Z" creationid="xccui" creationdate="20190626T195643Z">
+        <seg>示例6-16展示的触发器会在时间到达窗口结束时间之前提前触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50154,8 +50154,8 @@
       <tuv lang="EN-US">
         <seg>We don't use processing time timers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T200921Z" creationid="xccui" creationdate="20190626T200921Z">
-        <seg>我们使用处理时间计时器</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T053345Z" creationid="xccui" creationdate="20190626T200921Z">
+        <seg>我们不使用处理时间计时器</seg>
       </tuv>
     </tu>
     <tu>
