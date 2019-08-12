@@ -9800,8 +9800,8 @@
       <tuv lang="EN-US">
         <seg>A trigger can register timers to be called back at certain points in time—for example, to evaluate a window or purge its contents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040457Z" creationid="xccui" creationdate="20190626T034731Z">
-        <seg>可以在触发器中注册计时器，用于在将来某个时间点触发回调（例如，对窗口进行计算或清理其内容）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052043Z" creationid="xccui" creationdate="20190626T034731Z">
+        <seg>你可以在触发器中注册计时器，用于在将来某个时间点触发回调（例如对窗口进行计算或清理其内容）。</seg>
       </tuv>
     </tu>
     <tu>
