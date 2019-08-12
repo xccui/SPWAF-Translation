@@ -9816,8 +9816,8 @@
       <tuv lang="EN-US">
         <seg>A tumbling window assigner places elements into nonoverlapping, fixed-size win‐ dows, as shown in Figure 6-1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042155Z" creationid="xccui" creationdate="20190623T042155Z">
-        <seg>如图6-1所示，滚动窗口分配器将元素置于大小固定且相互不重叠的窗口中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T025621Z" creationid="xccui" creationdate="20190623T042155Z">
+        <seg>如图6-1所示，滚动窗口分配器会将元素放入大小固定且相互不重叠的窗口中。</seg>
       </tuv>
     </tu>
     <tu>
