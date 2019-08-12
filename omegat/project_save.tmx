@@ -33201,8 +33201,8 @@
       <tuv lang="EN-US">
         <seg>Note that you should design such an operator with efficient state access patterns and effective state cleanup strategies.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T211309Z" creationid="xccui" creationdate="20190627T211309Z">
-        <seg>注意，你设计的算子需要拥有高效的状态访问模式及有效的状态清理策略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T203414Z" creationid="xccui" creationdate="20190627T211309Z">
+        <seg>注意，所设计的算子需要拥有高效的状态访问模式及有效的状态清理策略。</seg>
       </tuv>
     </tu>
     <tu>
