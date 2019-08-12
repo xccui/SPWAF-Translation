@@ -45810,8 +45810,8 @@
       <tuv lang="EN-US">
         <seg>There are several event log sys‐ tems available as open source software, Apache Kafka being the most popular, or as integrated services offered by cloud computing providers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T073413Z" creationid="esouser" creationdate="20190603T211119Z">
-        <seg>有不少事件日志系统都是开源软件，其中最流行的当属Apache Kafka；也有部分系统会以云计算提供商集成服务的形式出现。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T160458Z" creationid="esouser" creationdate="20190603T211119Z">
+        <seg>有不少事件日志系统都是开源软件，其中最流行的当属Apache Kafka；也有部分系统会以云计算提供商集成服务的形式提供。</seg>
       </tuv>
     </tu>
     <tu>
