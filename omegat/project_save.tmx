@@ -9784,8 +9784,8 @@
       <tuv lang="EN-US">
         <seg>A trigger can decide to fire based on progress in time- or data-specific conditions, such as element count or certain observed element values.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T181750Z" creationid="xccui" creationdate="20190626T181714Z">
-        <seg>它的触发因素可以是时间，也可以是某些特定的数据条件，如元素数量或某些观测到的元素值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052653Z" creationid="xccui" creationdate="20190626T181714Z">
+        <seg>它的触发条件可以是时间，也可以是某些特定的数据条件，如元素数量或某些观测到的元素值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22401,8 +22401,8 @@
       <tuv lang="EN-US">
         <seg>For example, you can implement triggering logic to fire when the window receives a certain number of elements, when an ele‐ ment with a specific value is added to the window, or after detecting a pattern on added elements like “two events of the same type within 5 seconds.” A custom trigger can also be used to compute and emit early results from an event-time window, before the watermark reaches the window’s end timestamp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T184024Z" creationid="xccui" creationdate="20190626T183807Z">
-        <seg>举例而言，你可以在触发器中实现以下触发逻辑：窗口接收到一定数量的元素，含有某个特定值的元素加入窗口，或检测到添加的元素满足某种模式（如5秒内出现了两个相同类型的事件）。自定义触发器还可以用来在水位线到达窗口的结束时间戳以前，为事件时间窗口计算并发出早期结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052737Z" creationid="xccui" creationdate="20190626T183807Z">
+        <seg>举例而言，你可以在触发器中实现以下触发逻辑：当窗口接收到一定数量的元素，当含有某个特定值的元素加入窗口，或当检测到添加的元素满足某种模式（如5秒内出现了两个相同类型的事件）。自定义触发器还可以用来在水位线到达窗口的结束时间戳以前，为事件时间窗口计算并发出早期结果。</seg>
       </tuv>
     </tu>
     <tu>
