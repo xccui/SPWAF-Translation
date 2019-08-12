@@ -21105,8 +21105,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides multiple interfaces to define stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035109Z" creationid="xccui" creationdate="20190630T035109Z">
-        <seg>Flink为定义状态化函数提供了多种接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T213817Z" creationid="xccui" creationdate="20190630T035109Z">
+        <seg>Flink为定义状态化函数提供了多个接口。</seg>
       </tuv>
     </tu>
     <tu>
