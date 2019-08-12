@@ -22649,8 +22649,8 @@
       <tuv lang="EN-US">
         <seg>For low-level operations on two inputs, the DataStream API also provides the CoProcessFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T024409Z" creationid="xccui" creationdate="20190622T024145Z">
-        <seg>针对有两个输入的低层操作，DataStream API还提供了CoProcessFunction。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T012126Z" creationid="xccui" creationdate="20190622T024145Z">
+        <seg>针对有两个输入的底层操作，DataStream API还提供了CoProcessFunction。</seg>
       </tuv>
     </tu>
     <tu>
