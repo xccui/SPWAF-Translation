@@ -16905,8 +16905,8 @@
       <tuv lang="EN-US">
         <seg>Elements that are assigned to a window will be immediately aggregated</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035755Z" creationid="xccui" creationdate="20190625T035728Z">
-        <seg>对分配给窗口的元素立即执行聚合，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045728Z" creationid="xccui" creationdate="20190625T035728Z">
+        <seg>你可以对分配给窗口的元素立即执行聚合，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25889,8 +25889,8 @@
       <tuv lang="EN-US">
         <seg>If you have incremental aggregation logic but also need access to window metadata, you can combine a ReduceFunction or AggregateFunction, which perform incre‐ mental aggregation, with a ProcessWindowFunction, which provides access to more</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045651Z" creationid="xccui" creationdate="20190625T035513Z">
-        <seg>如果是增量聚合逻辑且还需要访问窗口元数据，你可以将ReduceFunction或AggregateFunction与功能更强的ProcessWindowFunction组合使用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045759Z" creationid="xccui" creationdate="20190625T035513Z">
+        <seg>如果可用增量聚合表示逻辑且还需要访问窗口元数据，则可以将ReduceFunction或AggregateFunction与功能更强的ProcessWindowFunction组合使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53955,7 +53955,7 @@
       <tuv lang="EN-US">
         <seg>and when the trigger of the window fires, the aggregated result will be handed to ProcessWindowFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035851Z" creationid="xccui" creationdate="20190625T035656Z">
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045815Z" creationid="xccui" creationdate="20190625T035656Z">
         <seg>随后当窗口触发器触发时，再将聚合后的结果传给ProcessWindowFunction。</seg>
       </tuv>
     </tu>
