@@ -27065,8 +27065,8 @@
       <tuv lang="EN-US">
         <seg>In contrast to the ReduceFunction, the intermediate data type and the output type do not depend on the input type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T005140Z" creationid="xccui" creationdate="20190624T005140Z">
-        <seg>和ReduceFunction不同的是中间数据类型以及结果类型不再依赖输入类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T035957Z" creationid="xccui" creationdate="20190624T005140Z">
+        <seg>它和ReduceFunction不同的是中间数据类型以及结果类型不再依赖输入类型。</seg>
       </tuv>
     </tu>
     <tu>
