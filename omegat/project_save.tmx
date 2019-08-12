@@ -40234,8 +40234,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides a family of low-level transformations, the process functions, which can also access record timestamps and watermarks and register timers that trigger at a specific time in the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T061912Z" creationid="xccui" creationdate="20190621T043822Z">
-        <seg>DataStream API提供了一组相对低级的转换——处理函数。除了基本功能，它们还可以访问记录的时间戳和水位线，并支持注册在将来某个特定时间触发的计时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T012118Z" creationid="xccui" creationdate="20190621T043822Z">
+        <seg>DataStream API提供了一组相对底层的转换——处理函数。除了基本功能，它们还可以访问记录的时间戳和水位线，并支持注册在将来某个特定时间触发的计时器。</seg>
       </tuv>
     </tu>
     <tu>
