@@ -27001,8 +27001,8 @@
       <tuv lang="EN-US">
         <seg>In combination with exactly-once failure semantics, systems of this generation are the first open source stream processors capable of computing consistent and accurate results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T053340Z" creationid="xccui" creationdate="20190605T053340Z">
-        <seg>结合精确一次故障恢复语义，这一代系统才称得上第一批能够计算精确、一致结果的开源流处理引擎。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T163220Z" creationid="xccui" creationdate="20190605T053340Z">
+        <seg>结合精确一次故障恢复语义，这一代系统才称得上第一批能够计算精确一致结果的开源流处理引擎。</seg>
       </tuv>
     </tu>
     <tu>
