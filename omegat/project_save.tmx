@@ -45930,8 +45930,8 @@
       <tuv lang="EN-US">
         <seg>There, we defined an event-time tumbling</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T051514Z" creationid="xccui" creationdate="20190623T051346Z">
-        <seg>那里，我们使用timeWindow(size)方法定义了一个事件时间滚动窗口，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T025825Z" creationid="xccui" creationdate="20190623T051346Z">
+        <seg>那里，我们使用timeWindow(size)方法定义了一个事件时间滚动窗口。</seg>
       </tuv>
     </tu>
     <tu>
