@@ -13825,8 +13825,8 @@
       <tuv lang="EN-US">
         <seg>By only computing results based on actual data, these systems are also able to process historical data in the same way as “live” data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T163242Z" creationid="xccui" creationdate="20190605T053408Z">
-        <seg>由于只须依靠实际数据计算结果，此类系统可以将历史数据当做"实时"数据进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T163531Z" creationid="xccui" creationdate="20190605T053408Z">
+        <seg>由于只需依靠实际数据计算结果，此类系统可以将历史数据当做"实时"数据进行处理。</seg>
       </tuv>
     </tu>
     <tu>
