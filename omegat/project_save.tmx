@@ -9808,8 +9808,8 @@
       <tuv lang="EN-US">
         <seg>A tumbling window assigner places elements into fixed-size, nonoverlapping windows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T042229Z" creationid="xccui" creationdate="20190623T042229Z">
-        <seg>滚动窗口分配器将元素置于大小固定且互不重叠的窗口中</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T025630Z" creationid="xccui" creationdate="20190623T042229Z">
+        <seg>滚动窗口分配器将元素放入大小固定且互不重叠的窗口中</seg>
       </tuv>
     </tu>
     <tu>
