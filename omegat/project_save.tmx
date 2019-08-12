@@ -25889,8 +25889,8 @@
       <tuv lang="EN-US">
         <seg>If you have incremental aggregation logic but also need access to window metadata, you can combine a ReduceFunction or AggregateFunction, which perform incre‐ mental aggregation, with a ProcessWindowFunction, which provides access to more</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035614Z" creationid="xccui" creationdate="20190625T035513Z">
-        <seg>如果是增量聚合逻辑但还需要访问窗口元数据，你可以将ReduceFunction或AggregateFunction和功能更多的ProcessWindowFunction组合使用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045651Z" creationid="xccui" creationdate="20190625T035513Z">
+        <seg>如果是增量聚合逻辑且还需要访问窗口元数据，你可以将ReduceFunction或AggregateFunction与功能更强的ProcessWindowFunction组合使用。</seg>
       </tuv>
     </tu>
     <tu>
