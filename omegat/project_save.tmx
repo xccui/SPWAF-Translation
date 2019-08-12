@@ -41346,8 +41346,8 @@
       <tuv lang="EN-US">
         <seg>The application will replay (and fast for‐ ward) the input events from the event log until it reaches the tail of the stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T211749Z" creationid="esouser" creationdate="20190603T211749Z">
-        <seg>随后应用会从事件日志中读取并（快速）重放输入事件，直到数据流末尾。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T160750Z" creationid="esouser" creationdate="20190603T211749Z">
+        <seg>随后应用会从事件日志中读取并（快速）重放输入事件，直到追赶上数据流当前的进度。</seg>
       </tuv>
     </tu>
     <tu>
