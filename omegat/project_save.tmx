@@ -22881,8 +22881,8 @@
       <tuv lang="EN-US">
         <seg>Full window functions collect all elements of a window and iterate over the list of all collected elements when they are evaluated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T032205Z" creationid="xccui" creationdate="20190623T211046Z">
-        <seg>全量窗口函数。它会收集窗口内的所有元素，并在这些元素需要执行计算时对其进行遍历。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T032259Z" creationid="xccui" creationdate="20190623T211046Z">
+        <seg>全量窗口函数。它会收集窗口内的所有元素，并在执行计算时对它们进行遍历。</seg>
       </tuv>
     </tu>
     <tu>
