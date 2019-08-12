@@ -4352,8 +4352,8 @@
       <tuv lang="EN-US">
         <seg>// switch to enable forwarding</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032055Z" creationid="xccui" creationdate="20190622T032055Z">
-        <seg>// 开启转发的开关</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T022842Z" creationid="xccui" creationdate="20190622T032055Z">
+        <seg>// 转发开关</seg>
       </tuv>
     </tu>
     <tu>
