@@ -51107,8 +51107,8 @@
       <tuv lang="EN-US">
         <seg>When a window is deleted, the window operator automatically clears the window content and discards the window object.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T040254Z" creationid="xccui" creationdate="20190626T040254Z">
-        <seg>当窗口需要删除时，窗口算子会自动清除窗口内容并丢掉窗口对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052149Z" creationid="xccui" creationdate="20190626T040254Z">
+        <seg>当窗口需要删除时，窗口算子会自动清除窗口内容并丢弃窗口对象。</seg>
       </tuv>
     </tu>
     <tu>
