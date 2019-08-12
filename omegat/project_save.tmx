@@ -26105,8 +26105,8 @@
       <tuv lang="EN-US">
         <seg>Implementation of a ProcessWindowFunction that assigns the window end timestamp to an incrementally computed result</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045132Z" creationid="xccui" creationdate="20190625T045132Z">
-        <seg>用于将窗口结束时间戳分配到递增计算结果的ProcessWindowFunction实现：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T050131Z" creationid="xccui" creationdate="20190625T045132Z">
+        <seg>用于将窗口结束时间戳和递增计算结果组合的ProcessWindowFunction实现：</seg>
       </tuv>
     </tu>
     <tu>
