@@ -37714,8 +37714,8 @@
       <tuv lang="EN-US">
         <seg>Since the start and the end of a session window depend on the received elements, a window assigner cannot immediately assign all the elements to the correct window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T061801Z" creationid="xccui" creationdate="20190623T061801Z">
-        <seg>由于会话窗口的起始和结束都取决于接收的元素，因此窗口分配器无法实时将所有元素分配到正确的窗口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T031758Z" creationid="xccui" creationdate="20190623T061801Z">
+        <seg>由于会话窗口的开始和结束都取决于接收的元素，因此窗口分配器无法实时将所有元素分配到正确的窗口。</seg>
       </tuv>
     </tu>
     <tu>
