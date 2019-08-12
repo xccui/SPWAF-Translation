@@ -43330,8 +43330,8 @@
       <tuv lang="EN-US">
         <seg>The join in Figure 6-7 stores all records with timestamps larger than the current watermark—15 minutes from stream A—and all records with timestamps larger than the current watermark—one hour from stream B. You should be aware that the storage requirements of the interval join may significantly increase if the event time of both input streams is not synchronized because the watermark is deter‐ mined by the “slower” stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T034102Z" creationid="xccui" creationdate="20190628T034102Z">
-        <seg>图6-7中的Join需要存储数据流A中所有时间戳大于当前水位线减去15分钟的记录，以及数据流B中所有时间戳大于当前水位线减去1小时的记录。你应该明白，如果两条流的事件时间不同步，那么Join所需的存储就会显著增加，因为水位线总是由"较慢"的那条流来决定。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204137Z" creationid="xccui" creationdate="20190628T034102Z">
+        <seg>图6-7中的Join需要存储数据流A中所有时间戳大于当前水位线减去15分钟的记录，以及数据流B中所有时间戳大于当前水位线减去1小时的记录。不难想象，如果两条流的事件时间不同步，那么Join所需的存储就会显著增加，因为水位线总是由"较慢"的那条流来决定。</seg>
       </tuv>
     </tu>
     <tu>
