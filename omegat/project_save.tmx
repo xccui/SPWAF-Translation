@@ -46610,8 +46610,8 @@
       <tuv lang="EN-US">
         <seg>This chapter focuses on the implementation of stateful user-defined functions and discusses the performance and robustness of stateful applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052051Z" creationid="xccui" creationdate="20190630T033720Z">
-        <seg>本章重点介绍如何实现状态化用户自定义函数并对状态化应用的性能及健壮性加以讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T213627Z" creationid="xccui" creationdate="20190630T033720Z">
+        <seg>本章重点介绍如何实现状态化用户自定义函数，并讨论状态化应用的性能及健壮性。</seg>
       </tuv>
     </tu>
     <tu>
