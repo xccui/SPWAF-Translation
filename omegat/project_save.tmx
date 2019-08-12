@@ -29905,8 +29905,8 @@
       <tuv lang="EN-US">
         <seg>Internally, a window that is evaluated by ProcessWindowFunction stores all assigned events in a ListState.1 By collecting all events and providing access to window meta‐ data and other features, ProcessWindowFunction can address many more use cases than ReduceFunction or AggregateFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T034118Z" creationid="xccui" creationdate="20190625T034118Z">
-        <seg>在系统内部，由ProcessWindowFunction处理的窗口会将所有已分配的事件存储在ListState中。1通过将所有事件收集起来且提供对于窗口元数据及其他一些特性的访问和使用，ProcessWindowFunction的应用场景比ReduceFunction和AggregateFunction更加广泛。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045409Z" creationid="xccui" creationdate="20190625T034118Z">
+        <seg>在系统内部，由ProcessWindowFunction处理的窗口会将所有已分配的事件存储在ListState中。1 通过将所有事件收集起来且提供对于窗口元数据及其他一些特性的访问和使用，ProcessWindowFunction的应用场景比ReduceFunction和AggregateFunction更加广泛。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35338,8 +35338,8 @@
       <tuv lang="EN-US">
         <seg>Quite often the logic that needs to be applied on a window can be expressed as an incremental aggregation, but it also needs access to window metadata or state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T035301Z" creationid="xccui" creationdate="20190625T035301Z">
-        <seg>其实很多时候需要应用于窗口的逻辑都可以表示为增量聚合，只不过还需要访问窗口元数据或状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045608Z" creationid="xccui" creationdate="20190625T035301Z">
+        <seg>其实很多情况下用于窗口的逻辑都可以表示为增量聚合，只不过还需要访问窗口的元数据或状态。</seg>
       </tuv>
     </tu>
     <tu>
