@@ -27249,8 +27249,8 @@
       <tuv lang="EN-US">
         <seg>In fact, most nontrivial operations need to memorize records or par‐ tial results because data is streamed and arrives over time.1 Many of Flink’s built-in DataStream operators, sources, and sinks are stateful and buffer records or maintain partial results or metadata.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T031240Z" creationid="xccui" creationdate="20190630T030651Z">
-        <seg>事实上，由于数据会随时间以流式到来，但凡稍复杂点的操作大部分都需要对数据本身或中间结果进行记录。1很多Flink内置的DataStream算子、数据源以及数据汇都是状态化的，它们需要对数据记录进行缓冲或者对中间结果或元数据进行维护。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T213211Z" creationid="xccui" creationdate="20190630T030651Z">
+        <seg>事实上，由于数据会随时间以流式到来，但凡稍复杂点的操作大部分都需要对数据本身或中间结果进行记录。1 很多Flink内置的DataStream算子、数据源以及数据汇都是状态化的，它们需要对数据记录进行缓冲或者对中间结果及元数据加以维护。</seg>
       </tuv>
     </tu>
     <tu>
