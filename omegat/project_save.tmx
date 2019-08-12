@@ -28073,8 +28073,8 @@
       <tuv lang="EN-US">
         <seg>In the DataStream API this is done by providing a ProcessWindowFunction as a sec‐ ond parameter to the reduce() or aggregate() methods as shown in the following code:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T040327Z" creationid="xccui" creationdate="20190625T040327Z">
-        <seg>如以下代码所示，在DataStream API中，实现该过程的途径是将ProcessWindowFunction作为reduce()或aggregate()方法的第二个参数：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T045901Z" creationid="xccui" creationdate="20190625T040327Z">
+        <seg>在DataStream API中，实现上述过程的途径是将ProcessWindowFunction作为reduce()或aggregate()方法的第二个参数，如以下代码所示：</seg>
       </tuv>
     </tu>
     <tu>
