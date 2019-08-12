@@ -46098,8 +46098,8 @@
       <tuv lang="EN-US">
         <seg>These functions are typically very space-efficient and eventually emit the aggregated value as a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T210933Z" creationid="xccui" creationdate="20190623T210933Z">
-        <seg>此类函数函数通常会十分节省空间且最终将聚合值作为单个结果发送出去。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T032157Z" creationid="xccui" creationdate="20190623T210933Z">
+        <seg>此类函数函数通常会十分节省空间且最终会将聚合值作为单个结果发送出去。</seg>
       </tuv>
     </tu>
     <tu>
