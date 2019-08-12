@@ -28441,8 +28441,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we show the different built-in window assigners of the DataStream API and how to use them to define window operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041952Z" creationid="xccui" creationdate="20190623T041952Z">
-        <seg>接下来我们将对DataStream API中的多种内置窗口分配器以及如何用它们来定义窗口算子进行介绍。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T025539Z" creationid="xccui" creationdate="20190623T041952Z">
+        <seg>接下来我们将介绍DataStream API中的多种内置窗口分配器以及如何用它们来定义窗口算子。</seg>
       </tuv>
     </tu>
     <tu>
