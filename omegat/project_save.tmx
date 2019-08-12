@@ -60715,8 +60715,8 @@
       <tuv lang="EN-US">
         <seg>that is used if no explicit trigger is specified.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T042149Z" creationid="xccui" creationdate="20190626T042149Z">
-        <seg>用于未显式指定触发器的情况。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052330Z" creationid="xccui" creationdate="20190626T042149Z">
+        <seg>用于没有显式指定触发器的情况。</seg>
       </tuv>
     </tu>
     <tu>
