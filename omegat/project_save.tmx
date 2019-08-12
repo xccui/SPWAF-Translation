@@ -45714,8 +45714,8 @@
       <tuv lang="EN-US">
         <seg>Then, we will cover the process functions, low-level transformations that provide access to timestamps and watermarks and can register timers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T032553Z" creationid="xccui" creationdate="20190619T052920Z">
-        <seg>随后我们会介绍处理函数，它对应的低层转换可以访问时间戳和水位线，还能注册计时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T012139Z" creationid="xccui" creationdate="20190619T052920Z">
+        <seg>随后我们会介绍处理函数，它对应的底层转换可以访问时间戳和水位线，还能注册计时器。</seg>
       </tuv>
     </tu>
     <tu>
