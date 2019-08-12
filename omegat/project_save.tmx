@@ -38562,8 +38562,8 @@
       <tuv lang="EN-US">
         <seg>Stateful stream processing has implications on many aspects of a stream processor such as failure recovery and memory management as well as the maintenance of streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032544Z" creationid="xccui" creationdate="20190630T032323Z">
-        <seg>状态化流处理会在故障恢复、内存管理以及流式应用的维护等很多方面对流处理引擎产生影响。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T213444Z" creationid="xccui" creationdate="20190630T032323Z">
+        <seg>状态化流处理会在故障恢复、内存管理以及流式应用维护等很多方面对流处理引擎产生影响。</seg>
       </tuv>
     </tu>
     <tu>
