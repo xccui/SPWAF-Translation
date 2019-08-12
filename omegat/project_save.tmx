@@ -14905,8 +14905,8 @@
       <tuv lang="EN-US">
         <seg>Consequently, the GlobalWindows assigner requires a custom trigger and possibly an evictor to selectively</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T044706Z" creationid="xccui" creationdate="20190626T044523Z">
-        <seg>因此，GlobalWindows分配器需要一个自定义的触发器，可能还需要一个移除器来选择性地将元素从窗口状态中删除。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T052518Z" creationid="xccui" creationdate="20190626T044523Z">
+        <seg>因此，GlobalWindows分配器需要一个自定义的触发器，可能还需要一个移除器来有选择地将元素从窗口状态中删除。</seg>
       </tuv>
     </tu>
     <tu>
