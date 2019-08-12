@@ -11464,8 +11464,8 @@
       <tuv lang="EN-US">
         <seg>Another improvement was the dissolu‐ tion of the latency/throughput tradeoff.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T163421Z" creationid="xccui" creationdate="20190605T053453Z">
-        <seg>它的另一项改进是无须让用户在延迟和吞吐之间做出困难的抉择。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T163854Z" creationid="xccui" creationdate="20190605T053453Z">
+        <seg>它的另一项改进是无需让用户在延迟和吞吐之间做出困难的抉择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55011,8 +55011,8 @@
       <tuv lang="EN-US">
         <seg>constantly produced output using the tail command as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T123837Z" creationid="xccui" creationdate="20190605T123837Z">
-        <seg>你可以使用tail命令监控持续产生的结果：</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T163905Z" creationid="xccui" creationdate="20190605T123837Z">
+        <seg>可以使用tail命令监控持续产生的结果：</seg>
       </tuv>
     </tu>
     <tu>
