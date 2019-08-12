@@ -29401,8 +29401,8 @@
       <tuv lang="EN-US">
         <seg>In “State Management”, we explained that functions can have two types of state, keyed state and operator state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035002Z">
-        <seg>在"状态管理"一节，我们提到了函数允许有两种类型的状态——键值分区状态和算子状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T213740Z" creationid="xccui" creationdate="20190630T035002Z">
+        <seg>在"状态管理"一节，我们提到了函数可以有两种类型的状态——键值分区状态和算子状态。</seg>
       </tuv>
     </tu>
     <tu>
