@@ -27097,8 +27097,8 @@
       <tuv lang="EN-US">
         <seg>In contrast, a stream pro‐ cessor that runs a stateful streaming application takes care of all these processing steps, including event ingestion, continuous computation including state mainte‐ nance, and updating the results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T155810Z" creationid="xccui" creationdate="20190605T044848Z">
-        <seg>相比之下，运行状态化流处理应用的流处理引擎会负责事件获取、维护状态的持续计算以及更新结果等所有处理步骤。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T162231Z" creationid="xccui" creationdate="20190605T044848Z">
+        <seg>相比之下，运行状态化流处理应用的流处理引擎会全面负责事件获取、维护状态的持续计算以及更新结果等所有处理步骤。</seg>
       </tuv>
     </tu>
     <tu>
