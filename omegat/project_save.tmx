@@ -9928,8 +9928,8 @@
       <tuv lang="EN-US">
         <seg>A window assigner that determines how the elements of the input stream are grouped into windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T035445Z" creationid="xccui" creationdate="20190622T035445Z">
-        <seg>一个用于决定输入流中的元素该如何分组的窗口分配器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T023733Z" creationid="xccui" creationdate="20190622T035445Z">
+        <seg>一个用于决定输入流中的元素该如何分组的窗口分配器（window assigner）。</seg>
       </tuv>
     </tu>
     <tu>
