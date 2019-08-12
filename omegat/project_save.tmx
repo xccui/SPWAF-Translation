@@ -14665,8 +14665,8 @@
       <tuv lang="EN-US">
         <seg>Computation results can be updated based on late events and updates have to be emitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153102Z" creationid="xingcan" creationdate="20190628T153009Z">
-        <seg>可以根据迟到事件更新并发出计算结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T205233Z" creationid="xingcan" creationdate="20190628T153009Z">
+        <seg>根据迟到事件更新并发出计算结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23457,8 +23457,8 @@
       <tuv lang="EN-US">
         <seg>Hence, a late arriving ele‐ ment will not create a new window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153917Z" creationid="xingcan" creationdate="20190628T153654Z">
-        <seg>因此，迟到元素将不会创建新的窗口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T205322Z" creationid="xingcan" creationdate="20190628T153654Z">
+        <seg>因此，迟到的元素将不会创建新的窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31249,16 +31249,16 @@
       <tuv lang="EN-US">
         <seg>Late events can be redirected into a separate stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T152958Z" creationid="xingcan" creationdate="20190628T152958Z">
-        <seg>可以将迟到事件重定向到单独的数据流中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T205223Z" creationid="xingcan" creationdate="20190628T152958Z">
+        <seg>将迟到事件重定向到单独的数据流中。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Late events can be simply dropped.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190628T153015Z" creationid="xingcan" creationdate="20190628T152931Z">
-        <seg>可以简单地将其丢弃。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T205220Z" creationid="xingcan" creationdate="20190628T152931Z">
+        <seg>简单地将其丢弃。</seg>
       </tuv>
     </tu>
     <tu>
