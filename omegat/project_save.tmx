@@ -25505,8 +25505,8 @@
       <tuv lang="EN-US">
         <seg>If the slide is larger than the window size, some elements might not be assigned to any window and hence may be dropped.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T055510Z" creationid="xccui" creationdate="20190623T055207Z">
-        <seg>如果滑动间隔大于大于窗口大小，则一些元素可能不会分配给任何窗口，因此可能会被丢弃。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T030036Z" creationid="xccui" creationdate="20190623T055207Z">
+        <seg>如果滑动间隔大于窗口大小，则一些元素可能不会分配给任何窗口，因此可能会被丢弃。</seg>
       </tuv>
     </tu>
     <tu>
