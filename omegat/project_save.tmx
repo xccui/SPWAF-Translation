@@ -25609,8 +25609,8 @@
       <tuv lang="EN-US">
         <seg>If the window operator is configured with an incremental aggregation function, such as a ReduceFunction or AggregateFunction, the newly added element is immediately aggregated and the result is stored as the contents of the window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052346Z" creationid="xccui" creationdate="20190625T052346Z">
-        <seg>如果为窗口算子配置的是增量聚合函数（如ReduceFunction或AggregateFunction），新加入的元素会立即执行聚合，其结果会存为窗口内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051152Z" creationid="xccui" creationdate="20190625T052346Z">
+        <seg>如果为窗口算子配置的是增量聚合函数（如ReduceFunction或AggregateFunction），那么新加入的元素会立即执行聚合，其结果会存为窗口内容。</seg>
       </tuv>
     </tu>
     <tu>
