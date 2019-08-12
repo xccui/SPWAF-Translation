@@ -51771,8 +51771,8 @@
       <tuv lang="EN-US">
         <seg>When using per-window state in a trigger, you need to ensure that this state is prop‐ erly deleted when the window is deleted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T053045Z" creationid="xccui" creationdate="20190626T194100Z">
-        <seg>当在触发器中使用了单个窗口状态时，你需要保证它们会随着窗口删除而被正确地删除。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T053101Z" creationid="xccui" creationdate="20190626T194100Z">
+        <seg>当在触发器中使用了单个窗口状态时，你需要保证它们会随着窗口删除而被正确地清除。</seg>
       </tuv>
     </tu>
     <tu>
