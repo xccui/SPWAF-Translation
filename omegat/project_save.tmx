@@ -3040,8 +3040,8 @@
       <tuv lang="EN-US">
         <seg>// define a nonkeyed window-all operator</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T041641Z" creationid="xccui" creationdate="20190622T041443Z">
-        <seg>// 定义一个非键值分区的全量窗口算子</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T023956Z" creationid="xccui" creationdate="20190622T041443Z">
+        <seg>// 定义一个非键值分区的全量窗口（window-all）算子</seg>
       </tuv>
     </tu>
     <tu>
