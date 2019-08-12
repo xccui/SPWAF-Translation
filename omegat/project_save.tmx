@@ -51931,8 +51931,8 @@
       <tuv lang="EN-US">
         <seg>While evictors are optional components, each window operator needs a trigger to decide when to evaluate its windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190626T015004Z" creationid="xccui" creationdate="20190626T015004Z">
-        <seg>虽然移除器是可选组件，但每个窗口算子都需要一个触发器来决定何时对窗口进行计算。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T051634Z" creationid="xccui" creationdate="20190626T015004Z">
+        <seg>虽然移除器并非必须，但每个窗口算子都需要一个触发器来决定何时对窗口进行计算。</seg>
       </tuv>
     </tu>
     <tu>
