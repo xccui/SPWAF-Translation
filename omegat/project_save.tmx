@@ -18001,8 +18001,8 @@
       <tuv lang="EN-US">
         <seg>Example 6-8 shows how to apply a CoProcessFunction to combine two streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031359Z" creationid="xccui" creationdate="20190622T031359Z">
-        <seg>示例6-8展示了如何应用CoProcessFunction来结合两条数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T012415Z" creationid="xccui" creationdate="20190622T031359Z">
+        <seg>示例6-8展示了如何使用CoProcessFunction来结合两条数据流。</seg>
       </tuv>
     </tu>
     <tu>
