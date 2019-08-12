@@ -44362,8 +44362,8 @@
       <tuv lang="EN-US">
         <seg>The process() method is called with the key of the window, an Iterable to access the elements of the window, and a Collector to emit results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190624T011149Z" creationid="xccui" creationdate="20190624T011149Z">
-        <seg>process()方法在调用时会传入窗口的键值、一个用于访问窗口内元素的Iterator以及一个用于发出结果的Collector。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T040709Z" creationid="xccui" creationdate="20190624T011149Z">
+        <seg>process()方法在被调用时需要传入窗口的键值、一个用于访问窗口内元素的Iterator以及一个用于发出结果的Collector。</seg>
       </tuv>
     </tu>
     <tu>
