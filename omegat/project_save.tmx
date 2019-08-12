@@ -49754,8 +49754,8 @@
       <tuv lang="EN-US">
         <seg>We also discussed the semantics of watermarks, how to trade off result com‐ pleteness and result latency, and strategies for handling late events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T212952Z" creationid="xccui" creationdate="20190629T041816Z">
-        <seg>我们还讨论了水位线的语义，如何在结果的完整性和延迟之间进行取舍，以及应对迟到事件的相关策略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T213006Z" creationid="xccui" creationdate="20190629T041816Z">
+        <seg>我们还讨论了水位线的语义，如何在结果的完整性和延迟之间进行取舍，以及处理迟到事件的相关策略。</seg>
       </tuv>
     </tu>
     <tu>
