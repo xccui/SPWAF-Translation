@@ -40130,8 +40130,8 @@
       <tuv lang="EN-US">
         <seg>The CoProcessFunction also provides an onTimer() callback method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190622T031242Z" creationid="xccui" creationdate="20190622T031242Z">
-        <seg>CoProcessFunction还提供了onTimer()回调方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T012345Z" creationid="xccui" creationdate="20190622T031242Z">
+        <seg>CoProcessFunction同样提供了onTimer()回调方法。</seg>
       </tuv>
     </tu>
     <tu>
