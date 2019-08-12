@@ -37602,8 +37602,8 @@
       <tuv lang="EN-US">
         <seg>Since the aggregation is performed by the ReduceFunction, the ProcessWindowFunction only needs to append the window end timestamp to the incrementally computed result as shown in Example 6-14.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T045016Z" creationid="xccui" creationdate="20190625T045016Z">
-        <seg>由于聚合逻辑是由ReduceFunction执行的，ProcessWindowFunction只需要像示例6-14那样，将窗口的结束时间戳加到递增计算结果后面。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T050106Z" creationid="xccui" creationdate="20190625T045016Z">
+        <seg>由于聚合逻辑是由ReduceFunction执行的，ProcessWindowFunction只需要像示例6-14中那样，将窗口的结束时间戳加到递增计算结果后面即可。</seg>
       </tuv>
     </tu>
     <tu>
