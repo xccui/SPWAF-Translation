@@ -30649,8 +30649,8 @@
       <tuv lang="EN-US">
         <seg>It should be noted that joining windowed streams can have unex‐ pected semantics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T054846Z" creationid="xccui" creationdate="20190628T054846Z">
-        <seg>注意，对划分窗口后的数据流进行Join可能会产生始料未及的语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204741Z" creationid="xccui" creationdate="20190628T054846Z">
+        <seg>注意，对划分窗口后的数据流进行Join可能会产生意料之外的语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37634,8 +37634,8 @@
       <tuv lang="EN-US">
         <seg>Since the events of both streams are mapped into the same windows, triggers and evictors behave exactly as in regular window operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T053412Z" creationid="xccui" creationdate="20190628T053412Z">
-        <seg>由于两条流中的事件会被映射到相同的窗口中，因此该过程中的触发器和移除器与常规窗口算子中的完全相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204456Z" creationid="xccui" creationdate="20190628T053412Z">
+        <seg>由于两条流中的事件会被映射到同一个窗口中，因此该过程中的触发器和移除器与常规窗口算子中的完全相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44194,8 +44194,8 @@
       <tuv lang="EN-US">
         <seg>The overall logic is the same, but instead of calling a JoinFunction for every pair of events from both inputs, a CoGroupFunction is called once per window with iterators over the elements from both inputs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190628T054429Z" creationid="xccui" creationdate="20190628T053655Z">
-        <seg>Join和Cogroup的总体逻辑相同，二者的唯一区别是：Join会为两个输入中的每个事件对调用JoinFunction；而Gogroup中用到的GoGroupFunction会以两个输入的元素遍历器为参数，只在每个窗口中调用一次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T204605Z" creationid="xccui" creationdate="20190628T053655Z">
+        <seg>Join和Cogroup的总体逻辑相同，二者的唯一区别是：Join会为两侧输入中的每个事件对调用JoinFunction；而Gogroup中用到的GoGroupFunction会以两个输入的元素遍历器为参数，只在每个窗口中被调用一次。</seg>
       </tuv>
     </tu>
     <tu>
