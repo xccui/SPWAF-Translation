@@ -47538,8 +47538,8 @@
       <tuv lang="EN-US">
         <seg>This window type essentially represents a time interval between the two timestamps, where start is</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T041614Z" creationid="xccui" creationdate="20190623T041614Z">
-        <seg>该窗口类型实际上表示两个时间戳之间的时间间隔（左闭右开）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T025444Z" creationid="xccui" creationdate="20190623T041614Z">
+        <seg>该窗口类型实际上表示两个时间戳之间的时间区间（左闭右开）。</seg>
       </tuv>
     </tu>
     <tu>
