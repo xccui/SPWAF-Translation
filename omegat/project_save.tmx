@@ -12161,8 +12161,8 @@
       <tuv lang="EN-US">
         <seg>As discussed in “Checkpoints, Savepoints, and State Recovery” on page 58, a check‐ point is only successful if all operator tasks successfully checkpointed their states to the checkpoint storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T201859Z" creationid="xccui" creationdate="20190702T201740Z">
-        <seg>正如第58页"检查点、保存点及状态恢复"中所述，在所有算子任务都成功将其状态写入检查点存储后，整体的检查点才算创建成功。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T193043Z" creationid="xccui" creationdate="20190702T201740Z">
+        <seg>正如第58页"检查点、保存点及状态恢复"一节所述，在所有算子任务都成功将其状态写入检查点存储后，整体的检查点才算创建成功。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34266,8 +34266,8 @@
       <tuv lang="EN-US">
         <seg>Operators that need to be notified about completed check‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202324Z" creationid="xccui" creationdate="20190702T202152Z">
-        <seg>需要感知检查点创建成功的算子可以实现CheckpointListener接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T193119Z" creationid="xccui" creationdate="20190702T202152Z">
+        <seg>算子为了感知检查点创建成功，可以实现CheckpointListener接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46858,8 +46858,8 @@
       <tuv lang="EN-US">
         <seg>This interface provides the notifyCheckpointComplete(long chkpntId) method, which might be called when the JobManager registers a checkpoint as completed—when all operators successfully</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202702Z" creationid="xccui" creationdate="20190702T202645Z">
-        <seg>该接口提供的notifyCheckpointComplete(long chkpntId)方法，会在JobManager将检查点注册为完成时，即所有算子都成功将其状态复制到远程存储后，被调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T193214Z" creationid="xccui" creationdate="20190702T202645Z">
+        <seg>该接口提供的notifyCheckpointComplete(long chkpntId)方法，会在JobManager将检查点注册为已完成时（即所有算子都成功将其状态复制到远程存储后）被调用。</seg>
       </tuv>
     </tu>
     <tu>
