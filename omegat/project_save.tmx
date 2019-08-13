@@ -2720,8 +2720,8 @@
       <tuv lang="EN-US">
         <seg>// compare temperature difference with threshold val tempDiff = (r.temperature - lastTemp.get).abs if (tempDiff &gt; 1.7) {</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023227Z" creationid="xccui" creationdate="20190701T023227Z">
-        <seg>// 比较温度差和阈值 val tempDiff = (r.temperature - lastTemp.get).abs if (tempDiff &gt; 1.7) {</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T040906Z" creationid="xccui" creationdate="20190701T023227Z">
+        <seg>// 比较温差和阈值 val tempDiff = (r.temperature - lastTemp.get).abs if (tempDiff &gt; 1.7) {</seg>
       </tuv>
     </tu>
     <tu>
