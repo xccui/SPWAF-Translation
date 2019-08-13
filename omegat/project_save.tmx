@@ -10432,8 +10432,8 @@
       <tuv lang="EN-US">
         <seg>All events that are pro‐ cessed in the same parallel task of an operator have access to the same state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T035609Z" creationid="xccui" creationdate="20190701T035437Z">
-        <seg>因此同一算子并行任务中所处理的事件都可以访问相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T041134Z" creationid="xccui" creationdate="20190701T035437Z">
+        <seg>因此同一算子并行任务在处理任何事件时都可以访问相同的状态。</seg>
       </tuv>
     </tu>
     <tu>
