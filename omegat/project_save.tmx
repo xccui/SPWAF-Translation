@@ -13353,8 +13353,8 @@
       <tuv lang="EN-US">
         <seg>Broadcasted Events Might Not Arrive in Deterministic Order</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T055306Z" creationid="xccui" creationdate="20190702T055306Z">
-        <seg>广播事件的到达顺序可能不固定</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T153227Z" creationid="xccui" creationdate="20190702T055306Z">
+        <seg>广播事件的到达顺序可能不确定</seg>
       </tuv>
     </tu>
     <tu>
