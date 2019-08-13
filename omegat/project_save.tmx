@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46826,8 +46826,8 @@
       <tuv lang="EN-US">
         <seg>This includes window operators and time-based joins as well as process functions that provide the most flexibility when dealing with time in streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T151805Z" creationid="esouser" creationdate="20190603T161606Z">
-        <seg>其中包含窗口算子、基于时间的Join以及一系列处理函数，它们将流式应用中的时间处理变得十分灵活。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T152845Z" creationid="esouser" creationdate="20190603T161606Z">
+        <seg>其中包含窗口算子、基于时间的Join以及一系列处理函数，它们让流式应用中的时间处理变得十分灵活。</seg>
       </tuv>
     </tu>
     <tu>
