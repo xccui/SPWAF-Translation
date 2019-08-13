@@ -24417,8 +24417,8 @@
       <tuv lang="EN-US">
         <seg>However, it uses the more general AggregateFunction to aggregate values.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061036Z" creationid="xccui" creationdate="20190630T060806Z">
-        <seg>但它使用了更加一般化的AggregateFunction来聚合内部的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T033848Z" creationid="xccui" creationdate="20190630T060806Z">
+        <seg>但它使用了更加通用的AggregateFunction来聚合内部的值。</seg>
       </tuv>
     </tu>
     <tu>
