@@ -22841,8 +22841,8 @@
       <tuv lang="EN-US">
         <seg>Frequent synchronization is a major reason for performance limitations in dis‐ tributed systems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T164151Z" creationid="xccui" creationdate="20190702T163542Z">
-        <seg>频繁的同步是分布式系统产生性能瓶颈的主要原因。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T170725Z" creationid="xccui" creationdate="20190702T163542Z">
+        <seg>频繁地同步是分布式系统产生性能瓶颈的主要原因。</seg>
       </tuv>
     </tu>
     <tu>
