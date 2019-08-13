@@ -41658,8 +41658,8 @@
       <tuv lang="EN-US">
         <seg>The choice of the right state primitive depends on how the function interacts with the state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020910Z" creationid="xccui" creationdate="20190630T040955Z">
-        <seg>它的选择取决于函数同状态的交互方式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020952Z" creationid="xccui" creationdate="20190630T040955Z">
+        <seg>它的选取依赖于函数同状态的交互方式。</seg>
       </tuv>
     </tu>
     <tu>
