@@ -12177,8 +12177,8 @@
       <tuv lang="EN-US">
         <seg>As discussed in “Scaling Stateful Operators” on page 56, the list struc‐ ture supports changing the parallelism of functions with operator state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T054835Z" creationid="xccui" creationdate="20190701T054835Z">
-        <seg>其实这个问题的答案已经在第56页"状态化算子扩缩容"中提到了——列表结构支持对使用了算子状态的函数修改并行度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T045820Z" creationid="xccui" creationdate="20190701T054835Z">
+        <seg>其实这个问题的答案已经在第56页"状态化算子扩缩容"中提到了——列表结构允许对使用了算子状态的函数修改并行度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58371,8 +58371,8 @@
       <tuv lang="EN-US">
         <seg>of state is custom for every stateful function, this cannot be automatically done for arbitrary types of state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T060122Z" creationid="xccui" creationdate="20190701T060035Z">
-        <seg>由于每个函数都有自己的状态拆分及合并逻辑，所以这两个过程无法针对任意状态类型都自动完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T050106Z" creationid="xccui" creationdate="20190701T060035Z">
+        <seg>由于每个函数都有自己的状态拆分及合并逻辑，所以这两个过程无法对任意状态类型都自动完成。</seg>
       </tuv>
     </tu>
     <tu>
