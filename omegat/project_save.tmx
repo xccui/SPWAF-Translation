@@ -31033,8 +31033,8 @@
       <tuv lang="EN-US">
         <seg>Keyed state can only be used by functions that are applied on a KeyedStream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T040154Z">
-        <seg>键值分区状态只能用于作用在KeyedStream上面的函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020202Z" creationid="xccui" creationdate="20190630T040154Z">
+        <seg>键值分区状态只能由作用在KeyedStream上面的函数使用。</seg>
       </tuv>
     </tu>
     <tu>
