@@ -8144,8 +8144,8 @@
       <tuv lang="EN-US">
         <seg>A Keyed Stream is constructed by calling the DataStream.keyBy() method that defines a key on a stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040405Z" creationid="xccui" creationdate="20190630T040405Z">
-        <seg>你可以通过在一条数据流上调用定义键值的DataStream.keyBy()方法来构造一个KeyedStream。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020727Z" creationid="xccui" creationdate="20190630T040405Z">
+        <seg>你可以通过在一条数据流上调用定义键值的DataStream.keyBy()方法来得到一个KeyedStream。</seg>
       </tuv>
     </tu>
     <tu>
