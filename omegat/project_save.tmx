@@ -45010,8 +45010,8 @@
       <tuv lang="EN-US">
         <seg>The state elements can be accessed by calling List State.get(), which returns an Iterable[T] over all state elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T053907Z" creationid="xccui" creationdate="20190630T053907Z">
-        <seg>还可以调用ListState.get()访问状态元素（它会返回一个所有元素上的Iterable[T]对象）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T021255Z" creationid="xccui" creationdate="20190630T053907Z">
+        <seg>还可以使用ListState.get()访问状态元素（它会返回一个所有元素上的Iterable[T]对象）。</seg>
       </tuv>
     </tu>
     <tu>
