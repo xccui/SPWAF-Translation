@@ -8168,8 +8168,8 @@
       <tuv lang="EN-US">
         <seg>A KeyedStream is partitioned on the specified key and remembers the key definition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040446Z" creationid="xccui" creationdate="20190630T040446Z">
-        <seg>KeyedStream会根据指定键值进行分区并会记住键值的定义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020749Z" creationid="xccui" creationdate="20190630T040446Z">
+        <seg>KeyedStream会根据指定键值进行分区并记住键值的定义。</seg>
       </tuv>
     </tu>
     <tu>
