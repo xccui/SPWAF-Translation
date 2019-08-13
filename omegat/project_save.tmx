@@ -51627,8 +51627,8 @@
       <tuv lang="EN-US">
         <seg>When the processing method of a function with keyed input is called, Flink’s runtime auto‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T034054Z" creationid="xccui" creationdate="20190630T062841Z">
-        <seg>对于一个作用在键值分区输入上的函数而言，Flink运行时会在调用它的处理方法时</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T034103Z" creationid="xccui" creationdate="20190630T062841Z">
+        <seg>对于一个作用在键值分区输入上的函数而言，</seg>
       </tuv>
     </tu>
     <tu>
@@ -57635,8 +57635,8 @@
       <tuv lang="EN-US">
         <seg>matically puts all keyed state objects of the function into the context of the key of the record that is passed by the function call.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T063820Z" creationid="xccui" creationdate="20190630T063103Z">
-        <seg>自动将函数中的全部键值分区状态对象放入当前处理记录的键值上下文中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T034124Z" creationid="xccui" creationdate="20190630T063103Z">
+        <seg>Flink运行时会在调用它的处理方法时自动将函数中的全部键值分区状态对象放入当前处理记录的键值上下文中。</seg>
       </tuv>
     </tu>
     <tu>
