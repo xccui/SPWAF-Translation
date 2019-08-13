@@ -16849,8 +16849,8 @@
       <tuv lang="EN-US">
         <seg>Each state is registered with a name that must be unique for the function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T065034Z" creationid="xccui" creationdate="20190702T065034Z">
-        <seg>每个状态在注册时都要提供一个在函数内唯一的名称。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T155835Z" creationid="xccui" creationdate="20190702T065034Z">
+        <seg>每个状态在注册时都要提供一个函数范围内唯一的名称。</seg>
       </tuv>
     </tu>
     <tu>
