@@ -30481,8 +30481,8 @@
       <tuv lang="EN-US">
         <seg>It is not pos‐ sible to remove individual elements from ListState, but the list can be updated by calling ListState.update(values: java.util.List[T]).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T055537Z" creationid="xccui" creationdate="20190630T054329Z">
-        <seg>虽然ListState不支持单个元素的删除，但你可以调用ListState.update(values: java.util.List[T])来更新整个列表，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T021337Z" creationid="xccui" creationdate="20190630T054329Z">
+        <seg>虽然ListState不支持删除单个元素，但你可以调用ListState.update(values: java.util.List[T])来更新整个列表，</seg>
       </tuv>
     </tu>
     <tu>
