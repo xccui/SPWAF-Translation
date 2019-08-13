@@ -22273,8 +22273,8 @@
       <tuv lang="EN-US">
         <seg>For example, sink functions that aim to write data to external systems with exactly-once guarantees must only emit records that were received before a successful checkpoint to ensure the received data will not be recomputed in the case of a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T200602Z" creationid="xccui" creationdate="20190702T181000Z">
-        <seg>例如：数据汇函数为了以精确一次语义将数据写入外部系统，只能发出那些在检查点成功创建前收到的记录。这样做是为了保证在出现故障时不会重复发送收到的数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T193006Z" creationid="xccui" creationdate="20190702T181000Z">
+        <seg>例如：数据汇函数为了以精确一次语义将数据写入外部系统，只能发出那些在检查点成功创建前收到的记录。这样做是为了保证在出现故障时不会重复发送接收的数据。</seg>
       </tuv>
     </tu>
     <tu>
