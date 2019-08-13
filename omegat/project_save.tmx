@@ -35746,8 +35746,8 @@
       <tuv lang="EN-US">
         <seg>ReducingState[T] offers the same methods as ListState[T] (except for addAll() and update()), but instead of appending values to a list, Reducing State.add(value: T) immediately aggregates value using a ReduceFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T022013Z" creationid="xccui" creationdate="20190630T060310Z">
-        <seg>ReducingState[T]提供了和ListState[T]相同的方法（除了addAll()和update()），但它的ReducingState.add(value: T)方法会立即返回一个使用ReduceFunction聚合后的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T022144Z" creationid="xccui" creationdate="20190630T060310Z">
+        <seg>ReducingState[T]提供了和ListState[T]相同的方法（除了addAll()和update()），但它的ReducingState.add(value: T)方法会立刻返回一个使用ReduceFunction聚合后的值。</seg>
       </tuv>
     </tu>
     <tu>
