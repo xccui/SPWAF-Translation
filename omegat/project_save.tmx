@@ -29209,8 +29209,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we show how functions with keyed and operator state are implemented.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035207Z">
-        <seg>本节我们将展示如何实现带有键值分区状态和算子状态的函数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T014958Z" creationid="xccui" creationdate="20190630T035207Z">
+        <seg>本节我们将展示如何实现带有键值分区状态及算子状态的函数。</seg>
       </tuv>
     </tu>
     <tu>
