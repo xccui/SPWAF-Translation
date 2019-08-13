@@ -43226,8 +43226,8 @@
       <tuv lang="EN-US">
         <seg>The initializeState() method is called when a par‐ allel instance of CheckpointedFunction is created.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064300Z" creationid="xccui" creationdate="20190702T064300Z">
-        <seg>initializeState()方法会在创建CheckpointedFunction的并行实例时调用。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T154753Z" creationid="xccui" creationdate="20190702T064300Z">
+        <seg>initializeState()方法会在创建CheckpointedFunction的并行实例时被调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57179,8 +57179,8 @@
       <tuv lang="EN-US">
         <seg>is started or when a task is restarted due to a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064344Z" creationid="xccui" creationdate="20190702T064344Z">
-        <seg>它的触发时机是应用启动或由于故障而重启任务。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T154809Z" creationid="xccui" creationdate="20190702T064344Z">
+        <seg>其触发时机是应用启动或由于故障而重启任务。</seg>
       </tuv>
     </tu>
     <tu>
