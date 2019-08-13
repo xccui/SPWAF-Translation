@@ -26745,8 +26745,8 @@
       <tuv lang="EN-US">
         <seg>In addition, both context objects also provide access to the event-time timestamp, the current watermark, the current processing time, and the side outputs, similar to the context objects of other process functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T053527Z" creationid="xccui" creationdate="20190702T053527Z">
-        <seg>此外，和其他处理函数的上下文对象类似，这两个上下文对象也支持访问状态时间戳、当前水位线、当前处理时间以及副输出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T062135Z" creationid="xccui" creationdate="20190702T053527Z">
+        <seg>此外，和其他处理函数的上下文对象类似，此处的两个上下文对象也支持访问状态时间戳、当前水位线、当前处理时间以及副输出。</seg>
       </tuv>
     </tu>
     <tu>
