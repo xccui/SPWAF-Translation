@@ -3384,8 +3384,8 @@
       <tuv lang="EN-US">
         <seg>// get read-only broadcast state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042705Z" creationid="xccui" creationdate="20190702T042705Z">
-        <seg>// 获取只读广播状态</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T061944Z" creationid="xccui" creationdate="20190702T042705Z">
+        <seg>// 获取只读的广播状态</seg>
       </tuv>
     </tu>
     <tu>
