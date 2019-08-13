@@ -26889,8 +26889,8 @@
       <tuv lang="EN-US">
         <seg>In both cases, Flink links the newly registered state handle object to the existing state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T021819Z" creationid="xccui" creationdate="20190701T021819Z">
-        <seg>无论哪种情况，Flink都会将新注册的状态句柄对象链接到已有状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T035125Z" creationid="xccui" creationdate="20190701T021819Z">
+        <seg>无论原因如何，Flink都会将新注册的状态句柄对象链接到已有状态。</seg>
       </tuv>
     </tu>
     <tu>
