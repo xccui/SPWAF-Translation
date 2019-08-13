@@ -11264,8 +11264,8 @@
       <tuv lang="EN-US">
         <seg>An operator that is applied on a KeyedStream is applied in the context</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040812Z" creationid="xccui" creationdate="20190630T040707Z">
-        <seg>用在KeyedStream上的算子会同时拥有它的键值定义上下文。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020822Z" creationid="xccui" creationdate="20190630T040707Z">
+        <seg>作用在KeyedStream上的算子会同时拥有它的键值定义上下文。</seg>
       </tuv>
     </tu>
     <tu>
