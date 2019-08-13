@@ -36482,8 +36482,8 @@
       <tuv lang="EN-US">
         <seg>Scala DataStream API shortcut for a FlatMap with a keyed ValueState</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T023016Z" creationid="xccui" creationdate="20190701T023016Z">
-        <seg>利用Scala DataStream API简写只有一个键值分区ValueState的FlatMap。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T040821Z" creationid="xccui" creationdate="20190701T023016Z">
+        <seg>利用Scala DataStream API中的简写功能实现只有一个键值分区ValueState的FlatMap</seg>
       </tuv>
     </tu>
     <tu>
