@@ -51627,8 +51627,8 @@
       <tuv lang="EN-US">
         <seg>When the processing method of a function with keyed input is called, Flink’s runtime auto‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064956Z" creationid="xccui" creationdate="20190630T062841Z">
-        <seg>对于一个作用在键值分区输入上的函数而言，Flink运行时会在调用它的处理方法时，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T034054Z" creationid="xccui" creationdate="20190630T062841Z">
+        <seg>对于一个作用在键值分区输入上的函数而言，Flink运行时会在调用它的处理方法时</seg>
       </tuv>
     </tu>
     <tu>
