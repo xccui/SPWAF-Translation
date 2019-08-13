@@ -43682,8 +43682,8 @@
       <tuv lang="EN-US">
         <seg>The method is called with a FunctionInitializationContext object that provides access to an Operator StateStore and a KeyedStateStore object.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064758Z" creationid="xccui" creationdate="20190702T064526Z">
-        <seg>该方法在调用时会传入一个FunctionInitializationContext对象，我们可以利用它访问OperatorStateStore及KeyedStateStore对象。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T154848Z" creationid="xccui" creationdate="20190702T064526Z">
+        <seg>Flink在调用该方法时会传入一个FunctionInitializationContext对象，我们可以利用它访问OperatorStateStore及KeyedStateStore对象。</seg>
       </tuv>
     </tu>
     <tu>
