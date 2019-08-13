@@ -56363,8 +56363,8 @@
       <tuv lang="EN-US">
         <seg>function is restored, the parts of the state are distributed among all parallel instances of the function and handed to the restoreState() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T061204Z" creationid="xccui" creationdate="20190701T061204Z">
-        <seg>在函数进行状态恢复时，Flink会将状态的各个部分分配到函数的所有并行实例上，并将每个实例上的状态传递给restoreState()方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T050355Z" creationid="xccui" creationdate="20190701T061204Z">
+        <seg>在函数进行状态恢复时，Flink会将状态的各个部分分发到函数的所有并行实例上，并利用每个实例上的状态调用restoreState()方法。</seg>
       </tuv>
     </tu>
     <tu>
