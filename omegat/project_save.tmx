@@ -60867,8 +60867,8 @@
       <tuv lang="EN-US">
         <seg>the operator state as a list of serializable state objects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T050259Z" creationid="xccui" creationdate="20190701T050259Z">
-        <seg>该方法需要以可序列化状态对象列表的形式返回算子状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T041339Z" creationid="xccui" creationdate="20190701T050259Z">
+        <seg>该方法需要将算子状态以可序列化状态对象列表的形式返回。</seg>
       </tuv>
     </tu>
     <tu>
