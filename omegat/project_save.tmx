@@ -25569,8 +25569,8 @@
       <tuv lang="EN-US">
         <seg>If the task is restarted due to a failure or from a save‐ point, the state will be initialized from the saved data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071058Z" creationid="xccui" creationdate="20190702T065621Z">
-        <seg>如果是重启任务（无论由于故障还是从保存点恢复）的情况，那Flink就会用保存的数据初始化状态；</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T155717Z" creationid="xccui" creationdate="20190702T065621Z">
+        <seg>如果是重启任务（无论由于故障还是从保存点恢复）的情况，Flink就会用保存的数据初始化状态；</seg>
       </tuv>
     </tu>
     <tu>
