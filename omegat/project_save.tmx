@@ -9520,8 +9520,8 @@
       <tuv lang="EN-US">
         <seg>A state primitive defines the struc‐ ture of the state for an individual key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T040912Z" creationid="xccui" creationdate="20190630T040912Z">
-        <seg>状态原语定义了单个键值下的状态结构。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020849Z" creationid="xccui" creationdate="20190630T040912Z">
+        <seg>状态原语定义了单个键值对应的状态结构。</seg>
       </tuv>
     </tu>
     <tu>
