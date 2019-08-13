@@ -53891,8 +53891,8 @@
       <tuv lang="EN-US">
         <seg>and is the only interface that gives access to operator list union state—the operator state that is fully replicated in the case of a recovery or savepoint restart.3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063827Z" creationid="xccui" creationdate="20190702T063515Z">
-        <seg>并且是唯一可以访问算子联合列表状态（在进行恢复或从保存点启动的情况下需要被完整复制的算子状态）的接口。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T153334Z" creationid="xccui" creationdate="20190702T063515Z">
+        <seg>并且是唯一可以访问算子联合列表状态（在进行恢复或从保存点启动的情况下需要被完全复制的算子状态）的接口。</seg>
       </tuv>
     </tu>
     <tu>
