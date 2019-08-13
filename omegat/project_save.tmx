@@ -62251,8 +62251,8 @@
       <tuv lang="EN-US">
         <seg>val lastTempDescriptor = new ValueStateDescriptor[Double]( "lastTemp", classOf[Double])</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042520Z" creationid="xccui" creationdate="20190702T042520Z">
-        <seg>val lastTempDescriptor = new ValueStateDescriptor[Double]( "lastTemp", classOf[Double])</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T061053Z" creationid="xccui" creationdate="20190702T042520Z">
+        <seg>val lastTempDescriptor = new ValueStateDescriptor[Double]("lastTemp", classOf[Double])</seg>
       </tuv>
     </tu>
     <tu>
