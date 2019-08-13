@@ -32425,8 +32425,8 @@
       <tuv lang="EN-US">
         <seg>More‐ over, in combination with the CheckpointListener interface, the snapshotState() method can be used to consistently write data to external datastores by synchronizing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T072346Z" creationid="xccui" creationdate="20190702T071818Z">
-        <seg>此外，该方法还可以协同CheckpointListener接口，以和Flink检查点同步的方式将数据持续写入外部数据存储中。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T170224Z" creationid="xccui" creationdate="20190702T071818Z">
+        <seg>此外，该方法还可以结合CheckpointListener接口使用，以和Flink检查点同步的方式将数据持续写入外部数据存储中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36706,8 +36706,8 @@
       <tuv lang="EN-US">
         <seg>See Chapter 3 for details on how operator list union state is distributed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T071938Z" creationid="xccui" creationdate="20190702T071938Z">
-        <seg>有关算子列表状态在实例上进行分配的详细信息请参阅第3章。</seg>
+      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T170312Z" creationid="xccui" creationdate="20190702T071938Z">
+        <seg>有关算子列表状态在实例上进行分配的详情请参阅第3章。</seg>
       </tuv>
     </tu>
     <tu>
