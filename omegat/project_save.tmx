@@ -39866,8 +39866,8 @@
       <tuv lang="EN-US">
         <seg>That means each parallel instance of the function is responsible for a subrange of the key domain and maintains the corresponding state instances.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T035827Z" creationid="xccui" creationdate="20190630T035827Z">
-        <seg>这意味着每个函数的并行实例都会负责键值域的一部分并维护相应的状态实例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T020043Z" creationid="xccui" creationdate="20190630T035827Z">
+        <seg>这意味着每个函数的并行实例都会负责一部分键值域并维护相应的状态实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43386,8 +43386,8 @@
       <tuv lang="EN-US">
         <seg>The keyed state instances of a function are distributed across all parallel tasks of the function’s operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T035709Z">
-        <seg>函数的键值分区状态实例会分布在函数算子的所有并行任务上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T015108Z" creationid="xccui" creationdate="20190630T035709Z">
+        <seg>函数的键值分区状态实例会分布在函数所在算子的所有并行任务上。</seg>
       </tuv>
     </tu>
     <tu>
