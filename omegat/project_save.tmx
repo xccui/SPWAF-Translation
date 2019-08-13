@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14449,8 +14449,8 @@
       <tuv lang="EN-US">
         <seg>Checkpoints are implemented based on barriers that flow with the data and therefore avoid global synchronization across all operators of an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163830Z" creationid="xccui" creationdate="20190702T163830Z">
-        <seg>检查点是基于和数据一起流动的分隔符来实现的，因此可以避免在应用所有算子间的全局同步。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T184515Z" creationid="xccui" creationdate="20190702T163830Z">
+        <seg>它内部的检查点是基于和数据一起流动的分隔符来实现的，因此可以避免在应用所有算子间的全局同步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21673,8 +21673,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s design aims to reduce synchronization points.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163613Z" creationid="xccui" creationdate="20190702T163613Z">
-        <seg>Flink的设计旨在减少同步点的数量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T184448Z" creationid="xccui" creationdate="20190702T163613Z">
+        <seg>Flink的设计旨在减少同步点的数量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24137,8 +24137,8 @@
       <tuv lang="EN-US">
         <seg>However, another implication is that the state of an application is never in a consis‐ tent state except for the logical points in time when a checkpoint is taken.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T170824Z" creationid="xccui" creationdate="20190702T164144Z">
-        <seg>然而这也意味着除了生成检查点的几个逻辑时间点外，应用程序的状态无法做到强一致。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T184547Z" creationid="xccui" creationdate="20190702T164144Z">
+        <seg>但这也意味着除了生成检查点的几个逻辑时间点外，应用程序的状态无法做到强一致。</seg>
       </tuv>
     </tu>
     <tu>
