@@ -42162,8 +42162,8 @@
       <tuv lang="EN-US">
         <seg>The descriptors for ReducingState and AggregatingState also need a ReduceFunction or AggregateFunction object to aggregate the added</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T065722Z" creationid="xccui" creationdate="20190630T065617Z">
-        <seg>ReducingState和AggregatingState的描述符（descriptor）还需要接收一个ReduceFunction或AggregateFunction对象，以此来对加入的值进行聚合。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T034717Z" creationid="xccui" creationdate="20190630T065617Z">
+        <seg>ReducingState和AggregatingState的描述符还需要接收一个ReduceFunction或AggregateFunction对象，以此来对加入的值进行聚合。</seg>
       </tuv>
     </tu>
     <tu>
