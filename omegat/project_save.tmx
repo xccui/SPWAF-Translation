@@ -12489,8 +12489,8 @@
       <tuv lang="EN-US">
         <seg>As you might expect, maintaining streaming applications is more challenging than maintaining batch applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005338Z" creationid="xccui" creationdate="20190726T005338Z">
-        <seg>可能你已经想到，维护流式应用要比维护批处理应用更具挑战。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160747Z" creationid="xccui" creationdate="20190726T005338Z">
+        <seg>不难想象，维护流式应用要比维护批处理应用更具挑战。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21409,8 +21409,8 @@
       <tuv lang="EN-US">
         <seg>Flink will do all the hard work so you can easily monitor, operate, and reconfigure your jobs with minimal effort while preserving exactly-once state semantics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T050842Z" creationid="xccui" creationdate="20190725T050842Z">
-        <seg>Flink将替你完成全部棘手的工作，你可以在轻松地监控、操作并重新配置作业的同时享受精确一次状态语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160717Z" creationid="xccui" creationdate="20190725T050842Z">
+        <seg>Flink将替你完成全部棘手的工作，你可以在轻松地监控、操纵并重新配置作业的同时享受精确一次状态语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25753,8 +25753,8 @@
       <tuv lang="EN-US">
         <seg>If you are using Flink, you have nothing to worry about.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160611Z" creationid="xccui" creationdate="20190725T045826Z">
-        <seg>如果你在使用Flink那一切都无需担心。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160644Z" creationid="xccui" creationdate="20190725T045826Z">
+        <seg>如果你在使用Flink，那一切都无需担心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28881,8 +28881,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, we present the tools Flink offers for operating and maintaining continuously running streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T051116Z" creationid="xccui" creationdate="20190725T051116Z">
-        <seg>本章我们将介绍Flink所提供的、用于持续运行流式应用的运维工具。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160726Z" creationid="xccui" creationdate="20190725T051116Z">
+        <seg>本章我们将介绍Flink所提供的用于持续运行流式应用的运维工具。</seg>
       </tuv>
     </tu>
     <tu>
