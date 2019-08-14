@@ -32273,8 +32273,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the deployment also opens a few ports and passes the service name of the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T031624Z" creationid="xccui" creationdate="20190720T031624Z">
-        <seg>此外，这个Deployment也会开启几个端口，并传入Flink主进程Deployment的信息，以便工作进程对其中的主进程进行访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143514Z" creationid="xccui" creationdate="20190720T031624Z">
+        <seg>此外，该Deployment也会开启几个端口，并传入Flink主进程Deployment的信息，以便工作进程可以访问其中的主进程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45626,8 +45626,8 @@
       <tuv lang="EN-US">
         <seg>The worker containers are based on the same</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T030029Z">
-        <seg>其容器所需的Flink Docker镜像完全相同，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143422Z" creationid="xccui" creationdate="20190720T030029Z">
+        <seg>其容器所需的Flink Docker镜像和主进程Deployment的完全相同，</seg>
       </tuv>
     </tu>
     <tu>
