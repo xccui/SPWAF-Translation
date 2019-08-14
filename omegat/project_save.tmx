@@ -12377,8 +12377,8 @@
       <tuv lang="EN-US">
         <seg>As the key space evolves, the state of expired keys becomes stale and useless.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033229Z" creationid="xccui" creationdate="20190704T141808Z">
-        <seg>随着键值空间的不断变化，状态中那些过期的键值会变得陈旧且毫无价值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033332Z" creationid="xccui" creationdate="20190704T141808Z">
+        <seg>随着键值空间的不断变化，状态中那些过期的键值会变得陈旧而失去价值。</seg>
       </tuv>
     </tu>
     <tu>
