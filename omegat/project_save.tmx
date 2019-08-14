@@ -13761,8 +13761,8 @@
       <tuv lang="EN-US">
         <seg>By default, the client does not return after submitting the application but waits for it to terminate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030500Z" creationid="xccui" creationdate="20190726T030500Z">
-        <seg>默认情况下，客户端在提交应用后不会立即返回，而是等待其终止。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170117Z" creationid="xccui" creationdate="20190726T030500Z">
+        <seg>默认情况下，客户端在提交应用后不会立即返回，而是会等待其终止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53027,8 +53027,8 @@
       <tuv lang="EN-US">
         <seg>You can pass arguments to the main() method of an application by appending them at the end of the command:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030415Z" creationid="xccui" creationdate="20190726T030415Z">
-        <seg>你可以通过在命令末尾附加参数而将其传递给应用的main()方法：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170103Z" creationid="xccui" creationdate="20190726T030415Z">
+        <seg>你可以通过在命令末尾附加参数的方式将其传递给应用的main()方法：</seg>
       </tuv>
     </tu>
     <tu>
