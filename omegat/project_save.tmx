@@ -10304,8 +10304,8 @@
       <tuv lang="EN-US">
         <seg>After starting, a TaskManager registers itself at the ResourceManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T022448Z" creationid="xccui" creationdate="20190718T022448Z">
-        <seg>TaskManager在启动后会在ResourceManager上注册自己。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140632Z" creationid="xccui" creationdate="20190718T022448Z">
+        <seg>TaskManager启动后会在ResourceManager上注册自己。</seg>
       </tuv>
     </tu>
     <tu>
