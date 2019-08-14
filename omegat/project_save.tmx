@@ -51675,8 +51675,8 @@
       <tuv lang="EN-US">
         <seg>When the timer fires, a call‐ back method is called and the context of timer’s key is loaded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T203711Z" creationid="xccui" creationdate="20190704T203711Z">
-        <seg>当计时器触发时，会调用回调方法并加载计时器键值的上下文。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033816Z" creationid="xccui" creationdate="20190704T203711Z">
+        <seg>计时器在触发时，会调用回调方法并加载计时器键值的上下文。</seg>
       </tuv>
     </tu>
     <tu>
