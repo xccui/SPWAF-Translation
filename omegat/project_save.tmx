@@ -42098,8 +42098,8 @@
       <tuv lang="EN-US">
         <seg>The default parallelism can be specified when starting an application (e.g., using the -p parameter in the CLI client).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T041947Z" creationid="xccui" creationdate="20190728T041947Z">
-        <seg>该默认并行度可以在启动应用时指定（例如：在CLI客户端中使用-p参数）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205914Z" creationid="xccui" creationdate="20190728T041947Z">
+        <seg>该默认并行度可以在启动应用时指定（例如在CLI客户端中使用-p参数）。</seg>
       </tuv>
     </tu>
     <tu>
