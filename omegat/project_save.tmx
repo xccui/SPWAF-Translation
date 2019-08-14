@@ -44770,8 +44770,8 @@
       <tuv lang="EN-US">
         <seg>The session is stopped and all resources are freed when the script is terminated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142253Z" creationid="xccui" creationdate="20190719T014049Z">
-        <seg>在脚本终止时，会话就会停止并释放一切资源。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142325Z" creationid="xccui" creationdate="20190719T014049Z">
+        <seg>在脚本终止时，会话就会停止，一切资源得以释放。</seg>
       </tuv>
     </tu>
     <tu>
