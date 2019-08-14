@@ -60851,8 +60851,8 @@
       <tuv lang="EN-US">
         <seg>the java binary is not on the PATH, the base folder of a Java installation can be speci‐ fied by exporting the JAVA_HOME environment variable or setting the env.java.home parameter in ./conf/flink-conf.yaml.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175529Z" creationid="xccui" creationdate="20190717T175529Z">
-        <seg>如果java二进制文件没在PATH环境变量中，你可以通过导出（export）JAVA_HOME环境变量或在./conf/flink-conf.yaml中设置env.java.home参数的方式来指定Java安装根目录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140047Z" creationid="xccui" creationdate="20190717T175529Z">
+        <seg>如果PATH环境变量中没有配置Java二进制文件所在目录，你可以通过导出（export）JAVA_HOME环境变量或在./conf/flink-conf.yaml中设置env.java.home参数的方式来指定Java安装根目录。</seg>
       </tuv>
     </tu>
     <tu>
