@@ -23433,8 +23433,8 @@
       <tuv lang="EN-US">
         <seg>Hence, Hadoop HDFS, S3, and NFS are commonly used filesys‐ tems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T032046Z" creationid="xccui" creationdate="20190722T032006Z">
-        <seg>因此常用的文件系统包括Hadoop HDFS、S3以及NFS。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150438Z" creationid="xccui" creationdate="20190722T032006Z">
+        <seg>因此诸如Hadoop HDFS、S3以及NFS等都是常用的文件系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37298,8 +37298,8 @@
       <tuv lang="EN-US">
         <seg>Since Flink is a distributed system and runs processes on cluster or cloud environments, filesystems typically need to be globally accessible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150218Z" creationid="xccui" creationdate="20190722T031715Z">
-        <seg>作为一个分布式系统，Flink需要在集群或云端环境中运行进程，而相应的文件系统通常需要支持全局访问，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150459Z" creationid="xccui" creationdate="20190722T031715Z">
+        <seg>作为一个分布式系统，Flink需要在集群或云端环境中运行进程。对应地，文件系统通常需要支持全局访问，</seg>
       </tuv>
     </tu>
     <tu>
