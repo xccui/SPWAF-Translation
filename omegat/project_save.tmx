@@ -15705,8 +15705,8 @@
       <tuv lang="EN-US">
         <seg>Data processing frameworks are sensitive components of a company’s IT infrastruc‐ ture and need to be secured against unauthorized use and access to data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T022213Z" creationid="xccui" creationdate="20190725T022213Z">
-        <seg>数据处理框架属于公司IT基础架构中的敏感组件，我们需要保护它们，以防出现未经授权的使用或数据访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T152220Z" creationid="xccui" creationdate="20190725T022213Z">
+        <seg>数据处理框架属于公司IT基础架构中的敏感组件，我们需要对其采取某些保护措施，以防出现未经授权的使用或数据访问。</seg>
       </tuv>
     </tu>
     <tu>
