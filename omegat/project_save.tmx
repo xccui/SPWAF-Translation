@@ -4152,8 +4152,8 @@
       <tuv lang="EN-US">
         <seg>// set the maximum parallelism for this application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T025101Z" creationid="xccui" creationdate="20190703T025044Z">
-        <seg>// 为此应用设置最大并行度</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T024921Z" creationid="xccui" creationdate="20190703T025044Z">
+        <seg>// 为应用设置最大并行度</seg>
       </tuv>
     </tu>
     <tu>
@@ -50466,8 +50466,8 @@
       <tuv lang="EN-US">
         <seg>We strongly recommend assigning unique identifiers to every operator of an applica‐ tion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024044Z" creationid="xccui" creationdate="20190703T023809Z">
-        <seg>我们强烈建议你为应用中的每个算子都分配唯一标识，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T024723Z" creationid="xccui" creationdate="20190703T023809Z">
+        <seg>我们强烈建议你像示例7-10中那样利用uid()方法为应用中的每个算子都分配唯一标识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53051,8 +53051,8 @@
       <tuv lang="EN-US">
         <seg>You can set the identifier with the uid() method as shown in Example 7-10.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T024340Z" creationid="xccui" creationdate="20190703T023949Z">
-        <seg>具体可像示例7-10中那样利用uid()方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T024727Z" creationid="xccui" creationdate="20190703T023949Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
