@@ -27681,8 +27681,8 @@
       <tuv lang="EN-US">
         <seg>In order to provide fault tolerance for an application, the JobManager initiates checkpoints at regular intervals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T204550Z" creationid="xccui" creationdate="20190702T204550Z">
-        <seg>为了支持应用容错，JobManager会以固定间隔开始创建检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T013840Z" creationid="xccui" creationdate="20190702T204550Z">
+        <seg>为了支持应用容错，JobManager会以定期创建检查点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32505,8 +32505,8 @@
       <tuv lang="EN-US">
         <seg>Most streaming applications require that failures not affect the correctness of the computed results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203714Z" creationid="xccui" creationdate="20190702T203714Z">
-        <seg>它们中的大多数都要求故障不会对计算结果的正确性产生影响。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T013721Z" creationid="xccui" creationdate="20190702T203714Z">
+        <seg>它们中的绝大多数都要求故障不会对计算结果的正确性产生影响。</seg>
       </tuv>
     </tu>
     <tu>
