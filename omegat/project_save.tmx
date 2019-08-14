@@ -27673,8 +27673,8 @@
       <tuv lang="EN-US">
         <seg>In order to provide exactly-once state consistency for an application,1 each source connector of the application needs to be able to set its read positions to a previously checkpointed position.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053841Z" creationid="xccui" creationdate="20190708T053841Z">
-        <seg>为了在应用中实现精确一次的状态一致性保障，1 应用的每个数据源连接器都需要支持将读取位置设为过去的某个检查点中的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T051449Z" creationid="xccui" creationdate="20190708T053841Z">
+        <seg>为了在应用中实现精确一次的状态一致性保障，1 应用的每个数据源连接器都需要支持将读取位置设为过去某个检查点中的值。</seg>
       </tuv>
     </tu>
     <tu>
