@@ -15593,8 +15593,8 @@
       <tuv lang="EN-US">
         <seg>Data can be stored in many different systems, such as filesystems, object stores, rela‐ tional database systems, key-value stores, search indexes, event logs, message queues, and so on.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T045627Z" creationid="xccui" creationdate="20190707T053736Z">
-        <seg>我们可以把数据存储在很多不同的系统中，例如：文件系统，对象存储，关系数据库系统，键值存储，搜索索引，事件日志以及消息队列等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T041947Z" creationid="xccui" creationdate="20190707T053736Z">
+        <seg>我们日常可以把数据存储在很多不同的系统中，例如：文件系统，对象存储，关系数据库系统，键值存储，搜索索引，事件日志以及消息队列等。</seg>
       </tuv>
     </tu>
     <tu>
