@@ -27145,8 +27145,8 @@
       <tuv lang="EN-US">
         <seg>In contrast, the 2PC sink requires a sink system that offers transactional support or exposes building blocks to emulate transactions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T201005Z" creationid="xccui" creationdate="20190708T161548Z">
-        <seg>相反，2PC数据汇需要数据汇系统支持事物或提供可用来模拟事务的构件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T055614Z" creationid="xccui" creationdate="20190708T161548Z">
+        <seg>相反，2PC数据汇需要数据汇系统支持事务或提供可用来模拟事务的构件。</seg>
       </tuv>
     </tu>
     <tu>
