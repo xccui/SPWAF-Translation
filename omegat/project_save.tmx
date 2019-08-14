@@ -22385,8 +22385,8 @@
       <tuv lang="EN-US">
         <seg>For example, you can configure the maximum number of failed containers until an application is terminated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T010455Z" creationid="xccui" creationdate="20190719T010455Z">
-        <seg>例如，你可以配置最多有多少容器发生故障后终止应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T141958Z" creationid="xccui" creationdate="20190719T010455Z">
+        <seg>例如，可以配置有多少容器发生故障后终止应用。</seg>
       </tuv>
     </tu>
     <tu>
