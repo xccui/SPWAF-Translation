@@ -13393,8 +13393,8 @@
       <tuv lang="EN-US">
         <seg>Bugs need to be fixed, functionality adjusted, added, or removed, or the parallelism of the operator needs to be adjusted to account for higher or lower data rates.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T212532Z" creationid="xccui" creationdate="20190702T212532Z">
-        <seg>例如，修复Bug，添加、删除或调整功能，或者针对不同的数据到来速率调整算子的并行度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T015155Z" creationid="xccui" creationdate="20190702T212532Z">
+        <seg>例如：修复Bug，添加、删除或调整功能，或针对不同的数据到来速率调整算子的并行度。</seg>
       </tuv>
     </tu>
     <tu>
