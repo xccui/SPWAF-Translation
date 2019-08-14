@@ -27721,8 +27721,8 @@
       <tuv lang="EN-US">
         <seg>In order to retrieve one or more JobManager metrics, add the get query parameter with all the requested metrics to the request:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212552Z" creationid="xccui" creationdate="20190729T044531Z">
-        <seg>为了得到一个或多个JobManager指标，可以将它们以get查询参数的形式加入到请求中：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212602Z" creationid="xccui" creationdate="20190729T044531Z">
+        <seg>为了得到一个或多个JobManager指标，可以将它们以get查询参数的方式加入到请求中：</seg>
       </tuv>
     </tu>
     <tu>
