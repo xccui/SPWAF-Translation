@@ -52819,8 +52819,8 @@
       <tuv lang="EN-US">
         <seg>You can define the default state backend of a cluster with</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T044300Z" creationid="xccui" creationdate="20190724T044300Z">
-        <seg>你可以利用state.backend参数定义集群的默认状态后端。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T152046Z" creationid="xccui" creationdate="20190724T044300Z">
+        <seg>你可以使用state.backend参数定义集群的默认状态后端。</seg>
       </tuv>
     </tu>
     <tu>
