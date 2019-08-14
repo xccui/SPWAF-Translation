@@ -29873,8 +29873,8 @@
       <tuv lang="EN-US">
         <seg>Instead, you need to build a cus‐ tom image that either “hardcodes” the required parameters or is flexible enough to adjust the configuration dynamically through parameters or environment variables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190722T005201Z">
-        <seg>为此，你需要构建一个自定义镜像，要么就把所需参数"硬编码"进去，要么就灵活一些，可以通过参数或环境变量动态调整配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T145529Z" creationid="xccui" creationdate="20190722T005201Z">
+        <seg>为此，你需要构建一个自定义镜像，要么就把所需参数"硬编码"进去，要么就灵活一些，允许通过参数或环境变量动态调整配置。</seg>
       </tuv>
     </tu>
     <tu>
