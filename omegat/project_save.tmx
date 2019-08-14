@@ -10536,8 +10536,8 @@
       <tuv lang="EN-US">
         <seg>All parameters can be defined in the ./conf/flink-conf.yaml file, which is organized as a flat YAML file of key-value pairs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T041926Z" creationid="xccui" creationdate="20190723T041632Z">
-        <seg>所有这些参数都可以定义在./conf/flink-conf.yaml文件中定义。该文件是一个存储键值的扁平化YAML文件，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150800Z" creationid="xccui" creationdate="20190723T041632Z">
+        <seg>所有这些参数都可以在./conf/flink-conf.yaml文件中定义。该文件是一个存储键值的扁平化YAML文件，</seg>
       </tuv>
     </tu>
     <tu>
