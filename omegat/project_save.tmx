@@ -31777,8 +31777,8 @@
       <tuv lang="EN-US">
         <seg>Members of the Flink community configure and build Docker images for Apache Flink and upload them to Docker Hub, a public repository for Docker images.2 The repository hosts Docker images for the most recent Flink versions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T021136Z">
-        <seg>Flink社区成员已经为Apache Flink配置和构建了Docker镜像，并把它们上传到了Docker Hub（一个用于存放Docker镜像的公共仓库）上面。仓库内包含了Flink最新几个版本的Docker镜像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140502Z" creationid="xccui" creationdate="20190718T021136Z">
+        <seg>Flink社区成员已经为Apache Flink配置和构建了Docker镜像，并把它们上传到了Docker Hub（一个用于存放Docker镜像的公共仓库）上面。仓库内包含了Flink最近几个版本的Docker镜像。</seg>
       </tuv>
     </tu>
     <tu>
