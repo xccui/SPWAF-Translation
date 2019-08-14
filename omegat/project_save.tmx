@@ -37874,8 +37874,8 @@
       <tuv lang="EN-US">
         <seg>So far we have explained how to start an application on a running Flink cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T202219Z" creationid="xccui" creationdate="20190729T202209Z">
-        <seg>到目前为止，我们已经解释过如何在一个运行的Flink集群上启动一个应用，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213419Z" creationid="xccui" creationdate="20190729T202209Z">
+        <seg>到目前为止，我们已经介绍过如何在一个运行的Flink集群上启动一个应用，</seg>
       </tuv>
     </tu>
     <tu>
