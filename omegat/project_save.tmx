@@ -21793,8 +21793,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s system class loader loads all JAR files in the ./lib folder and the user-code classloaders are derived from the sys‐ tem classloader.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060022Z" creationid="xccui" creationdate="20190723T050829Z">
-        <seg>Flink的系统类加载器会从./lib文件夹中加载全部JAR文件，同时用户代码类加载器也是由类加载器衍生而出。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150934Z" creationid="xccui" creationdate="20190723T050829Z">
+        <seg>Flink的系统类加载器会从./lib目录中加载全部JAR文件，同时用户代码类加载器也是由类加载器衍生而出。</seg>
       </tuv>
     </tu>
     <tu>
