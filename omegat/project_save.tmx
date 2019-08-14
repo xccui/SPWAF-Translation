@@ -47282,8 +47282,8 @@
       <tuv lang="EN-US">
         <seg>This prevents another checkpoint from completing after the savepoint, which would trigger exactly-once sinks to emit data after the savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055841Z" creationid="xccui" creationdate="20190727T055841Z">
-        <seg>这可以防止在生成保存点后又出现一次检查点的情况，该情况会触发精确一次的数据汇在保存点后发出额外数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205820Z" creationid="xccui" creationdate="20190727T055841Z">
+        <seg>这可以防止在生成保存点后又出现一次检查点的情况，该情况会触发精确一次数据汇在保存点后发出额外数据。</seg>
       </tuv>
     </tu>
     <tu>
