@@ -59467,8 +59467,8 @@
       <tuv lang="EN-US">
         <seg>processes can be started with custom Java options—for example, to fine-tune the garbage collector or to enable remote debugging, with the keys env.java.opts, env.java.opts.jobmanager, and env.java.opts.taskmanager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T044132Z" creationid="xccui" creationdate="20190723T044059Z">
-        <seg>Flink的JVM进程支持在启动时自定义Java选项。举例而言，你可以使用env.java.opts、evn.java.opts.jobmanager及env.java.opts.taskmanager来对垃圾收集器进行微调或开启远程调试。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150857Z" creationid="xccui" creationdate="20190723T044059Z">
+        <seg>Flink的JVM进程支持在启动时自定义Java选项。例如，你可以使用env.java.opts、evn.java.opts.jobmanager及env.java.opts.taskmanager来对垃圾收集器进行微调或开启远程调试。</seg>
       </tuv>
     </tu>
     <tu>
