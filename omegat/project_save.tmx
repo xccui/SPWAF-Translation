@@ -41178,8 +41178,8 @@
       <tuv lang="EN-US">
         <seg>The above command sets the default parallelism of the execution environment to 16.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031213Z" creationid="xccui" creationdate="20190726T031213Z">
-        <seg>上述命令会把执行环境的默认并行度设置为16.</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170320Z" creationid="xccui" creationdate="20190726T031213Z">
+        <seg>上述命令会把执行环境的默认并行度设置为16。</seg>
       </tuv>
     </tu>
     <tu>
