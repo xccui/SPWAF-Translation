@@ -38282,8 +38282,8 @@
       <tuv lang="EN-US">
         <seg>Starting from the base directory, the templates are located in:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T043818Z" creationid="xccui" creationdate="20190730T043818Z">
-        <seg>从根目录开始，模板位于：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213925Z" creationid="xccui" creationdate="20190730T043818Z">
+        <seg>从根目录算起，模板位于：</seg>
       </tuv>
     </tu>
     <tu>
