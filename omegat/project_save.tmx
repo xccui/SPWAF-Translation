@@ -46816,14 +46816,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This includes modifica‐ tions due to appending writes.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T200420Z" creationid="xccui" creationdate="20190710T200420Z">
-        <seg>此处的改动包括由追加写所引起的。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>This includes window operators and time-based joins as well as process functions that provide the most flexibility when dealing with time in streaming applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T152845Z" creationid="esouser" creationdate="20190603T161606Z">
