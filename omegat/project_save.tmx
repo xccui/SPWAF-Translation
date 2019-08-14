@@ -41994,8 +41994,8 @@
       <tuv lang="EN-US">
         <seg>The curl command to trigger a savepoint without canceling is:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T181400Z" creationid="xccui" creationdate="20190729T181400Z">
-        <seg>生成保存点而不取消应用的curl命令是：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213249Z" creationid="xccui" creationdate="20190729T181400Z">
+        <seg>仅生成保存点而不取消应用的curl命令是：</seg>
       </tuv>
     </tu>
     <tu>
