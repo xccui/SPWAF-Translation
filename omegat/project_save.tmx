@@ -48218,8 +48218,8 @@
       <tuv lang="EN-US">
         <seg>To keep the example concise, we create a new JDBC connection for each record, which is, of</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212325Z" creationid="xccui" creationdate="20190716T212226Z">
-        <seg>处于示例简洁考虑，我们为每条记录都创建了一个新的JDBC连接，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T060042Z" creationid="xccui" creationdate="20190716T212226Z">
+        <seg>出于简洁考虑，我们在示例中为每条记录都创建了一个新的JDBC连接，</seg>
       </tuv>
     </tu>
     <tu>
