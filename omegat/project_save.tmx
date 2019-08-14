@@ -32873,8 +32873,8 @@
       <tuv lang="EN-US">
         <seg>Note that all operations are done in a nonblocking fashion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212744Z" creationid="xccui" creationdate="20190716T212744Z">
-        <seg>注意，以上所有操作都是以非阻塞的方式来完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T060232Z" creationid="xccui" creationdate="20190716T212744Z">
+        <seg>注意，以上所有操作都是以非阻塞的方式完成。</seg>
       </tuv>
     </tu>
     <tu>
