@@ -28385,8 +28385,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we discuss the architecture of Flink’s queryable state service and explain how streaming applications can expose queryable state and external applica‐ tions can query it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T195133Z" creationid="xccui" creationdate="20190705T195133Z">
-        <seg>接下来我们将讨论Flink可查询式状态服务的架构，并解释流式应用如何对外提供可查询式状态和外部应用怎么才能查询到它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T035920Z" creationid="xccui" creationdate="20190705T195133Z">
+        <seg>接下来我们将讨论Flink可查询式状态服务的架构，并解释流式应用如何对外提供可查询式状态以及外部应用怎么才能查询到它。</seg>
       </tuv>
     </tu>
     <tu>
