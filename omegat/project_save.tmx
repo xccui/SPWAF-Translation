@@ -44250,8 +44250,8 @@
       <tuv lang="EN-US">
         <seg>The performance of a stateful operator (built-in or user-defined) depends on several aspects, including the data types of the state, the state backend of the application, and the chosen state primitives.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T030838Z" creationid="xccui" creationdate="20190704T030838Z">
-        <seg>状态化算子（无论内置还是用户自定义）的性能取决于多个方面，包括状态的数据类型，应用的状态后端以及所选的状态原语。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T031325Z" creationid="xccui" creationdate="20190704T030838Z">
+        <seg>状态化算子（无论是内置的还是用户自定义的）的性能取决于多个方面，包括状态的数据类型，应用的状态后端以及所选的状态原语。</seg>
       </tuv>
     </tu>
     <tu>
