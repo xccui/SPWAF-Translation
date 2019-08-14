@@ -35346,8 +35346,8 @@
       <tuv lang="EN-US">
         <seg>REST command looks like:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T041142Z" creationid="xccui" creationdate="20190729T041108Z">
-        <seg>一个典型的curl REST命令会像下面这样：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T211718Z" creationid="xccui" creationdate="20190729T041108Z">
+        <seg>一个典型的curl REST命令就像下面这样：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41810,8 +41810,8 @@
       <tuv lang="EN-US">
         <seg>The command returns some basic information about the cluster, such as the Flink version, the number of TaskManagers, slots, and jobs that are running, finished, can‐ celled, or failed:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042102Z" creationid="xccui" creationdate="20190729T042102Z">
-        <seg>该命令会返回集群的一些基本信息，例如：Flink版本，TaskManager和处理槽的数量，以及当前正在运行、已完成、已取消或已失败的作业：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T211806Z" creationid="xccui" creationdate="20190729T042102Z">
+        <seg>该命令会返回集群的一些基本信息（例如：Flink版本，TaskManager和处理槽的数量，以及当前正在运行、已完成、已取消或已失败的作业）：</seg>
       </tuv>
     </tu>
     <tu>
