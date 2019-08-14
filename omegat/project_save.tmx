@@ -35986,8 +35986,8 @@
       <tuv lang="EN-US">
         <seg>Response A list of all uploaded JAR files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162211Z" creationid="xccui" creationdate="20190729T045818Z">
-        <seg>响应 所有上传的JAR文件列表。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212918Z" creationid="xccui" creationdate="20190729T045818Z">
+        <seg>响应 所有已上传JAR文件的列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41986,8 +41986,8 @@
       <tuv lang="EN-US">
         <seg>The curl command to start an application with a default parallelism of 4 is:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T152618Z" creationid="xccui" creationdate="20190729T152600Z">
-        <seg>一下curl命令可以启动应用并将默认并行度设置为4：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212923Z" creationid="xccui" creationdate="20190729T152600Z">
+        <seg>以下curl命令可以启动应用并将默认并行度设置为4：</seg>
       </tuv>
     </tu>
     <tu>
