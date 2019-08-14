@@ -11440,8 +11440,8 @@
       <tuv lang="EN-US">
         <seg>Another good practice is to update state only once per function call.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034315Z" creationid="xccui" creationdate="20190704T034315Z">
-        <seg>还有一个好的习惯是每个函数调用只更新一次状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033020Z" creationid="xccui" creationdate="20190704T034315Z">
+        <seg>此外我们建议每次函数调用只更新一次状态。</seg>
       </tuv>
     </tu>
     <tu>
