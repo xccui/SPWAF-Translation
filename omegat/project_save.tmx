@@ -33409,8 +33409,8 @@
       <tuv lang="EN-US">
         <seg>On the other hand, an append operation is not an idem‐ potent operation, because appending an element multiple times results in multiple appends.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065012Z" creationid="xccui" creationdate="20190708T065012Z">
-        <seg>反过来说，追加操作（append operation）就不是幂等的，因为多次追加某个元素会导致它出现多次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T051847Z" creationid="xccui" creationdate="20190708T065012Z">
+        <seg>相反，追加操作（append operation）就不是幂等的，因为多次追加某个元素会导致它出现多次。</seg>
       </tuv>
     </tu>
     <tu>
