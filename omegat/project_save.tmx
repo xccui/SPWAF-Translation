@@ -21561,8 +21561,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s Java tuples and Row type and Scala’s built-in tuples and case classes are handled differently than user-defined POJO types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T210359Z" creationid="xccui" creationdate="20190711T210359Z">
-        <seg>Java元组和Row类型以及Scala的内置元组和样例类，与用户自定义POJO类型的处理方式有所差异。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T054336Z" creationid="xccui" creationdate="20190711T210359Z">
+        <seg>Java元组、Row类型以及Scala的内置元组和样例类，与用户自定义POJO类型的处理方式有所差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60203,8 +60203,8 @@
       <tuv lang="EN-US">
         <seg>single method that can be easily implemented.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T024428Z" creationid="xccui" creationdate="20190711T024428Z">
-        <seg>Encoder接口非常简单，它只有一个方法，你可以轻松实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T054201Z" creationid="xccui" creationdate="20190711T024428Z">
+        <seg>Encoder接口非常简单，它只有一个方法，实现起来很容易。</seg>
       </tuv>
     </tu>
     <tu>
