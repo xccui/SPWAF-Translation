@@ -10144,8 +10144,8 @@
       <tuv lang="EN-US">
         <seg>Adding a data processing system, such as Apache Flink, requires careful considera‐ tions because it does not include its own storage layer but relies on external storage systems to ingest and persist data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T045605Z" creationid="xccui" creationdate="20190708T045605Z">
-        <seg>添加一个像Apache Flink这样的数据处理系统需要深思熟虑，因为它没有包含内置的存储层，而是依赖外部存储系统来传入和持久化数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T042304Z" creationid="xccui" creationdate="20190708T045605Z">
+        <seg>添加一个像Apache Flink这样的数据处理系统需要经过深思熟虑，因为它没有包含内置的存储层，而是依赖外部存储系统来传入和持久化数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23577,8 +23577,8 @@
       <tuv lang="EN-US">
         <seg>Hence, it is important for data processors like Flink to provide a well-equipped library of connectors to read data from and write data to external systems as well as an API to implement custom connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T050417Z" creationid="xccui" creationdate="20190708T050417Z">
-        <seg>因此对于Flink这样的数据处理引擎来说，重要的是能提供一套齐全的用于外部系统读写的连接器库，以及一组用于实现自定义连接器的API。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T044351Z" creationid="xccui" creationdate="20190708T050417Z">
+        <seg>因此对于Flink这样的数据处理引擎而言，重要的是能提供一套齐全的用于外部系统读写的连接器库，以及一组用于实现自定义连接器的API。</seg>
       </tuv>
     </tu>
     <tu>
