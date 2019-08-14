@@ -41834,8 +41834,8 @@
       <tuv lang="EN-US">
         <seg>The command-line client is based on a bash script.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165900Z" creationid="xccui" creationdate="20190726T021717Z">
-        <seg>Flink命令行客户端是基于Bash脚本完成的，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165956Z" creationid="xccui" creationdate="20190726T021717Z">
+        <seg>以上命令行客户端是基于Bash脚本完成的，</seg>
       </tuv>
     </tu>
     <tu>
