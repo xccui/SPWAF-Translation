@@ -38226,8 +38226,8 @@
       <tuv lang="EN-US">
         <seg>Starting a standalone Flink cluster</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153341Z" creationid="xccui" creationdate="20190717T153341Z">
-        <seg>启用一个Flink独立集群</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135610Z" creationid="xccui" creationdate="20190717T153341Z">
+        <seg>启动一个Flink独立集群</seg>
       </tuv>
     </tu>
     <tu>
