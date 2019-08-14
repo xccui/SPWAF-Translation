@@ -38066,8 +38066,8 @@
       <tuv lang="EN-US">
         <seg>SourceFunction and RichSourceFunction can be used to define nonparallel source connectors—sources that run with a single task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T145628Z" creationid="xccui" creationdate="20190712T145628Z">
-        <seg>SourceFunction和RichSourceFunction可用于定义非并行的数据源连接器，它们只能运行单个任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T054543Z" creationid="xccui" creationdate="20190712T145628Z">
+        <seg>SourceFunction和RichSourceFunction可用于定义非并行的数据源连接器，只能在单任务下运行。</seg>
       </tuv>
     </tu>
     <tu>
