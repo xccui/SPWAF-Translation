@@ -26841,8 +26841,8 @@
       <tuv lang="EN-US">
         <seg>In all of these cases, Flink requires Hadoop dependencies on its classpath.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T010039Z" creationid="xccui" creationdate="20190722T010039Z">
-        <seg>上述情况都需要将Hadoop依赖加入Flink的Classpath中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T145609Z" creationid="xccui" creationdate="20190722T010039Z">
+        <seg>无论哪种情况你都需要将Hadoop依赖加入Flink的Classpath中。</seg>
       </tuv>
     </tu>
     <tu>
