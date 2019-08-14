@@ -38842,8 +38842,8 @@
       <tuv lang="EN-US">
         <seg>Streaming applications are supposed to run continuously and must recover from fail‐ ures, such as failing machines or processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T203614Z" creationid="xccui" creationdate="20190702T203549Z">
-        <seg>连续运行的流式应用需要具备从故障（例如机器或进程故障）中恢复的能力，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T013527Z" creationid="xccui" creationdate="20190702T203549Z">
+        <seg>连续运行的流式应用需要具备从（机器或进程）故障中恢复的能力，</seg>
       </tuv>
     </tu>
     <tu>
