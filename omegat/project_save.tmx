@@ -23897,8 +23897,8 @@
       <tuv lang="EN-US">
         <seg>Here is the structure of a savepoint:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020437Z" creationid="xccui" creationdate="20190726T020437Z">
-        <seg>以下展示了保存点的目录结构：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165512Z" creationid="xccui" creationdate="20190726T020437Z">
+        <seg>下方是一个保存点的目录结构：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30097,8 +30097,8 @@
       <tuv lang="EN-US">
         <seg>It consists of a subdirectory that holds the data files containing the states of all tasks and a binary metadata file that includes absolute paths to all data files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T020228Z" creationid="xccui" creationdate="20190726T020228Z">
-        <seg>它由一个包含了所有任务状态数据文件的子目录，和一个包含了全部数据文件绝对路径的二进制元数据文件组成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165442Z" creationid="xccui" creationdate="20190726T020228Z">
+        <seg>它由一个包含了所有任务状态数据文件的子目录和一个包含了全部数据文件绝对路径的二进制元数据文件组成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32129,8 +32129,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, checkpoints are automatically deleted when an application is canceled, unless the application explicitly enabled checkpoint retention.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014727Z" creationid="xccui" creationdate="20190726T014727Z">
-        <seg>此外，除非应用显式指定要保留检查点，否则它们会在应用取消时自动删除。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165355Z" creationid="xccui" creationdate="20190726T014727Z">
+        <seg>此外，除非应用显式指定要保留检查点，否则它们会在应用取消时自动被删除。</seg>
       </tuv>
     </tu>
     <tu>
