@@ -24409,8 +24409,8 @@
       <tuv lang="EN-US">
         <seg>However, it uses processing slots (see “Task Execution” on page 40 for a detailed discussion) to control the number of tasks that can be assigned to a worker process (TaskManager).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T061322Z" creationid="xccui" creationdate="20190723T061155Z">
-        <seg>但采用处理槽（详细信息请参阅第40页"任务执行"一节）来控制可以分配给工作进程（TaskManager）的任务数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151131Z" creationid="xccui" creationdate="20190723T061155Z">
+        <seg>但会采用处理槽（详细信息请参阅第40页"任务执行"一节）来控制可以分配给工作进程（TaskManager）的任务数。</seg>
       </tuv>
     </tu>
     <tu>
