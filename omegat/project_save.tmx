@@ -12929,8 +12929,8 @@
       <tuv lang="EN-US">
         <seg>Because local state can be maintained and checkpointed in different ways, state backends are pluggable—two applications can use different state backend implementations to maintain their states.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221421Z" creationid="xccui" creationdate="20190703T214504Z">
-        <seg>由于本地状态的维护及写入检查点的方式多种多样，所以状态后端被设计为可插拔的（pluggable）——两个应用可以选用不同的状态后端实现来维护其状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T025233Z" creationid="xccui" creationdate="20190703T214504Z">
+        <seg>由于本地状态的维护及写入检查点的方式多种多样，所以状态后端被设计为可插拔的（pluggable）——两个应用可以选择不同的状态后端实现来维护其状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15393,8 +15393,8 @@
       <tuv lang="EN-US">
         <seg>Currently, Flink offers three state backends, the MemoryStateBackend, the FsState Backend, and the RocksDBStateBackend:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221736Z" creationid="xccui" creationdate="20190703T221736Z">
-        <seg>目前Flink提供了三种状态后端：MemoryStateBackend，FsStateBackend以及RocksDBStateBackend：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T025802Z" creationid="xccui" creationdate="20190703T221736Z">
+        <seg>目前，Flink提供了三种状态后端：MemoryStateBackend，FsStateBackend以及RocksDBStateBackend：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29081,8 +29081,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss aspects that need to be taken into account to ensure robust execution behavior and consistent performance of long- running applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T213613Z" creationid="xccui" creationdate="20190703T211557Z">
-        <seg>本节我们将重点讨论几个方面，它们可以为长期运行应用的健壮执行及一致性能提供保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T025137Z" creationid="xccui" creationdate="20190703T211557Z">
+        <seg>本节我们将重点讨论几个方面，它们可以为长期运行应用的健壮执行和一致性能提供保障。</seg>
       </tuv>
     </tu>
     <tu>
