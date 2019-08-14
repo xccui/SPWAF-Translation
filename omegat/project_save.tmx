@@ -53091,8 +53091,8 @@
       <tuv lang="EN-US">
         <seg>You can specify the default parallelism of</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031148Z" creationid="xccui" creationdate="20190726T031128Z">
-        <seg>你可以利用-p参数指定某个应用的默认并行度：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170259Z" creationid="xccui" creationdate="20190726T031128Z">
+        <seg>你可以使用-p参数指定某个应用的默认并行度：</seg>
       </tuv>
     </tu>
     <tu>
