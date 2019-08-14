@@ -11616,8 +11616,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink can be easily integrated with Hadoop YARN and HDFS and other com‐ ponents of the Hadoop ecosystem, such as HBase.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T005906Z" creationid="xccui" creationdate="20190722T005906Z">
-        <seg>Apache Flink可以很容易地与Hadoop YARN、HDFS及其他Hadoop生态组件（例如HBase）相集成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T145544Z" creationid="xccui" creationdate="20190722T005906Z">
+        <seg>Apache Flink可以很容易地与Hadoop YARN、HDFS及其他Hadoop生态组件（如HBase）相集成。</seg>
       </tuv>
     </tu>
     <tu>
