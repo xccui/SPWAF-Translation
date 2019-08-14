@@ -37498,8 +37498,8 @@
       <tuv lang="EN-US">
         <seg>Since our KeyedProcessFunction always updates the registered timer by deleting the current timer and registering a new one, only a single timer is registered per key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T213431Z" creationid="xccui" creationdate="20190704T213431Z">
-        <seg>由于KeyedProcessFunction总是在注册新计时器之前将已有的计时器删除，所以每个键值在同一时间最多只会有一个注册的计时器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T034243Z" creationid="xccui" creationdate="20190704T213431Z">
+        <seg>由于KeyedProcessFunction总会在注册新计时器之前将已有的计时器删除，所以每个键值在同一时间最多只会有一个注册的计时器。</seg>
       </tuv>
     </tu>
     <tu>
