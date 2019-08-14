@@ -25929,8 +25929,8 @@
       <tuv lang="EN-US">
         <seg>If you require exactly-once results, you should take the savepoint and stop the appli‐ cation with the integrated savepoint-and-cancel command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T055550Z" creationid="xccui" creationdate="20190727T055550Z">
-        <seg>你如果需要精确一次的结果，则应该使用集成命令savepoint-and-cancel来生成保存点并停止应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205710Z" creationid="xccui" creationdate="20190727T055550Z">
+        <seg>你如果需要精确一次的结果，则应该使用复合命令savepoint-and-cancel来生成保存点并停止应用。</seg>
       </tuv>
     </tu>
     <tu>
