@@ -59211,8 +59211,8 @@
       <tuv lang="EN-US">
         <seg>parameter is the size of the JVM heap memory, which is set with the key taskman ager.heap.size.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T034142Z" creationid="xccui" creationdate="20190724T034142Z">
-        <seg>其中所涉及最重要的参数是JVM堆内存大小，它可以利用taskmanager.heap.size配置项设置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151251Z" creationid="xccui" creationdate="20190724T034142Z">
+        <seg>其中所涉及最重要的参数是JVM堆内存大小，它可以通过taskmanager.heap.size配置项设置。</seg>
       </tuv>
     </tu>
     <tu>
