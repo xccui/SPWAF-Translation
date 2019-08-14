@@ -19729,8 +19729,8 @@
       <tuv lang="EN-US">
         <seg>Figure 9-2 shows how a job is submitted to a standalone cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T153707Z" creationid="xccui" creationdate="20190717T153707Z">
-        <seg>图9-2展示了向独立集群提交任务的过程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135635Z" creationid="xccui" creationdate="20190717T153707Z">
+        <seg>图9-2展示了向独立集群提交作业的过程。</seg>
       </tuv>
     </tu>
     <tu>
