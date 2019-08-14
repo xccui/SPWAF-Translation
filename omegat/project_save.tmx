@@ -52595,8 +52595,8 @@
       <tuv lang="EN-US">
         <seg>You can adjust RocksDB’s configuration and tweak its performance with many parameters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041733Z" creationid="xccui" creationdate="20190724T041733Z">
-        <seg>和调整RocksDB配置及性能相关的参数有很多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151835Z" creationid="xccui" creationdate="20190724T041733Z">
+        <seg>和调整RocksDB配置及性能相关的参数有很多，你可以自行尝试。</seg>
       </tuv>
     </tu>
     <tu>
