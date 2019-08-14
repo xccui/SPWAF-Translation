@@ -47154,8 +47154,8 @@
       <tuv lang="EN-US">
         <seg>This means that you can‐ not easily evolve the data type of a state in your application, unless you designed your application with state evolution in mind from the start.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205226Z" creationid="xccui" creationdate="20190727T054541Z">
-        <seg>这意味着除非你从最开始就考虑应用状态后面可能会发生变化，否则无法轻易修改应用中状态的数据类型。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205246Z" creationid="xccui" creationdate="20190727T054541Z">
+        <seg>这意味着你除非从最开始就考虑应用状态后面可能会发生变化，否则无法轻易修改应用中状态的数据类型。</seg>
       </tuv>
     </tu>
     <tu>
