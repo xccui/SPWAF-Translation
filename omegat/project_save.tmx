@@ -40546,8 +40546,8 @@
       <tuv lang="EN-US">
         <seg>The JobID is used to specify the job when taking a save‐ point, canceling, or rescaling an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031120Z" creationid="xccui" creationdate="20190726T031120Z">
-        <seg>我们可以在生成保存点、取消或对应用进行扩缩容时使用JobID来指定作业</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170251Z" creationid="xccui" creationdate="20190726T031120Z">
+        <seg>该JobID可以在生成保存点、取消应用或对应用进行扩缩容时用来指定作业。</seg>
       </tuv>
     </tu>
     <tu>
