@@ -52483,8 +52483,8 @@
       <tuv lang="EN-US">
         <seg>YARN grants resources as containers3 that are distributed in the cluster and in which applications run their pro‐ cesses.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T210712Z" creationid="xccui" creationdate="20190718T210712Z">
-        <seg>YARN以容器3 的形式发放资源，这些容器分布在集群之上并允许应用在其中运行自己的进程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T141027Z" creationid="xccui" creationdate="20190718T210712Z">
+        <seg>YARN会以容器3 的形式发放资源，这些容器分布在集群之上并允许应用在其中运行自己的进程。</seg>
       </tuv>
     </tu>
     <tu>
