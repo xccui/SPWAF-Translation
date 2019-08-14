@@ -24169,8 +24169,8 @@
       <tuv lang="EN-US">
         <seg>However, being able to reset the state of an application to a consistent point is not sufficient to achieve satisfying processing guarantees for an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053351Z" creationid="xccui" creationdate="20190708T053022Z">
-        <seg>虽然如此，但像这样把应用状态重置到某个一致性的点所提供的应用处理保障只能算是差强人意。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T045330Z" creationid="xccui" creationdate="20190708T053022Z">
+        <seg>虽然如此，但像这样把应用状态重置到某个一致性的点所提供的应用处理保障还无法令人满意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29321,8 +29321,8 @@
       <tuv lang="EN-US">
         <seg>In “Checkpoints, Savepoints, and State Recovery”, you learned that Flink’s check‐ pointing and recovery mechanism periodically takes consistent checkpoints of an application’s state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T051855Z" creationid="xccui" creationdate="20190708T051855Z">
-        <seg>在"检查点、保存点及状态恢复"一节，你了解了Flink的检查点和恢复机制会周期性地为应用状态创建一致性检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T045039Z" creationid="xccui" creationdate="20190708T051855Z">
+        <seg>在"检查点、保存点及状态恢复"一节，你了解到Flink的检查点和恢复机制会周期性地为应用状态创建一致性检查点。</seg>
       </tuv>
     </tu>
     <tu>
