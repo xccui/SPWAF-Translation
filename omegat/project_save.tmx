@@ -8472,8 +8472,8 @@
       <tuv lang="EN-US">
         <seg>A common approach is to mount a network-shared directory with the Flink distri‐ bution on each machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T200600Z" creationid="xccui" creationdate="20190717T200510Z">
-        <seg>一种常用方法是将存有Flink发行版的网络共享目录（network-shared directory）挂载到每台机器上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140234Z" creationid="xccui" creationdate="20190717T200510Z">
+        <seg>常用方法是将存有Flink发行版的网络共享目录（network-shared directory）挂载到每台机器上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8856,8 +8856,8 @@
       <tuv lang="EN-US">
         <seg>A local or distributed standalone cluster is</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T214014Z" creationid="xccui" creationdate="20190717T214014Z">
-        <seg>你可以利用./bin/stop-cluster.sh脚本来停止本地或分布式独立集群。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140305Z" creationid="xccui" creationdate="20190717T214014Z">
+        <seg>还可以利用./bin/stop-cluster.sh脚本来停止本地或分布式独立集群。</seg>
       </tuv>
     </tu>
     <tu>
