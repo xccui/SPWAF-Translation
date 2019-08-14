@@ -24801,8 +24801,8 @@
       <tuv lang="EN-US">
         <seg>However, you can also invert the lookup order with the classloader.resolve-order configuration key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190723T060603Z" creationid="xccui" creationdate="20190723T060603Z">
-        <seg>但你也可以使用classloader.resolve-order配置项颠倒这一顺序。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151046Z" creationid="xccui" creationdate="20190723T060603Z">
+        <seg>但你也可以使用classloader.resolve-order配置项反转这一顺序。</seg>
       </tuv>
     </tu>
     <tu>
