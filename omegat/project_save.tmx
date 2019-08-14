@@ -35418,8 +35418,8 @@
       <tuv lang="EN-US">
         <seg>REST request to list all uploaded JAR files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045749Z" creationid="xccui" creationdate="20190729T045749Z">
-        <seg>列出所有上传的JAR文件的REST请求</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212656Z" creationid="xccui" creationdate="20190729T045749Z">
+        <seg>列出所有已上传JAR文件的REST请求</seg>
       </tuv>
     </tu>
     <tu>
