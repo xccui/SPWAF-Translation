@@ -12465,8 +12465,8 @@
       <tuv lang="EN-US">
         <seg>As you can see, these are the same parameters we used when deploying the job- specific image with docker-compose.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044305Z" creationid="xccui" creationdate="20190730T044305Z">
-        <seg>如你所见，此处使用的参数和使用docker-compose部署针对特定作业的镜像相同。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213945Z" creationid="xccui" creationdate="20190730T044305Z">
+        <seg>可以看到，此处使用的参数和使用docker-compose部署针对特定作业的镜像相同。</seg>
       </tuv>
     </tu>
     <tu>
