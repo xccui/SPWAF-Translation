@@ -31,7 +31,6 @@ Task Chaining	任务链接
 Metric	指标
 analytical query	分析类查询
 transactional database	事务型数据库
-transactional data	事物数据
 complex event processing	复杂事件处理
 ad-hoc queries	即席查询
 connected system	互联系统
@@ -70,3 +69,4 @@ parallelism	并行度
 public interface	公开接口
 detached mode	分离模式
 latency marker	延迟标记
+transactional data	事务数据
