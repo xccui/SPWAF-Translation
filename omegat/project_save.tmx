@@ -27649,8 +27649,8 @@
       <tuv lang="EN-US">
         <seg>In order to prevent increasing resource consumption of an application over time, it is important that the size of the operator state be controlled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T135741Z" creationid="xccui" creationdate="20190704T135607Z">
-        <seg>为了防止应用资源随时间而耗尽，关键要控制算子状态大小。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033103Z" creationid="xccui" creationdate="20190704T135607Z">
+        <seg>为了防止应用资源逐渐耗尽，关键要控制算子状态大小。</seg>
       </tuv>
     </tu>
     <tu>
