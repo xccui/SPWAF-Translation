@@ -43258,8 +43258,8 @@
       <tuv lang="EN-US">
         <seg>The internal Kafka client can be configured to retry writes before declaring them failed by setting the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T155327Z" creationid="xingcan" creationdate="20190709T154506Z">
-        <seg>你可以通过将重试属性（retries property）设置为一个大于0（0是默认值）的值来配置内部的kafka客户端在宣告写入失败之前重试几次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T053417Z" creationid="xingcan" creationdate="20190709T154506Z">
+        <seg>你可以通过将重试属性（retries property）设置为一个大于0（0是默认值）的值来配置内部的kafka客户端在宣告写入失败之前重试几次，</seg>
       </tuv>
     </tu>
     <tu>
@@ -52635,8 +52635,8 @@
       <tuv lang="EN-US">
         <seg>You can also configure the sink to log write only failures by calling setLogFailuresOnly(true) on the sink object.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190709T161428Z" creationid="xingcan" creationdate="20190709T155322Z">
-        <seg>你还可以在数据汇对象上调用setLogFailuresOnly(true)让它仅将故障写入日志中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T053414Z" creationid="xingcan" creationdate="20190709T155322Z">
+        <seg>还可以在数据汇对象上调用setLogFailuresOnly(true)让它仅将故障写入日志中。</seg>
       </tuv>
     </tu>
     <tu>
