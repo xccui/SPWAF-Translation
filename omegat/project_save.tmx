@@ -22065,8 +22065,8 @@
       <tuv lang="EN-US">
         <seg>For example, a Kafka source needs to choose the partition offsets from which it consumes a topic if no restored read positions are available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170601Z" creationid="xccui" creationdate="20190726T032721Z">
-        <seg>例如，Kafka数据源会在没有可供恢复的读取位置时从它消费的主题中决定分区偏移。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170617Z" creationid="xccui" creationdate="20190726T032721Z">
+        <seg>例如：Kafka数据源会在没有可供恢复的读取位置时从它消费的主题中决定分区偏移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40498,8 +40498,8 @@
       <tuv lang="EN-US">
         <seg>The ID of a job can be obtained from the Web UI, the REST API, or using the command-line client.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032913Z" creationid="xccui" creationdate="20190726T032913Z">
-        <seg>作业ID可以通过Web UI、REST API或命令行客户端获取。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170658Z" creationid="xccui" creationdate="20190726T032913Z">
+        <seg>该作业ID可以通过Web UI、REST API或命令行客户端获取。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41698,8 +41698,8 @@
       <tuv lang="EN-US">
         <seg>The client prints a list of all running jobs, including their JobIDs, when you run the following command:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T033016Z" creationid="xccui" creationdate="20190726T033016Z">
-        <seg>你可以利用以下命令让客户端打印出所有正在运行作业（包括其JobID）的列表：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170706Z" creationid="xccui" creationdate="20190726T033016Z">
+        <seg>你可以使用以下命令控制客户端打印出所有正在运行作业（包括其JobID）的列表：</seg>
       </tuv>
     </tu>
     <tu>
