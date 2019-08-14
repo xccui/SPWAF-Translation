@@ -20833,8 +20833,8 @@
       <tuv lang="EN-US">
         <seg>Flink knows about Hadoop’s configuration, it can connect to YARN’s ResourceMan‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T030850Z" creationid="xccui" creationdate="20190722T030835Z">
-        <seg>一旦知道Hadoop的配置，Flink就可以连接YARN的ResourceManager和HDFS。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T145935Z" creationid="xccui" creationdate="20190722T030835Z">
+        <seg>一旦取得Hadoop的配置，Flink就可以连接YARN的ResourceManager和HDFS。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27457,8 +27457,8 @@
       <tuv lang="EN-US">
         <seg>In order to build Flink for a specific Hadoop version, you need Flink’s source code, which can be obtained by downloading the source distribution from the website or cloning a stable release branch from the project’s Git repository, a Java JDK of at least version 8, and Apache Maven 3.2.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T024253Z" creationid="xccui" creationdate="20190722T024253Z">
-        <seg>为了针对特定Hadoop版本构建Flink，你需要Flink源代码（可以从官网下载源代码发布版或从项目Git仓库中克隆一个稳定版本分支），8以上版本的Java JDK以及Apache Maven 3.2。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T145730Z" creationid="xccui" creationdate="20190722T024253Z">
+        <seg>为了针对特定Hadoop版本构建Flink，你需要Flink源代码（可以从官网下载源代码发布版或从项目Git仓库中克隆一个稳定版本分支），Java JDK（8以上版本）以及Apache Maven 3.2。</seg>
       </tuv>
     </tu>
     <tu>
