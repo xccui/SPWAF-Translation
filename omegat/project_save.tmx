@@ -38386,8 +38386,8 @@
       <tuv lang="EN-US">
         <seg>State evolution and migration is an important topic in the Flink community and receives a lot of attention.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T053545Z" creationid="xccui" creationdate="20190705T053545Z">
-        <seg>状态的演变和迁移在Flink社区是一个非常重要的主题，也受到了很多关注。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T035456Z" creationid="xccui" creationdate="20190705T053545Z">
+        <seg>状态的演变和迁移在Flink社区是一个非常重要的主题，也得到了很多关注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52907,8 +52907,8 @@
       <tuv lang="EN-US">
         <seg>You can expect improved support for these scenarios in future versions of Apache Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T053708Z" creationid="xccui" creationdate="20190705T053708Z">
-        <seg>你可以期待将来版本的Apache Flink会对这些场景有更好的支持。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T035516Z" creationid="xccui" creationdate="20190705T053708Z">
+        <seg>你可以期待未来版本的Apache Flink会对这些场景有更好的支持。</seg>
       </tuv>
     </tu>
     <tu>
