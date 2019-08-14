@@ -16329,8 +16329,8 @@
       <tuv lang="EN-US">
         <seg>Distributed data processing frameworks like Apache Flink need to be set up to interact with several components such as resource managers, filesystems, and services for distributed coordination.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T031752Z" creationid="xccui" creationdate="20190717T031552Z">
-        <seg>像Apache Flink这样的分布式数据处理框架需要通过设置和资源管理器、文件系统和分布式协调服务等多个组件进行交互。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135249Z" creationid="xccui" creationdate="20190717T031552Z">
+        <seg>像Apache Flink这样的分布式数据处理框架需要通过设置与资源管理器、文件系统和分布式协调服务等多个组件进行交互。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28841,8 +28841,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, we discuss the different ways to deploy Flink clusters and how to con‐ figure them securely and make them highly available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T040119Z" creationid="xccui" creationdate="20190717T031932Z">
-        <seg>本章我们将讨论Flink集群的多种部署方式以及如何对它进行安全及高可用配置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135351Z" creationid="xccui" creationdate="20190717T031932Z">
+        <seg>本章我们将讨论Flink集群的多种部署方式以及如何对它进行安全和高可用配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29169,8 +29169,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we explain how to configure and start Flink in different environments—including standalone clusters, Docker, Apache Hadoop YARN, and Kubernetes—and how Flink’s compo‐ nents are assembled in each setup.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T152301Z" creationid="xccui" creationdate="20190717T152301Z">
-        <seg>本节我们将向你介绍如何在不同环境下（独立集群，Docker，Apache Hadoop YARN以及Kubernetes）配置并启动Flink，以及在每种搭建模式下它的组件是如何组装到一起的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135537Z" creationid="xccui" creationdate="20190717T152301Z">
+        <seg>本节我们将向你介绍如何在不同环境下（独立集群，Docker，Apache Hadoop YARN以及Kubernetes）配置并启动Flink，以及在每种部署模式下它的组件是如何组装到一起的。</seg>
       </tuv>
     </tu>
     <tu>
