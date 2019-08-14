@@ -28265,8 +28265,8 @@
       <tuv lang="EN-US">
         <seg>In the following sections, you will learn how to implement idempotent or transactional sink connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190714T042808Z" creationid="xccui" creationdate="20190714T042808Z">
-        <seg>以下几节将向你介绍如何实现幂等性或事务性的数据汇连接器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T055416Z" creationid="xccui" creationdate="20190714T042808Z">
+        <seg>下面几节将向你介绍如何实现幂等性或事务性的数据汇连接器。</seg>
       </tuv>
     </tu>
     <tu>
