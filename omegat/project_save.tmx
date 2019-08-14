@@ -53963,8 +53963,8 @@
       <tuv lang="EN-US">
         <seg>and write data from and to RocksDB, it needs to be de/serialized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T023950Z" creationid="xccui" creationdate="20190704T023657Z">
-        <seg>为了从RocksDB中读写数据，需要对数据进行序列化和反序列化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T030734Z" creationid="xccui" creationdate="20190704T023657Z">
+        <seg>为了从RocksDB中读写数据，系统需要对数据进行序列化和反序列化。</seg>
       </tuv>
     </tu>
     <tu>
