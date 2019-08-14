@@ -10704,8 +10704,8 @@
       <tuv lang="EN-US">
         <seg>All you have to do is define a function with keyed state and make the state queryable by calling the set Queryable(String) method on the StateDescriptor before obtaining the state han‐ dle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T060607Z" creationid="xccui" creationdate="20190706T060607Z">
-        <seg>你要做的就是定义一个具有键值分区状态的函数，然后在获取状态句柄之前调用StateDescriptor的setQueryable(String)方法。这样，目标状态就是可查询的了。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T040207Z" creationid="xccui" creationdate="20190706T060607Z">
+        <seg>你要做的就是定义一个具有键值分区状态的函数，然后在获取状态句柄之前调用StateDescriptor的setQueryable(String)方法。这样，目标状态就变为可查询的了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51523,8 +51523,8 @@
       <tuv lang="EN-US">
         <seg>When the JAR file is in the classpath, the queryable state threads are automatically started and can</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190706T054455Z" creationid="xccui" creationdate="20190706T054218Z">
-        <seg>如果Classpath中存在该JAR文件，可查询式状态的线程就会自动启动，从而可以响应客户端的请求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T040116Z" creationid="xccui" creationdate="20190706T054218Z">
+        <seg>如果Classpath中存在该JAR文件，可查询式状态的线程就会自动启动，以响应客户端的请求。</seg>
       </tuv>
     </tu>
     <tu>
