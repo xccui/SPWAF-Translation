@@ -8072,8 +8072,8 @@
       <tuv lang="EN-US">
         <seg>A Flink worker process stores data on the local filesystem for multiple reasons, including receiving application JAR files, writing log files, and maintaining applica‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T042436Z" creationid="xccui" creationdate="20190724T042436Z">
-        <seg>出于很多原因，Flink的工作进程需要在本地文件系统上存储数据，其中包括接收应用的JAR包，写日志，以及在配置了RocksDB状态后端时维护状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151926Z" creationid="xccui" creationdate="20190724T042436Z">
+        <seg>出于多种原因，Flink的工作进程需要在本地文件系统上存储数据，其中包括接收应用的JAR包，写日志，以及在配置了RocksDB状态后端时维护状态。</seg>
       </tuv>
     </tu>
     <tu>
