@@ -41858,8 +41858,8 @@
       <tuv lang="EN-US">
         <seg>The configuration can be defined per URI scheme.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T045601Z" creationid="xccui" creationdate="20190722T045601Z">
-        <seg>该配置支持为每个URI协议单独定义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150721Z" creationid="xccui" creationdate="20190722T045601Z">
+        <seg>该配置支持为每个URI协议单独定义，</seg>
       </tuv>
     </tu>
     <tu>
