@@ -8592,8 +8592,8 @@
       <tuv lang="EN-US">
         <seg>A container is started from an image that defines the software in the container.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190718T015513Z">
-        <seg>容易需要通过定义其内部软件的镜像启动。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140423Z" creationid="xccui" creationdate="20190718T015513Z">
+        <seg>容器需要通过定义其内部软件的镜像启动。</seg>
       </tuv>
     </tu>
     <tu>
