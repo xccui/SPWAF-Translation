@@ -24657,8 +24657,8 @@
       <tuv lang="EN-US">
         <seg>However, there are a few things to consider when debugging a Flink application in an IDE:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T053805Z" creationid="xccui" creationdate="20190611T053805Z">
-        <seg>但在调试时需要注意一下几点：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212952Z" creationid="xccui" creationdate="20190611T053805Z">
+        <seg>但在调试时需要注意以下几点：</seg>
       </tuv>
     </tu>
     <tu>
