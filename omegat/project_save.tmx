@@ -23577,8 +23577,8 @@
       <tuv lang="EN-US">
         <seg>Hence, it is important for data processors like Flink to provide a well-equipped library of connectors to read data from and write data to external systems as well as an API to implement custom connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T044351Z" creationid="xccui" creationdate="20190708T050417Z">
-        <seg>因此对于Flink这样的数据处理引擎而言，重要的是能提供一套齐全的用于外部系统读写的连接器库，以及一组用于实现自定义连接器的API。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T044904Z" creationid="xccui" creationdate="20190708T050417Z">
+        <seg>因此对于Flink这样的数据处理引擎而言，很关键的一方面是能提供一套齐全的用于外部系统读写的连接器库，以及一组用于实现自定义连接器的API。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24425,8 +24425,8 @@
       <tuv lang="EN-US">
         <seg>However, just being able to read or write data to external datastores is not sufficient for a stream processor that wants to provide meaningful consistency guarantees in the case of fail‐ ure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T050905Z" creationid="xccui" creationdate="20190708T050905Z">
-        <seg>然而，对于流处理引擎而言，仅能读写外部数据存储是不够的，因为它还希望能够在故障时提供重要的一致性保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T044954Z" creationid="xccui" creationdate="20190708T050905Z">
+        <seg>然而，对于流处理引擎而言，仅能读写外部数据存储是不够的，因为它还需要在故障时提供重要的一致性保障。</seg>
       </tuv>
     </tu>
     <tu>
