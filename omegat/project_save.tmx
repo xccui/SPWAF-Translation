@@ -49962,8 +49962,8 @@
       <tuv lang="EN-US">
         <seg>We did not provide a comprehensive configu‐ ration guide; instead, we refer you to the official documentation of Apache Flink for a complete list and detailed descriptions of all configuration options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T042222Z" creationid="xccui" creationdate="20190725T042222Z">
-        <seg>虽然我们没有提供完整的配置指南，但所有内容都可以从Apache Flink官方文档找到，在那里你可以获取完整配置列表以及所有配置项的详细说明。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T152403Z" creationid="xccui" creationdate="20190725T042222Z">
+        <seg>虽然章节中没有提供完整的配置指南，但所有相关内容都可以从Apache Flink官方文档找到，在那里你可以获取完整配置列表以及所有配置项的详细说明。</seg>
       </tuv>
     </tu>
     <tu>
