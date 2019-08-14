@@ -24081,8 +24081,8 @@
       <tuv lang="EN-US">
         <seg>However, Apache Flink has many features to significantly ease the maintenance of streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005910Z" creationid="xccui" creationdate="20190726T005910Z">
-        <seg>但Flink自身提供的很多功能可以极大简化流式应用的维护。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160853Z" creationid="xccui" creationdate="20190726T005910Z">
+        <seg>好在Flink自身提供的很多功能可以极大简化流式应用的维护。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32473,8 +32473,8 @@
       <tuv lang="EN-US">
         <seg>Most of these features are based on savepoints.1 Flink exposes the following interfaces to monitor and control its master and worker processes, and applications:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T010049Z" creationid="xccui" creationdate="20190726T010049Z">
-        <seg>这些功能大都基于保存点机制。1 为了对主进程和工作进程以及应用进行监控，Flink暴露了以下接口：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160921Z" creationid="xccui" creationdate="20190726T010049Z">
+        <seg>这些功能大都基于保存点机制。1 为了对主进程、工作进程以及应用进行监控，Flink公开了以下接口：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35626,8 +35626,8 @@
       <tuv lang="EN-US">
         <seg>Reconfiguring, scaling, or updating a batch application can be done between executions, which is a lot easier than upgrading an application that is continuously ingesting, processing, and emit‐ ting data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T005834Z" creationid="xccui" creationdate="20190726T005656Z">
-        <seg>批处理应用的配置调整、扩缩容或更新可以在它执行间隙完成；而升级一个持续接收和处理数据、并发出结果的应用则要困难很多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160831Z" creationid="xccui" creationdate="20190726T005656Z">
+        <seg>批处理应用的配置调整、扩缩容或更新可以在它执行间隙完成；而升级一个持续接收、处理数据，并发出结果的应用则要困难很多。</seg>
       </tuv>
     </tu>
     <tu>
