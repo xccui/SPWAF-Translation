@@ -23025,8 +23025,8 @@
       <tuv lang="EN-US">
         <seg>Future[String] holds the result of the JDBC query.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212359Z" creationid="xccui" creationdate="20190716T212359Z">
-        <seg>Future[String]保存了JDBC查询的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T060204Z" creationid="xccui" creationdate="20190716T212359Z">
+        <seg>Future[String]保存了JDBC的查询结果。</seg>
       </tuv>
     </tu>
     <tu>
