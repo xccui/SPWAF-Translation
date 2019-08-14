@@ -11744,8 +11744,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink uses filesystems for various tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031426Z" creationid="xccui" creationdate="20190722T030921Z">
-        <seg>文件系统在Apache Flink中用途很多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150118Z" creationid="xccui" creationdate="20190722T030921Z">
+        <seg>文件系统在Apache Flink中用途广泛。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21281,8 +21281,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports a wide variety of filesystems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190722T031826Z" creationid="xccui" creationdate="20190722T031543Z">
-        <seg>Flink支持的文件系统种类繁多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T150016Z" creationid="xccui" creationdate="20190722T031543Z">
+        <seg>Flink支持的文件系统种类很多。</seg>
       </tuv>
     </tu>
     <tu>
