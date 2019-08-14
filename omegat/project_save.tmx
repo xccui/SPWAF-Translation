@@ -32473,8 +32473,8 @@
       <tuv lang="EN-US">
         <seg>Most of these features are based on savepoints.1 Flink exposes the following interfaces to monitor and control its master and worker processes, and applications:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160921Z" creationid="xccui" creationdate="20190726T010049Z">
-        <seg>这些功能大都基于保存点机制。1 为了对主进程、工作进程以及应用进行监控，Flink公开了以下接口：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T161005Z" creationid="xccui" creationdate="20190726T010049Z">
+        <seg>这些功能大都基于保存点机制。1 为了对主进程、工作进程以及应用进行监控，Flink对外公开了以下接口：</seg>
       </tuv>
     </tu>
     <tu>
