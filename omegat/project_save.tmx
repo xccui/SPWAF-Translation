@@ -32289,8 +32289,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the protocol of TwoPhaseCommitSinkFunction piggybacks on Flink’s regular checkpointing mechanism and thus adds little overhead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T200128Z" creationid="xccui" creationdate="20190715T195951Z">
-        <seg>且TwoPhaseCommitSinkFunction的协议本就是建立在Flink常规的检查点机制之上，因此它并没有带来很多额外开销。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T055449Z" creationid="xccui" creationdate="20190715T195951Z">
+        <seg>再加上TwoPhaseCommitSinkFunction的协议本就是建立在Flink常规的检查点机制之上，因此它并没有带来很多额外开销。</seg>
       </tuv>
     </tu>
     <tu>
