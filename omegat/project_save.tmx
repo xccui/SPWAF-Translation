@@ -41554,8 +41554,8 @@
       <tuv lang="EN-US">
         <seg>The build script for the provided image is a good starting point for a custom image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T042618Z">
-        <seg>我们提供的镜像构建脚本对你构建自定义镜像而言是一个很好的参考。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T144102Z" creationid="xccui" creationdate="20190720T042618Z">
+        <seg>我们提供的镜像构建脚本对你构建自定义镜像是一个很好的参考。</seg>
       </tuv>
     </tu>
     <tu>
