@@ -24857,8 +24857,8 @@
       <tuv lang="EN-US">
         <seg>How‐ ever, as of Flink 1.7 no such tool exists.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T045503Z" creationid="xccui" creationdate="20190705T045217Z">
-        <seg>但在Flink 1.7版本这样的工具还不存在。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T034951Z" creationid="xccui" creationdate="20190705T045217Z">
+        <seg>但它们还没有在Flink 1.7版本中提供。</seg>
       </tuv>
     </tu>
     <tu>
