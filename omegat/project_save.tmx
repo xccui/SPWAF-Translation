@@ -26665,8 +26665,8 @@
       <tuv lang="EN-US">
         <seg>In addition to the JVM, there are two other major memory consumers, Flink’s net‐ work stack and RocksDB, when it is used as a state backend.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035101Z" creationid="xccui" creationdate="20190724T035054Z">
-        <seg>除了JVM，还有两个组件同样会消耗很多内存——Flink的网络栈和RocksDB（如果用它作为状态后端）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151347Z" creationid="xccui" creationdate="20190724T035054Z">
+        <seg>除了JVM，还有两个组件同样会消耗很多内存——Flink的网络栈和RocksDB（如果选它作为状态后端）。</seg>
       </tuv>
     </tu>
     <tu>
