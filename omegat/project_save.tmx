@@ -26017,8 +26017,8 @@
       <tuv lang="EN-US">
         <seg>If your application requires keyed state for a moving key domain, it should ensure the state of keys is cleared when it is not needed anymore.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T201452Z" creationid="xccui" creationdate="20190704T201452Z">
-        <seg>如果你的应用需要用到键值域不断改变的键值分区状态，那么必须要确保能够对那些无用的状态进行清除。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033706Z" creationid="xccui" creationdate="20190704T201452Z">
+        <seg>如果你的应用需要用到键值域不断变化的键值分区状态，那么必须要确保能够对那些无用的状态进行清除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46562,8 +46562,8 @@
       <tuv lang="EN-US">
         <seg>This can be done by registering timers for a point of time in the future.4 Similar to state, timers are registered in the context of the currently active key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T203022Z" creationid="xccui" creationdate="20190704T202730Z">
-        <seg>该工作可以通过注册针对未来某个时间点的计时器来完成。4 和状态类似，计时器也会注册在当前活跃键值的上下文中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033740Z" creationid="xccui" creationdate="20190704T202730Z">
+        <seg>该工作可以通过注册针对未来某个时间点的计时器来完成。4 和状态类似，计时器也会注册在当前活动键值的上下文中。</seg>
       </tuv>
     </tu>
     <tu>
