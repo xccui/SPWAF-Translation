@@ -42482,8 +42482,8 @@
       <tuv lang="EN-US">
         <seg>The files are also provided in our repository.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143742Z" creationid="xccui" creationdate="20190720T033342Z">
-        <seg>所有这些文件都可以从我们的代码库中找到。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143802Z" creationid="xccui" creationdate="20190720T033342Z">
+        <seg>所有这些文件同样可以从我们的代码库中找到。</seg>
       </tuv>
     </tu>
     <tu>
