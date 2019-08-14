@@ -53243,8 +53243,8 @@
       <tuv lang="EN-US">
         <seg>You first need to tell Kubernetes to create a port forwarding from the master container to your local machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035411Z" creationid="xccui" creationdate="20190720T035411Z">
-        <seg>为此，首先需要告诉Kubernetes来创建从主进程容器到本地机器的端口转发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143856Z" creationid="xccui" creationdate="20190720T035411Z">
+        <seg>为此，首先需要告诉Kubernetes创建从主进程容器到本地机器的端口转发。</seg>
       </tuv>
     </tu>
     <tu>
