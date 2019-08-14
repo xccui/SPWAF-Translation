@@ -37442,8 +37442,8 @@
       <tuv lang="EN-US">
         <seg>Since it is not possible to change the identifiers in a savepoint, you will have fewer options to update and evolve your application if</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050344Z" creationid="xccui" creationdate="20190727T050344Z">
-        <seg>保存点中的标识是无法修改的，因此你如果没有使用uid()手动分配算子标识，那么在更新或改进应用时就会受到一定限制。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205006Z" creationid="xccui" creationdate="20190727T050344Z">
+        <seg>保存点中的标识是无法修改的，因此你如果没有使用uid()手动分配算子标识，那么在更新或改进应用时就会受到一些限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52523,8 +52523,8 @@
       <tuv lang="EN-US">
         <seg>You Should Define Unique Operator IDs</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T045744Z" creationid="xccui" creationdate="20190727T045744Z">
-        <seg>应该为每个算子定义唯一ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T204944Z" creationid="xccui" creationdate="20190727T045744Z">
+        <seg>最好为每个算子定义唯一ID</seg>
       </tuv>
     </tu>
     <tu>
