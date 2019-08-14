@@ -23177,8 +23177,8 @@
       <tuv lang="EN-US">
         <seg>Given a working and well-configured YARN and HDFS setup, a Flink job can be sub‐ mitted to be executed on YARN using Flink’s command-line client with the following command:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T012551Z" creationid="xccui" creationdate="20190719T012233Z">
-        <seg>在YARN和HDFS都搭建完成且能够正常工作的前提下，你可以使用Flink CLI客户端运行以下命令将作业提交到YARN上执行：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142119Z" creationid="xccui" creationdate="20190719T012233Z">
+        <seg>在YARN和HDFS都搭建完成且能够正常工作的前提下，就可以使用Flink CLI客户端运行以下命令将作业提交到YARN上执行：</seg>
       </tuv>
     </tu>
     <tu>
