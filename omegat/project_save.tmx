@@ -55563,8 +55563,8 @@
       <tuv lang="EN-US">
         <seg>defined by calling setParallelism() on StreamExecutionEnvironment or on an</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T031532Z" creationid="xccui" creationdate="20190726T031424Z">
-        <seg>即通过StreamExecutionEnvironment或算子的setParallelism()方法定义的并行度比默认值优先级更高。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170339Z" creationid="xccui" creationdate="20190726T031424Z">
+        <seg>换言之，通过StreamExecutionEnvironment或算子的setParallelism()方法定义的并行度比默认值优先级更高。</seg>
       </tuv>
     </tu>
     <tu>
