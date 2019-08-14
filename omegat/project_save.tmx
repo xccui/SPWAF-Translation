@@ -33169,8 +33169,8 @@
       <tuv lang="EN-US">
         <seg>Note that you do not need to provide connection information, as Flink memorized the connection details of the Flink session run‐ ning on YARN.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T015019Z" creationid="xccui" creationdate="20190719T015019Z">
-        <seg>请注意，由于Flink会记住在YARN上运行的Flink会话的连接详情，所以你无须提供连接信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142401Z" creationid="xccui" creationdate="20190719T015019Z">
+        <seg>请注意，由于Flink会记住在YARN上运行的Flink会话的连接详情，所以无须提供连接信息。</seg>
       </tuv>
     </tu>
     <tu>
