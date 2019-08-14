@@ -51443,8 +51443,8 @@
       <tuv lang="EN-US">
         <seg>When running Flink on Kubernetes with a master deployment and a worker deploy‐ ment as described in “Kubernetes” on page 228, Kubernetes will automatically restart failed containers to ensure the right number of pods is up and running.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061832Z" creationid="xccui" creationdate="20190721T061832Z">
-        <seg>像228页"Kubernetes"一节中介绍的那样，当在Kubernetes上使用主进程Deployment及工作进程Deployment启动Flink时，Kubernetes将自动重启故障容器以确保Pod运行数目的正确性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T145426Z" creationid="xccui" creationdate="20190721T061832Z">
+        <seg>正如我们在第228页"Kubernetes"一节中介绍的那样，当在Kubernetes上使用主进程Deployment及工作进程Deployment启动Flink时，Kubernetes将自动重启故障容器以确保Pod运行数目的正确性。</seg>
       </tuv>
     </tu>
     <tu>
