@@ -25753,8 +25753,8 @@
       <tuv lang="EN-US">
         <seg>If you are using Flink, you have nothing to worry about.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T045826Z" creationid="xccui" creationdate="20190725T045826Z">
-        <seg>如果你用了Flink那一切都无需担心。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160611Z" creationid="xccui" creationdate="20190725T045826Z">
+        <seg>如果你在使用Flink那一切都无需担心。</seg>
       </tuv>
     </tu>
     <tu>
