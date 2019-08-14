@@ -11608,8 +11608,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink can be deployed on Kubernetes as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T022715Z" creationid="xccui" creationdate="20190719T022715Z">
-        <seg>Apache Flink也支持部署在它上面。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142627Z" creationid="xccui" creationdate="20190719T022715Z">
+        <seg>Apache Flink也对此做了相应支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23161,8 +23161,8 @@
       <tuv lang="EN-US">
         <seg>Given a Kubernetes cluster and an application that is packaged into a container image, you can create a deployment of the application that tells Kubernetes how many instances of the application to start.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190719T015502Z">
-        <seg>给定一个Kubernetes集群以及一个打包到容器镜像中的应用，你可以通过创建应用部署的方式告诉Kubernetes启动多少个应用实例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142517Z" creationid="xccui" creationdate="20190719T015502Z">
+        <seg>给定一个Kubernetes集群以和一个打包到容器镜像中的应用，你可以通过创建应用部署的方式告诉Kubernetes启动多少个应用实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33169,8 +33169,8 @@
       <tuv lang="EN-US">
         <seg>Note that you do not need to provide connection information, as Flink memorized the connection details of the Flink session run‐ ning on YARN.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142434Z" creationid="xccui" creationdate="20190719T015019Z">
-        <seg>请注意，由于Flink会记住在YARN上运行的Flink会话连接详情，所以无须提供连接信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142443Z" creationid="xccui" creationdate="20190719T015019Z">
+        <seg>请注意，由于Flink会记住在YARN上运行的Flink会话连接详情，所以你无须提供连接信息。</seg>
       </tuv>
     </tu>
     <tu>
