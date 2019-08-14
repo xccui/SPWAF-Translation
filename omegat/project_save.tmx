@@ -25169,8 +25169,8 @@
       <tuv lang="EN-US">
         <seg>If not enough slots are available, Flink’s ResourceManager requests additional containers from the YARN Resource‐ Manager to start TaskManager processes, which register themselves at the Flink ResourceManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T214623Z" creationid="xccui" creationdate="20190718T214623Z">
-        <seg>如果处理槽数量不足，Flink的ResourceManager会向YARN的ResourceManager申请更多容器来启动TaskManager进程，这些进程在启动后会在Flink的ResourceManager注册自己。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T141852Z" creationid="xccui" creationdate="20190718T214623Z">
+        <seg>如果处理槽数量不足，Flink的ResourceManager会向YARN的ResourceManager申请更多容器来启动TaskManager进程，这些进程在启动后会把自己注册到Flink的ResourceManager中。</seg>
       </tuv>
     </tu>
     <tu>
