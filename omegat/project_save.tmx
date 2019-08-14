@@ -46954,8 +46954,8 @@
       <tuv lang="EN-US">
         <seg>This is obviously a problem if pods need to communicate with each other.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T023733Z" creationid="xccui" creationdate="20190719T023733Z">
-        <seg>这显然会在Pod需要相互通信时产生问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T142836Z" creationid="xccui" creationdate="20190719T023733Z">
+        <seg>显然，这在Pod需要相互通信时会导致问题。</seg>
       </tuv>
     </tu>
     <tu>
