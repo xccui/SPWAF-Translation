@@ -36330,8 +36330,8 @@
       <tuv lang="EN-US">
         <seg>Running Flink in Docker is an easy way to set up a Flink cluster on your local machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T022051Z" creationid="xccui" creationdate="20190718T022051Z">
-        <seg>利用Docker运行Flink是一种在本地机器上搭建Flink集群的简便方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140559Z" creationid="xccui" creationdate="20190718T022051Z">
+        <seg>你可以利用Docker轻松在本地机器上搭建Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
