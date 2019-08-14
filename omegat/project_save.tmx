@@ -24265,8 +24265,8 @@
       <tuv lang="EN-US">
         <seg>However, if you hardcoded the parallelism on the StreamExecutionEnvironment or</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T044025Z" creationid="xccui" creationdate="20190728T043331Z">
-        <seg>但你如果通过硬编码的方式设置了StreamExecutionEnvironment或部分算子的并行度，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T210240Z" creationid="xccui" creationdate="20190728T043331Z">
+        <seg>但你如果是以硬编码的方式为StreamExecutionEnvironment或部分算子设置的并行度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25465,8 +25465,8 @@
       <tuv lang="EN-US">
         <seg>If the parallelism of your application depends on the environment’s default parallel‐ ism, Flink provides an atomic rescale command that takes a savepoint, cancels the application, and restarts it with a new default parallelism:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T044517Z" creationid="xccui" creationdate="20190728T044517Z">
-        <seg>针对应用程序并行度依赖环境默认并行度的情况，Flink提供了一个原子性的扩缩容命令，它可以生成一个保存点，取消应用，随后以新的并行度将它重启：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T210425Z" creationid="xccui" creationdate="20190728T044517Z">
+        <seg>针对应用程序并行度依赖环境默认并行度的情况，Flink提供了一个原子性的扩缩容命令，它可以生成一个保存点，取消应用，随后再以新的并行度将应用重启：</seg>
       </tuv>
     </tu>
     <tu>
@@ -58419,8 +58419,8 @@
       <tuv lang="EN-US">
         <seg>on some of the operators, you might need to adjust the source code and recompile</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190728T044048Z" creationid="xccui" creationdate="20190728T044020Z">
-        <seg>那么可能就需要修改源码并重新编译、打包后再将应用提交执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T210332Z" creationid="xccui" creationdate="20190728T044020Z">
+        <seg>那么可能就需要修改源码、并重新编译打包后再将应用提交执行。</seg>
       </tuv>
     </tu>
     <tu>
