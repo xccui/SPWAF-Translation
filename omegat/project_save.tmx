@@ -51387,8 +51387,8 @@
       <tuv lang="EN-US">
         <seg>When port forwarding is running, you can access the Web UI at http://localhost:8081.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T035626Z" creationid="xccui" creationdate="20190720T035626Z">
-        <seg>在端口转发运行过程中，你可以通过http://localhost:8081访问Web UI。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143941Z" creationid="xccui" creationdate="20190720T035626Z">
+        <seg>在端口转发运行过程中，可以通过http://localhost:8081访问Web UI。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53243,8 +53243,8 @@
       <tuv lang="EN-US">
         <seg>You first need to tell Kubernetes to create a port forwarding from the master container to your local machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143856Z" creationid="xccui" creationdate="20190720T035411Z">
-        <seg>为此，首先需要告诉Kubernetes创建从主进程容器到本地机器的端口转发。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143922Z" creationid="xccui" creationdate="20190720T035411Z">
+        <seg>为此，首先需要让Kubernetes创建从主进程容器到本地机器的端口转发。</seg>
       </tuv>
     </tu>
     <tu>
