@@ -23169,8 +23169,8 @@
       <tuv lang="EN-US">
         <seg>Given a running ZooKeeper cluster and properly configured YARN and Flink setups, you can start a Flink cluster in job mode or session mode as if HA were not enabled—</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T061117Z" creationid="xccui" creationdate="20190721T061117Z">
-        <seg>给一个运行的ZooKeeper集群，如果已经配置好YARN和Flink，你就可以和非HA模式一样，通过./bin/flink run -m yarn-cluster和./bin/yarn-session.sh分别在作业模式和会话模式下启动Flink集群。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T145251Z" creationid="xccui" creationdate="20190721T061117Z">
+        <seg>如果有一个运行的ZooKeeper集群且已经配置好YARN和Flink，你就可以和非HA模式一样，通过./bin/flink run -m yarn-cluster和./bin/yarn-session.sh分别在作业模式和会话模式下启动Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
