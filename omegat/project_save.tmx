@@ -49074,8 +49074,8 @@
       <tuv lang="EN-US">
         <seg>Unfortunately, figuring out the memory consumption of RocksDB is not straightforward because it depends on the number of keyed states in an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041415Z" creationid="xccui" creationdate="20190724T041331Z">
-        <seg>但遗憾的是它的内存占用量没有什么直观的计算方法，因为具体值取决于应用中键值分区状态的数量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151728Z" creationid="xccui" creationdate="20190724T041331Z">
+        <seg>但遗憾的是它的内存占用量没有什么直观的计算方法，因为具体值取会决于应用中键值分区状态的数量。</seg>
       </tuv>
     </tu>
     <tu>
