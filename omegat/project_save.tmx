@@ -9016,8 +9016,8 @@
       <tuv lang="EN-US">
         <seg>A precommitted trans‐ action may not receive further writes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T052911Z" creationid="xccui" creationdate="20190716T052911Z">
-        <seg>预提交过后的事物将不再接收额外的数据写入。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T055554Z" creationid="xccui" creationdate="20190716T052911Z">
+        <seg>预提交过后的事务将不再接收额外的数据写入。</seg>
       </tuv>
     </tu>
     <tu>
