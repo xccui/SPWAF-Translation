@@ -57907,8 +57907,8 @@
       <tuv lang="EN-US">
         <seg>munication, the blob manager (to exchange large files), the queryable state server, and the Web UI and REST interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143144Z" creationid="xccui" creationdate="20190720T025608Z">
-        <seg>blob管理器（用于交换大文件）、可查询式状态服务器以及Web UI（REST接口）的端口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143246Z" creationid="xccui" creationdate="20190720T025608Z">
+        <seg>Blob管理器（用于交换大文件）、可查询式状态服务器以及Web UI（REST接口）的端口。</seg>
       </tuv>
     </tu>
     <tu>
