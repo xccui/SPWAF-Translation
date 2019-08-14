@@ -39922,8 +39922,8 @@
       <tuv lang="EN-US">
         <seg>The ./flink-container/docker directory also contains a docker-compose.yml file to deploy a Flink application with docker-compose.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T035047Z" creationid="xccui" creationdate="20190730T035047Z">
-        <seg>./flink-container/docker目录还包含了一个docker-compose.yml文件，可用于通过docker-compose部署Flink应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213816Z" creationid="xccui" creationdate="20190730T035047Z">
+        <seg>./flink-container/docker目录还包含了一个docker-compose.yml文件，用于通过docker-compose部署Flink应用。</seg>
       </tuv>
     </tu>
     <tu>
