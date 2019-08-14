@@ -28425,8 +28425,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we list and briefly describe the most important REST calls.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042522Z" creationid="xccui" creationdate="20190729T042522Z">
-        <seg>接下来我们将列举并简单描述一些最为重要的REST调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T211942Z" creationid="xccui" creationdate="20190729T042522Z">
+        <seg>接下来我们将列举几个最为重要的REST调用，并它们做一个简要介绍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35770,8 +35770,8 @@
       <tuv lang="EN-US">
         <seg>Refer to the official documentation of Apache Flink for a complete list of supported calls.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T042817Z" creationid="xccui" creationdate="20190729T042817Z">
-        <seg>请参阅Apache Flink官方文档以获取所支持的完整调用列表。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212244Z" creationid="xccui" creationdate="20190729T042817Z">
+        <seg>欲获取所支持的完整调用列表，请参阅Apache Flink官方文档。</seg>
       </tuv>
     </tu>
     <tu>
