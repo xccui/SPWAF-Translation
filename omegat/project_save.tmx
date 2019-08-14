@@ -12241,8 +12241,8 @@
       <tuv lang="EN-US">
         <seg>As mentioned, an application can only be started from a savepoint if it is compatible with the savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T050523Z" creationid="xccui" creationdate="20190727T050523Z">
-        <seg>之前我们提到过，应用只有和保存点兼容时才可以从该保存点启动。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205028Z" creationid="xccui" creationdate="20190727T050523Z">
+        <seg>我们在前文提到过，应用只有和保存点兼容时才可以从该保存点启动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52843,8 +52843,8 @@
       <tuv lang="EN-US">
         <seg>You can disable this safety check by adding the -n option</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190727T053749Z" creationid="xccui" creationdate="20190727T053749Z">
-        <seg>你可以通过在run命令后增加-n选项来禁用此安全检查。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T205126Z" creationid="xccui" creationdate="20190727T053749Z">
+        <seg>可以通过在run命令后增加-n选项来禁用此安全检查。</seg>
       </tuv>
     </tu>
     <tu>
