@@ -22065,8 +22065,8 @@
       <tuv lang="EN-US">
         <seg>For example, a Kafka source needs to choose the partition offsets from which it consumes a topic if no restored read positions are available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032721Z" creationid="xccui" creationdate="20190726T032721Z">
-        <seg>举例而言，Kafka数据源会在没有可供恢复的读取位置时从它消费的主题中决定分区偏移。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170601Z" creationid="xccui" creationdate="20190726T032721Z">
+        <seg>例如，Kafka数据源会在没有可供恢复的读取位置时从它消费的主题中决定分区偏移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33089,8 +33089,8 @@
       <tuv lang="EN-US">
         <seg>Note that the state of an application will be empty if you start it for the first time or do not provide a savepoint or checkpoint to initial‐ ize the state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032443Z" creationid="xccui" creationdate="20190726T032443Z">
-        <seg>注意，如果你是第一次启动应用，或没有提供保存点（检查点）来初始化状态，那么应用的状态将为空。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170539Z" creationid="xccui" creationdate="20190726T032443Z">
+        <seg>注意，如果你是第一次启动应用，或没有提供保存点（检查点）来初始化状态，那么应用的状态将被设为空。</seg>
       </tuv>
     </tu>
     <tu>
