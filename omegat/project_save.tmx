@@ -39906,8 +39906,8 @@
       <tuv lang="EN-US">
         <seg>The ./bin/ flink.bat script for the Windows command line provides only very limited functionality.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021808Z" creationid="xccui" creationdate="20190726T021808Z">
-        <seg>针对Windows系统的./bin/flink.bat脚本功能有限。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165919Z" creationid="xccui" creationdate="20190726T021808Z">
+        <seg>针对Windows系统所提供的./bin/flink.bat脚本功能有限。</seg>
       </tuv>
     </tu>
     <tu>
