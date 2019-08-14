@@ -33057,8 +33057,8 @@
       <tuv lang="EN-US">
         <seg>Note that the job will continue to run if taking the savepoint fails.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T185250Z" creationid="xccui" creationdate="20190726T185250Z">
-        <seg>注意，如果生成保存点失败，作业将继续运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T204045Z" creationid="xccui" creationdate="20190726T185250Z">
+        <seg>请注意，如果保存点生成失败，作业将继续运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56155,8 +56155,8 @@
       <tuv lang="EN-US">
         <seg>fails if the savepoint folder is neither explicitly specified in the command nor avail‐ able  from  the  configuration.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183741Z" creationid="xccui" creationdate="20190726T183741Z">
-        <seg>如果保存点文件夹既没有在命令中指定，也无法从配置中获取，则命令会失败。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T204128Z" creationid="xccui" creationdate="20190726T183741Z">
+        <seg>如果保存点文件夹既没有在命令中指定，也无法从配置中获取，则命令会执行失败。</seg>
       </tuv>
     </tu>
     <tu>
