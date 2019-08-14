@@ -29297,8 +29297,8 @@
       <tuv lang="EN-US">
         <seg>In “Application Deploy‐ ment” on page 39, we briefly explained an alternative—the library mode that does not require a running Flink cluster to submit a job.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T210710Z" creationid="xccui" creationdate="20190729T210600Z">
-        <seg>在第39页"应用部署"一节，我们还简要介绍了另一种部署形式——库模式，它无需一个运行的Flink集群来提交作业。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213512Z" creationid="xccui" creationdate="20190729T210600Z">
+        <seg>在第39页"应用部署"一节，我们还简要介绍了另一种部署形式——库模式，它无需一个已运行的Flink集群来接收提交作业。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38290,8 +38290,8 @@
       <tuv lang="EN-US">
         <seg>Starting from the base folder of the distribution, the script is located at ./ flink-container/docker/build.sh.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T033921Z" creationid="xccui" creationdate="20190730T033921Z">
-        <seg>从发行版的根目录开始计算，脚本位于./flink-container/docker/build.sh。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213718Z" creationid="xccui" creationdate="20190730T033921Z">
+        <seg>脚本位于发行版根目录中./flink-container/docker/build.sh。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51275,8 +51275,8 @@
       <tuv lang="EN-US">
         <seg>When being deployed on a container orchestration framework, such as Kubernetes, the framework restarts failed contain‐ ers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T030456Z" creationid="xccui" creationdate="20190730T030456Z">
-        <seg>当部署在容器编排框架（例如Kubernetes）上时，框架会重启失败的容器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T213534Z" creationid="xccui" creationdate="20190730T030456Z">
+        <seg>当部署在容器编排框架（如Kubernetes）上时，框架会重启失败的容器。</seg>
       </tuv>
     </tu>
     <tu>
