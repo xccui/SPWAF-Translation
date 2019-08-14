@@ -29833,8 +29833,8 @@
       <tuv lang="EN-US">
         <seg>Instead, the source and sink connectors of an application need to be integrated with Flink’s checkpointing and recovery mecha‐ nism and provide certain properties to be able to give meaningful guarantees.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T053555Z" creationid="xccui" creationdate="20190708T053103Z">
-        <seg>进一步，应用的数据源和数据汇连接器需要和Flink的检查点及恢复策略集成，并能提供某些特定的属性以支各类有意义的保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T051741Z" creationid="xccui" creationdate="20190708T053103Z">
+        <seg>进一步，应用的数据源和数据汇连接器需要和Flink的检查点及恢复策略集成，并能提供某些特定的属性以支持各类有意义的保障。</seg>
       </tuv>
     </tu>
     <tu>
