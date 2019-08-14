@@ -9856,8 +9856,8 @@
       <tuv lang="EN-US">
         <seg>A value of -1 disables the REST API and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T040837Z" creationid="xccui" creationdate="20190729T040837Z">
-        <seg>值为-1意味着禁用REST API和Web UI。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T211636Z" creationid="xccui" creationdate="20190729T040837Z">
+        <seg>将值设为-1表示禁用REST API和Web UI。</seg>
       </tuv>
     </tu>
     <tu>
