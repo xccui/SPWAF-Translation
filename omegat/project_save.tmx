@@ -25849,8 +25849,8 @@
       <tuv lang="EN-US">
         <seg>If you do not specify a savepointPath, the default savepoint directory as configured in the ./conf/flink-conf.yaml file is used (see “System Configuration”).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T183605Z" creationid="xccui" creationdate="20190726T183450Z">
-        <seg>如果你没有指定savepointPath，则系统会使用./conf/flink-conf.yaml文件中配置的默认保存点目录（请参阅"系统配置"一节）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170955Z" creationid="xccui" creationdate="20190726T183450Z">
+        <seg>如果没有指定savepointPath，系统会使用./conf/flink-conf.yaml文件中配置的默认保存点目录（请参阅"系统配置"一节）。</seg>
       </tuv>
     </tu>
     <tu>
