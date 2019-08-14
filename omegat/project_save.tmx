@@ -60347,8 +60347,8 @@
       <tuv lang="EN-US">
         <seg>spends most of its time waiting for query results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T192203Z" creationid="xccui" creationdate="20190716T192141Z">
-        <seg>因此MapFunction的大部分时间都带等待查询结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T055848Z" creationid="xccui" creationdate="20190716T192141Z">
+        <seg>因此MapFunction的大部分时间都在等待查询结果。</seg>
       </tuv>
     </tu>
     <tu>
