@@ -21625,8 +21625,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s command-line client provides the functionality to start, stop, and manage Flink applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021401Z" creationid="xccui" creationdate="20190726T021401Z">
-        <seg>Flink命令行客户端支持启动、停止和管理Flink应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165610Z" creationid="xccui" creationdate="20190726T021401Z">
+        <seg>Flink命令行客户端提供了启动、停止和管理Flink应用的功能。</seg>
       </tuv>
     </tu>
     <tu>
