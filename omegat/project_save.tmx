@@ -27697,8 +27697,8 @@
       <tuv lang="EN-US">
         <seg>In order to recover from a master pod failure, you need to configure a highly available setup.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T040135Z" creationid="xccui" creationdate="20190720T040135Z">
-        <seg>为了从主进程Pod的故障中恢复，你需要进行一些高可用设置。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T144022Z" creationid="xccui" creationdate="20190720T040135Z">
+        <seg>为了从主进程Pod的故障中恢复，需要进行一些高可用设置。</seg>
       </tuv>
     </tu>
     <tu>
