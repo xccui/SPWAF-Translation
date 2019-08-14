@@ -21657,8 +21657,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s default configuration is only suitable for a smaller scale distributed setup and needs to be adjusted for more serious scale.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151541Z" creationid="xccui" creationdate="20190724T035918Z">
-        <seg>Flink默认配置仅适用于规模较小的分布式环境，若想在更大规模下使用则需要一定调整。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151640Z" creationid="xccui" creationdate="20190724T035918Z">
+        <seg>Flink默认配置仅适用于规模较小的分布式环境，若想在更"真实"的规模下使用则需要一定调整。</seg>
       </tuv>
     </tu>
     <tu>
