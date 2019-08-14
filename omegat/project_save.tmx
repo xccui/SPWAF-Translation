@@ -30393,8 +30393,8 @@
       <tuv lang="EN-US">
         <seg>It is important to understand that the initial design of an applica‐ tion determines if and how it can be modified later on in a savepoint-compatible way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T024907Z" creationid="xccui" creationdate="20190705T024630Z">
-        <seg>请谨记，应用的初始设计决定了它日后能否，或以何种方式进行保存点兼容的修改。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T034441Z" creationid="xccui" creationdate="20190705T024630Z">
+        <seg>请谨记，应用的初始设计决定了它日后能否、或以何种方式进行保存点兼容的修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46018,8 +46018,8 @@
       <tuv lang="EN-US">
         <seg>Therefore, such changes are not safepoint compatible even though they look unobtrusive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T041619Z" creationid="xccui" creationdate="20190705T041619Z">
-        <seg>因此，这些看上去不惹眼的改动其实并非保存点兼容的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T034629Z" creationid="xccui" creationdate="20190705T041619Z">
+        <seg>因此，这些看上去不惹眼的改动其实并非是保存点兼容的。</seg>
       </tuv>
     </tu>
     <tu>
