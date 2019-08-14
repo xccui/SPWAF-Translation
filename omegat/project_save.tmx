@@ -8512,8 +8512,8 @@
       <tuv lang="EN-US">
         <seg>A common pattern is to write results into a database or key-value store and have other applications retrieve the result from that datastore.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T141914Z" creationid="xccui" creationdate="20190705T141914Z">
-        <seg>常见的分享模式是把结果写入数据库或键值存储中再由其他应用从这些存储中获取结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T035555Z" creationid="xccui" creationdate="20190705T141914Z">
+        <seg>常见的分享模式是把结果写入数据库或键值存储中，再由其他应用从这些存储中获取结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16265,8 +16265,8 @@
       <tuv lang="EN-US">
         <seg>Despite all these efforts, we recommend always dou‐ ble checking if an application can be evolved as planned before putting it into pro‐ duction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T054216Z" creationid="xccui" creationdate="20190705T054216Z">
-        <seg>尽管如此，我们还是建议你在把应用投入到生产环境之前，再三确认应用是否可以按计划更新。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T035537Z" creationid="xccui" creationdate="20190705T054216Z">
+        <seg>尽管如此，我们还是建议你在把应用投入到生产环境之前，仔细确认应用是否可以按计划更新。</seg>
       </tuv>
     </tu>
     <tu>
