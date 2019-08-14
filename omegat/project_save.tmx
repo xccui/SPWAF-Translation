@@ -7944,8 +7944,8 @@
       <tuv lang="EN-US">
         <seg>A CheckpointCommitter as discussed before</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060857Z" creationid="xccui" creationdate="20190715T060857Z">
-        <seg>一个如前所述的CheckpointCommitter</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T055801Z" creationid="xccui" creationdate="20190715T060857Z">
+        <seg>一个之前介绍过的CheckpointCommitter</seg>
       </tuv>
     </tu>
     <tu>
