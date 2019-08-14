@@ -12377,8 +12377,8 @@
       <tuv lang="EN-US">
         <seg>As the key space evolves, the state of expired keys becomes stale and useless.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033332Z" creationid="xccui" creationdate="20190704T141808Z">
-        <seg>随着键值空间的不断变化，状态中那些过期的键值会变得陈旧而失去价值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033355Z" creationid="xccui" creationdate="20190704T141808Z">
+        <seg>随着键值空间的不断变化，状态中那些过期的键值会变得陈旧且失去价值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47290,8 +47290,8 @@
       <tuv lang="EN-US">
         <seg>This problem does not only exist for custom stateful functions but also for some of the built-in operators of the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052155Z" creationid="xccui" creationdate="20190704T183059Z">
-        <seg>该问题不但存在于自定义的状态化函数中，而且同样会影响DataStream API的内置算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033527Z" creationid="xccui" creationdate="20190704T183059Z">
+        <seg>该问题不但存在于自定义的状态化函数中，还会影响DataStream API中的部分内置算子。</seg>
       </tuv>
     </tu>
     <tu>
