@@ -31793,8 +31793,8 @@
       <tuv lang="EN-US">
         <seg>MemoryStateBackend stores state as regular objects on the heap of the TaskMan‐ ager JVM process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221848Z" creationid="xccui" creationdate="20190703T221848Z">
-        <seg>MemoryStateBackend将状态以常规对象的方式存储在TaskManager JVM进程的堆里。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T025915Z" creationid="xccui" creationdate="20190703T221848Z">
+        <seg>MemoryStateBackend将状态以常规对象的方式存储在TaskManager进程的JVM堆里。</seg>
       </tuv>
     </tu>
     <tu>
