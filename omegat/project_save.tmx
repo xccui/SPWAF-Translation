@@ -36474,8 +36474,8 @@
       <tuv lang="EN-US">
         <seg>Save‐ point state can only be restored to an operator of a started application if their identifi‐ ers are identical.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T022647Z" creationid="xccui" creationdate="20190703T022647Z">
-        <seg>只有当目标应用的算子标识和保存点中的算子标识相同时，状态才能恢复。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T024117Z" creationid="xccui" creationdate="20190703T022647Z">
+        <seg>只有当目标应用的算子标识和保存点中的算子标识相同时，状态才能顺利恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53051,8 +53051,8 @@
       <tuv lang="EN-US">
         <seg>You can set the identifier with the uid() method as shown in Example 7-10.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024110Z" creationid="xccui" creationdate="20190703T023949Z">
-        <seg>具体方式可以像示例7-10中那样利用uid()方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T024340Z" creationid="xccui" creationdate="20190703T023949Z">
+        <seg>具体可像示例7-10中那样利用uid()方法。</seg>
       </tuv>
     </tu>
     <tu>
