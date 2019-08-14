@@ -8816,8 +8816,8 @@
       <tuv lang="EN-US">
         <seg>A job can recover from a worker failure if a sufficient number of processing slots is available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T160917Z" creationid="xccui" creationdate="20190717T160917Z">
-        <seg>只要剩余处理槽的数量足够，作业就可以从工作进程故障中恢复。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135726Z" creationid="xccui" creationdate="20190717T160917Z">
+        <seg>只要有足够多的剩余处理槽，作业就可以从工作进程故障中恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20793,8 +20793,8 @@
       <tuv lang="EN-US">
         <seg>Flink is preconfigured to run a local setup and start a single master and a single Task‐ Manager on the local machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T175216Z" creationid="xccui" creationdate="20190717T175128Z">
-        <seg>Flink的预定义的本地设置模式会在本地机器分别启动一个主进程和一个TaskManager，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135943Z" creationid="xccui" creationdate="20190717T175128Z">
+        <seg>Flink中预定义的本地设置模式会在本地机器分别启动一个主进程和一个TaskManager，</seg>
       </tuv>
     </tu>
     <tu>
@@ -42434,8 +42434,8 @@
       <tuv lang="EN-US">
         <seg>The extracted directory includes a ./bin folder with bash scripts1 to start and stop Flink processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T195025Z" creationid="xccui" creationdate="20190717T162753Z">
-        <seg>解压后的目录包含了一个./bin文件夹，里面装有用于启动和停止Flink进程的bash脚本 1。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135813Z" creationid="xccui" creationdate="20190717T162753Z">
+        <seg>解压后的目录包含了一个./bin文件夹，里面包含了用于启动和停止Flink进程的bash脚本 1。</seg>
       </tuv>
     </tu>
     <tu>
