@@ -32273,8 +32273,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the deployment also opens a few ports and passes the service name of the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143514Z" creationid="xccui" creationdate="20190720T031624Z">
-        <seg>此外，该Deployment也会开启几个端口，并传入Flink主进程Deployment的信息，以便工作进程可以访问其中的主进程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143634Z" creationid="xccui" creationdate="20190720T031624Z">
+        <seg>此外，该Deployment也会开启几个端口，并传入Flink主进程Deployment的信息，以便工作进程对主进程执行访问。</seg>
       </tuv>
     </tu>
     <tu>
