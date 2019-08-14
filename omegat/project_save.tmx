@@ -27593,8 +27593,8 @@
       <tuv lang="EN-US">
         <seg>In order to grasp the problem of modifying the data type of a state, we have to under‐ stand how state data is represented within a savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T045812Z" creationid="xccui" creationdate="20190705T045812Z">
-        <seg>为了搞清状态数据类型的修改问题，我们需要理解状态数据在保存点中的表示形式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T035045Z" creationid="xccui" creationdate="20190705T045812Z">
+        <seg>为了弄清状态数据类型的修改问题，我们需要理解状态数据在保存点中的表示形式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56771,8 +56771,8 @@
       <tuv lang="EN-US">
         <seg>if you changed the ValueState[String] to a ValueState[Double], Flink would cre‐ ate a DoubleSerializer to access the state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T052252Z" creationid="xccui" creationdate="20190705T052252Z">
-        <seg>例如，如果你将ValueState[String]改为ValueState[Double]，Flink将创建一个DoubleSerializer来访问状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T035140Z" creationid="xccui" creationdate="20190705T052252Z">
+        <seg>举例而言，如果你将ValueState[String]改为ValueState[Double]，Flink将创建一个DoubleSerializer来访问状态。</seg>
       </tuv>
     </tu>
     <tu>
