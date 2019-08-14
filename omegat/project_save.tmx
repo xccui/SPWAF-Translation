@@ -25697,8 +25697,8 @@
       <tuv lang="EN-US">
         <seg>If you are a Windows user, we recommend using the regular command-line client and running it on WSL or Cygwin.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T025112Z" creationid="xccui" creationdate="20190726T025112Z">
-        <seg>如果你是一名Windows用户，我们建议你在WSL或Cygwin下使用常规命令行客户端。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165829Z" creationid="xccui" creationdate="20190726T025112Z">
+        <seg>如果你是一名Windows用户，我们建议你在WSL或Cygwin下使用常规的命令行客户端。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41834,8 +41834,8 @@
       <tuv lang="EN-US">
         <seg>The command-line client is based on a bash script.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021717Z" creationid="xccui" creationdate="20190726T021717Z">
-        <seg>命令行客户端是基于Bash脚本完成的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165717Z" creationid="xccui" creationdate="20190726T021717Z">
+        <seg>命令行客户端是基于Bash脚本完成的，</seg>
       </tuv>
     </tu>
     <tu>
@@ -45978,8 +45978,8 @@
       <tuv lang="EN-US">
         <seg>Therefore, it does not work with the Windows command line.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T021735Z" creationid="xccui" creationdate="20190726T021735Z">
-        <seg>因此，它无法在Windows命令行下运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165737Z" creationid="xccui" creationdate="20190726T021735Z">
+        <seg>因此无法在Windows命令行下运行。</seg>
       </tuv>
     </tu>
     <tu>
