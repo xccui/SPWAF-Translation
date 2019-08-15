@@ -15105,8 +15105,8 @@
       <tuv lang="EN-US">
         <seg>Considering window operators complicate latency tracking even further, if an event contributes to several windows, do we need to report the latency of the first invocation or do we need to wait until we evaluate all windows an event might belong to?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T045025Z" creationid="xccui" creationdate="20190806T052332Z">
-        <seg>而窗口算子更会使延迟追踪变得更加复杂。如果事件被同时分配到多个窗口，那么我们应该以第一次窗口调用时的延迟为准还是等它所有参与的窗口都计算完后再来测量？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T045323Z" creationid="xccui" creationdate="20190806T052332Z">
+        <seg>而窗口算子更会使延迟追踪变得复杂很多。如果事件被同时分配到多个窗口，那么我们应该以第一次窗口调用时的延迟为准还是等它所有参与的窗口都计算完后再来测量？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20689,8 +20689,8 @@
       <tuv lang="EN-US">
         <seg>Flink follows a simple and low-overhead approach to provide useful latency metric measurements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T053350Z" creationid="xccui" creationdate="20190806T053350Z">
-        <seg>为了提供一个实用的延迟指标测量手段，Flink选取了一个非常简单且开销低的方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T045333Z" creationid="xccui" creationdate="20190806T053350Z">
+        <seg>为了提供一个实用的延迟指标测量手段，Flink选取了一个非常简单且低开销的方法。</seg>
       </tuv>
     </tu>
     <tu>
