@@ -61243,8 +61243,8 @@
       <tuv lang="EN-US">
         <seg>to instruct our program to interpret time semantics using event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T050325Z" creationid="xccui" creationdate="20190612T045805Z">
-        <seg>来指定程序使用事件时间来解释时间语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T160927Z" creationid="xccui" creationdate="20190612T045805Z">
+        <seg>指定程序应用事件时间语义。</seg>
       </tuv>
     </tu>
     <tu>
