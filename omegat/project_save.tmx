@@ -25513,8 +25513,8 @@
       <tuv lang="EN-US">
         <seg>If the state backend does not contain state for the given descriptor, the state that is linked to the handle is initialized as empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T035233Z" creationid="xccui" creationdate="20190701T022350Z">
-        <seg>如果状态后端没包含给定描述符的对应状态，那么系统就会以空值来初始化句柄所关联的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201743Z" creationid="xccui" creationdate="20190701T022350Z">
+        <seg>如果状态后端没包含给定描述符的对应状态，那么系统就会将引用对象所关联的状态初始化为空。</seg>
       </tuv>
     </tu>
     <tu>
