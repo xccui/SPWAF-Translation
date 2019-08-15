@@ -36882,8 +36882,8 @@
       <tuv lang="EN-US">
         <seg>SensorReading contains the sensor ID, a timestamp denoting when the measurement was taken, and the measured temperature.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T161239Z" creationid="xccui" creationdate="20190612T052008Z">
-        <seg>每一条SensorReading数据都包括传感器ID，测量的时间以及温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T161256Z" creationid="xccui" creationdate="20190612T052008Z">
+        <seg>每一条SensorReading数据都包括传感器ID、测量的时间以及温度。</seg>
       </tuv>
     </tu>
     <tu>
