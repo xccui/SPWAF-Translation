@@ -23481,8 +23481,8 @@
       <tuv lang="EN-US">
         <seg>Hence, a slot-sharing group requires as many processing slots as the maximum parallelism of its operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014658Z" creationid="xccui" creationdate="20190731T014658Z">
-        <seg>因此，一个处理槽共享组所需的处理槽数需要和它内部算子的最大并行度一样多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T011819Z" creationid="xccui" creationdate="20190731T014658Z">
+        <seg>因此，一个处理槽共享组所需的处理槽数等于它内部算子的最大并行度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52435,8 +52435,8 @@
       <tuv lang="EN-US">
         <seg>Within a slot-sharing group, the tasks are assigned to slots as described in “Task Execution” on page 40—each slot processes up to one task of each operator that is a member.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014130Z" creationid="xccui" creationdate="20190731T013542Z">
-        <seg>在同一处理槽共享组内，任务会像第40页"任务执行"一节中所描述的那样分配到不同处理槽中——每个处理槽只能处理共享组内每个算子至多一个任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T011753Z" creationid="xccui" creationdate="20190731T013542Z">
+        <seg>同一处理槽共享组内的任务会像第40页"任务执行"一节中所讲到的那样分配到不同处理槽中——每个处理槽只能处理共享组内每个算子至多一个任务。</seg>
       </tuv>
     </tu>
     <tu>
