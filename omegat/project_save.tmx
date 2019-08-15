@@ -18841,8 +18841,8 @@
       <tuv lang="EN-US">
         <seg>Figure 10-2 shows an instance of the dashboard home screen.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034213Z" creationid="xccui" creationdate="20190802T034152Z">
-        <seg>图10-2展示了一个仪表盘主界面。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T043232Z" creationid="xccui" creationdate="20190802T034152Z">
+        <seg>图10-2中展示了Web UI主界面。</seg>
       </tuv>
     </tu>
     <tu>
