@@ -49146,8 +49146,8 @@
       <tuv lang="EN-US">
         <seg>Until Flink 1.7, the only sup‐ ported compression algorithm is Snappy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T033701Z" creationid="xccui" creationdate="20190731T204706Z">
-        <seg>截至1.7版本，支持的压缩算法还只有Snappy。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T033901Z" creationid="xccui" creationdate="20190731T204706Z">
+        <seg>截至1.7版本，内置的压缩算法还只有Snappy。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52899,8 +52899,8 @@
       <tuv lang="EN-US">
         <seg>You can enable compressed checkpoints and savepoints as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204817Z" creationid="xccui" creationdate="20190731T204734Z">
-        <seg>你可以像下面这样为检查点和保存点开启压缩：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T033910Z" creationid="xccui" creationdate="20190731T204734Z">
+        <seg>你可以像下面这样为检查点和保存点启用压缩：</seg>
       </tuv>
     </tu>
     <tu>
