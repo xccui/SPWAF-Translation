@@ -26969,8 +26969,8 @@
       <tuv lang="EN-US">
         <seg>In case of any problem, they fall back to the remote storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T163032Z" creationid="xingcan" creationdate="20190801T163032Z">
-        <seg>如果出现任何问题，则会回到使用远程存储进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T041335Z" creationid="xingcan" creationdate="20190801T163032Z">
+        <seg>如果出现任何问题，则将退回到使用远程存储进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31513,8 +31513,8 @@
       <tuv lang="EN-US">
         <seg>Local recovery is implemented so that the state copy in the remote system is the source of truth.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T163705Z" creationid="xingcan" creationdate="20190801T163510Z">
-        <seg>本地恢复的实现使得远程系统中的状态副本成为用于参照的真实数据（the source of truth）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042022Z" creationid="xingcan" creationdate="20190801T163510Z">
+        <seg>本地恢复的实现使得远程系统中的状态副本变为用于参照的真实数据（the source of truth）。</seg>
       </tuv>
     </tu>
     <tu>
