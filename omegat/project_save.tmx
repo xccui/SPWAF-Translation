@@ -40762,8 +40762,8 @@
       <tuv lang="EN-US">
         <seg>The Met ricGroup provides ways to create nested, named metrics hierarchies and provides methods to register the following metric types:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T024913Z" creationid="xccui" creationdate="20190803T024913Z">
-        <seg>MetricGroup提供了各种创建嵌套、命名指标层次（metrics hierarchy）的方法，并提供了注册以下指标类型的方法：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T044053Z" creationid="xccui" creationdate="20190803T024913Z">
+        <seg>MetricGroup提供了各种创建嵌套、命名指标层次（metrics hierarchy）的方法，并支持注册以下类型的指标：</seg>
       </tuv>
     </tu>
     <tu>
