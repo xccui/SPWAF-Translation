@@ -24361,8 +24361,8 @@
       <tuv lang="EN-US">
         <seg>However, it is typically much smaller than keyed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T025410Z" creationid="xccui" creationdate="20190802T025332Z">
-        <seg>但它通常要比键值分区状态小得多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042136Z" creationid="xccui" creationdate="20190802T025332Z">
+        <seg>但它所占比例通常要比键值分区状态小得多。</seg>
       </tuv>
     </tu>
     <tu>
