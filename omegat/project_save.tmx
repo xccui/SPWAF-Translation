@@ -52107,8 +52107,8 @@
       <tuv lang="EN-US">
         <seg>While this book is particularly focused on stream processing, Flink is in fact a general-purpose distributed data processing framework and can be used for other types of data analysis as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T052701Z" creationid="xccui" creationdate="20190807T052701Z">
-        <seg>虽然本书的关注重点在于流处理，但Flink其实是一个通用的分布式数据处理框架，它同样可用于其他类型的数据分析。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T053549Z" creationid="xccui" creationdate="20190807T052701Z">
+        <seg>虽然本书的关注重点在于流处理，但Flink其实是一个通用的分布式数据处理框架，它同样适用于其他类型的数据分析。</seg>
       </tuv>
     </tu>
     <tu>
