@@ -14873,8 +14873,8 @@
       <tuv lang="EN-US">
         <seg>Consequently, an application needs enough spare resources for the catch-up phase after the application was restarted to successfully resume its regular processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150454Z" creationid="xingcan" creationdate="20190801T150454Z">
-        <seg>因此，应用在从重启到成功恢复常规处理的进度追赶期间需要足够多的备用资源。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040114Z" creationid="xingcan" creationdate="20190801T150454Z">
+        <seg>因此，从重启到成功恢复常规处理的进度追赶期间，应用需要足够多的备用资源。</seg>
       </tuv>
     </tu>
     <tu>
