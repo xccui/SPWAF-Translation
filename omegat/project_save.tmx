@@ -18169,8 +18169,8 @@
       <tuv lang="EN-US">
         <seg>Example 7-4 shows how to implement the ListCheckpointed interface for a function that counts temperature measurements that exceed a threshold per partition, for each</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T052212Z" creationid="xccui" creationdate="20190701T052212Z">
-        <seg>示例7-4展示了如何利用ListCheckpointed接口实现一个函数，其作用是在每个函数并行实例内，计算该分区数据超过某一阈值的温度值数目。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T210247Z" creationid="xccui" creationdate="20190701T052212Z">
+        <seg>示例7-4展示了如何利用ListCheckpointed接口实现一个函数，其作用是在每个函数并行实例内，统计该分区数据超过某一阈值的温度值数目。</seg>
       </tuv>
     </tu>
     <tu>
