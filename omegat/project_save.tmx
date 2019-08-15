@@ -14569,8 +14569,8 @@
       <tuv lang="EN-US">
         <seg>Common CEP use cases include financial applications, fraud detection, monitoring and alerting in complex systems, and detecting network intru‐ sion or suspicious user behavior.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T162045Z" creationid="xingcan" creationdate="20190807T162045Z">
-        <seg>常见的CEP用例包括金融应用，欺诈检测，复杂系统中的监控和报警，以及检测网络入侵或可以用户行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054547Z" creationid="xingcan" creationdate="20190807T162045Z">
+        <seg>常见的CEP应用场景包括金融应用，欺诈检测，复杂系统中的监控和报警，以及检测网络入侵或可以用户行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30041,8 +30041,8 @@
       <tuv lang="EN-US">
         <seg>It builds on top of the DataSet API and Flink’s support for efficient batch iterations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T162215Z" creationid="xingcan" creationdate="20190807T162215Z">
-        <seg>它建立在DataSet API和Flink的高效批量迭代支持之上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054602Z" creationid="xingcan" creationdate="20190807T162215Z">
+        <seg>它建立在DataSet API和Flink的高效批量迭代之上。</seg>
       </tuv>
     </tu>
     <tu>
