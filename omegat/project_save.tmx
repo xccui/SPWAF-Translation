@@ -48034,8 +48034,8 @@
       <tuv lang="EN-US">
         <seg>To be able to catch up with the stream—reach its tail—the application must process the accumulated data at a higher rate than new data is arriving.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040002Z" creationid="xingcan" creationdate="20190801T145912Z">
-        <seg>为了能够追赶上数据流的进度（到达其尾部），应用处理积累数据的速率必须要高于新数据到来的速率。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040308Z" creationid="xingcan" creationdate="20190801T145912Z">
+        <seg>为了能够赶得上数据流的进度（到达其尾部），应用处理积累数据的速率必须要高于新数据到来的速率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52043,8 +52043,8 @@
       <tuv lang="EN-US">
         <seg>While the application is catching up, the processing latency—the time at which input is available until it is actually processed—increases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150150Z" creationid="xingcan" creationdate="20190801T150150Z">
-        <seg>应用在追赶进度期间，其处理延迟（输入从可用到实际处理的时间间隔）会有所增加。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040522Z" creationid="xingcan" creationdate="20190801T150150Z">
+        <seg>其在追赶进度期间的处理延迟（输入从可用到实际处理的时间间隔）会有所增加。</seg>
       </tuv>
     </tu>
     <tu>
