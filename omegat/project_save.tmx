@@ -26889,8 +26889,8 @@
       <tuv lang="EN-US">
         <seg>In both cases, Flink links the newly registered state handle object to the existing state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201506Z" creationid="xccui" creationdate="20190701T021819Z">
-        <seg>无论原因如何，Flink都会将新注册的状态引用对象和已有状态建立关联。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T203904Z" creationid="xccui" creationdate="20190701T021819Z">
+        <seg>无论上述哪种原因，Flink都会将新注册的状态引用对象和已有状态建立关联。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50923,8 +50923,8 @@
       <tuv lang="EN-US">
         <seg>When a function registers a StateDescriptor, Flink checks if the state backend has data for the function and a state with the given name and type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T203553Z" creationid="xccui" creationdate="20190701T021106Z">
-        <seg>如果状态化函数正在从某个检查点或保存点恢复，那么当函数注册StateDescriptor时，Flink会检查状态后端是否存储了函数相关数据以及与给定名称、类型相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T203857Z" creationid="xccui" creationdate="20190701T021106Z">
+        <seg>如果状态化函数正在从某检查点恢复或从某保存点重启，那么当函数注册StateDescriptor时，Flink会检查状态后端是否存储了函数相关数据以及与给定名称、类型相同的状态。</seg>
       </tuv>
     </tu>
     <tu>
