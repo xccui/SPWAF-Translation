@@ -60675,8 +60675,8 @@
       <tuv lang="EN-US">
         <seg>tering function state with Flink’s runtime and returning the state objects, such as ValueState, ListState, or BroadcastState.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T064920Z" creationid="xccui" creationdate="20190702T064742Z">
-        <seg>这两个状态存储（state store）对象能够使用Flink运行时来注册函数状态并返回状态对象（例如ValueState、ListState或BroadcastState）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T213722Z" creationid="xccui" creationdate="20190702T064742Z">
+        <seg>这两个状态存储对象能够使用Flink运行时来注册函数状态并返回状态对象（例如ValueState、ListState或BroadcastState）。</seg>
       </tuv>
     </tu>
     <tu>
