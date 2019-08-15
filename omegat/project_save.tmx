@@ -13585,8 +13585,8 @@
       <tuv lang="EN-US">
         <seg>By default, Flink creates checkpoints to guarantee exactly-once state consistency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030913Z" creationid="xccui" creationdate="20190731T030913Z">
-        <seg>默认情况下，Flink创建的检查点会保证内部状态的精确一次语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T031132Z" creationid="xccui" creationdate="20190731T030913Z">
+        <seg>默认情况下，Flink会通过创建检查点保证内部状态的精确一次语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24321,8 +24321,8 @@
       <tuv lang="EN-US">
         <seg>However, it can also be configured to provide at-least-once guarantees:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030953Z" creationid="xccui" creationdate="20190731T030953Z">
-        <seg>但你也可以将其调整为至少一次保障：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T031148Z" creationid="xccui" creationdate="20190731T030953Z">
+        <seg>但你也可以将保障调整为至少一次：</seg>
       </tuv>
     </tu>
     <tu>
