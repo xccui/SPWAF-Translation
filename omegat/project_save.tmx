@@ -13625,8 +13625,8 @@
       <tuv lang="EN-US">
         <seg>By default, RocksDB is optimized for SSD storage and does not provide great performance if state is stored on spinning</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030556Z" creationid="xccui" creationdate="20190801T030556Z">
-        <seg>默认情况下，RocksDB针对SSD存储做出了很多优化，因此在使用传统机械硬盘存储状态时性能可能并不出色。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035647Z" creationid="xccui" creationdate="20190801T030556Z">
+        <seg>默认情况下，RocksDB针对SSD存储做出了很多优化，因此在使用传统机械硬盘存储状态时性能可能并不突出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36186,8 +36186,8 @@
       <tuv lang="EN-US">
         <seg>Right after the application was restarted it is in a catch-up phase.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145606Z" creationid="xingcan" creationdate="20190801T145606Z">
-        <seg>在应用刚刚重启过后，它还处在一个追赶阶段。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035813Z" creationid="xingcan" creationdate="20190801T145606Z">
+        <seg>在应用刚刚重启后，它将处在一个进度追赶阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37610,8 +37610,8 @@
       <tuv lang="EN-US">
         <seg>Since the application’s source tasks were reset to an earlier input position, it processes data that it processed before the failure and data that accumulated while the applica‐ tion was down.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145810Z" creationid="xingcan" creationdate="20190801T145810Z">
-        <seg>由于应用的数据源任务被重置到一个较早的输入位置，所以它会处理故障发生前以及应用在停止工作期间积累的一些数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035910Z" creationid="xingcan" creationdate="20190801T145810Z">
+        <seg>由于应用的数据源任务被重置到一个较早的输入位置，所以它需要处理故障发生前以及应用在停止工作期间积累的一些数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48034,8 +48034,8 @@
       <tuv lang="EN-US">
         <seg>To be able to catch up with the stream—reach its tail—the application must process the accumulated data at a higher rate than new data is arriving.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145912Z" creationid="xingcan" creationdate="20190801T145912Z">
-        <seg>为了能够追赶上数据流（到达其尾部），应用处理积累数据的速率必须要高于新数据到来的速率。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040002Z" creationid="xingcan" creationdate="20190801T145912Z">
+        <seg>为了能够追赶上数据流的进度（到达其尾部），应用处理积累数据的速率必须要高于新数据到来的速率。</seg>
       </tuv>
     </tu>
     <tu>
