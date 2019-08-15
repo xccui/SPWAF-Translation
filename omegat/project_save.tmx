@@ -53227,8 +53227,8 @@
       <tuv lang="EN-US">
         <seg>You create a BroadcastStream by calling DataStream.broadcast() and provid‐ ing one or more MapStateDescriptor objects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T040524Z" creationid="xccui" creationdate="20190702T040524Z">
-        <seg>调用DataStream.broadcast()方法创建一个BroadcastStream并提供一个以上MapStateDescriptor对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T211419Z" creationid="xccui" creationdate="20190702T040524Z">
+        <seg>调用DataStream.broadcast()方法创建一个BroadcastStream并提供一个或多个MapStateDescriptor对象。</seg>
       </tuv>
     </tu>
     <tu>
