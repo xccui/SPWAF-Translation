@@ -50923,8 +50923,8 @@
       <tuv lang="EN-US">
         <seg>When a function registers a StateDescriptor, Flink checks if the state backend has data for the function and a state with the given name and type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201219Z" creationid="xccui" creationdate="20190701T021106Z">
-        <seg>当函数注册StateDescriptor时，Flink会检查状态后端是否存储了函数的数据以及与给定名称、类型相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T203342Z" creationid="xccui" creationdate="20190701T021106Z">
+        <seg>如果状态化函数正在从某个检查点或保存点恢复，那么当函数注册StateDescriptor时，Flink会检查状态后端是否存储了函数的数据以及与给定名称、类型相同的状态。</seg>
       </tuv>
     </tu>
     <tu>
