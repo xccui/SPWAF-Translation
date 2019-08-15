@@ -2672,8 +2672,8 @@
       <tuv lang="EN-US">
         <seg>// checkpoints have to complete within five minutes, or are discarded</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203918Z" creationid="xccui" creationdate="20190731T203918Z">
-        <seg>// 检查点生成必须在五分钟内完成，否则就会放弃执行</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T032938Z" creationid="xccui" creationdate="20190731T203918Z">
+        <seg>// 检查点生成必须在五分钟内完成，否则就会终止执行</seg>
       </tuv>
     </tu>
     <tu>
@@ -20105,8 +20105,8 @@
       <tuv lang="EN-US">
         <seg>Finally, you might also want to configure what happens if a checkpoint fails.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204040Z" creationid="xccui" creationdate="20190731T204022Z">
-        <seg>最后，你可能还希望在检查点失败后会发生些什么。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T033552Z" creationid="xccui" creationdate="20190731T204022Z">
+        <seg>最后，你可能还希望在检查点失败后可以触发些什么。</seg>
       </tuv>
     </tu>
     <tu>
