@@ -3704,8 +3704,8 @@
       <tuv lang="EN-US">
         <seg>// obtain the state handle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064429Z" creationid="xccui" creationdate="20190630T064324Z">
-        <seg>// 获得状态句柄</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201352Z" creationid="xccui" creationdate="20190630T064324Z">
+        <seg>// 获得状态引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -4472,8 +4472,8 @@
       <tuv lang="EN-US">
         <seg>// the state handle object</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064308Z" creationid="xccui" creationdate="20190630T064223Z">
-        <seg>// 状态句柄对象</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201340Z" creationid="xccui" creationdate="20190630T064223Z">
+        <seg>// 状态引用对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -45018,16 +45018,16 @@
       <tuv lang="EN-US">
         <seg>The state handle object (lastTempState in Example 7-2) is a regular member variable of the function class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T063849Z" creationid="xccui" creationdate="20190701T020612Z">
-        <seg>我们一般会将状态句柄对象（示例7-2中的lastTempState）声明为函数类的常规成员变量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201435Z" creationid="xccui" creationdate="20190701T020612Z">
+        <seg>我们一般会将状态引用对象（示例7-2中的lastTempState）声明为函数类的普通成员变量。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The state handle object only provides access to the state, which is stored an maintained in the state backend.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T034920Z" creationid="xccui" creationdate="20190701T020932Z">
-        <seg>状态句柄对象只提供用于访问状态的接口而不会存储状态本身，具体保存工作需要由状态后端来完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201450Z" creationid="xccui" creationdate="20190701T020932Z">
+        <seg>状态引用对象只提供用于访问状态的接口而不会存储状态本身，具体保存工作需要由状态后端来完成。</seg>
       </tuv>
     </tu>
     <tu>
