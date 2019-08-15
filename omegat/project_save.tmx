@@ -3640,8 +3640,8 @@
       <tuv lang="EN-US">
         <seg>// make sure we process at least 30s without checkpointing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202718Z" creationid="xccui" creationdate="20190731T202718Z">
-        <seg>// 确保我们至少可以在没有检查点的情况下处理30秒</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T032235Z" creationid="xccui" creationdate="20190731T202718Z">
+        <seg>// 确保我们至少可以在不受检查点干扰情况下处理30秒</seg>
       </tuv>
     </tu>
     <tu>
