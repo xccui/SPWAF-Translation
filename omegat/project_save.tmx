@@ -16113,8 +16113,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the failure that caused an application to crash, the application could be killed by the same failure again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T152035Z" creationid="xingcan" creationdate="20190801T152035Z">
-        <seg>根据导致应用崩溃的故障不同，应用有可能被相同的故障再次"杀死"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040819Z" creationid="xingcan" creationdate="20190801T152035Z">
+        <seg>根据导致应用崩溃的故障，应用有可能会被相同的故障再次"杀死"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47122,8 +47122,8 @@
       <tuv lang="EN-US">
         <seg>This means an application should not run close to 100% resource consumption during regular processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T150948Z" creationid="xingcan" creationdate="20190801T150629Z">
-        <seg>这意味着应用在常规处理时不应该接近100%的资源消耗。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040608Z" creationid="xingcan" creationdate="20190801T150629Z">
+        <seg>这也意味着应用在常规处理期间不应该消耗近100%的资源。</seg>
       </tuv>
     </tu>
     <tu>
