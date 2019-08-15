@@ -51315,8 +51315,8 @@
       <tuv lang="EN-US">
         <seg>When enabled, state backends also store a copy of the checkpoint data on the local disk of their worker node in addition to writing the data to the remote storage system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T041236Z" creationid="xingcan" creationdate="20190801T160014Z">
-        <seg>在启用该功能后，状态后端除了将数据写入远程存储系统外，还会将检查点数据在工作进程所在节点的本地磁盘复制一份，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T041247Z" creationid="xingcan" creationdate="20190801T160014Z">
+        <seg>在启用该功能后，状态后端除了将数据写入远程存储系统外，还会将检查点数据在工作进程所在节点的本地磁盘复制一份。</seg>
       </tuv>
     </tu>
     <tu>
