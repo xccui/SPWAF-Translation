@@ -24553,8 +24553,8 @@
       <tuv lang="EN-US">
         <seg>However, the broadcast state handle that is returned in the processElement()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051404Z" creationid="xccui" creationdate="20190702T051348Z">
-        <seg>但processElement()方法返回的句柄对广播状态是只读的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201935Z" creationid="xccui" creationdate="20190702T051348Z">
+        <seg>但processElement()方法返回的引用对广播状态是只读的。</seg>
       </tuv>
     </tu>
     <tu>
