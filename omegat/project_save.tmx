@@ -36378,8 +36378,8 @@
       <tuv lang="EN-US">
         <seg>Running a job-specific image on a Minikube cluster requires a few more steps than those discussed in “Kubernetes” on page 228.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044836Z" creationid="xccui" creationdate="20190730T044836Z">
-        <seg>在Minikube集群上运行针对特定作业的镜像比我们在228页"Kubernetes"一节中所讨论的步骤要多一些。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T214024Z" creationid="xccui" creationdate="20190730T044836Z">
+        <seg>在Minikube集群上运行针对特定作业的镜像比我们在228页"Kubernetes"一节中所讨论的步骤要复杂一些。</seg>
       </tuv>
     </tu>
     <tu>
