@@ -40970,8 +40970,8 @@
       <tuv lang="EN-US">
         <seg>The Scala DataStream API offers syntactic shortcuts to define map and flatMap func‐ tions with a single ValueState.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T204110Z" creationid="xccui" creationdate="20190701T022541Z">
-        <seg>Scala DataStream API为只有单个ValueState的map和flatMap函数提供了更便捷的flatMapWithState接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T204607Z" creationid="xccui" creationdate="20190701T022541Z">
+        <seg>Scala DataStream API为只有单个ValueState的map和flatMap等函数提供了更为简洁的写法。</seg>
       </tuv>
     </tu>
     <tu>
