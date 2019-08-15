@@ -16457,8 +16457,8 @@
       <tuv lang="EN-US">
         <seg>Due to extensive support for user-defined functions, a wide variety of use cases can be covered by SQL.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161258Z" creationid="xingcan" creationdate="20190807T161258Z">
-        <seg>由于支持广泛的用户自定义函数，很多用例都可以直接用SQL来完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054433Z" creationid="xingcan" creationdate="20190807T161258Z">
+        <seg>由于对用户自定义函数的良好支持，很多用例都可以直接用SQL来完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20353,8 +20353,8 @@
       <tuv lang="EN-US">
         <seg>Flink SQL follows the ANSI SQL standard and leverages Apache Calcite for query parsing and optimization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161015Z" creationid="xingcan" creationdate="20190807T161015Z">
-        <seg>Flink SQL遵循ANSI SQL标准，并使用Apache Calcite来完成查询解析和优化。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054359Z" creationid="xingcan" creationdate="20190807T161015Z">
+        <seg>Flink SQL遵循ANSI SQL标准，并借助Apache Calcite来完成查询解析和优化。</seg>
       </tuv>
     </tu>
     <tu>
