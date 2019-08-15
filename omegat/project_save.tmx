@@ -42506,8 +42506,8 @@
       <tuv lang="EN-US">
         <seg>The filter transformation drops or forwards events of a stream by evaluating a boolean condition on each input event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053755Z" creationid="xccui" creationdate="20190613T051252Z">
-        <seg>Filter转换利用一个作用在每条输入事件上的布尔条件来决定流中事件的去存：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T162204Z" creationid="xccui" creationdate="20190613T051252Z">
+        <seg>Filter转换利用一个作用在流中每条输入事件上的布尔条件来决定事件的去留：</seg>
       </tuv>
     </tu>
     <tu>
