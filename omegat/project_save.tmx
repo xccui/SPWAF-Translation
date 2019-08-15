@@ -16089,8 +16089,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the characteristics of an application, the size of its state, and the state backend and its configuration, a checkpoint can take up to a few minutes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031134Z" creationid="xccui" creationdate="20190731T031134Z">
-        <seg>根据应用自身特征、状态大小、状态后端及其配置，生成一次检查点可能需要几分钟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T031453Z" creationid="xccui" creationdate="20190731T031134Z">
+        <seg>取决于应用自身特征、状态大小、状态后端及其配置，生成一次检查点可能需要几分钟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24321,8 +24321,8 @@
       <tuv lang="EN-US">
         <seg>However, it can also be configured to provide at-least-once guarantees:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T031148Z" creationid="xccui" creationdate="20190731T030953Z">
-        <seg>但你也可以将保障调整为至少一次：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T031221Z" creationid="xccui" creationdate="20190731T030953Z">
+        <seg>你也可以将该保障调整为至少一次：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32297,8 +32297,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the size of the state can grow and shrink over time, perhaps due to long-running win‐ dows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T031312Z" creationid="xccui" creationdate="20190731T031312Z">
-        <seg>此外，状态大小可能会随时间推移而增大或缩小，这可能是由长期运行的窗口而导致的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T031808Z" creationid="xccui" creationdate="20190731T031312Z">
+        <seg>此外，状态大小可能会随时间推移而增大或缩小，这可能是长期运行的窗口所致。</seg>
       </tuv>
     </tu>
     <tu>
