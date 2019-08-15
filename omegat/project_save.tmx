@@ -25225,8 +25225,8 @@
       <tuv lang="EN-US">
         <seg>If the JobManager runs remotely, the JobGraph must be shipped together with a JAR file that contains all classes and required dependencies of the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T161402Z" creationid="xccui" creationdate="20190613T012656Z">
-        <seg>如果是后者，除了JobGraph之外，我们还要同时提供包含应用所需全部类和依赖的JAR包。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T161434Z" creationid="xccui" creationdate="20190613T012656Z">
+        <seg>如果是后者，除JobGraph之外，我们还要同时提供包含应用所需全部类和依赖的JAR包。</seg>
       </tuv>
     </tu>
     <tu>
