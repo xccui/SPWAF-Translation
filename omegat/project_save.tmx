@@ -37578,8 +37578,8 @@
       <tuv lang="EN-US">
         <seg>Since task chaining improves the perfor‐ mance of most applications, it is enabled by default in Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191338Z" creationid="xccui" creationdate="20190730T191338Z">
-        <seg>由于任务链接可以提高大多数应用的性能，因此Flink默认会启动它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010334Z" creationid="xccui" creationdate="20190730T191338Z">
+        <seg>由于任务链接可以提高大多数应用的性能，所以Flink默认会启动它。</seg>
       </tuv>
     </tu>
     <tu>
