@@ -33889,8 +33889,8 @@
       <tuv lang="EN-US">
         <seg>One reason is to break a chain of expensive functions in order to execute them on different processing slots.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191708Z" creationid="xccui" creationdate="20190730T191708Z">
-        <seg>其原因之一在于有时我们希望将一连串负载较重的函数拆开，让它们执行在不同的处理槽内。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010441Z" creationid="xccui" creationdate="20190730T191708Z">
+        <seg>其中一种情况是我们希望将一连串负载较重的函数拆开，让它们在不同的处理槽内执行。</seg>
       </tuv>
     </tu>
     <tu>
