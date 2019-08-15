@@ -30345,8 +30345,8 @@
       <tuv lang="EN-US">
         <seg>It is implemented on top of the DataStream API and lets you specify patterns you want to detect in your stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T161958Z" creationid="xingcan" creationdate="20190807T161958Z">
-        <seg>它基于DataStream API实现，允许你指定在数据流中期望检测到的模式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054524Z" creationid="xingcan" creationdate="20190807T161958Z">
+        <seg>它基于DataStream API实现，允许你指定期望在数据流中检测到的模式。</seg>
       </tuv>
     </tu>
     <tu>
