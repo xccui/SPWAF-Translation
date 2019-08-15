@@ -56363,8 +56363,8 @@
       <tuv lang="EN-US">
         <seg>function is restored, the parts of the state are distributed among all parallel instances of the function and handed to the restoreState() method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T050355Z" creationid="xccui" creationdate="20190701T061204Z">
-        <seg>在函数进行状态恢复时，Flink会将状态的各个部分分发到函数的所有并行实例上，并利用每个实例上的状态调用restoreState()方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T210521Z" creationid="xccui" creationdate="20190701T061204Z">
+        <seg>在函数进行状态恢复时，Flink会将状态的各个部分分发到函数的相关并行实例上，并使用每个实例上已经分发的状态调用restoreState()方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58003,8 +58003,8 @@
       <tuv lang="EN-US">
         <seg>need to update your application because Java serialization does not allow for migrating or configuring a custom serializer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T035415Z" creationid="xccui" creationdate="20190701T063504Z">
-        <seg>由于该序列化机制不支持目标迁移或配置自定义序列化器，所以可能会在你需要更新应用时导致问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T211004Z" creationid="xccui" creationdate="20190701T063504Z">
+        <seg>由于该序列化机制不支持修改或配置自定义序列化器，所以可能会在你需要更新应用时导致问题。</seg>
       </tuv>
     </tu>
     <tu>
