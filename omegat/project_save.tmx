@@ -47370,8 +47370,8 @@
       <tuv lang="EN-US">
         <seg>This special record is called a latency marker, and it bears a timestamp indicating when it was emitted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T054715Z" creationid="xccui" creationdate="20190806T054715Z">
-        <seg>这些特殊的记录被称为延迟标记（latency marker），每个延迟标记都带有一个表明它们何时发出的时间戳。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T045453Z" creationid="xccui" creationdate="20190806T054715Z">
+        <seg>这些特殊的记录被称为延迟标记（latency marker），每个延迟标记都带有一个标明发出时间的时间戳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49226,8 +49226,8 @@
       <tuv lang="EN-US">
         <seg>Upon receiving a latency marker, all opera‐ tors except sinks forward it downstream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T055151Z" creationid="xccui" creationdate="20190806T055151Z">
-        <seg>在收到延迟标记后，除数据汇以外的所有算子都会将它们转发到下游。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T045545Z" creationid="xccui" creationdate="20190806T055151Z">
+        <seg>在收到延迟标记后，除数据汇以外的所有算子都会将它们直接转发到下游。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52867,8 +52867,8 @@
       <tuv lang="EN-US">
         <seg>You can do this by setting the latencyTrackingInterval in the ExecutionConfig as shown here:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190806T055029Z" creationid="xccui" creationdate="20190806T055029Z">
-        <seg>该工作可以像下面这样，通过在ExecutionConfig中设置latencyTrackingInterval来完成：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T045528Z" creationid="xccui" creationdate="20190806T055029Z">
+        <seg>该配置可以像下面这样，通过在ExecutionConfig中设置latencyTrackingInterval来完成：</seg>
       </tuv>
     </tu>
     <tu>
