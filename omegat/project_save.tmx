@@ -29993,8 +29993,8 @@
       <tuv lang="EN-US">
         <seg>It also includes a set of common graph algorithms ready to use.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T163123Z" creationid="xingcan" creationdate="20190807T163123Z">
-        <seg>它还涵盖了一组方便使用的常见图算法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054714Z" creationid="xingcan" creationdate="20190807T163123Z">
+        <seg>它还包含了一组常见的图算法，方便日常使用。</seg>
       </tuv>
     </tu>
     <tu>
