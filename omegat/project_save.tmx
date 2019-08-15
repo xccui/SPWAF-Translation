@@ -24305,8 +24305,8 @@
       <tuv lang="EN-US">
         <seg>However, it also increases the amount of data a job needs to reprocess after recovering from a failure before it catches up to the tail of the stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025549Z" creationid="xccui" creationdate="20190731T025506Z">
-        <seg>但它同时会使作业在故障恢复过程中需要重新处理更多数据，才能"赶上"流中的最新数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T025626Z" creationid="xccui" creationdate="20190731T025506Z">
+        <seg>但它同时会使作业在故障恢复过程中需要重新处理更多数据，才能"赶得上"流中的最新数据。</seg>
       </tuv>
     </tu>
     <tu>
