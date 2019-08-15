@@ -54363,8 +54363,8 @@
       <tuv lang="EN-US">
         <seg>by visiting http://&lt;jobmanager-hostname&gt;:8081.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042858Z" creationid="xccui" creationdate="20190802T033919Z">
-        <seg>你可以通过地址http://&lt;jobmanager-hostname&gt;:8081访问它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042915Z" creationid="xccui" creationdate="20190802T033919Z">
+        <seg>你可以通过http://&lt;jobmanager-hostname&gt;:8081地址来访问它。</seg>
       </tuv>
     </tu>
     <tu>
