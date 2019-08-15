@@ -20441,8 +20441,8 @@
       <tuv lang="EN-US">
         <seg>Flink applications are executed in parallel by parallelizing operators into tasks and distributing these tasks across the worker processes in a cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T160637Z" creationid="xccui" creationdate="20190730T160637Z">
-        <seg>Flink应用通过将算子划分为不同的任务并将这些任务分配到集群中的不同工作进程来实现并行执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T005554Z" creationid="xccui" creationdate="20190730T160637Z">
+        <seg>为了实现并行执行，Flink应用会将算子划分为不同的任务，并将这些任务分配到集群中的不同工作进程上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45642,8 +45642,8 @@
       <tuv lang="EN-US">
         <seg>The worker process to which a task is assigned, the tasks that are colocated with a task, and the number of tasks that are assigned to a worker process can have a significant impact on an application’s performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T160953Z" creationid="xccui" creationdate="20190730T160953Z">
-        <seg>分配任务的工作进程，任务的共存情况以及工作进程中的任务数都会对应用性能带来显著影响。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T005800Z" creationid="xccui" creationdate="20190730T160953Z">
+        <seg>任务分配的目标工作进程，任务的共存情况以及工作进程中的任务数都会对应用性能带来显著影响。</seg>
       </tuv>
     </tu>
     <tu>
