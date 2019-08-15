@@ -30553,8 +30553,8 @@
       <tuv lang="EN-US">
         <seg>It offers com‐ mon operators to write relational queries including selection, projection, aggrega‐ tions, and joins and further has IDE support for autocompletion and syntax validation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T160918Z" creationid="xingcan" creationdate="20190807T160918Z">
-        <seg>它提供了通用的算子来完成关系型查询，包括选择、投影、聚合及连接，此外还支持IDE自动补全和语法验证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054326Z" creationid="xingcan" creationdate="20190807T160918Z">
+        <seg>Table API提供了通用的算子来完成关系型查询，其中包括选择、投影、聚合及连接等，此外还支持IDE自动补全和语法验证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35282,8 +35282,8 @@
       <tuv lang="EN-US">
         <seg>Queries can be executed for batch or streaming analysis without modification.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T160754Z" creationid="xingcan" creationdate="20190807T160754Z">
-        <seg>你无须修改查询就可以将它们用于批或流的分析之中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054207Z" creationid="xingcan" creationdate="20190807T160754Z">
+        <seg>你无须修改查询就可以将其用于批或流的分析之中。</seg>
       </tuv>
     </tu>
     <tu>
