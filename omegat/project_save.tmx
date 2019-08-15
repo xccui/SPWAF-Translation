@@ -22009,8 +22009,8 @@
       <tuv lang="EN-US">
         <seg>For each operator, you can explicitly specify its slot-sharing group with the slotSharingGroup(String) method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014913Z" creationid="xccui" creationdate="20190731T014913Z">
-        <seg>对于每个算子，你都可以利用slotSharingGroup(String)方法显式指定其处理槽共享组。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T021720Z" creationid="xccui" creationdate="20190731T014913Z">
+        <seg>对于每个算子，你都可以利用slotSharingGroup(String)方法为其指定处理槽共享组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39690,8 +39690,8 @@
       <tuv lang="EN-US">
         <seg>Tasks of operators that are in different slot-sharing groups are not exe‐ cuted by the same slots.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T014732Z" creationid="xccui" creationdate="20190731T014732Z">
-        <seg>属于不同处理槽共享组的算子，其任务会由不同的处理槽执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T021640Z" creationid="xccui" creationdate="20190731T014732Z">
+        <seg>属于不同处理槽共享组的算子，其任务会交由不同的处理槽执行。</seg>
       </tuv>
     </tu>
     <tu>
