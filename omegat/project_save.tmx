@@ -30585,8 +30585,8 @@
       <tuv lang="EN-US">
         <seg>It provides hooks to register and maintain keyed state and operator state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T063401Z" creationid="xccui" creationdate="20190702T060057Z">
-        <seg>它为键值分区状态和算子状态分别提供了用于注册及维护的钩子函数（hook），</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T235947Z" creationid="xccui" creationdate="20190702T060057Z">
+        <seg>它提供了注册和维护键值分区状态以及算子状态的钩子函数（hook），</seg>
       </tuv>
     </tu>
     <tu>
@@ -40106,8 +40106,8 @@
       <tuv lang="EN-US">
         <seg>The CheckpointedFunction interface is the lowest-level interface to specify stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052126Z" creationid="xccui" creationdate="20190702T055816Z">
-        <seg>CheckpointedFunction是用于指定状态化函数的最低级别接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T235828Z" creationid="xccui" creationdate="20190702T055816Z">
+        <seg>CheckpointedFunction是用于指定状态化函数的最底层接口。</seg>
       </tuv>
     </tu>
     <tu>
