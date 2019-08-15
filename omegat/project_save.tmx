@@ -51803,8 +51803,8 @@
       <tuv lang="EN-US">
         <seg>When you enable checkpointing for an application, you have to specify the check‐ pointing interval—the interval in which the JobManager will initiate checkpoints at the sources of the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030602Z" creationid="xccui" creationdate="20190731T030602Z">
-        <seg>当你在应用中启用检查点后，必须指定检查点生成间隔，即JobManager通过应用数据源初始化检查点的间隔。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T031046Z" creationid="xccui" creationdate="20190731T030602Z">
+        <seg>当你在应用中启用检查点后，必须为其指定生成间隔，即JobManager通过应用数据源初始化检查点的频率。</seg>
       </tuv>
     </tu>
     <tu>
