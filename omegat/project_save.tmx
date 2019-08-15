@@ -21705,8 +21705,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s histogram is especially implemented for reporting metrics on long values.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032606Z" creationid="xccui" creationdate="20190803T032606Z">
-        <seg>Flink的直方图特别适合用来报告Long类型的指标。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T044531Z" creationid="xccui" creationdate="20190803T032606Z">
+        <seg>Flink的直方图特别适合用来展示Long类型的指标。</seg>
       </tuv>
     </tu>
     <tu>
