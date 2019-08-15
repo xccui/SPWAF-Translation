@@ -52923,8 +52923,8 @@
       <tuv lang="EN-US">
         <seg>You can expose metrics to external backends through report‐ ers and Flink provides implementation for several of them (see Table 10-19 ).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055436Z" creationid="xccui" creationdate="20190804T055436Z">
-        <seg>你可以通过汇报器（reporter）将指标暴露给外部后端，Flink内部为它们提供了几种实现（见表10-19）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T044907Z" creationid="xccui" creationdate="20190804T055436Z">
+        <seg>你可以通过汇报器（reporter）将指标暴露给外部后端（external  backend），Flink内部为它们提供了几种实现（见表10-19）。</seg>
       </tuv>
     </tu>
     <tu>
