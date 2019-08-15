@@ -3352,8 +3352,8 @@
       <tuv lang="EN-US">
         <seg>// get broadcasted state handle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T042551Z" creationid="xccui" creationdate="20190702T042551Z">
-        <seg>// 获取广播状态句柄</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201843Z" creationid="xccui" creationdate="20190702T042551Z">
+        <seg>// 获取广播状态引用对象</seg>
       </tuv>
     </tu>
     <tu>
