@@ -20705,8 +20705,8 @@
       <tuv lang="EN-US">
         <seg>Flink gathers a set of predefined metrics during runtime and also provides a frame‐ work that allows you to define and track your own metrics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T032335Z" creationid="xccui" creationdate="20190802T032335Z">
-        <seg>Flink在运行时会收集一些预定义的指标，此外还供了一个框架供你定义和追踪自定义指标。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042850Z" creationid="xccui" creationdate="20190802T032335Z">
+        <seg>Flink在运行时会收集一些预定义指标，此外还供了一个框架供你定义和追踪自定义指标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32033,8 +32033,8 @@
       <tuv lang="EN-US">
         <seg>Monitoring your streaming job is essential to ensure its healthy operation and to detect potential symptoms of misconfigurations, underprovisioning, or unexpected behavior early.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T030002Z" creationid="xccui" creationdate="20190802T030002Z">
-        <seg>监控流式作业对于保证它的健康运行和尽早发现由于配置错误、资源不足或其他异常行为所导致的潜在症状十分关键。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042816Z" creationid="xccui" creationdate="20190802T030002Z">
+        <seg>监控流式作业对于保证其健康运行和尽早发现由于配置错误、资源不足或其他异常行为所导致的潜在症状而言十分关键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54363,8 +54363,8 @@
       <tuv lang="EN-US">
         <seg>by visiting http://&lt;jobmanager-hostname&gt;:8081.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T033919Z" creationid="xccui" creationdate="20190802T033919Z">
-        <seg>你可以通过地址http://&lt;jobmanager-hostname&gt;:8081访问仪表盘。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042858Z" creationid="xccui" creationdate="20190802T033919Z">
+        <seg>你可以通过地址http://&lt;jobmanager-hostname&gt;:8081访问它。</seg>
       </tuv>
     </tu>
     <tu>
