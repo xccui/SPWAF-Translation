@@ -12473,8 +12473,8 @@
       <tuv lang="EN-US">
         <seg>As you learned in “Time Semantics”, Flink’s time- based operators can be applied with different notions of time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T032720Z" creationid="xccui" creationdate="20190619T050204Z">
-        <seg>正如你在"时间语义"一节所了解到的，Flink内部基于时间的算子可以在不同的时间概念下使用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T011550Z" creationid="xccui" creationdate="20190619T050204Z">
+        <seg>正如你在"时间语义"一节所看到的，Flink内部基于时间的算子可以在不同的时间概念下使用。</seg>
       </tuv>
     </tu>
     <tu>
