@@ -10704,8 +10704,8 @@
       <tuv lang="EN-US">
         <seg>All you have to do is define a function with keyed state and make the state queryable by calling the set Queryable(String) method on the StateDescriptor before obtaining the state han‐ dle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T040207Z" creationid="xccui" creationdate="20190706T060607Z">
-        <seg>你要做的就是定义一个具有键值分区状态的函数，然后在获取状态句柄之前调用StateDescriptor的setQueryable(String)方法。这样，目标状态就变为可查询的了。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T202035Z" creationid="xccui" creationdate="20190706T060607Z">
+        <seg>你要做的就是定义一个具有键值分区状态的函数，然后在获取状态引用之前调用StateDescriptor的setQueryable(String)方法。这样，目标状态就变为可查询的了。</seg>
       </tuv>
     </tu>
     <tu>
