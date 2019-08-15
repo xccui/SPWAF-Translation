@@ -24401,8 +24401,8 @@
       <tuv lang="EN-US">
         <seg>However, it serves well for locally developing Flink applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T021824Z" creationid="xccui" creationdate="20190801T021824Z">
-        <seg>但它对在本地开发Flink应用是一个很好的选择。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T034637Z" creationid="xccui" creationdate="20190801T021824Z">
+        <seg>但它对于本地开发Flink应用而言是一个很好的选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33673,8 +33673,8 @@
       <tuv lang="EN-US">
         <seg>Once the application is run‐ ning again, you can take a savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205849Z" creationid="xccui" creationdate="20190731T205849Z">
-        <seg>一旦应用再次运行，你就可以为其生成保存点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T034304Z" creationid="xccui" creationdate="20190731T205849Z">
+        <seg>应用再次运行后，你就可以为其生成保存点。</seg>
       </tuv>
     </tu>
     <tu>
