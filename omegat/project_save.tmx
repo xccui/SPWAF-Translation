@@ -45042,8 +45042,8 @@
       <tuv lang="EN-US">
         <seg>The state name is scoped to the operator so that a function can have more</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T070147Z" creationid="xccui" creationdate="20190630T070107Z">
-        <seg>状态名称的作用域是整个算子，因此你可以通过在函数中注册多个状态描述符的方式得到多个状态对象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T172219Z" creationid="xccui" creationdate="20190630T070107Z">
+        <seg>状态名称的作用域是整个算子，你可以通过在函数内注册多个状态描述符来创建多个状态对象。</seg>
       </tuv>
     </tu>
     <tu>
