@@ -43674,8 +43674,8 @@
       <tuv lang="EN-US">
         <seg>The method has two parameters, checkpointId, which is a unique, monotonically increasing identifier for checkpoints, and timestamp, which is the wall-clock time when the master initiated the checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023229Z" creationid="xccui" creationdate="20190701T050128Z">
-        <seg>它接收两个参数：checkpointId是一个针对检查点的唯一且单调递增的标识，timestamp是JobManager开始创建检查点的机器时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T205200Z" creationid="xccui" creationdate="20190701T050128Z">
+        <seg>它接收两个参数：一个针对检查点的唯一且单调递增的标识checkpointId和一个JobManager开始创建检查点的机器时间timestamp。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60867,8 +60867,8 @@
       <tuv lang="EN-US">
         <seg>the operator state as a list of serializable state objects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T041339Z" creationid="xccui" creationdate="20190701T050259Z">
-        <seg>该方法需要将算子状态以可序列化状态对象列表的形式返回。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T210223Z" creationid="xccui" creationdate="20190701T050259Z">
+        <seg>该方法需要将算子状态以列表的形式返回。</seg>
       </tuv>
     </tu>
     <tu>
