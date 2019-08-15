@@ -25793,8 +25793,8 @@
       <tuv lang="EN-US">
         <seg>If you click on a running job, you can get a quick glimpse of running statistics per task or subtask as shown in Figure 10-3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034734Z" creationid="xccui" creationdate="20190802T034734Z">
-        <seg>如果点击一个正在运行的作业，你就可以打开像图10-3中所示的界面，继而快速了解每个任务或子任务的运行统计信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T043412Z" creationid="xccui" creationdate="20190802T034734Z">
+        <seg>点击一个正在运行的作业就会打开像图10-3中所示的界面，从中你能够快速了解每个任务或子任务的运行统计信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25817,8 +25817,8 @@
       <tuv lang="EN-US">
         <seg>If you click on the Task Metrics tab, you can select more metrics from a dropdown menu, as shown in Figure 10-4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T144425Z" creationid="xingcan" creationdate="20190802T144425Z">
-        <seg>如果点击Task Metrics选项卡，你可以从下拉菜单中选择更多指标，具体如图10-4所示。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T043443Z" creationid="xingcan" creationdate="20190802T144425Z">
+        <seg>点击Task Metrics选项卡，你可以从下拉菜单中选择更多指标，具体如图10-4所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40114,8 +40114,8 @@
       <tuv lang="EN-US">
         <seg>The Checkpoints tab (Figure 10-3) displays statistics about previous and current checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T151923Z" creationid="xingcan" creationdate="20190802T145453Z">
-        <seg>Checkpoints选项卡（图10-3）展示了有关以往和现在检查点的统计信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T043633Z" creationid="xingcan" creationdate="20190802T145453Z">
+        <seg>Checkpoints选项卡（图10-3）用于展示有关以往和正在进行的检查点的统计信息。</seg>
       </tuv>
     </tu>
     <tu>
