@@ -40722,8 +40722,8 @@
       <tuv lang="EN-US">
         <seg>The ListCheckpointed interface does not work with state handles like Val ueState or ListState, which are registered at the state backend.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040235Z" creationid="xccui" creationdate="20190701T040223Z">
-        <seg>该接口不像ValueState或ListState状态句柄那样直接在状态后端注册，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201802Z" creationid="xccui" creationdate="20190701T040223Z">
+        <seg>该接口不像ValueState或ListState那样直接在状态后端注册，</seg>
       </tuv>
     </tu>
     <tu>
