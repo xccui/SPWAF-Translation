@@ -42986,8 +42986,8 @@
       <tuv lang="EN-US">
         <seg>The functions encapsulate the user application logic and define how the elements of the input stream are transformed into the elements of the output stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T014237Z" creationid="xccui" creationdate="20190613T014237Z">
-        <seg>这些函数封装了用户应用逻辑，定义了输入流的元素如何转换为输出流的元素。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T161716Z" creationid="xccui" creationdate="20190613T014237Z">
+        <seg>这些函数封装了用户应用逻辑，指定了输入流的元素将如何转换为输出流的元素。</seg>
       </tuv>
     </tu>
     <tu>
