@@ -31841,8 +31841,8 @@
       <tuv lang="EN-US">
         <seg>Metric reporters will turn the Gauge value into a String, so make sure you provide a meaningful toString() implementation if it is not provided by the type you use.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032456Z" creationid="xccui" creationdate="20190803T032156Z">
-        <seg>指标报告器会将Gauge值转换为String，因此如果你用到的类型没有提供有意义的toString()实现，请将它加上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T044501Z" creationid="xccui" creationdate="20190803T032156Z">
+        <seg>指标报告器会将Gauge值转换为String，因此请确保为用到的类型提供有意义的toString()实现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31857,8 +31857,8 @@
       <tuv lang="EN-US">
         <seg>Metrics Reported as Strings</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190803T032202Z" creationid="xccui" creationdate="20190803T032122Z">
-        <seg>指标是作为字符串对外报告</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T044154Z" creationid="xccui" creationdate="20190803T032122Z">
+        <seg>指标将作为字符串对外展示</seg>
       </tuv>
     </tu>
     <tu>
