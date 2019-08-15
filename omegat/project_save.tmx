@@ -16601,8 +16601,8 @@
       <tuv lang="EN-US">
         <seg>During the execution of an application, the JobManager receives the state handles (storage locations) of the individual task checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T073145Z" creationid="xccui" creationdate="20190502T045939Z">
-        <seg>在应用执行过程中，JobManager会接收每个任务检查点的状态句柄（存储位置）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T170619Z" creationid="xccui" creationdate="20190502T045939Z">
+        <seg>在应用执行过程中，JobManager会接收每个任务检查点的状态句柄（state handle）（存储位置）。</seg>
       </tuv>
     </tu>
     <tu>
