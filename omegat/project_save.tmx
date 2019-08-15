@@ -29729,8 +29729,8 @@
       <tuv lang="EN-US">
         <seg>Instead, functions implement operator state as regular member variables and interact with the state backend via callback functions of the ListCheckpointed interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T040529Z" creationid="xccui" creationdate="20190701T040529Z">
-        <seg>而需要将算子状态实现为成员变量并通过接口提供的回调函数和状态后端进行交互。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T202559Z" creationid="xccui" creationdate="20190701T040529Z">
+        <seg>而是需要将算子状态实现为成员变量并通过接口提供的回调函数和状态后端进行交互。</seg>
       </tuv>
     </tu>
     <tu>
