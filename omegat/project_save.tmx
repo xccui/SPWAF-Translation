@@ -21209,8 +21209,8 @@
       <tuv lang="EN-US">
         <seg>Flink pro‐ vides parameters to address these situations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202016Z" creationid="xccui" creationdate="20190731T201805Z">
-        <seg>Flink提供了一系列参数来处理这些情况。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T032137Z" creationid="xccui" creationdate="20190731T201805Z">
+        <seg>Flink提供了一系列参数来处理此类情况。</seg>
       </tuv>
     </tu>
     <tu>
