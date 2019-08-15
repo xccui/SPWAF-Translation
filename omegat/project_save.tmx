@@ -57587,8 +57587,8 @@
       <tuv lang="EN-US">
         <seg>manager.512.MyMetrics.myCounter.” You can change the default “.” delimiter by set‐ ting the metrics.scope.delimiter configuration option.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T034147Z" creationid="xccui" creationdate="20190804T034147Z">
-        <seg>你可以通过metrics.scope.delimiter配置项对默认分隔符"."进行修改。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T044732Z" creationid="xccui" creationdate="20190804T034147Z">
+        <seg>你可以通过metrics.scope.delimiter配置项改变默认分隔符"."。</seg>
       </tuv>
     </tu>
     <tu>
