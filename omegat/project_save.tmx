@@ -33209,8 +33209,8 @@
       <tuv lang="EN-US">
         <seg>Note that you should not access keyed state from the processBroadcastEle ment() method of KeyedBroadcastProcessFunction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T054919Z" creationid="xccui" creationdate="20190702T053934Z">
-        <seg>注意，由于广播输入一侧没有指定键值，状态后端无法访问键值分区的状态值，所以你不能从KeyedBroadcastProcessFunction的processBroadcastElement()方法中访问键值分区状态，强行这么做会使状态后端抛出异常。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T214149Z" creationid="xccui" creationdate="20190702T053934Z">
+        <seg>此外，由于广播输入一侧没有指定键值，状态后端无法访问键值分区的状态值，所以你无法从KeyedBroadcastProcessFunction的processBroadcastElement()方法中访问键值分区状态，强行这么做会使状态后端抛出异常。</seg>
       </tuv>
     </tu>
     <tu>
