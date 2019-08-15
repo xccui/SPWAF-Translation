@@ -18153,8 +18153,8 @@
       <tuv lang="EN-US">
         <seg>Example 7-3 shows how to implement the previous example with the shortcut.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T040657Z" creationid="xccui" creationdate="20190701T022755Z">
-        <seg>示例7-3展示了如何利用简写方式来实现上一个示例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T204421Z" creationid="xccui" creationdate="20190701T022755Z">
+        <seg>示例7-3展示了如何利用该接口来实现上一个示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40970,8 +40970,8 @@
       <tuv lang="EN-US">
         <seg>The Scala DataStream API offers syntactic shortcuts to define map and flatMap func‐ tions with a single ValueState.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T022541Z" creationid="xccui" creationdate="20190701T022541Z">
-        <seg>Scala DataStream API为只有单个ValueState的map和flatMap函数提供了简便写法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T204110Z" creationid="xccui" creationdate="20190701T022541Z">
+        <seg>Scala DataStream API为只有单个ValueState的map和flatMap函数提供了更便捷的flatMapWithState接口。</seg>
       </tuv>
     </tu>
     <tu>
