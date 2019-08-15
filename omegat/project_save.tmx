@@ -21113,8 +21113,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides multiple primitives for keyed state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T041533Z" creationid="xccui" creationdate="20190630T040825Z">
-        <seg>Flink为键值分区状态提供了很多原语。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T162437Z" creationid="xccui" creationdate="20190630T040825Z">
+        <seg>Flink为键值分区状态提供了很多原语（primitive）。</seg>
       </tuv>
     </tu>
     <tu>
