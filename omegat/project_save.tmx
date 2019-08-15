@@ -15745,8 +15745,8 @@
       <tuv lang="EN-US">
         <seg>DataSet programs are speci‐ fied as a series of transformations just like DataStream programs with the difference that a DataSet is a bounded data collection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T153613Z" creationid="xingcan" creationdate="20190807T153613Z">
-        <seg>DataSet程序和DataStream程序一样，都是由一系列转换操作组成；但二者的不同在于DataSet是一个有界的数据集。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T053823Z" creationid="xingcan" creationdate="20190807T153613Z">
+        <seg>DataSet程序和DataStream程序一样，都是由一系列转换操作组成。二者的不同在于DataSet是一个有界的数据集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40178,8 +40178,8 @@
       <tuv lang="EN-US">
         <seg>The DataSet API provides operators to perform filtering, mapping, selection, joins, and groupings, as well as connectors to read and write datasets from and to external systems, such as filesystems and data‐ bases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T153929Z" creationid="xingcan" creationdate="20190807T153929Z">
-        <seg>DataSet API提供了用于过滤、映射、选择、连接以及分组的算子，同时还有从外部系统（如文件系统和数据库）读写数据集的连接器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T053925Z" creationid="xingcan" creationdate="20190807T153929Z">
+        <seg>DataSet API提供了用于过滤、映射、选择、连接以及分组的算子，以及从外部系统（如文件系统和数据库）读写数据集的连接器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49378,8 +49378,8 @@
       <tuv lang="EN-US">
         <seg>Using the DataSet API you can also define iterative Flink programs that exe‐ cute a loop function for a fixed number of steps or until a convergence criterion is met.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190807T154201Z" creationid="xingcan" creationdate="20190807T154201Z">
-        <seg>你还可以使用DataSet API定义用于迭代的Flink程序，它们可以以固定次数执行循环函数或直至满足收敛调节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T054019Z" creationid="xingcan" creationdate="20190807T154201Z">
+        <seg>你还可以使用DataSet API定义用于迭代的Flink程序，它们可以以固定次数执行循环函数或直到收敛条件满足。</seg>
       </tuv>
     </tu>
     <tu>
