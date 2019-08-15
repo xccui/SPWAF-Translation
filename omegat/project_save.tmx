@@ -13225,8 +13225,8 @@
       <tuv lang="EN-US">
         <seg>Both context objects offer a method getBroad castState(MapStateDescriptor) that provides access to a broadcast state handle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T212154Z" creationid="xccui" creationdate="20190702T051303Z">
-        <seg>processElement()传入的是只读上下文，只能对getBroadcastState(MapStateDescriptor)方法获得的广播状态进行读操作；而processBroadcastElement()传入的是可读写上下文，可以对获得的广播状态进行读写操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T212435Z" creationid="xccui" creationdate="20190702T051303Z">
+        <seg>前者传入的是只读上下文，只能对使用getBroadcastState(MapStateDescriptor)方法获得的广播状态进行读操作；而后者传入的是可读写上下文，可以对获得的广播状态进行读写操作。</seg>
       </tuv>
     </tu>
     <tu>
