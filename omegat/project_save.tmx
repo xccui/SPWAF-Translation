@@ -42170,8 +42170,8 @@
       <tuv lang="EN-US">
         <seg>The different state backends can be created with minimum settings as shown in the following.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035220Z" creationid="xccui" creationdate="20190801T022306Z">
-        <seg>你可以像下面这样以最少的设置创建不同的状态后端。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035526Z" creationid="xccui" creationdate="20190801T022306Z">
+        <seg>你可以根据下文所示以最少的设置创建不同的状态后端。</seg>
       </tuv>
     </tu>
     <tu>
