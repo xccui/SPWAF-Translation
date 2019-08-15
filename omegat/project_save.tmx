@@ -36882,8 +36882,8 @@
       <tuv lang="EN-US">
         <seg>SensorReading contains the sensor ID, a timestamp denoting when the measurement was taken, and the measured temperature.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190612T052008Z" creationid="xccui" creationdate="20190612T052008Z">
-        <seg>每一条SensorReading数据都包括传感器ID，表示测试时间的时间戳以及测量的温度。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T161239Z" creationid="xccui" creationdate="20190612T052008Z">
+        <seg>每一条SensorReading数据都包括传感器ID，测量的时间以及温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61243,8 +61243,8 @@
       <tuv lang="EN-US">
         <seg>to instruct our program to interpret time semantics using event time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T160927Z" creationid="xccui" creationdate="20190612T045805Z">
-        <seg>指定程序应用事件时间语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T161050Z" creationid="xccui" creationdate="20190612T045805Z">
+        <seg>指定程序采用事件时间语义。</seg>
       </tuv>
     </tu>
     <tu>
