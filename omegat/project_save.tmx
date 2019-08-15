@@ -42170,8 +42170,8 @@
       <tuv lang="EN-US">
         <seg>The different state backends can be created with minimum settings as shown in the following.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T022306Z" creationid="xccui" creationdate="20190801T022306Z">
-        <seg>你可以像下面那样以最少的配置创建不同的状态后端。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035220Z" creationid="xccui" creationdate="20190801T022306Z">
+        <seg>你可以像下面这样以最少的设置创建不同的状态后端。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63755,8 +63755,8 @@
       <tuv lang="EN-US">
         <seg>“Checkpoint‐ ing and State Backends” on page 243 describes how you can configure a default state backend of a Flink cluster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T021953Z" creationid="xccui" creationdate="20190801T021953Z">
-        <seg>第243页"检查点和状态后端"一节介绍了如何为Flink集群配置默认状态后端。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T034717Z" creationid="xccui" creationdate="20190801T021953Z">
+        <seg>我们第243页"检查点和状态后端"一节介绍了如何为Flink集群配置默认状态后端。</seg>
       </tuv>
     </tu>
     <tu>
