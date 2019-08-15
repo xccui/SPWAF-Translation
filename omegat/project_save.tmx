@@ -26633,8 +26633,8 @@
       <tuv lang="EN-US">
         <seg>In addition to disabling chaining for the whole application, you can also control the chaining behavior of individual operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010513Z" creationid="xccui" creationdate="20190730T203106Z">
-        <seg>除了对整个应用禁用任务链接，你还可以控制单个算子的链接行为，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010818Z" creationid="xccui" creationdate="20190730T203106Z">
+        <seg>除了对整个应用禁用任务链接，你还可以控制单个算子的链接行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45258,8 +45258,8 @@
       <tuv lang="EN-US">
         <seg>The tasks of the operator will not be chained to preceding</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204033Z" creationid="xccui" creationdate="20190730T204023Z">
-        <seg>对应算子的任务不会和之前的任务链接，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T011015Z" creationid="xccui" creationdate="20190730T204023Z">
+        <seg>该方法会让对应算子的任务断开与之前的任务链接，</seg>
       </tuv>
     </tu>
     <tu>
@@ -60611,8 +60611,8 @@
       <tuv lang="EN-US">
         <seg>tasks but will be chained to succeeding tasks if the requirements for chaining are met.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T204049Z" creationid="xccui" creationdate="20190730T204049Z">
-        <seg>而是会在满足链接条件时和链接到后续任务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010957Z" creationid="xccui" creationdate="20190730T204049Z">
+        <seg>但可以在满足链接条件时和链接到后续任务。</seg>
       </tuv>
     </tu>
     <tu>
