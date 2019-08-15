@@ -22529,8 +22529,8 @@
       <tuv lang="EN-US">
         <seg>For instance, reducing the overhead of each checkpoint can facilitate a higher checkpointing frequency, leading to faster recovery cycles.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T030146Z" creationid="xccui" creationdate="20190731T025921Z">
-        <seg>例如，减小每个检查点的生成开销会增加其生成频率，继而导致恢复周期加快。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T030953Z" creationid="xccui" creationdate="20190731T025921Z">
+        <seg>举例而言，减小每次检查点的生成开销可以促使其频率加快，从而使恢复周期缩短。</seg>
       </tuv>
     </tu>
     <tu>
