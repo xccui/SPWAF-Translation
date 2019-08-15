@@ -26633,8 +26633,8 @@
       <tuv lang="EN-US">
         <seg>In addition to disabling chaining for the whole application, you can also control the chaining behavior of individual operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203106Z" creationid="xccui" creationdate="20190730T203106Z">
-        <seg>除了对整个应用禁用任务链接，你还可以控制单个算子的链接行为。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010513Z" creationid="xccui" creationdate="20190730T203106Z">
+        <seg>除了对整个应用禁用任务链接，你还可以控制单个算子的链接行为，</seg>
       </tuv>
     </tu>
     <tu>
@@ -48130,8 +48130,8 @@
       <tuv lang="EN-US">
         <seg>To disable chaining for a specific operator,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203201Z" creationid="xccui" creationdate="20190730T203201Z">
-        <seg>具体而言，可以通过调用算子的disableChaining()方法禁用其链接功能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010748Z" creationid="xccui" creationdate="20190730T203201Z">
+        <seg>例如，可以通过调用算子的disableChaining()方法禁用其链接功能。</seg>
       </tuv>
     </tu>
     <tu>
