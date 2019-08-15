@@ -26977,8 +26977,8 @@
       <tuv lang="EN-US">
         <seg>In certain situations you might want to ensure that checkpoints are taken in the con‐ figured checkpointing interval even though a checkpoint takes longer than the inter‐ val.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T202851Z" creationid="xccui" creationdate="20190731T202851Z">
-        <seg>在某些情况下，你可能希望即使检查点的生成时间久于间隔，也要保证检查点严格按照配置的间隔生成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T032457Z" creationid="xccui" creationdate="20190731T202851Z">
+        <seg>在某些情况下，你可能希望即使检查点的生成时间长于间隔，也要保证检查点严格按照配置的间隔生成。</seg>
       </tuv>
     </tu>
     <tu>
