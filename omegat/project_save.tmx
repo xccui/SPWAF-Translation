@@ -2928,8 +2928,8 @@
       <tuv lang="EN-US">
         <seg>// create a configured copy of the backend</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190801T030138Z" creationid="xccui" creationdate="20190801T030138Z">
-        <seg>// 为配置后的的状态后端创建一个副本</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035609Z" creationid="xccui" creationdate="20190801T030138Z">
+        <seg>// 为已配置状态后端创建一个副本</seg>
       </tuv>
     </tu>
     <tu>
