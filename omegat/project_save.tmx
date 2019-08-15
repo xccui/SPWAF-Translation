@@ -4440,8 +4440,8 @@
       <tuv lang="EN-US">
         <seg>// the keyed state handle for the last temperature</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T205652Z" creationid="xccui" creationdate="20190704T205652Z">
-        <seg>// 用于存储最近一次温度的键值分区状态句柄</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T202013Z" creationid="xccui" creationdate="20190704T205652Z">
+        <seg>// 用于存储最近一次温度的键值分区状态引用</seg>
       </tuv>
     </tu>
     <tu>
