@@ -21297,8 +21297,8 @@
       <tuv lang="EN-US">
         <seg>Flink supports compressed checkpoints and savepoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204526Z" creationid="xccui" creationdate="20190731T204526Z">
-        <seg>Flink支持对检查点和保存点进行压缩。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T033842Z" creationid="xccui" creationdate="20190731T204526Z">
+        <seg>Flink支持对检查点和保存点进行压缩，</seg>
       </tuv>
     </tu>
     <tu>
@@ -49146,8 +49146,8 @@
       <tuv lang="EN-US">
         <seg>Until Flink 1.7, the only sup‐ ported compression algorithm is Snappy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204706Z" creationid="xccui" creationdate="20190731T204706Z">
-        <seg>截至1.7版本，Flink还只支持Snappy压缩算法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T033701Z" creationid="xccui" creationdate="20190731T204706Z">
+        <seg>截至1.7版本，支持的压缩算法还只有Snappy。</seg>
       </tuv>
     </tu>
     <tu>
