@@ -13225,8 +13225,8 @@
       <tuv lang="EN-US">
         <seg>Both context objects offer a method getBroad castState(MapStateDescriptor) that provides access to a broadcast state handle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T051303Z" creationid="xccui" creationdate="20190702T051303Z">
-        <seg>虽然两个上下文对象都提供了getBroadcastState(MapStateDescriptor)方法来获得广播状态句柄，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T201856Z" creationid="xccui" creationdate="20190702T051303Z">
+        <seg>虽然两个上下文对象都提供了getBroadcastState(MapStateDescriptor)方法来获得广播状态引用对象，</seg>
       </tuv>
     </tu>
     <tu>
