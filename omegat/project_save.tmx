@@ -18153,8 +18153,8 @@
       <tuv lang="EN-US">
         <seg>Example 7-3 shows how to implement the previous example with the shortcut.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T204828Z" creationid="xccui" creationdate="20190701T022755Z">
-        <seg>示例7-3展示了如何利用flatMapWithState()方法来实现上一个示例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T204857Z" creationid="xccui" creationdate="20190701T022755Z">
+        <seg>示例7-3展示了如何利用flatMapWithState()方法来实现上一个示例中的逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36482,8 +36482,8 @@
       <tuv lang="EN-US">
         <seg>Scala DataStream API shortcut for a FlatMap with a keyed ValueState</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T040821Z" creationid="xccui" creationdate="20190701T023016Z">
-        <seg>利用Scala DataStream API中的简写功能实现只有一个键值分区ValueState的FlatMap</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T204906Z" creationid="xccui" creationdate="20190701T023016Z">
+        <seg>利用Scala DataStream API中的flatMapWithState()方法实现只有一个键值分区ValueState的FlatMap</seg>
       </tuv>
     </tu>
     <tu>
