@@ -32905,8 +32905,8 @@
       <tuv lang="EN-US">
         <seg>Note that checkpoint compression is not supported for incremental RocksDB checkpoints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T204852Z" creationid="xccui" creationdate="20190731T204852Z">
-        <seg>注意，RocksDB增量检查点不支持压缩。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T034135Z" creationid="xccui" creationdate="20190731T204852Z">
+        <seg>请注意，RocksDB增量检查点不支持压缩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46354,8 +46354,8 @@
       <tuv lang="EN-US">
         <seg>They use a state backend–specific storage format and do not support rescaling.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T205713Z" creationid="xccui" creationdate="20190731T205713Z">
-        <seg>它们会使用特定于某个状态后端的存储格式，且不支持伸缩。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T034140Z" creationid="xccui" creationdate="20190731T205713Z">
+        <seg>它们会使用特定于某个状态后端的存储格式，且不支持扩缩容。</seg>
       </tuv>
     </tu>
     <tu>
