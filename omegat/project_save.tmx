@@ -9328,8 +9328,8 @@
       <tuv lang="EN-US">
         <seg>A savepoint will always be started regardless of how many checkpoints are in progress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203547Z" creationid="xccui" creationdate="20190731T203547Z">
-        <seg>无论有多少检查点生成操作正在进行，Flink都会开始生成保存点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T032818Z" creationid="xccui" creationdate="20190731T203547Z">
+        <seg>无论有多少检查点生正在生成过程中，保存点操作都会照常触发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48010,8 +48010,8 @@
       <tuv lang="EN-US">
         <seg>To avoid long-running checkpoints, you can configure a timeout interval after which a checkpoint is canceled.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T203755Z" creationid="xccui" creationdate="20190731T203717Z">
-        <seg>为了避免生成检查点时间过长，你可以配置一个超时间隔，在该间隔后检查点生成会被取消。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T032916Z" creationid="xccui" creationdate="20190731T203717Z">
+        <seg>为了避免检查点生成时间过长，你可以配置一个超时间隔，在该间隔过后生成操作会被取消。</seg>
       </tuv>
     </tu>
     <tu>
