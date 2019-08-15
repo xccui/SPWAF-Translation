@@ -14417,8 +14417,8 @@
       <tuv lang="EN-US">
         <seg>Checkpointing can be an expensive operation since the amount of data that needs to be copied to a persistent storage can be quite large.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025121Z" creationid="xccui" creationdate="20190731T025121Z">
-        <seg>由于生成检查点时可能需要将大量数据复制到持久化存储中，所以其代价可能非常昂贵</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T024621Z" creationid="xccui" creationdate="20190731T025121Z">
+        <seg>由于在生成检查点时可能需要将大量数据写入持久化存储中，所以其代价可能非常昂贵</seg>
       </tuv>
     </tu>
     <tu>
@@ -29449,8 +29449,8 @@
       <tuv lang="EN-US">
         <seg>Increasing the checkpointing interval reduces the overhead of fault tolerance during regular pro‐ cessing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T025215Z" creationid="xccui" creationdate="20190731T025215Z">
-        <seg>增大检查点的生成间隔可以降低常规处理过程中的容错开销。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T024641Z" creationid="xccui" creationdate="20190731T025215Z">
+        <seg>增大检查点的生成间隔可以降低常规处理过程中容错的开销。</seg>
       </tuv>
     </tu>
     <tu>
