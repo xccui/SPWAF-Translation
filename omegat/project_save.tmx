@@ -22377,8 +22377,8 @@
       <tuv lang="EN-US">
         <seg>For example, you can configure that an applica‐ tion be restarted as long as it did not fail more than three times in the last ten minutes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154123Z" creationid="xingcan" creationdate="20190801T154123Z">
-        <seg>例如，你可以配置应用只要在过去十分钟内失败次数没超过三次，就可以一直重启。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040929Z" creationid="xingcan" creationdate="20190801T154123Z">
+        <seg>例如，你可以配置应用只要在过去十分钟内发生故障的次数没超过三次，就可以一直重启。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28033,8 +28033,8 @@
       <tuv lang="EN-US">
         <seg>In such a situation, an application would end up in an infinite recovery cycle consuming lots of resources without a chance of ever get‐ ting back into regular processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T152719Z" creationid="xingcan" creationdate="20190801T152719Z">
-        <seg>在该情况下，应用将陷入无休止的恢复周期，虽然消耗大量资源但无法恢复常规处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040845Z" creationid="xingcan" creationdate="20190801T152719Z">
+        <seg>在该情况下，应用将陷入无休止的恢复周期——虽然消耗大量资源但无法恢复常规处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42450,8 +42450,8 @@
       <tuv lang="EN-US">
         <seg>The failure rate is specified as the maximum number of failures within a time interval.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154021Z" creationid="xingcan" creationdate="20190801T154021Z">
-        <seg>故障率被定义为某个时间间隔内的最大故障数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040911Z" creationid="xingcan" creationdate="20190801T154021Z">
+        <seg>故障率的定义为某个时间间隔内的最大故障次数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44554,8 +44554,8 @@
       <tuv lang="EN-US">
         <seg>The restart strategy of an application is configured via StreamExecutionEnvironment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T154355Z" creationid="xingcan" creationdate="20190801T154355Z">
-        <seg>你可以像示例10-4那样使用StreamExecutionEnvironment配置应用重启策略。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T041002Z" creationid="xingcan" creationdate="20190801T154355Z">
+        <seg>你可以像示例10-4中那样通过StreamExecutionEnvironment配置应用重启策略。</seg>
       </tuv>
     </tu>
     <tu>
