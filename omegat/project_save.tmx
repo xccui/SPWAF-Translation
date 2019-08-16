@@ -16329,8 +16329,8 @@
       <tuv lang="EN-US">
         <seg>Distributed data processing frameworks like Apache Flink need to be set up to interact with several components such as resource managers, filesystems, and services for distributed coordination.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T135249Z" creationid="xccui" creationdate="20190717T031552Z">
-        <seg>像Apache Flink这样的分布式数据处理框架需要通过设置与资源管理器、文件系统和分布式协调服务等多个组件进行交互。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T155612Z" creationid="xccui" creationdate="20190717T031552Z">
+        <seg>像Apache Flink这样的分布式数据处理框架需要通过设置与资源管理框架、文件系统和分布式协调服务等多个组件进行交互。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52499,8 +52499,8 @@
       <tuv lang="EN-US">
         <seg>YARN is the resource manager component of Apache Hadoop.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T204052Z" creationid="xccui" creationdate="20190718T204052Z">
-        <seg>YARN是Apache Hadoop的资源管理器组件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T155616Z" creationid="xccui" creationdate="20190718T204052Z">
+        <seg>YARN是Apache Hadoop的资源管理组件。</seg>
       </tuv>
     </tu>
     <tu>
