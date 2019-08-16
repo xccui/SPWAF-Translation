@@ -14449,8 +14449,8 @@
       <tuv lang="EN-US">
         <seg>Checkpoints are implemented based on barriers that flow with the data and therefore avoid global synchronization across all operators of an application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T184515Z" creationid="xccui" creationdate="20190702T163830Z">
-        <seg>它内部的检查点是基于和数据一起流动的分隔符来实现的，因此可以避免在应用所有算子间的全局同步。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T002119Z" creationid="xccui" creationdate="20190702T163830Z">
+        <seg>其内部的检查点是基于和数据一起流动的分隔符来实现的，因此可以避免在应用所有算子间的全局同步。</seg>
       </tuv>
     </tu>
     <tu>
