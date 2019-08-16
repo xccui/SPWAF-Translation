@@ -31089,8 +31089,8 @@
       <tuv lang="EN-US">
         <seg>KeyedStream transformations are transformations that are applied to events in the context of a key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054651Z" creationid="xccui" creationdate="20190613T024408Z">
-        <seg>作用于同一键值上下文内事件的KeyedStream转换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T164147Z" creationid="xccui" creationdate="20190613T024408Z">
+        <seg>针对相同键值事件的KeyedStream转换。</seg>
       </tuv>
     </tu>
     <tu>
