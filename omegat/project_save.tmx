@@ -32337,8 +32337,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the visibility of committed messages depends on</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T031102Z" creationid="xccui" creationdate="20190710T031048Z">
-        <seg>此外，已提交消息的可见性会取决于Flink应用生成检查点的间隔。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T040327Z" creationid="xccui" creationdate="20190710T031048Z">
+        <seg>此外，已提交消息的可见性取决于Flink应用生成检查点的间隔。</seg>
       </tuv>
     </tu>
     <tu>
