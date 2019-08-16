@@ -52635,8 +52635,8 @@
       <tuv lang="EN-US">
         <seg>You can also configure the sink to log write only failures by calling setLogFailuresOnly(true) on the sink object.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T053414Z" creationid="xingcan" creationdate="20190709T155322Z">
-        <seg>还可以在数据汇对象上调用setLogFailuresOnly(true)让它仅将故障写入日志中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T034707Z" creationid="xingcan" creationdate="20190709T155322Z">
+        <seg>也可以在数据汇对象上调用setLogFailuresOnly(true)让它仅将故障写入日志中。</seg>
       </tuv>
     </tu>
     <tu>
