@@ -40314,8 +40314,8 @@
       <tuv lang="EN-US">
         <seg>The DataStream API provides transformations for the most common data transfor‐ mation operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T023051Z" creationid="xccui" creationdate="20190613T023051Z">
-        <seg>DataStream API为一些最常见的数据转换操作都提供了对应的转换抽象。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T163730Z" creationid="xccui" creationdate="20190613T023051Z">
+        <seg>DataStream API为那些最常见的数据转换操作都提供了对应的转换抽象。</seg>
       </tuv>
     </tu>
     <tu>
