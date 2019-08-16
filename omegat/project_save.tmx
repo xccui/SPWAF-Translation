@@ -30585,8 +30585,8 @@
       <tuv lang="EN-US">
         <seg>It provides hooks to register and maintain keyed state and operator state</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T235947Z" creationid="xccui" creationdate="20190702T060057Z">
-        <seg>它提供了注册和维护键值分区状态以及算子状态的钩子函数（hook），</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T000056Z" creationid="xccui" creationdate="20190702T060057Z">
+        <seg>它提供了用于注册和维护键值分区状态以算子状态的钩子函数（hook），</seg>
       </tuv>
     </tu>
     <tu>
@@ -53891,8 +53891,8 @@
       <tuv lang="EN-US">
         <seg>and is the only interface that gives access to operator list union state—the operator state that is fully replicated in the case of a recovery or savepoint restart.3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T214255Z" creationid="xccui" creationdate="20190702T063515Z">
-        <seg>并且是唯一可以访问算子联合列表状态（在进行恢复或从保存点启动的情况下需要被完全复制的算子状态）的接口。3</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T000659Z" creationid="xccui" creationdate="20190702T063515Z">
+        <seg>同时也是唯一支持使用算子联合列表状态（该状态在进行恢复或从保存点启动时需要被完整地复制到每个任务实例上）的接口。3</seg>
       </tuv>
     </tu>
     <tu>
