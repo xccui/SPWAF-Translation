@@ -43674,8 +43674,8 @@
       <tuv lang="EN-US">
         <seg>The method has two parameters, checkpointId, which is a unique, monotonically increasing identifier for checkpoints, and timestamp, which is the wall-clock time when the master initiated the checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T000829Z" creationid="xccui" creationdate="20190701T050128Z">
-        <seg>它接收两个参数：一个针对检查点的唯一且单调递增的编号checkpointId和一个JobManager开始创建检查点的机器时间timestamp。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T000948Z" creationid="xccui" creationdate="20190701T050128Z">
+        <seg>它接收两个参数：一个唯一且单调递增的检查点编号checkpointId和一个JobManager开始创建检查点的机器时间timestamp。</seg>
       </tuv>
     </tu>
     <tu>
