@@ -39738,8 +39738,8 @@
       <tuv lang="EN-US">
         <seg>TextInputFormat reads text files line-wise (split by newline characters), subclasses of CsvInputFormat read files with comma- separated values, and AvroInputFormat reads files with Avro-encoded records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T195957Z" creationid="xccui" creationdate="20190710T195957Z">
-        <seg>TextInputFormat会按行（由换行符指定）读取文本文件，CsvInputFormat的子类可用来读取CSV（comma-separated values）文件，AvroInputFormat可以读取存有Avro编码格式记录的文件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T041603Z" creationid="xccui" creationdate="20190710T195957Z">
+        <seg>TextInputFormat会按（由换行符指定的）行读取文本文件，CsvInputFormat的子类可用来读取CSV（comma-separated values）文件，AvroInputFormat可以读取存有Avro编码格式记录的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51891,8 +51891,8 @@
       <tuv lang="EN-US">
         <seg>While a sink writes to a file, the file is in the in-progress state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T192239Z" creationid="xccui" creationdate="20190711T190216Z">
-        <seg>当数据汇写入文件时，文件会处于进行状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T043206Z" creationid="xccui" creationdate="20190711T190216Z">
+        <seg>当数据汇写入文件时，文件会进入处理状态。</seg>
       </tuv>
     </tu>
     <tu>
