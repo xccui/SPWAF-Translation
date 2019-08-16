@@ -42306,8 +42306,8 @@
       <tuv lang="EN-US">
         <seg>The events are merged in a FIFO fashion—the operator does not produce a specific order of events.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T061211Z" creationid="xccui" creationdate="20190614T064449Z">
-        <seg>union执行过程中，事件会以FIFO的方式合并，其顺序无法得到任何保证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T190512Z" creationid="xccui" creationdate="20190614T064449Z">
+        <seg>union执行过程中，来自两条流的事件会以FIFO的方式合并，其顺序无法得到任何保证。</seg>
       </tuv>
     </tu>
     <tu>
