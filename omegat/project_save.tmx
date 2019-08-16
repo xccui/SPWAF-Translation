@@ -46858,8 +46858,8 @@
       <tuv lang="EN-US">
         <seg>This interface provides the notifyCheckpointComplete(long chkpntId) method, which might be called when the JobManager registers a checkpoint as completed—when all operators successfully</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T193214Z" creationid="xccui" creationdate="20190702T202645Z">
-        <seg>该接口提供的notifyCheckpointComplete(long chkpntId)方法，会在JobManager将检查点注册为已完成时（即所有算子都成功将其状态复制到远程存储后）被调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T002225Z" creationid="xccui" creationdate="20190702T202645Z">
+        <seg>该接口提供的notifyCheckpointComplete(long checkpointId)方法，会在JobManager将检查点注册为已完成时（即所有算子都成功将其状态复制到远程存储后）被调用。</seg>
       </tuv>
     </tu>
     <tu>
