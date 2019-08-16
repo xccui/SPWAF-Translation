@@ -60219,8 +60219,8 @@
       <tuv lang="EN-US">
         <seg>sink task to a single Kafka partition—all records emitted by the same sink task are written to the same partition and a single partition may contain the records of multi‐ ple sink tasks if there are more tasks than partitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035047Z" creationid="xccui" creationdate="20190710T034433Z">
-        <seg>在没有指定的情况下，默认的分区器（partitioner）会将每个数据汇任务映射到一个单独的Kafka分区，即单个任务的所有记录都会被发往同一分区。如果任务数多余分区数，则每个分区可能会包含多个任务发来的记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T040427Z" creationid="xccui" creationdate="20190710T034433Z">
+        <seg>在没有指定的情况下，默认的分区器（partitioner）会将每个数据汇任务映射到一个单独的Kafka分区，即单个任务的所有记录都会被发往同一分区。如果任务数多于分区数，则每个分区可能会包含多个任务发来的记录。</seg>
       </tuv>
     </tu>
     <tu>
