@@ -25425,8 +25425,8 @@
       <tuv lang="EN-US">
         <seg>If the number of partitions is larger than the number of subtasks, the default configuration results in empty parti‐ tions, which can cause problems for Flink applications consuming the topic in event- time mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T035237Z" creationid="xccui" creationdate="20190710T035040Z">
-        <seg>而如果分区数多于任务数，则默认配置会导致有些分区为空，此时若恰好有使用事件时间的Flink应用消费了该主题，那么可能会导致问题。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T040522Z" creationid="xccui" creationdate="20190710T035040Z">
+        <seg>而如果分区数多于任务数，则默认配置会导致有些分区为空，若此时恰好有使用事件时间的Flink应用消费了该主题，那么可能会导致问题。</seg>
       </tuv>
     </tu>
     <tu>
