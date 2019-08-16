@@ -32833,8 +32833,8 @@
       <tuv lang="EN-US">
         <seg>Note that Flink does not guarantee that the notifyCheckpointCom plete() method is called for each completed checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T202900Z" creationid="xccui" creationdate="20190702T202900Z">
-        <seg>注意，Flink不保证对每个完成的检查点都会调用notifyCheckpointComplete()方法。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T003615Z" creationid="xccui" creationdate="20190702T202900Z">
+        <seg>请注意，Flink不保证对每个完成的检查点都会调用notifyCheckpointComplete()方法。</seg>
       </tuv>
     </tu>
     <tu>
