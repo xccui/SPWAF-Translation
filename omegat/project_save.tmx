@@ -34394,8 +34394,8 @@
       <tuv lang="EN-US">
         <seg>Others more interested in writing Flink code right away might want to read the practical chapters first.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041613Z" creationid="esouser" creationdate="20190603T153223Z">
-        <seg>或者如果你迫不及待地想开始编写Flink代码，也可以先阅读实践章节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T145331Z" creationid="esouser" creationdate="20190603T153223Z">
+        <seg>若是你迫不及待地想开始编写Flink代码，也可以先阅读实践章节。</seg>
       </tuv>
     </tu>
     <tu>
