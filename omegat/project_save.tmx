@@ -33769,8 +33769,8 @@
       <tuv lang="EN-US">
         <seg>Once you change operator identifiers or the maximum parallelism, you cannot start an application from a savepoint but have to start it from scratch without any state initialization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T023237Z" creationid="xccui" creationdate="20190703T015126Z">
-        <seg>一旦你修改了算子标识或最大并行度则无法从保存点启动应用，只能选择抛弃状态从头开始运行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T004133Z" creationid="xccui" creationdate="20190703T015126Z">
+        <seg>一旦你修改了算子标识或最大并行度则无法从保存点启动应用，只能选择丢弃状态从头开始运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43602,8 +43602,8 @@
       <tuv lang="EN-US">
         <seg>The maximum parallelism parameter of an operator defines the number of key groups into which the keyed state of the operator is split.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T024348Z" creationid="xccui" creationdate="20190703T024348Z">
-        <seg>算子的最大并行度参数定义了算子在对键值状态进行分割时所用到的键值组（key group）的数量。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T004155Z" creationid="xccui" creationdate="20190703T024348Z">
+        <seg>算子的最大并行度参数定义了算子在对键值状态进行分割时所能用到的键值组（key group）数量。</seg>
       </tuv>
     </tu>
     <tu>
