@@ -50610,8 +50610,8 @@
       <tuv lang="EN-US">
         <seg>We will provide you with a brief tour of the additional Flink function‐ ality not included in this book and give you some pointers to further Flink resources.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T024908Z" creationid="xccui" creationdate="20190807T042000Z">
-        <seg>我们一方面会向你简要介绍本书没有涵盖的Flink其他功能，另一方面还将为你提供更多与Flink相关的资源信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T155857Z" creationid="xccui" creationdate="20190807T042000Z">
+        <seg>我们一方面会向你简要介绍本书没有涵盖的Flink功能，另一方面还将为你提供更多与Flink相关的资源信息。</seg>
       </tuv>
     </tu>
     <tu>
