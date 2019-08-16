@@ -11728,8 +11728,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink stores the application state locally in memory or in an embedded data‐ base.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210000Z" creationid="esouser" creationdate="20190603T205946Z">
-        <seg>Apache Flink使用本地内存和嵌入式数据库存储状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T151401Z" creationid="esouser" creationdate="20190603T205946Z">
+        <seg>Apache Flink会将应用状态存储在本地内存或嵌入式数据库中。</seg>
       </tuv>
     </tu>
     <tu>
