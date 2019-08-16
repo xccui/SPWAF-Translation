@@ -32817,8 +32817,8 @@
       <tuv lang="EN-US">
         <seg>Not all stream processors are equally well-suited to run event-driven applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T150915Z" creationid="xccui" creationdate="20190604T052517Z">
-        <seg>并不是所有的流处理引擎都同等适合来运行事件驱动型应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T152357Z" creationid="xccui" creationdate="20190604T052517Z">
+        <seg>不同的流处理引擎对于此类应用的支持程度存在一定差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42402,8 +42402,8 @@
       <tuv lang="EN-US">
         <seg>The expressiveness of the API and the quality of state handling and event-time support determine the business logic that can be implemented and exe‐ cuted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T074408Z" creationid="xccui" creationdate="20190604T052839Z">
-        <seg>API的表达能力以及对状态处理和事件时间的支持水平等诸多因素决定了可以实现和执行的业务逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T154152Z" creationid="xccui" creationdate="20190604T052839Z">
+        <seg>API的表达能力以及对状态处理和事件时间的支持水平等诸多因素决定了我们可以实现和执行的业务逻辑。</seg>
       </tuv>
     </tu>
     <tu>
