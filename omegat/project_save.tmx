@@ -32545,8 +32545,8 @@
       <tuv lang="EN-US">
         <seg>Multistream transformations merge multiple streams into one stream or split one stream into multiple streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T054711Z" creationid="xccui" creationdate="20190613T024521Z">
-        <seg>将多条数据流合并为一条或将一条数据流拆分成多条的多流转换。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T164234Z" creationid="xccui" creationdate="20190613T024521Z">
+        <seg>将多条数据流合并为一条或将一条数据流拆分成多条流的转换。</seg>
       </tuv>
     </tu>
     <tu>
