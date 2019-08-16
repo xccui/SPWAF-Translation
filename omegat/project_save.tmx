@@ -24713,8 +24713,8 @@
       <tuv lang="EN-US">
         <seg>However, they do not meet the latency requirements for many of today’s use cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T153957Z" creationid="xccui" creationdate="20190604T055430Z">
-        <seg>但这对于现如今很多用例场景而言无法满足延迟方面的需求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T154402Z" creationid="xccui" creationdate="20190604T055430Z">
+        <seg>但这对于现如今很多应用场景而言无法满足延迟方面的需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46458,8 +46458,8 @@
       <tuv lang="EN-US">
         <seg>This aspect depends on the APIs of the stream processor, what kinds of state primitives it provides, and the quality of its support for event-time processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T154216Z" creationid="xccui" creationdate="20190604T053132Z">
-        <seg>这方面要取决于流处理引擎的API、提供的状态原语以及对事件时间的处理能力。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T154356Z" creationid="xccui" creationdate="20190604T053132Z">
+        <seg>这方面具体取决于流处理引擎的API、提供的状态原语以及对事件时间的处理能力。</seg>
       </tuv>
     </tu>
     <tu>
