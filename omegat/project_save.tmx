@@ -42618,8 +42618,8 @@
       <tuv lang="EN-US">
         <seg>The flatMap transformation is similar to map, but it can produce zero, one, or more output events for each incoming event.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T174544Z" creationid="xccui" creationdate="20190613T053414Z">
-        <seg>flatMap转换类似于map，但它可以对每个事件产生零个、一个或多个输出事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T182243Z" creationid="xccui" creationdate="20190613T053414Z">
+        <seg>flatMap转换类似于map，但它可以对每个输入事件产生零个、一个或多个输出事件。</seg>
       </tuv>
     </tu>
     <tu>
