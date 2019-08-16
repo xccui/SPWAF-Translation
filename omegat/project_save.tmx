@@ -35754,8 +35754,8 @@
       <tuv lang="EN-US">
         <seg>Refer to the Flink documentation to learn about a few other corner cases when enabling exactly-once consistency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T032453Z" creationid="xccui" creationdate="20190710T032453Z">
-        <seg>请查看Flink文档了解更多有关启用精确一次一致性时的特殊情况。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T040341Z" creationid="xccui" creationdate="20190710T032453Z">
+        <seg>请参考Flink文档了解更多有关启用精确一次一致性时的特殊情况。</seg>
       </tuv>
     </tu>
     <tu>
