@@ -16465,8 +16465,8 @@
       <tuv lang="EN-US">
         <seg>Due to its checkpointing mechanism, Flink can achieve very good performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190702T163923Z" creationid="xccui" creationdate="20190702T163923Z">
-        <seg>得益于该检查点机制，Flink的性能会非常高。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T002139Z" creationid="xccui" creationdate="20190702T163923Z">
+        <seg>得益于该检查点机制，Flink有着非常好的性能表现。</seg>
       </tuv>
     </tu>
     <tu>
