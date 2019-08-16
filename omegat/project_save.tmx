@@ -22905,8 +22905,8 @@
       <tuv lang="EN-US">
         <seg>FunctionSnapshotCon text gives access to the unique identifier of the checkpoint and the timestamp when the JobManager initiates the checkpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T000837Z" creationid="xccui" creationdate="20190702T071501Z">
-        <seg>从FunctionSnapshotContext中，我们可以得到检查点的编号以及JobManager初始化检查点时的时间戳。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T000906Z" creationid="xccui" creationdate="20190702T071501Z">
+        <seg>从FunctionSnapshotContext中，我们可以得到检查点编号以及JobManager在初始化检查点时的时间戳。</seg>
       </tuv>
     </tu>
     <tu>
