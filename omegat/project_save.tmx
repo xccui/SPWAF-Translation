@@ -14281,8 +14281,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 3 describes Flink’s system architecture and internals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T061520Z" creationid="xccui" creationdate="20190225T164833Z">
-        <seg>第3章是描述Flink的系统架构和内部实现，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T145340Z" creationid="xccui" creationdate="20190225T164833Z">
+        <seg>第3章重点描述Flink的系统架构和内部实现，</seg>
       </tuv>
     </tu>
     <tu>
