@@ -29673,8 +29673,8 @@
       <tuv lang="EN-US">
         <seg>Instead, Flink organizes keys in so-called key groups.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T055556Z" creationid="xccui" creationdate="20190608T055448Z">
-        <seg>而是会把所有键值分为不同的键值组。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T004511Z" creationid="xccui" creationdate="20190608T055448Z">
+        <seg>而是会把所有键值分为不同的键值组（key group）。</seg>
       </tuv>
     </tu>
     <tu>
