@@ -16153,8 +16153,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the type of execution environment, a JobManager is started as a local thread (local execution environment) or the JobGraph is sent to a remote JobManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190712T052337Z" creationid="xccui" creationdate="20190613T012430Z">
-        <seg>根据执行环境类型的不同，系统可能会将JobManager作为本地线程启动（本地执行环境），也可能会将JobGraph发送到远程JobManager上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T163622Z" creationid="xccui" creationdate="20190613T012430Z">
+        <seg>根据执行环境类型的不同，系统可能需要将JobGraph发送到作为本地线程启动的JobManager上（本地执行环境），也可能会将其发送到远程JobManager上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39794,8 +39794,8 @@
       <tuv lang="EN-US">
         <seg>That is, the API calls that create stream sources and transformations do not immediately trigger any data processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T053155Z" creationid="xccui" creationdate="20190613T011133Z">
-        <seg>也就是说，那些创建数据源和转换操作的API调用不会当即触发任何数据处理，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T160836Z" creationid="xccui" creationdate="20190613T011133Z">
+        <seg>也就是说，那些创建数据源和转换操作的API调用不会立即触发数据处理，</seg>
       </tuv>
     </tu>
     <tu>
