@@ -31001,8 +31001,8 @@
       <tuv lang="EN-US">
         <seg>Keep in mind that some resource managers, such as YARN, will immediately kill a container if it exceeds its memory budget.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T151914Z" creationid="xccui" creationdate="20190724T042209Z">
-        <seg>最后请谨记，某些资源管理器（如YARN）会在容器超过内存限制时立即将其终止。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T155633Z" creationid="xccui" creationdate="20190724T042209Z">
+        <seg>最后请谨记，某些资源管理框架（如YARN）会在容器超过内存限制时立即将其终止。</seg>
       </tuv>
     </tu>
     <tu>
