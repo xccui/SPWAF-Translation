@@ -13153,8 +13153,8 @@
       <tuv lang="EN-US">
         <seg>Black squares are duplicated, and gray squares are filtered out.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054533Z" creationid="xccui" creationdate="20190613T054410Z">
-        <seg>如果是黑色方块会将其复制；如果是灰色方块会将其过滤掉。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T184817Z" creationid="xccui" creationdate="20190613T054410Z">
+        <seg>将黑色方块复制，将灰色方块</seg>
       </tuv>
     </tu>
     <tu>
@@ -25353,8 +25353,8 @@
       <tuv lang="EN-US">
         <seg>If the input is a white square, it outputs the event unmodified.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190613T054414Z" creationid="xccui" creationdate="20190613T054359Z">
-        <seg>如果输入是白色方块，则不加改动直接输出；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T182304Z" creationid="xccui" creationdate="20190613T054359Z">
+        <seg>具体而言，它会将白色方块不将改动直接输出，</seg>
       </tuv>
     </tu>
     <tu>
