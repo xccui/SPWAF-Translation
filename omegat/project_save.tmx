@@ -51419,8 +51419,8 @@
       <tuv lang="EN-US">
         <seg>When reading from multiple topics, the Kafka connector treats all partitions of all topics the same and multiplexes their events into a single stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T213246Z" creationid="xccui" creationdate="20190708T212838Z">
-        <seg>当选择多个主题时，Kafka连接器会对所有主题的分区一直同仁，并将它们的事件混合成为一条数据流。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T034136Z" creationid="xccui" creationdate="20190708T212838Z">
+        <seg>当选择多个主题时，Kafka连接器会对所有主题的分区一视同仁，并将它们的事件混合成为一条数据流。</seg>
       </tuv>
     </tu>
     <tu>
