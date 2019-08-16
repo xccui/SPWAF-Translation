@@ -29289,8 +29289,8 @@
       <tuv lang="EN-US">
         <seg>In version 1.7, Flink provides a few classes that extend FileInputFormat and imple‐ ment CheckpointableInputFormat.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T195719Z" creationid="xccui" creationdate="20190710T195719Z">
-        <seg>在1.7版本中，Flink提供了一些继承自FileInputFormat并实现了CheckpointableInputFormat的类。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T041343Z" creationid="xccui" creationdate="20190710T195719Z">
+        <seg>在1.7版本中，Flink提供了一组继承自FileInputFormat并实现了CheckpointableInputFormat的类。</seg>
       </tuv>
     </tu>
     <tu>
