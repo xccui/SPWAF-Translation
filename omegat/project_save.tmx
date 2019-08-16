@@ -22233,8 +22233,8 @@
       <tuv lang="EN-US">
         <seg>For example, information for a product that is offered in a webshop can be stored in a transactional database, a web cache, and a search index.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190314T070514Z" creationid="xccui" creationdate="20190314T065839Z">
-        <seg>例如：网店内某产品的信息可能会同时放到事务型型数据库、网站缓存以及搜索索引中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T192722Z" creationid="xccui" creationdate="20190314T065839Z">
+        <seg>例如：网店内某产品的信息可能会同时放到事务型数据库、网站缓存以及搜索索引中。</seg>
       </tuv>
     </tu>
     <tu>
