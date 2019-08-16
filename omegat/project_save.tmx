@@ -29321,8 +29321,8 @@
       <tuv lang="EN-US">
         <seg>In “Checkpoints, Savepoints, and State Recovery”, you learned that Flink’s check‐ pointing and recovery mechanism periodically takes consistent checkpoints of an application’s state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T045039Z" creationid="xccui" creationdate="20190708T051855Z">
-        <seg>在"检查点、保存点及状态恢复"一节，你了解到Flink的检查点和恢复机制会周期性地为应用状态创建一致性检查点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T032025Z" creationid="xccui" creationdate="20190708T051855Z">
+        <seg>你在"检查点、保存点及状态恢复"一节已经了解到，Flink的检查点和恢复机制会周期性地为应用状态创建一致性检查点。</seg>
       </tuv>
     </tu>
     <tu>
