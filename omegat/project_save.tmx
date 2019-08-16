@@ -46826,8 +46826,8 @@
       <tuv lang="EN-US">
         <seg>This includes window operators and time-based joins as well as process functions that provide the most flexibility when dealing with time in streaming applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190813T152845Z" creationid="esouser" creationdate="20190603T161606Z">
-        <seg>其中包含窗口算子、基于时间的Join以及一系列处理函数，它们让流式应用中的时间处理变得十分灵活。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T145513Z" creationid="esouser" creationdate="20190603T161606Z">
+        <seg>其中包含窗口算子、基于时间的Join以及一系列处理函数（process function），它们让流式应用中的时间处理变得十分灵活。</seg>
       </tuv>
     </tu>
     <tu>
