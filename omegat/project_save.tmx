@@ -32425,8 +32425,8 @@
       <tuv lang="EN-US">
         <seg>More‐ over, in combination with the CheckpointListener interface, the snapshotState() method can be used to consistently write data to external datastores by synchronizing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T001337Z" creationid="xccui" creationdate="20190702T071818Z">
-        <seg>此外，该方法还可以结合CheckpointListener接口使用，在检查点同步阶段将数据一致性地写入外部数据存储中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T001520Z" creationid="xccui" creationdate="20190702T071818Z">
+        <seg>此外，该方法还可以结合CheckpointListener接口使用，在检查点同步阶段将数据一致性地写入外部存储中。</seg>
       </tuv>
     </tu>
     <tu>
