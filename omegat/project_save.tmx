@@ -28921,8 +28921,8 @@
       <tuv lang="EN-US">
         <seg>In this chapter, you will enter the streaming world for good.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T042452Z" creationid="xccui" creationdate="20190605T224655Z">
-        <seg>本章将正式引领你踏入流处理的世界。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T061209Z" creationid="xccui" creationdate="20190605T224655Z">
+        <seg>接下来我们将正式引领你踏入流处理的世界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43082,8 +43082,8 @@
       <tuv lang="EN-US">
         <seg>The goal of this chapter is to introduce the fundamental concepts of stream process‐ ing and the requirements of its frameworks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T042658Z" creationid="xccui" creationdate="20190605T224706Z">
-        <seg>通过本章，我们旨在介绍流处理的基础概念及其处理框架的需求。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T061213Z" creationid="xccui" creationdate="20190605T224706Z">
+        <seg>本章旨在介绍流处理的基础概念及其处理框架的需求。</seg>
       </tuv>
     </tu>
     <tu>
