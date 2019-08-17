@@ -10352,8 +10352,8 @@
       <tuv lang="EN-US">
         <seg>Aggregating State.get() computes the final result and returns it as an Iterable with a single element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061143Z" creationid="xccui" creationdate="20190630T061056Z">
-        <seg>AggregatingState.get()方法会计算最终结果并将其作为Iterable中唯一的元素返回。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T060538Z" creationid="xccui" creationdate="20190630T061056Z">
+        <seg>AggregatingState.get()方法会计算最终结果并将其返回。</seg>
       </tuv>
     </tu>
     <tu>
