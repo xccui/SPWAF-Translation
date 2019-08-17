@@ -45794,8 +45794,8 @@
       <tuv lang="EN-US">
         <seg>There are several aspects that affect the behavior of an appli‐ cation such as the choice of the state backend that locally maintains the state and performs checkpoints, the configuration of the checkpointing algorithm, and the size of the application’s state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T025041Z" creationid="xccui" creationdate="20190703T210934Z">
-        <seg>这些影响的原因是多方面的，例如：对于用来维护本地状态和生成检查点的状态后端的选择，配置的检查点生成算法以及应用状态大小等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T055002Z" creationid="xccui" creationdate="20190703T210934Z">
+        <seg>这些影响的原因是多方面的，例如：状态后端的选择（影响本地状态如何存储和执行快照），检查点算法的配置以及应用状态大小等。</seg>
       </tuv>
     </tu>
     <tu>
