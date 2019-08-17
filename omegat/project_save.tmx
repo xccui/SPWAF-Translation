@@ -50210,8 +50210,8 @@
       <tuv lang="EN-US">
         <seg>We explained how to configure the time characteristics of a streaming applica‐ tion and how to assign timestamps and watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190629T041548Z" creationid="xccui" creationdate="20190629T041449Z">
-        <seg>我们解释了如何为流式应用配置时间特征以及如何分配时间戳和水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T041225Z" creationid="xccui" creationdate="20190629T041449Z">
+        <seg>我们解释了如何为流式应用配置时间特性以及如何分配时间戳和水位线。</seg>
       </tuv>
     </tu>
     <tu>
