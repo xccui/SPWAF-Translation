@@ -13617,8 +13617,8 @@
       <tuv lang="EN-US">
         <seg>By default, Flink will not start applications that do not restore all states that are con‐ tained in a savepoint to avoid losing the state in the savepoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T043338Z" creationid="xccui" creationdate="20190705T043338Z">
-        <seg>为了避免保存点中的状态丢失，Flink在默认情况下不会启动那些无法将保存点中的状态全部恢复的应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T053408Z" creationid="xccui" creationdate="20190705T043338Z">
+        <seg>为了避免保存点中的状态丢失，Flink在默认情况下不允许那些无法将保存点中的状态全部恢复的应用启动。</seg>
       </tuv>
     </tu>
     <tu>
