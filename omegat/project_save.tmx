@@ -3624,8 +3624,8 @@
       <tuv lang="EN-US">
         <seg>// loop forever</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T040238Z" creationid="xccui" creationdate="20190707T040238Z">
-        <seg>// 死循环</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T054837Z" creationid="xccui" creationdate="20190707T040238Z">
+        <seg>// 不断循环查询</seg>
       </tuv>
     </tu>
     <tu>
