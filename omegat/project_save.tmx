@@ -22361,8 +22361,8 @@
       <tuv lang="EN-US">
         <seg>For example, with RocksDBStateBackend it is more efficient to use MapState[X, Y] instead of ValueState[HashMap[X, Y]].</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T034135Z" creationid="xccui" creationdate="20190704T034135Z">
-        <seg>例如，针对RocksDBStateBackend，使用MapState[X, Y]要比ValueState[HashMap[X, Y]更高效。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T050929Z" creationid="xccui" creationdate="20190704T034135Z">
+        <seg>例如，针对RocksDBStateBackend，使用MapState[X, Y]要比ValueState[HashMap[X, Y]]更高效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53891,8 +53891,8 @@
       <tuv lang="EN-US">
         <seg>and is the only interface that gives access to operator list union state—the operator state that is fully replicated in the case of a recovery or savepoint restart.3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T050703Z" creationid="xccui" creationdate="20190702T063515Z">
-        <seg>同时也是唯一支持使用算子联合列表状态（UnionListState，该状态在进行恢复或从保存点启动时需要被完整地复制到每个任务实例上）的接口。3</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T050915Z" creationid="xccui" creationdate="20190702T063515Z">
+        <seg>同时也是唯一支持使用算子联合列表状态（UnionListState，该状态在进行恢复时需要被完整地复制到每个任务实例上）的接口。3</seg>
       </tuv>
     </tu>
     <tu>
