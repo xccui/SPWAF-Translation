@@ -20257,8 +20257,8 @@
       <tuv lang="EN-US">
         <seg>First, we will learn how to define time characteristics, timestamps, and watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T033004Z" creationid="xccui" creationdate="20190619T050417Z">
-        <seg>本章，我们将首先讲解如何定义时间特征、时间戳及水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T040932Z" creationid="xccui" creationdate="20190619T050417Z">
+        <seg>本章，我们将首先讲解如何定义时间特性、时间戳及水位线。</seg>
       </tuv>
     </tu>
     <tu>
