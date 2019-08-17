@@ -43314,8 +43314,8 @@
       <tuv lang="EN-US">
         <seg>The iterator returned by get() returns an Iterable with a single entry, which is</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T061108Z" creationid="xccui" creationdate="20190630T060432Z">
-        <seg>ReducingState.get()方法返回的Iterable对象只有一个条目，即聚合后的值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T060531Z" creationid="xccui" creationdate="20190630T060432Z">
+        <seg>你可以通过调用ReducingState.get()方法获取该值。</seg>
       </tuv>
     </tu>
     <tu>
