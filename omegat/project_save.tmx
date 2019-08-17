@@ -26025,8 +26025,8 @@
       <tuv lang="EN-US">
         <seg>If your applica‐ tion is a batch job, you can easily fix the bug offline and then redeploy the new application code once the current job instance finishes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160527Z" creationid="xccui" creationdate="20190725T045340Z">
-        <seg>如果应用是一个批处理作业，则你可以很轻松地离线修复Bug，然后等当前作业实例结束后部署新的应用代码即可。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T173451Z" creationid="xccui" creationdate="20190725T045340Z">
+        <seg>如果应用是一个批处理作业，那你可以很轻松地离线修复Bug，然后等当前作业实例结束后部署新的应用代码即可。</seg>
       </tuv>
     </tu>
     <tu>
