@@ -44370,8 +44370,8 @@
       <tuv lang="EN-US">
         <seg>The processElement() and onTimer() methods are synchronized to prevent concurrent access and manipu‐ lation of state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T062912Z" creationid="xccui" creationdate="20190621T061008Z">
-        <seg>processElement()和onTimer()两个方法是做了同步的，这样可以防止并发访问或操作状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T040742Z" creationid="xccui" creationdate="20190621T061008Z">
+        <seg>系统对于上processElement()和onTimer()两个方法的调用是同步的，这样可以防止并发访问和操作状态。</seg>
       </tuv>
     </tu>
     <tu>
