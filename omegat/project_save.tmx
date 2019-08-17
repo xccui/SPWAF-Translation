@@ -38826,8 +38826,8 @@
       <tuv lang="EN-US">
         <seg>Streaming applications are long-running and their workloads are often unpredicta‐ ble.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T043644Z" creationid="xccui" creationdate="20190725T043644Z">
-        <seg>流式应用通常都需要长时间运行，这就导致了它的工作负载往往难以预测。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190817T173359Z" creationid="xccui" creationdate="20190725T043644Z">
+        <seg>流式应用通常都需要长时间运行，这就决定了它的工作负载往往难以预测。</seg>
       </tuv>
     </tu>
     <tu>
