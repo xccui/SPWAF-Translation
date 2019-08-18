@@ -24601,8 +24601,8 @@
       <tuv lang="EN-US">
         <seg>However, the lifecycles of checkpoints and save‐ points differ.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014459Z" creationid="xccui" creationdate="20190726T014459Z">
-        <seg>但他们的生命周期有所差异。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T054856Z" creationid="xccui" creationdate="20190726T014459Z">
+        <seg>但它们的生命周期有所差异。</seg>
       </tuv>
     </tu>
     <tu>
