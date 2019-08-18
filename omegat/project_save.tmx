@@ -29449,8 +29449,8 @@
       <tuv lang="EN-US">
         <seg>Increasing the checkpointing interval reduces the overhead of fault tolerance during regular pro‐ cessing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T024641Z" creationid="xccui" creationdate="20190731T025215Z">
-        <seg>增大检查点的生成间隔可以降低常规处理过程中容错的开销。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062748Z" creationid="xccui" creationdate="20190731T025215Z">
+        <seg>增大检查点的生成间隔可以降低常规处理过程中容错的开销，</seg>
       </tuv>
     </tu>
     <tu>
