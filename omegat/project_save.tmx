@@ -17049,8 +17049,8 @@
       <tuv lang="EN-US">
         <seg>Especially when a streaming job is part of a larger data processing pipeline or event-driven service in a user-facing application, you probably want to monitor its performance as precisely as possible and make sure it meets certain tar‐ gets for latency, throughput, resource utilization, etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T030312Z" creationid="xccui" creationdate="20190802T030312Z">
-        <seg>尤其是当流式作业是作为一个更大的数据处理管道或面向用户的事件驱动服务的一部分时，你可能需要尽可能准确地监控其性能，并确保它可以满足延迟、吞吐和资源利用等目标。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T072025Z" creationid="xccui" creationdate="20190802T030312Z">
+        <seg>尤其是当流式作业是作为一个更大的数据处理管道或面向用户的事件驱动服务的一部分时，你可能需要尽可能准确地监控其性能，确保它可以满足延迟、吞吐和资源利用等目标。</seg>
       </tuv>
     </tu>
     <tu>
