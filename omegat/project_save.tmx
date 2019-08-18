@@ -16113,8 +16113,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the failure that caused an application to crash, the application could be killed by the same failure again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T071647Z" creationid="xingcan" creationdate="20190801T152035Z">
-        <seg>对于部分导致应用崩溃的故障，应用有可能会被相同的故障再次"杀死"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T071839Z" creationid="xingcan" creationdate="20190801T152035Z">
+        <seg>某些时候，应用有可能会被相同的故障不断"杀死"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32033,8 +32033,8 @@
       <tuv lang="EN-US">
         <seg>Monitoring your streaming job is essential to ensure its healthy operation and to detect potential symptoms of misconfigurations, underprovisioning, or unexpected behavior early.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T042816Z" creationid="xccui" creationdate="20190802T030002Z">
-        <seg>监控流式作业对于保证其健康运行和尽早发现由于配置错误、资源不足或其他异常行为所导致的潜在症状而言十分关键。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T071949Z" creationid="xccui" creationdate="20190802T030002Z">
+        <seg>监控流式作业对于保证其健康运行和尽早发现潜在问题（例如配置错误、资源不足或其他异常行为）十分关键。</seg>
       </tuv>
     </tu>
     <tu>
