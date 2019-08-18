@@ -37610,8 +37610,8 @@
       <tuv lang="EN-US">
         <seg>Since the application’s source tasks were reset to an earlier input position, it processes data that it processed before the failure and data that accumulated while the applica‐ tion was down.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T035910Z" creationid="xingcan" creationdate="20190801T145810Z">
-        <seg>由于应用的数据源任务被重置到一个较早的输入位置，所以它需要处理故障发生前以及应用在停止工作期间积累的一些数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T071553Z" creationid="xingcan" creationdate="20190801T145810Z">
+        <seg>由于数据源任务的读取偏移会被重置到一个较早的位置，所以应用需要处理故障发生前以及在停止工作期间积累的一些数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50875,8 +50875,8 @@
       <tuv lang="EN-US">
         <seg>When a checkpointed application fails, it will be restarted by bringing up its tasks, recovering their states, including the reading offsets of the source tasks, and continu‐ ing the processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T145530Z" creationid="xingcan" creationdate="20190801T145530Z">
-        <seg>当一个生成过检查点的应用发生故障时，它会经过一系列步骤重启，具体包括：启动任务、恢复状态（包括数据源任务的读取偏移）和继续处理。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T071359Z" creationid="xingcan" creationdate="20190801T145530Z">
+        <seg>当一个拥有检查点的应用发生故障时，它会经过一系列步骤重启，具体包括：启动任务、恢复状态（包括数据源任务的读取偏移）和继续处理。</seg>
       </tuv>
     </tu>
     <tu>
