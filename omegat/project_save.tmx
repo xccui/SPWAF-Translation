@@ -21409,8 +21409,8 @@
       <tuv lang="EN-US">
         <seg>Flink will do all the hard work so you can easily monitor, operate, and reconfigure your jobs with minimal effort while preserving exactly-once state semantics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160717Z" creationid="xccui" creationdate="20190725T050842Z">
-        <seg>Flink将替你完成全部棘手的工作，你可以在轻松地监控、操纵并重新配置作业的同时享受精确一次状态语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T035652Z" creationid="xccui" creationdate="20190725T050842Z">
+        <seg>Flink将替你完成全部棘手的工作，你可以在轻松地监控、操作并重新配置作业的同时享受精确一次状态语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31145,8 +31145,8 @@
       <tuv lang="EN-US">
         <seg>Kubernetes is designed for cluster operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T023117Z" creationid="xccui" creationdate="20190719T024158Z">
-        <seg>虽然Kubernetes是为操纵集群而设计的，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T035800Z" creationid="xccui" creationdate="20190719T024158Z">
+        <seg>虽然Kubernetes是为集群操作而设计的，</seg>
       </tuv>
     </tu>
     <tu>
