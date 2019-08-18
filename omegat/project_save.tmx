@@ -46666,8 +46666,8 @@
       <tuv lang="EN-US">
         <seg>This command submits the application to the master that runs on host myMasterHost</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032318Z" creationid="xccui" creationdate="20190726T032318Z">
-        <seg>上述命令会将应用提交到myMasterHost主机、9876端口上的主进程。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T055430Z" creationid="xccui" creationdate="20190726T032318Z">
+        <seg>上述命令会将应用提交到myMasterHost主机9876端口上的主进程。</seg>
       </tuv>
     </tu>
     <tu>
