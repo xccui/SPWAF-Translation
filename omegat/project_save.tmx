@@ -25113,8 +25113,8 @@
       <tuv lang="EN-US">
         <seg>If many or all checkpoints take longer than the checkpointing interval, this behavior might not be optimal for two reasons.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T032201Z" creationid="xccui" creationdate="20190731T200634Z">
-        <seg>如果很多或全部检查点的生成时间都长于生成间隔，那么可能需要对此进行调优，具体原因有二。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062905Z" creationid="xccui" creationdate="20190731T200634Z">
+        <seg>如果很多或全部检查点的生成时间都长于生成间隔，那么可能需要对此进行调优，具体原因有两个。</seg>
       </tuv>
     </tu>
     <tu>
