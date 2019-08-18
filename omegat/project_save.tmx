@@ -23905,8 +23905,8 @@
       <tuv lang="EN-US">
         <seg>Here we describe some of the most commonly used metrics and refer you to Flink’s documentation for a full list of available metrics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T043925Z" creationid="xingcan" creationdate="20190802T152833Z">
-        <seg>接下来我们将向你介绍一些最常用到的指标。有关可用指标的完整列表请参阅Flink文档。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T072157Z" creationid="xingcan" creationdate="20190802T152833Z">
+        <seg>接下来我们将向你介绍一些最常用的指标，有关可用指标的完整列表请参阅Flink文档。</seg>
       </tuv>
     </tu>
     <tu>
