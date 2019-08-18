@@ -34698,8 +34698,8 @@
       <tuv lang="EN-US">
         <seg>Parameters jarId: The ID of the JAR file from which the application is started.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T162234Z" creationid="xccui" creationdate="20190729T050229Z">
-        <seg>参数 jarId：启动应用的JAR文件ID</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T061850Z" creationid="xccui" creationdate="20190729T050229Z">
+        <seg>参数 jarId：启动应用的JAR文件ID。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40834,8 +40834,8 @@
       <tuv lang="EN-US">
         <seg>The REST API also provides more detailed information about the following aspects of an application:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T153448Z" creationid="xccui" creationdate="20190729T153448Z">
-        <seg>REST API还提供了和应用以下方面相关的更多详细信息：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T061935Z" creationid="xccui" creationdate="20190729T153448Z">
+        <seg>REST API还提供了有关应用以下方面的更多详细信息：</seg>
       </tuv>
     </tu>
     <tu>
