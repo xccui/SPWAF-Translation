@@ -32689,8 +32689,8 @@
       <tuv lang="EN-US">
         <seg>Next, we will get to use Flink’s window API, which provides built-in implementations of the most common window types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T053031Z" creationid="xccui" creationdate="20190619T053031Z">
-        <seg>接下面我们会讲到Flink的窗口API，它针对几个最为常用的窗口类型都提供了内置实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T060438Z" creationid="xccui" creationdate="20190619T053031Z">
+        <seg>接下来我们会讲到Flink的窗口API，它针对几个最为常用的窗口类型都提供了内置实现。</seg>
       </tuv>
     </tu>
     <tu>
