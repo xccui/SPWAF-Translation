@@ -37194,8 +37194,8 @@
       <tuv lang="EN-US">
         <seg>Similar to a CoFlatMapFunction, a CoProcessFunction offers a transformation method for each input, processElement1() and processElement2().</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T040418Z" creationid="xccui" creationdate="20190622T030504Z">
-        <seg>和CoFlatMapFunction类似，CoProcessFunction也提供了一对作用在每个输入上的转换方法——processFunction1()和processFunction2()。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T040450Z" creationid="xccui" creationdate="20190622T030504Z">
+        <seg>和CoFlatMapFunction类似，CoProcessFunction也提供了一对作用在每个输入上的转换方法——processElement1()和processElement2()。</seg>
       </tuv>
     </tu>
     <tu>
