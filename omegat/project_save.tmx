@@ -33713,8 +33713,8 @@
       <tuv lang="EN-US">
         <seg>Once the job-specific containers are running, you can treat the cluster as a regular Flink cluster as described in “Kubernetes” on page 228.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045515Z" creationid="xccui" creationdate="20190730T045515Z">
-        <seg>在针对特定作业的容器运行后，你就可以像228页"Kubernetes"所介绍的那样，将集群视为常规的Flink集群。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062345Z" creationid="xccui" creationdate="20190730T045515Z">
+        <seg>在针对特定作业的容器运行后，你就可以像228页"Kubernetes"所介绍的那样，将集群视为普通的Flink集群。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37578,8 +37578,8 @@
       <tuv lang="EN-US">
         <seg>Since task chaining improves the perfor‐ mance of most applications, it is enabled by default in Flink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T010334Z" creationid="xccui" creationdate="20190730T191338Z">
-        <seg>由于任务链接可以提高大多数应用的性能，所以Flink默认会启动它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062408Z" creationid="xccui" creationdate="20190730T191338Z">
+        <seg>由于任务链接可以提高大多数应用的性能，所以Flink默认会启用它。</seg>
       </tuv>
     </tu>
     <tu>
