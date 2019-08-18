@@ -55691,8 +55691,8 @@
       <tuv lang="EN-US">
         <seg>dow does not exist yet, it is created.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T052115Z" creationid="xccui" creationdate="20190625T052115Z">
-        <seg>如何目标窗口不存在，则会创建它。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T042932Z" creationid="xccui" creationdate="20190625T052115Z">
+        <seg>如果目标窗口不存在，则会创建它。</seg>
       </tuv>
     </tu>
     <tu>
