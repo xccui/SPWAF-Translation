@@ -28953,8 +28953,8 @@
       <tuv lang="EN-US">
         <seg>In this example, after reading the stream, we first apply a filter transformation and then call the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190620T044508Z" creationid="xccui" creationdate="20190620T044508Z">
-        <seg>在这个例子中，我们首先使用了一个过滤转换，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T074223Z" creationid="xccui" creationdate="20190620T044508Z">
+        <seg>在这个例子中，我们首先定义了一个数据源，</seg>
       </tuv>
     </tu>
     <tu>
@@ -54099,8 +54099,8 @@
       <tuv lang="EN-US">
         <seg>assignTimestampsAndWatermarks() method where we define the timestamp assigner</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T055129Z" creationid="xccui" creationdate="20190620T044558Z">
-        <seg>然后调用assignTimestampsAndWatermarks()方法传入时间戳分配器MyAssigner。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T074357Z" creationid="xccui" creationdate="20190620T044558Z">
+        <seg>然后利用assignTimestampsAndWatermarks()方法传入时间戳分配器MyAssigner。</seg>
       </tuv>
     </tu>
     <tu>
