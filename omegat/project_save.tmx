@@ -24025,8 +24025,8 @@
       <tuv lang="EN-US">
         <seg>How do you apply a reconfiguration with low effort while guaranteeing correctness?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T045605Z" creationid="xccui" creationdate="20190725T045605Z">
-        <seg>如何在保证正确的同时以低成本应用新的配置？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T045316Z" creationid="xccui" creationdate="20190725T045605Z">
+        <seg>怎样能在保证正确的同时以低成本应用新的配置？</seg>
       </tuv>
     </tu>
     <tu>
