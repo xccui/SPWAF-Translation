@@ -43634,8 +43634,8 @@
       <tuv lang="EN-US">
         <seg>The menu on the left links to more detailed information on jobs and configu‐ ration parameters and also allows job submission by uploading a JAR.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190802T034406Z" creationid="xccui" creationdate="20190802T034406Z">
-        <seg>你可以通过左侧菜单访问作业的详细信息和配置参数页面，还可以上传JAR来提交作业。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T072048Z" creationid="xccui" creationdate="20190802T034406Z">
+        <seg>你可以通过左侧菜单访问作业的详细信息和配置参数页面，还可以通过上传JAR来提交作业。</seg>
       </tuv>
     </tu>
     <tu>
