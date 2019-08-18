@@ -1648,8 +1648,8 @@
       <tuv lang="EN-US">
         <seg>.timeWindow(Time.hours(1), Time(minutes(15)))</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190623T060213Z" creationid="xccui" creationdate="20190623T060213Z">
-        <seg>.timeWindow(Time.hours(1), Time(minutes(15)))</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T042524Z" creationid="xccui" creationdate="20190623T060213Z">
+        <seg>.timeWindow(Time.hours(1), Time.minutes(15)))</seg>
       </tuv>
     </tu>
     <tu>
