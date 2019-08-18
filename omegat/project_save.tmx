@@ -39434,8 +39434,8 @@
       <tuv lang="EN-US">
         <seg>Tables 10-7, 10-8, and 10-9 show the REST endpoints to manage these JAR files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T045705Z" creationid="xccui" creationdate="20190729T045436Z">
-        <seg>表10-7、10-8和10-9展示了用于管理这些JAR文件的REST端点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T055941Z" creationid="xccui" creationdate="20190729T045436Z">
+        <seg>表10-7、10-8和10-9展示了用于管理这些JAR文件的REST服务端点。</seg>
       </tuv>
     </tu>
     <tu>
