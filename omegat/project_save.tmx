@@ -31145,8 +31145,8 @@
       <tuv lang="EN-US">
         <seg>Kubernetes is designed for cluster operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T035800Z" creationid="xccui" creationdate="20190719T024158Z">
-        <seg>虽然Kubernetes是为集群操作而设计的，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T035825Z" creationid="xccui" creationdate="20190719T024158Z">
+        <seg>虽然Kubernetes是为操作集群而设计的，</seg>
       </tuv>
     </tu>
     <tu>
