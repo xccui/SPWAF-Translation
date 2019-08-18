@@ -58411,8 +58411,8 @@
       <tuv lang="EN-US">
         <seg>on port 8081, the following curl command submits a GET request to the /overview</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043226Z" creationid="xccui" creationdate="20190729T041914Z">
-        <seg>以下curl命令将向/overview的REST端点提交一个GET请求：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T055920Z" creationid="xccui" creationdate="20190729T041914Z">
+        <seg>以下curl命令将向/overview的REST服务端点提交一个GET请求：</seg>
       </tuv>
     </tu>
     <tu>
