@@ -10472,8 +10472,8 @@
       <tuv lang="EN-US">
         <seg>All images you build afterwards in this shell are deployed to Mini‐ kube’s image registry.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045158Z" creationid="xccui" creationdate="20190730T045158Z">
-        <seg>之后你在此Shell中构建的所有镜像都会部署到Minikube的镜像注册表中了，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062156Z" creationid="xccui" creationdate="20190730T045158Z">
+        <seg>之后你在此Shell中构建的所有镜像都会部署到Minikube的镜像仓库中了，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24825,8 +24825,8 @@
       <tuv lang="EN-US">
         <seg>However, you can configure Docker to deploy its images to Mini‐ kube’s own registry by running the following command:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045102Z" creationid="xccui" creationdate="20190730T045102Z">
-        <seg>为此，你可以使用以下命令配置Docker，让它将镜像部署到Minikube自己的注册表中：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062156Z" creationid="xccui" creationdate="20190730T045102Z">
+        <seg>为此，你可以使用以下命令配置Docker，让它将镜像部署到Minikube自己的仓库中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32401,8 +32401,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, you need to set the ImagePullPolicy in the YAML files to Never to ensure Minikube fetches the image from its own registry.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045338Z" creationid="xccui" creationdate="20190730T045338Z">
-        <seg>此外，你还需要将YAML文件中的ImagePullPolicy设置为Never，以确保Minikube从自己的注册表中获取镜像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062156Z" creationid="xccui" creationdate="20190730T045338Z">
+        <seg>此外，你还需要将YAML文件中的ImagePullPolicy设置为Never，以确保Minikube从自己的仓库中获取镜像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44330,8 +44330,8 @@
       <tuv lang="EN-US">
         <seg>The problem is that Minikube tries to fetch the custom image from a public Docker image registry instead of the local Docker registry of your machine.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T045005Z" creationid="xccui" creationdate="20190730T045005Z">
-        <seg>主要问题是Minikube会尝试从公共Docker镜像注册表而不是本地机器的Docker注册表获取自定义镜像。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062156Z" creationid="xccui" creationdate="20190730T045005Z">
+        <seg>主要问题是Minikube会尝试从公共Docker镜像仓库而不是本地机器的Docker仓库获取自定义镜像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60651,8 +60651,8 @@
       <tuv lang="EN-US">
         <seg>template files and configured required values, you can deploy the application to Kubernetes as before with kubectl:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T044605Z" creationid="xccui" creationdate="20190730T044605Z">
-        <seg>一旦将模板文件复制好并完成必要配置，你就可以像之前那样使用kubectl将应用部署到Kubernetes上：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062105Z" creationid="xccui" creationdate="20190730T044605Z">
+        <seg>一旦将模板文件复制好并完成必要配置，你就可以使用kubectl将应用部署到Kubernetes上：</seg>
       </tuv>
     </tu>
     <tu>
