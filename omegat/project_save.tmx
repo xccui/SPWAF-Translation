@@ -41186,8 +41186,8 @@
       <tuv lang="EN-US">
         <seg>The above command starts the application from the main() method of the class that is referenced in the program-class property of the JAR file’s META-INF/MANI‐ FEST.MF file without passing any arguments to the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T030338Z" creationid="xccui" creationdate="20190726T025302Z">
-        <seg>上述命令会从JAR包中META-INF/MANIFEST.MF文件内program-class属性所引用的main()方法启动应用，且不会向其传递任何参数。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T055312Z" creationid="xccui" creationdate="20190726T025302Z">
+        <seg>上述命令会从JAR包中META-INF/MANIFEST.MF文件内的program-class属性所引用的main()方法启动应用，且不会向其传递任何参数。</seg>
       </tuv>
     </tu>
     <tu>
