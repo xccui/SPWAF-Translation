@@ -9312,8 +9312,8 @@
       <tuv lang="EN-US">
         <seg>A savepoint is basically identical to a checkpoint—it is a consistent and complete snapshot of an application’s state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T165226Z" creationid="xccui" creationdate="20190726T014417Z">
-        <seg>保存点和检查点本质上类似，二者都是应用状态的一致性完整快照，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T054836Z" creationid="xccui" creationdate="20190726T014417Z">
+        <seg>保存点和检查点的本质相同，二者都是应用状态的一致性完整快照，</seg>
       </tuv>
     </tu>
     <tu>
