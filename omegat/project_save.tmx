@@ -25993,8 +25993,8 @@
       <tuv lang="EN-US">
         <seg>If you want to use a metrics backend that is not included in the above list, you can also define your own reporter by implementing the org.apache.flink.met‐ rics.reporter.MetricReporter interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190804T055722Z" creationid="xccui" creationdate="20190804T055722Z">
-        <seg>如果你想使用的指标后端没有在上表中列出，则可以通过实现org.apache.flink.metrics.reporter.MetricReporter接口来自定义汇报器。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T073920Z" creationid="xccui" creationdate="20190804T055722Z">
+        <seg>如果你想使用的指标汇报器没有在上表中列出，则可以通过实现org.apache.flink.metrics.reporter.MetricReporter接口来自定义汇报器。</seg>
       </tuv>
     </tu>
     <tu>
