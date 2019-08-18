@@ -15225,8 +15225,8 @@
       <tuv lang="EN-US">
         <seg>Con‐ sider a scenario where you detect a bug in your deployed application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T044430Z" creationid="xccui" creationdate="20190725T044430Z">
-        <seg>考虑这样一种场景——你在已部署的应用中发现一个Bug。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T044628Z" creationid="xccui" creationdate="20190725T044430Z">
+        <seg>考虑这样一种场景——你在已部署的应用中发现一个Bug，</seg>
       </tuv>
     </tu>
     <tu>
