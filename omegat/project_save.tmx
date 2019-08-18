@@ -21881,8 +21881,8 @@
       <tuv lang="EN-US">
         <seg>For all actions you want to apply to a running job, you need to provide a JobID that identifies the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T032838Z" creationid="xccui" creationdate="20190726T032838Z">
-        <seg>为了对正在运行的作业执行任何操作，你都需要提供一个用来指定应用的JobID。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T055602Z" creationid="xccui" creationdate="20190726T032838Z">
+        <seg>无论想对正在运行的作业执行任何操作，你都需要提供一个用来指定应用的JobID。</seg>
       </tuv>
     </tu>
     <tu>
