@@ -24617,8 +24617,8 @@
       <tuv lang="EN-US">
         <seg>However, the recommended approach is setting up and configuring a dedicated proxy service that controls access to the REST endpoint.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T035551Z" creationid="xccui" creationdate="20190725T035551Z">
-        <seg>但我们建议的方法是搭建和配置专用的代理服务来控制对于REST端点的访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T055957Z" creationid="xccui" creationdate="20190725T035551Z">
+        <seg>但我们建议的方法是搭建和配置专用的代理服务来控制对于REST服务端点的访问。</seg>
       </tuv>
     </tu>
     <tu>
