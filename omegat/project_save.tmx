@@ -8016,8 +8016,8 @@
       <tuv lang="EN-US">
         <seg>A Flink application that runs with fault tolerance enabled periodically takes a check‐ point of its state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T024541Z" creationid="xccui" creationdate="20190731T020419Z">
-        <seg>在启用容错功能的情况下，Flink会周期性地将应用状态存储检查点中。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062724Z" creationid="xccui" creationdate="20190731T020419Z">
+        <seg>在启用容错功能的情况下，Flink会周期性地将应用状态存储到检查点中。</seg>
       </tuv>
     </tu>
     <tu>
