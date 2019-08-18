@@ -35626,8 +35626,8 @@
       <tuv lang="EN-US">
         <seg>Reconfiguring, scaling, or updating a batch application can be done between executions, which is a lot easier than upgrading an application that is continuously ingesting, processing, and emit‐ ting data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T160831Z" creationid="xccui" creationdate="20190726T005656Z">
-        <seg>批处理应用的配置调整、扩缩容或更新可以在它执行间隙完成；而升级一个持续接收、处理数据，并发出结果的应用则要困难很多。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T045338Z" creationid="xccui" creationdate="20190726T005656Z">
+        <seg>批处理应用的配置调整、扩缩容或更新可以在它执行间隙完成；而升级一个持续接收、处理数据，并发出结果的流式应用则要困难很多。</seg>
       </tuv>
     </tu>
     <tu>
