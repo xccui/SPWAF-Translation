@@ -14417,8 +14417,8 @@
       <tuv lang="EN-US">
         <seg>Checkpointing can be an expensive operation since the amount of data that needs to be copied to a persistent storage can be quite large.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T024621Z" creationid="xccui" creationdate="20190731T025121Z">
-        <seg>由于在生成检查点时可能需要将大量数据写入持久化存储中，所以其代价可能非常昂贵</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062738Z" creationid="xccui" creationdate="20190731T025121Z">
+        <seg>由于在生成检查点时可能需要将大量数据写入持久化存储中，所以其代价可能非常昂贵。</seg>
       </tuv>
     </tu>
     <tu>
