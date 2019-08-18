@@ -30049,8 +30049,8 @@
       <tuv lang="EN-US">
         <seg>It can be accessed by users and scripts and provides access to all system and application metrics as well as endpoints to submit and manage appli‐ cations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T162420Z" creationid="xccui" creationdate="20190726T013818Z">
-        <seg>它可以供用户或脚本访问，还可用于获取所有系统及应用指标并作为提交和管理应用的端点。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T053840Z" creationid="xccui" creationdate="20190726T013818Z">
+        <seg>它可以供用户或脚本访问，还可用于获取所有系统及应用指标并作为提交和管理应用的服务端点。</seg>
       </tuv>
     </tu>
     <tu>
