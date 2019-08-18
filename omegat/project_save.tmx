@@ -40858,8 +40858,8 @@
       <tuv lang="EN-US">
         <seg>The REST API exposes endpoints to query information about a running cluster and to shut it down.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T043359Z" creationid="xccui" creationdate="20190729T043219Z">
-        <seg>REST API公开的一些端点可用来查询有关正在运行集群的信息或将其关闭。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T055933Z" creationid="xccui" creationdate="20190729T043219Z">
+        <seg>REST API公开的一些服务端点可用来查询有关正在运行集群的信息或将其关闭。</seg>
       </tuv>
     </tu>
     <tu>
