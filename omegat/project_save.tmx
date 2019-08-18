@@ -8504,8 +8504,8 @@
       <tuv lang="EN-US">
         <seg>A common example is invalid or corrupt input data the application is not able to handle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190801T152519Z" creationid="xingcan" creationdate="20190801T152519Z">
-        <seg>一个常见的例子是输入中出现了应用无法处理的无效或损坏数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T071656Z" creationid="xingcan" creationdate="20190801T152519Z">
+        <seg>一个常见的例子是输入中出现了应用无法处理的无效或已损坏数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16113,8 +16113,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the failure that caused an application to crash, the application could be killed by the same failure again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T040819Z" creationid="xingcan" creationdate="20190801T152035Z">
-        <seg>根据导致应用崩溃的故障，应用有可能会被相同的故障再次"杀死"。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T071647Z" creationid="xingcan" creationdate="20190801T152035Z">
+        <seg>对于部分导致应用崩溃的故障，应用有可能会被相同的故障再次"杀死"。</seg>
       </tuv>
     </tu>
     <tu>
