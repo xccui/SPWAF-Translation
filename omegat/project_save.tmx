@@ -11240,8 +11240,8 @@
       <tuv lang="EN-US">
         <seg>An operator inherits the slot-sharing group of its input operators if they are</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190731T015144Z" creationid="xccui" creationdate="20190731T014949Z">
-        <seg>如果一个算子所有输入都属于同一处理槽共享组，那么该算子也会将这个组继承；</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T062621Z" creationid="xccui" creationdate="20190731T014949Z">
+        <seg>如果一个算子所有输入都属于同一处理槽共享组，那么该算子也会继承这个组；</seg>
       </tuv>
     </tu>
     <tu>
