@@ -48354,8 +48354,8 @@
       <tuv lang="EN-US">
         <seg>To retrieve one or more metrics for a TaskManager, add the get query parameter with all the requested metrics to the request:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190729T044844Z" creationid="xccui" creationdate="20190729T044844Z">
-        <seg>为了得到一个或多个TaskManager指标，请将它们以get查询参数的形式加入到请求中：</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T061027Z" creationid="xccui" creationdate="20190729T044844Z">
+        <seg>为了得到一个或多个TaskManager指标，请将它们作为get查询参数加入到请求中：</seg>
       </tuv>
     </tu>
     <tu>
