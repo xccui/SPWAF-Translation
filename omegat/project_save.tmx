@@ -13473,8 +13473,8 @@
       <tuv lang="EN-US">
         <seg>But in practice you might want to partition a stream into multiple logical streams and define parallel windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T013841Z" creationid="xccui" creationdate="20190606T013841Z">
-        <seg>但在实际应用中，你可能会想将数据流划分为多条逻辑流并定义一些并行窗口（parallel window）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T172233Z" creationid="xccui" creationdate="20190606T013841Z">
+        <seg>但在实际应用中，你可能会想将数据流划分为多条逻辑流并定义一些并行窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27849,8 +27849,8 @@
       <tuv lang="EN-US">
         <seg>In our discussion about event-time windows so far, we have overlooked one very important aspect: how do we decide when to trigger an event-time window?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025229Z" creationid="xccui" creationdate="20190606T025229Z">
-        <seg>在到目前为止有关事件时间窗口的讨论中，我们一直忽略了一个非常重要的方面：如何决定触发事件时间窗口的时间？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T172322Z" creationid="xccui" creationdate="20190606T025229Z">
+        <seg>在到目前为止有关事件时间窗口的讨论中，我们一直忽略了一个非常重要的方面：怎样决定事件时间窗口的触发时机？</seg>
       </tuv>
     </tu>
     <tu>
