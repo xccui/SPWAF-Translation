@@ -24105,8 +24105,8 @@
       <tuv lang="EN-US">
         <seg>However, UNIX-based setups enjoy the richest tooling support because this environment is preferred by most Flink developers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T054143Z" creationid="xccui" creationdate="20190610T041004Z">
-        <seg>但基于类UNIX系统的设置会享有最丰富的工具支持，因为大多数Flink开发人员都偏爱这类环境。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T183658Z" creationid="xccui" creationdate="20190610T041004Z">
+        <seg>但基于类UNIX系统会享有最丰富的工具支持，因为大多数Flink开发人员都偏爱这类环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50482,8 +50482,8 @@
       <tuv lang="EN-US">
         <seg>We will be assuming a UNIX-based setup in the rest of this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T071854Z" creationid="xccui" creationdate="20190610T054905Z">
-        <seg>我们假设本章其余部分的设置都是基于类UNIX系统来完成。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T183724Z" creationid="xccui" creationdate="20190610T054905Z">
+        <seg>我们假设本章其余部分介绍的设置都是基于类UNIX系统来完成。</seg>
       </tuv>
     </tu>
     <tu>
