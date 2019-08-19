@@ -23201,8 +23201,8 @@
       <tuv lang="EN-US">
         <seg>Given the unpredictable reality of distributed systems and arbitrary delays that might be caused by external components, there are no categorically cor‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T025236Z" creationid="xccui" creationdate="20190606T025236Z">
-        <seg>鉴于分布式系统现实的不确定性以及外部组件可能引发任意延迟，这些问题没有绝对正确的答案。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T034453Z" creationid="xccui" creationdate="20190606T025236Z">
+        <seg>鉴于分布式系统现实的不确定性以及外部组件可能引发任意延迟，这些问题没有完美的答案。</seg>
       </tuv>
     </tu>
     <tu>
