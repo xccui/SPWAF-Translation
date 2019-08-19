@@ -10616,8 +10616,8 @@
       <tuv lang="EN-US">
         <seg>All started TaskManager processes register themselves at the active ResourceManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025708Z" creationid="xccui" creationdate="20190721T025708Z">
-        <seg>所有启动后的TaskManager进程都会将自己在活动的ResourceManager中注册。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T180238Z" creationid="xccui" creationdate="20190721T025708Z">
+        <seg>所有启动后的TaskManager进程都会将自己在主ResourceManager中注册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52507,8 +52507,8 @@
       <tuv lang="EN-US">
         <seg>YARN only counts the number of restarts due to application failures—restarts due to preemption, hardware failures, or reboots are not taken into account for the number of application attempts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T144947Z" creationid="xccui" creationdate="20190721T053201Z">
-        <seg>YARN只会计算因为应用故障导致重启的次数，而由于抢占、硬件故障或重启等因素导致的重启将不会算在应用尝试次数内。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T180254Z" creationid="xccui" creationdate="20190721T053201Z">
+        <seg>YARN只会计算因为应用故障导致重启的次数，而由于抢占、硬件故障或机器重启等因素导致的重启将不会算在应用尝试次数内。</seg>
       </tuv>
     </tu>
     <tu>
