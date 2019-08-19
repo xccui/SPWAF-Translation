@@ -20489,8 +20489,8 @@
       <tuv lang="EN-US">
         <seg>Flink can run on YARN in two modes: the job mode and the session mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T211227Z" creationid="xccui" creationdate="20190718T211227Z">
-        <seg>Flink能够以两种模式和YARN进行集成：作业模式和会话模式。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T173829Z" creationid="xccui" creationdate="20190718T211227Z">
+        <seg>Flink能够以两种模式和YARN进行集成：作业模式（job mode）和会话模式（session mode）。</seg>
       </tuv>
     </tu>
     <tu>
