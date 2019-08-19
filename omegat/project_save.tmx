@@ -20089,8 +20089,8 @@
       <tuv lang="EN-US">
         <seg>Finally, you can enable and configure local recovery for a Flink cluster by default.7 To enable local recovery, set the parameter state.backend.local-recovery to true.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T045102Z" creationid="xccui" creationdate="20190724T045102Z">
-        <seg>最后，你可以通过将参数state.backend.local-recovery设置true，来让Flink集群默认启用和配置本地恢复。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T182925Z" creationid="xccui" creationdate="20190724T045102Z">
+        <seg>最后，你可以通过将参数state.backend.local-recovery设置true，来让Flink集群默认启用和配置本地恢复。7</seg>
       </tuv>
     </tu>
     <tu>
