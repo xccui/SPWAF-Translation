@@ -31945,8 +31945,8 @@
       <tuv lang="EN-US">
         <seg>Modern stream processors, like Apache Flink, can offer latencies as low as a few milliseconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T193037Z" creationid="xccui" creationdate="20190401T192945Z">
-        <seg>像Apache Flink这样的现代流处理引擎可以提供低至几毫秒的延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T002827Z" creationid="xccui" creationdate="20190401T192945Z">
+        <seg>像Apache Flink这样的现代化流处理引擎可以提供低至几毫秒的延迟。</seg>
       </tuv>
     </tu>
     <tu>
