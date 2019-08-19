@@ -60067,8 +60067,8 @@
       <tuv lang="EN-US">
         <seg>running Flink on a cluster resource manager (YARN, Kubernetes, Mesos) makes it easy to spin up multiple TaskManagers (each with one slot) per compute node.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T155624Z" creationid="xccui" creationdate="20190723T062531Z">
-        <seg>因为基于资源管理框架（YARN、Kuberanetes、Mesos）运行Flink可以轻松在每个计算节点上启动多个（单处理槽的）TaskManager。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T180516Z" creationid="xccui" creationdate="20190723T062531Z">
+        <seg>因为基于资源管理框架（YARN、Kubernetes、Mesos）运行Flink可以轻松在每个计算节点上启动多个（单处理槽的）TaskManager。</seg>
       </tuv>
     </tu>
     <tu>
