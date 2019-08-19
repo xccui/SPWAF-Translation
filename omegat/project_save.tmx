@@ -20345,8 +20345,8 @@
       <tuv lang="EN-US">
         <seg>Flink Docker images are not part of the official Apache Flink release.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190718T042550Z" creationid="xccui" creationdate="20190718T042550Z">
-        <seg>因此你也可以使用非官方发布版的Apache Flink Docker镜像来提交应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T174903Z" creationid="xccui" creationdate="20190718T042550Z">
+        <seg>Flink Docker镜像并非Apache Flink发行版的一部分。</seg>
       </tuv>
     </tu>
     <tu>
