@@ -21497,8 +21497,8 @@
       <tuv lang="EN-US">
         <seg>Flink’s CLI client at ./bin/flink, manage running applications, or request information about the cluster or running applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T140838Z" creationid="xccui" creationdate="20190718T042807Z">
-        <seg>Flink的CLI（命令行界面）客户端位于./bin/flink，它可以用来管理当前正在运行的应用，也可以通过请求获取有关集群或当前运行应用的信息。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T174804Z" creationid="xccui" creationdate="20190718T042807Z">
+        <seg>因此你也可以使用Flink的CLI客户端（位于./bin/flink）提交应用，管理当前正在运行的应用，或通过请求得到有关集群或当前运行应用的信息。</seg>
       </tuv>
     </tu>
     <tu>
