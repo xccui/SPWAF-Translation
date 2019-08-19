@@ -26553,8 +26553,8 @@
       <tuv lang="EN-US">
         <seg>In a batch processing scenario, all these questions are answered because a batch job can be simply restarted from the beginning.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T191246Z" creationid="xccui" creationdate="20190606T033840Z">
-        <seg>在批处理场景下，上面提到的都不算问题。由于批处理任务可以轻易"从头再来"，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T035035Z" creationid="xccui" creationdate="20190606T033840Z">
+        <seg>在批处理场景下，上面提到的都算不上问题。由于批处理任务可以轻易"从头再来"，</seg>
       </tuv>
     </tu>
     <tu>
