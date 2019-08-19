@@ -11504,8 +11504,8 @@
       <tuv lang="EN-US">
         <seg>Another way to achieve equivalent functionality is using record acknowledgments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T173146Z" creationid="xccui" creationdate="20190606T034729Z">
-        <seg>实现该功能的另一个方法是记录确认（record acknowledgments）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T173254Z" creationid="xccui" creationdate="20190606T034729Z">
+        <seg>实现该功能的另一个方法是采用记录确认（record acknowledgments）。</seg>
       </tuv>
     </tu>
     <tu>
