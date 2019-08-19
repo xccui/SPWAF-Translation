@@ -12057,8 +12057,8 @@
       <tuv lang="EN-US">
         <seg>Arguably, we could use an external system to also manage streaming state, even though this design choice might introduce additional latency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T182838Z" creationid="xccui" creationdate="20190606T032201Z">
-        <seg>按理说，我们也可以使用外部系统来管理流处理过程中的状态，即便这样可能会引入额外延迟。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T172806Z" creationid="xccui" creationdate="20190606T032201Z">
+        <seg>按理说，我们也可以使用外部系统来管理流处理过程中的状态，只是这样可能会引入额外延迟。</seg>
       </tuv>
     </tu>
     <tu>
