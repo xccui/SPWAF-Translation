@@ -33153,8 +33153,8 @@
       <tuv lang="EN-US">
         <seg>Note that to be able to efficiently combine the current state with an event and produce a single value, the aggregation function must be associative and commuta‐ tive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061404Z" creationid="xccui" creationdate="20190606T011827Z">
-        <seg>注意，为了更有效地合并事件和当前状态并生成单个结果，聚合函数必须是可结合（associative）及可交换（commutative）的，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T033250Z" creationid="xccui" creationdate="20190606T011827Z">
+        <seg>注意，为了更有效地合并事件和当前状态并生成单个结果，聚合函数必须满足可结合（associative）及可交换（commutative）的条件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -48642,8 +48642,8 @@
       <tuv lang="EN-US">
         <seg>Transformation operations are single-pass operations that process each event inde‐ pendently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060526Z" creationid="xccui" creationdate="20190606T010742Z">
-        <seg>转换操作是一类"单向"操作，它们会独立处理每个事件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T033242Z" creationid="xccui" creationdate="20190606T010742Z">
+        <seg>转换操作是一类"单向"操作，它们会分别处理每个事件。</seg>
       </tuv>
     </tu>
     <tu>
