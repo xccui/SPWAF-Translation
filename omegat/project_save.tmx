@@ -11808,8 +11808,8 @@
       <tuv lang="EN-US">
         <seg>Apart from having a practical value, windows also enable semantically interesting queries on streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065640Z" creationid="xccui" creationdate="20190406T042112Z">
-        <seg>除了产生单个有用的结果，窗口操作还支持在数据流上完成一些语义方面很有价值的查询。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T033758Z" creationid="xccui" creationdate="20190406T042112Z">
+        <seg>除了产生单个有用的结果，窗口操作还支持在数据流上完成一些具有切实语义价值的查询。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29153,8 +29153,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we discuss window operations, which pro‐ vide this service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T062107Z" creationid="xccui" creationdate="20190606T012050Z">
-        <seg>在本节中，我们将讨论提供了此项功能的窗口操作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T033351Z" creationid="xccui" creationdate="20190606T012050Z">
+        <seg>本节我们将讨论提供了此项功能的窗口操作。</seg>
       </tuv>
     </tu>
     <tu>
