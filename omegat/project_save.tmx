@@ -20281,8 +20281,8 @@
       <tuv lang="EN-US">
         <seg>First, you can parti‐ tion your input data and have tasks of the same operation execute on the data subsets in parallel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T062642Z" creationid="xccui" creationdate="20190605T233227Z">
-        <seg>      首先，你可以将输入数据分组，让同一操作的多个任务并行执行在不同数据子集上，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T001015Z" creationid="xccui" creationdate="20190605T233227Z">
+        <seg>首先，你可以将输入数据分组，让同一操作的多个任务并行执行在不同数据子集上，</seg>
       </tuv>
     </tu>
     <tu>
