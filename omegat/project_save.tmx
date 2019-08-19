@@ -16953,8 +16953,8 @@
       <tuv lang="EN-US">
         <seg>Encryption and authentication for communication to queryable state is not sup‐ ported yet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T035813Z" creationid="xccui" creationdate="20190725T035813Z">
-        <seg>Flini暂不支持对于可查询式状态通信进行加密和身份验证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T183104Z" creationid="xccui" creationdate="20190725T035813Z">
+        <seg>Flink暂不支持对于可查询式状态通信进行加密和身份验证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22601,8 +22601,8 @@
       <tuv lang="EN-US">
         <seg>For internal communication (RPC calls, data transfer, and blob service communication to distribute libraries or other artifacts) all Flink processes (Dispatcher, ResourceMan‐ ager, JobManager, and TaskManager) perform mutual authentication— senders and receivers validate each other via an SSL certificate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T024542Z" creationid="xccui" creationdate="20190725T024315Z">
-        <seg>对于内部通信（RPC调用，数据传输，用以分发类库或其他工件（Artifact）的Blob服务通信），所有Flink进程（Dispatcher，ResourceManager，JobManager及TaskManager）都会相互验证身份——发送者和接受者需要利用SSL证书完成验证。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T183111Z" creationid="xccui" creationdate="20190725T024315Z">
+        <seg>对于内部通信（RPC调用，数据传输，用以分发类库或其他工件（Artifact）的Blob服务通信），所有Flink进程（Dispatcher、ResourceManager、JobManager及TaskManager）都会相互验证身份——发送者和接受者需要利用SSL证书完成验证。</seg>
       </tuv>
     </tu>
     <tu>
