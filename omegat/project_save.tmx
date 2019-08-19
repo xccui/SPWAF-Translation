@@ -34258,8 +34258,8 @@
       <tuv lang="EN-US">
         <seg>Operators that implement data ingestion logic are called data sources.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T005820Z" creationid="xccui" creationdate="20190606T005820Z">
-        <seg>实现数据接入操作逻辑的算子称为数据源（data source）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T032924Z" creationid="xccui" creationdate="20190606T005820Z">
+        <seg>实现数据接入操作逻辑的算子称为数据源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34282,8 +34282,8 @@
       <tuv lang="EN-US">
         <seg>Operators that perform data egress are called data sinks and examples include files, databases, message queues, and monitoring interfaces.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T060316Z" creationid="xccui" creationdate="20190606T010159Z">
-        <seg>负责数据输出的算子称为数据汇（data sink），其写入的目标可以是文件、数据库、消息队列以及监控接口等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T032933Z" creationid="xccui" creationdate="20190606T010159Z">
+        <seg>负责数据输出的算子称为数据汇，其写入的目标可以是文件、数据库、消息队列或监控接口等。</seg>
       </tuv>
     </tu>
     <tu>
