@@ -25057,8 +25057,8 @@
       <tuv lang="EN-US">
         <seg>If both tasks are located on the same physical machine (which is often ensured by task schedu‐ lers), this exchange strategy avoids network communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233415Z" creationid="xccui" creationdate="20190605T233415Z">
-        <seg>如果两端任务运行在同一物理机器上（通常由任务调度器保障），该交换策略可以避免网络通信。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T001312Z" creationid="xccui" creationdate="20190605T233415Z">
+        <seg>如果两端任务运行在同一物理机器上（通常由任务调度器决定），该交换策略可以避免网络通信。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42882,8 +42882,8 @@
       <tuv lang="EN-US">
         <seg>The forward strategy sends data from a task to a receiving task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T233408Z" creationid="xccui" creationdate="20190605T233408Z">
-        <seg>转发策略（forward strategy）在发送端任务和接收端任务之间进行一对一的数据传输。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T001307Z" creationid="xccui" creationdate="20190605T233408Z">
+        <seg>转发策略（forward strategy）在发送端任务和接收端任务之间一对一地进行数据传输。</seg>
       </tuv>
     </tu>
     <tu>
