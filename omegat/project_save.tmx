@@ -27265,8 +27265,8 @@
       <tuv lang="EN-US">
         <seg>In fact, that’s what happens when you exploit parallelism in a stream processing pipeline.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T235716Z" creationid="xccui" creationdate="20190605T235716Z">
-        <seg>事实上这就是在流处理管道中利用并行性实现的效果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T024222Z" creationid="xccui" creationdate="20190605T235716Z">
+        <seg>事实上这就是在流处理管道中利用并行实现的效果。</seg>
       </tuv>
     </tu>
     <tu>
