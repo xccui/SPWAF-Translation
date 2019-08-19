@@ -12705,8 +12705,8 @@
       <tuv lang="EN-US">
         <seg>At this point, you might be wondering why we would even bother with processing time if event time solves all of our problems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T180343Z" creationid="xccui" creationdate="20190606T030452Z">
-        <seg>此刻你可能会有些疑惑：既然事件时间能够解决所有问题，为何还要去操心处理时间？</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T034651Z" creationid="xccui" creationdate="20190606T030452Z">
+        <seg>此刻你可能心存疑惑：既然事件时间能够解决所有问题，为何还要去管处理时间？</seg>
       </tuv>
     </tu>
     <tu>
