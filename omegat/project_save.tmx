@@ -52707,8 +52707,8 @@
       <tuv lang="EN-US">
         <seg>You can also specify a minimum (taskmanager.network.memory.min) and a maxi‐ mum (taskmanager.network.memory.max) amount of memory that is used for net‐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T041157Z" creationid="xccui" creationdate="20190724T041054Z">
-        <seg>你也可以指定一个用于网络缓冲区的最小（taskmanager.network.meamory.min）和最大（taskmanager.network.memory.max）内存量（二者的默认值分别是64MB和1G），从而可以为上述的相对配置加上绝对限制。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T182733Z" creationid="xccui" creationdate="20190724T041054Z">
+        <seg>你也可以指定一个用于网络缓冲区的最小（taskmanager.network.memory.min）和最大（taskmanager.network.memory.max）内存量（二者的默认值分别是64MB和1GB），从而可以为上述的相对配置加上绝对限制。</seg>
       </tuv>
     </tu>
     <tu>
