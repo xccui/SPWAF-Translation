@@ -47666,8 +47666,8 @@
       <tuv lang="EN-US">
         <seg>Thus, the latency is bounded by the arrival time of the last event in each batch and naturally depends on the batch size.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T200248Z" creationid="xccui" creationdate="20190401T193810Z">
-        <seg>因此处理延迟受制于每个批次最迟事件的时间，且天然依赖批次大小。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T002914Z" creationid="xccui" creationdate="20190401T193810Z">
+        <seg>因此处理延迟受制于每个批次最迟事件的时间，且天然受到批次大小的影响。</seg>
       </tuv>
     </tu>
     <tu>
