@@ -21913,8 +21913,8 @@
       <tuv lang="EN-US">
         <seg>For appli‐ cations with several partitioning steps, this quadratic dependency can quickly sum up to a significant amount of memory that is required for network transfer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190724T035645Z" creationid="xccui" creationdate="20190724T035645Z">
-        <seg>而对于包含多次分区的应用，这样的平方依赖会很快占用大量的网络传输内存。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T182712Z" creationid="xccui" creationdate="20190724T035645Z">
+        <seg>而对于包含多次分区的应用，这种乘积依赖关系会迅速导致网络传输内存被大量占用。</seg>
       </tuv>
     </tu>
     <tu>
