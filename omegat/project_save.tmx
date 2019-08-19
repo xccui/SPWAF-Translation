@@ -10664,8 +10664,8 @@
       <tuv lang="EN-US">
         <seg>All the window types that you have seen so far are windows that operate on the full stream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063859Z" creationid="xccui" creationdate="20190606T013831Z">
-        <seg>迄今为止你所见到的所有窗口都是基于全流数据的全局窗口（global window）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T172138Z" creationid="xccui" creationdate="20190606T013831Z">
+        <seg>迄今为止你所见到的所有窗口都是基于全局流数据的窗口。</seg>
       </tuv>
     </tu>
     <tu>
