@@ -32713,8 +32713,8 @@
       <tuv lang="EN-US">
         <seg>Next, you learned the requirements of pro‐ cessing infinite streams in parallel and saw the importance of latency and throughput for stream applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T194946Z" creationid="xccui" creationdate="20190606T040339Z">
-        <seg>接下来，你学习了的并行处理无限流的需求，了解了延迟和吞吐对于流式应用的重要性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T172815Z" creationid="xccui" creationdate="20190606T040339Z">
+        <seg>接下来，你学习了并行处理无限流的需求，了解了延迟和吞吐对于流式应用的重要性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49874,8 +49874,8 @@
       <tuv lang="EN-US">
         <seg>We covered basic streaming operations and how to compute meaningful results on unbounded input data using windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T040418Z" creationid="xccui" creationdate="20190606T040418Z">
-        <seg>章节还涵盖了基本的流式操作以及如何利用窗口在无限输入上计算出有意义的结果。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T172837Z" creationid="xccui" creationdate="20190606T040418Z">
+        <seg>本章还涵盖了基本的流式操作以及如何利用窗口在无限输入上计算出有意义的结果。</seg>
       </tuv>
     </tu>
     <tu>
