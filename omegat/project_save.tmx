@@ -53427,8 +53427,8 @@
       <tuv lang="EN-US">
         <seg>You should now be able to browse and inspect the code of the book exam‐ ples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190611T041822Z" creationid="xccui" creationdate="20190611T041759Z">
-        <seg>你现在应该就能浏览和研究书中示例的源码了。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T183806Z" creationid="xccui" creationdate="20190611T041759Z">
+        <seg>你现在应该就能浏览和研究书中的示例源码了。</seg>
       </tuv>
     </tu>
     <tu>
