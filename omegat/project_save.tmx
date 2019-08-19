@@ -34906,8 +34906,8 @@
       <tuv lang="EN-US">
         <seg>Policies can be based on time (e.g., events received in the last five seconds), on count (e.g., the last one hundred events), or on a data property.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063250Z" creationid="xccui" creationdate="20190606T012927Z">
-        <seg>策略的指定可以基于时间（例如：最近5秒钟接收的事件）、数量（例如：最新100个事件）或其他数据属性。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T033845Z" creationid="xccui" creationdate="20190606T012927Z">
+        <seg>策略的指定可以基于时间（例如最近5秒钟接收的事件）、数量（例如最新100个事件）或其他数据属性。</seg>
       </tuv>
     </tu>
     <tu>
