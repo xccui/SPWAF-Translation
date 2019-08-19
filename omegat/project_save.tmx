@@ -10560,8 +10560,8 @@
       <tuv lang="EN-US">
         <seg>All processes are manually started, and there is no component that monitors these processes and restarts them in case of a failure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190721T025125Z" creationid="xccui" creationdate="20190721T025125Z">
-        <seg>所有进程都是手动启动，不存在用于监视和在它们发生故障时将其重启的组件。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T180044Z" creationid="xccui" creationdate="20190721T025125Z">
+        <seg>所有进程都是手动启动，没有一个用于监控或在它们发生故障时将其重启的组件。</seg>
       </tuv>
     </tu>
     <tu>
