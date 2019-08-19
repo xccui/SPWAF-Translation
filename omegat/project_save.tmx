@@ -50082,8 +50082,8 @@
       <tuv lang="EN-US">
         <seg>We discuss the semantics of all operators available in Flink in Chapter 5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061013Z" creationid="xccui" creationdate="20190606T011752Z">
-        <seg>我们将在第5章讨论Flink中每个算子的语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T033057Z" creationid="xccui" creationdate="20190606T011752Z">
+        <seg>我们将在第5章讨论Flink中不同算子的语义。</seg>
       </tuv>
     </tu>
     <tu>
