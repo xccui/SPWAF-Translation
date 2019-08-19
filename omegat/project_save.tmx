@@ -32649,8 +32649,8 @@
       <tuv lang="EN-US">
         <seg>Next, we describe the semantics of common window types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T012953Z" creationid="xccui" creationdate="20190606T012936Z">
-        <seg>接下来我们将介绍常见窗口类型的语义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T033932Z" creationid="xccui" creationdate="20190606T012936Z">
+        <seg>我们会在接下来介绍常见窗口类型的语义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37858,8 +37858,8 @@
       <tuv lang="EN-US">
         <seg>Sliding windows assign events into overlapping buckets of fixed size.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T063526Z" creationid="xccui" creationdate="20190606T013132Z">
-        <seg>滑动窗口（sliding window）将事件分配到大小固定且（允许）相互重叠的桶中，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T034019Z" creationid="xccui" creationdate="20190606T013132Z">
+        <seg>滑动窗口（sliding window）将事件分配到大小固定且允许相互重叠的桶中，</seg>
       </tuv>
     </tu>
     <tu>
