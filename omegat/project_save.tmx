@@ -43546,8 +43546,8 @@
       <tuv lang="EN-US">
         <seg>The main takeaway here is that lowering latency increases throughput.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T054722Z" creationid="xccui" creationdate="20190605T235620Z">
-        <seg>此处的要点就是：降低延迟实际上可以提高吞吐。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T024201Z" creationid="xccui" creationdate="20190605T235620Z">
+        <seg>这里的要点就是：降低延迟实际上可以提高吞吐。</seg>
       </tuv>
     </tu>
     <tu>
