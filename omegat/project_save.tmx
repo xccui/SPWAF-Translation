@@ -14337,8 +14337,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 8 presents Flink’s most commonly used source and sink connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190816T150538Z" creationid="esouser" creationdate="20190603T162256Z">
-        <seg>第8章介绍Flink中最常用的数据源（source）和数据汇（sink）连接器，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T024455Z" creationid="esouser" creationdate="20190603T162256Z">
+        <seg>第8章介绍Flink中最常用的数据源（data source）和数据汇（data sink）连接器，</seg>
       </tuv>
     </tu>
     <tu>
