@@ -17017,8 +17017,8 @@
       <tuv lang="EN-US">
         <seg>Ensuring low latency is critical for many streaming applications, such as fraud detec‐ tion, system alarms, network monitoring, and offering services with strict service- level agreements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T234228Z" creationid="xccui" creationdate="20190605T234208Z">
-        <seg>保证低延迟对很多流式应用而言至关重要，例如：诈骗识别、系统告警、网络监测以及遵循服务级别协议（SLA）的服务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T022856Z" creationid="xccui" creationdate="20190605T234208Z">
+        <seg>保证低延迟对很多流式应用（例如：诈骗识别、系统告警、网络监测以及遵循服务级别协议（SLA）的服务）而言至关重要。</seg>
       </tuv>
     </tu>
     <tu>
