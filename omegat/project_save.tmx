@@ -21921,8 +21921,8 @@
       <tuv lang="EN-US">
         <seg>For batch applications, we usually care about the total execution time of a job, or how long it takes for our processing engine to read the input, perform the computation, and write back the result.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050454Z" creationid="xccui" creationdate="20190401T150338Z">
-        <seg>对批处理应用而言，我们通常会关心作业的总执行时间，或者说处理引擎读取输入、执行计算、写回结果共需多长时间。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T001709Z" creationid="xccui" creationdate="20190401T150338Z">
+        <seg>对批处理应用而言，我们通常会关心作业的总执行时间，或者说处理引擎读取输入、执行计算、写回结果总共需要多长时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26361,8 +26361,8 @@
       <tuv lang="EN-US">
         <seg>In Chapter 1, you learned that streaming applications have different operational requirements than traditional batch programs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T050310Z" creationid="xccui" creationdate="20190605T233716Z">
-        <seg>在第一章，你已经了解到流式应用和传统批处理程序在操作的需求上有所差异，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T001632Z" creationid="xccui" creationdate="20190605T233716Z">
+        <seg>在第一章，你已经了解到流式应用和传统批处理程序在操作需求上有所差异，</seg>
       </tuv>
     </tu>
     <tu>
