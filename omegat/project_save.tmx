@@ -43202,8 +43202,8 @@
       <tuv lang="EN-US">
         <seg>The importance of state becomes even more evident if we consider the case of using a batch processing system to analyze an unbounded dataset.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T031746Z" creationid="xccui" creationdate="20190606T031623Z">
-        <seg>在使用批处理系统分析有限数据集的情况下，状态的重要性会越发凸显。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T034904Z" creationid="xccui" creationdate="20190606T031623Z">
+        <seg>在使用批处理系统分析无界数据集的情况下，状态的重要性会越发凸显。</seg>
       </tuv>
     </tu>
     <tu>
