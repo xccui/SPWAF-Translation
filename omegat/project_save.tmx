@@ -32273,8 +32273,8 @@
       <tuv lang="EN-US">
         <seg>Moreover, the deployment also opens a few ports and passes the service name of the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T143655Z" creationid="xccui" creationdate="20190720T031624Z">
-        <seg>此外，该Deployment也会开启几个端口，并传入Flink主进程Deployment的信息，以便工作进程对主进程进行访问。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T175521Z" creationid="xccui" creationdate="20190720T031624Z">
+        <seg>此外，该Deployment也会开启几个端口，并传入Flink主进程Deployment的Service名称，以便工作进程对主进程进行访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52803,8 +52803,8 @@
       <tuv lang="EN-US">
         <seg>You can create a Flink deployment for Kubernetes by storing each definition in a sep‐ arate file, such as master-deployment.yaml, worker-deployment.yaml, or master- service.yaml.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190720T033302Z" creationid="xccui" creationdate="20190720T033302Z">
-        <seg>为了创建Flink的Kubernetes Deployment，你可以将每个定义单独存为一个文件，例如master-deployment.yaml，worker-deployment.yaml或master-service.yaml。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190819T175523Z" creationid="xccui" creationdate="20190720T033302Z">
+        <seg>为了创建Flink的Kubernetes Deployment，你可以将每个定义单独存为一个文件，例如master-deployment.yaml、worker-deployment.yaml或master-service.yaml。</seg>
       </tuv>
     </tu>
     <tu>
