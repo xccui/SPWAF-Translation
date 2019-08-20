@@ -61531,8 +61531,8 @@
       <tuv lang="EN-US">
         <seg>user@flink.apache.org : user support and questions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T040456Z" creationid="xccui" creationdate="20190807T040456Z">
-        <seg>user@flink.apache.org：用户支持和问题提问</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T181420Z" creationid="xccui" creationdate="20190807T040456Z">
+        <seg>user@flink.apache.org：用户支持和问题提问（译者注：社区还开通了中文用户邮件列表user-zh@flink.apache.org）</seg>
       </tuv>
     </tu>
     <tu>
