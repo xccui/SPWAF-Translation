@@ -11472,8 +11472,8 @@
       <tuv lang="EN-US">
         <seg>Another problem source functions have to deal with are instances that become idle and do not emit anymore data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T200059Z" creationid="xccui" creationdate="20190713T042254Z">
-        <seg>数据源函数面临的另一个问题是实例空闲下来后不会再发出数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T200215Z" creationid="xccui" creationdate="20190713T042254Z">
+        <seg>数据源函数面临的另一个问题是实例空闲下来后就不再发出任何数据。</seg>
       </tuv>
     </tu>
     <tu>
