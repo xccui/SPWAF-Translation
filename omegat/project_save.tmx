@@ -55123,8 +55123,8 @@
       <tuv lang="EN-US">
         <seg>course, quite inefficient and should be avoided.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212347Z" creationid="xccui" creationdate="20190716T212236Z">
-        <seg>这会非常耗时，需要在实际应用中避免。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T202419Z" creationid="xccui" creationdate="20190716T212236Z">
+        <seg>这会非常耗时，在实际应用中需要避免。</seg>
       </tuv>
     </tu>
     <tu>
