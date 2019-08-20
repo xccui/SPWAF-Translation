@@ -27753,8 +27753,8 @@
       <tuv lang="EN-US">
         <seg>In order to satisfy the requirements for task chaining, two or more operators must be configured with the same parallelism and connected by local forward channels.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T172102Z" creationid="xccui" creationdate="20190606T203255Z">
-        <seg>任务链接的前提条件是，多个算子必须有相同的并行度且通过本地转发方式相连。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T172207Z" creationid="xccui" creationdate="20190606T203255Z">
+        <seg>任务链接的前提条件是，多个算子必须有相同的并行度且通过本地转发通道（译者注：forward）相连。</seg>
       </tuv>
     </tu>
     <tu>
