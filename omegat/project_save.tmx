@@ -20977,8 +20977,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides a mechanism to avoid such situations by marking source functions as temporarily idle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043818Z" creationid="xccui" creationdate="20190713T043818Z">
-        <seg>为了避免该情况，Flink提供了一个机制，可以将数据源函数标记为暂时空闲。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T195148Z" creationid="xccui" creationdate="20190713T043818Z">
+        <seg>为此，Flink提供了一个机制，可以将数据源函数标记为暂时空闲。</seg>
       </tuv>
     </tu>
     <tu>
