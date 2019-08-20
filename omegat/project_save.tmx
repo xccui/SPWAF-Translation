@@ -16641,8 +16641,8 @@
       <tuv lang="EN-US">
         <seg>Each TaskManager has a pool of network buffers (by default 32 KB in size) to send and receive data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T191455Z" creationid="xccui" creationdate="20190606T195742Z">
-        <seg>每个TaskManager都有一个用于收发数据的网络缓冲池（默认32KB大小）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T171518Z" creationid="xccui" creationdate="20190606T195742Z">
+        <seg>每个TaskManager都有一个用于收发数据的网络缓冲池（每个缓冲默认32KB大小）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19369,8 +19369,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3-4 shows this architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T200550Z" creationid="xccui" creationdate="20190606T200545Z">
-        <seg>图3-4展示了这一架构.</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T171615Z" creationid="xccui" creationdate="20190606T200545Z">
+        <seg>图3-4展示了这一架构。</seg>
       </tuv>
     </tu>
     <tu>
