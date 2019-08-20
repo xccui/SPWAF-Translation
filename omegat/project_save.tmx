@@ -11472,8 +11472,8 @@
       <tuv lang="EN-US">
         <seg>Another problem source functions have to deal with are instances that become idle and do not emit anymore data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T195921Z" creationid="xccui" creationdate="20190713T042254Z">
-        <seg>数据源函数面临的另一个问题是实例空闲下来不再发出数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T200059Z" creationid="xccui" creationdate="20190713T042254Z">
+        <seg>数据源函数面临的另一个问题是实例空闲下来后不会再发出数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46594,8 +46594,8 @@
       <tuv lang="EN-US">
         <seg>This can be very problematic, because it may prevent the whole application from advancing its watermarks and hence lead to a stalling application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T195426Z" creationid="xccui" creationdate="20190713T042614Z">
-        <seg>该行为可能会导致严重后果，因为它有可能会阻碍全局水位线的前进，继而使应用停止工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T195952Z" creationid="xccui" creationdate="20190713T042614Z">
+        <seg>该行为可能会产生严重后果，因为它有可能会阻碍全局水位线的前进，继而导致应用停止工作。</seg>
       </tuv>
     </tu>
     <tu>
