@@ -26657,8 +26657,8 @@
       <tuv lang="EN-US">
         <seg>In addition to record timestamps, a Flink event-time application must also provide watermarks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190523T040914Z" creationid="xccui" creationdate="20190523T040914Z">
-        <seg>除了记录的时间戳，Flink基于事件时间的应用还必须提供水位线。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T171010Z" creationid="xccui" creationdate="20190523T040914Z">
+        <seg>除了记录的时间戳，Flink基于事件时间的应用还必须提供水位线（watermark）。</seg>
       </tuv>
     </tu>
     <tu>
