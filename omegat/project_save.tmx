@@ -60139,8 +60139,8 @@
       <tuv lang="EN-US">
         <seg>setClusterBuilder(ClusterBuilder): The ClusterBuilder builds a Cassandra Cluster that manages the connection to Cassandra.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T221334Z" creationid="xccui" creationdate="20190711T221334Z">
-        <seg>setClusterBuilder(ClusterBuilder)：ClusterBuilder可以构建一个Cassandra Cluster，用以管理和Cassandra的连接。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T173049Z" creationid="xccui" creationdate="20190711T221334Z">
+        <seg>setClusterBuilder(ClusterBuilder)：ClusterBuilder可以构建一个Cassandra Cluster对象，用以管理和Cassandra的连接。</seg>
       </tuv>
     </tu>
     <tu>
