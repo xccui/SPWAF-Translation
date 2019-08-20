@@ -52987,8 +52987,8 @@
       <tuv lang="EN-US">
         <seg>You can look up its implementation in the repository that contains the examples of the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T201851Z" creationid="xccui" creationdate="20190715T063821Z">
-        <seg>你可以到本书示例代码库中找到该类具体实现。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T201916Z" creationid="xccui" creationdate="20190715T063821Z">
+        <seg>你可以到本书示例代码库中找到该类的具体实现。</seg>
       </tuv>
     </tu>
     <tu>
