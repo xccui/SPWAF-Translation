@@ -11912,8 +11912,8 @@
       <tuv lang="EN-US">
         <seg>Applications consume the results by merging approximated results from the speed table and the accurate results from the batch table.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190605T052646Z" creationid="xccui" creationdate="20190605T052414Z">
-        <seg>为了获取最终结果，应用需要将"提速表"中的近似结果以及批处理表中的精确结果合并。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T010052Z" creationid="xccui" creationdate="20190605T052414Z">
+        <seg>为了获取最终结果，应用需要将"提速表"中的近似结果和批处理表中的精确结果合并。</seg>
       </tuv>
     </tu>
     <tu>
