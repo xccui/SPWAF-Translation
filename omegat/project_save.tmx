@@ -21177,8 +21177,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides two building blocks to implement transactional sink connectors—a generic write-ahead-log (WAL) sink and a two-phase-commit (2PC) sink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T161602Z" creationid="xccui" creationdate="20190708T074124Z">
-        <seg>Flink提供了两个构件来实现事务性的数据汇连接器——通用的WAL（write-ahead-log，写前日志）数据汇以及一个2PC（two-phase-commit，两阶段提交）数据汇。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T172937Z" creationid="xccui" creationdate="20190708T074124Z">
+        <seg>Flink提供了两个构件来实现事务性的数据汇连接器——通用的WAL（write-ahead log，写前日志）数据汇以及一个2PC（two-phase commit，两阶段提交）数据汇。</seg>
       </tuv>
     </tu>
     <tu>
