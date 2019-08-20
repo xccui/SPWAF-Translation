@@ -41442,8 +41442,8 @@
       <tuv lang="EN-US">
         <seg>The asyncInvoke() method of DerbyAsyncFunction in Example 8-17 wraps the blocking JDBC query in a Future, which is executed via CachedThreadPool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T212123Z" creationid="xccui" creationdate="20190716T212123Z">
-        <seg>示例8-17中DerbyAsyncFunction的asyncInvoke()方法将阻塞式的JDBC查询包在Future对象中，后者会通过CachedThreadPool来执行。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T202400Z" creationid="xccui" creationdate="20190716T212123Z">
+        <seg>示例8-17中DerbyAsyncFunction的asyncInvoke()方法将阻塞式的JDBC查询封装在Future对象中，后者会通过CachedThreadPool来执行。</seg>
       </tuv>
     </tu>
     <tu>
