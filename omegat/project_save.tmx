@@ -39762,8 +39762,8 @@
       <tuv lang="EN-US">
         <seg>Thanks to the built-in logic of GenericWriteAheadSink, it is not difficult to imple‐ ment a sink that leverages a WAL.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T060707Z" creationid="xccui" creationdate="20190715T060707Z">
-        <seg>多亏了GenericWriteAheadSink的内部逻辑才让我们可以相对容易地实现基于WAL的数据汇。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T201418Z" creationid="xccui" creationdate="20190715T060707Z">
+        <seg>GenericWriteAheadSink完善的内部逻辑使得我们可以相对容易地实现基于WAL的数据汇。</seg>
       </tuv>
     </tu>
     <tu>
