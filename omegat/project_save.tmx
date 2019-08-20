@@ -61059,8 +61059,8 @@
       <tuv lang="EN-US">
         <seg>timeout.9 Hence, it does not offer definitive exactly-once guarantees even though it implements the TwoPhaseCommitSinkFunction interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T061400Z" creationid="xccui" creationdate="20190716T061400Z">
-        <seg>因此它即便实现了TwoPhaseCommitSinkFunction类，也无法完美地提供精确一次的保障。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T202325Z" creationid="xccui" creationdate="20190716T061400Z">
+        <seg>因此即便它实现了TwoPhaseCommitSinkFunction类，也无法完美地提供精确一次的保障。</seg>
       </tuv>
     </tu>
     <tu>
