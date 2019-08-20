@@ -24849,8 +24849,8 @@
       <tuv lang="EN-US">
         <seg>However, you should be aware that failure scenarios exist in which a write-ahead log sink emits</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T042955Z" creationid="xccui" creationdate="20190715T042845Z">
-        <seg>然而你要明白，WAL所支撑的数据汇在某些极端情况下可能会将记录写出多次。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T200535Z" creationid="xccui" creationdate="20190715T042845Z">
+        <seg>然而，WAL所支撑的数据汇在某些极端情况下可能会将记录写出多次。</seg>
       </tuv>
     </tu>
     <tu>
