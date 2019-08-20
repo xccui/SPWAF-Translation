@@ -44098,8 +44098,8 @@
       <tuv lang="EN-US">
         <seg>The original goals of this architecture were to improve the high result latency of the original batch analytics architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190701T193729Z" creationid="xccui" creationdate="20190605T052749Z">
-        <seg>它的最初目标是改善原始批量分析架构中结果的高延迟问题，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T010504Z" creationid="xccui" creationdate="20190605T052749Z">
+        <seg>它最初是以改善原始批量分析架构中结果的高延迟为目标，</seg>
       </tuv>
     </tu>
     <tu>
