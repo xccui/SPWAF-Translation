@@ -30689,8 +30689,8 @@
       <tuv lang="EN-US">
         <seg>It uses FileCheckpointCommitter, which we do not discuss here.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T063645Z" creationid="xccui" creationdate="20190715T063645Z">
-        <seg>它用到的FileCheckpointCommitter我们不在此讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T201845Z" creationid="xccui" creationdate="20190715T063645Z">
+        <seg>它内部使用了FileCheckpointCommitter，我们在此不对其进行讨论。</seg>
       </tuv>
     </tu>
     <tu>
