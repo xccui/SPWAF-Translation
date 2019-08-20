@@ -51835,8 +51835,8 @@
       <tuv lang="EN-US">
         <seg>Whenever an idempotent sink connector is not suitable, either the characteristics of the application’s output, the properties of the required sink system, or due to stricter consistency requirements, transactional sink connectors can be an alternative.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T200435Z" creationid="xccui" creationdate="20190715T033842Z">
-        <seg>无论是因为幂等性数据汇不适用于应用的输出特性或所需数据汇系统属性，还是出于更严格的一致性要求，我们都可以选择事务性数据汇连接器作为替代方案。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T200451Z" creationid="xccui" creationdate="20190715T033842Z">
+        <seg>无论是因为幂等性数据汇不适用于应用的输出特性或所需数据汇的系统属性，还是出于更严格的一致性要求，我们都可以选择事务性数据汇连接器作为替代方案。</seg>
       </tuv>
     </tu>
     <tu>
