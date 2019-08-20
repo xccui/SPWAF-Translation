@@ -11472,8 +11472,8 @@
       <tuv lang="EN-US">
         <seg>Another problem source functions have to deal with are instances that become idle and do not emit anymore data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T042254Z" creationid="xccui" creationdate="20190713T042254Z">
-        <seg>数据源函数要面对的另一个问题是那些空闲下来不再发出数据的实例。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T195107Z" creationid="xccui" creationdate="20190713T042254Z">
+        <seg>数据源函数要面对的另一个问题是示例空闲下来不再发出数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25905,8 +25905,8 @@
       <tuv lang="EN-US">
         <seg>If you look at how Flink propagates and updates watermarks (see “Watermark Propagation and Event Time”), you can see that a single operator that does not advance watermarks can grind all watermarks of an</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190713T043657Z" creationid="xccui" creationdate="20190713T043037Z">
-        <seg>你如果了解了Flink的水位线传播和更新原理就会发现，一旦应用中引入了Shuffle操作（keyBy()和rebalance()等），那么单个算子水位线的停滞就将导致整个应用都停止工作。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T195127Z" creationid="xccui" creationdate="20190713T043037Z">
+        <seg>你如果了解了Flink的水位线传播和更新原理就会发现，一旦应用中引入了Shuffle操作（keyBy()和rebalance()等），单个算子水位线的停滞就将导致整个应用都停止工作。</seg>
       </tuv>
     </tu>
     <tu>
