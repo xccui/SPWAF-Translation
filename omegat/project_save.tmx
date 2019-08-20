@@ -20585,8 +20585,8 @@
       <tuv lang="EN-US">
         <seg>Flink encodes timestamps as 16-byte Long values and attaches them as metadata to records.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T064555Z" creationid="xccui" creationdate="20190606T204939Z">
-        <seg>Flink内部采用16字节的Long值对时间戳进行编码，并将它们以元数据（metadata）的形式附加在记录上。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T171349Z" creationid="xccui" creationdate="20190606T204939Z">
+        <seg>Flink内部采用8字节的Long值对时间戳进行编码，并将它们以元数据（metadata）的形式附加在记录上。</seg>
       </tuv>
     </tu>
     <tu>
