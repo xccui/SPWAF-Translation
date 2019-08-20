@@ -43410,8 +43410,8 @@
       <tuv lang="EN-US">
         <seg>The lambda architecture is no longer state of the art, but is still used in many places.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T163047Z" creationid="xccui" creationdate="20190605T052742Z">
-        <seg>虽然Lambda架构已经算不上最先进，但应用仍然非常广泛。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T010133Z" creationid="xccui" creationdate="20190605T052742Z">
+        <seg>虽然Lambda架构已经算不上最先进，但仍然有着非常广泛的应用。</seg>
       </tuv>
     </tu>
     <tu>
