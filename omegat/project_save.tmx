@@ -23745,8 +23745,8 @@
       <tuv lang="EN-US">
         <seg>Hence, the sink should be able to write to the sink system, but the written data must not be made visible to the outside before it is committed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190716T024605Z" creationid="xccui" creationdate="20190715T213707Z">
-        <seg>如果是后者，数据汇需要能向外部系统写入数据，但在正式提交之前，这些数据不能对外可见。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T202108Z" creationid="xccui" creationdate="20190715T213707Z">
+        <seg>如果是后者，数据汇需要能向外部系统写入数据，但在正式提交之前，这些数据对外不可见。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44858,8 +44858,8 @@
       <tuv lang="EN-US">
         <seg>The sink task must not yet commit the transac‐ tion, because it is not guaranteed that all tasks of the job will complete their check‐ points.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T212112Z" creationid="xccui" creationdate="20190715T210205Z">
-        <seg>由于数据汇任务此时还不能保证所有作业任务都可以顺利完成检查点工作，所以它暂时无法提交事务，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T202036Z" creationid="xccui" creationdate="20190715T210205Z">
+        <seg>由于数据汇任务此时还不能保证所有作业任务都可以顺利完成检查点工作，所以它暂时无法提交事务。</seg>
       </tuv>
     </tu>
     <tu>
