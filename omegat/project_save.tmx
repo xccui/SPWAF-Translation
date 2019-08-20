@@ -44850,8 +44850,8 @@
       <tuv lang="EN-US">
         <seg>The sink task also starts a new transaction for all records that arrive before the next checkpoint barrier.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190715T212123Z" creationid="xccui" creationdate="20190715T210500Z">
-        <seg>而同时，它还会为在下一个检查点分隔符之前到来的所有记录开启一个新的事务。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T202012Z" creationid="xccui" creationdate="20190715T210500Z">
+        <seg>同时，它还会为在下一个检查点分隔符之前到来的所有记录开启一个新的事务。</seg>
       </tuv>
     </tu>
     <tu>
