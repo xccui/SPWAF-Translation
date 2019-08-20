@@ -35602,8 +35602,8 @@
       <tuv lang="EN-US">
         <seg>Rebalance and rescale transformations Broadcast</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190616T045642Z" creationid="xccui" creationdate="20190616T045642Z">
-        <seg>随机和重调转换 广播</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T073306Z" creationid="xccui" creationdate="20190616T045642Z">
+        <seg>轮流和重调转换 广播</seg>
       </tuv>
     </tu>
     <tu>
