@@ -40602,8 +40602,8 @@
       <tuv lang="EN-US">
         <seg>The JobManager is the master process that controls the execution of a single application—each application is controlled by a different JobManager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190717T163019Z" creationid="xccui" creationdate="20190606T141505Z">
-        <seg>作为主进程（master process），JobManager控制着单个应用的执行。换句话说，每个应用都由一个不同的JobManager掌控。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T165201Z" creationid="xccui" creationdate="20190606T141505Z">
+        <seg>作为主进程（master process），JobManager控制着单个应用程序的执行。换句话说，每个应用都由一个不同的JobManager掌控。</seg>
       </tuv>
     </tu>
     <tu>
