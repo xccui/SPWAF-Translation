@@ -28433,8 +28433,8 @@
       <tuv lang="EN-US">
         <seg>In the following, we present three classes of applications that are commonly implemented using stateful stream processing: (1) event-driven applications, (2) data pipeline applications, and (3) data analytics applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T212222Z" creationid="esouser" creationdate="20190603T212154Z">
-        <seg>接下来我们介绍三类常见的状态化流处理应用：1）事件驱动型应用；2）数据管道应用；3）数据分析应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045846Z" creationid="esouser" creationdate="20190603T212154Z">
+        <seg>接下来我们介绍三类常见的有状态的流处理应用：1）事件驱动型应用；2）数据管道应用；3）数据分析应用。</seg>
       </tuv>
     </tu>
     <tu>
