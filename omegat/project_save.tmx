@@ -38546,8 +38546,8 @@
       <tuv lang="EN-US">
         <seg>Stateful stream processing applications are more challenging to parallelize and oper‐ ate in a fault-tolerant manner because state needs to be efficiently partitioned and reliably recovered in the case of failures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T055329Z" creationid="xccui" creationdate="20190606T005043Z">
-        <seg>状态化流处理应用在并行化和容错方面会更具挑战性，因为它们需要对状态进行高效划分并且在出错时需进行可靠的故障恢复。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050252Z" creationid="xccui" creationdate="20190606T005043Z">
+        <seg>有状态的流处理应用在并行化和容错方面会更具挑战性，因为它们需要对状态进行高效划分并且在出错时需进行可靠的故障恢复。</seg>
       </tuv>
     </tu>
     <tu>
