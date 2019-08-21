@@ -38554,8 +38554,8 @@
       <tuv lang="EN-US">
         <seg>Stateful stream processing applications often ingest their incoming events from an event log.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T034141Z" creationid="xccui" creationdate="20190305T034141Z">
-        <seg>状态化流处理应用通常会从事件日志中读取事件记录。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045759Z" creationid="xccui" creationdate="20190305T034141Z">
+        <seg>有状态的流处理应用通常会从事件日志中读取事件记录。</seg>
       </tuv>
     </tu>
     <tu>
