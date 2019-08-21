@@ -38474,8 +38474,8 @@
       <tuv lang="EN-US">
         <seg>State, state consistency, and Flink’s checkpointing mech‐ anism will be discussed in more detail in the following chapters, but, for now, Figure 1-4 shows a stateful streaming Flink application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xingcan" changedate="20190812T160225Z" creationid="esouser" creationdate="20190603T210107Z">
-        <seg>图1-4简单展示了Flink的状态化流式应用。有关状态、状态一致性以及Flink的检查点机制会在后面的章节详细讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045739Z" creationid="esouser" creationdate="20190603T210107Z">
+        <seg>图1-4简单展示了Flink有状态的流式应用。有关状态、状态一致性以及Flink的检查点机制会在后面的章节详细讨论。</seg>
       </tuv>
     </tu>
     <tu>
