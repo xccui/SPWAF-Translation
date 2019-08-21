@@ -14841,8 +14841,8 @@
       <tuv lang="EN-US">
         <seg>Connecting a stateful streaming application running on Flink and an event log is interesting for multiple reasons.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190708T065137Z" creationid="xccui" creationdate="20190305T060607Z">
-        <seg>出于很多原因，将运行在Flink之上的状态化流处理应用和事件日志系统相连会很有意义。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045816Z" creationid="xccui" creationdate="20190305T060607Z">
+        <seg>出于很多原因，将运行在Flink之上的有状态的流处理应用和事件日志系统相连会很有意义。</seg>
       </tuv>
     </tu>
     <tu>
