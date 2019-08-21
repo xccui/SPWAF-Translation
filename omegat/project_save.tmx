@@ -17521,8 +17521,8 @@
       <tuv lang="EN-US">
         <seg>Evolving Stateful Applications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052801Z" creationid="xccui" creationdate="20190225T024857Z">
-        <seg>更新状态化应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044620Z" creationid="xccui" creationdate="20190225T024857Z">
+        <seg>更新有状态应用</seg>
       </tuv>
     </tu>
     <tu>
