@@ -38498,8 +38498,8 @@
       <tuv lang="EN-US">
         <seg>Stateful Stream Processing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T014544Z" creationid="xccui" creationdate="20190225T014544Z">
-        <seg>状态化流处理</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044400Z" creationid="xccui" creationdate="20190225T014544Z">
+        <seg>有状态的流处理</seg>
       </tuv>
     </tu>
     <tu>
