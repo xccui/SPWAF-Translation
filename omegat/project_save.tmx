@@ -14361,8 +14361,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 9 explains how to set up and configure Flink to reliably process stateful applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T032855Z" creationid="xccui" creationdate="20190630T032457Z">
-        <seg>第9章介绍了如何设置Flink使其能够可靠地处理状态化应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050522Z" creationid="xccui" creationdate="20190630T032457Z">
+        <seg>第9章介绍了如何设置Flink使其能够可靠地处理有状态的应用。</seg>
       </tuv>
     </tu>
     <tu>
