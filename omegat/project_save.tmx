@@ -11672,8 +11672,8 @@
       <tuv lang="EN-US">
         <seg>Apache Flink is a distributed stream processor with intuitive and expressive APIs to implement stateful stream processing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190327T014455Z" creationid="xccui" creationdate="20190225T191847Z">
-        <seg>Apache Flink是一个分布式流处理引擎，它提供了直观且极富表达力的API来实现状态化流处理应用，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045646Z" creationid="xccui" creationdate="20190225T191847Z">
+        <seg>Apache Flink是一个分布式流处理引擎，它提供了直观且极富表达力的API来实现有状态的流处理应用，</seg>
       </tuv>
     </tu>
     <tu>
