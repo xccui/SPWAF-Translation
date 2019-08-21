@@ -38818,8 +38818,8 @@
       <tuv lang="EN-US">
         <seg>Streaming application with two stateful sources, two stateful tasks, and two stateless sinks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190609T062410Z" creationid="xccui" creationdate="20190609T062410Z">
-        <seg>拥有两个状态化数据源、两个状态化任务以及两个无状态数据汇的流式应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050424Z" creationid="xccui" creationdate="20190609T062410Z">
+        <seg>拥有两个有状态的数据源、两个有状态的任务以及两个无状态数据汇的流式应用</seg>
       </tuv>
     </tu>
     <tu>
