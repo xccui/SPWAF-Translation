@@ -14329,8 +14329,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 7 explains how to implement stateful functions and discusses everything around this topic, such as the performance, robustness, and evolution of stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T051954Z" creationid="esouser" creationdate="20190603T162033Z">
-        <seg>第7章介绍如何实现状态化函数以及一些与之相关的问题，例如性能、健壮性、状态函数演变等。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044801Z" creationid="esouser" creationdate="20190603T162033Z">
+        <seg>第7章介绍如何实现有状态函数以及一些与之相关的问题，例如性能、健壮性、状态函数演变等。</seg>
       </tuv>
     </tu>
     <tu>
