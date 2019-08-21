@@ -45098,8 +45098,8 @@
       <tuv lang="EN-US">
         <seg>The stateful streaming application processes events as usual and stores and updates its intermedi‐ ate or final results in a queryable state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190705T163104Z" creationid="xccui" creationdate="20190705T163104Z">
-        <seg>状态化流式应用可以按照正常流程处理事件，并在可查询状态中对其中间或最终结果进行存储和更新。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050638Z" creationid="xccui" creationdate="20190705T163104Z">
+        <seg>有状态的流式应用可以按照正常流程处理事件，并在可查询状态中对其中间或最终结果进行存储和更新。</seg>
       </tuv>
     </tu>
     <tu>
