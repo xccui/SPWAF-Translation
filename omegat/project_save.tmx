@@ -26369,8 +26369,8 @@
       <tuv lang="EN-US">
         <seg>In Chapter 2 we pointed out that most streaming applications are stateful.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055528Z" creationid="xccui" creationdate="20190607T041304Z">
-        <seg>在第2章我们指出，大部分的流式应用都是状态化的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050329Z" creationid="xccui" creationdate="20190607T041304Z">
+        <seg>在第2章我们指出，大部分的流式应用都是有状态的。</seg>
       </tuv>
     </tu>
     <tu>
