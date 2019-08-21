@@ -17025,8 +17025,8 @@
       <tuv lang="EN-US">
         <seg>Ensuring the Maintainability of Stateful Applications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024655Z" creationid="xccui" creationdate="20190225T024655Z">
-        <seg>确保状态化应用的可维护性</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044544Z" creationid="xccui" creationdate="20190225T024655Z">
+        <seg>确保有状态应用的可维护性</seg>
       </tuv>
     </tu>
     <tu>
