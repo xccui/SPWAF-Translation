@@ -29185,8 +29185,8 @@
       <tuv lang="EN-US">
         <seg>In this section, we explain the practical aspects of savepoints and discuss how to start, stop, pause and resume, scale, and upgrade stateful streaming applications using Flink’s command-line client and Flink’s REST API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190726T014322Z" creationid="xccui" creationdate="20190726T014322Z">
-        <seg>本节我们将解释保存点的实际应用场景，并讨论如何使用Flink命令行客户端和REST API来完成对于状态化流式应用的启动、停止、暂停、恢复、扩缩容和升级。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050234Z" creationid="xccui" creationdate="20190726T014322Z">
+        <seg>本节我们将解释保存点的实际应用场景，并讨论如何使用Flink命令行客户端和REST API来完成对于有状态的流式应用的启动、停止、暂停、恢复、扩缩容和升级。</seg>
       </tuv>
     </tu>
     <tu>
