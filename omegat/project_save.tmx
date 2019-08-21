@@ -9544,8 +9544,8 @@
       <tuv lang="EN-US">
         <seg>A stateful streaming application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190305T033106Z" creationid="xccui" creationdate="20190305T033106Z">
-        <seg>状态化流式应用</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045749Z" creationid="xccui" creationdate="20190305T033106Z">
+        <seg>有状态的流式应用</seg>
       </tuv>
     </tu>
     <tu>
