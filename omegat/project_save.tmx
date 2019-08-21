@@ -26145,8 +26145,8 @@
       <tuv lang="EN-US">
         <seg>Implementing Stateful Functions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190604T030643Z" creationid="xccui" creationdate="20190225T024522Z">
-        <seg>实现状态化函数</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044511Z" creationid="xccui" creationdate="20190225T024522Z">
+        <seg>实现有状态函数</seg>
       </tuv>
     </tu>
     <tu>
