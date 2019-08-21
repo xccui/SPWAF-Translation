@@ -30921,8 +30921,8 @@
       <tuv lang="EN-US">
         <seg>Just about every nontrivial streaming application is stateful.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T050221Z" creationid="xccui" creationdate="20190707T050221Z">
-        <seg>几乎所有复杂一点的流式应用都是状态化的。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045616Z" creationid="xccui" creationdate="20190707T050221Z">
+        <seg>几乎所有复杂一点的流式应用都是有状态的。</seg>
       </tuv>
     </tu>
     <tu>
