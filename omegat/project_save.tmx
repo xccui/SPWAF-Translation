@@ -41666,8 +41666,8 @@
       <tuv lang="EN-US">
         <seg>The choice of the state backend has implications on the robust‐ ness and performance of a stateful application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T221454Z" creationid="xccui" creationdate="20190703T221454Z">
-        <seg>状态后端的选择会影响状态化应用的鲁棒性及性能。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050621Z" creationid="xccui" creationdate="20190703T221454Z">
+        <seg>状态后端的选择会影响有状态应用的鲁棒性及性能。</seg>
       </tuv>
     </tu>
     <tu>
