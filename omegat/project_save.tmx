@@ -8568,8 +8568,8 @@
       <tuv lang="EN-US">
         <seg>A consistent checkpoint of a stateful streaming application is a copy of the state of each of its tasks at a point when all tasks have processed exactly the same input.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190608T223148Z" creationid="xccui" creationdate="20190608T155358Z">
-        <seg>状态化流式应用的一致性检查点是在所有任务处理完等量的原始输入后对全部任务状态进行的一个拷贝。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050346Z" creationid="xccui" creationdate="20190608T155358Z">
+        <seg>有状态的流式应用的一致性检查点是在所有任务处理完等量的原始输入后对全部任务状态进行的一个拷贝。</seg>
       </tuv>
     </tu>
     <tu>
