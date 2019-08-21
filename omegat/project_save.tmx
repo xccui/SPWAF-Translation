@@ -2512,8 +2512,8 @@
       <tuv lang="EN-US">
         <seg>// apply a stateful FlatMapFunction on the keyed stream which</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190630T064858Z" creationid="xccui" creationdate="20190630T062142Z">
-        <seg>// 在键值分区数据流上应用一个状态化的FlatMapFunction</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045529Z" creationid="xccui" creationdate="20190630T062142Z">
+        <seg>// 在键值分区数据流上应用一个有状态的FlatMapFunction</seg>
       </tuv>
     </tu>
     <tu>
