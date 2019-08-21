@@ -25841,8 +25841,8 @@
       <tuv lang="EN-US">
         <seg>If you do not explicitly set unique identifiers to the operators of your stateful applica‐ tion, you will face significant limitations when you have to evolve the application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050552Z" creationid="xccui" creationdate="20190703T023053Z">
-        <seg>如果你没有为有状态的应用的算子显式指定标识，那么在更新应用时就会受到诸多限制。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050614Z" creationid="xccui" creationdate="20190703T023053Z">
+        <seg>如果你没有为有状态应用的算子显式指定标识，那么在更新应用时就会受到诸多限制。</seg>
       </tuv>
     </tu>
     <tu>
