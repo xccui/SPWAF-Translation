@@ -14169,8 +14169,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 1 gives an overview of stateful stream processing, data processing appli‐ cation architectures, application designs, and the benefits of stream processing over traditional approaches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044746Z" creationid="esouser" creationdate="20190603T155541Z">
-        <seg>第1章是概述，我们在其中概括了有状态的流处理、数据处理应用的架构和设计，以及流处理与传统方法相比的优势所在，</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044957Z" creationid="esouser" creationdate="20190603T155541Z">
+        <seg>第1章是概述，我们在其中概括了状态化流处理、数据处理应用的架构和设计，以及流处理与传统方法相比的优势所在，</seg>
       </tuv>
     </tu>
     <tu>
