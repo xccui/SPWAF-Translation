@@ -29945,8 +29945,8 @@
       <tuv lang="EN-US">
         <seg>Introduction to Stateful Stream Processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T014519Z" creationid="xccui" creationdate="20190225T014519Z">
-        <seg>状态化流处理介绍</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044335Z" creationid="xccui" creationdate="20190225T014519Z">
+        <seg>有状态的流处理介绍</seg>
       </tuv>
     </tu>
     <tu>
