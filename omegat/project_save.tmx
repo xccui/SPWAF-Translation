@@ -17273,8 +17273,8 @@
       <tuv lang="EN-US">
         <seg>Event-driven applications are stateful streaming applications that ingest event streams and process the events with application-specific business logic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T213515Z" creationid="esouser" creationdate="20190603T213335Z">
-        <seg>事件驱动型应用是一类通过接收事件流触发特定应用业务逻辑的状态化流式应用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045950Z" creationid="esouser" creationdate="20190603T213335Z">
+        <seg>事件驱动型应用是一类通过接收事件流触发特定应用业务逻辑的有状态的流式应用。</seg>
       </tuv>
     </tu>
     <tu>
