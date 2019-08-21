@@ -50186,8 +50186,8 @@
       <tuv lang="EN-US">
         <seg>We explain how state is stored and maintained by state backends and how stateful applications can be scaled by redistributing state.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T055824Z" creationid="xccui" creationdate="20190607T053446Z">
-        <seg>我们将解释如何利用状态后端（state backend）对状态进行存储和维护，以及状态化应用如何通过状态再分配实现扩缩容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050338Z" creationid="xccui" creationdate="20190607T053446Z">
+        <seg>我们将解释如何利用状态后端（state backend）对状态进行存储和维护，以及有状态的应用如何通过状态再分配实现扩缩容。</seg>
       </tuv>
     </tu>
     <tu>
