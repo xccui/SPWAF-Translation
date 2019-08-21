@@ -30505,8 +30505,8 @@
       <tuv lang="EN-US">
         <seg>It is often necessary to fix a bug or to evolve the business logic of a long-running stateful streaming application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T214053Z" creationid="xccui" creationdate="20190704T214053Z">
-        <seg>很多时候我们需要对一个长时间运行的状态化流式应用进行Bug修复或业务逻辑调整。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050631Z" creationid="xccui" creationdate="20190704T214053Z">
+        <seg>很多时候我们需要对一个长时间运行的有状态的流式应用进行Bug修复或业务逻辑调整。</seg>
       </tuv>
     </tu>
     <tu>
