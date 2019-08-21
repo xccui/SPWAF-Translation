@@ -13865,8 +13865,8 @@
       <tuv lang="EN-US">
         <seg>By providing a list of state objects, functions with operator state can implement this logic using the snapshotState() and restoreState() methods.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052117Z" creationid="xccui" creationdate="20190701T060050Z">
-        <seg>而通过提供状态对象列表，状态化函数就能使用snapshotState()和restoreState()方法来实现自动化逻辑。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190701T060050Z">
+        <seg>而通过提供状态对象列表，有状态函数就能使用snapshotState()和restoreState()方法来实现自动化逻辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14313,8 +14313,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 5 will introduce you to the basics of the DataStream API, and Chapters 6, 7, and 8 will introduce everything you need to know about time-based operators, state‐ ful functions, and source and sink connectors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190711T095058Z" creationid="xccui" creationdate="20190612T011507Z">
-        <seg>我们会在第5章介绍DataStream API的基础知识，在第6、7、8章分别介绍有关基于时间的算子、状态化函数以及数据源和数据汇连接器的全部内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190612T011507Z">
+        <seg>我们会在第5章介绍DataStream API的基础知识，在第6、7、8章分别介绍有关基于时间的算子、有状态函数以及数据源和数据汇连接器的全部内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18057,8 +18057,8 @@
       <tuv lang="EN-US">
         <seg>Example 7-12 shows how to configure a state backend (here, RocksDBStateBackend) for an application and all its stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190704T025623Z" creationid="xccui" creationdate="20190704T025623Z">
-        <seg>示例7-12展示了如何为应用及其状态化函数配置状态后端（此处选用RocksDBStateBackend）。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190704T025623Z">
+        <seg>示例7-12展示了如何为应用及其有状态函数配置状态后端（此处选用RocksDBStateBackend）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21105,8 +21105,8 @@
       <tuv lang="EN-US">
         <seg>Flink provides multiple interfaces to define stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T213817Z" creationid="xccui" creationdate="20190630T035109Z">
-        <seg>Flink为定义状态化函数提供了多个接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190630T035109Z">
+        <seg>Flink为定义有状态函数提供了多个接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26153,24 +26153,24 @@
       <tuv lang="EN-US">
         <seg>Implementing Stateful Functions | 155</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052507Z" creationid="xccui" creationdate="20190707T052507Z">
-        <seg>实现状态化函数 | 155</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190707T052507Z">
+        <seg>实现有状态函数 | 155</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Implementing Stateful Functions | 161</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052701Z" creationid="xccui" creationdate="20190707T052701Z">
-        <seg>实现状态化函数 | 161</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190707T052701Z">
+        <seg>实现有状态函数 | 161</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Implementing Stateful Functions | 163</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052519Z" creationid="xccui" creationdate="20190707T052519Z">
-        <seg>实现状态化函数 | 163</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190707T052519Z">
+        <seg>实现有状态函数 | 163</seg>
       </tuv>
     </tu>
     <tu>
@@ -28985,8 +28985,8 @@
       <tuv lang="EN-US">
         <seg>In this scenario, a stateful function receives records with keys that are only active for a cer‐ tain period of time and are never received after that.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052147Z" creationid="xccui" creationdate="20190704T141006Z">
-        <seg>在该场景下，状态化函数所接收记录的键值只有一段特定时间的活跃期，此后就再也不会收到。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190704T141006Z">
+        <seg>在该场景下，有状态函数所接收记录的键值只有一段特定时间的活跃期，此后就再也不会收到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29313,8 +29313,8 @@
       <tuv lang="EN-US">
         <seg>In “Checkpoints, Savepoints, and State Recovery”, we explained Flink’s mechanism to create consistent checkpoints of a stateful application, a snapshot of the state of all built-in and user-defined stateful functions at a point in time when all operators pro‐ cessed all events up to a specific position in the application’s input streams.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T052137Z" creationid="xccui" creationdate="20190702T204418Z">
-        <seg>在"检查点、保存点即状态恢复"一节，我们解释了Flink为状态化应用创建一致性检查点的机制——在所有算子都处理到应用输入流的某一特定位置时，为全部内置或用户定义的状态化函数基于该时间点创建一个状态快照。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190702T204418Z">
+        <seg>在"检查点、保存点即状态恢复"一节，我们解释了Flink为状态化应用创建一致性检查点的机制——在所有算子都处理到应用输入流的某一特定位置时，为全部内置或用户定义的有状态函数基于该时间点创建一个状态快照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35786,8 +35786,8 @@
       <tuv lang="EN-US">
         <seg>Refer to “Implementing Stateful Functions” on page 154, which discusses stateful functions in detail.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190614T045701Z" creationid="xccui" creationdate="20190614T045650Z">
-        <seg>有关状态化函数的详细信息请参阅第154页"实现状态化函数"一节。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190614T045650Z">
+        <seg>有关有状态函数的详细信息请参阅第154页"实现有状态函数"一节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38570,8 +38570,8 @@
       <tuv lang="EN-US">
         <seg>Stateful stream processing in Flink is discussed in detail in “Implementing Stateful Functions” on</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190619T033814Z" creationid="xccui" creationdate="20190619T033814Z">
-        <seg>有关Flink中状态化流处理的内容会在154页"实现状态化函数"一节详细讨论。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190619T033814Z">
+        <seg>有关Flink中状态化流处理的内容会在154页"实现有状态函数"一节详细讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40106,8 +40106,8 @@
       <tuv lang="EN-US">
         <seg>The CheckpointedFunction interface is the lowest-level interface to specify stateful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T235828Z" creationid="xccui" creationdate="20190702T055816Z">
-        <seg>CheckpointedFunction是用于指定状态化函数的最底层接口。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190702T055816Z">
+        <seg>CheckpointedFunction是用于指定有状态函数的最底层接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44914,8 +44914,8 @@
       <tuv lang="EN-US">
         <seg>The snapshotState() method is invoked when Flink triggers a checkpoint of the stateful function.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190813T041236Z" creationid="xccui" creationdate="20190701T045645Z">
-        <seg>snapshotState()方法会在Flink触发为状态化函数生成检查点时调用。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190701T045645Z">
+        <seg>snapshotState()方法会在Flink触发为有状态函数生成检查点时调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47290,8 +47290,8 @@
       <tuv lang="EN-US">
         <seg>This problem does not only exist for custom stateful functions but also for some of the built-in operators of the DataStream API.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T033527Z" creationid="xccui" creationdate="20190704T183059Z">
-        <seg>该问题不但存在于自定义的状态化函数中，还会影响DataStream API中的部分内置算子。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190704T183059Z">
+        <seg>该问题不但存在于自定义的有状态函数中，还会影响DataStream API中的部分内置算子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50923,8 +50923,8 @@
       <tuv lang="EN-US">
         <seg>When a function registers a StateDescriptor, Flink checks if the state backend has data for the function and a state with the given name and type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T203857Z" creationid="xccui" creationdate="20190701T021106Z">
-        <seg>如果状态化函数正在从某检查点恢复或从某保存点重启，那么当函数注册StateDescriptor时，Flink会检查状态后端是否存储了函数相关数据以及与给定名称、类型相同的状态。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045232Z" creationid="xccui" creationdate="20190701T021106Z">
+        <seg>如果有状态函数正在从某检查点恢复或从某保存点重启，那么当函数注册StateDescriptor时，Flink会检查状态后端是否存储了函数相关数据以及与给定名称、类型相同的状态。</seg>
       </tuv>
     </tu>
     <tu>
