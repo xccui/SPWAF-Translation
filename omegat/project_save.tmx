@@ -10368,8 +10368,8 @@
       <tuv lang="EN-US">
         <seg>Aggregation operations are stateful and combine the current state with the incoming event to produce an updated aggregate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190627T061239Z" creationid="xccui" creationdate="20190606T011759Z">
-        <seg>聚合操作都是状态化的，它们通过将新到来的事件合并到已有状态来生成更新后的聚合值。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050311Z" creationid="xccui" creationdate="20190606T011759Z">
+        <seg>聚合操作都是有状态的，它们通过将新到来的事件合并到已有状态来生成更新后的聚合值。</seg>
       </tuv>
     </tu>
     <tu>
