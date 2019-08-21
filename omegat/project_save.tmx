@@ -12337,8 +12337,8 @@
       <tuv lang="EN-US">
         <seg>As shown in Figure 3-4, each of the four sender tasks needs at least four network buf‐ fers to send data to each of the receiver tasks and each receiver task requires at least four buffers to receive data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T193121Z" creationid="xccui" creationdate="20190606T200713Z">
-        <seg>如图3-4所示，每个发送端任务至少需要4个网络缓冲区来向任一接收端任务发送数据。而同样，每个接收端任务也需要至少4个缓冲区来接收数据。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T041854Z" creationid="xccui" creationdate="20190606T200713Z">
+        <seg>如图3-4所示，由于接收端的并行度为4，每个发送端任务至少需要4个网络缓冲区来向任一接收端任务发送数据。而同理，每个接收端任务也需要至少4个缓冲区来接收数据。</seg>
       </tuv>
     </tu>
     <tu>
