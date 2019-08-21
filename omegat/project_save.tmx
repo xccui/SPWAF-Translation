@@ -14225,8 +14225,8 @@
       <tuv lang="EN-US">
         <seg>Chapter 10 gives guidance on how to operate stateful applications—taking and restoring from application savepoints, rescaling applications, and performing application upgrades.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190818T035438Z" creationid="xccui" creationdate="20190630T033104Z">
-        <seg>第10章指导你如何对状态化应用进行运维，具体包括创建和恢复应用保存点，应用扩缩容以及应用更新等内容。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050530Z" creationid="xccui" creationdate="20190630T033104Z">
+        <seg>第10章指导你如何对有状态的应用进行运维，具体包括创建和恢复应用保存点，应用扩缩容以及应用更新等内容。</seg>
       </tuv>
     </tu>
     <tu>
