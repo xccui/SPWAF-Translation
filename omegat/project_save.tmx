@@ -13377,8 +13377,8 @@
       <tuv lang="EN-US">
         <seg>Buffers that need to be sent to the other TaskManager are multiplexed over the same network connection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190606T201324Z" creationid="xccui" creationdate="20190606T200905Z">
-        <seg>所有需要向对方TaskManager传输数据的缓冲区会复用同一个网络连接。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T041751Z" creationid="xccui" creationdate="20190606T200905Z">
+        <seg>缓冲区内的数据在向对方TaskManager传输时会共享网络连接</seg>
       </tuv>
     </tu>
     <tu>
