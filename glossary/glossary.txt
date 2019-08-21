@@ -22,8 +22,8 @@ State Backend	状态后端
 TypeInformation	TypeInformation
 Time Characteristic	时间特性
 Late Data	迟到数据
-Stateful Function	状态化函数
-Stateful Application	状态化应用
+Stateful Function	有状态函数
+Stateful Application	有状态应用
 Robustness	鲁棒性
 Connector	连接器
 Source Connector	源连接器
@@ -54,7 +54,7 @@ queryable state	可查询式状态
 embedded execution	嵌入式执行
 credit-based	基于信用值
 checkpoint barrier	检查点分隔符
-stateful operator	状态化算子
+stateful operator	有状态算子
 evictor	移除器
 Incremental aggregation function	增量聚合函数
 Full window function	全量窗口函数
