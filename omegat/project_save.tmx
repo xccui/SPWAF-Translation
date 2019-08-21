@@ -34810,8 +34810,8 @@
       <tuv lang="EN-US">
         <seg>Performance and Robustness of Stateful Applications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T024730Z" creationid="xccui" creationdate="20190225T024730Z">
-        <seg>状态化应用的性能及鲁棒性</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T044604Z" creationid="xccui" creationdate="20190225T024730Z">
+        <seg>有状态应用的性能及鲁棒性</seg>
       </tuv>
     </tu>
     <tu>
