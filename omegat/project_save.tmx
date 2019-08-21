@@ -16681,8 +16681,8 @@
       <tuv lang="EN-US">
         <seg>Each application can be stateful and can locally manage its own state without accessing external datastores.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045957Z" creationid="esouser" creationdate="20190603T214101Z">
-        <seg>每个应用都可以是有状态的，只需要管理自身状态而无须访问外部数据存储。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T050040Z" creationid="esouser" creationdate="20190603T214101Z">
+        <seg>每个应用都可以是有状态的，只需要管理好自身状态而无须访问外部数据存储。</seg>
       </tuv>
     </tu>
     <tu>
