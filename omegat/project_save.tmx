@@ -46392,6 +46392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They spend much of the winter curled up in nests, called dreys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T210650Z" creationid="xccui" creationdate="20190826T210650Z">
+        <seg>它们在冬日的大部分时间里都会蜷缩在名为Dreys的巢穴中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They use a state backend–specific storage format and do not support rescaling.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190815T034140Z" creationid="xccui" creationdate="20190731T205713Z">
@@ -49156,6 +49164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015328Z" creationid="xccui" creationdate="20190703T015220Z">
         <seg>你应该为应用中的每个算子指定唯一标识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless they are mating or raising young, a Eurasian red squirrel’s dreys are meant to house one animal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T211146Z" creationid="xccui" creationdate="20190826T211146Z">
+        <seg>除非是正在交配或需要抚育幼崽，否则每个Dreys内就只会住有一只欧亚红松鼠。</seg>
       </tuv>
     </tu>
     <tu>
