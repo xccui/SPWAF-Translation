@@ -17095,6 +17095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eurasian red squirrels have excellent agility and balance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T213715Z" creationid="xccui" creationdate="20190826T213715Z">
+        <seg>欧亚红松鼠的敏捷性和平衡性非常强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eurasian red squirrels sustain themselves on seeds, acorns, and nuts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T212507Z" creationid="xccui" creationdate="20190826T212148Z">
@@ -28659,6 +28667,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T045446Z" creationid="xccui" creationdate="20190416T045403Z">
         <seg>即便是最简单的情形，除了流处理引擎也至少要有一个数据源和一个数据汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the wild their lifespan is expected to be only 4–7 years.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T213627Z" creationid="xccui" creationdate="20190826T213627Z">
+        <seg>而在野外，它们的寿命预计只有4-7岁。</seg>
       </tuv>
     </tu>
     <tu>
