@@ -17079,6 +17079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eurasian red squirrels have a white ring around their eyes, a bushy tail, and a tuft of fur over their ears.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T204407Z" creationid="xccui" creationdate="20190826T204407Z">
+        <seg>欧亚红松鼠的眼睛周围有一个白色的环，尾巴大而浓密，耳端有一簇毛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaluation functions can be aggregations like sum or minimum or custom operations applied on the buck&lt;t14/&gt;‐&lt;t15/&gt; et’s collected elements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T050152Z" creationid="xccui" creationdate="20190406T045737Z">
@@ -49500,6 +49508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190301T034956Z" creationid="xccui" creationdate="20190301T034927Z">
         <seg>几乎所有数据都是以连续事件流的形式产生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vulgaris means “common” in Latin, and the Eura‐ sian red squirrels are a regular sight throughout Europe and northern Asia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T202452Z" creationid="xccui" creationdate="20190826T202452Z">
+        <seg>Vulgaris在拉丁文中是"寻常"的意思，欧亚红松鼠在欧洲和亚洲北部地区十分常见。</seg>
       </tuv>
     </tu>
     <tu>
