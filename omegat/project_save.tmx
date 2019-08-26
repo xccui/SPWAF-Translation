@@ -17095,6 +17095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eurasian red squir‐ rels face many predators, including birds, snakes, and mammals, so only one quarter of the young reach one year of age.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T212039Z" creationid="xccui" creationdate="20190826T212039Z">
+        <seg>欧亚红松鼠的天敌众多，包括鸟类、蛇类以及哺乳动物等，因此只有四分之一的小松鼠才能到达一岁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaluation functions can be aggregations like sum or minimum or custom operations applied on the buck&lt;t14/&gt;‐&lt;t15/&gt; et’s collected elements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T050152Z" creationid="xccui" creationdate="20190406T045737Z">
@@ -33401,8 +33409,8 @@
       <tuv lang="EN-US">
         <seg>On average, females give birth to five young per litter twice per year.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T211640Z" creationid="xccui" creationdate="20190826T211640Z">
-        <seg>平均而言，雌性松鼠每年生产两次，每胎5仔。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T211744Z" creationid="xccui" creationdate="20190826T211640Z">
+        <seg>平均下来，雌性松鼠每年生产两次，每胎5仔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53605,6 +53613,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T034814Z" creationid="xccui" creationdate="20190720T042251Z">
         <seg>你需要使用调整后的配置构建自定义的Docker镜像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Young squirrels leave the mother’s nest after about two months.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T211725Z" creationid="xccui" creationdate="20190826T211725Z">
+        <seg>松鼠幼崽会在出生后大约两个月的时候离开母巢。</seg>
       </tuv>
     </tu>
     <tu>
