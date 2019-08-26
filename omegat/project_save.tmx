@@ -10846,6 +10846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although they live alone, their ranges often overlap because they are so populous.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T211406Z" creationid="xccui" creationdate="20190826T211406Z">
+        <seg>虽然它们都各自居住，但由于数量众多，松鼠们的活动范围经常重叠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although this means Flink processes some messages twice (before and after the failure), the mechanism still achieves exactly-once state consistency because the state of all operators was reset to a point that had not seen this data yet.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190710T064240Z" creationid="xccui" creationdate="20190609T053400Z">
