@@ -43048,6 +43048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fur on their bellies is cream-colored or white.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T204626Z" creationid="xccui" creationdate="20190826T204626Z">
+        <seg>胸腹部的皮毛则是奶油色或白色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fused tasks exchange records by method calls and thus with basically no communication costs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T191248Z" creationid="xccui" creationdate="20190730T191248Z">
@@ -45684,6 +45692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190406T045355Z" creationid="xccui" creationdate="20190406T045224Z">
         <seg>窗口的行为是由一组策略定义的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their coloring ranges from light red to black on their heads and backs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T204603Z" creationid="xccui" creationdate="20190826T204603Z">
+        <seg>它们头部和背部的颜色从浅红色到黑色。</seg>
       </tuv>
     </tu>
     <tu>
