@@ -17097,8 +17097,8 @@
       <tuv lang="EN-US">
         <seg>Eurasian red squirrels sustain themselves on seeds, acorns, and nuts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T212148Z" creationid="xccui" creationdate="20190826T212148Z">
-        <seg>欧亚红松鼠依靠种子、橡子以及坚果来维持生计。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T212507Z" creationid="xccui" creationdate="20190826T212148Z">
+        <seg>欧亚红松鼠平日依靠种子、橡子以及坚果来维持生计。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46236,6 +46236,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190703T015253Z" creationid="xccui" creationdate="20190703T012359Z">
         <seg>这两个参数是算子唯一标识和最大并行度（只针对具有键值分区状态的算子）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These squirrels can grow about 9 to 10 inches long from head to hind, with a tail of about the same length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T213412Z" creationid="xccui" creationdate="20190826T213412Z">
+        <seg>这种松鼠的头部和身体可以长到9到10英尺，尾巴长度也大致与此相同。</seg>
       </tuv>
     </tu>
     <tu>
