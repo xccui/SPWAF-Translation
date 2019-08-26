@@ -33399,6 +33399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On average, females give birth to five young per litter twice per year.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190826T211640Z" creationid="xccui" creationdate="20190826T211640Z">
+        <seg>平均而言，雌性松鼠每年生产两次，每胎5仔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the contrary, in continuously running stream&lt;t4/&gt;‐&lt;t5/&gt; ing jobs, state is durable across events and we can expose it as a first-class citizen in the programming model.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190416T053122Z" creationid="xccui" creationdate="20190414T054354Z">
