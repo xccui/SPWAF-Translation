@@ -50832,6 +50832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What allows these tree-dwellers to scale trunks, descend headfirst, and leap across overhanging branches is a combination of their sharp, curved claws and long, fluffy tails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033104Z" creationid="xccui" creationdate="20190827T033104Z">
+        <seg>这些生活在树上的小家伙之所以能够攀爬树干，轻松倒立，并越过伸展的树枝，是因为它们有弯曲的利爪和宽大蓬松的尾巴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What happens when a trigger fires depends on the configured functions of the win‐ dow operator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190625T053324Z" creationid="xccui" creationdate="20190625T053324Z">
