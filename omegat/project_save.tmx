@@ -48800,6 +48800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total recommended read.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T054741Z" creationid="xccui" creationdate="20190827T054741Z">
+        <seg>强烈推荐。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Traditional Data Infrastructures</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T014533Z" creationid="xccui" creationdate="20190225T014533Z">
