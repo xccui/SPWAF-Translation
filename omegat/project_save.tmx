@@ -16343,6 +16343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Director of Enterprise Architecture at Capital One</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T054924Z" creationid="xccui" creationdate="20190827T054924Z">
+        <seg>Capital One企业架构总监</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable task chaining for an operator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190730T203552Z" creationid="xccui" creationdate="20190730T203552Z">
