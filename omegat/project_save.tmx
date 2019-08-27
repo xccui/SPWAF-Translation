@@ -37384,6 +37384,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She has worked on its graph processing library, Gelly, and on early versions of the Table API and streaming SQL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T055716Z" creationid="xccui" creationdate="20190827T055716Z">
+        <seg>作为Flink早期贡献者，瓦西里基参与了图计算库Gelly以及初期版本的Table API和流式SQL的建设工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows text that should be replaced with user-supplied values or by values deter‐ mined by context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210808Z" creationid="esouser" creationdate="20190603T210808Z">
@@ -49816,10 +49824,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vasia is a PMC member of the Apache Flink project, an early contributor to Flink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T055524Z" creationid="xccui" creationdate="20190827T055524Z">
+        <seg>她同样也是Apache Flink项目的PMC成员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vasia is a PMC member of the Apache Flink project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T035031Z" creationid="xccui" creationdate="20190808T035031Z">
         <seg>瓦西里基同样是Apache Flink项目的PMC成员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vasiliki (Vasia) Kalavri is a postdoctoral fellow in the Systems Group at ETH Zurich.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T055444Z" creationid="xccui" creationdate="20190827T055444Z">
+        <seg>瓦西里基（瓦夏）·卡拉夫里是苏黎世联邦理工学院系统组的博士后研究员。</seg>
       </tuv>
     </tu>
     <tu>
