@@ -31455,6 +31455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn concepts and challenges of distributed stateful stream processing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T053002Z" creationid="xccui" creationdate="20190827T053002Z">
+        <seg>了解有关分布式状态化流处理的概念和挑战</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Let us revisit the coffee shop example to clarify how latency and throughput affect each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190402T210220Z" creationid="xccui" creationdate="20190402T204057Z">
@@ -53301,6 +53309,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T170103Z" creationid="xccui" creationdate="20190726T030415Z">
         <seg>你可以通过在命令末尾附加参数的方式将其传递给应用的main()方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can process continuous data of any kind, including user interactions, financial transactions, and IoT data, as soon as you generate them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T052935Z" creationid="xccui" creationdate="20190827T052935Z">
+        <seg>你可以在任意类型的持续数据（包括用户交互、金融交易和物联网数据等）生成后，立即对它们进行处理</seg>
       </tuv>
     </tu>
     <tu>
