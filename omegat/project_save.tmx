@@ -38872,6 +38872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stream processing is ideal for many use cases, including low-latency ETL, streaming analytics, and real-time dashboards as well as fraud detection, anomaly detection, and alerting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T052734Z" creationid="xccui" creationdate="20190827T052734Z">
+        <seg>流处理的理想应用场景有很多，包括低延迟ETL、流式分析、实时仪表盘以及欺诈检测、异常检测和报警。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stream processing technology is becoming more and more popular with companies big and small because it provides superior solutions for many established use cases such as data analytics, ETL, and transactional applications, but also facilitates novel applications, software architectures, and business opportunities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190707T064456Z" creationid="esouser" creationdate="20190603T162936Z">
