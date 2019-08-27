@@ -38810,8 +38810,8 @@
       <tuv lang="EN-US">
         <seg>Stream Processing with Apache Flink</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="esouser" changedate="20190603T210705Z" creationid="esouser" creationdate="20190603T210656Z">
-        <seg>Stream Processing with Apache Flink</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T050923Z" creationid="esouser" creationdate="20190603T210656Z">
+        <seg>基于Apache Flink的流处理</seg>
       </tuv>
     </tu>
     <tu>
