@@ -18743,6 +18743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fabian Hueske &amp; Vasiliki Kalavri</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T050959Z" creationid="xccui" creationdate="20190827T050959Z">
+        <seg>费比安·霍斯克，瓦西里基·卡拉夫里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabian Hueske and Vasiliki Kalavri</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190607T062527Z" creationid="esouser" creationdate="20190603T142832Z">
@@ -23050,6 +23058,14 @@
         <seg>Fundamentals, Implementation, and Operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190610T041340Z" creationid="esouser" creationdate="20190603T142422Z">
+        <seg>流式应用基础、实现及操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fundamentals, Implementation, and Operation of Streaming Applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T050942Z" creationid="xccui" creationdate="20190827T050942Z">
         <seg>流式应用基础、实现及操作</seg>
       </tuv>
     </tu>
