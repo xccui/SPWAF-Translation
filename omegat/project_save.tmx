@@ -23217,8 +23217,8 @@
       <tuv lang="EN-US">
         <seg>Get started with Apache Flink, the open source framework that powers some of the world's largest stream processing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T051613Z" creationid="xccui" creationdate="20190827T051613Z">
-        <seg>着手使用Apache Flink，一个为全世界多处最大规模流处理应用提供支持的开源框架。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T051759Z" creationid="xccui" creationdate="20190827T051613Z">
+        <seg>着手使用Apache Flink，一个为全世界多处最大规模级别的流处理应用提供支持的开源框架。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31667,6 +31667,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190807T033020Z" creationid="xccui" creationdate="20190807T033020Z">
         <seg>日志是你调试和理解应用行为的另一个重要工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Longtime Apache Flink committers Fabian Hueske and Vasia Kalavri show you how to implement scalable streaming applications with Flink’s DataStream API and continuously run and maintain these applications in operational environments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T052209Z" creationid="xccui" creationdate="20190827T051825Z">
+        <seg>Apache Flink项目的资深Committer费比安·霍斯克和瓦西里基·卡拉夫里，向你展示了如何使用Flink DataStream API实现可伸缩的流式应用，以及怎样在业务环境中持续运行和维护这些应用。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52677,6 +52685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190811T060816Z" creationid="xccui" creationdate="20190621T033758Z">
         <seg>记住这些，你就可以使用水位线来平衡结果的延迟和完成整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this practical book, you'll explore the fundamental concepts of parallel stream processing and discover how this technology differs from traditional batch data processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T051733Z" creationid="xccui" creationdate="20190827T051733Z">
+        <seg>通过本书，你将探索并行流处理的基本概念并了解该技术与传统批处理的区别。</seg>
       </tuv>
     </tu>
     <tu>
