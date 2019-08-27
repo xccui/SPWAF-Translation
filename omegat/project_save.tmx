@@ -31729,8 +31729,8 @@
       <tuv lang="EN-US">
         <seg>Longtime Apache Flink committers Fabian Hueske and Vasia Kalavri show you how to implement scalable streaming applications with Flink’s DataStream API and continuously run and maintain these applications in operational environments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T052209Z" creationid="xccui" creationdate="20190827T051825Z">
-        <seg>Apache Flink项目的资深Committer费比安·霍斯克和瓦西里基·卡拉夫里，向你展示了如何使用Flink DataStream API实现可伸缩的流式应用，以及怎样在业务环境中持续运行和维护这些应用。。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T060217Z" creationid="xccui" creationdate="20190827T051825Z">
+        <seg>Apache Flink项目的资深Committer费比安·霍斯克和瓦西里基·卡拉夫里向你展示了如何使用Flink DataStream API实现可伸缩的流式应用，以及怎样在业务环境中持续运行和维护这些应用。。</seg>
       </tuv>
     </tu>
     <tu>
