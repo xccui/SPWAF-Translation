@@ -6542,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>286 | Index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033922Z" creationid="xccui" creationdate="20190827T033922Z">
+        <seg>286 | 索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>288</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040449Z" creationid="xccui" creationdate="20190418T040449Z">
@@ -6566,10 +6574,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>290 | Index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033935Z" creationid="xccui" creationdate="20190827T033935Z">
+        <seg>290 | 索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>292</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190418T040457Z" creationid="xccui" creationdate="20190418T040457Z">
         <seg>292</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>292 | Index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033946Z" creationid="xccui" creationdate="20190827T033946Z">
+        <seg>292 | 索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -29523,6 +29547,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190812T032146Z" creationid="xccui" creationdate="20190623T210654Z">
         <seg>增量聚合函数。它的应用场景是窗口内以状态形式存储某个值且需要根据每个加入窗口的元素对该值进行更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Index | 287</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033929Z" creationid="xccui" creationdate="20190827T033929Z">
+        <seg>索引 | 287</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Index | 291</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033941Z" creationid="xccui" creationdate="20190827T033941Z">
+        <seg>索引 | 291</seg>
       </tuv>
     </tu>
     <tu>
