@@ -16239,6 +16239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploy and configure Flink clusters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T053201Z" creationid="xccui" creationdate="20190827T053201Z">
+        <seg>部署和配置Flink集群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploying data processing frameworks and applications on Kubernetes has become very popular.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190719T022645Z" creationid="xccui" creationdate="20190719T022645Z">
@@ -18659,6 +18667,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022853Z" creationid="xccui" creationdate="20190225T022853Z">
         <seg>显式提供TypeInformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explore Flink’s system architecture, including its event-time processing mode and fault-tolerance model</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T053029Z" creationid="xccui" creationdate="20190827T053029Z">
+        <seg>探索Flink的系统架构，包括事件时间处理模式和容错模型</seg>
       </tuv>
     </tu>
     <tu>
@@ -34207,6 +34223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operate continuously running streaming applications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T053219Z" creationid="xccui" creationdate="20190827T053219Z">
+        <seg>对持续运行的流式应用进行运维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operating Flink and Streaming</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190725T044237Z" creationid="xccui" creationdate="20190725T043122Z">
@@ -35676,6 +35700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190225T022556Z" creationid="xccui" creationdate="20190225T022556Z">
         <seg>读取输入流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read data from and write data to external systems with exactly-once consistency</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T053155Z" creationid="xccui" creationdate="20190827T053155Z">
+        <seg>以精确一次的一致性读写外部系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -49316,6 +49348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xingcan" changedate="20190802T151927Z" creationid="xingcan" creationdate="20190802T150137Z">
         <seg>在Overview中，你可以查看已触发正在进行中、已经成功完成和已经失败的检查点的数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Understand the fundamentals and building blocks of the DataStream API, including its time-based and stateful operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T053128Z" creationid="xccui" creationdate="20190827T053128Z">
+        <seg>理解DataStream API的基础知识和构成要素，包括基于时间和有状态的算子</seg>
       </tuv>
     </tu>
     <tu>
@@ -64085,6 +64125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045350Z" creationid="xccui" creationdate="20190703T024744Z">
         <seg>第56页"有状态算子"一节已经对键值组和键值状态的伸缩规则进行了介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Stream Processing with Apache Flink is a great book for everyone from old-timers in the streaming world to beginner software and data engineers writing their first stream processing jobs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T053655Z" creationid="xccui" creationdate="20190827T053655Z">
+        <seg>"无论是对在流计算领域摸爬滚打了多年的老手，还是刚刚完成第一个流处理作业的初级软件&amp;数据工程师，《基于Apache Flink的流处理》都是一本很棒的书。</seg>
       </tuv>
     </tu>
     <tu>
