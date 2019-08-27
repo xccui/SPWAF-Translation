@@ -23217,8 +23217,8 @@
       <tuv lang="EN-US">
         <seg>Get started with Apache Flink, the open source framework that powers some of the world's largest stream processing applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T051759Z" creationid="xccui" creationdate="20190827T051613Z">
-        <seg>着手使用Apache Flink，一个为全世界多处最大规模级别的流处理应用提供支持的开源框架。</seg>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T052332Z" creationid="xccui" creationdate="20190827T051613Z">
+        <seg>带你走近Apache Flink，一个为全世界多个最大规模级别的流处理应用提供支持的开源框架。</seg>
       </tuv>
     </tu>
     <tu>
