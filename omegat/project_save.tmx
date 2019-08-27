@@ -45392,6 +45392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The text font is Adobe Minion Pro; the heading font is Adobe Myriad Con‐ densed; and the code font is Dalton Maag’s Ubuntu Mono.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033823Z" creationid="xccui" creationdate="20190827T033823Z">
+        <seg>正文字体是Adobe Minion Pro，标题字体是Adobe Myriad Condensed，代码字体是Dalton Maag的Ubuntu Mono。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The third and biggest challenge that comes with stateful operators is ensuring that state can be recovered and results will be correct even in the presence of fail‐ ures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190821T045332Z" creationid="xccui" creationdate="20190606T032958Z">
