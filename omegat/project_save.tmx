@@ -18791,6 +18791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fabian Hueske is a PMC member of the Apache Flink project and has been contributing to Flink since day one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T055037Z" creationid="xccui" creationdate="20190827T055037Z">
+        <seg>费比安·霍斯克是Apache Flink项目的PMC成员，他从Flink项目创始之初就开始参与贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabian Hueske is a committer to and PMC member of the Apache Flink project and has been contributing to Flink since its earliest days.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190820T174003Z" creationid="xccui" creationdate="20190808T033204Z">
@@ -18803,6 +18811,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190808T040434Z" creationid="xccui" creationdate="20190808T034603Z">
         <seg>他同时还是Ververica（前身为data Artisans）的联合创始人和软件工程师。该公司是一家总部位于柏林的创业公司，一直以来都致力于为Flink项目和社区发展提供支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fabian is cofounder of data Artisans (now Ververica) and holds a PhD in computer science from TU Berlin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T055241Z" creationid="xccui" creationdate="20190827T055241Z">
+        <seg>费比安是data Artisans（今Ververica）公司的创始人之一，拥有柏林工业大学的计算机科学博士学位。</seg>
       </tuv>
     </tu>
     <tu>
