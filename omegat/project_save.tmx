@@ -12399,6 +12399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the book reviews Flink, it also teaches core streaming fundamentals that with help readers level up their technical thought process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T054652Z" creationid="xccui" creationdate="20190827T054652Z">
+        <seg>该书不但介绍了Flink，还涉及到很多流处理的核心基础知识，从而有助于读者技术性思维的提升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the first event comes in, it will be immediately processed with the minimum latency possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190401T205859Z" creationid="xccui" creationdate="20190401T204654Z">
