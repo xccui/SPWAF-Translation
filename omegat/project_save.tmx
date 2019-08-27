@@ -42064,6 +42064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cover fonts are Gilroy Semibold and Guardian Sans.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033708Z" creationid="xccui" creationdate="20190827T033708Z">
+        <seg>封面所用字体是Gilroy Semibold和Guardian Sans。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cover illustration is by Karen Montgomery, based on a black and white engraving from Wood’s Animate Creation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033640Z" creationid="xccui" creationdate="20190827T033640Z">
