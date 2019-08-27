@@ -42064,6 +42064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cover illustration is by Karen Montgomery, based on a black and white engraving from Wood’s Animate Creation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xccui" changedate="20190827T033640Z" creationid="xccui" creationdate="20190827T033640Z">
+        <seg>封面插图由卡伦·蒙哥马利基于Wood's Animate Creation的黑白雕刻设计。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The curl command to start an application with a default parallelism of 4 is:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xccui" changedate="20190814T212923Z" creationid="xccui" creationdate="20190729T152600Z">
